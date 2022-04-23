@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T11:00:13.805Z,61.5476,-151.7665,77.2,1.8,ml,,,,0.66,ak,ak022572a0is,2022-04-23T11:03:11.859Z,"53 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2022-04-23T10:56:25.125Z,38.5279,-119.4784,3.9,0.8,ml,8,203.92,0.039,0.163,nn,nn00837754,2022-04-23T11:00:34.964Z,"1 km N of Walker, California",earthquake,,0.6,0.54,4,automatic,nn,nn
+2022-04-23T10:55:41.226Z,63.0622,-151.4942,9.5,1.7,ml,,,,1.12,ak,ak0225720fey,2022-04-23T10:59:30.846Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-23T10:50:01.400Z,33.6406667,-116.702,12.87,0.51,ml,17,93,0.06986,0.12,ci,ci40244304,2022-04-23T10:53:25.901Z,"10km NNW of Anza, CA",earthquake,0.36,0.62,0.222,9,automatic,ci,ci
 2022-04-23T10:49:53.210Z,33.6383333,-116.706,13.78,0.34,ml,15,89,0.06583,0.06,ci,ci40244296,2022-04-23T10:53:23.177Z,"10km NNW of Anza, CA",earthquake,0.23,0.46,0.008,5,automatic,ci,ci
 2022-04-23T10:48:34.880Z,33.6415,-116.7048333,13.64,0.55,ml,20,92,0.0687,0.07,ci,ci40244288,2022-04-23T10:52:06.895Z,"10km NNW of Anza, CA",earthquake,0.19,0.36,0.153,9,automatic,ci,ci
@@ -6,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T10:43:36.692Z,63.3964,-152.0593,11.7,1.7,ml,,,,0.61,ak,ak022571xuha,2022-04-23T10:51:35.628Z,"23 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-23T10:35:09.370Z,38.1383,-118.1943,0.2,0.8,ml,8,140.71,0.269,0.3871,nn,nn00837753,2022-04-23T10:39:04.086Z,"28 km SSW of Mina, Nevada",earthquake,,102.7,0.47,5,automatic,nn,nn
 2022-04-23T10:30:43.641Z,63.6033,-148.6646,68.5,2.6,ml,,,,1.37,ak,ak022571v2p8,2022-04-23T10:48:45.423Z,"19 km SE of Denali Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-04-23T10:30:24.884Z,64.6359,-147.7349,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T10:51:44.241Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T10:30:24.884Z,64.6359,-147.7349,16.8,2.9,ml,,,,0.86,ak,ak022571v18u,2022-04-23T11:12:10.301Z,"19 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T10:23:06.806Z,61.5289,-149.9052,41.3,1.4,ml,,,,0.67,ak,ak022571thug,2022-04-23T10:25:26.057Z,"2 km ENE of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-23T10:11:08.510Z,18.0081666666667,-66.8543333333333,16.97,2.23,md,10,135,,0.09,pr,pr71345568,2022-04-23T10:43:51.550Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.37,0.46,0.0462285864031515,4,reviewed,pr,pr
 2022-04-23T10:02:31.880Z,33.3248333,-116.1456667,6.48,0.97,ml,32,70,0.1422,0.25,ci,ci40244272,2022-04-23T10:06:04.633Z,"16km SSW of Oasis, CA",earthquake,0.37,2.02,0.054,23,automatic,ci,ci
@@ -102,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T21:32:41.530Z,38.7798347,-122.7676697,1.01,1.12,md,27,87,0.009224,0.04,nc,nc73721965,2022-04-22T22:21:20.824Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.32,0.15,6,automatic,nc,nc
 2022-04-22T21:10:52.977Z,31.6918408,-104.3102548,7.725463867,2.7,ml,18,58,0.04365457108,0.3,tx,tx2022hwkt,2022-04-22T21:50:00.040Z,"54 km S of Whites City, New Mexico",earthquake,1.026159937,0.9013421563,0.1,8,reviewed,tx,tx
 2022-04-22T21:08:22.830Z,44.8133333,-110.8115,6.94,0.33,md,8,110,0.03736,0.11,uu,uu60493897,2022-04-22T21:48:16.790Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.66,0.8,0.222,4,reviewed,uu,uu
-2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T09:53:41.085Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
+2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T11:06:25.882Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
 2022-04-22T20:43:10.280Z,46.35816666666667,-122.423,3.89,0.34,ml,13,121,0.07703,0.13,uw,uw61833426,2022-04-22T23:25:48.720Z,"19 km SSE of Mossyrock, Washington",earthquake,0.75,2.09,0.1728670818875393,4,reviewed,uw,uw
 2022-04-22T20:41:26.430Z,38.7966652,-122.7555008,2.09,0.56,md,12,90,0.005144,0.01,nc,nc73721955,2022-04-22T21:29:29.507Z,"2km N of The Geysers, CA",earthquake,0.29,0.61,0.07,3,automatic,nc,nc
 2022-04-22T20:31:18.860Z,19.406665802002,-155.240997314453,2.16000008583069,1.82,ml,13,94,,0.140000001,hv,hv72992782,2022-04-22T20:36:49.410Z,"4 km S of Volcano, Hawaii",earthquake,0.33,0.300000012,1.27,4,automatic,hv,hv
@@ -225,8 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T11:15:50.860Z,38.8226662,-122.8028336,2.43,0.94,md,23,32,0.01581,0.01,nc,nc73721690,2022-04-22T11:52:15.952Z,"6km NW of The Geysers, CA",earthquake,0.19,0.46,0.05,4,automatic,nc,nc
 2022-04-22T11:15:38.030Z,38.822834,-122.803833,2.34,0.57,md,14,59,0.01878,0.01,nc,nc73721685,2022-04-22T11:42:15.882Z,"6km NW of The Geysers, CA",earthquake,0.26,0.82,,1,automatic,nc,nc
 2022-04-22T11:14:24.700Z,38.8223333,-122.8021667,2.61,2.93,md,95,23,0.006267,0.06,nc,nc73721675,2022-04-23T05:39:22.040Z,"6km NW of The Geysers, CA",earthquake,0.1,0.14,0.164,97,reviewed,nc,nc
-2022-04-22T11:07:14.914Z,40.0824,-119.6685,15.5,0.8,ml,3,178.61,0.1,0.0759,nn,nn00837726,2022-04-23T02:39:04.438Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,5.5,0,1,reviewed,nn,nn
-2022-04-22T11:06:52.150Z,19.4258327484131,-155.385665893555,7.65999984741211,1.74,ml,38,62,,0.0900000036,hv,hv72992392,2022-04-22T11:12:24.170Z,"16 km W of Volcano, Hawaii",earthquake,0.35,0.75999999,0.22,3,automatic,hv,hv
-2022-04-22T11:05:38.199Z,36.498,70.7238,146.03,4.1,mb,,95,0.637,0.53,us,us6000hfjc,2022-04-22T11:26:46.040Z,"41 km SSW of Jurm, Afghanistan",earthquake,8,3.7,0.145,13,reviewed,us,us
-2022-04-22T10:58:16.109Z,61.7762,-146.9732,29,1.4,ml,,,,1.03,ak,ak02255eho4p,2022-04-22T11:02:42.466Z,"20 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-22T10:56:51.920Z,34.2206667,-117.6298333,6.03,0.76,ml,14,86,0.05409,0.15,ci,ci40243744,2022-04-22T19:22:51.968Z,"12km NNW of Rancho Cucamonga, CA",earthquake,0.34,0.58,0.069,6,reviewed,ci,ci
