@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-15T11:12:38.420Z,34.5188333,-118.8181667,-0.21,1.14,ml,18,208,0.1233,0.2,ci,ci40019359,2022-05-15T11:16:12.551Z,"12km N of Piru, CA",earthquake,0.71,31.61,0.207,28,automatic,ci,ci
-2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-15T11:50:00.000Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
+2022-05-15T11:09:53.002Z,11.8795,142.2766,19.49,5.5,mww,,32,3.046,0.59,us,us6000hlak,2022-05-15T12:10:07.478Z,"south of the Mariana Islands",earthquake,8.9,4,0.073,18,reviewed,us,us
 2022-05-15T11:03:19.364Z,61.5237,-146.3997,16.5,2,ml,,,,0.87,ak,ak02267g4ay5,2022-05-15T11:11:04.913Z,"43 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-15T10:57:08.860Z,33.231,-116.7316667,11.21,0.47,ml,19,92,0.02324,0.19,ci,ci40019351,2022-05-15T11:00:50.419Z,"3km ESE of Lake Henshaw, CA",earthquake,0.38,0.58,0.202,10,automatic,ci,ci
 2022-05-15T10:46:04.361Z,61.7683,-150.7466,61.2,1.2,ml,,,,0.86,ak,ak02267fs1zy,2022-05-15T11:04:39.055Z,"27 km NNW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-15T02:30:29.490Z,35.9981667,-117.9,4.84,0.54,ml,10,146,0.01232,0.09,ci,ci40019127,2022-05-15T02:33:54.391Z,"7km SE of Coso Junction, CA",earthquake,0.36,0.77,0.054,5,automatic,ci,ci
 2022-05-15T02:26:33.666Z,31.5398,-115.6089,5,2.9,ml,,98,0.21,0.67,us,us6000hl8d,2022-05-15T02:56:15.409Z,"65 km ENE of San Vicente, Mexico",earthquake,2.2,2,0.057,40,reviewed,us,us
 2022-05-15T02:17:52.530Z,18.0201666666667,-66.871,16.36,1.3,md,8,106,,0.22,pr,pr71348898,2022-05-15T02:33:35.470Z,"0 km NNE of Palomas, Puerto Rico",earthquake,0.78,1.41,0.0256116860751935,4,reviewed,pr,pr
-2022-05-15T02:15:53.475Z,41.2814,-71.3875,5.65,2.5,ml,,200,0.511,0.43,us,us6000hl8b,2022-05-15T10:51:19.721Z,"17 km SSE of Narragansett Pier, Rhode Island",earthquake,2.1,6.4,0.049,54,reviewed,us,us
+2022-05-15T02:15:53.475Z,41.2814,-71.3875,5.65,2.5,ml,,200,0.511,0.43,us,us6000hl8b,2022-05-15T12:17:20.966Z,"17 km SSE of Narragansett Pier, Rhode Island",earthquake,2.1,6.4,0.049,54,reviewed,us,us
 2022-05-15T02:02:45.970Z,18.5543,-67.2526,89,3.49,md,18,187,0.2831,0.18,pr,pr2022135000,2022-05-15T03:45:31.779Z,"17 km NW of Caban, Puerto Rico",earthquake,1.01,0.81,0.08,8,reviewed,pr,pr
 2022-05-15T01:43:51.080Z,19.22483253479,-155.377166748047,32.5099983215332,2.4,ml,43,154,,0.119999997,hv,hv73012602,2022-05-15T01:49:22.710Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,1.09000003,4.09,5,automatic,hv,hv
 2022-05-15T01:24:28.820Z,35.508,-118.3876667,7.95,1.6,ml,24,63,0.1697,0.11,ci,ci40019103,2022-05-15T01:28:02.680Z,"13km SE of Bodfish, CA",earthquake,0.17,0.85,0.229,26,automatic,ci,ci
@@ -176,8 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T13:12:57.951Z,63.1711,-150.9726,10,1.2,ml,,,,0.74,ak,ak02265ttu3p,2022-05-14T13:19:39.461Z,"55 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-14T13:10:43.494Z,6.9402,-73.1682,139.55,4.2,mb,,123,1.044,1.02,us,us6000hl48,2022-05-14T17:03:13.040Z,"13 km ENE of Betulia, Colombia",earthquake,9,6.7,0.054,96,reviewed,us,us
 2022-05-14T12:40:02.080Z,46.79266666666667,-121.96416666666667,9.17,0.44,ml,15,208,0.05019,0.08,uw,uw61831102,2022-05-14T18:40:20.340Z,"6 km NE of Ashford, Washington",earthquake,0.38,0.51,0.050650307385781246,3,reviewed,uw,uw
-2022-05-14T12:22:56.875Z,-28.7118,-176.6856,10,5.3,mww,,64,1.212,0.7,us,us6000hl40,2022-05-14T13:09:58.040Z,"Kermadec Islands region",earthquake,10.6,1.9,0.086,13,reviewed,us,us
-2022-05-14T12:21:50.466Z,-29.4059,-176.1457,10,4.8,mb,,138,1.556,1.09,us,us6000hl3y,2022-05-14T13:02:20.040Z,"Kermadec Islands region",earthquake,11.1,1.9,0.067,71,reviewed,us,us
-2022-05-14T12:05:42.740Z,17.9888333333333,-66.8436666666667,16.94,1.98,md,6,178,,0.08,pr,pr71348778,2022-05-14T12:43:48.840Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.42,0.67,0.114929435849759,5,reviewed,pr,pr
-2022-05-14T12:00:09.993Z,61.7318,-146.6422,13.5,1.8,ml,,,,0.99,ak,ak02265t5q80,2022-05-14T12:03:25.686Z,"29 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-14T11:58:32.230Z,33.4516667,-116.6785,12.55,0.32,ml,16,113,0.04087,0.13,ci,ci40018471,2022-05-14T12:02:10.742Z,"12km S of Anza, CA",earthquake,0.33,0.53,0.08,8,automatic,ci,ci
