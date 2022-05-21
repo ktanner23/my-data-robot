@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-21T18:39:24.486Z,66.2011,-157.4765,7.9,1.4,ml,,,,1.03,ak,ak0226hhq5c0,2022-05-21T18:41:53.460Z,"74 km NW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-21T18:39:24.486Z,66.2011,-157.4765,7.9,1.4,ml,,,,1.03,ak,ak0226hhq5c0,2022-05-21T18:56:12.710Z,"74 km NW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-21T18:34:12.440Z,38.2454,-118.3272,9.8,1.3,ml,12,148.6,0.14,0.1182,nn,nn00839284,2022-05-21T18:37:43.203Z,"24 km SW of Mina, Nevada",earthquake,,0.8,0.26,7,automatic,nn,nn
 2022-05-21T18:17:11.650Z,17.992,-67.4376666666667,9,2.75,md,7,263,,0.16,pr,pr71349778,2022-05-21T18:40:29.620Z,"Puerto Rico region",earthquake,1.06,0.8,0.106155924835229,7,reviewed,pr,pr
 2022-05-21T18:13:50.425Z,36.773,-115.9703,12.6,-0.3,ml,11,154.56,0.034,0.1286,nn,nn00839283,2022-05-21T18:31:49.190Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T00:12:40.600Z,35.9206667,-117.6476667,2.34,1.04,ml,12,81,0.02726,0.13,ci,ci40023383,2022-05-21T00:16:12.456Z,"23km E of Little Lake, CA",earthquake,0.44,0.41,0.226,12,automatic,ci,ci
 2022-05-20T23:53:30.150Z,38.7861667,-122.767,3.17,0.13,md,28,79,0.01545,0.03,nc,nc73736136,2022-05-21T08:13:10.082Z,"1km NW of The Geysers, CA",earthquake,0.23,0.3,0.167,3,reviewed,nc,nc
 2022-05-20T23:47:48.231Z,-27.0195,-70.8296,42.13,4.6,mb,,138,0.113,0.78,us,us6000hmtc,2022-05-21T01:45:41.648Z,"62 km NW of Copiapó, Chile",earthquake,5,6.2,0.107,26,reviewed,us,us
-2022-05-20T23:38:55.820Z,51.8813333333333,-177.832166666667,6.78,0.87,ml,4,249,,0.23,av,av91059403,2022-05-21T00:19:31.440Z,"82 km W of Adak, Alaska",earthquake,1.28,2.36,0.177264446953898,4,reviewed,av,av
+2022-05-20T23:38:55.840Z,51.881,-177.832166666667,6.69,0.87,ml,4,249,,0.23,av,av91059403,2022-05-21T18:54:41.240Z,"82 km W of Adak, Alaska",earthquake,1.29,2.39,0.177264446953898,4,reviewed,av,av
 2022-05-20T23:36:50.100Z,35.955,-117.701,5.24,1.01,ml,14,93,0.04168,0.06,ci,ci40023375,2022-05-21T00:17:03.645Z,"19km E of Little Lake, CA",earthquake,0.16,0.38,0.218,11,reviewed,ci,ci
 2022-05-20T23:36:44.780Z,46.871,-121.96416666666667,5.04,-0.24,md,9,201,0.008583,0.11,uw,uw61833552,2022-05-21T03:03:54.200Z,"13 km NNE of Ashford, Washington",earthquake,0.64,0.42,0.2834451709779856,8,reviewed,uw,uw
 2022-05-20T23:28:22.380Z,37.4421,-117.6294,6.9,1.5,ml,22,72.63,0.21,0.1743,nn,nn00839237,2022-05-21T00:30:39.610Z,"34 km S of Silver Peak, Nevada",earthquake,,1.5,0.78,8,reviewed,nn,nn
@@ -204,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T19:05:37.260Z,58.2545,-155.0085,0.43,-0.04,ml,5,143,,0.09,av,av91059398,2022-05-21T00:08:12.060Z,"83 km NNW of Karluk, Alaska",earthquake,0.34,1,0.238812651747323,5,reviewed,av,av
 2022-05-20T19:04:50.070Z,17.9081666666667,-66.901,13.56,1.96,md,6,234,,0.11,pr,pr71349588,2022-05-20T19:45:54.160Z,"7 km S of Guánica, Puerto Rico",earthquake,0.96,0.5,0.0437150595435896,6,reviewed,pr,pr
 2022-05-20T19:03:21.220Z,46.0161667,-112.4601667,-2,1.37,ml,10,115,0.066,0.14,mb,mb80546579,2022-05-21T13:35:12.420Z,"5 km ENE of Butte, Montana",quarry blast,0.66,31.61,0.155,7,reviewed,mb,mb
-2022-05-20T18:57:17.580Z,47.55133333333333,-122.78616666666667,-0.36,1.01,ml,8,125,0.00258,0.08,uw,uw61842181,2022-05-20T23:38:47.600Z,"6 km WNW of Gorst, Washington",explosion,0.58,31.61,0.011176752973381165,2,reviewed,uw,uw
-2022-05-20T18:57:16.773Z,61.4896,-149.9586,46.7,1.1,ml,,,,0.81,ak,ak0226fuan4x,2022-05-20T19:09:03.052Z,"3 km S of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-05-20T18:55:29.589Z,36.75966667,-98.07066667,7.14,1.72,ml,84,82,0.1025798703,0.23,ok,ok2022jvkj,2022-05-20T19:05:46.831Z,"Oklahoma",earthquake,,0.5,0.19,34,reviewed,ok,ok
