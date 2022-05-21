@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-21T17:30:29.270Z,33.4265,-116.6123333,7.73,0.58,ml,21,63,0.06854,0.14,ci,ci40023759,2022-05-21T17:34:12.852Z,"15km SSE of Anza, CA",earthquake,0.29,0.55,0.145,15,automatic,ci,ci
 2022-05-21T17:19:40.850Z,19.404333114624,-155.260498046875,15.9200000762939,2.46,ml,51,42,,0.129999995,hv,hv73019142,2022-05-21T17:25:11.340Z,"5 km SSW of Volcano, Hawaii",earthquake,0.28,0.370000005,3.01,24,automatic,hv,hv
 2022-05-21T17:15:38.670Z,35.8641667,-117.6645,7.21,1.11,ml,15,96,0.07279,0.1,ci,ci40023743,2022-05-21T17:19:14.627Z,"23km ESE of Little Lake, CA",earthquake,0.23,0.7,0.135,14,automatic,ci,ci
 2022-05-21T17:02:42.530Z,38.8338318,-122.81633,1.86,0.36,md,9,73,0.01151,0.02,nc,nc73736366,2022-05-21T17:12:11.344Z,"8km NW of The Geysers, CA",earthquake,0.34,0.74,,1,automatic,nc,nc
@@ -34,11 +35,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T13:05:18.530Z,19.4346675872803,-155.610504150391,-1.12000000476837,1.75,md,28,73,,0.180000007,hv,hv73018952,2022-05-21T13:08:31.260Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.550000012,0.870000005,8,automatic,hv,hv
 2022-05-21T12:54:38.530Z,38.7866669,-122.7464981,1.78,0.37,md,9,96,0.008371,0.01,nc,nc73736301,2022-05-21T13:08:09.865Z,"1km NE of The Geysers, CA",earthquake,0.35,0.64,,1,automatic,nc,nc
 2022-05-21T12:50:24.510Z,37.5014992,-121.6194992,7.19,1.98,md,32,54,0.03579,0.09,nc,nc73736291,2022-05-21T14:49:10.516Z,"24km NE of Alum Rock, CA",earthquake,0.23,0.9,0.12,14,automatic,nc,nc
-2022-05-21T12:32:58.436Z,39.2238,-120.1008,8.7,0.9,ml,12,76.51,0.025,0.1094,nn,nn00839267,2022-05-21T12:36:01.132Z,"1 km WSW of Carnelian Bay, California",earthquake,,0.6,0.32,8,automatic,nn,nn
+2022-05-21T12:32:59.082Z,39.2254,-120.0901,8.1,0.9,ml,15,67.77,0.033,0.1075,nn,nn00839267,2022-05-21T17:26:32.881Z,"0 km WSW of Carnelian Bay, California",earthquake,,1,0.17,8,reviewed,nn,nn
+2022-05-21T12:31:02.247Z,39.2262,-120.0905,7.7,0.1,ml,8,85.2,0.033,0.0799,nn,nn00839274,2022-05-21T17:35:55.598Z,"0 km W of Carnelian Bay, California",earthquake,,1.2,0,1,reviewed,nn,nn
 2022-05-21T12:30:13.180Z,19.2013339996338,-155.403167724609,31.8099994659424,2.49,ml,47,158,,0.140000001,hv,hv73018922,2022-05-21T12:45:44.040Z,"7 km E of Pāhala, Hawaii",earthquake,0.54,0.660000026,3.61,26,automatic,hv,hv
 2022-05-21T12:23:02.545Z,59.9171,-152.8961,100.1,2.4,ml,,,,0.7,ak,ak0226he22jy,2022-05-21T12:58:03.040Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-21T12:19:01.562Z,38.5655,-119.5144,7.3,0.8,ml,10,158.83,0.021,0.0997,nn,nn00839266,2022-05-21T12:23:29.224Z,"0 km W of Coleville, California",earthquake,,0.7,0.16,4,automatic,nn,nn
 2022-05-21T12:16:06.360Z,38.8363342,-122.8051682,1.95,0.36,md,9,79,0.01176,0.01,nc,nc73736286,2022-05-21T14:24:10.359Z,"7km WNW of Cobb, CA",earthquake,0.4,1.26,,1,automatic,nc,nc
+2022-05-21T11:57:21.845Z,39.2272,-120.089,8.1,0.1,ml,6,86.93,0.035,0.0514,nn,nn00839273,2022-05-21T17:32:46.154Z,"0 km W of Carnelian Bay, California",earthquake,,1.5,0,1,reviewed,nn,nn
 2022-05-21T11:52:22.448Z,84.2179,-0.4147,10,4.5,mb,,86,5.609,0.72,us,us6000hmwf,2022-05-21T12:14:01.040Z,"north of Svalbard",earthquake,9.4,1.9,0.047,132,reviewed,us,us
 2022-05-21T11:22:53.334Z,64.3431,-149.703,4,1.1,ml,,,,0.78,ak,ak0226hdgj5h,2022-05-21T11:38:40.552Z,"24 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-21T11:21:26.040Z,34.0763333,-116.6723333,0,0.77,ml,9,256,0.2194,0.14,ci,ci40023623,2022-05-21T11:25:08.459Z,"9km WNW of Morongo Valley, CA",earthquake,1.5,2.96,0.219,16,automatic,ci,ci
@@ -199,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T17:40:40.398Z,64.7048,-150.6794,12.7,2.1,ml,,,,0.99,ak,ak0226ftlm7o,2022-05-20T17:51:59.034Z,"33 km S of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-20T17:37:07.740Z,44.3685,-115.1743333,4.84,1.52,ml,6,127,0.815,0.22,mb,mb80546564,2022-05-21T13:40:29.510Z,"25 km NW of Stanley, Idaho",earthquake,0.81,15.15,0.183,6,reviewed,mb,mb
 2022-05-20T17:36:55.380Z,33.9445,-118.0203333,9.82,1.56,ml,36,75,0.05661,0.2,ci,ci40023255,2022-05-20T20:17:48.658Z,"3km SE of South Whittier, CA",earthquake,0.31,0.56,0.226,18,reviewed,ci,ci
-2022-05-20T17:32:21.610Z,19.0168342590332,-155.350173950195,28.6399993896484,1.96000004,md,35,226,,0.159999996,hv,hv73018172,2022-05-20T17:35:29.730Z,"24 km SSE of Pāhala, Hawaii",earthquake,0.85,1.36000001,1.96000004,4,automatic,hv,hv
-2022-05-20T17:29:45.667Z,63.8665,-149.2853,115.2,1.5,ml,,,,0.31,ak,ak0226ftj9pk,2022-05-20T17:43:33.735Z,"15 km W of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
