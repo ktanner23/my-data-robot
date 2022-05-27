@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-27T20:48:47.514Z,63.602,-149.4513,107.1,2,ml,,,,0.44,ak,ak0226rg72qo,2022-05-27T20:52:41.105Z,"30 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-05-27T20:48:47.495Z,63.6011,-149.4528,107.3,2,ml,,,,0.43,ak,ak0226rg72qo,2022-05-27T21:00:15.300Z,"30 km WSW of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-27T20:01:12.324Z,38.1895,-117.7861,3.4,1.6,ml,16,120.2,0.128,0.1132,nn,nn00839837,2022-05-27T20:04:54.359Z,"35 km SE of Mina, Nevada",earthquake,,2,0.4,10,automatic,nn,nn
 2022-05-27T20:00:33.820Z,36.18942642,-95.9785614,10,1.94,ml,19,246.7043152,0.2557635903,0.4648130136,ok,ok2022kihb,2022-05-27T20:03:36.573Z,"4 km NNE of Tulsa, Oklahoma",earthquake,,0,,15,automatic,ok,ok
 2022-05-27T19:52:13.091Z,38.3428,-118.9155,9,1.6,ml,14,143.51,0.335,0.2196,nn,nn00839834,2022-05-27T19:55:53.379Z,"29 km ENE of Bridgeport, California",earthquake,,2,0.31,10,automatic,nn,nn
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T16:30:14.350Z,18.0328333333333,-66.8825,19.66,2.24,md,8,89,,0.16,pr,pr71351023,2022-05-27T17:03:44.930Z,"2 km NNW of Palomas, Puerto Rico",earthquake,0.98,0.74,0.105156677321198,5,reviewed,pr,pr
 2022-05-27T16:02:21.230Z,19.2198333740234,-155.511337280273,34.8199996948242,2,ml,48,65,,0.109999999,hv,hv73024787,2022-05-27T16:07:52.190Z,"3 km WNW of Pāhala, Hawaii",earthquake,0.55,0.850000024,3.9,10,automatic,hv,hv
 2022-05-27T16:01:22.790Z,33.8506667,-117.4955,2.28,1.59,ml,48,52,0.05353,0.14,ci,ci40028423,2022-05-27T18:28:27.247Z,"4km SE of Home Gardens, CA",quarry blast,0.17,0.3,0.159,20,reviewed,ci,ci
-2022-05-27T16:01:15.005Z,51.9212,-173.468,58.3,3.4,ml,,,,0.23,ak,ak0226rdj7js,2022-05-27T17:09:01.061Z,"58 km ESE of Atka, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2022-05-27T16:01:15.428Z,52.0823,-173.4957,76.58,3.5,mb,,193,0.418,0.47,us,us7000hd4x,2022-05-27T20:57:01.040Z,"49 km ESE of Atka, Alaska",earthquake,11.6,11.6,0.165,9,reviewed,us,us
 2022-05-27T15:54:20.620Z,36.6073341,-121.2095032,6.4,1.75,md,11,127,0.04051,0.06,nc,nc73738681,2022-05-27T18:25:12.121Z,"10km NW of Pinnacles, CA",earthquake,0.43,0.8,0.23,6,automatic,nc,nc
 2022-05-27T15:47:28.824Z,14.0303,144.6883,186.61,4.5,mb,,91,0.472,0.63,us,us7000hd4e,2022-05-27T16:08:26.040Z,"58 km NNW of Yigo Village, Guam",earthquake,8.9,4.5,0.094,33,reviewed,us,us
 2022-05-27T15:42:51.930Z,33.5571667,-117.9396667,9.32,1.56,ml,13,263,0.1487,0.19,ci,ci40028399,2022-05-27T18:12:29.576Z,"7km S of Newport Beach, CA",earthquake,0.83,1.3,0.119,13,reviewed,ci,ci
@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T21:15:59.610Z,52.334,-174.161333333333,3.6,0.05,ml,6,109,,0.16,av,av91060353,2022-05-27T04:54:33.690Z,"15 km N of Atka, Alaska",earthquake,0.4,0.99,0.358736445634545,6,reviewed,av,av
 2022-05-26T21:07:20.980Z,33.3473333,-116.2261667,9.45,0.87,ml,9,271,0.07142,0.12,ci,ci37419220,2022-05-26T23:38:54.275Z,"17km NE of Borrego Springs, CA",earthquake,0.71,1.04,0.158,9,reviewed,ci,ci
 2022-05-26T21:07:19.380Z,33.3423333,-116.2355,11.29,0.8,ml,23,126,0.06516,0.15,ci,ci40027583,2022-05-26T23:37:13.119Z,"16km NE of Borrego Springs, CA",earthquake,0.35,0.46,0.112,13,reviewed,ci,ci
-2022-05-26T21:01:27.260Z,38.5625,-122.437,5.97,1.09,md,20,116,0.07295,0.06,nc,nc73738346,2022-05-26T21:51:17.629Z,"2km SE of Angwin, CA",earthquake,0.31,0.63,0.169,10,reviewed,nc,nc
-2022-05-26T21:00:15.110Z,33.5058333,-116.5031667,14.33,0.72,ml,20,100,0.05653,0.14,ci,ci40027575,2022-05-26T23:26:54.780Z,"17km ESE of Anza, CA",earthquake,0.33,0.48,0.171,13,reviewed,ci,ci
-2022-05-26T20:54:11.880Z,37.551,-118.8096667,3.67,0.03,md,9,308,0.04191,0.04,nc,nc73738341,2022-05-26T21:29:24.508Z,"12km W of Toms Place, CA",earthquake,1.34,0.86,0.107,8,reviewed,nc,nc
