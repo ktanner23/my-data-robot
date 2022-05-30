@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-30T17:44:18.560Z,33.6761667,-116.7308333,16.53,0.79,ml,27,44,0.03757,0.19,ci,ci40030575,2022-05-30T17:48:00.027Z,"7km S of Idyllwild, CA",earthquake,0.38,0.57,0.127,16,automatic,ci,ci
+2022-05-30T17:21:11.628Z,19.3096,-67.882,10,2.7,ml,,213,0.921,1.23,us,us7000hdmt,2022-05-30T18:17:16.040Z,"97 km NE of Punta Cana, Dominican Republic",earthquake,5.1,2,0.061,35,reviewed,us,us
 2022-05-30T17:15:54.940Z,34.1735,-116.7346667,-0.6,1.92,ml,54,50,0.1507,0.21,ci,ci40030543,2022-05-30T17:19:51.864Z,"14km SE of Big Bear City, CA",earthquake,0.23,31.61,0.191,25,automatic,ci,ci
 2022-05-30T17:10:51.521Z,61.3282,-146.6802,19.5,1.4,ml,,,,1.07,ak,ak0226wcsohu,2022-05-30T17:16:24.515Z,"28 km NW of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-30T17:03:23.590Z,38.4436,-119.5019,0.9,1.5,ml,12,89.52,0.079,0.2654,nn,nn00839940,2022-05-30T17:07:20.790Z,"8 km SSW of Walker, California",earthquake,,4.3,0.14,8,automatic,nn,nn
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T10:34:56.540Z,33.2911667,-116.277,4.62,0.65,ml,15,127,0.07608,0.19,ci,ci40030391,2022-05-30T10:38:29.439Z,"10km ENE of Borrego Springs, CA",earthquake,0.46,0.79,0.163,8,automatic,ci,ci
 2022-05-30T10:30:00.382Z,32.11395264,-102.1385528,7.703247069999999,2.7,ml,23,54,0.02872763244,0.1,tx,tx2022knat,2022-05-30T17:06:04.225Z,"14 km NNW of Midland, Texas",earthquake,0.7277360081,0.9452352741999999,0.1,14,reviewed,tx,tx
 2022-05-30T10:10:15.337Z,59.8388,-152.7085,82.9,0.9,ml,,,,0.41,ak,ak0226w8mkgd,2022-05-30T10:14:15.850Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-30T09:50:56.330Z,40.3883333,-125.0521667,5.73,3.17,ml,46,246,0.5515,0.24,nc,nc73739346,2022-05-30T17:49:12.936Z,"65km W of Petrolia, CA",earthquake,0.86,1.55,0.192,32,reviewed,nc,nc
+2022-05-30T09:50:56.330Z,40.3883333,-125.0521667,5.73,3.64,mw,46,246,0.5515,0.24,nc,nc73739346,2022-05-30T18:11:51.520Z,"65km W of Petrolia, CA",earthquake,0.86,1.55,,3,reviewed,nc,nc
 2022-05-30T09:49:45.202Z,1.6714,99.5233,176.11,4.6,mb,,109,1.179,0.66,us,us7000hdk7,2022-05-30T11:27:08.040Z,"42 km NE of Padangsidempuan, Indonesia",earthquake,6.6,6.2,0.088,38,reviewed,us,us
 2022-05-30T09:46:21.644Z,59.7555,-153.3182,137.6,1.9,ml,,,,0.69,ak,ak0226w88v4x,2022-05-30T09:56:56.919Z,"44 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T09:27:32.650Z,19.4165000915527,-155.265167236328,3.82999992370605,1.75,md,16,68,,0.230000004,hv,hv73027832,2022-05-30T09:30:33.460Z,"4 km SW of Volcano, Hawaii",earthquake,0.57,0.75999999,1.07000005,7,automatic,hv,hv
@@ -161,5 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T18:45:49.590Z,35.521,-117.426,5.17,1.75,ml,18,72,0.0503,0.2,ci,ci40029975,2022-05-29T18:49:30.756Z,"25km NE of Johannesburg, CA",earthquake,0.45,0.89,0.131,27,automatic,ci,ci
 2022-05-29T18:39:05.920Z,39.2601662,-123.4810028,7.79,1.66,md,9,122,0.1272,0.08,nc,nc73739241,2022-05-29T19:19:16.682Z,"20km SSW of Willits, CA",earthquake,0.44,1.48,0.07,6,automatic,nc,nc
 2022-05-29T18:34:55.270Z,18.0331666666667,-66.7871666666667,18.87,2.11,md,8,151,,0.14,pr,pr71351323,2022-05-29T19:21:03.510Z,"Puerto Rico region",earthquake,0.56,1.21,0.017440020789522,4,reviewed,pr,pr
-2022-05-29T18:15:57.576Z,61.5668,-147.8458,18.9,0.7,ml,,,,0.77,ak,ak0226upvunh,2022-05-29T18:36:07.550Z,"28 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-29T18:12:40.230Z,19.1935005187988,-155.403167724609,31.9599990844727,2.25999999,md,33,168,,0.100000001,hv,hv73027027,2022-05-29T18:15:51.070Z,"8 km E of Pāhala, Hawaii",earthquake,0.54,0.879999995,2.11999989,6,automatic,hv,hv
