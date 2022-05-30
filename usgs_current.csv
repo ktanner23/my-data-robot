@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-30T14:34:38.787Z,63.276,-147.136,0,3.2,ml,,,,0.92,ak,ak0226wb5huj,2022-05-30T14:38:25.928Z,"79 km WNW of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-30T14:32:57.341Z,60.6964,-143.6375,9.9,1.7,ml,,,,0.83,ak,ak0226wb53vq,2022-05-30T14:42:55.639Z,"90 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-30T14:31:22.200Z,64.2243,-150.3038,16.3,3.2,ml,,,,0.87,ak,ak0226wb4tdp,2022-05-30T14:36:13.476Z,"54 km W of Clear, Alaska, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-30T14:32:57.341Z,60.6964,-143.6375,9.9,1.7,ml,,,,0.83,ak,ak0226wb53vq,2022-05-30T14:45:14.768Z,"90 km SSW of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-30T14:31:22.200Z,64.2243,-150.3038,16.3,3.2,ml,,,,0.87,ak,ak0226wb4tdp,2022-05-30T14:44:39.040Z,"54 km W of Clear, Alaska, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-30T14:27:59.650Z,36.0761667,-117.8776667,2.89,0.87,ml,13,110,0.04527,0.08,ci,ci40030503,2022-05-30T14:31:29.620Z,"7km ENE of Coso Junction, CA",earthquake,0.23,0.53,0.219,12,automatic,ci,ci
 2022-05-30T13:59:20.580Z,34.0426667,-116.8338333,14.27,0.97,ml,31,80,0.0229,0.18,ci,ci40030495,2022-05-30T14:02:47.428Z,"14km NNE of Banning, CA",earthquake,0.32,0.48,0.162,21,automatic,ci,ci
 2022-05-30T13:50:58.467Z,64.5771,-149.3684,31.7,0.7,ml,,,,1.11,ak,ak0226wanj92,2022-05-30T13:53:07.955Z,"12 km WSW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T08:38:04.136Z,38.5069,-119.5228,4.6,1,ml,12,196.5,0.066,0.1541,nn,nn00839920,2022-05-30T08:42:11.774Z,"4 km WSW of Walker, California",earthquake,,1,0.12,4,automatic,nn,nn
 2022-05-30T08:06:06.073Z,60.0861,-152.5668,94.4,1.2,ml,,,,0.26,ak,ak0226w7etof,2022-05-30T08:28:28.045Z,"49 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-30T08:04:11.650Z,17.9033333333333,-66.762,1.52,2.26,md,14,235,,0.22,pr,pr71351418,2022-05-30T08:34:28.240Z,"11 km SSW of Tallaboa, Puerto Rico",earthquake,0.92,1.2,0.112828721322966,10,reviewed,pr,pr
-2022-05-30T07:54:39.186Z,38.1602,-118.2326,5,0.6,ml,9,174.52,0.233,0.1059,nn,nn00839918,2022-05-30T07:58:29.864Z,"27 km SSW of Mina, Nevada",earthquake,,23.2,0.28,6,automatic,nn,nn
+2022-05-30T07:54:39.583Z,38.1675,-118.2258,14.5,0.6,ml,11,170.73,0.235,0.1578,nn,nn00839918,2022-05-30T14:43:52.288Z,"26 km SSW of Mina, Nevada",earthquake,,4.6,0.29,4,reviewed,nn,nn
 2022-05-30T07:53:03.030Z,33.6068333,-116.6895,3.17,0.55,ml,13,73,0.05744,0.32,ci,ci40030375,2022-05-30T07:56:34.478Z,"6km NNW of Anza, CA",earthquake,0.68,2.02,0.141,8,automatic,ci,ci
 2022-05-30T07:39:54.282Z,61.7333,-151.8304,91.7,1.9,ml,,,,0.48,ak,ak0226w70kdf,2022-05-30T07:43:02.229Z,"36 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-30T07:29:48.540Z,32.5463333,-115.5216667,1.71,1.21,ml,11,165,0.201,0.2,ci,ci40030367,2022-05-30T07:33:24.842Z,"7km ESE of Progreso, B.C., MX",earthquake,0.69,1.15,0.178,10,automatic,ci,ci
@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T06:36:20.920Z,35.6631667,-117.4721667,8.71,2.28,ml,26,90,0.07693,0.12,ci,ci40030343,2022-05-30T06:47:13.840Z,"13km SSW of Searles Valley, CA",earthquake,0.26,0.62,0.15,25,automatic,ci,ci
 2022-05-30T06:29:12.290Z,33.3053333,-116.2948333,5.11,0.79,ml,21,154,0.05821,0.33,ci,ci40030335,2022-05-30T06:32:44.970Z,"9km NE of Borrego Springs, CA",earthquake,0.71,0.93,0.123,13,automatic,ci,ci
 2022-05-30T06:19:42.550Z,19.1984996795654,-155.424835205078,34.2599983215332,2.26999998,md,44,148,,0.119999997,hv,hv73027667,2022-05-30T06:23:00.710Z,"5 km E of Pāhala, Hawaii",earthquake,0.55,0.639999986,0.730000019,21,automatic,hv,hv
-2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T14:05:56.553Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
+2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T14:43:48.778Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
 2022-05-30T05:56:29.494Z,38.5844,-119.4619,8.9,1.1,ml,11,76.18,0.045,0.171,nn,nn00839913,2022-05-30T05:59:50.308Z,"4 km ENE of Coleville, California",earthquake,,0.7,0.31,5,automatic,nn,nn
 2022-05-30T05:54:37.767Z,39.409,-119.9346,8.2,0.5,ml,9,65.32,0.125,0.0728,nn,nn00839927,2022-05-30T14:15:45.872Z,"7 km ENE of Floriston, California",earthquake,,2.5,0.16,3,reviewed,nn,nn
 2022-05-30T05:53:29.910Z,36.096,-117.8695,2.08,0.79,ml,9,164,0.02458,0.07,ci,ci40030319,2022-05-30T05:57:02.754Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.21,0.093,6,automatic,ci,ci
