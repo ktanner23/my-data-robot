@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-30T16:22:02.270Z,35.6069984,-117.4053345,3.13,1.38,ml,20,107,0.05066,0.14,ci,ci40030527,2022-05-30T16:24:05.920Z,"18km S of Trona, CA",earthquake,0.37,0.53,0.265,5,automatic,ci,ci
-2022-05-30T16:18:38.239Z,63.275,-151.7609,0,1.4,ml,,,,0.94,ak,ak0226wc8xlb,2022-05-30T16:22:52.714Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-30T16:12:30.073Z,64.4973,-149.3094,3.5,1.9,ml,,,,0.87,ak,ak0226wc7mn5,2022-05-30T16:22:53.855Z,"12 km SW of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-30T16:22:02.340Z,35.6061667,-117.4086667,4.42,1.27,ml,15,137,0.04784,0.15,ci,ci40030527,2022-05-30T16:33:16.020Z,"18km S of Trona, CA",earthquake,0.36,0.59,0.158,17,automatic,ci,ci
+2022-05-30T16:18:38.239Z,63.275,-151.7609,0,1.4,ml,,,,0.94,ak,ak0226wc8xlb,2022-05-30T16:31:47.886Z,"29 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-30T16:12:30.073Z,64.4973,-149.3094,3.5,1.9,ml,,,,0.87,ak,ak0226wc7mn5,2022-05-30T16:28:15.787Z,"12 km SW of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-30T15:59:59.980Z,19.1988334655762,-155.391830444336,32.7599983215332,2.26,ml,49,161,,0.109999999,hv,hv73028112,2022-05-30T16:11:25.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.49,0.610000014,3.4,18,automatic,hv,hv
 2022-05-30T15:53:45.670Z,37.3338318,-119.1613312,4.01,2.16,md,6,224,0.4408,0.16,nc,nc73739371,2022-05-30T16:15:13.348Z,"29km NNE of Shaver Lake, CA",earthquake,2.77,15.71,0.06,4,automatic,nc,nc
 2022-05-30T15:53:42.380Z,36.0758333,-117.8775,2.31,1.58,ml,20,64,0.04552,0.17,ci,ci40030519,2022-05-30T16:04:07.990Z,"7km ENE of Coso Junction, CA",earthquake,0.26,0.31,0.222,25,automatic,ci,ci
@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T06:36:20.920Z,35.6631667,-117.4721667,8.71,2.28,ml,26,90,0.07693,0.12,ci,ci40030343,2022-05-30T06:47:13.840Z,"13km SSW of Searles Valley, CA",earthquake,0.26,0.62,0.15,25,automatic,ci,ci
 2022-05-30T06:29:12.290Z,33.3053333,-116.2948333,5.11,0.79,ml,21,154,0.05821,0.33,ci,ci40030335,2022-05-30T06:32:44.970Z,"9km NE of Borrego Springs, CA",earthquake,0.71,0.93,0.123,13,automatic,ci,ci
 2022-05-30T06:19:42.550Z,19.1984996795654,-155.424835205078,34.2599983215332,2.26999998,md,44,148,,0.119999997,hv,hv73027667,2022-05-30T06:23:00.710Z,"5 km E of Pāhala, Hawaii",earthquake,0.55,0.639999986,0.730000019,21,automatic,hv,hv
-2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T15:49:51.158Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
+2022-05-30T06:07:30.290Z,35.6925,-81.1018333,0.31,1.77,md,7,229,0.1836,0.26,se,se60151748,2022-05-30T16:28:52.484Z,"North Carolina",earthquake,1.49,7.66,0.011,6,reviewed,se,se
 2022-05-30T05:56:29.494Z,38.5844,-119.4619,8.9,1.1,ml,11,76.18,0.045,0.171,nn,nn00839913,2022-05-30T05:59:50.308Z,"4 km ENE of Coleville, California",earthquake,,0.7,0.31,5,automatic,nn,nn
 2022-05-30T05:54:37.767Z,39.409,-119.9346,8.2,0.5,ml,9,65.32,0.125,0.0728,nn,nn00839927,2022-05-30T14:15:45.872Z,"7 km ENE of Floriston, California",earthquake,,2.5,0.16,3,reviewed,nn,nn
 2022-05-30T05:53:29.910Z,36.096,-117.8695,2.08,0.79,ml,9,164,0.02458,0.07,ci,ci40030319,2022-05-30T05:57:02.754Z,"9km NE of Coso Junction, CA",earthquake,0.38,0.21,0.093,6,automatic,ci,ci
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-30T02:06:11.780Z,17.888,-66.8593333333333,12.87,2.05,md,8,238,,0.11,pr,pr71351383,2022-05-30T03:22:00.010Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.71,0.57,0.0629691271306946,8,reviewed,pr,pr
 2022-05-30T02:03:55.940Z,37.8886667,-78.0351667,5.46,2.3,md,10,95,0.1446,0.27,se,se60151743,2022-05-30T15:29:58.152Z,"15 km S of Louisa, Virginia",earthquake,0.78,1.96,0.071,10,reviewed,se,se
 2022-05-30T01:51:25.170Z,33.2518333,-116.2383333,7.49,0.84,ml,24,76,0.1254,0.24,ci,ci40030199,2022-05-30T01:54:58.242Z,"13km E of Borrego Springs, CA",earthquake,0.59,1.17,0.083,16,automatic,ci,ci
-2022-05-30T01:47:18.051Z,62.3385,-149.5765,18.5,2,ml,,,,0.83,ak,ak0226w3hlsv,2022-05-30T01:51:07.044Z,"24 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-30T01:47:19.075Z,62.3447,-149.3997,52.9,2,ml,,,,0.24,ak,ak0226w3hlsv,2022-05-30T16:40:24.010Z,"31 km NE of Susitna North, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-05-30T01:33:46.107Z,59.7945,-152.2967,63.5,1,ml,,,,0.91,ak,ak0226w3env6,2022-05-30T01:50:00.205Z,"26 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-05-30T01:33:28.820Z,36.0953333,-117.8545,3.98,1.03,ml,12,81,0.0222,0.2,ci,ci40030191,2022-05-30T01:37:06.285Z,"10km ENE of Coso Junction, CA",earthquake,0.52,0.7,0.286,13,automatic,ci,ci
 2022-05-30T01:29:37.660Z,38.8253326,-122.7973328,2.69,1.61,md,9,120,0.01741,0.05,nc,nc73739306,2022-05-30T03:41:23.770Z,"6km NNW of The Geysers, CA",earthquake,0.33,0.66,0.06,10,automatic,nc,nc
@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-29T17:12:28.020Z,37.4068333,-118.368,4.1,2.18,md,30,79,0.05344,0.06,nc,nc73739201,2022-05-30T02:51:10.449Z,"5km ENE of Dixon Lane-Meadow Creek, CA",earthquake,0.18,0.37,0.176,31,reviewed,nc,nc
 2022-05-29T17:10:07.229Z,63.001,-149.6575,96.2,1,ml,,,,0.69,ak,ak0226up98ky,2022-05-29T17:13:34.074Z,"56 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-05-29T16:54:49.634Z,51.4869,175.5282,35,3.6,mb,,234,1.524,0.45,us,us7000hdh6,2022-05-29T21:07:09.040Z,"220 km SE of Attu Station, Alaska",earthquake,5.7,2,0.176,9,reviewed,us,us
-2022-05-29T16:24:56.858Z,43.0089,-127.507,10,3.5,ml,,296,2.137,0.49,us,us7000hdg8,2022-05-29T17:02:12.040Z,"247 km W of Port Orford, Oregon",earthquake,4.9,2,0.05,53,reviewed,us,us
