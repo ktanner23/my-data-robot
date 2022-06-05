@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-05T07:09:37.489Z,38.5408,-119.5538,6.3,1,ml,8,278.47,0.052,0.1522,nn,nn00840341,2022-06-05T07:13:53.203Z,"4 km SW of Coleville, California",earthquake,,3.5,0.3,4,automatic,nn,nn
 2022-06-05T06:58:52.685Z,61.1189,-151.2188,48.9,1.3,ml,,,,0.69,ak,ak022763ra9q,2022-06-05T07:01:48.890Z,"7 km NW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-06-05T06:56:05.110Z,33.1456667,-116.4721667,6.25,0.55,ml,15,157,0.1234,0.19,ci,ci40034119,2022-06-05T06:59:40.166Z,"14km ENE of Julian, CA",earthquake,0.65,1.21,0.031,4,automatic,ci,ci
-2022-06-05T06:45:28.760Z,38.7836685,-122.760498,1.61,2,md,15,80,0.03645,0.13,nc,nc73740766,2022-06-05T06:52:10.457Z,"1km NNW of The Geysers, CA",earthquake,0.33,1.08,0.13,13,automatic,nc,nc
+2022-06-05T06:45:28.760Z,38.7836685,-122.760498,1.61,2,md,15,80,0.03645,0.13,nc,nc73740766,2022-06-05T07:42:14.759Z,"1km NNW of The Geysers, CA",earthquake,0.33,1.08,0.13,13,automatic,nc,nc
 2022-06-05T06:40:41.530Z,35.7445,-117.5421667,9.56,1.19,ml,11,160,0.08413,0.21,ci,ci40034111,2022-06-05T06:44:14.997Z,"13km WSW of Searles Valley, CA",earthquake,0.58,1.14,0.111,12,automatic,ci,ci
 2022-06-05T06:29:13.206Z,63.3791,-151.3539,0,1.7,ml,,,,1.04,ak,ak022763kzg6,2022-06-05T06:32:47.254Z,"25 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-05T06:20:09.420Z,18.3295,-67.1431666666667,16.12,2.9,md,14,95,,0.25,pr,pr71352468,2022-06-05T07:19:53.640Z,"4 km N of Las Marias, Puerto Rico",earthquake,0.55,0.64,0.211586705891827,5,reviewed,pr,pr
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T17:28:45.799Z,38.0942,-118.2448,0,0.6,ml,8,201.12,0.258,0.187,nn,nn00840309,2022-06-04T21:28:01.301Z,"34 km SSW of Mina, Nevada",earthquake,,0,0.19,6,automatic,nn,nn
 2022-06-04T17:05:10.062Z,38.4955,-119.5207,7.9,1.3,ml,14,91.87,0.065,0.1388,nn,nn00840305,2022-06-04T21:27:35.712Z,"4 km WSW of Walker, California",earthquake,,0.7,0.2,10,automatic,nn,nn
 2022-06-04T16:59:43.703Z,61.5025,-141.0491,2,1.9,ml,,,,0.64,ak,ak02274m6gu5,2022-06-04T17:06:53.386Z,"100 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T21:41:47.040Z,"75 km NE of Samaná, Dominican Republic",earthquake,3,9.98,0.52,4,reviewed,pr,pr
+2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T21:41:47.040Z,"Dominican Republic region",earthquake,3,9.98,0.52,4,reviewed,pr,pr
 2022-06-04T16:56:56.910Z,19.3383333333333,-68.9686666666667,53.8,3.43,md,10,212,,0.56,pr,pr71352393,2022-06-04T18:55:01.940Z,"40 km NNE of Miches, Dominican Republic",earthquake,7.82,3.6,0.0209073856908701,2,reviewed,pr,pr
 2022-06-04T16:51:34.050Z,33.5643333,-116.796,4.94,1.14,ml,43,37,0.03958,0.16,ci,ci40033855,2022-06-04T16:55:24.745Z,"11km W of Anza, CA",earthquake,0.18,0.45,0.2,28,automatic,ci,ci
 2022-06-04T16:51:29.210Z,33.614,-116.4373333,22.06,1.23,ml,26,246,0.09088,0.32,ci,ci40033847,2022-06-04T16:55:08.976Z,"13km WSW of La Quinta, CA",earthquake,1.78,1.31,0.171,3,automatic,ci,ci
@@ -161,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T08:12:04.204Z,-23.6327,-179.7499,536.55,4.6,mb,,125,5.841,0.54,us,us7000hew7,2022-06-04T08:29:58.040Z,"south of the Fiji Islands",earthquake,14.4,11.5,0.1,30,reviewed,us,us
 2022-06-04T07:53:17.000Z,17.946,-66.8736666666667,16.07,2.3,md,10,199,,0.09,pr,pr71352308,2022-06-04T10:05:47.720Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.44,0.48,0.0374319272827495,7,reviewed,pr,pr
 2022-06-04T07:51:19.340Z,19.2003326416016,-155.476501464844,32.9300003051758,2.04,ml,40,88,,0.140000001,hv,hv73033262,2022-06-04T07:56:50.870Z,"0 km SE of Pāhala, Hawaii",earthquake,0.51,0.899999976,4.33,5,automatic,hv,hv
-2022-06-04T07:38:23.630Z,18.8665,-65.2175,43,3.78,md,20,283,0.5628,0.32,pr,pr2022155003,2022-06-04T08:46:24.681Z,"62 km N of Culebra, Puerto Rico",earthquake,2.27,5.63,0.1,12,reviewed,pr,pr
-2022-06-04T07:37:03.378Z,53.9951,-166.071,12.3,0.8,ml,,,,0.28,ak,ak02274gonws,2022-06-04T16:41:55.361Z,"24 km SW of Akutan, Alaska",earthquake,,1.5,,,reviewed,ak,ak
