@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T02:13:39.224Z,4.7124,95.0983,67.33,4.5,mb,,168,1.912,0.68,us,us7000hfhh,2022-06-07T04:26:33.040Z,"95 km SSW of Banda Aceh, Indonesia",earthquake,10.7,8.9,0.101,29,reviewed,us,us
 2022-06-07T02:10:45.480Z,19.1324996948242,-155.495834350586,28.7099990844727,1.89,ml,21,219,,0.129999995,hv,hv73036367,2022-06-07T02:16:58.620Z,"8 km SSW of Pāhala, Hawaii",earthquake,1.2,0.860000014,4.42,3,automatic,hv,hv
 2022-06-07T02:07:07.850Z,19.1553325653076,-155.496826171875,32.2799987792969,2.26999998,md,43,127,,0.109999999,hv,hv73036357,2022-06-07T02:10:26.510Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.57,0.99000001,0.980000019,25,automatic,hv,hv
-2022-06-07T01:58:28.760Z,45.616,-122.44716666666666,3.75,2.7800000000000002,ml,18,103,0.03485,0.12,uw,uw61840137,2022-06-07T12:34:19.369Z,"Washington-Oregon border region",earthquake,0.45,1.5,0.02903900616231936,4,reviewed,uw,uw
+2022-06-07T01:58:28.760Z,45.616,-122.44716666666666,3.75,2.7800000000000002,ml,18,103,0.03485,0.12,uw,uw61840137,2022-06-07T12:52:21.258Z,"Washington-Oregon border region",earthquake,0.45,1.5,0.02903900616231936,4,reviewed,uw,uw
 2022-06-07T01:57:53.983Z,25.6926,123.479,211.56,5.1,mww,,30,1.291,0.66,us,us7000hfhd,2022-06-07T12:21:55.780Z,"144 km NNE of Yonakuni, Japan",earthquake,7,4.4,0.063,24,reviewed,us,us
 2022-06-07T01:46:58.851Z,31.59674425,-104.2624259,7.905419922,2.3,ml,18,72,0.1807417866,0.3,tx,tx2022lazn,2022-06-07T04:12:47.189Z,"54 km NW of Toyah, Texas",earthquake,1.648961425,2.792076151,0.2,13,reviewed,tx,tx
 2022-06-07T01:45:17.200Z,61.5842,-151.4007,73.9,1.5,ml,,,,0.62,ak,ak02279bry6g,2022-06-07T01:47:45.033Z,"45 km S of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T01:14:35.140Z,35.9028333,-117.737,8.91,0.7,ml,11,67,0.0803,0.05,ci,ci40035199,2022-06-07T01:18:11.393Z,"16km ESE of Little Lake, CA",earthquake,0.16,0.63,0.174,5,automatic,ci,ci
 2022-06-07T00:57:25.696Z,-18.1508,167.3406,10,4.9,mb,,70,2.691,1.04,us,us7000hfgp,2022-06-07T01:23:30.040Z,"112 km WSW of Port-Vila, Vanuatu",earthquake,3.9,1.9,0.059,89,reviewed,us,us
 2022-06-07T00:53:37.690Z,17.9578333333333,-66.9896666666667,9.74,2.24,md,11,203,,0.05,pr,pr71352698,2022-06-07T01:08:49.860Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.39,0.56,0.10400833373113,6,reviewed,pr,pr
-2022-06-07T00:35:10.078Z,36.69845581,-97.66661835,2.514892817,2.08,ml,41,89.39041901,0.2153604925,0.4992638139,ok,ok2022laxd,2022-06-07T00:39:18.265Z,"9 km W of Lamont, Oklahoma",earthquake,2.374324685,1.566489812,,30,automatic,ok,ok
+2022-06-07T00:35:09.720Z,36.698,-97.669,5,1.94,ml,94,51,0,0.26,ok,ok2022laxd,2022-06-07T12:38:39.680Z,"9 km W of Lamont, Oklahoma",earthquake,,0.5,0.27,35,reviewed,ok,ok
 2022-06-07T00:32:50.320Z,32.4943333,-116.3018333,15.85,2.59,ml,29,92,0.2141,0.19,ci,ci40035191,2022-06-07T01:05:59.040Z,"20km SE of Campo, CA",earthquake,0.43,1.18,0.255,26,automatic,ci,ci
 2022-06-06T23:56:45.510Z,-4.6055,133.6012,10,4.5,mb,,109,2.151,0.74,us,us7000hfgi,2022-06-07T00:19:58.040Z,"147 km NE of Tual, Indonesia",earthquake,9.1,1.9,0.113,23,reviewed,us,us
 2022-06-06T23:46:44.120Z,35.7178333,-117.5633333,2.92,1.64,ml,20,60,0.1016,0.24,ci,ci40035167,2022-06-06T23:50:33.746Z,"15km NE of Ridgecrest, CA",earthquake,0.45,0.8,0.145,23,automatic,ci,ci
@@ -122,6 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-06T18:58:38.980Z,34.9863333,-118.1853333,0.28,1.2,ml,20,80,0.113,0.19,ci,ci40035015,2022-06-06T19:02:23.865Z,"7km S of Mojave, CA",earthquake,0.36,31.61,0.098,14,automatic,ci,ci
 2022-06-06T18:48:55.150Z,33.7136667,-117.3411667,1.14,0.87,ml,20,78,0.05172,0.16,ci,ci40035007,2022-06-06T18:52:28.555Z,"5km NNW of Lake Elsinore, CA",earthquake,0.37,0.62,0.204,20,automatic,ci,ci
 2022-06-06T18:48:08.141Z,62.7365,-151.7807,0,1,ml,,,,0.81,ak,ak02277ydlex,2022-06-06T18:50:56.186Z,"58 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-06-06T18:44:33.617Z,-21.5211,-68.7599,123.03,4.4,mb,,55,0.525,1.16,us,us7000hfeb,2022-06-07T12:48:23.040Z,"104 km N of Calama, Chile",earthquake,5.5,6,0.189,8,reviewed,us,us
 2022-06-06T18:42:11.717Z,-29.4823,-176.5029,10,5.5,mww,,145,1.256,0.96,us,us7000hfec,2022-06-06T21:26:09.039Z,"Kermadec Islands region",earthquake,4.8,1.8,0.054,33,reviewed,us,us
 2022-06-06T18:39:04.620Z,34.3145,-117.5291667,10.63,1.44,ml,38,40,0.09685,0.21,ci,ci40034991,2022-06-06T18:50:11.510Z,"7km NNW of Lytle Creek, CA",earthquake,0.28,0.75,0.212,28,automatic,ci,ci
 2022-06-06T18:34:50.666Z,36.768,-116.2708,5,0.6,ml,18,66.99,0.058,0.1357,nn,nn00840395,2022-06-07T02:37:41.041Z,"46 km ESE of Beatty, Nevada",earthquake,,1.6,0.84,10,reviewed,nn,nn
