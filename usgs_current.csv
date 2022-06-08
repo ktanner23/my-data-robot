@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-08T18:26:56.970Z,36.2613335,-120.4606705,2.41,1.4,md,5,195,0.1038,0.01,nc,nc73741781,2022-06-08T18:30:01.550Z,"16km NW of Coalinga, CA",earthquake,0.86,1.82,0.09,4,automatic,nc,nc
+2022-06-08T18:26:56.970Z,36.2613335,-120.4606705,2.41,1.4,md,5,195,0.1038,0.01,nc,nc73741781,2022-06-08T18:38:10.498Z,"16km NW of Coalinga, CA",earthquake,0.86,1.82,0.09,4,automatic,nc,nc
 2022-06-08T18:26:01.484Z,60.0426,-153.0173,117.9,0.9,ml,,,,0.51,ak,ak0227b9bk56,2022-06-08T18:30:46.592Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-08T18:19:30.190Z,19.2281665802002,-155.38166809082,34.6399993896484,1.88,md,26,157,,0.170000002,hv,hv73038317,2022-06-08T18:22:42.550Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.74,1.13,1.39999998,6,automatic,hv,hv
 2022-06-08T18:16:51.710Z,35.611,-117.468,5.29,1.08,ml,12,107,0.0249,0.21,ci,ci40036543,2022-06-08T18:20:30.131Z,"18km SSW of Searles Valley, CA",earthquake,0.49,0.97,0.178,9,automatic,ci,ci
@@ -61,6 +61,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T11:23:07.830Z,38.814167,-122.7626648,1.85,1.09,md,20,108,0.01372,0.03,nc,nc73741466,2022-06-08T13:22:16.691Z,"4km WSW of Cobb, CA",earthquake,0.26,0.46,0.16,4,automatic,nc,nc
 2022-06-08T11:04:31.350Z,35.9188333,-117.7043333,6.27,0.4,ml,15,64,0.08498,0.13,ci,ci40036255,2022-06-08T14:39:30.787Z,"18km E of Little Lake, CA",earthquake,0.24,0.64,0.069,2,reviewed,ci,ci
 2022-06-08T11:02:05.400Z,33.9866667,-116.6036667,13.63,0.59,ml,18,66,0.06347,0.18,ci,ci40036247,2022-06-08T11:05:39.559Z,"7km SSW of Morongo Valley, CA",earthquake,0.42,1.01,0.096,11,automatic,ci,ci
+2022-06-08T10:56:48.620Z,35.9213333,-117.7091667,3.92,0.57,ml,14,74,0.08839,0.1,ci,ci37502309,2022-06-08T18:40:43.064Z,"18km E of Little Lake, CA",earthquake,0.2,0.46,0.142,6,reviewed,ci,ci
+2022-06-08T10:56:27.880Z,35.9218333,-117.7071667,4.1,0.86,ml,23,66,0.08671,0.12,ci,ci40036239,2022-06-08T18:38:48.050Z,"18km E of Little Lake, CA",earthquake,0.16,0.35,0.117,8,reviewed,ci,ci
+2022-06-08T10:50:12.660Z,35.9223333,-117.707,4.79,1,mh,14,67,0.0865,0.06,ci,ci40036231,2022-06-08T18:44:29.089Z,"18km E of Little Lake, CA",earthquake,0.12,0.23,,0,reviewed,ci,ci
 2022-06-08T10:49:48.550Z,35.9226667,-117.7068333,4.51,0.16,ml,12,67,0.08631,0.07,ci,ci37502301,2022-06-08T18:20:08.452Z,"18km E of Little Lake, CA",earthquake,0.14,0.31,0.149,5,reviewed,ci,ci
 2022-06-08T10:49:25.850Z,35.9151667,-117.7081667,3.01,-0.14,ml,7,88,0.08881,0.05,ci,ci37502317,2022-06-08T18:23:56.966Z,"18km E of Little Lake, CA",earthquake,0.2,4.66,0.11,2,reviewed,ci,ci
 2022-06-08T10:42:11.010Z,19.1949996948242,-155.497833251953,34.4300003051758,2.03999996,md,43,78,,0.129999995,hv,hv73038017,2022-06-08T10:45:35.260Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.67,0.959999979,0.439999998,17,automatic,hv,hv
@@ -221,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T18:56:01.580Z,34.9876667,-118.1861667,-0.87,1.33,ml,26,53,0.1141,0.28,ci,ci40035655,2022-06-07T20:36:26.314Z,"7km S of Mojave, CA",quarry blast,0.48,31.61,0.066,15,reviewed,ci,ci
 2022-06-07T18:54:33.960Z,34.1881667,-117.5656667,8.04,1.17,ml,37,67,0.06855,0.14,ci,ci40035647,2022-06-08T01:08:19.128Z,"7km N of Rancho Cucamonga, CA",earthquake,0.19,0.36,0.094,16,reviewed,ci,ci
 2022-06-07T18:47:06.130Z,37.5696667,-118.827,3.23,-0.02,md,10,231,0.02039,0.02,nc,nc73741191,2022-06-07T19:57:19.521Z,"13km W of Toms Place, CA",earthquake,1.01,1.02,0.186,8,reviewed,nc,nc
-2022-06-07T18:45:38.350Z,36.0728333,-117.8535,2.33,0.48,ml,10,154,0.04467,0.08,ci,ci40035639,2022-06-07T20:28:32.062Z,"9km ENE of Coso Junction, CA",earthquake,0.25,0.21,0.041,4,reviewed,ci,ci
-2022-06-07T18:45:36.620Z,34.6051667,-117.1488333,-0.8,1.07,ml,12,132,0.1556,0.23,ci,ci37422124,2022-06-07T20:26:56.378Z,"12km NNE of Apple Valley, CA",quarry blast,0.75,31.61,0.108,5,reviewed,ci,ci
-2022-06-07T18:36:42.260Z,33.2111667,-116.7231667,12.26,0.51,ml,23,40,0.03876,0.13,ci,ci40035631,2022-06-07T20:01:04.031Z,"5km SE of Lake Henshaw, CA",earthquake,0.23,0.4,0.112,7,reviewed,ci,ci
