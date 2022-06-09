@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-09T20:47:03.930Z,38.8366661,-122.7734985,1.29,0.85,md,7,189,0.006345,0.01,nc,nc73743386,2022-06-09T20:48:37.574Z,"5km WNW of Cobb, CA",earthquake,0.8,1.05,,1,automatic,nc,nc
+2022-06-09T20:47:03.930Z,38.8366661,-122.7734985,1.29,0.85,md,7,189,0.006345,0.01,nc,nc73743386,2022-06-09T20:56:11.063Z,"5km WNW of Cobb, CA",earthquake,0.8,1.05,,1,automatic,nc,nc
 2022-06-09T20:34:45.143Z,38.6351,-117.1217,0,1.5,ml,10,229.17,0.724,0.3285,nn,nn00840663,2022-06-09T20:39:00.115Z,"63 km N of Tonopah, Nevada",earthquake,,39.8,0.42,6,automatic,nn,nn
-2022-06-09T20:27:59.930Z,44.7676667,-110.8598333,6.37,2.03,ml,18,75,0.0217,0.15,uu,uu60500997,2022-06-09T20:41:46.080Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.39,0.76,0.335,5,reviewed,uu,uu
+2022-06-09T20:27:59.980Z,44.765,-110.8606667,5.65,2.03,ml,19,86,0.02443,0.16,uu,uu60500997,2022-06-09T20:51:02.710Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.33,0.8,0.335,5,reviewed,uu,uu
 2022-06-09T20:25:47.880Z,17.9955,-66.9396666666667,16.4,2.13,md,8,147,,0.11,pr,pr71353268,2022-06-09T20:45:28.350Z,"2 km WNW of Fuig, Puerto Rico",earthquake,0.5,0.79,0.180724581657127,3,reviewed,pr,pr
 2022-06-09T20:01:06.940Z,32.8245,-117.0643333,-0.1,1.11,ml,23,88,0.07406,0.25,ci,ci40037351,2022-06-09T20:28:25.369Z,"7km NNW of La Mesa, CA",quarry blast,0.62,31.61,0.122,7,reviewed,ci,ci
 2022-06-09T19:55:00.710Z,33.1878333,-115.6083333,3.21,1.54,ml,20,107,0.01202,0.23,ci,ci40037335,2022-06-09T20:16:36.296Z,"10km SW of Niland, CA",earthquake,0.35,0.23,0.172,31,reviewed,ci,ci
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T12:59:00.090Z,19.2141666412354,-155.401000976562,33.5699996948242,2.39,ml,39,157,,0.119999997,hv,hv73039052,2022-06-09T13:04:30.950Z,"8 km E of Pāhala, Hawaii",earthquake,0.65,0.730000019,0.39,3,automatic,hv,hv
 2022-06-09T12:56:53.310Z,46.8686667,-112.5188333,13.2,0.72,ml,9,60,0.043,0.13,mb,mb80548364,2022-06-09T19:31:42.430Z,"15 km SE of Lincoln, Montana",earthquake,0.45,0.87,0.131,4,reviewed,mb,mb
 2022-06-09T12:56:32.978Z,38.5394,-117.4419,1,1,ml,18,123.09,0.358,0.128,nn,nn00840643,2022-06-09T18:35:11.184Z,"55 km SE of Gabbs, Nevada",earthquake,,2.6,0.29,6,reviewed,nn,nn
-2022-06-09T12:54:28.263Z,15.9927,-61.2371,104.79,4.3,mb,,151,0.061,0.4,us,us7000hg61,2022-06-09T17:34:06.352Z,"14 km NE of Grand-Bourg, Guadeloupe",earthquake,7.6,4.8,0.153,13,reviewed,us,us
+2022-06-09T12:54:28.263Z,15.9927,-61.2371,104.79,4.3,mb,,151,0.061,0.4,us,us7000hg61,2022-06-09T20:56:15.999Z,"14 km NE of Grand-Bourg, Guadeloupe",earthquake,7.6,4.8,0.153,13,reviewed,us,us
 2022-06-09T12:42:41.009Z,57.2173,-155.2054,4.9,1.7,ml,,,,0.72,ak,ak0227ctdtic,2022-06-09T12:44:42.152Z,"59 km SW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-09T12:38:49.610Z,35.5156667,-118.393,4.72,1.28,ml,20,66,0.161,0.12,ci,ci40037015,2022-06-09T13:25:18.796Z,"12km SE of Bodfish, CA",earthquake,0.2,1.28,0.132,16,reviewed,ci,ci
 2022-06-09T12:38:30.167Z,59.1087,-153.5849,83.2,1.1,ml,,,,0.34,ak,ak0227ctcxt4,2022-06-09T13:43:15.377Z,"71 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.4,,,reviewed,ak,ak
@@ -125,6 +125,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T07:43:35.890Z,37.5766667,-118.8576667,5.59,0.65,md,17,174,0.02632,0.02,nc,nc73743211,2022-06-09T16:36:11.516Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.41,0.78,0.215,15,reviewed,nc,nc
 2022-06-09T07:34:17.520Z,35.5115,-118.3875,4.31,3.21,ml,63,26,0.1666,0.15,ci,ci40036911,2022-06-09T20:36:09.964Z,"13km SE of Bodfish, CA",earthquake,0.12,0.54,0.156,158,reviewed,ci,ci
 2022-06-09T07:31:47.308Z,63.3016,-151.3025,4.7,2.3,ml,,,,0.69,ak,ak0227cqcb3e,2022-06-09T07:34:17.929Z,"33 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-06-09T07:29:19.950Z,39.3506,-118.2143,0,0.1,ml,4,174.16,0.084,0.0951,nn,nn00840666,2022-06-09T20:54:04.106Z,"43 km E of Fallon Station, Nevada",earthquake,,0,0,1,reviewed,nn,nn
+2022-06-09T07:22:47.729Z,39.4036,-120.1691,9.2,-0.3,ml,5,151.96,0.128,0.0374,nn,nn00840665,2022-06-09T20:50:57.383Z,"Northern California",earthquake,,4.8,0.26,3,reviewed,nn,nn
 2022-06-09T07:21:14.946Z,38.2003,-117.7696,5.8,1,ml,16,158.41,0.133,0.1258,nn,nn00840634,2022-06-09T17:58:00.206Z,"36 km SE of Mina, Nevada",earthquake,,2.2,0.58,3,reviewed,nn,nn
 2022-06-09T07:12:32.720Z,38.8088341,-122.7711639,1.63,0.35,md,6,219,0.01888,0.01,nc,nc73743196,2022-06-09T07:21:10.975Z,"4km NNW of The Geysers, CA",earthquake,1.02,1.77,,1,automatic,nc,nc
 2022-06-09T07:04:56.770Z,17.9773333333333,-66.9771666666667,11.47,1.98,md,3,173,,0.02,pr,pr71353138,2022-06-09T07:19:38.260Z,"6 km W of Fuig, Puerto Rico",earthquake,2.15,0.81,0.0410900281161934,3,reviewed,pr,pr
@@ -218,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T21:28:59.640Z,33.4915,-116.7491667,6.13,0.14,ml,9,222,0.06866,0.06,ci,ci40036695,2022-06-08T22:40:33.636Z,"10km SW of Anza, CA",earthquake,0.37,0.52,0.05,2,reviewed,ci,ci
 2022-06-08T21:13:47.830Z,49.44133333333333,-120.54683333333334,-0.51,2.43,ml,10,228,0.6138,0.52,uw,uw61840762,2022-06-09T18:43:45.940Z,"3 km SW of Princeton, Canada",explosion,3.73,31.61,0.3167404706146313,6,reviewed,uw,uw
 2022-06-08T21:06:19.042Z,31.68929824,-104.1339051,3.997802734,2.2,ml,7,75,0.06914007432,0.1,tx,tx2022lehg,2022-06-08T22:10:38.702Z,"50 km W of Mentone, Texas",earthquake,1.006393622,2.7377941,0.1,8,reviewed,tx,tx
-2022-06-08T20:53:55.667Z,36.7665,-116.2673,4.5,-0.4,ml,6,227.31,0.059,0.1284,nn,nn00840632,2022-06-09T04:08:17.870Z,"46 km ESE of Beatty, Nevada",earthquake,,3.4,0.79,4,reviewed,nn,nn
-2022-06-08T20:53:41.529Z,-30.2409,-177.7339,14.87,5.2,mb,,74,0.988,1,us,us7000hg13,2022-06-08T21:37:02.040Z,"Kermadec Islands, New Zealand",earthquake,9.7,3.9,0.082,49,reviewed,us,us
-2022-06-08T20:50:29.440Z,32.9286667,-116.2285,12.68,0.41,ml,12,108,0.06807,0.09,ci,ci37502341,2022-06-08T22:18:59.515Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.24,0.39,0.202,3,reviewed,ci,ci
