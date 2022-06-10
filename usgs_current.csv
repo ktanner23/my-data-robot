@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-10T21:30:55.220Z,38.7563324,-122.7131653,1.86,1.37,md,18,76,0.01055,0.06,nc,nc73743741,2022-06-10T21:32:29.309Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.38,0.06,6,automatic,nc,nc
-2022-06-10T21:15:07.360Z,33.7368333,-116.7536667,17.59,0.67,ml,13,100,0.04154,0.31,ci,ci40038135,2022-06-10T21:18:42.221Z,"3km W of Idyllwild, CA",earthquake,0.84,1.35,0.159,14,automatic,ci,ci
+2022-06-10T21:40:45.680Z,33.2441667,-116.1026667,3.41,1.32,ml,38,55,0.1262,0.24,ci,ci40038143,2022-06-10T21:44:24.133Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.29,1.26,0.146,27,automatic,ci,ci
+2022-06-10T21:38:01.554Z,62.2007,-149.7513,17.6,1,ml,,,,0.61,ak,ak0227em94jf,2022-06-10T21:40:26.990Z,"6 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-10T21:30:55.220Z,38.7563324,-122.7131653,1.86,1.37,md,18,76,0.01055,0.06,nc,nc73743741,2022-06-10T21:39:11.781Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.38,0.06,6,automatic,nc,nc
+2022-06-10T21:15:07.460Z,33.717,-116.75,17.02,0.66,ml,13,187,0.03189,0.09,ci,ci40038135,2022-06-10T21:41:03.179Z,"4km SW of Idyllwild, CA",earthquake,0.3,0.33,0.192,9,reviewed,ci,ci
 2022-06-10T20:18:19.741Z,-20.8852,-175.6983,135.4,4.8,mb,,124,6.676,0.91,us,us7000hglc,2022-06-10T20:55:45.040Z,"58 km WNW of Haveluloto, Tonga",earthquake,12,7.5,0.1,35,reviewed,us,us
 2022-06-10T20:12:24.444Z,38.9968,-119.997,9.7,1.2,ml,10,196.33,0.049,0.0979,nn,nn00840737,2022-06-10T20:16:07.556Z,"3 km W of Zephyr Cove, Nevada",earthquake,,0.5,0.19,8,automatic,nn,nn
 2022-06-10T20:02:21.462Z,61.6567,-149.7515,49.7,1.6,ml,,,,0.36,ak,ak0227elg0op,2022-06-10T20:08:02.282Z,"4 km NE of Houston, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -11,7 +13,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T18:43:27.980Z,38.7915001,-122.793663,0.86,0.35,md,8,114,0.004792,0.01,nc,nc73743681,2022-06-10T19:15:15.989Z,"4km WNW of The Geysers, CA",earthquake,0.32,0.51,,1,automatic,nc,nc
 2022-06-10T18:34:41.890Z,38.7869987,-122.769165,1.9,0.63,md,15,81,0.01548,0.04,nc,nc73743676,2022-06-10T18:54:16.870Z,"2km NW of The Geysers, CA",earthquake,0.29,0.51,0.21,4,automatic,nc,nc
 2022-06-10T18:32:58.030Z,19.2406673431396,-155.398498535156,30.4099998474121,1.80999994,md,29,140,,0.129999995,hv,hv73040302,2022-06-10T18:36:02.920Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.65,0.889999986,1.37,6,automatic,hv,hv
-2022-06-10T18:21:26.118Z,52.5719,-172.9634,210.4,2.1,ml,,,,0.7,ak,ak0227ekd9xa,2022-06-10T20:43:09.845Z,"94 km ENE of Atka, Alaska",earthquake,,1,,,reviewed,ak,ak
+2022-06-10T18:22:10.043Z,19.3732,-68.9207,35,2.7,ml,,195,1.935,0.78,us,us7000hgk7,2022-06-10T21:46:02.040Z,"45 km NNE of Miches, Dominican Republic",earthquake,12.2,2,0.071,26,reviewed,us,us
+2022-06-10T18:21:24.124Z,52.3665,-172.8157,216.78,2.7,ml,,193,0.757,0.62,us,us7000hglg,2022-06-10T21:41:45.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,19.7,8.1,0.115,14,reviewed,us,us
 2022-06-10T18:04:36.420Z,38.8361664,-122.810997,1.91,1.29,md,18,55,0.01277,0.02,nc,nc73743666,2022-06-10T19:37:11.127Z,"8km WNW of Cobb, CA",earthquake,0.2,0.63,0.28,3,automatic,nc,nc
 2022-06-10T17:54:34.098Z,62.3562,-149.7486,11.2,1.1,ml,,,,0.4,ak,ak0227ejyw35,2022-06-10T18:05:24.133Z,"19 km E of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-10T17:42:48.290Z,38.6141667,-112.5831667,2.03,0.96,md,6,193,0.1066,0.07,uu,uu60501087,2022-06-10T18:12:07.560Z,"Utah",earthquake,1.45,4.22,0.549,3,reviewed,uu,uu
@@ -208,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-09T21:50:24.870Z,40.0873,-119.4846,12.5,0.8,ml,5,234.85,0.207,0.2059,nn,nn00840685,2022-06-10T02:38:36.754Z,"18 km NNE of Sutcliffe, Nevada",earthquake,,6.9,0.19,5,reviewed,nn,nn
 2022-06-09T21:48:32.090Z,34.499,-97.2175,0,1.48,ml,63,66,0.1304743965,0.45,ok,ok2022lged,2022-06-10T14:29:28.033Z,"9 km W of Davis, Oklahoma",quarry blast,,0.5,0.19,20,reviewed,ok,ok
 2022-06-09T21:47:55.600Z,35.6705,-117.5213333,9.47,1.42,ml,27,68,0.09667,0.14,ci,ci40037439,2022-06-10T14:56:27.184Z,"15km ENE of Ridgecrest, CA",earthquake,0.2,0.51,0.095,15,reviewed,ci,ci
-2022-06-09T21:44:54.539Z,35.5405,-96.75183333,7.87,1.18,ml,46,43,0.1151773983,0.17,ok,ok2022lgea,2022-06-10T14:34:19.895Z,"8 km NW of Prague, Oklahoma",earthquake,,0.5,0.23,20,reviewed,ok,ok
-2022-06-09T21:44:27.360Z,36.1093333,-117.862,1.38,0.54,ml,9,197,0.104,0.13,ci,ci40037431,2022-06-10T14:56:55.512Z,"11km NE of Coso Junction, CA",earthquake,0.43,0.43,0.111,3,reviewed,ci,ci
