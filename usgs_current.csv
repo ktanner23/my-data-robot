@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-11T13:17:20.800Z,37.5666656,-118.8639984,4.32,1.65,md,18,220,0.03622,0.02,nc,nc73743976,2022-06-11T13:26:11.344Z,"13km SE of Mammoth Lakes, CA",earthquake,0.68,0.94,0.09,18,automatic,nc,nc
 2022-06-11T13:01:58.750Z,36.0993333,-117.8481667,2.04,1.63,ml,16,94,0.019,0.17,ci,ci40038367,2022-06-11T13:05:52.739Z,"11km NE of Coso Junction, CA",earthquake,0.42,0.31,0.149,22,automatic,ci,ci
 2022-06-11T12:47:34.876Z,65.1371,-149.9482,17.9,0.8,ml,,,,0.45,ak,ak0227g4hklr,2022-06-11T12:49:13.677Z,"28 km W of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-11T12:31:15.807Z,60.7964,-150.7377,35.9,1.3,ml,,,,0.34,ak,ak0227g4e3oc,2022-06-11T12:32:58.372Z,"14 km S of Point Possession, Alaska",earthquake,,5.7,,,automatic,ak,ak
@@ -31,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T09:40:46.504Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
-2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
+2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"Puerto Rico region",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
 2022-06-11T07:45:02.360Z,17.9893333333333,-66.977,6.84,2.14,md,4,174,,0.08,pr,pr71353488,2022-06-11T08:08:08.130Z,"6 km W of Fuig, Puerto Rico",earthquake,1.8,1.39,0.0305241230336799,3,reviewed,pr,pr
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
@@ -180,9 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T13:41:29.150Z,19.132833480835,-155.452667236328,29.3299999237061,1.98000002,md,42,214,,0.140000001,hv,hv73040052,2022-06-10T13:44:44.590Z,"8 km SSE of Pāhala, Hawaii",earthquake,0.56,0.75999999,0.709999979,9,automatic,hv,hv
 2022-06-10T13:39:57.900Z,44.7655,-110.865,6.22,0.91,ml,9,93,0.02506,0.14,uu,uu60501067,2022-06-10T14:24:24.070Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.78,1.31,0.097,2,reviewed,uu,uu
 2022-06-10T13:33:27.770Z,33.2378333,-116.1026667,8.54,1.23,ml,41,54,0.0985,0.18,ci,ci40037943,2022-06-10T18:57:27.370Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.18,0.78,0.164,26,reviewed,ci,ci
-2022-06-10T13:29:23.910Z,37.3845,-118.4648333,5.47,1.27,md,14,217,0.0531,0.06,nc,nc73743636,2022-06-10T17:54:10.500Z,"3km NNW of West Bishop, CA",earthquake,1.22,1.21,0.057,8,reviewed,nc,nc
-2022-06-10T13:28:07.131Z,-0.5622,-80.7865,10,4.4,mb,,160,2.128,0.56,us,us7000hgha,2022-06-11T04:37:35.040Z,"40 km W of Bahía de Caráquez, Ecuador",earthquake,6.3,2,0.22,6,reviewed,us,us
-2022-06-10T13:27:08.160Z,19.4665,-155.595166666667,-1.41,1.92,ml,18,66,,0.18,hv,hv73040047,2022-06-11T03:04:02.510Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.18,0.204925386950552,7,reviewed,hv,hv
-2022-06-10T13:25:12.560Z,33.238,-116.104,7.62,1.25,ml,47,54,0.09803,0.17,ci,ci40037935,2022-06-10T18:44:13.060Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.17,0.53,0.178,25,reviewed,ci,ci
-2022-06-10T13:22:45.250Z,37.4011667,-118.4841667,3.5,1.32,md,18,97,0.0522,0.07,nc,nc73743631,2022-06-10T17:26:11.356Z,"5km NNW of West Bishop, CA",earthquake,0.3,0.62,0.071,13,reviewed,nc,nc
-2022-06-10T13:18:28.640Z,35.6805,-117.5476667,9.53,1.19,ml,24,74,0.09814,0.12,ci,ci40037919,2022-06-10T18:36:01.660Z,"13km ENE of Ridgecrest, CA",earthquake,0.19,0.59,0.295,13,reviewed,ci,ci
