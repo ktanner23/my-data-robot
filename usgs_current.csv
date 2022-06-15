@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-06-15T22:00:48.897Z,38.2596,-118.6426,1,1.1,ml,8,270.61,0.108,0.1445,nn,nn00840961,2022-06-15T22:05:35.423Z,"29 km S of Hawthorne, Nevada",earthquake,,12.1,0.36,5,automatic,nn,nn
-2022-06-15T21:54:33.450Z,18.6046,-65.0581,31,3.53,md,14,252,0.2689,0.18,pr,pr2022166001,2022-06-15T22:18:35.766Z,"32 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.95,1.33,0.05,12,reviewed,pr,pr
+2022-06-15T21:54:33.450Z,18.6046,-65.0581,31,3.53,md,14,252,0.2689,0.18,pr,pr2022166001,2022-06-15T22:29:04.040Z,"32 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.95,1.33,0.05,12,reviewed,pr,pr
 2022-06-15T21:51:52.139Z,64.2522,-150.1715,0.1,1.6,ml,,,,0.72,ak,ak0227mw0r7x,2022-06-15T21:53:46.411Z,"47 km W of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-15T21:45:20.610Z,33.0613333,-115.0075,-0.2,1.5,ml,14,63,0.09224,0.24,ci,ci40040887,2022-06-15T22:18:04.905Z,"44km NE of Holtville, CA",quarry blast,0.53,31.61,0.012,4,reviewed,ci,ci
-2022-06-15T21:41:00.050Z,33.3571667,-116.3101667,11.29,0.94,ml,29,138,0.005211,0.2,ci,ci40040879,2022-06-15T21:57:36.358Z,"13km NNE of Borrego Springs, CA",earthquake,0.36,0.46,0.159,21,automatic,ci,ci
+2022-06-15T21:41:00.090Z,33.3585,-116.3135,10.45,0.93,ml,26,115,0.005055,0.12,ci,ci40040879,2022-06-15T22:23:51.857Z,"13km NNE of Borrego Springs, CA",earthquake,0.25,0.38,0.12,13,reviewed,ci,ci
 2022-06-15T21:38:50.565Z,58.0757,-154.9665,102.1,0.8,ml,,,,0.25,ak,ak0227mvxysg,2022-06-15T21:40:24.874Z,"64 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-15T21:33:23.190Z,38.8334999,-122.8178329,1.91,0.85,md,11,59,0.01177,0.01,nc,nc73745861,2022-06-15T22:12:25.974Z,"8km NW of The Geysers, CA",earthquake,0.26,1.41,,1,automatic,nc,nc
 2022-06-15T21:14:05.250Z,19.4603328704834,-155.449340820312,8.48999977111816,2.22,ml,35,65,,0.159999996,hv,hv73045022,2022-06-15T21:19:37.000Z,"22 km W of Volcano, Hawaii",earthquake,0.36,0.639999986,0.33,10,automatic,hv,hv
@@ -14,6 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-15T20:49:06.880Z,34.1465,-117.444,3.13,0.5,ml,14,94,0.04799,0.21,ci,ci40040839,2022-06-15T21:35:11.208Z,"6km NNE of Fontana, CA",earthquake,0.49,0.88,0.235,5,reviewed,ci,ci
 2022-06-15T20:47:23.264Z,62.3433,-149.1395,0,2.2,ml,,,,0.64,ak,ak0227mveeik,2022-06-15T20:49:31.856Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-15T20:47:11.750Z,38.7978325,-122.8161697,3.59,0.77,md,8,99,0.01396,0.02,nc,nc73745811,2022-06-15T21:22:29.662Z,"6km WNW of The Geysers, CA",earthquake,0.61,1.49,0.09,2,automatic,nc,nc
+2022-06-15T20:45:42.510Z,44.791,-110.5853333,5.95,0.91,md,7,214,0.1888,0.25,uu,uu60501982,2022-06-15T22:20:43.850Z,"22 km SSE of Mammoth, Wyoming",earthquake,1.45,31.61,0.59,6,reviewed,uu,uu
 2022-06-15T20:45:09.580Z,38.8363342,-122.7886658,3.14,0.36,md,8,80,0.01144,0.02,nc,nc73745801,2022-06-15T21:01:24.542Z,"6km WNW of Cobb, CA",earthquake,0.57,1.95,,1,automatic,nc,nc
 2022-06-15T20:42:38.640Z,35.7758333,-117.6003333,7.91,0.41,ml,10,87,0.03989,0.09,ci,ci40040831,2022-06-15T21:25:55.956Z,"18km W of Searles Valley, CA",earthquake,0.24,0.4,0.171,3,reviewed,ci,ci
 2022-06-15T20:15:06.360Z,35.9856667,-117.4053333,1.44,0.39,ml,11,160,0.1369,0.12,ci,ci40040815,2022-06-15T20:56:52.127Z,"24km N of Searles Valley, CA",earthquake,0.31,0.37,0.221,2,reviewed,ci,ci
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-14T22:42:14.820Z,33.8775,-117.4971667,-0.49,1.11,ml,26,54,0.07398,0.22,ci,ci40040287,2022-06-14T23:09:58.642Z,"2km E of Home Gardens, CA",quarry blast,0.4,31.61,0.081,16,reviewed,ci,ci
 2022-06-14T22:41:28.730Z,36.712,-116.0691,1.9,-0.3,ml,7,159.41,0.029,0.1353,nn,nn00840898,2022-06-15T02:39:44.285Z,"38 km WNW of Indian Springs, Nevada",earthquake,,6.3,0.13,3,reviewed,nn,nn
 2022-06-14T22:36:08.050Z,47.3876667,-112.2743333,3.24,1.06,md,9,212,0.418,0.12,mb,mb80548804,2022-06-15T14:21:37.910Z,"14 km SE of Augusta, Montana",earthquake,0.64,3.45,0.33,3,reviewed,mb,mb
-2022-06-14T22:24:59.720Z,51.9535,-177.625666666667,7.84,1.38,ml,9,194,,0.21,av,av91599661,2022-06-15T05:55:19.360Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.04,0.77,0.287344058099818,9,reviewed,av,av
