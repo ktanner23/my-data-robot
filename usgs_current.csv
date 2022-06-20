@@ -6,6 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T10:54:04.090Z,33.2835,-115.9911667,1.57,0.88,ml,20,105,0.1103,0.21,ci,ci40287744,2022-06-20T10:57:37.037Z,"4km WSW of Salton City, CA",earthquake,0.36,0.98,0.108,15,automatic,ci,ci
 2022-06-20T10:47:19.280Z,35.8598333,-117.6526667,9.22,0.59,ml,7,107,0.06281,0.05,ci,ci40287736,2022-06-20T10:50:47.712Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.59,0.239,5,automatic,ci,ci
 2022-06-20T10:44:26.230Z,34.6796667,-118.3411667,4.76,1.33,ml,36,55,0.03516,0.19,ci,ci40287728,2022-06-20T10:55:23.510Z,"5km ENE of Elizabeth Lake, CA",earthquake,0.25,0.4,0.226,26,automatic,ci,ci
+2022-06-20T10:32:55.304Z,-7.543,-13.4247,10,4.9,mb,,127,32.939,0.81,us,us7000hipq,2022-06-20T11:15:59.040Z,"116 km ENE of Georgetown, Saint Helena",earthquake,15,1.9,0.093,36,reviewed,us,us
 2022-06-20T10:30:00.855Z,59.6308,-152.8194,91.8,1.1,ml,,,,0.3,ak,ak0227uz141h,2022-06-20T10:32:19.015Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-20T10:29:06.929Z,36.11185837,-97.82852173,4.108966827,2,ml,44,56.25658417,0.1087076068,0.3492642033,ok,ok2022lzkh,2022-06-20T10:30:33.593Z,"6 km E of Hennessey, Oklahoma",earthquake,1.821830435,1.762804575,,19,automatic,ok,ok
 2022-06-20T10:23:31.335Z,59.5111,-152.8959,83.6,0.6,ml,,,,0.32,ak,ak0227uyzodp,2022-06-20T10:24:51.018Z,"57 km WNW of Nanwalek, Alaska",earthquake,,3.8,,,automatic,ak,ak
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T05:45:49.000Z,37.6351662,-118.882164,-0.3,2.04,md,16,105,0.01485,0.05,nc,nc73747911,2022-06-20T08:51:10.312Z,"8km E of Mammoth Lakes, CA",earthquake,0.35,0.26,0.18,16,automatic,nc,nc
 2022-06-20T05:41:59.190Z,39.3496667,-123.2718333,3.6,1.29,md,15,94,0.07305,0.04,nc,nc73747906,2022-06-20T07:04:13.657Z,"10km SE of Willits, CA",earthquake,0.25,1.84,0.204,13,reviewed,nc,nc
 2022-06-20T05:39:12.386Z,2.5581,128.2986,161.25,4.6,mb,,97,2.004,0.53,us,us7000hing,2022-06-20T06:32:15.040Z,"97 km NNE of Tobelo, Indonesia",earthquake,9.6,5.8,0.051,113,reviewed,us,us
-2022-06-20T05:34:12.950Z,19.2490005493164,-155.409164428711,32.4500007629395,2.3,ml,44,127,,0.129999995,hv,hv73049532,2022-06-20T05:39:44.410Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.670000017,4.12,15,automatic,hv,hv
+2022-06-20T05:34:12.950Z,19.2490005493164,-155.409164428711,32.4500007629395,2.3,ml,44,127,,0.129999995,hv,hv73049532,2022-06-20T11:11:44.040Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.670000017,4.12,15,automatic,hv,hv
 2022-06-20T05:33:03.620Z,37.6356659,-118.8841629,-0.26,2.79,md,23,86,0.01331,0.05,nc,nc73747896,2022-06-20T08:10:11.174Z,"8km E of Mammoth Lakes, CA",earthquake,0.29,0.22,0.18,27,automatic,nc,nc
 2022-06-20T05:26:27.768Z,61.6828,-146.959,17.1,3.1,ml,,,,0.81,ak,ak0227uw157g,2022-06-20T05:28:06.790Z,"30 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-20T05:26:05.850Z,37.6376648,-118.8848343,-0.41,1.49,md,10,144,0.01166,0.05,nc,nc73747891,2022-06-20T07:53:12.077Z,"8km E of Mammoth Lakes, CA",earthquake,0.5,0.3,0.14,10,automatic,nc,nc
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-19T11:31:50.380Z,37.6365,-118.897,4.36,0.84,md,19,91,0.007881,0.06,nc,nc73747541,2022-06-19T17:16:15.507Z,"7km E of Mammoth Lakes, CA",earthquake,0.26,0.43,0.196,16,reviewed,nc,nc
 2022-06-19T11:30:34.190Z,37.6375,-118.8946667,4.72,1.38,md,21,90,0.007094,0.04,nc,nc73747536,2022-06-19T19:34:15.408Z,"7km E of Mammoth Lakes, CA",earthquake,0.33,0.54,0.175,17,reviewed,nc,nc
 2022-06-19T11:29:02.040Z,61.6324,-147.361,26.1,1.5,ml,,,,0.69,ak,ak0227tc2zj0,2022-06-19T11:31:19.602Z,"24 km SE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-19T11:09:50.141Z,64.9256,-149.2525,18.7,0.7,ml,,,,0.32,ak,ak0227tbysx2,2022-06-19T11:12:11.080Z,"25 km S of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-19T11:09:32.170Z,36.031,-117.8288333,-0.22,1.03,ml,11,130,0.05105,0.25,ci,ci40287200,2022-06-19T11:13:08.020Z,"11km E of Coso Junction, CA",earthquake,0.73,31.61,0.122,15,automatic,ci,ci
