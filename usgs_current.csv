@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-25T22:35:15.670Z,33.6321678,-116.6790009,14.24,0.97,ml,18,98,0.07061,0.1,ci,ci40291376,2022-06-25T22:37:20.615Z,"9km N of Anza, CA",earthquake,0.5,0.73,0.112,4,automatic,ci,ci
 2022-06-25T22:16:17.760Z,38.8058319,-122.8016663,2.34,0.84,md,8,95,0.00541,0.01,nc,nc73750981,2022-06-25T22:26:11.058Z,"5km NW of The Geysers, CA",earthquake,0.56,1.42,,1,automatic,nc,nc
 2022-06-25T22:14:19.436Z,38.1105,-118.2426,0,0.9,ml,9,194.86,0.25,0.1464,nn,nn00841721,2022-06-25T22:18:08.378Z,"33 km SSW of Mina, Nevada",earthquake,,76.7,0.25,6,automatic,nn,nn
 2022-06-25T22:05:52.020Z,38.7929993,-122.8033371,3.33,0.84,md,11,103,0.004671,0.02,nc,nc73750976,2022-06-25T22:15:10.877Z,"4km WNW of The Geysers, CA",earthquake,0.42,0.89,,1,automatic,nc,nc
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-25T19:39:29.070Z,19.1831665039062,-155.467163085938,32.9799995422363,1.99,ml,41,98,,0.119999997,hv,hv73055462,2022-06-25T19:45:00.430Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.53,0.839999974,4.74,4,automatic,hv,hv
 2022-06-25T19:29:37.060Z,31.6079,-103.9348,3.69,2.5,mb_lg,,54,0.243,0.38,us,us7000hk87,2022-06-25T21:54:07.040Z,"33 km WSW of Mentone, Texas",earthquake,1.5,5.3,0.114,32,reviewed,us,us
 2022-06-25T19:26:51.420Z,17.962,-66.8323333333333,11.59,2.38,md,6,262,,0.12,pr,pr71355958,2022-06-25T19:44:18.500Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.78,0.64,0.0888854585540817,6,reviewed,pr,pr
-2022-06-25T19:25:42.070Z,37.6431667,-118.8926667,-1.06,2,md,18,70,0.003528,0.07,nc,nc73750936,2022-06-25T22:23:22.941Z,"8km E of Mammoth Lakes, CA",earthquake,0.26,0.19,0.142,5,reviewed,nc,nc
+2022-06-25T19:25:42.070Z,37.6431667,-118.8926667,-1.06,2,md,18,70,0.003528,0.07,nc,nc73750936,2022-06-25T22:31:09.958Z,"8km E of Mammoth Lakes, CA",earthquake,0.26,0.19,0.142,5,reviewed,nc,nc
 2022-06-25T19:10:36.467Z,-58.6246,-25.0482,24.81,4.5,mb,,79,15.912,0.64,us,us7000hk85,2022-06-25T21:28:55.040Z,"South Sandwich Islands region",earthquake,12.4,5.7,0.091,36,reviewed,us,us
 2022-06-25T19:00:30.653Z,-18.1961,-177.9868,584.11,4.3,mb,,115,3.796,0.83,us,us7000hk84,2022-06-25T21:14:02.040Z,"285 km E of Levuka, Fiji",earthquake,10.4,7.4,0.068,62,reviewed,us,us
 2022-06-25T19:00:08.700Z,38.8284988,-122.8010025,0.74,0.46,md,11,73,0.008728,0.03,nc,nc73750931,2022-06-25T19:08:10.813Z,"7km W of Cobb, CA",earthquake,0.28,0.76,0.39,2,automatic,nc,nc
@@ -229,10 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-24T23:00:51.660Z,53.9935,-166.091,18.31,0.55,ml,6,323,,0.08,av,av91064003,2022-06-25T07:42:39.200Z,"25 km SW of Akutan, Alaska",earthquake,1.58,1.54,0.305908651772187,6,reviewed,av,av
 2022-06-24T22:58:41.730Z,19.1688327789307,-155.474670410156,30.7299995422363,1.80999994,md,28,132,,0.119999997,hv,hv73054592,2022-06-24T23:01:46.920Z,"3 km S of Pāhala, Hawaii",earthquake,0.85,0.769999981,1.62,6,automatic,hv,hv
 2022-06-24T22:41:05.180Z,48.26316666666666,-120.7265,8.76,1.72,ml,11,109,0.3113,0.26,uw,uw61845982,2022-06-25T05:49:21.810Z,"46 km WSW of Twisp, Washington",earthquake,0.57,23.51,0.15913397121082273,2,reviewed,uw,uw
-2022-06-24T22:35:36.460Z,37.3371667,-122.1986667,9.6,1.16,md,14,76,0.02428,0.08,nc,nc73750591,2022-06-25T10:11:11.216Z,"6km SSE of Portola Valley, CA",earthquake,0.33,0.63,0.18,10,reviewed,nc,nc
-2022-06-24T22:34:40.480Z,61.223,-147.5747,8.3,1.3,ml,,,,0.12,ak,ak02281scn74,2022-06-24T22:36:14.974Z,"62 km NW of Tatitlek, Alaska",earthquake,,4.6,,,automatic,ak,ak
-2022-06-24T22:32:23.570Z,32.652,-115.7193333,10.49,2.63,ml,45,74,0.006514,0.25,ci,ci40290920,2022-06-25T01:07:15.040Z,"15km WNW of Progreso, B.C., MX",earthquake,0.31,0.46,0.156,26,reviewed,ci,ci
-2022-06-24T22:32:11.500Z,58.335,-155.716333333333,7.22,1.3,ml,10,232,,0.15,av,av91607866,2022-06-25T07:25:29.420Z,"67 km SE of King Salmon, Alaska",earthquake,0.97,0.57,0.207498979168425,11,reviewed,av,av
-2022-06-24T22:30:54.590Z,38.7625008,-122.7383347,1.41,0.6,md,8,102,0.01057,0.03,nc,nc73750586,2022-06-24T22:32:32.283Z,"2km SE of The Geysers, CA",earthquake,0.39,0.66,0.27,2,automatic,nc,nc
-2022-06-24T22:30:53.020Z,32.6441667,-115.7246667,11.15,3.42,ml,53,105,0.005348,0.26,ci,ci40290912,2022-06-25T01:15:35.040Z,"15km WNW of Progreso, B.C., MX",earthquake,0.32,0.43,0.187,210,reviewed,ci,ci
-2022-06-24T22:29:23.000Z,18.1658333333333,-67.3823333333333,17,3.3,md,28,219,,0.28,pr,pr71355783,2022-06-24T23:49:13.580Z,"Mona Passage",earthquake,0.77,0.68,0.206746534699598,16,reviewed,pr,pr
