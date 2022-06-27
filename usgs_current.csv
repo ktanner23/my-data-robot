@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-27T23:46:13.350Z,35.0256653,-117.7164993,-0.83,1.52,ml,27,55,0.09256,0.32,ci,ci40292656,2022-06-27T23:48:19.374Z,"7km WNW of Boron, CA",earthquake,0.63,1.16,0.214,8,automatic,ci,ci
+2022-06-27T23:46:13.350Z,35.0243333,-117.6931667,0.26,1.4,ml,25,55,0.08977,0.36,ci,ci40292656,2022-06-27T23:50:00.881Z,"5km NW of Boron, CA",quarry blast,0.77,31.61,0.106,24,automatic,ci,ci
 2022-06-27T23:39:47.860Z,19.1736660003662,-155.494506835938,35.0200004577637,1.94000006,md,26,92,,0.150000006,hv,hv73058377,2022-06-27T23:42:51.890Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.59,0.930000007,0.569999993,9,automatic,hv,hv
 2022-06-27T23:36:12.690Z,19.3383331298828,-155.194000244141,2.88000011444092,1.82,ml,37,78,,0.140000001,hv,hv73058367,2022-06-27T23:41:43.330Z,"12 km SSE of Volcano, Hawaii",earthquake,0.37,0.860000014,0.17,4,automatic,hv,hv
 2022-06-27T23:28:11.666Z,62.9608,-148.4743,7,2.6,ml,,,,0.78,ak,ak02286rirpk,2022-06-27T23:48:13.269Z,"53 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-27T23:20:35.080Z,38.7905006,-122.7649994,2.72,0.36,md,10,86,0.01092,0.02,nc,nc73751841,2022-06-27T23:29:11.377Z,"2km NNW of The Geysers, CA",earthquake,0.46,1.22,,1,automatic,nc,nc
 2022-06-27T23:11:20.189Z,64.9457,-147.4954,0,1.4,ml,,,,0.72,ak,ak02286rf58y,2022-06-27T23:13:59.520Z,"5 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-27T23:05:39.790Z,38.8441658,-122.8151703,1.43,1.36,md,24,48,0.01227,0.04,nc,nc73751836,2022-06-27T23:14:10.182Z,"8km WNW of Cobb, CA",earthquake,0.19,0.38,0.13,5,automatic,nc,nc
+2022-06-27T23:05:39.790Z,38.8441658,-122.8151703,1.43,1.36,md,24,48,0.01227,0.04,nc,nc73751836,2022-06-27T23:56:12.401Z,"8km WNW of Cobb, CA",earthquake,0.19,0.38,0.13,5,automatic,nc,nc
 2022-06-27T22:53:40.752Z,36.97407532,-97.49956512,1.462403536,1.81,ml,18,104.0507812,0.04247164354,0.3640073959,ok,ok2022mndj,2022-06-27T22:57:25.799Z,"9 km WSW of Hunnewell, Kansas",earthquake,3.195427884,2.319909091,,14,automatic,ok,ok
-2022-06-27T22:49:50.838Z,28.8388,76.6433,10,3.7,mb,,202,5.599,0.41,us,us7000hkq7,2022-06-27T23:45:31.048Z,"8 km SE of Rohtak, India",earthquake,6,2,0.251,4,reviewed,us,us
+2022-06-27T22:49:50.838Z,28.8388,76.6433,10,3.7,mb,,202,5.599,0.41,us,us7000hkq7,2022-06-27T23:50:32.797Z,"8 km SE of Rohtak, India",earthquake,6,2,0.251,4,reviewed,us,us
 2022-06-27T22:47:42.150Z,17.9545,-66.912,12.29,1.73,md,3,221,,0.02,pr,pr71356343,2022-06-27T22:59:17.420Z,"1 km SSW of Guánica, Puerto Rico",earthquake,2.65,0.89,0.0944023793774188,2,reviewed,pr,pr
 2022-06-27T22:32:04.920Z,40.4775,-124.32,18.52,1.47,md,18,146,0.01348,0.07,nc,nc73751831,2022-06-27T23:26:13.244Z,"12km SSW of Ferndale, CA",earthquake,0.41,0.29,0.217,9,reviewed,nc,nc
 2022-06-27T22:27:26.030Z,33.2303333,-116.726,11.43,0.86,ml,33,54,0.02803,0.15,ci,ci40292624,2022-06-27T22:31:01.524Z,"4km ESE of Lake Henshaw, CA",earthquake,0.26,0.61,0.156,22,automatic,ci,ci
@@ -240,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T00:30:17.940Z,32.6468333,-115.7246667,8.13,1.68,ml,14,182,0.002879,0.19,ci,ci40291984,2022-06-27T00:33:57.562Z,"15km WNW of Progreso, B.C., MX",earthquake,0.62,0.64,0.299,22,automatic,ci,ci
 2022-06-27T00:27:04.830Z,32.649,-115.7191667,9.24,2.43,ml,26,89,0.006094,0.22,ci,ci40291976,2022-06-27T00:37:57.160Z,"15km WNW of Progreso, B.C., MX",earthquake,0.52,0.75,0.219,26,automatic,ci,ci
 2022-06-26T23:59:27.959Z,38.1822,-117.9381,5.9,0.5,ml,8,165.79,0.04,0.149,nn,nn00841774,2022-06-27T00:03:54.738Z,"27 km SSE of Mina, Nevada",earthquake,,0.7,0.02,3,automatic,nn,nn
-2022-06-26T23:56:22.850Z,35.7835,-117.581,8.66,0.68,ml,7,151,0.03486,0.16,ci,ci40291960,2022-06-26T23:59:58.139Z,"16km W of Searles Valley, CA",earthquake,0.59,0.86,0.179,7,automatic,ci,ci
