@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-28T11:55:52.470Z,38.829834,-122.7513351,0.78,0.46,md,7,162,0.01452,0.02,nc,nc73752021,2022-06-28T11:57:28.608Z,"3km WNW of Cobb, CA",earthquake,0.43,0.98,0.09,2,automatic,nc,nc
 2022-06-28T11:44:24.320Z,33.3455,-116.8028333,9.69,0.65,ml,24,76,0.05072,0.16,ci,ci40292848,2022-06-28T11:48:02.152Z,"6km ESE of Palomar Observatory, CA",earthquake,0.26,0.63,0.129,16,automatic,ci,ci
 2022-06-28T11:43:26.990Z,33.255,-116.109,4.25,0.81,ml,24,130,0.1365,0.24,ci,ci40292840,2022-06-28T11:47:08.108Z,"13km N of Ocotillo Wells, CA",earthquake,0.43,1.15,0.117,15,automatic,ci,ci
 2022-06-28T11:34:26.080Z,33.7798333,-117.8426667,15.79,1.34,ml,20,168,0.06579,0.23,ci,ci40292832,2022-06-28T11:38:07.308Z,"3km SSW of Orange, CA",earthquake,0.84,0.89,0.171,29,automatic,ci,ci
@@ -71,11 +72,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T03:51:54.479Z,65.0615,-148.8163,8.7,0.8,ml,,,,0.52,ak,ak022883agxj,2022-06-28T03:54:53.706Z,"26 km ESE of Minto, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2022-06-28T03:41:08.225Z,22.3438,120.2243,10,4.5,mb,,98,0.92,0.99,us,us7000hkrm,2022-06-28T04:19:11.040Z,"26 km WSW of Donggang, Taiwan",earthquake,3.9,1.9,0.145,14,reviewed,us,us
 2022-06-28T03:38:33.390Z,17.9806666666667,-66.8538333333333,11.98,2.04,md,5,188,,0.08,pr,pr71356378,2022-06-28T04:11:41.300Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,0.7,0.45,0.183716505930651,4,reviewed,pr,pr
-2022-06-28T03:20:44.278Z,37.0099,-117.523,5,1.3,ml,22,188.22,0.358,0.2334,nn,nn00841839,2022-06-28T03:24:17.880Z,"California-Nevada border region",earthquake,,1.7,0.84,16,automatic,nn,nn
+2022-06-28T03:20:44.278Z,37.0099,-117.523,5,1.3,ml,22,188.22,0.358,0.2334,nn,nn00841839,2022-06-28T03:24:17.880Z,"64 km ENE of Independence, California",earthquake,,1.7,0.84,16,automatic,nn,nn
 2022-06-28T03:10:52.522Z,63.759,-149.6583,36.2,1.6,ml,,,,1.23,ak,ak0228831of8,2022-06-28T03:13:25.498Z,"35 km WSW of Healy, Alaska",earthquake,,10.7,,,automatic,ak,ak
 2022-06-28T03:09:04.652Z,61.1793,-148.338,7.2,0.9,ml,,,,1.24,ak,ak0228831czx,2022-06-28T03:11:48.181Z,"43 km SE of Knik River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-06-28T02:53:09.970Z,37.626,-118.8778333,0.54,0.31,md,7,139,0.01373,0.06,nc,nc73751891,2022-06-28T04:29:23.973Z,"9km E of Mammoth Lakes, CA",earthquake,0.64,0.85,0.147,6,reviewed,nc,nc
-2022-06-28T02:23:23.659Z,44.7128,147.4063,119.94,4.4,mb,,134,3.499,0.83,us,us7000hkr9,2022-06-28T03:03:38.040Z,"68 km SSW of Kuril’sk, Russia",earthquake,9.6,7.9,0.048,124,reviewed,us,us
+2022-06-28T02:23:23.659Z,44.7128,147.4063,119.94,4.4,mb,,134,3.499,0.83,us,us7000hkr9,2022-06-28T03:03:38.040Z,"Kuril Islands",earthquake,9.6,7.9,0.048,124,reviewed,us,us
 2022-06-28T02:22:25.410Z,19.1650009155273,-155.494003295898,34.6500015258789,2.1400001,md,33,108,,0.170000002,hv,hv73058512,2022-06-28T02:25:47.480Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.66,0.920000017,0.949999988,11,automatic,hv,hv
 2022-06-28T02:21:46.648Z,35.57914734,-97.07128143,2.885295153,1.82,ml,26,60.67936707,0.01973600872,0.5842688085,ok,ok2022mnkf,2022-06-28T02:25:31.147Z,"12 km S of Wellston, Oklahoma",earthquake,2.199817746,2.039282721,,20,automatic,ok,ok
 2022-06-28T02:20:41.933Z,62.5181,-149.3404,19.5,0.9,ml,,,,0.29,ak,ak022882id5t,2022-06-28T02:22:10.501Z,"40 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -234,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T12:41:53.453Z,38.5755,-118.5017,6.2,-0.4,ml,5,207.57,0.055,0.0247,nn,nn00841812,2022-06-28T02:39:29.789Z,"12 km ENE of Hawthorne, Nevada",earthquake,,13.5,0,1,reviewed,nn,nn
 2022-06-27T12:36:33.744Z,60.9434,-151.0881,9.3,1.2,ml,,,,0.41,ak,ak02286l0rji,2022-06-27T12:39:21.520Z,"14 km S of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-27T12:09:19.590Z,33.3801667,-116.8761667,5.11,1.39,ml,50,37,0.0288,0.22,ci,ci40292208,2022-06-27T12:20:24.760Z,"3km NNW of Palomar Observatory, CA",earthquake,0.23,0.92,0.131,25,automatic,ci,ci
-2022-06-27T11:58:29.983Z,38.0435,-118.7808,9.4,0.4,ml,7,332.89,0.301,0.0907,nn,nn00841811,2022-06-28T02:39:28.831Z,"31 km ENE of Lee Vining, California",earthquake,,22.8,0.25,2,reviewed,nn,nn
-2022-06-27T11:51:47.204Z,60.6786,-148.0327,2.9,1.9,ml,,,,0.69,ak,ak02286kikps,2022-06-27T11:53:50.616Z,"37 km ESE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
