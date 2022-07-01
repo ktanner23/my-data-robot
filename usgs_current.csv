@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T14:39:36.000Z,38.8096657,-122.800499,2.69,2.12,md,7,140,0.004399,0.02,nc,nc73753231,2022-07-01T14:45:14.595Z,"5km NW of The Geysers, CA",earthquake,0.49,1.33,,1,automatic,nc,nc
 2022-07-01T14:09:22.013Z,65.5959,-148.4013,0,1.5,ml,,,,0.29,ak,ak0228d877hl,2022-07-01T14:12:06.425Z,"10 km NE of Livengood, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-01T13:56:03.960Z,35.3601685,-120.6600037,6.37,1.38,md,9,168,0.04232,0.11,nc,nc73753221,2022-07-01T14:33:14.533Z,"6km SW of Santa Margarita, CA",earthquake,0.91,0.8,0.36,5,automatic,nc,nc
-2022-07-01T13:53:52.020Z,38.8296661,-122.8041687,1.61,1.43,md,29,39,0.007777,0.05,nc,nc73753216,2022-07-01T14:23:19.471Z,"7km W of Cobb, CA",earthquake,0.18,0.33,0.02,5,automatic,nc,nc
+2022-07-01T13:53:52.020Z,38.8296661,-122.8041687,1.61,1.43,md,29,39,0.007777,0.05,nc,nc73753216,2022-07-01T15:45:13.975Z,"7km W of Cobb, CA",earthquake,0.18,0.33,0.02,5,automatic,nc,nc
 2022-07-01T13:52:59.570Z,19.1936664581299,-155.487838745117,33.810001373291,2.27999997,md,43,73,,0.129999995,hv,hv73061692,2022-07-01T13:56:10.820Z,"1 km SW of Pāhala, Hawaii",earthquake,0.64,1.14999998,0.349999994,21,automatic,hv,hv
 2022-07-01T13:52:44.350Z,38.8293343,-122.80233,1.32,1.06,md,18,43,0.008471,0.03,nc,nc73753211,2022-07-01T15:28:10.866Z,"7km W of Cobb, CA",earthquake,0.21,0.58,0.35,3,automatic,nc,nc
 2022-07-01T13:40:24.790Z,35.9990005,-120.5448303,12.23,1.5,md,17,62,0.01235,0.04,nc,nc73753206,2022-07-01T15:00:10.695Z,"15km NW of Parkfield, CA",earthquake,0.39,0.59,0.23,10,automatic,nc,nc
@@ -92,6 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T03:40:00.078Z,63.109,-152.8638,2.8,1.1,ml,,,,0.38,ak,ak0228d1u1c7,2022-07-01T03:42:39.639Z,"74 km SW of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-01T03:32:58.880Z,38.8235016,-122.784668,0.76,1.92,md,34,34,0.01069,0.05,nc,nc73753081,2022-07-01T05:25:11.428Z,"5km W of Cobb, CA",earthquake,0.16,0.27,0.07,10,automatic,nc,nc
 2022-07-01T03:28:40.878Z,60.1094,-152.5356,95.3,1.8,ml,,,,0.39,ak,ak0228d1rjw7,2022-07-01T03:31:34.714Z,"48 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-01T03:08:16.420Z,39.4333333,-110.3086667,-1.51,1.16,ml,7,179,0.01572,0.17,uu,uu60504172,2022-07-01T15:46:11.330Z,"14 km SSE of Sunnyside, Utah",earthquake,2.12,1.09,0.099,4,reviewed,uu,uu
 2022-07-01T03:05:28.910Z,47.7216667,-113.7511667,4.73,-0.56,md,6,209,0.226,0.09,mb,mb80550199,2022-07-01T14:03:28.590Z,"21 km N of Condon, Montana",earthquake,0.83,7.18,,1,reviewed,mb,mb
 2022-07-01T03:05:25.900Z,36.8348351,-121.4111633,10.61,2.38,md,40,54,0.07584,0.14,nc,nc73753076,2022-07-01T04:29:11.135Z,"2km SW of Hollister, CA",earthquake,0.26,0.46,0.14,40,automatic,nc,nc
 2022-07-01T03:00:59.370Z,17.9998333333333,-66.8305,16.73,1.99,md,10,146,,0.17,pr,pr71356873,2022-07-01T03:23:02.800Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.59,0.82,0.129355132108227,4,reviewed,pr,pr
@@ -116,9 +117,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T01:56:49.071Z,13.9847,-91.424,75.19,4.2,mb,29,211,1.049,0.92,us,us6000hz0d,2022-07-01T02:22:27.040Z,"27 km SSW of Nueva Concepción, Guatemala",earthquake,8.4,9.6,0.131,16,reviewed,us,us
 2022-07-01T01:40:51.590Z,40.374,-124.3055,28.5,2.65,md,28,174,0.05444,0.11,nc,nc73753046,2022-07-01T06:38:10.861Z,"6km NNW of Petrolia, CA",earthquake,0.42,0.46,0.143,39,reviewed,nc,nc
 2022-07-01T01:37:33.810Z,17.8988333333333,-66.801,6.19,2.24,md,8,235,,0.17,pr,pr71356858,2022-07-01T01:49:39.000Z,"10 km S of Indios, Puerto Rico",earthquake,0.98,0.52,0.149082301721013,4,reviewed,pr,pr
+2022-07-01T01:26:39.150Z,39.4285,-110.308,-1.14,1.41,md,7,195,0.01395,0.13,uu,uu60504167,2022-07-01T15:43:34.810Z,"15 km SSE of Sunnyside, Utah",earthquake,1.34,0.57,0.169,7,reviewed,uu,uu
 2022-07-01T01:25:41.910Z,17.931,-66.8143333333333,14.14,2.17,md,5,321,,0.08,pr,pr71356848,2022-07-01T01:45:48.070Z,"7 km S of Indios, Puerto Rico",earthquake,0.92,0.67,0.100756176389109,4,reviewed,pr,pr
 2022-07-01T01:25:22.249Z,59.7593,-153.2022,111.4,1.9,ml,,,,0.6,ak,ak0228d0k03k,2022-07-01T01:38:21.091Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-01T01:19:23.779Z,-5.23,146.0707,85.31,4.8,mb,46,52,6.159,0.66,us,us6000hz05,2022-07-01T07:54:06.636Z,"31 km E of Madang, Papua New Guinea",earthquake,10.9,7.6,0.075,55,reviewed,us,us
+2022-07-01T01:14:28.910Z,39.4285,-110.297,-1.78,1.36,ml,7,199,0.0222,0.14,uu,uu60504162,2022-07-01T15:39:26.020Z,"15 km SSE of Sunnyside, Utah",earthquake,1.89,1.58,0.166,3,reviewed,uu,uu
 2022-07-01T01:11:28.070Z,33.4203333,-116.3676667,11.36,1.07,ml,37,82,0.07551,0.27,ci,ci40294592,2022-07-01T01:15:14.890Z,"18km N of Borrego Springs, CA",earthquake,0.4,0.89,0.166,28,automatic,ci,ci
 2022-07-01T01:07:50.530Z,38.8198318,-122.8034973,2.62,0.84,md,12,68,0.006249,0.01,nc,nc73753041,2022-07-01T02:18:10.332Z,"6km NW of The Geysers, CA",earthquake,0.39,1.05,,1,automatic,nc,nc
 2022-07-01T01:05:24.910Z,34.1721667,-80.7111667,2.46,1.49,md,4,126,0.0373,0.3,se,se60155353,2022-07-01T12:36:14.062Z,"6 km SSW of Lugoff, South Carolina",earthquake,1.94,2.96,0.045,3,reviewed,se,se
@@ -221,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-30T16:15:14.786Z,38.1652,-117.8989,9.7,1.2,ml,15,128.99,0.055,0.138,nn,nn00842010,2022-07-01T02:40:29.445Z,"31 km SE of Mina, Nevada",earthquake,,1.3,0.41,6,reviewed,nn,nn
 2022-06-30T16:14:33.508Z,0.066,123.7162,119.69,4.3,mb,30,69,1.45,0.73,us,us6000hyvg,2022-06-30T17:22:11.040Z,"89 km SE of Gorontalo, Indonesia",earthquake,8.4,8.2,0.113,22,reviewed,us,us
 2022-06-30T16:07:00.170Z,36.5833333,-121.085,8.76,1.14,md,17,129,0.03689,0.15,nc,nc73752916,2022-07-01T04:59:10.281Z,"8km NE of Pinnacles, CA",earthquake,0.49,0.96,0.115,14,reviewed,nc,nc
-2022-06-30T15:44:15.210Z,19.1720008850098,-155.488998413086,32.2900009155273,1.82000005,md,29,92,,0.129999995,hv,hv73060937,2022-06-30T15:47:42.770Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,1.00999999,0.910000026,8,automatic,hv,hv
