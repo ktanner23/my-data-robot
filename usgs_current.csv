@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-03T20:19:47.037Z,59.9599,-151.5163,64.6,1,ml,,,,0.26,ak,ak0228gmwp73,2022-07-03T20:21:08.997Z,"12 km E of Happy Valley, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2022-07-03T20:17:52.700Z,38.7770004,-122.7225037,1.79,0.67,md,7,144,0.01274,0.02,nc,nc73754011,2022-07-03T20:26:10.571Z,"3km W of Anderson Springs, CA",earthquake,0.49,0.62,0.17,2,automatic,nc,nc
+2022-07-03T20:17:52.700Z,38.7770004,-122.7225037,1.79,0.67,md,7,144,0.01274,0.02,nc,nc73754011,2022-07-03T20:34:16.620Z,"3km W of Anderson Springs, CA",earthquake,0.49,0.62,0.17,2,automatic,nc,nc
 2022-07-03T20:09:20.520Z,33.6945,-116.7853333,15,0.71,ml,23,65,0.06161,0.16,ci,ci40295984,2022-07-03T20:12:57.894Z,"8km SW of Idyllwild, CA",earthquake,0.47,0.53,0.149,18,automatic,ci,ci
 2022-07-03T19:58:40.993Z,61.5154,-149.8654,34.4,1.3,ml,,,,0.72,ak,ak0228gmjm1v,2022-07-03T20:00:45.426Z,"4 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-03T19:56:40.250Z,35.0861667,-119.1415,13.03,2.65,ml,43,30,0.2332,0.27,ci,ci40295976,2022-07-03T20:00:25.819Z,"24km E of Maricopa, CA",earthquake,0.36,1.38,0.16,25,automatic,ci,ci
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T18:53:54.420Z,17.9631666666667,-66.9706666666667,15.91,2.01,md,8,194,,0.09,pr,pr71357273,2022-07-03T19:03:05.500Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.54,0.54,0.00301011508946014,4,reviewed,pr,pr
 2022-07-03T18:53:44.570Z,33.664,-116.7318333,13.57,0.65,ml,19,75,0.0493,0.21,ci,ci40295936,2022-07-03T18:57:23.177Z,"8km S of Idyllwild, CA",earthquake,0.43,0.6,0.121,12,automatic,ci,ci
 2022-07-03T18:52:54.320Z,31.6683,-104.4949,5,2.3,ml,19,121,0.005,0.3,us,us6000hzkp,2022-07-03T19:36:57.040Z,"57 km S of Whites City, New Mexico",earthquake,1.3,1.2,0.148,36,reviewed,us,us
-2022-07-03T18:30:52.020Z,38.7871666,-122.7681656,2.27,1.36,md,27,81,0.01497,0.04,nc,nc73753966,2022-07-03T19:09:16.115Z,"2km NW of The Geysers, CA",earthquake,0.24,0.43,0.12,7,automatic,nc,nc
+2022-07-03T18:30:52.020Z,38.7871666,-122.7681656,2.27,1.36,md,27,81,0.01497,0.04,nc,nc73753966,2022-07-03T20:34:15.619Z,"2km NW of The Geysers, CA",earthquake,0.24,0.43,0.12,7,automatic,nc,nc
 2022-07-03T18:09:03.462Z,62.3463,-151.991,97,1.2,ml,,,,0.6,ak,ak0228glnlh6,2022-07-03T18:11:36.291Z,"50 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-03T17:58:04.097Z,61.8327,-146.9869,35.3,2.1,ml,,,,0.52,ak,ak0228glcnzt,2022-07-03T17:59:37.513Z,"15 km SE of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-03T17:55:46.967Z,-7.4296,127.7959,165.41,4.8,mb,48,54,3.514,0.79,us,us6000hzkl,2022-07-03T18:10:39.040Z,"149 km NE of Lospalos, Timor Leste",earthquake,6.7,7.8,0.088,40,reviewed,us,us
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T20:45:00.260Z,46.843833333333336,-121.76116666666667,3.44,0.58,ml,10,88,0.05888,0.08,uw,uw61848542,2022-07-03T03:53:57.570Z,"22 km ENE of Ashford, Washington",earthquake,0.33,31.61,0.09971671295000006,5,reviewed,uw,uw
 2022-07-02T20:41:54.962Z,61.7455,-147.6842,41.5,1.6,ml,,,,0.16,ak,ak0228ezi32g,2022-07-02T20:43:01.600Z,"7 km SSW of Glacier View, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-02T20:41:53.340Z,38.8433342,-122.8168335,1.62,0.9,md,21,65,0.0124,0.02,nc,nc73753636,2022-07-02T20:58:14.238Z,"8km WNW of Cobb, CA",earthquake,0.22,0.42,0.16,4,automatic,nc,nc
-2022-07-02T20:34:55.530Z,36.8893333,-90.4783333,4.23,2.71,md,57,50,0.1173,0.22,nm,nm60401721,2022-07-03T05:11:53.636Z,"11 km SE of Williamsville, Missouri",earthquake,0.35,1.59,0.137,45,reviewed,nm,nm
