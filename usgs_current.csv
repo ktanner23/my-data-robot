@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T18:32:52.590Z,38.7939987,-122.4226685,8.14,1.64,md,8,179,0.02282,0.07,nc,nc73755436,2022-07-06T20:35:22.482Z,"12km E of Hidden Valley Lake, CA",earthquake,1.57,1.43,0.11,6,automatic,nc,nc
 2022-07-06T18:31:47.572Z,61.189,-146.861,7.9,1.5,ml,,,,0.83,ak,ak0228lkeg4f,2022-07-06T20:04:58.883Z,"28 km WNW of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-07-06T18:31:32.730Z,39.4293333,-110.3,-1.7,1.58,md,6,198,0.02013,0.15,uu,uu60504677,2022-07-06T20:41:58.250Z,"15 km SSE of Sunnyside, Utah",earthquake,1.31,1.14,0.191,6,reviewed,uu,uu
-2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"211 km SE of Port Blair, India",earthquake,10.3,1.9,0.119,21,reviewed,us,us
+2022-07-06T18:31:23.731Z,10.3979,94.1893,10,4.5,mb,31,178,1.891,0.78,us,us6000i0bz,2022-07-06T20:12:49.040Z,"Andaman Islands, India region",earthquake,10.3,1.9,0.119,21,reviewed,us,us
 2022-07-06T18:24:24.825Z,15.8402,-93.5335,105.03,4.1,mb,28,168,1.412,0.57,us,us6000i0bv,2022-07-06T20:07:36.040Z,"4 km S of Tres Picos, Mexico",earthquake,9.3,13.1,0.101,27,reviewed,us,us
 2022-07-06T18:19:03.940Z,19.1823333333333,-155.400666666667,31.58,1.64,md,21,187,,0.12,hv,hv73067047,2022-07-06T21:54:07.750Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.72,0.93,0.116446179313557,13,reviewed,hv,hv
 2022-07-06T18:08:03.230Z,17.867,-66.8423333333333,17.36,1.87,md,5,248,,0.09,pr,pr71357783,2022-07-06T18:19:41.570Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,1.03,1.09,0.0271323751287048,4,reviewed,pr,pr
@@ -125,6 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T10:55:25.160Z,33.9791667,-116.9613333,15.9,1.48,ml,42,41,0.05981,0.18,ci,ci40297920,2022-07-06T11:06:22.050Z,"6km NNE of Beaumont, CA",earthquake,0.22,0.52,0.127,27,automatic,ci,ci
 2022-07-06T10:48:09.770Z,37.4758333,-118.8466667,5.45,0.69,md,23,132,0.1148,0.05,nc,nc73755296,2022-07-06T11:53:26.346Z,"18km WSW of Toms Place, CA",earthquake,0.24,1.18,0.226,20,reviewed,nc,nc
 2022-07-06T10:43:38.520Z,37.628,-118.8618333,5.37,-0.16,md,10,88,0.009036,0.03,nc,nc73755291,2022-07-06T11:19:53.618Z,"10km E of Mammoth Lakes, CA",earthquake,1.1,0.88,0.224,9,reviewed,nc,nc
+2022-07-06T10:39:08.469Z,37.0661,-117.8935,3.6,0.5,ml,3,312.87,0.259,0.152,nn,nn00842334,2022-07-06T23:34:00.321Z,"36 km ESE of Big Pine, California",earthquake,,8.7,0.52,3,reviewed,nn,nn
 2022-07-06T10:32:19.417Z,60.0552,-148.675,35.4,1.8,ml,,,,0.61,ak,ak0228lfn3zp,2022-07-06T10:35:06.354Z,"36 km W of Chenega, Alaska",earthquake,,6.9,,,automatic,ak,ak
 2022-07-06T10:31:27.370Z,33.5365,-116.4485,6.29,0.57,ml,17,51,0.0231,0.13,ci,ci40297912,2022-07-06T10:35:00.560Z,"19km SW of La Quinta, CA",earthquake,0.22,0.6,0.163,11,automatic,ci,ci
 2022-07-06T10:27:12.340Z,39.3371667,-123.4078333,6.7,1.2,md,12,121,0.1425,0.07,nc,nc73755286,2022-07-06T13:12:16.871Z,"9km SSW of Willits, CA",earthquake,0.39,1.51,0.445,11,reviewed,nc,nc
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-05T23:49:30.840Z,60.9632,-146.8904,27,1.3,ml,,,,0.67,ak,ak0228jzy38c,2022-07-05T23:50:42.812Z,"15 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-05T23:48:26.210Z,38.7711678,-122.7096634,0.77,2.56,md,47,46,0.01525,0.09,nc,nc73755121,2022-07-06T02:39:14.149Z,"2km WSW of Anderson Springs, CA",earthquake,0.19,0.34,0.14,28,automatic,nc,nc
 2022-07-05T23:42:07.130Z,37.5215,-118.8358333,8.54,0.61,md,7,312,0.09968,0.04,nc,nc73755111,2022-07-06T06:55:10.687Z,"14km WSW of Toms Place, CA",earthquake,4.21,2.72,0.056,7,reviewed,nc,nc
-2022-07-05T23:40:09.960Z,17.9981666666667,-66.9718333333333,10.71,2.03,md,6,144,,0.08,pr,pr71357603,2022-07-05T23:53:32.140Z,"5 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,0.38,0.66,0.137115464468879,6,reviewed,pr,pr
-2022-07-05T23:34:18.650Z,39.4281667,-110.3066667,-1.18,1.17,ml,8,196,0.01484,0.13,uu,uu60504582,2022-07-06T15:17:23.740Z,"15 km SSE of Sunnyside, Utah",earthquake,1.24,0.53,0.03,3,reviewed,uu,uu
