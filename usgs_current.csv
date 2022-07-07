@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-07T17:47:21.580Z,19.341667175293,-155.21533203125,4.8600001335144,2.45,ml,15,91,,0.119999997,hv,hv73068072,2022-07-07T17:52:51.640Z,"11 km S of Volcano, Hawaii",earthquake,0.48,1.53999996,0.11,3,automatic,hv,hv
 2022-07-07T17:43:17.829Z,63.3609,-151.377,3.5,1.6,ml,,,,0.28,ak,ak0228n7evae,2022-07-07T17:45:11.919Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T17:28:33.110Z,19.4741668701172,-155.602340698242,-1.25999999046326,1.99,ml,16,107,,0.349999994,hv,hv73068052,2022-07-07T17:34:05.770Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.81,0.550000012,3.73,7,automatic,hv,hv
 2022-07-07T17:27:47.000Z,19.1679992675781,-155.466171264648,30.2199993133545,2.67,ml,13,207,,0.100000001,hv,hv73068047,2022-07-07T17:33:18.910Z,"4 km SSE of Pāhala, Hawaii",earthquake,1.69,1.28999996,3.63,7,automatic,hv,hv
@@ -52,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T13:32:11.530Z,19.1606674194336,-155.470993041992,29.2999992370605,1.86000001,md,42,104,,0.150000006,hv,hv73067882,2022-07-07T13:35:21.180Z,"4 km S of Pāhala, Hawaii",earthquake,0.65,0.870000005,1.34000003,14,automatic,hv,hv
 2022-07-07T13:27:12.730Z,17.9896666666667,-66.8436666666667,17.44,2.67,md,7,176,,0.09,pr,pr71357983,2022-07-07T14:12:21.750Z,"2 km W of Indios, Puerto Rico",earthquake,0.48,0.63,0.171215501600568,6,reviewed,pr,pr
 2022-07-07T13:14:22.771Z,65.2401,-166.3831,14.89,2.8,ml,12,176,0.803,0.98,us,us6000i0j2,2022-07-07T16:23:08.040Z,"2 km SSW of Teller, Alaska",earthquake,4.4,6.7,0.077,22,reviewed,us,us
-2022-07-07T13:12:28.213Z,38.1613,-118.2062,10.4,1.7,ml,19,78.45,0.178,0.2095,nn,nn00842358,2022-07-07T13:15:42.555Z,"26 km SSW of Mina, Nevada",earthquake,,0.6,0.21,12,automatic,nn,nn
+2022-07-07T13:12:28.504Z,38.1686,-118.196,7.7,1.6,ml,24,72.69,0.169,0.1163,nn,nn00842358,2022-07-07T17:52:58.772Z,"25 km SSW of Mina, Nevada",earthquake,,2.5,0.19,11,reviewed,nn,nn
 2022-07-07T13:09:39.020Z,32.6506667,-115.7291667,8.47,1,ml,12,106,0.002703,0.18,ci,ci40298944,2022-07-07T13:13:12.414Z,"16km WNW of Progreso, B.C., MX",earthquake,0.56,0.66,0.291,6,automatic,ci,ci
 2022-07-07T13:06:58.240Z,38.8250008,-122.7975006,2.84,1.28,md,29,53,0.009951,0.02,nc,nc73755866,2022-07-07T15:29:30.545Z,"6km NW of The Geysers, CA",earthquake,0.24,0.41,0.08,6,automatic,nc,nc
 2022-07-07T13:05:52.400Z,17.9911666666667,-66.8418333333333,16.38,2.79,md,27,137,,0.21,pr,pr71357973,2022-07-07T14:50:28.040Z,"2 km W of Indios, Puerto Rico",earthquake,0.4,0.41,0.174638385310878,12,reviewed,pr,pr
@@ -244,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-06T18:06:38.160Z,39.4283333,-110.3038333,-1.35,1.56,ml,10,197,0.01701,0.14,uu,uu60504672,2022-07-06T20:35:15.470Z,"15 km SSE of Sunnyside, Utah",earthquake,1.13,0.62,0.072,5,reviewed,uu,uu
 2022-07-06T17:58:28.060Z,36.0201667,-117.8883333,4.66,0.97,ml,8,145,0.01251,0.08,ci,ci40298312,2022-07-06T18:02:06.866Z,"6km ESE of Coso Junction, CA",earthquake,0.31,0.51,0.24,3,automatic,ci,ci
 2022-07-06T17:57:25.360Z,35.6998333,-117.4891667,1.7,1.45,ml,21,84,0.1152,0.21,ci,ci40298304,2022-07-06T18:01:04.859Z,"11km SW of Searles Valley, CA",earthquake,0.52,0.67,0.192,18,automatic,ci,ci
-2022-07-06T17:54:44.140Z,40.5660019,-124.9586639,9.05,2.18,md,20,292,0.5695,0.13,nc,nc73755426,2022-07-06T19:43:15.207Z,"59km W of Ferndale, CA",earthquake,3.61,2.17,0.07,3,automatic,nc,nc
-2022-07-06T17:54:10.570Z,38.7921677,-122.803833,3.38,0.25,md,10,65,0.003882,0.02,nc,nc73755421,2022-07-06T18:09:17.670Z,"4km WNW of The Geysers, CA",earthquake,0.44,1.07,0.11,2,automatic,nc,nc
-2022-07-06T17:52:00.370Z,10.3603,94.3318,10,4.5,mb,39,161,5.486,0.88,us,us6000i0bw,2022-07-06T20:00:09.040Z,"225 km SE of Port Blair, India",earthquake,10.5,1.9,0.094,33,reviewed,us,us
-2022-07-06T17:51:45.490Z,39.4311667,-110.3076667,-1.16,1.88,ml,16,180,0.01524,0.12,uu,uu60504667,2022-07-06T20:11:06.260Z,"15 km SSE of Sunnyside, Utah",earthquake,0.71,0.31,0.091,6,reviewed,uu,uu
