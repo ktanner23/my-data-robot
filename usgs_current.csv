@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-08T16:35:55.910Z,19.4979991912842,-155.657669067383,-0.0199999995529652,2.6099999,md,32,58,,0.289999992,hv,hv73069377,2022-07-08T16:39:14.080Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.99000001,1.78999996,10,automatic,hv,hv
+2022-07-08T16:35:55.910Z,19.4979991912842,-155.657669067383,-0.0199999995529652,2.13,ml,32,58,,0.289999992,hv,hv73069377,2022-07-08T16:41:26.220Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.43,0.99000001,3.75,10,automatic,hv,hv
 2022-07-08T16:23:55.770Z,38.838665,-122.8368301,1.22,0.86,md,13,112,0.001052,0.02,nc,nc73756396,2022-07-08T16:33:10.727Z,"10km NW of The Geysers, CA",earthquake,0.28,0.52,,1,automatic,nc,nc
 2022-07-08T16:23:05.380Z,38.8371658,-122.7901688,1.93,0.85,md,11,76,0.001249,0.01,nc,nc73756391,2022-07-08T16:37:10.751Z,"6km WNW of Cobb, CA",earthquake,0.32,0.51,,1,automatic,nc,nc
-2022-07-08T16:18:04.360Z,38.8248329,-122.75,0.08,0.99,md,11,150,0.01654,0.03,nc,nc73756386,2022-07-08T16:28:10.693Z,"2km W of Cobb, CA",earthquake,0.29,0.77,0.13,3,automatic,nc,nc
+2022-07-08T16:18:04.360Z,38.8248329,-122.75,0.08,0.99,md,11,150,0.01654,0.03,nc,nc73756386,2022-07-08T16:52:14.850Z,"2km W of Cobb, CA",earthquake,0.29,0.77,0.13,3,automatic,nc,nc
 2022-07-08T16:16:56.900Z,17.9493333333333,-66.9251666666667,17.51,1.37,md,5,215,,0.33,pr,pr71358178,2022-07-08T16:32:47.130Z,"Puerto Rico region",earthquake,3.04,3.74,0.0796725847522515,3,reviewed,pr,pr
-2022-07-08T16:13:07.380Z,38.7596664,-122.7188339,1.85,0.88,md,14,71,0.00509,0.04,nc,nc73756381,2022-07-08T16:23:10.824Z,"3km SW of Anderson Springs, CA",earthquake,0.3,0.45,0.19,6,automatic,nc,nc
+2022-07-08T16:13:07.380Z,38.7596664,-122.7188339,1.85,0.88,md,14,71,0.00509,0.04,nc,nc73756381,2022-07-08T16:41:19.778Z,"3km SW of Anderson Springs, CA",earthquake,0.3,0.45,0.19,6,automatic,nc,nc
 2022-07-08T16:06:40.170Z,38.8321648,-122.8191681,2.03,0.36,md,9,80,0.01427,0.01,nc,nc73756376,2022-07-08T16:31:13.714Z,"8km NW of The Geysers, CA",earthquake,0.52,1.43,,1,automatic,nc,nc
 2022-07-08T15:58:14.400Z,33.9978333,-116.9063333,9.92,1.03,ml,17,70,0.05837,0.21,ci,ci40299904,2022-07-08T16:01:55.734Z,"8km NNW of Banning, CA",earthquake,0.58,0.97,0.454,20,automatic,ci,ci
 2022-07-08T15:56:23.380Z,40.7135,-112.0771667,9.62,1.12,md,9,80,0.0689,0.12,uu,uu60504992,2022-07-08T16:06:16.230Z,"2 km ENE of Magna, Utah",earthquake,0.53,1.39,0.243,5,reviewed,uu,uu
@@ -42,6 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T11:59:54.173Z,62.2294,-150.0507,30.6,1,ml,,,,0.48,ak,ak0228orh4el,2022-07-08T12:03:55.006Z,"10 km SSE of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-08T11:58:05.810Z,33.2446667,-116.1066667,3.48,1.07,ml,41,55,0.1025,0.23,ci,ci40299712,2022-07-08T12:01:47.626Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.28,0.91,0.151,25,automatic,ci,ci
 2022-07-08T11:57:48.965Z,24.8304,121.9869,8.92,4.3,mwr,47,46,0.467,0.55,us,us6000i0ti,2022-07-08T12:24:02.040Z,"25 km ENE of Yilan, Taiwan",earthquake,2.6,4.9,0.071,19,reviewed,us,us
+2022-07-08T11:54:16.510Z,33.2068333,-115.6068333,15.8,1.16,ml,8,265,0.02707,0.16,ci,ci40299704,2022-07-08T16:51:06.537Z,"9km WSW of Niland, CA",earthquake,0.85,0.74,0.191,4,reviewed,ci,ci
 2022-07-08T11:48:09.007Z,68.9016,-145.4709,8.9,3,ml,,,,0.64,ak,ak0228oreo1w,2022-07-08T11:56:41.040Z,"86 km N of Arctic Village, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-08T11:45:43.590Z,37.564167,-118.8636703,3.59,1.94,md,20,99,0.03769,0.02,nc,nc73756301,2022-07-08T13:46:10.669Z,"13km SE of Mammoth Lakes, CA",earthquake,0.4,0.75,0.15,21,automatic,nc,nc
 2022-07-08T11:18:13.310Z,44.3918333,-110.8396667,2.29,1.45,ml,7,175,0.05955,0.17,uu,uu60504977,2022-07-08T15:44:47.840Z,"36 km SE of West Yellowstone, Montana",earthquake,0.67,3.16,0.427,3,reviewed,uu,uu
@@ -86,6 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T07:37:29.515Z,36.8257,-115.5662,14.1,0.8,ml,19,184.18,0.303,0.1419,nn,nn00842406,2022-07-08T16:39:35.709Z,"29 km NNE of Indian Springs, Nevada",earthquake,,4,0.2,9,reviewed,nn,nn
 2022-07-08T07:36:46.860Z,38.8356667,-122.7955017,2.11,0.8,md,16,59,0.004871,0.01,nc,nc73756211,2022-07-08T09:18:10.996Z,"6km WNW of Cobb, CA",earthquake,0.27,0.54,0.26,3,automatic,nc,nc
 2022-07-08T07:36:28.060Z,38.8363342,-122.7955017,2.03,1.04,md,14,67,0.00453,0.01,nc,nc73756206,2022-07-08T08:53:10.861Z,"6km WNW of Cobb, CA",earthquake,0.3,0.53,0.15,2,automatic,nc,nc
+2022-07-08T07:35:23.820Z,36.1001667,-117.9111667,2.56,0.71,ml,13,180,0.0488,0.09,ci,ci40299592,2022-07-08T16:45:44.183Z,"7km NNE of Coso Junction, CA",earthquake,0.28,0.47,0.186,3,reviewed,ci,ci
 2022-07-08T07:27:24.671Z,38.5362,-119.4492,3.7,1,ml,9,134.14,0.033,0.1061,nn,nn00842405,2022-07-08T16:11:45.943Z,"3 km NE of Walker, California",earthquake,,2.2,0.24,4,reviewed,nn,nn
 2022-07-08T07:23:47.940Z,39.4208333,-110.2685,-3.38,1.53,md,6,209,0.04396,0.19,uu,uu60504952,2022-07-08T15:56:20.310Z,"17 km SE of Sunnyside, Utah",earthquake,2.71,4.93,0.221,5,reviewed,uu,uu
 2022-07-08T07:23:29.870Z,36.3665,-98.16333333,6.21,1.43,ml,80,68,0.03869240723,0.24,ok,ok2022ngbf,2022-07-08T13:15:22.874Z,"2 km SSE of Meno, Oklahoma",earthquake,,0.4,0.25,32,reviewed,ok,ok
@@ -158,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T01:13:58.302Z,70.8135,-6.2121,10,4.5,mb,45,107,9.348,0.91,us,us6000i0r1,2022-07-08T01:32:17.040Z,"92 km E of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.5,1.9,0.06,84,reviewed,us,us
 2022-07-08T01:01:44.497Z,-14.8764,167.1657,94.77,5.4,mww,76,26,0.568,0.89,us,us6000i0qx,2022-07-08T14:36:33.037Z,"20 km NNE of Port-Olry, Vanuatu",earthquake,8.6,3.4,0.093,11,reviewed,us,us
 2022-07-08T00:50:34.608Z,62.2092,-150.1378,23.8,0.9,ml,,,,0.87,ak,ak0228okvdsu,2022-07-08T01:14:01.347Z,"12 km S of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-08T00:50:19.730Z,36.2465,-120.8255,6.43,2.61,md,75,109,0.03628,0.13,nc,nc73756056,2022-07-08T13:59:33.430Z,"22km NE of San Lucas, CA",earthquake,0.23,0.32,0.159,98,reviewed,nc,nc
+2022-07-08T00:50:19.730Z,36.2465,-120.8255,6.43,2.61,md,75,109,0.03628,0.13,nc,nc73756056,2022-07-08T16:45:21.757Z,"22km NE of San Lucas, CA",earthquake,0.23,0.32,0.159,98,reviewed,nc,nc
 2022-07-08T00:09:21.790Z,18.5166,-65.1571,125,3.53,md,21,221,0.2542,0.43,pr,pr2022189000,2022-07-08T01:09:41.040Z,"28 km NNE of Culebra, Puerto Rico",earthquake,5.07,1.55,0.25,16,reviewed,pr,pr
 2022-07-08T00:04:59.271Z,28.927,-97.4248,5,2.7,mb_lg,11,198,0.343,0.56,us,us6000i0q7,2022-07-08T01:04:54.040Z,"Southern Texas",earthquake,2.5,2,0.076,45,reviewed,us,us
 2022-07-08T00:01:49.050Z,33.376,-116.884,7.26,0.9,ml,31,36,0.0286,0.27,ci,ci40299448,2022-07-08T00:05:23.040Z,"3km NW of Palomar Observatory, CA",earthquake,0.37,0.88,0.085,26,automatic,ci,ci
@@ -231,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T17:10:40.407Z,60.6577,-147.7316,13.9,1.5,ml,,,,0.79,ak,ak0228n77ueg,2022-07-07T17:13:55.980Z,"53 km ESE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T17:01:57.510Z,39.4211667,-110.2778333,-3.39,1.22,ml,6,206,0.03673,0.13,uu,uu60504837,2022-07-07T17:09:12.780Z,"17 km SSE of Sunnyside, Utah",earthquake,1.92,3.76,0.102,4,reviewed,uu,uu
 2022-07-07T16:58:50.470Z,39.4266667,-110.2983333,-1.59,1.21,ml,6,199,0.02089,0.16,uu,uu60504832,2022-07-07T17:05:34.630Z,"15 km SSE of Sunnyside, Utah",earthquake,2.29,1.81,0.116,4,reviewed,uu,uu
-2022-07-07T16:58:19.380Z,19.1883335113525,-155.494827270508,33.8699989318848,1.71000004,md,37,72,,0.109999999,hv,hv73068027,2022-07-07T17:01:28.320Z,"2 km SW of Pāhala, Hawaii",earthquake,0.65,0.839999974,1.54999995,6,automatic,hv,hv
-2022-07-07T16:53:14.990Z,39.4316667,-110.3185,-0.93,1.18,ml,6,191,0.009123,0.08,uu,uu60504827,2022-07-07T17:02:58.260Z,"14 km SSE of Sunnyside, Utah",earthquake,1.57,0.42,0.079,4,reviewed,uu,uu
-2022-07-07T16:42:56.260Z,17.9468333333333,-66.9136666666667,14.36,1.68,md,11,210,,0.18,pr,pr71358008,2022-07-07T17:01:08.370Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.66,0.57,0.0969928456980595,4,reviewed,pr,pr
