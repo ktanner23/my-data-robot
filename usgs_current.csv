@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-11T10:19:12.930Z,36.5545006,-121.1333313,8.18,1.58,md,13,101,0.0453,0.27,nc,nc73757401,2022-07-11T10:31:10.467Z,"3km NNE of Pinnacles, CA",earthquake,0.85,2.17,0.1,10,automatic,nc,nc
+2022-07-11T10:19:12.930Z,36.5545006,-121.1333313,8.18,1.58,md,13,101,0.0453,0.27,nc,nc73757401,2022-07-11T10:43:12.528Z,"3km NNE of Pinnacles, CA",earthquake,0.85,2.17,0.1,10,automatic,nc,nc
 2022-07-11T10:09:14.507Z,62.9081,-148.3477,12,1.4,ml,,,,0.85,ak,ak0228tp6xfe,2022-07-11T10:11:58.387Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-11T10:01:20.610Z,33.5223333,-116.517,12.38,0.7,ml,20,55,0.03697,0.21,ci,ci40301672,2022-07-11T10:04:50.123Z,"15km ESE of Anza, CA",earthquake,0.37,0.65,0.193,15,automatic,ci,ci
 2022-07-11T10:01:01.094Z,38.232,-117.8347,4.6,1.9,ml,15,144.35,0.123,0.1995,nn,nn00842566,2022-07-11T10:04:50.881Z,"29 km SE of Mina, Nevada",earthquake,,0.6,0.36,10,automatic,nn,nn
@@ -34,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T06:13:21.570Z,33.269001,-116.1305008,6.86,0.99,ml,46,54,0.1285,0.21,ci,ci40301624,2022-07-11T06:29:09.494Z,"14km N of Ocotillo Wells, CA",earthquake,0.26,1.11,0.144,4,automatic,ci,ci
 2022-07-11T06:12:28.330Z,35.9679985,-120.5223312,10.7,1.25,md,17,60,0.0246,0.06,nc,nc73757326,2022-07-11T07:02:10.171Z,"11km NW of Parkfield, CA",earthquake,0.46,0.72,0.14,9,automatic,nc,nc
 2022-07-11T06:05:05.370Z,38.8336678,-122.8184967,1.74,0.36,md,9,60,0.01219,0.01,nc,nc73757316,2022-07-11T06:37:11.034Z,"8km NW of The Geysers, CA",earthquake,0.36,1.3,,1,automatic,nc,nc
+2022-07-11T06:00:16.239Z,39.6232,23.3777,10,4,mb,39,42,0.835,0.39,us,us6000i1ii,2022-07-11T10:42:53.040Z,"30 km NE of Zagorá, Greece",earthquake,2.6,2,0.259,4,reviewed,us,us
 2022-07-11T05:55:45.373Z,38.4422,-118.4182,0,0.4,ml,8,136.73,0.064,0.298,nn,nn00842559,2022-07-11T06:00:04.604Z,"20 km ESE of Hawthorne, Nevada",earthquake,,0.3,0.3,5,automatic,nn,nn
 2022-07-11T05:54:05.130Z,35.7496667,-118.0428333,3.06,0.98,ml,18,51,0.131,0.12,ci,ci40301616,2022-07-11T05:57:35.481Z,"24km WNW of Inyokern, CA",earthquake,0.22,0.92,0.123,15,automatic,ci,ci
 2022-07-11T05:51:34.490Z,37.791,-121.9133333,10.57,1.03,md,21,102,0.09236,0.12,nc,nc73757311,2022-07-11T07:30:10.325Z,"3km S of Blackhawk, CA",earthquake,0.48,0.64,0.285,17,reviewed,nc,nc
@@ -195,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T11:35:40.770Z,38.7705,-122.738,0.82,0.03,md,17,73,0.01276,0.03,nc,nc73757051,2022-07-10T17:36:10.847Z,"2km ESE of The Geysers, CA",earthquake,0.22,0.25,0.111,4,reviewed,nc,nc
 2022-07-10T11:18:29.290Z,48.83416666666667,-122.12916666666666,-0.41,2.0100000000000002,ml,17,47,0.05707,0.31,uw,uw61851512,2022-07-10T16:36:58.340Z,"6 km E of Deming, Washington",earthquake,0.36,1.24,0.09249773408024309,13,reviewed,uw,uw
 2022-07-10T10:58:43.390Z,33.5175,-116.4325,5.5,0.41,ml,16,75,0.09143,0.14,ci,ci40301192,2022-07-10T15:21:26.239Z,"20km SW of La Quinta, CA",earthquake,0.28,1.35,0.215,7,reviewed,ci,ci
-2022-07-10T10:46:37.578Z,64.4255,-149.5258,13.7,0.7,ml,,,,0.36,ak,ak0228s1vk7h,2022-07-10T10:48:45.548Z,"18 km WNW of Anderson, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-07-10T10:43:45.380Z,38.8334999,-122.8171692,1.46,0.85,md,8,86,0.01151,0.01,nc,nc73757041,2022-07-10T11:23:11.421Z,"8km NW of The Geysers, CA",earthquake,0.35,1.13,,1,automatic,nc,nc
-2022-07-10T10:40:19.360Z,17.9386666666667,-67.0643333333333,6.05,2.19,md,8,250,,0.08,pr,pr71358653,2022-07-10T11:34:08.020Z,"4 km SSW of La Parguera, Puerto Rico",earthquake,0.5,0.28,0.132221187729072,5,reviewed,pr,pr
-2022-07-10T10:39:59.770Z,36.8221667,-121.271,13.31,1.03,md,14,157,0.08323,0.06,nc,nc73757036,2022-07-10T16:33:16.160Z,"6km NE of Tres Pinos, CA",earthquake,0.52,1.22,0.214,13,reviewed,nc,nc
