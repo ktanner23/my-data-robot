@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T22:32:50.348Z,65.9289,-150.6338,12.1,1.3,ml,,,,0.84,ak,ak0228twh4x6,2022-07-11T22:34:28.564Z,"51 km NNW of Rampart, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-11T22:32:15.490Z,33.3593333,-116.2181667,4.57,0.85,ml,22,90,0.1689,0.21,ci,ci40302072,2022-07-11T22:35:56.160Z,"16km SW of Oasis, CA",earthquake,0.38,1.07,0.131,19,automatic,ci,ci
 2022-07-11T22:27:24.390Z,19.4913330078125,-155.651840209961,-3.5,1.77999997,md,16,82,,0.300000012,hv,hv73072797,2022-07-11T22:32:54.770Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.39,0.419999987,0.569999993,11,automatic,hv,hv
-2022-07-11T22:23:36.733Z,-15.1629,-173.3249,10,5.6,mww,96,56,18.786,1.02,us,us6000i1nd,2022-07-11T22:50:16.891Z,"101 km NNE of Hihifo, Tonga",earthquake,11.9,1.8,0.089,12,reviewed,us,us
+2022-07-11T22:23:36.733Z,-15.1629,-173.3249,10,5.6,mww,96,56,18.786,1.02,us,us6000i1nd,2022-07-11T22:58:15.596Z,"101 km NNE of Hihifo, Tonga",earthquake,11.9,1.8,0.089,12,reviewed,us,us
 2022-07-11T21:46:55.665Z,-27.4204,-175.515,10,5,mb,26,168,2.803,1.16,us,us6000i1n0,2022-07-11T22:18:25.040Z,"Kermadec Islands region",earthquake,11.7,2,0.113,25,reviewed,us,us
 2022-07-11T21:40:46.704Z,38.505,-116.3671,16,2.2,ml,11,258.29,1.137,0.2601,nn,nn00842632,2022-07-11T21:45:03.036Z,"89 km ENE of Tonopah, Nevada",earthquake,,2.5,0.92,9,automatic,nn,nn
 2022-07-11T21:40:33.942Z,61.5319,-149.7077,20,1.6,ml,,,,0.72,ak,ak0228tvxdtk,2022-07-11T21:41:58.385Z,"6 km WNW of Knik-Fairview, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-11T14:08:07.926Z,63.1708,-150.5577,99.2,1.8,ml,,,,0.65,ak,ak0228trkfm9,2022-07-11T14:11:13.713Z,"71 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-11T14:05:51.020Z,35.6733333,-117.4963333,1.53,0.92,ml,10,150,0.1642,0.16,ci,ci40301784,2022-07-11T14:09:27.402Z,"13km SW of Searles Valley, CA",earthquake,0.67,0.85,0.136,7,automatic,ci,ci
 2022-07-11T14:03:56.690Z,38.8073349,-122.8251648,2.58,0.74,md,14,67,0.003489,0.03,nc,nc73757451,2022-07-11T14:38:12.922Z,"7km WNW of The Geysers, CA",earthquake,0.3,0.72,0.11,2,automatic,nc,nc
-2022-07-11T14:02:31.667Z,38.6158,-118.4657,9.2,0.9,ml,10,110.69,0.046,0.2386,nn,nn00842575,2022-07-11T14:06:38.113Z,"17 km NE of Hawthorne, Nevada",earthquake,,0.9,0.36,6,automatic,nn,nn
+2022-07-11T14:02:32.281Z,38.6145,-118.463,8.5,0.9,ml,17,94.06,0.048,0.1086,nn,nn00842575,2022-07-11T22:55:05.565Z,"17 km NE of Hawthorne, Nevada",earthquake,,1.2,0.45,6,reviewed,nn,nn
 2022-07-11T13:41:40.810Z,19.1823329925537,-155.497161865234,34.939998626709,2.00999999,md,31,81,,0.159999996,hv,hv73072497,2022-07-11T13:44:57.200Z,"3 km SW of Pāhala, Hawaii",earthquake,0.62,1.23000002,1.71000004,6,automatic,hv,hv
 2022-07-11T13:38:44.304Z,62.0648,-145.2549,17.1,1.3,ml,,,,1.05,ak,ak0228tr5ib2,2022-07-11T13:40:34.540Z,"7 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-11T13:32:15.030Z,35.1483333,-119.2303333,17.22,1.46,ml,12,114,0.2562,0.22,ci,ci40301768,2022-07-11T13:35:56.837Z,"18km ENE of Maricopa, CA",earthquake,0.7,2,0.241,16,automatic,ci,ci
@@ -232,5 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-10T23:06:55.238Z,64.9637,-147.2941,0,1.3,ml,,,,0.7,ak,ak0228s9dnsd,2022-07-10T23:10:15.675Z,"15 km E of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-10T23:03:51.140Z,46.87583333333333,-121.94783333333334,10.51,0.12,ml,11,106,0.009693,0.13,uw,uw61851667,2022-07-11T17:15:31.340Z,"14 km NNE of Ashford, Washington",earthquake,0.52,0.61,0.08286318500739873,8,reviewed,uw,uw
 2022-07-10T23:01:47.580Z,33.3198333,-116.2483333,1.7,0.74,ml,18,99,0.1269,0.24,ci,ci40301496,2022-07-10T23:05:18.907Z,"14km ENE of Borrego Springs, CA",earthquake,0.44,0.85,0.096,13,automatic,ci,ci
-2022-07-10T22:56:06.150Z,18.9111666666667,-65.2826666666667,22.42,3.39,md,23,253,,0.31,pr,pr71358758,2022-07-11T01:15:57.040Z,"67 km N of Culebra, Puerto Rico",earthquake,1.06,20.05,0.119994489374168,21,reviewed,pr,pr
-2022-07-10T22:53:33.777Z,62.3158,-148.3174,30.7,1.7,ml,,,,0.87,ak,ak0228s9296p,2022-07-10T22:56:14.298Z,"58 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
