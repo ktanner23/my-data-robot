@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-13T07:57:32.690Z,37.6105003,-118.9148331,4.73,1.05,md,14,192,0.01822,0.02,nc,nc73758166,2022-07-13T07:59:05.945Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.74,0.56,0.15,14,automatic,nc,nc
+2022-07-13T07:57:32.690Z,37.6105003,-118.9148331,4.73,1.05,md,14,192,0.01822,0.02,nc,nc73758166,2022-07-13T08:05:11.007Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.74,0.56,0.15,14,automatic,nc,nc
 2022-07-13T07:51:05.980Z,35.7801667,-117.5931667,6.14,0.63,ml,12,148,0.03567,0.13,ci,ci40302840,2022-07-13T07:54:41.214Z,"17km W of Searles Valley, CA",earthquake,0.38,0.59,0.109,7,automatic,ci,ci
-2022-07-13T07:43:34.340Z,38.7963333,-122.7588348,2.33,0.21,md,11,81,0.00434,0.02,nc,nc73758161,2022-07-13T07:49:11.044Z,"2km N of The Geysers, CA",earthquake,0.39,1.05,0.16,2,automatic,nc,nc
+2022-07-13T07:43:34.340Z,38.7963333,-122.7588348,2.33,0.21,md,11,81,0.00434,0.02,nc,nc73758161,2022-07-13T08:00:15.983Z,"2km N of The Geysers, CA",earthquake,0.39,1.05,0.16,2,automatic,nc,nc
 2022-07-13T07:39:43.427Z,63.0123,-151.0314,134.9,1.6,ml,,,,0.24,ak,ak0228wyntba,2022-07-13T07:42:05.146Z,"59 km NNW of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-07-13T07:36:38.592Z,38.1703,-118.1844,1.5,0.8,ml,10,145.75,0.256,0.1024,nn,nn00842794,2022-07-13T07:41:17.788Z,"25 km SSW of Mina, Nevada",earthquake,,10,0.05,8,automatic,nn,nn
 2022-07-13T07:28:46.860Z,38.8343315,-122.8198318,2.08,0.85,md,11,63,0.01294,0.01,nc,nc73758156,2022-07-13T07:45:14.902Z,"8km NW of The Geysers, CA",earthquake,0.42,1.44,,1,automatic,nc,nc
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T00:27:19.298Z,-22.0741,-113.3655,10,4.8,mb,76,179,37.644,1.08,us,us6000i1zf,2022-07-13T01:21:16.040Z,"Easter Island region",earthquake,19.7,2,0.062,82,reviewed,us,us
 2022-07-13T00:20:38.087Z,38.6319,-116.1867,1.6,1.9,ml,8,247.58,1.316,0.2833,nn,nn00842770,2022-07-13T00:27:25.442Z,"99 km S of Eureka, Nevada",earthquake,,5.3,1.09,6,automatic,nn,nn
 2022-07-13T00:19:53.949Z,-22.5726,-113.9263,10,4.7,mb,57,230,38.599,0.48,us,us6000i1zh,2022-07-13T01:14:28.040Z,"Easter Island region",earthquake,20.9,2,0.073,57,reviewed,us,us
-2022-07-13T00:15:54.629Z,63.274,-151.146,9.7,1.5,ml,,,,0.48,ak,ak0228wucnra,2022-07-13T00:17:47.530Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-13T00:15:54.629Z,63.274,-151.146,9.7,1.5,ml,,,,0.48,ak,ak0228wucnra,2022-07-13T00:17:47.530Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-13T00:10:56.100Z,38.8198333,-122.7818333,2.19,0.49,md,33,50,0.006626,0.03,nc,nc73758061,2022-07-13T04:56:13.878Z,"5km W of Cobb, CA",earthquake,0.14,0.23,0.12,5,reviewed,nc,nc
 2022-07-13T00:09:09.570Z,36.104,-117.8461667,2.13,1.77,ml,18,77,0.01527,0.17,ci,ci40302736,2022-07-13T00:12:42.371Z,"11km NE of Coso Junction, CA",earthquake,0.32,0.34,0.183,19,automatic,ci,ci
 2022-07-12T23:42:05.560Z,38.7608337,-122.741333,2.45,1.72,md,6,201,0.04867,0.01,nc,nc73758051,2022-07-13T02:38:14.032Z,"2km SE of The Geysers, CA",earthquake,2.37,3.83,0.89,2,automatic,nc,nc
@@ -242,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T08:35:36.700Z,35.744,-117.5233333,8.65,0.82,ml,12,260,0.09361,0.15,ci,ci40302264,2022-07-12T19:47:58.995Z,"11km WSW of Searles Valley, CA",earthquake,0.88,0.78,0.21,3,reviewed,ci,ci
 2022-07-12T08:26:10.220Z,34.1708333,-117.3178333,6.52,1.13,ml,51,44,0.03657,0.19,ci,ci40302256,2022-07-12T19:08:08.318Z,"3km NE of Muscoy, CA",earthquake,0.18,0.38,0.142,33,reviewed,ci,ci
 2022-07-12T08:25:45.510Z,34.6233333,-116.5605,9.26,1.27,ml,22,53,0.05651,0.14,ci,ci40302248,2022-07-12T18:54:52.018Z,"38km WSW of Ludlow, CA",earthquake,0.21,0.44,0.157,16,reviewed,ci,ci
-2022-07-12T08:10:36.679Z,38.7163,-116.1222,3.2,1.7,ml,6,155.19,0.834,0.1713,nn,nn00842678,2022-07-12T17:35:07.550Z,"89 km S of Eureka, Nevada",earthquake,,4.8,0.12,2,reviewed,nn,nn
-2022-07-12T08:03:53.310Z,33.5166667,-116.457,7.35,0.29,ml,18,121,0.027,0.1,ci,ci40302240,2022-07-12T18:49:44.984Z,"20km ESE of Anza, CA",earthquake,0.19,0.36,0.097,5,reviewed,ci,ci
-2022-07-12T08:02:59.040Z,33.4881667,-116.7551667,6.98,0.37,ml,31,60,0.04481,0.12,ci,ci40302232,2022-07-12T18:46:34.282Z,"11km SW of Anza, CA",earthquake,0.14,0.38,0.07,8,reviewed,ci,ci
