@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-14T17:20:30.330Z,33.639,-117.0086667,25.78,0.82,ml,13,164,0.209,0.15,ci,ci40063063,2022-07-14T17:24:05.235Z,"10km SE of Winchester, CA",earthquake,1.45,1.67,0.129,6,automatic,ci,ci
+2022-07-14T17:50:28.956Z,38.7636,-116.0878,0,1.8,ml,10,158.75,1.387,0.2639,nn,nn00842880,2022-07-14T17:55:17.365Z,"83 km S of Eureka, Nevada",earthquake,,10,0.21,8,automatic,nn,nn
 2022-07-14T17:20:06.950Z,19.2063331604004,-155.385162353516,30.0699996948242,2.38,ml,46,159,,0.150000006,hv,hv73075182,2022-07-14T17:25:38.080Z,"9 km E of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.86,18,automatic,hv,hv
 2022-07-14T17:12:24.200Z,35.3463333,-117.9751667,4.6,1.61,ml,24,66,0.02908,0.19,ci,ci40063047,2022-07-14T17:50:17.585Z,"24km N of California City, CA",earthquake,0.3,0.59,0.23,27,reviewed,ci,ci
 2022-07-14T17:05:25.560Z,47.94533333333333,-121.57766666666667,7.86,1.06,md,10,97,0.2619,0.19,uw,uw61861881,2022-07-14T17:36:52.430Z,"12 km NNE of May Creek, Washington",earthquake,0.39,1.02,0.20388950937728456,5,reviewed,uw,uw
@@ -130,7 +130,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T04:41:00.060Z,19.2971668243408,-154.983840942383,42.689998626709,2.18000007,md,29,224,,0.270000011,hv,hv73074822,2022-07-14T04:44:18.040Z,"20 km SSW of Leilani Estates, Hawaii",earthquake,2.03,0.939999998,1.09000003,3,automatic,hv,hv
 2022-07-14T04:30:29.190Z,47.2665,-122.0395,17.77,1.2,ml,21,165,0.07741,0.17,uw,uw61853037,2022-07-14T17:50:47.840Z,"5 km SSW of Black Diamond, Washington",earthquake,0.5,0.67,0.1431061496229411,18,reviewed,uw,uw
 2022-07-14T04:30:22.200Z,33.7223333,-116.8405,13.8,0.83,ml,31,103,0.07785,0.12,ci,ci40303408,2022-07-14T04:34:03.699Z,"6km ESE of Valle Vista, CA",earthquake,0.26,0.41,0.13,26,automatic,ci,ci
+2022-07-14T04:22:16.040Z,46.8545,-121.74516666666666,0.45,0.39,ml,11,76,0.02064,0.08,uw,uw61853032,2022-07-14T17:54:34.820Z,"24 km ENE of Ashford, Washington",earthquake,0.23,0.86,0.21503754152301358,7,reviewed,uw,uw
 2022-07-14T04:12:01.420Z,38.8231659,-122.8105011,2.8,0.84,md,12,100,0.0004045,0.02,nc,nc73758441,2022-07-14T04:39:14.256Z,"7km NW of The Geysers, CA",earthquake,0.31,1.1,,1,automatic,nc,nc
+2022-07-14T04:11:07.920Z,47.262,-122.0565,18.93,0.97,ml,16,112,0.06519,0.21,uw,uw61853027,2022-07-14T18:01:36.580Z,"6 km SW of Black Diamond, Washington",earthquake,0.68,1,0.15617925852667414,10,reviewed,uw,uw
 2022-07-14T04:07:03.445Z,63.5162,-147.4125,24.5,3.3,ml,,,,0.72,ak,ak0228yk7wzs,2022-07-14T16:19:00.376Z,"77 km E of Cantwell, Alaska",earthquake,,127.6,,,reviewed,ak,ak
 2022-07-14T04:06:19.960Z,63.5901,-147.4192,3.5,3.3,ml,,,,0.49,ak,ak0228yk7qk1,2022-07-14T04:08:15.900Z,"75 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-14T04:03:55.740Z,39.421,-110.2746667,-3.4,1.55,ml,8,189,0.03919,0.16,uu,uu60505687,2022-07-14T14:27:47.550Z,"17 km SE of Sunnyside, Utah",earthquake,1.78,3.47,0.125,4,reviewed,uu,uu
@@ -159,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T02:23:09.000Z,34.0515,-117.241,14.12,2.29,ml,111,16,0.06401,0.16,ci,ci40303352,2022-07-14T15:39:37.582Z,"2km E of Loma Linda, CA",earthquake,0.11,0.22,0.12,120,reviewed,ci,ci
 2022-07-14T02:22:46.014Z,60.669,-152.2807,97.2,0.7,ml,,,,0.91,ak,ak0228yj561s,2022-07-14T02:32:25.855Z,"52 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-14T02:14:25.088Z,-27.4505,-175.3535,10,5.2,mww,19,129,2.893,0.46,us,us6000i29z,2022-07-14T02:34:14.040Z,"Kermadec Islands region",earthquake,12.8,1.9,0.098,10,reviewed,us,us
-2022-07-14T02:09:09.290Z,36.4763333,-120.8728333,19.05,2.26,md,47,112,0.04249,0.11,nc,nc73758416,2022-07-14T15:49:16.630Z,"19km WNW of New Idria, CA",earthquake,0.26,0.3,0.145,51,reviewed,nc,nc
+2022-07-14T02:09:09.290Z,36.4763333,-120.8728333,19.05,2.26,md,47,112,0.04249,0.11,nc,nc73758416,2022-07-14T17:59:11.294Z,"19km WNW of New Idria, CA",earthquake,0.26,0.3,0.145,51,reviewed,nc,nc
 2022-07-14T02:08:31.320Z,35.8971667,-117.713,8.86,1.18,ml,18,64,0.09795,0.08,ci,ci40303344,2022-07-14T15:13:20.401Z,"18km ESE of Little Lake, CA",earthquake,0.13,0.41,0.132,8,reviewed,ci,ci
 2022-07-14T02:03:36.850Z,39.4283333,-110.2935,-2.38,1.37,ml,6,200,0.02484,0.08,uu,uu60505637,2022-07-14T14:43:18.310Z,"15 km SSE of Sunnyside, Utah",earthquake,1.47,2.65,0.143,3,reviewed,uu,uu
 2022-07-14T02:02:43.006Z,61.6654,-148.0843,19.3,0.6,ml,,,,0.26,ak,ak0228yj0298,2022-07-14T02:04:19.248Z,"24 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -176,12 +178,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T01:06:59.820Z,33.6513333,-116.7195,14.18,0.63,ml,26,82,0.05984,0.1,ci,ci40303328,2022-07-14T14:48:56.048Z,"10km S of Idyllwild, CA",earthquake,0.18,0.3,0.128,13,reviewed,ci,ci
 2022-07-14T01:02:24.090Z,62.9646,-150.379,85.8,1.2,ml,,,,0.39,ak,ak0228yiel6x,2022-07-14T01:04:20.677Z,"55 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-14T01:01:23.311Z,66.3601,-153.4765,0,1.9,ml,,,,0.58,ak,ak0228yiedez,2022-07-14T01:03:42.456Z,"40 km WSW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-07-14T00:46:31.694Z,31.74062973,-104.1140204,7.159887695,2.2,ml,14,53,0.07160557285,0.1,tx,tx2022nqnd,2022-07-14T18:00:02.463Z,"48 km W of Mentone, Texas",earthquake,0.9229757211,1.426562855,0.2,6,reviewed,tx,tx
 2022-07-14T00:42:05.380Z,37.4925,-118.5395,2.85,1.09,md,18,70,0.09444,0.08,nc,nc73758406,2022-07-14T04:21:13.149Z,"10km NNE of Round Valley, CA",earthquake,0.34,1.62,0.136,15,reviewed,nc,nc
 2022-07-14T00:34:12.210Z,33.3296667,-116.3185,9.98,0.67,ml,20,129,0.04083,0.15,ci,ci40303320,2022-07-14T14:34:31.201Z,"10km NNE of Borrego Springs, CA",earthquake,0.33,0.71,0.148,9,reviewed,ci,ci
 2022-07-14T00:33:53.099Z,62.9095,-149.8782,66.9,1.1,ml,,,,0.45,ak,ak0228yhzv0t,2022-07-14T00:35:59.148Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-14T00:33:15.043Z,27.6373,55.8899,10,4.2,mb,43,119,2.695,0.66,us,us6000i298,2022-07-14T00:45:28.040Z,"63 km NW of Bandar Abbas, Iran",earthquake,9.5,1.9,0.1,28,reviewed,us,us
 2022-07-14T00:29:51.360Z,39.4343333,-110.2951667,-3.02,1.83,ml,13,198,0.02534,0.17,uu,uu60505627,2022-07-14T14:24:39.780Z,"15 km SSE of Sunnyside, Utah",earthquake,1.07,2.06,0.143,6,reviewed,uu,uu
-2022-07-14T00:26:44.459Z,38.7602,-116.144,8.3,2.5,ml,12,157.38,1.403,0.2672,nn,nn00842850,2022-07-14T00:30:42.647Z,"85 km S of Eureka, Nevada",earthquake,,2.4,0.79,10,automatic,nn,nn
+2022-07-14T00:26:44.568Z,38.7366,-116.0851,0,2.6,ml,7,87.66,0.86,0.3181,nn,nn00842850,2022-07-14T18:01:04.827Z,"86 km S of Eureka, Nevada",earthquake,,0,0.25,3,reviewed,nn,nn
 2022-07-14T00:23:22.390Z,58.1681666666667,-155.3785,1.18,-0.34,ml,6,162,,0.06,av,av91631071,2022-07-14T17:23:17.530Z,"86 km NW of Karluk, Alaska",earthquake,0.45,1.23,0.0985345049150027,6,reviewed,av,av
 2022-07-14T00:08:43.610Z,38.833,-122.7493333,0.33,1.16,md,35,125,0.009315,0.05,nc,nc73758401,2022-07-14T05:55:11.713Z,"3km WNW of Cobb, CA",earthquake,0.18,0.23,0.255,8,reviewed,nc,nc
 2022-07-13T23:59:22.740Z,16.3052,145.683,527.32,4.6,mb,82,94,2.812,0.66,us,us6000i293,2022-07-14T00:17:01.040Z,"121 km N of Saipan, Northern Mariana Islands",earthquake,11.6,8.9,0.037,219,reviewed,us,us
@@ -256,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T18:24:58.343Z,38.6976,-116.0866,0.5,1.9,ml,7,103.43,0.865,0.278,nn,nn00842813,2022-07-14T02:39:29.630Z,"91 km S of Eureka, Nevada",earthquake,,3.2,0.22,3,reviewed,nn,nn
 2022-07-13T18:21:42.030Z,39.4311667,-110.3138333,-1.1,1.38,md,7,193,0.01122,0.15,uu,uu60505572,2022-07-13T21:36:40.150Z,"14 km SSE of Sunnyside, Utah",earthquake,1.41,0.84,0.105,6,reviewed,uu,uu
 2022-07-13T18:03:49.730Z,39.4285,-110.3025,-1.44,1.74,ml,10,197,0.01805,0.14,uu,uu60505567,2022-07-14T14:52:07.780Z,"15 km SSE of Sunnyside, Utah",earthquake,1.28,0.84,0.189,4,reviewed,uu,uu
-2022-07-13T17:58:15.900Z,46.8895,-123.50016666666667,-0.21,1.51,ml,16,79,0.1441,0.22,uw,uw61852782,2022-07-14T03:20:53.670Z,"11 km S of Brady, Washington",explosion,0.81,31.61,0.1430395920386729,12,reviewed,uw,uw
-2022-07-13T17:56:17.728Z,-17.089,-71.3254,81.22,4.9,mb,45,139,1.582,0.68,us,us6000i25c,2022-07-13T18:35:51.980Z,"39 km SSW of La Capilla, Peru",earthquake,10.2,7.8,0.045,156,reviewed,us,us
