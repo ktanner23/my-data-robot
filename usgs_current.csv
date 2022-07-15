@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T13:25:34.990Z,47.516666666666666,-122.4945,1.45,1.1500000000000001,ml,8,179,0.1998,0.27,uw,uw61862181,2022-07-15T16:48:15.140Z,"0 km NE of Southworth, Washington",earthquake,1.1,3.19,0.10767009945083672,4,reviewed,uw,uw
 2022-07-15T13:23:29.243Z,31.67481786,-104.4234363,6.157275391,3.2,ml,25,83,0.06622107952,0.2,tx,tx2022nthp,2022-07-15T15:09:42.837Z,"55 km S of Whites City, New Mexico",earthquake,1.15211292,1.438215701,0.1,19,reviewed,tx,tx
 2022-07-15T13:22:38.310Z,33.7778333,-116.123,2.36,1.35,ml,37,90,0.0842,0.19,ci,ci40063831,2022-07-15T13:26:27.236Z,"11km NE of Indio, CA",earthquake,0.24,0.53,0.133,27,automatic,ci,ci
-2022-07-15T13:19:54.411Z,38.7083,-116.1084,0,1.6,ml,6,154.6,0.846,0.1295,nn,nn00842970,2022-07-15T19:09:24.752Z,"90 km S of Eureka, Nevada",earthquake,,5.7,0.03,3,reviewed,nn,nn
+2022-07-15T13:19:54.539Z,38.7063,-116.1104,0,1.5,ml,8,154.45,0.845,0.1606,nn,nn00842970,2022-07-15T19:12:33.287Z,"90 km S of Eureka, Nevada",earthquake,,0,0.06,4,reviewed,nn,nn
 2022-07-15T13:15:35.140Z,40.4133333,-121.4761667,7.91,1.35,md,6,121,0.06003,0.08,nc,nc73758876,2022-07-15T18:57:20.128Z,"10km NE of Mineral, CA",earthquake,0.56,1.22,0.091,6,reviewed,nc,nc
 2022-07-15T13:08:56.570Z,60.278,-152.9285,120.4,1.1,ml,,,,0.75,ak,ak02290d4hqx,2022-07-15T13:11:39.038Z,"74 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-15T13:07:57.191Z,64.5822,-147.8715,29.5,0.6,ml,,,,0.78,ak,ak02290d4a2v,2022-07-15T13:11:57.101Z,"25 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T11:52:10.660Z,41.9026667,-112.3656667,5.19,1.03,md,12,139,0.04057,0.14,uu,uu60505877,2022-07-15T14:39:58.580Z,"13 km SW of Portage, Utah",earthquake,0.54,1.14,0.147,10,reviewed,uu,uu
 2022-07-15T11:46:04.620Z,48.782666666666664,-121.85066666666667,-0.71,1.36,ml,5,152,0.03362,0.36,uw,uw61862176,2022-07-15T16:41:48.530Z,"13 km SSE of Glacier, Washington",earthquake,1.3,2.57,0.10918144745853042,5,reviewed,uw,uw
 2022-07-15T11:31:48.341Z,38.589,-119.4344,7,1.7,ml,24,51.69,0.067,0.1258,nn,nn00842959,2022-07-15T18:23:01.658Z,"6 km ENE of Coleville, California",earthquake,,1.2,0.32,8,reviewed,nn,nn
-2022-07-15T11:29:41.390Z,38.581,-119.4401667,6.72,2.27,md,15,65,0.06265,0.11,nc,nc73758856,2022-07-15T19:08:10.182Z,"8km NNE of Walker, CA",earthquake,0.33,0.67,0.307,19,reviewed,nc,nc
+2022-07-15T11:29:41.390Z,38.581,-119.4401667,6.72,2.27,md,15,65,0.06265,0.11,nc,nc73758856,2022-07-15T19:12:17.199Z,"8km NNE of Walker, CA",earthquake,0.33,0.67,0.307,19,reviewed,nc,nc
 2022-07-15T11:28:17.566Z,38.6586,-116.1455,0.3,1.6,ml,8,250.1,1.572,0.3036,nn,nn00842955,2022-07-15T11:33:22.041Z,"96 km S of Eureka, Nevada",earthquake,,7.1,0.2,4,automatic,nn,nn
 2022-07-15T11:19:19.310Z,37.6351667,-119.0348333,0.69,-0.02,md,7,97,0.008972,0.02,nc,nc73758851,2022-07-15T16:28:30.264Z,"5km W of Mammoth Lakes, CA",earthquake,0.48,0.32,0.315,7,reviewed,nc,nc
 2022-07-15T11:18:22.538Z,51.6921,-176.3634,50.19,3.9,mb,36,191,0.275,0.5,us,us6000i2na,2022-07-15T17:59:29.452Z,"27 km SE of Adak, Alaska",earthquake,8.4,8.8,0.075,47,reviewed,us,us
@@ -119,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T08:28:10.510Z,35.6965,-117.5261667,11.64,0.7,ml,7,167,0.1324,0.12,ci,ci40063719,2022-07-15T08:31:51.342Z,"14km SW of Searles Valley, CA",earthquake,0.54,1.3,0.127,6,automatic,ci,ci
 2022-07-15T08:26:28.680Z,33.6573333,-116.7241667,14.28,0.78,ml,33,61,0.05434,0.15,ci,ci40063711,2022-07-15T15:49:22.090Z,"9km S of Idyllwild, CA",earthquake,0.25,0.36,0.176,24,reviewed,ci,ci
 2022-07-15T08:23:06.400Z,38.8009987,-122.7796631,2.36,0.79,md,21,77,0.01013,0.03,nc,nc73758811,2022-07-15T08:38:14.497Z,"3km NW of The Geysers, CA",earthquake,0.26,0.46,0.05,3,automatic,nc,nc
+2022-07-15T08:22:44.865Z,31.6492625,-104.2391414,7.905419922,2.2,ml,13,57,0.174415571,0.1,tx,tx2022nsxs,2022-07-15T19:16:34.391Z,"56 km NW of Toyah, Texas",earthquake,1.106887771,2.142522339,0.2,7,reviewed,tx,tx
 2022-07-15T08:16:47.020Z,33.2433333,-116.6396667,11.37,0.19,ml,9,85,0.04452,0.07,ci,ci40063703,2022-07-15T08:20:26.422Z,"4km S of Warner Springs, CA",earthquake,0.32,0.45,0.083,4,automatic,ci,ci
 2022-07-15T08:16:43.505Z,24.7591,122.2389,100.43,4.3,mb,45,54,0.706,0.57,us,us6000i2m4,2022-07-15T08:33:04.040Z,"49 km E of Yilan, Taiwan",earthquake,5.1,6.2,0.103,27,reviewed,us,us
 2022-07-15T08:00:33.410Z,43.58016666666666,-123.94666666666667,36.61,1.6500000000000001,ml,20,86,0.0417,0.12,uw,uw61862151,2022-07-15T16:07:40.220Z,"18 km SE of Reedsport, Oregon",earthquake,0.29,0.51,0.171854472639571,13,reviewed,uw,uw
@@ -158,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T04:26:26.070Z,35.7066667,-117.581,9.58,1.19,ml,19,86,0.1097,0.11,ci,ci40063567,2022-07-15T18:07:52.229Z,"13km NE of Ridgecrest, CA",earthquake,0.25,0.52,0.103,4,reviewed,ci,ci
 2022-07-15T04:23:33.143Z,31.64007664,-104.2379983,6.979931641,2.1,ml,13,66,0.116877032,0.3,tx,tx2022nspu,2022-07-15T18:13:26.968Z,"55 km NW of Toyah, Texas",earthquake,1.22145041,2.011468174,0.2,17,reviewed,tx,tx
 2022-07-15T04:20:05.920Z,36.0915,-117.6936667,1.96,1.62,ml,13,140,0.1028,0.2,ci,ci40063559,2022-07-15T04:23:48.387Z,"24km ENE of Coso Junction, CA",earthquake,0.54,1.09,0.109,17,automatic,ci,ci
-2022-07-15T04:17:49.922Z,31.65848222,-104.2338263,4.203466797,2.2,ml,12,68,0.1971044816,0.1,tx,tx2022nspp,2022-07-15T18:48:21.992Z,"56 km NW of Toyah, Texas",earthquake,1.154603611,3.331089309,0.1,7,reviewed,tx,tx
+2022-07-15T04:17:50.277Z,31.64838276,-104.2316006,7.802587891,2.2,ml,11,65,0.1094651881,0.3,tx,tx2022nspp,2022-07-15T19:18:17.393Z,"55 km NW of Toyah, Texas",earthquake,1.311857441,2.048036664,0.2,13,reviewed,tx,tx
 2022-07-15T04:13:57.113Z,53.1602,-166.866,17.6,1.6,ml,,,,0.22,ak,ak022907srwf,2022-07-15T17:46:04.524Z,"82 km SSW of Unalaska, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2022-07-15T04:12:43.759Z,31.6493298,-104.2262256,7.596923828000001,2.3,ml,10,67,0.1094511572,0.3,tx,tx2022nspl,2022-07-15T18:00:17.578Z,"55 km NW of Toyah, Texas",earthquake,1.36867422,1.921521643,0.2,11,reviewed,tx,tx
 2022-07-15T04:07:17.590Z,35.7068333,-117.4886667,1.12,1.01,ml,10,270,0.1402,0.13,ci,ci40063551,2022-07-15T04:11:00.769Z,"10km SW of Searles Valley, CA",earthquake,0.86,0.62,0.132,9,automatic,ci,ci
@@ -282,8 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-14T19:28:18.599Z,53.6148,-165.8492,20.2,1.8,ml,,,,0.28,ak,ak0228yt9xmq,2022-07-14T20:38:18.557Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,3.9,,,reviewed,ak,ak
 2022-07-14T19:27:56.960Z,36.086,-117.8043333,5.87,1.56,ml,21,69,0.05165,0.1,ci,ci40063167,2022-07-14T22:09:15.249Z,"14km ENE of Coso Junction, CA",earthquake,0.15,0.34,0.365,4,reviewed,ci,ci
 2022-07-14T19:25:01.860Z,36.434,-121.0093333,10.52,1.65,md,32,74,0.01219,0.09,nc,nc73758636,2022-07-15T02:05:42.116Z,"16km SE of Pinnacles, CA",earthquake,0.25,0.47,0.309,28,reviewed,nc,nc
-2022-07-14T19:19:34.990Z,33.2763333,-115.9781667,3.41,1.35,ml,41,48,0.1026,0.23,ci,ci40063151,2022-07-15T01:58:48.750Z,"3km SW of Salton City, CA",earthquake,0.27,0.76,0.144,27,automatic,ci,ci
-2022-07-14T19:19:01.520Z,38.7253,-116.087,0,1.7,ml,4,155.85,1.394,0.0707,nn,nn00842890,2022-07-15T02:40:07.309Z,"88 km S of Eureka, Nevada",earthquake,,23.3,0.14,3,reviewed,nn,nn
-2022-07-14T19:16:58.881Z,10.7013,-62.597,108.55,5.4,mb,117,31,1.696,0.86,us,us6000i2g9,2022-07-15T18:50:19.889Z,"35 km WNW of Güiria, Venezuela",earthquake,8.3,5.9,0.021,786,reviewed,us,us
-2022-07-14T19:14:18.210Z,59.987,-153.081,2.93,-0.3,ml,5,123,,0.08,av,av91632811,2022-07-15T07:55:30.210Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.39,1.05,0.214868671462873,5,reviewed,av,av
-2022-07-14T19:12:26.280Z,33.2748333,-115.9771667,3.03,1.14,ml,30,95,0.1011,0.28,ci,ci40063143,2022-07-14T19:16:00.042Z,"3km SW of Salton City, CA",earthquake,0.55,1.05,0.152,28,automatic,ci,ci
