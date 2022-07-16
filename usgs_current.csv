@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-16T10:31:58.053Z,-22.5833,-114.2206,10,4.9,mb,71,156,37.117,0.46,us,us6000i30n,2022-07-16T10:57:03.040Z,"Easter Island region",earthquake,15.2,1.9,0.036,247,reviewed,us,us
 2022-07-16T10:24:22.550Z,38.8361664,-122.7983322,1.72,1.21,md,26,67,0.006628,0.03,nc,nc73759261,2022-07-16T10:42:11.558Z,"7km WNW of Cobb, CA",earthquake,0.19,0.35,0.07,5,automatic,nc,nc
-2022-07-16T10:22:56.940Z,37.5473328,-118.8509979,7.84,1.21,md,14,215,0.04603,0.03,nc,nc73759256,2022-07-16T10:36:10.531Z,"15km SE of Mammoth Lakes, CA",earthquake,0.59,1.35,0.07,13,automatic,nc,nc
+2022-07-16T10:22:56.940Z,37.5473328,-118.8509979,7.84,1.21,md,14,215,0.04603,0.03,nc,nc73759256,2022-07-16T11:03:16.667Z,"15km SE of Mammoth Lakes, CA",earthquake,0.59,1.35,0.07,13,automatic,nc,nc
 2022-07-16T10:22:33.200Z,38.8348351,-122.8000031,2.21,0.97,md,16,59,0.008345,0.01,nc,nc73759251,2022-07-16T10:56:10.629Z,"7km WNW of Cobb, CA",earthquake,0.26,0.75,0.27,2,automatic,nc,nc
 2022-07-16T10:22:18.360Z,38.8351669,-122.7986679,2.23,1.42,md,27,40,0.007262,0.02,nc,nc73759246,2022-07-16T10:54:18.618Z,"7km WNW of Cobb, CA",earthquake,0.18,0.34,0.11,7,automatic,nc,nc
 2022-07-16T10:14:49.480Z,33.6626667,-116.7633333,11.3,0.21,ml,19,86,0.06341,0.12,ci,ci40064391,2022-07-16T10:18:44.577Z,"10km SSW of Idyllwild, CA",earthquake,0.34,0.43,0.179,7,automatic,ci,ci
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T19:37:21.087Z,-44.5696,-79.7528,10,6.4,mww,109,108,5.671,0.97,us,us6000i2v0,2022-07-16T06:31:49.166Z,"Off the coast of Aisen, Chile",earthquake,9.9,1.9,0.05,38,reviewed,us,us
 2022-07-15T19:35:52.390Z,44.3723333,-110.7811667,2.65,1.31,ml,8,96,0.08817,0.08,uu,uu60505927,2022-07-15T20:08:07.110Z,"41 km SE of West Yellowstone, Montana",earthquake,0.32,1.42,0.286,2,reviewed,uu,uu
 2022-07-15T19:33:58.650Z,54.5678333333333,-163.313833333333,12.57,1.01,ml,6,241,,0.19,av,av91066163,2022-07-16T07:04:46.810Z,"32 km S of False Pass, Alaska",earthquake,1.18,0.96,0.229172056512864,6,reviewed,av,av
-2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"14 km SSE of Sunnyside, Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
+2022-07-15T19:00:47.420Z,39.4316667,-110.3135,-1.09,1.22,ml,7,194,0.01174,0.11,uu,uu60505917,2022-07-15T20:24:04.980Z,"Utah",earthquake,1.25,0.61,0.002,2,reviewed,uu,uu
 2022-07-15T18:45:09.250Z,38.786335,-122.7245026,1.5,1.1,md,16,84,0.01004,0.04,nc,nc73758966,2022-07-15T20:40:16.667Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.5,0.1,4,automatic,nc,nc
 2022-07-15T18:42:06.416Z,57.3486,-154.6531,38.6,2,ml,,,,0.71,ak,ak02290gau71,2022-07-15T18:44:37.259Z,"Kodiak Island region, Alaska",earthquake,,11.5,,,automatic,ak,ak
 2022-07-15T18:36:54.935Z,59.8095,-153.2234,115,1.6,ml,,,,0.3,ak,ak02290g9np1,2022-07-15T21:09:24.040Z,"49 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -268,5 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-15T11:28:18.426Z,38.6803,-116.0952,3.2,1.6,ml,7,152.5,0.861,0.2591,nn,nn00842955,2022-07-15T19:52:47.676Z,"93 km S of Eureka, Nevada",earthquake,,8.1,0.06,2,reviewed,nn,nn
 2022-07-15T11:19:19.310Z,37.6351667,-119.0348333,0.69,-0.02,md,7,97,0.008972,0.02,nc,nc73758851,2022-07-15T16:28:30.264Z,"5km W of Mammoth Lakes, CA",earthquake,0.48,0.32,0.315,7,reviewed,nc,nc
 2022-07-15T11:18:22.538Z,51.6921,-176.3634,50.19,3.9,mb,36,191,0.275,0.5,us,us6000i2na,2022-07-15T17:59:29.452Z,"27 km SE of Adak, Alaska",earthquake,8.4,8.8,0.075,47,reviewed,us,us
-2022-07-15T11:04:28.580Z,46.65083333333333,-120.92383333333333,0.01,1.3800000000000001,ml,18,121,0.1068,0.29,uw,uw61862166,2022-07-15T15:55:48.210Z,"13 km NNW of Tampico, Washington",earthquake,0.63,4.72,0.22198402062092448,15,reviewed,uw,uw
-2022-07-15T11:03:17.525Z,-16.3309,-73.9476,43.37,4.4,mb,31,156,3.996,0.62,us,us6000i2n6,2022-07-15T11:23:43.040Z,"Near the coast of southern Peru",earthquake,10.1,12.7,0.138,16,reviewed,us,us
