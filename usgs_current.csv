@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-19T06:29:50.460Z,33.5203323,-116.5401688,14.88,1.24,ml,34,41,0.03785,0.16,ci,ci40066143,2022-07-19T06:31:56.690Z,"13km ESE of Anza, CA",earthquake,0.33,0.6,0.261,10,automatic,ci,ci
 2022-07-19T06:07:56.510Z,62.2146,-149.9994,25.4,1.1,ml,,,,0.41,ak,ak02296v3mrn,2022-07-19T06:10:07.723Z,"9 km NW of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-19T05:46:11.440Z,18.8503341674805,-155.22233581543,10.1499996185303,2.68,ml,25,262,,0.280000001,hv,hv73079817,2022-07-19T06:07:08.040Z,"44 km ESE of Naalehu, Hawaii",earthquake,1.24,1.46000004,3.4,7,automatic,hv,hv
 2022-07-19T05:31:20.270Z,17.9505,-66.9413333333333,13.28,2.19,md,20,198,,0.13,pr,pr71360238,2022-07-19T05:42:44.800Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.51,0.26,0.0541944570635533,8,reviewed,pr,pr
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T00:53:31.770Z,32.6126667,-115.2976667,29.29,1.78,ml,11,152,0.2296,0.29,ci,ci40066063,2022-07-19T00:57:26.147Z,"8km NE of Puebla, B.C., MX",earthquake,1,2.64,0.238,19,automatic,ci,ci
 2022-07-19T00:41:48.563Z,60.6245,-151.2265,57.1,2.6,ml,,,,0.14,ak,ak02296rqavc,2022-07-19T01:01:26.040Z,"5 km ENE of Salamatof, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2022-07-19T00:34:44.690Z,38.7565002,-122.7204971,1.38,0.68,md,8,164,0.006124,0.03,nc,nc73760411,2022-07-19T01:08:15.334Z,"3km SW of Anderson Springs, CA",earthquake,0.45,0.55,0.16,2,automatic,nc,nc
-2022-07-19T00:22:53.630Z,38.7585,-122.719,1.06,0.35,md,9,82,0.005526,0.02,nc,nc73760406,2022-07-19T06:07:10.056Z,"3km SW of Anderson Springs, CA",earthquake,0.34,0.64,0.414,2,reviewed,nc,nc
+2022-07-19T00:22:53.630Z,38.7585,-122.719,1.06,0.35,md,9,82,0.005526,0.02,nc,nc73760406,2022-07-19T06:22:14.151Z,"3km SW of Anderson Springs, CA",earthquake,0.34,0.64,0.414,2,reviewed,nc,nc
 2022-07-19T00:22:19.010Z,38.7555,-122.7228333,1.52,0.21,md,17,63,0.006287,0.03,nc,nc71128559,2022-07-19T06:11:20.075Z,"3km SW of Anderson Springs, CA",earthquake,0.22,0.26,0.064,4,reviewed,nc,nc
 2022-07-19T00:21:20.730Z,19.4826666666667,-155.584333333333,-0.66,2.37,md,20,70,,0.17,hv,hv73079527,2022-07-19T00:47:25.040Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.33,0.121254590071204,8,reviewed,hv,hv
 2022-07-19T00:21:10.280Z,38.7571667,-122.7201667,0.9,0.18,md,12,75,0.005745,0.01,nc,nc73760396,2022-07-19T06:15:11.099Z,"3km SW of Anderson Springs, CA",earthquake,0.24,0.29,0.078,3,reviewed,nc,nc
@@ -214,9 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T06:59:20.090Z,35.9958344,-120.5548325,3.87,1.27,md,15,72,0.02005,0.04,nc,nc73760126,2022-07-18T09:16:13.685Z,"16km NW of Parkfield, CA",earthquake,0.32,0.45,0.19,8,automatic,nc,nc
 2022-07-18T06:55:38.690Z,38.8178329,-122.822998,2.86,0.77,md,19,51,0.01017,0.02,nc,nc73760121,2022-07-18T07:27:15.039Z,"7km NW of The Geysers, CA",earthquake,0.24,0.6,0.1,2,automatic,nc,nc
 2022-07-18T06:48:44.670Z,38.8395004,-122.8786697,2.11,0.62,md,9,98,0.003947,0.04,nc,nc73760116,2022-07-18T07:14:14.108Z,"13km ENE of Cloverdale, CA",earthquake,0.51,0.61,0.27,2,automatic,nc,nc
-2022-07-18T06:30:38.971Z,38.1876,-117.7569,9.3,0.8,ml,9,195.01,0.117,0.0664,nn,nn00843144,2022-07-18T06:35:08.333Z,"38 km SE of Mina, Nevada",earthquake,,1.1,0.05,5,automatic,nn,nn
-2022-07-18T06:30:23.420Z,38.8224983,-122.8228302,0.83,2.14,md,38,45,0.00955,0.05,nc,nc73760111,2022-07-18T08:51:14.519Z,"8km NW of The Geysers, CA",earthquake,0.15,0.23,0.09,14,automatic,nc,nc
-2022-07-18T06:27:14.130Z,38.8180008,-122.824501,2.7,0.76,md,18,55,0.009682,0.02,nc,nc73760106,2022-07-18T07:04:14.897Z,"7km NW of The Geysers, CA",earthquake,0.28,0.63,0.49,2,automatic,nc,nc
-2022-07-18T06:20:46.720Z,36.253,-120.8405,8.88,1.15,md,37,107,0.04875,0.13,nc,nc73760101,2022-07-19T05:46:13.939Z,"21km NE of San Lucas, CA",earthquake,0.29,0.38,0.333,21,reviewed,nc,nc
-2022-07-18T06:19:05.410Z,33.1765,-116.0073333,2.73,1.19,ml,32,53,0.025,0.26,ci,ci40065671,2022-07-18T06:22:52.925Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.38,0.64,0.146,22,automatic,ci,ci
-2022-07-18T06:18:07.480Z,33.4218333,-116.9166667,10.43,0.76,ml,28,38,0.1017,0.19,ci,ci40065663,2022-07-18T06:21:36.108Z,"5km WSW of Aguanga, CA",earthquake,0.28,0.83,0.13,19,automatic,ci,ci
