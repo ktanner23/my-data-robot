@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-21T08:45:26.050Z,40.2265015,-124.0986633,11.9,1.95,md,14,152,,0.1,nc,nc73761211,2022-07-21T08:46:59.345Z,"19km SE of Petrolia, CA",earthquake,0.37,0.61,0.06,9,automatic,nc,nc
+2022-07-21T08:45:00.080Z,40.2299995,-124.0979996,14.59,1.96,md,10,150,,0.07,nc,nc73761206,2022-07-21T08:52:10.297Z,"19km ESE of Petrolia, CA",earthquake,0.51,0.96,0.06,8,automatic,nc,nc
 2022-07-21T08:35:31.010Z,33.58,-116.5966667,15.15,0.42,ml,19,68,0.01814,0.13,ci,ci40067159,2022-07-21T08:39:01.313Z,"8km ENE of Anza, CA",earthquake,0.29,0.47,0.166,7,automatic,ci,ci
 2022-07-21T08:34:43.560Z,34.0643333,-117.3006667,15.84,1.23,ml,45,56,0.03146,0.22,ci,ci40067151,2022-07-21T08:38:22.913Z,"2km SE of Colton, CA",earthquake,0.31,0.69,0.211,30,automatic,ci,ci
 2022-07-21T08:33:46.410Z,33.039,-116.013,4.9,1.31,ml,30,59,0.1373,0.24,ci,ci40067143,2022-07-21T08:44:15.880Z,"16km SE of Ocotillo Wells, CA",earthquake,0.34,1.28,0.132,28,automatic,ci,ci
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T07:46:15.500Z,19.4913330078125,-155.661834716797,0.280000001192093,2,ml,42,68,,0.25999999,hv,hv73082842,2022-07-21T07:51:48.150Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.46,1.13999999,3.64,11,automatic,hv,hv
 2022-07-21T07:39:10.400Z,34.9523333,-118.6116667,7.29,1.72,ml,40,39,0.06156,0.23,ci,ci40067135,2022-07-21T07:50:02.360Z,"20km N of Neenach, CA",earthquake,0.3,1.48,0.229,28,automatic,ci,ci
 2022-07-21T07:36:16.115Z,31.6397,-104.3956,5,3.1,ml,28,101,0.094,0.23,us,us7000hsc1,2022-07-21T07:49:24.040Z,"59 km S of Whites City, New Mexico",earthquake,0.9,1.7,0.049,84,reviewed,us,us
-2022-07-21T07:24:51.450Z,38.3256683,-123.0051651,14.62,1.56,md,7,211,0.1359,0.03,nc,nc73761186,2022-07-21T07:49:16.939Z,"4km ESE of Bodega Bay, CA",earthquake,1.81,0.64,0.28,6,automatic,nc,nc
+2022-07-21T07:24:51.200Z,38.3116667,-123.053,9.45,1.69,md,32,180,0.0007062,0.09,nc,nc73761186,2022-07-21T08:52:11.298Z,"2km S of Bodega Bay, CA",earthquake,0.21,0.22,0.168,35,reviewed,nc,nc
 2022-07-21T07:21:15.430Z,38.8171654,-122.8249969,2.31,0.85,md,14,71,0.008906,0.02,nc,nc73761181,2022-07-21T07:38:16.865Z,"7km NW of The Geysers, CA",earthquake,0.29,0.83,,1,automatic,nc,nc
 2022-07-21T07:19:15.980Z,33.6353333,-116.6776667,13.98,0.42,ml,13,101,0.06903,0.05,ci,ci40067127,2022-07-21T07:22:53.868Z,"9km N of Anza, CA",earthquake,0.19,0.35,0.136,9,automatic,ci,ci
 2022-07-21T07:11:08.010Z,19.5053329467773,-155.568496704102,1.37999999523163,1.82,ml,6,123,,0.140000001,hv,hv73082757,2022-07-21T07:16:39.300Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.86,1.51999998,4,4,automatic,hv,hv
@@ -193,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T09:10:54.894Z,37.3407,-117.8965,1.3,1.2,ml,13,109.4,0.227,0.1132,nn,nn00843268,2022-07-20T21:53:52.433Z,"39 km SSE of Dyer, Nevada",earthquake,,2.3,0.76,6,reviewed,nn,nn
 2022-07-20T09:01:04.399Z,35.4524,25.3932,10,4.8,mb,118,59,0.442,0.62,us,us7000hs2d,2022-07-20T18:28:27.874Z,"14 km N of Limín Khersonísou, Greece",earthquake,6.7,1.8,0.042,173,reviewed,us,us
 2022-07-20T08:58:27.569Z,61.4514,-146.676,29.1,1.4,ml,,,,0.79,ak,ak02298k4ola,2022-07-20T09:01:03.239Z,"39 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-07-20T08:53:12.727Z,37.3568,-115.0446,4.8,2,ml,28,83.06,0.05,0.1824,nn,nn00843266,2022-07-20T17:21:24.763Z,"10 km E of Alamo, Nevada",earthquake,,1.7,0.27,19,reviewed,nn,nn
-2022-07-20T08:50:43.300Z,64.7383,-147.8946,20.1,1.1,ml,,,,1.14,ak,ak02298k31d5,2022-07-20T08:57:37.622Z,"9 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
