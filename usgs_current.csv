@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T21:30:30.546Z,62.9439,-150.6118,88.1,1.2,ml,,,,0.22,ak,ak0229kcgs9a,2022-07-27T21:32:38.057Z,"50 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-07-27T21:15:53.410Z,63.457,-153.6944,9.5,1.4,ml,,,,0.44,ak,ak0229kcdma5,2022-07-27T21:18:46.742Z,"60 km NE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-27T21:13:33.020Z,38.8126678,-122.8125,3.54,0.84,md,8,99,0.01357,0.02,nc,nc73763511,2022-07-27T21:22:11.627Z,"6km NW of The Geysers, CA",earthquake,0.68,2.06,,1,automatic,nc,nc
-2022-07-27T21:08:59.260Z,38.8333321,-122.8150024,0.77,0.36,md,8,116,0.01064,0.01,nc,nc73763506,2022-07-27T21:18:10.602Z,"8km NW of The Geysers, CA",earthquake,0.31,1.28,,1,automatic,nc,nc
+2022-07-27T21:08:59.260Z,38.8333321,-122.8150024,0.77,0.36,md,8,116,0.01064,0.01,nc,nc73763506,2022-07-27T21:39:20.749Z,"8km NW of The Geysers, CA",earthquake,0.31,1.28,,1,automatic,nc,nc
 2022-07-27T21:07:51.330Z,39.4318333,-110.3143333,-1.15,1.5,ml,9,192,0.01137,0.11,uu,uu60507197,2022-07-27T21:34:10.520Z,"14 km SSE of Sunnyside, Utah",earthquake,1.14,0.59,0.157,3,reviewed,uu,uu
 2022-07-27T20:56:19.580Z,19.4650001525879,-155.738494873047,11.7600002288818,1.76999998,md,10,188,,0.25,hv,hv73089732,2022-07-27T20:59:22.080Z,"13 km E of Honaunau-Napoopoo, Hawaii",earthquake,1.27,1.63999999,0.879999995,3,automatic,hv,hv
 2022-07-27T20:53:35.350Z,41.4556667,-112.67,1.29,0.83,ml,15,139,0.2066,0.2,uu,uu60507192,2022-07-27T21:11:31.760Z,"41 km SW of Thatcher, Utah",earthquake,0.81,31.61,0.208,2,reviewed,uu,uu
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T16:10:07.590Z,37.6528333,-119.0288333,-1.28,0.83,md,7,83,0.00989,0.05,nc,nc73763411,2022-07-27T19:44:11.057Z,"5km WNW of Mammoth Lakes, CA",earthquake,0.35,0.61,0.455,5,reviewed,nc,nc
 2022-07-27T16:07:42.497Z,62.1905,-150.0057,7.9,2.2,ml,,,,0.91,ak,ak0229k9cpop,2022-07-27T16:51:21.163Z,"8 km WNW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-27T16:05:17.780Z,38.7594986,-122.7236633,0.38,0.83,md,8,144,0.002291,0.01,nc,nc73763406,2022-07-27T17:14:10.164Z,"3km WSW of Anderson Springs, CA",earthquake,0.33,0.44,0.05,3,automatic,nc,nc
-2022-07-27T15:42:46.600Z,38.9696667,-123.0566667,4.11,2.2,md,67,55,0.1098,0.12,nc,nc73763401,2022-07-27T21:35:15.761Z,"15km WSW of Lakeport, CA",earthquake,0.14,0.86,0.18,40,reviewed,nc,nc
+2022-07-27T15:42:46.600Z,38.9696667,-123.0566667,4.11,2.2,md,67,55,0.1098,0.12,nc,nc73763401,2022-07-27T21:39:10.747Z,"15km WSW of Lakeport, CA",earthquake,0.14,0.86,0.18,40,reviewed,nc,nc
 2022-07-27T15:34:51.270Z,34.0953333,-116.3988333,7.32,1.05,ml,18,87,0.02699,0.1,ci,ci40070591,2022-07-27T18:03:20.678Z,"4km SE of Yucca Valley, CA",earthquake,0.22,0.32,0.167,27,reviewed,ci,ci
 2022-07-27T15:34:44.770Z,17.9421666666667,-67.1013333333333,10.08,2.13,md,11,241,,0.08,pr,pr71361323,2022-07-27T16:10:33.540Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.56,0.38,0.157611391575715,10,reviewed,pr,pr
 2022-07-27T15:33:04.975Z,60.1309,-153.3255,150.4,2,ml,,,,0.49,ak,ak0229k8wrt5,2022-07-27T15:34:53.679Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -157,7 +157,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T05:35:26.531Z,31.6751936,-104.3652997,6.054443359000001,3.6,ml,10,93,0.08566529527,0.1,tx,tx2022ooqf,2022-07-27T07:37:52.285Z,"55 km S of Whites City, New Mexico",earthquake,1.060828292,2.055327604,0.1,7,reviewed,tx,tx
 2022-07-27T05:24:54.605Z,62.7394,-150.8935,101.1,1.1,ml,,,,0.62,ak,ak0229k2wm50,2022-07-27T05:27:04.828Z,"27 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-27T05:20:20.800Z,38.8563347,-122.8208313,0.66,0.87,md,11,131,0.002581,0.02,nc,nc73763296,2022-07-27T05:56:15.043Z,"9km WNW of Cobb, CA",earthquake,0.31,0.6,,1,automatic,nc,nc
-2022-07-27T05:18:55.920Z,38.8273315,-122.7893295,1.63,1.43,md,25,65,0.01109,0.03,nc,nc73763286,2022-07-27T07:25:09.596Z,"6km W of Cobb, CA",earthquake,0.2,0.37,0.18,5,automatic,nc,nc
+2022-07-27T05:19:01.480Z,38.829,-122.7905,1.34,1.24,md,8,99,0.009396,0.01,nc,nc71128594,2022-07-27T21:39:16.925Z,"6km W of Cobb, CA",earthquake,0.37,1.37,,1,reviewed,nc,nc
+2022-07-27T05:18:55.930Z,38.8271667,-122.7895,1.59,1.26,md,43,36,0.01125,0.03,nc,nc73763286,2022-07-27T21:40:53.192Z,"6km W of Cobb, CA",earthquake,0.12,0.22,0.145,16,reviewed,nc,nc
 2022-07-27T05:16:54.980Z,19.2256660461426,-155.386169433594,33.1699981689453,2.31,ml,48,150,,0.140000001,hv,hv73089122,2022-07-27T05:26:16.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.51,0.720000029,4.47,14,automatic,hv,hv
 2022-07-27T05:16:27.010Z,18.0005,-67.0808333333333,15.01,1.96,md,4,151,,0.03,pr,pr71361213,2022-07-27T05:37:31.460Z,"4 km S of Palmarejo, Puerto Rico",earthquake,0.81,0.64,0.0126717659994378,3,reviewed,pr,pr
 2022-07-27T05:07:32.380Z,35.711,-117.5663333,7.8,0.81,ml,22,76,0.1075,0.15,ci,ci40070311,2022-07-27T15:08:09.262Z,"14km NE of Ridgecrest, CA",earthquake,0.27,0.87,0.081,7,reviewed,ci,ci
@@ -243,7 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T22:01:22.690Z,47.245,-121.99,-0.45,0.73,md,9,187,0.05694,0.71,uw,uw61857227,2022-07-27T17:33:15.790Z,"4 km N of Enumclaw, Washington",explosion,6.34,31.61,0.10321140498747061,6,reviewed,uw,uw
 2022-07-26T21:59:42.640Z,33.6965,-116.7796667,14.42,0.48,ml,13,158,0.05653,0.09,ci,ci40070183,2022-07-26T22:36:20.359Z,"7km SW of Idyllwild, CA",earthquake,0.29,0.54,0.149,10,reviewed,ci,ci
 2022-07-26T21:59:03.640Z,40.292,-124.3845,15.44,2.66,md,20,245,0.03225,0.08,nc,nc73763136,2022-07-27T16:06:10.730Z,"9km WSW of Petrolia, CA",earthquake,0.68,0.28,0.154,28,reviewed,nc,nc
-2022-07-26T21:42:09.450Z,34.9906667,-118.2,-0.8,1.55,ml,19,67,0.114,0.27,ci,ci40070175,2022-07-26T22:34:25.123Z,"7km SSW of Mojave, CA",quarry blast,0.5,31.61,0.124,22,reviewed,ci,ci
-2022-07-26T21:40:48.250Z,36.8516667,-121.3876667,9.98,2.24,md,60,42,0.01258,0.08,nc,nc73763126,2022-07-27T15:49:10.626Z,"1km ENE of Hollister, CA",earthquake,0.14,0.24,0.195,67,reviewed,nc,nc
-2022-07-26T21:40:29.030Z,49.11266666666667,-122.168,-0.7,1.77,ml,10,265,0.1268,0.37,uw,uw61857212,2022-07-27T16:47:00.190Z,"8 km NE of Abbotsford, Canada",explosion,1.49,31.61,0.17555202061961872,9,reviewed,uw,uw
-2022-07-26T21:39:29.750Z,38.8591667,-109.3346667,5.93,1.24,ml,8,169,0.4096,0.18,uu,uu60507117,2022-07-26T22:51:36.400Z,"25 km NNE of Castle Valley, Utah",earthquake,1.6,31.61,0.173,3,reviewed,uu,uu
