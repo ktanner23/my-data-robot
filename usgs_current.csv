@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-30T19:14:05.600Z,34.0046667,-116.7128333,11.95,0.8,ml,24,76,0.0636,0.26,ci,ci40072471,2022-07-30T19:17:37.903Z,"12km NE of Cabazon, CA",earthquake,0.5,1.37,0.166,22,automatic,ci,ci
-2022-07-30T19:10:28.210Z,19.1773338317871,-155.494827270508,34.1699981689453,2.11999989,md,37,235,,0.129999995,hv,hv73092687,2022-07-30T19:13:48.950Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.86,1.16999996,0.170000002,13,automatic,hv,hv
+2022-07-30T19:10:28.210Z,19.1773338317871,-155.494827270508,34.1699981689453,2.11999989,md,37,235,,0.129999995,hv,hv73092687,2022-07-30T19:21:37.309Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.86,1.16999996,0.170000002,13,automatic,hv,hv
 2022-07-30T19:05:59.991Z,60.0528,-152.6389,86.8,2.3,ml,,,,0.45,ak,ak0229p9qr03,2022-07-30T19:07:35.981Z,"51 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-30T19:01:30.870Z,38.8216667,-122.7876663,0.98,1.03,md,26,38,0.01001,0.03,nc,nc73764451,2022-07-30T19:11:11.471Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.13,5,automatic,nc,nc
+2022-07-30T19:01:30.870Z,38.8216667,-122.7876663,0.98,1.03,md,26,38,0.01001,0.03,nc,nc73764451,2022-07-30T19:18:17.519Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.13,5,automatic,nc,nc
 2022-07-30T18:58:22.790Z,33.1563333,-115.6316667,2.05,2.3,ml,40,41,0.025,0.25,ci,ci40072463,2022-07-30T19:01:59.232Z,"12km WNW of Calipatria, CA",earthquake,0.29,0.48,0.196,26,automatic,ci,ci
 2022-07-30T18:56:15.212Z,61.1879,-149.212,31.2,1.3,ml,,,,0.37,ak,ak0229p9g2cx,2022-07-30T18:58:14.747Z,"23 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-30T18:48:25.868Z,64.9248,-148.6091,10.7,1,ml,,,,0.1,ak,ak0229p9edga,2022-07-30T18:50:37.706Z,"29 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-30T15:25:03.850Z,39.3271667,-123.3275,0.58,1.31,md,15,104,0.06462,0.07,nc,nc73764401,2022-07-30T18:03:15.048Z,"10km SSE of Willits, CA",earthquake,0.18,0.7,0.209,13,reviewed,nc,nc
 2022-07-30T15:18:14.340Z,36.1446667,-117.8626667,6.84,1.45,ml,17,125,0.02776,0.16,ci,ci40072375,2022-07-30T15:21:46.542Z,"14km NE of Coso Junction, CA",earthquake,0.4,0.66,0.248,15,automatic,ci,ci
 2022-07-30T15:12:44.820Z,33.4318333,-116.6273333,5.11,0.29,ml,7,181,0.06613,0.02,ci,ci40072367,2022-07-30T15:16:06.621Z,"14km SSE of Anza, CA",earthquake,0.27,0.45,0.377,3,automatic,ci,ci
-2022-07-30T15:02:25.080Z,37.2503333,-119.635,42.57,2.11,md,14,165,0.1899,0.06,nc,nc73764396,2022-07-30T17:52:15.976Z,"6km ESE of Coarsegold, CA",earthquake,0.48,0.7,0.142,15,reviewed,nc,nc
+2022-07-30T15:02:25.080Z,37.2503333,-119.635,42.57,2.11,md,14,165,0.1899,0.06,nc,nc73764396,2022-07-30T19:22:11.550Z,"6km ESE of Coarsegold, CA",earthquake,0.48,0.7,0.142,15,reviewed,nc,nc
 2022-07-30T14:58:18.950Z,17.9068333333333,-66.8895,13.91,2.38,md,12,222,,0.11,pr,pr71361703,2022-07-30T15:22:33.610Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.54,0.28,0.0924166762495324,7,reviewed,pr,pr
 2022-07-30T14:48:37.319Z,58.8122,-153.3015,56.6,1.7,ml,,,,0.35,ak,ak0229p70nwz,2022-07-30T14:51:00.856Z,"86 km NNW of Aleneva, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-07-30T14:41:58.222Z,64.9209,-148.6062,13.5,1,ml,,,,0.09,ak,ak0229p6z7im,2022-07-30T14:43:50.940Z,"29 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -185,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T20:42:27.523Z,32.5617,142.4138,10,4.7,mb,60,102,2.257,0.87,us,us6000i6mu,2022-07-29T21:13:59.040Z,"Izu Islands, Japan region",earthquake,10.2,1.6,0.046,147,reviewed,us,us
 2022-07-29T20:39:11.940Z,38.7718315,-122.7408371,1.06,0.6,md,10,95,0.01614,0.04,nc,nc73764141,2022-07-29T21:04:14.982Z,"2km ESE of The Geysers, CA",earthquake,0.35,0.45,0.17,4,automatic,nc,nc
 2022-07-29T20:37:58.994Z,60.6594,-144.4144,24.1,2.1,ml,,,,0.49,ak,ak0229nmzluj,2022-07-29T20:39:33.074Z,"74 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-29T20:29:35.974Z,51.0626,-173.7866,16.3,2.1,ml,,,,0.64,ak,ak0229nmxv86,2022-07-30T19:23:43.055Z,"129 km SSE of Atka, Alaska",earthquake,,11.9,,,reviewed,ak,ak
 2022-07-29T20:26:28.944Z,-2.4113,122.6774,10,4.5,mb,34,57,3.899,0.96,us,us6000i6n0,2022-07-30T14:54:34.040Z,"161 km S of Luwuk, Indonesia",earthquake,6.6,1.9,0.115,22,reviewed,us,us
 2022-07-29T20:19:03.058Z,32.7547,142.5141,10,4.3,mb,19,277,2.299,0.88,us,us6000i6mk,2022-07-29T21:04:12.040Z,"Izu Islands, Japan region",earthquake,12.7,2,0.201,7,reviewed,us,us
 2022-07-29T20:04:09.636Z,60.0342,-152.2239,67.6,1,ml,,,,0.26,ak,ak0229nmsfer,2022-07-29T20:06:54.519Z,"29 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-29T19:36:39.620Z,33.6025,-116.8658333,5.57,0.26,ml,12,140,0.03128,0.07,ci,ci40071943,2022-07-29T20:31:38.598Z,"16km S of Valle Vista, CA",earthquake,0.25,0.52,0.073,3,reviewed,ci,ci
 2022-07-29T19:31:08.190Z,33.1436667,-117.1676667,-0.2,0.98,ml,23,103,0.04354,0.26,ci,ci40071935,2022-07-29T21:31:49.716Z,"0km WNW of San Marcos, CA",quarry blast,0.63,31.61,0.267,6,reviewed,ci,ci
 2022-07-29T19:29:43.424Z,69.1555,-144.4429,8,2.5,ml,,,,0.78,ak,ak0229nmcf7m,2022-07-30T15:12:05.040Z,"113 km SSW of Kaktovik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-29T19:25:34.170Z,38.8366667,-122.7898333,2.12,0.29,md,14,73,0.001785,0.04,nc,nc73764131,2022-07-29T23:07:16.906Z,"6km WNW of Cobb, CA",earthquake,0.34,0.28,0.275,2,reviewed,nc,nc
-2022-07-29T19:22:37.322Z,32.5009,142.6908,10,4.3,mb,27,161,2.499,0.58,us,us6000i6m4,2022-07-29T20:49:59.040Z,"Izu Islands, Japan region",earthquake,11.4,2,0.128,17,reviewed,us,us
