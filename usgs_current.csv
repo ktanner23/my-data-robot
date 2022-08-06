@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T12:17:57.640Z,35.6643333,-117.5088333,0.27,1.15,ml,18,101,0.1674,0.18,ci,ci40076431,2022-08-06T12:21:29.436Z,"15km SW of Searles Valley, CA",earthquake,0.43,31.61,0.178,13,automatic,ci,ci
 2022-08-06T12:15:01.670Z,33.6376667,-116.689,13.25,0.9,ml,37,48,0.07625,0.29,ci,ci40076423,2022-08-06T12:18:28.607Z,"9km N of Anza, CA",earthquake,0.34,0.58,0.154,27,automatic,ci,ci
 2022-08-06T12:13:22.190Z,36.0198333,-117.8055,0.96,1.45,ml,18,72,0.03736,0.18,ci,ci40076415,2022-08-06T12:23:45.780Z,"13km NE of Little Lake, CA",earthquake,0.31,0.44,0.149,17,automatic,ci,ci
-2022-08-06T12:13:11.356Z,60.0831,-141.5299,0.1,1.3,ml,,,,1.03,ak,ak022a0qdo2l,2022-08-06T12:16:12.826Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-08-06T12:13:11.356Z,60.0831,-141.5299,0.1,1.3,ml,,,,1.03,ak,ak022a0qdo2l,2022-08-06T12:16:12.826Z,"117 km WNW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-06T12:08:37.830Z,18.9068333333333,-65.8815,11.84,3.1,md,18,241,,0.17,pr,pr71363128,2022-08-06T13:27:46.000Z,"52 km N of Loíza, Puerto Rico",earthquake,0.67,1.09,0.0715227433904795,10,reviewed,pr,pr
 2022-08-06T11:49:08.810Z,61.2531,-150.9318,62.1,1.3,ml,,,,0.22,ak,ak022a0pzy2p,2022-08-06T11:51:07.973Z,"14 km NNE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-06T11:48:02.062Z,51.1707,160.9315,10,5,mb,88,118,2.329,0.69,us,us6000i8me,2022-08-06T12:07:13.040Z,"261 km SE of Vilyuchinsk, Russia",earthquake,7.87,1.857,0.024,534,reviewed,us,us
@@ -53,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T06:18:58.087Z,59.5235,-152.1774,49.7,2.1,ml,,,,0.63,ak,ak022a0mu8nk,2022-08-06T07:07:27.040Z,"23 km NW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-06T06:11:10.320Z,33.5221667,-116.7401667,2.81,1.36,ml,53,24,0.04319,0.19,ci,ci40076327,2022-08-06T06:21:30.020Z,"7km WSW of Anza, CA",earthquake,0.17,0.61,0.12,25,automatic,ci,ci
 2022-08-06T06:09:01.642Z,65.5172,-144.5145,0.1,1.6,ml,,,,0.76,ak,ak022a0ms72y,2022-08-06T06:12:02.992Z,"14 km ESE of Central, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-08-06T06:04:56.740Z,36.2325,-89.521,7.21,1.49,md,19,36,0.02481,0.01,nm,nm60403457,2022-08-06T13:50:30.590Z,"4 km SW of Ridgely, Tennessee",earthquake,0.89,0.58,0.082,14,reviewed,nm,nm
 2022-08-06T06:02:57.780Z,17.907,-66.8801666666667,13.67,2.55,md,13,222,,0.07,pr,pr71363073,2022-08-06T06:18:18.700Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.61,0.36,0.224617295804634,11,reviewed,pr,pr
 2022-08-06T06:02:55.600Z,19.404333114624,-155.503997802734,8.6899995803833,1.73,ml,41,44,,0.170000002,hv,hv73100512,2022-08-06T06:08:27.110Z,"22 km N of Pāhala, Hawaii",earthquake,0.34,0.469999999,5.23,3,automatic,hv,hv
 2022-08-06T05:59:17.480Z,33.2103333,-116.1903333,6.84,0.86,ml,37,57,0.0562,0.23,ci,ci40076319,2022-08-06T06:02:51.330Z,"9km NW of Ocotillo Wells, CA",earthquake,0.4,0.75,0.187,18,automatic,ci,ci
@@ -222,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T14:10:36.100Z,18.0248333333333,-66.748,16.72,3.03,md,7,177,,0.12,pr,pr71362923,2022-08-05T16:29:35.969Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.53,1.17,0.144994786825493,6,reviewed,pr,pr
 2022-08-05T14:04:47.787Z,65.0706,-148.7249,13.5,0.6,ml,,,,0.19,ak,ak0229z3zc6l,2022-08-05T14:07:14.401Z,"30 km ESE of Minto, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-05T13:56:05.840Z,52.0261666666667,178.346833333333,7.52,0.43,ml,4,349,,0.11,av,av91067708,2022-08-06T02:38:41.850Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.63,3.06,0.187460044817341,4,reviewed,av,av
-2022-08-05T13:53:17.116Z,68.7322,-145.9198,4.8,1.9,ml,,,,1.05,ak,ak0229z3oca6,2022-08-05T13:55:50.705Z,"69 km NNW of Arctic Village, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-05T13:52:06.110Z,19.2616666666667,-155.430333333333,0.15,2.26,md,31,69,,0.13,hv,hv73099742,2022-08-05T21:59:24.800Z,"8 km NE of Pāhala, Hawaii",earthquake,0.28,0.19,0.179215309770948,18,reviewed,hv,hv
-2022-08-05T13:49:37.750Z,17.957,-66.8381666666667,13.85,2.59,md,5,315,,0.07,pr,pr71362913,2022-08-05T14:59:24.510Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.83,0.29,0.0407027760851078,4,reviewed,pr,pr
