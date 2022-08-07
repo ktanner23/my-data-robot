@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T09:22:47.770Z,19.1733341217041,-155.480834960938,32.0699996948242,1.73000002,md,36,83,,0.150000006,hv,hv73101632,2022-08-07T09:25:56.870Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.860000014,1.73000002,4,automatic,hv,hv
 2022-08-07T09:13:49.379Z,63.4795,-151.1398,3.4,1.6,ml,,,,0.77,ak,ak022a2c4spl,2022-08-07T09:16:05.692Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-07T08:49:39.223Z,35.4601,137.1021,277.018,4.2,mb,28,76,0.125,0.48,us,us6000i8uy,2022-08-07T09:09:08.040Z,"5 km NNW of Mitake, Japan",earthquake,7.55,4.838,0.132,17,reviewed,us,us
-2022-08-07T08:48:37.210Z,41.2121667,-122.186,4.38,1.04,md,10,150,0.07853,0.09,nc,nc73765025,2022-08-07T15:44:30.596Z,"6km SW of McCloud, CA",earthquake,0.4,3,0.116,7,reviewed,nc,nc
+2022-08-07T08:48:37.210Z,41.2121667,-122.186,4.38,1.04,md,10,150,0.07853,0.09,nc,nc73765025,2022-08-07T15:56:14.335Z,"6km SW of McCloud, CA",earthquake,0.4,3,0.116,7,reviewed,nc,nc
 2022-08-07T08:40:01.880Z,31.5595,-115.711,8.75,3.52,ml,13,90,0.1788,0.19,ci,ci40076855,2022-08-07T14:59:23.824Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.37,1.22,0.136,57,reviewed,ci,ci
 2022-08-07T08:28:50.709Z,31.7178,-104.5859,5,2.6,ml,23,131,0.088,0.35,us,us6000i8ur,2022-08-07T08:48:28.505Z,"54 km SSW of Whites City, New Mexico",earthquake,1.64,1.947,0.06,50,reviewed,us,us
 2022-08-07T08:27:55.470Z,34.2505,-118.6135,7.12,0.84,ml,7,98,0.04987,0.28,ci,ci40076847,2022-08-07T08:31:30.003Z,"1km SW of Chatsworth, CA",earthquake,2.32,3.54,0.294,13,automatic,ci,ci
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T07:02:17.215Z,62.3886,-151.1931,80.9,2.1,ml,,,,0.4,ak,ak022a2avi54,2022-08-07T09:49:56.040Z,"25 km WSW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-07T06:55:26.200Z,38.8084984,-122.7971649,3.22,0.89,md,25,32,0.001548,0.02,nc,nc73765010,2022-08-07T07:52:16.197Z,"5km NW of The Geysers, CA",earthquake,0.23,0.47,0.11,5,automatic,nc,nc
 2022-08-07T06:55:08.630Z,38.8084984,-122.7963333,3.31,1.08,md,21,43,0.0009636,0.02,nc,nc73765005,2022-08-07T07:52:11.195Z,"5km NW of The Geysers, CA",earthquake,0.29,0.52,0.25,4,automatic,nc,nc
-2022-08-07T06:49:28.510Z,32.644,47.328,10,4.3,mb,36,75,2.806,0.59,us,us6000i8u9,2022-08-07T08:13:09.040Z,"7 km SE of Dehlorān, Iran",earthquake,8.34,1.923,0.119,20,reviewed,us,us
+2022-08-07T06:49:28.510Z,32.644,47.328,10,4.3,mb,36,75,2.806,0.59,us,us6000i8u9,2022-08-07T08:13:09.040Z,"Iran-Iraq border region",earthquake,8.34,1.923,0.119,20,reviewed,us,us
 2022-08-07T06:31:56.840Z,36.2098333,-118.0541667,0.06,1.17,ml,13,139,0.1857,0.16,ci,ci40076823,2022-08-07T13:51:49.004Z,"9km SSW of Olancha, CA",earthquake,0.38,0.79,0.153,13,reviewed,ci,ci
 2022-08-07T06:15:31.130Z,37.9986667,-122.7521667,2.03,0.74,md,14,159,0.0562,0.11,nc,nc73765000,2022-08-07T10:34:16.246Z,"6km WSW of Lagunitas-Forest Knolls, CA",earthquake,0.27,1.34,0.206,10,reviewed,nc,nc
 2022-08-07T06:13:55.860Z,19.1805000305176,-155.356826782227,28.3799991607666,1.83000004,md,43,180,,0.119999997,hv,hv73101542,2022-08-07T06:17:10.400Z,"13 km E of Pāhala, Hawaii",earthquake,0.5,0.889999986,1.34000003,10,automatic,hv,hv
@@ -217,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T16:25:22.805Z,62.9549,-151.2821,97,1.5,ml,,,,0.6,ak,ak022a0stzww,2022-08-06T16:28:17.424Z,"57 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-06T16:21:10.860Z,33.5051667,-116.7821667,8.16,0.83,ml,35,63,0.01681,0.2,ci,ci40076543,2022-08-06T16:24:39.613Z,"10km NE of Aguanga, CA",earthquake,0.3,0.71,0.082,23,automatic,ci,ci
 2022-08-06T16:08:22.022Z,27.6434,-111.6382,10,4.7,mb,50,80,0.625,0.98,us,us6000i8nr,2022-08-06T23:44:11.771Z,"68 km WSW of San Carlos, Mexico",earthquake,3.96,1.93,0.039,206,reviewed,us,us
-2022-08-06T15:53:08.410Z,19.19700050354,-155.493499755859,33.7799987792969,1.87,md,39,74,,0.180000007,hv,hv73100922,2022-08-06T15:56:28.320Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.68,0.920000017,0.930000007,3,automatic,hv,hv
