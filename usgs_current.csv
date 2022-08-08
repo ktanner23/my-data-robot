@@ -1,10 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-08T20:44:14.160Z,38.5825005,-119.4526672,5.13,4.43,mw,14,91,0.05277,0.1,nc,nc73765585,2022-08-08T20:50:09.700Z,"8km NNE of Walker, CA",earthquake,0.38,0.58,,4,automatic,nc,nc
+2022-08-08T20:53:25.020Z,38.5805016,-119.454834,5.89,2.55,md,6,148,0.05125,0.03,nc,nc73765600,2022-08-08T20:58:10.304Z,"8km NNE of Walker, CA",earthquake,1.63,0.97,0.29,5,automatic,nc,nc
+2022-08-08T20:51:47.030Z,38.588665,-119.4368362,3.44,2.26,md,5,160,0.06512,0,nc,nc73765595,2022-08-08T20:58:10.598Z,"9km NNE of Walker, CA",earthquake,1.2,2.2,0.25,5,automatic,nc,nc
+2022-08-08T20:50:03.720Z,38.588665,-119.4546661,6.51,2.21,md,7,149,0.05117,0.01,nc,nc73765590,2022-08-08T20:58:15.911Z,"8km NNE of Walker, CA",earthquake,0.42,0.76,0.16,4,automatic,nc,nc
+2022-08-08T20:49:25.060Z,19.4173336029053,-155.616333007812,-3.5,2.15,ml,26,88,,0.370000005,hv,hv73103242,2022-08-08T20:54:55.480Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.63,0.370000005,3.6,11,automatic,hv,hv
+2022-08-08T20:44:14.160Z,38.5825005,-119.4526672,5.13,4.43,mw,14,91,0.05277,0.1,nc,nc73765585,2022-08-08T20:57:39.081Z,"8km NNE of Walker, CA",earthquake,0.38,0.58,,4,reviewed,nc,nc
 2022-08-08T20:39:34.787Z,62.9001,-151.0519,30.5,1.3,ml,,,,1.07,ak,ak022a46dgcm,2022-08-08T20:41:37.180Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-08T20:25:20.150Z,34.9003333,-118.4853333,17.55,1.26,ml,18,58,0.1474,0.25,ci,ci40077679,2022-08-08T20:28:51.851Z,"18km NE of Neenach, CA",earthquake,0.51,0.94,0.286,30,automatic,ci,ci
 2022-08-08T20:21:18.310Z,37.5661659,-118.9258347,9.27,1.76,md,22,101,0.04662,0.02,nc,nc73765560,2022-08-08T20:30:11.047Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.32,0.82,0.12,20,automatic,nc,nc
 2022-08-08T20:12:30.819Z,62.1071,-151.1171,80.8,1.4,ml,,,,0.53,ak,ak022a467npl,2022-08-08T20:14:31.796Z,"19 km NE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-08-08T20:06:25.680Z,37.5660019,-118.9261703,9.26,1.7,md,20,135,0.04683,0.03,nc,nc73765550,2022-08-08T20:17:10.976Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.51,0.84,0.11,17,automatic,nc,nc
+2022-08-08T20:06:25.680Z,37.5660019,-118.9261703,9.26,1.7,md,20,135,0.04683,0.03,nc,nc73765550,2022-08-08T20:54:16.182Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.51,0.84,0.11,17,automatic,nc,nc
 2022-08-08T20:03:46.110Z,17.8521666666667,-66.8976666666667,13.29,2.04,md,10,253,,0.07,pr,pr71364128,2022-08-08T20:11:14.710Z,"13 km S of Guánica, Puerto Rico",earthquake,0.55,0.35,0.0730950417141654,7,reviewed,pr,pr
 2022-08-08T20:02:16.224Z,38.5606,-119.5299,6.9,1.4,ml,14,70.67,0.027,0.1417,nn,nn00844412,2022-08-08T20:47:09.360Z,"2 km WSW of Coleville, California",earthquake,,1,0.36,6,reviewed,nn,nn
 2022-08-08T19:56:06.960Z,33.8418333,-116.1876667,7.34,0.82,ml,13,77,0.08424,0.21,ci,ci40077647,2022-08-08T19:59:30.681Z,"14km N of Indio, CA",earthquake,0.41,1.39,0.131,20,automatic,ci,ci
@@ -178,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T02:55:49.263Z,57.8518,-153.9798,42.7,1.4,ml,,,,0.42,ak,ak022a3vr41a,2022-08-08T02:58:22.189Z,"34 km N of Larsen Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-08-08T02:48:24.806Z,63.4621,-154.1502,8.6,1.6,ml,,,,0.91,ak,ak022a3vpk4y,2022-08-08T02:50:37.903Z,"51 km NNE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-08T02:47:06.050Z,44.7816667,-110.8071667,4.66,0.91,ml,10,102,0.03157,0.1,uu,uu60508887,2022-08-08T14:11:04.600Z,"Wyoming",earthquake,0.34,0.5,0.368,2,reviewed,uu,uu
-2022-08-08T02:38:51.560Z,36.6546667,-121.0928333,11.05,3.26,ml,85,54,0.08728,0.17,nc,nc73765315,2022-08-08T15:19:18.004Z,"14km NNE of Pinnacles, CA",earthquake,0.18,0.44,0.168,74,reviewed,nc,nc
+2022-08-08T02:38:51.560Z,36.6546667,-121.0928333,11.05,3.26,ml,85,54,0.08728,0.17,nc,nc73765315,2022-08-08T20:52:09.387Z,"14km NNE of Pinnacles, CA",earthquake,0.18,0.44,0.168,74,reviewed,nc,nc
 2022-08-08T02:26:24.900Z,38.8128319,-122.8059998,2.19,1.1,md,26,42,0.009666,0.02,nc,nc73765310,2022-08-08T02:59:25.501Z,"6km NW of The Geysers, CA",earthquake,0.2,0.35,0.22,5,automatic,nc,nc
 2022-08-08T02:24:22.546Z,60.9872,-146.9939,20.1,1.8,ml,,,,0.78,ak,ak022a3vkery,2022-08-08T02:26:37.590Z,"21 km NW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-08T02:21:03.050Z,44.7821667,-110.8056667,5.03,0.99,ml,13,103,0.03252,0.1,uu,uu60508882,2022-08-08T14:19:20.250Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.38,0.75,0.315,3,reviewed,uu,uu
@@ -227,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T21:24:44.284Z,31.98480086,-104.023391,7.905419922,2.7,ml,13,66,0.05021898492,0.2,tx,tx2022pjyb,2022-08-08T05:15:11.526Z,"26 km S of Malaga, New Mexico",earthquake,1.639202006,1.782984351,0.1,13,reviewed,tx,tx
 2022-08-07T21:04:43.871Z,63.5289,-149.9037,87.1,1.1,ml,,,,0.62,ak,ak022a2j823n,2022-08-07T21:06:44.272Z,"49 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-07T21:03:59.220Z,32.7453333,-115.4545,1.21,1.18,ml,9,122,0.06017,0.38,ci,ci40077167,2022-08-07T21:07:29.024Z,"7km ENE of Heber, CA",earthquake,1.3,2.64,0.197,9,automatic,ci,ci
-2022-08-07T20:54:31.710Z,38.8153343,-122.8174973,2.78,0.84,md,13,94,0.00992,0.02,nc,nc73765235,2022-08-07T22:16:13.741Z,"7km NW of The Geysers, CA",earthquake,0.36,0.76,,1,automatic,nc,nc
