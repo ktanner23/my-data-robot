@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T09:33:33.100Z,18.0061666666667,-66.8278333333333,17.03,2.1,md,9,158,,0.19,pr,pr71365008,2022-08-11T09:55:09.520Z,"1 km NW of Indios, Puerto Rico",earthquake,0.65,0.68,0.169585851920432,7,reviewed,pr,pr
 2022-08-11T09:05:24.500Z,33.4891667,-116.4721667,15.08,0.72,ml,24,65,0.0517,0.16,ci,ci40079695,2022-08-11T09:08:54.880Z,"20km ESE of Anza, CA",earthquake,0.28,0.54,0.113,16,automatic,ci,ci
 2022-08-11T09:02:07.100Z,63.121,-151.3432,0,1.3,ml,,,,1.22,ak,ak022a8y7qjq,2022-08-11T09:10:19.046Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-11T08:50:34.890Z,38.7943344,-122.7480011,2.32,0.84,md,10,93,0.0111,0.02,nc,nc73766775,2022-08-11T09:07:12.994Z,"2km NNE of The Geysers, CA",earthquake,0.33,0.98,0.09,3,automatic,nc,nc
+2022-08-11T08:50:34.890Z,38.7943344,-122.7480011,2.32,0.84,md,10,93,0.0111,0.02,nc,nc73766775,2022-08-11T10:12:10.400Z,"2km NNE of The Geysers, CA",earthquake,0.33,0.98,0.09,3,automatic,nc,nc
 2022-08-11T08:46:28.750Z,17.958,-66.8483333333333,16.54,2.26,md,4,288,,0.08,pr,pr71365003,2022-08-11T08:55:07.460Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.93,0.86,0.239709265130756,3,reviewed,pr,pr
 2022-08-11T08:44:37.635Z,-17.5659,-175.3165,282.571,4.4,mb,22,141,4.98,0.5,us,us6000i9wt,2022-08-11T09:20:20.040Z,"185 km NW of Neiafu, Tonga",earthquake,10.72,12.008,0.123,19,reviewed,us,us
 2022-08-11T08:41:46.510Z,17.9896666666667,-66.8381666666667,16.1,1.93,md,6,180,,0.06,pr,pr71364998,2022-08-11T08:55:02.350Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.78,0.53,0.166128477055256,6,reviewed,pr,pr
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-11T00:57:48.490Z,18.912,-155.440666666667,38.67,2.29,md,30,248,,0.13,hv,hv73105547,2022-08-11T04:05:39.080Z,"22 km SE of Naalehu, Hawaii",earthquake,0.84,1.18,0.129643182223466,15,reviewed,hv,hv
 2022-08-11T00:49:09.900Z,32.8886667,-116.1898333,11.87,1.17,ml,21,80,0.1159,0.15,ci,ci40079583,2022-08-11T00:52:48.632Z,"25km NW of Ocotillo, CA",earthquake,0.29,0.78,0.167,21,automatic,ci,ci
 2022-08-11T00:42:01.010Z,39.4286667,-123.1023333,0.22,2.26,md,44,43,0.05852,0.12,nc,nc73766600,2022-08-11T06:08:10.835Z,"13km W of Lake Pillsbury, CA",earthquake,0.14,0.77,0.159,46,reviewed,nc,nc
-2022-08-11T00:30:18.180Z,19.2491664886475,-155.407333374023,30.3799991607666,1.97000003,md,24,131,,0.119999997,hv,hv73105527,2022-08-11T00:33:59.860Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.819999993,0.980000019,8,automatic,hv,hv
+2022-08-11T00:30:18.180Z,19.2491664886475,-155.407333374023,30.3799991607666,1.97000003,md,24,131,,0.119999997,hv,hv73105527,2022-08-11T00:33:59.860Z,"Island of Hawaii, Hawaii",earthquake,0.57,0.819999993,0.980000019,8,automatic,hv,hv
 2022-08-11T00:25:21.780Z,34.6445,-119.2146667,-0.71,1.82,ml,23,68,0.1134,0.22,ci,ci40079575,2022-08-11T00:36:09.490Z,"22km N of Ojai, CA",earthquake,0.33,31.61,0.167,27,automatic,ci,ci
 2022-08-11T00:22:03.100Z,37.9491653,-122.117836,9.2,1.67,md,14,87,0.04059,0.07,nc,nc73766585,2022-08-11T04:18:20.143Z,"5km W of Pleasant Hill, CA",earthquake,0.3,0.57,0.17,13,automatic,nc,nc
 2022-08-11T00:18:14.560Z,33.65,-116.709,16.47,2.73,ml,77,18,0.06116,0.18,ci,ci40079567,2022-08-11T00:29:26.050Z,"10km S of Idyllwild, CA",earthquake,0.16,0.33,0.279,26,automatic,ci,ci
@@ -221,4 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-10T10:28:05.594Z,59.9773,-153.546,154.6,1.3,ml,,,,0.1,ak,ak022a7bfe5r,2022-08-10T10:39:49.040Z,"37 km NE of Pedro Bay, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-08-10T10:18:39.000Z,34.0776667,-118.1563333,9.54,1.44,ml,46,92,0.0411,0.13,ci,ci40078983,2022-08-10T16:30:21.670Z,"3km SW of Alhambra, CA",earthquake,0.16,0.27,0.187,19,reviewed,ci,ci
 2022-08-10T10:17:18.839Z,-57.0686,-24.829,17.228,5.1,mb,53,69,17.281,0.57,us,us6000i9nl,2022-08-10T10:35:10.040Z,"South Sandwich Islands region",earthquake,12.03,4.497,0.08,51,reviewed,us,us
-2022-08-10T10:12:44.010Z,33.6766667,-116.7626667,10.93,0.12,ml,15,128,0.0531,0.09,ci,ci40078975,2022-08-10T13:18:24.474Z,"8km SSW of Idyllwild, CA",earthquake,0.31,0.44,0.074,6,reviewed,ci,ci
