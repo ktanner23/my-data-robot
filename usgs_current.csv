@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T22:09:56.702Z,38.5949,-119.4611,0,1.4,ml,8,204.2,0.426,0.1795,nn,nn00845271,2022-08-17T22:13:10.968Z,"5 km NE of Coleville, California",earthquake,,6.1,0.21,6,automatic,nn,nn
 2022-08-17T22:05:25.620Z,19.505,-155.660333333333,4.08,2.16,ml,22,91,,0.12,hv,hv73112767,2022-08-17T22:24:47.330Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.32,0.65,0.195576336986034,9,reviewed,hv,hv
 2022-08-17T22:01:22.760Z,38.8223343,-122.8284988,1.83,0.61,md,19,49,0.005161,0.02,nc,nc73769200,2022-08-17T22:19:13.099Z,"8km NW of The Geysers, CA",earthquake,0.21,0.42,0.14,4,automatic,nc,nc
-2022-08-17T21:46:30.350Z,33.2128333,-115.5408333,1.14,1.98,ml,18,65,0.07196,0.22,ci,ci40327384,2022-08-17T21:50:15.196Z,"4km SW of Niland, CA",earthquake,0.38,31.61,0.136,28,automatic,ci,ci
+2022-08-17T21:46:30.360Z,33.2066667,-115.5445,3.8,1.97,ml,39,47,0.06638,0.22,ci,ci40327384,2022-08-17T23:30:48.123Z,"4km SSW of Niland, CA",earthquake,0.22,0.33,0.151,23,reviewed,ci,ci
 2022-08-17T21:43:24.350Z,19.1595001220703,-155.471664428711,30.3099994659424,2.4,ml,45,113,,0.140000001,hv,hv73112757,2022-08-17T21:52:31.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.49,0.850000024,3.34,13,automatic,hv,hv
 2022-08-17T21:40:13.770Z,32.7955,-115.4525,10.97,1.82,ml,32,107,0.01091,0.27,ci,ci40327376,2022-08-17T23:24:09.724Z,"7km WSW of Holtville, CA",earthquake,0.38,0.45,0.197,17,reviewed,ci,ci
 2022-08-17T21:27:33.100Z,33.555,-118.2731667,1.58,2.45,ml,57,207,0.1582,0.31,ci,ci40327360,2022-08-17T23:28:20.960Z,"20km S of San Pedro, CA",earthquake,0.46,0.51,0.168,25,reviewed,ci,ci
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T19:51:48.550Z,62.3493,-149.152,0,3.1,ml,,,,0.55,ak,ak022aj1oqut,2022-08-17T21:02:22.923Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-17T19:47:48.990Z,37.5528333,-118.8291667,5.96,0.43,md,10,148,0.03713,0.03,nc,nc73769160,2022-08-17T23:05:13.367Z,"13km W of Toms Place, CA",earthquake,0.45,0.86,0.211,9,reviewed,nc,nc
 2022-08-17T19:43:03.500Z,19.2486667633057,-155.380828857422,30.4099998474121,2.12,ml,35,143,,0.129999995,hv,hv73112632,2022-08-17T19:48:33.330Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.64,0.730000019,3.66,6,automatic,hv,hv
-2022-08-17T19:35:47.840Z,39.4325,-110.3221667,-1.01,1.56,ml,8,177,0.008691,0.06,uu,uu60510247,2022-08-17T21:01:14.580Z,"Utah",earthquake,0.89,0.22,0.108,4,reviewed,uu,uu
+2022-08-17T19:35:47.840Z,39.4325,-110.3221667,-1.01,1.56,ml,8,177,0.008691,0.06,uu,uu60510247,2022-08-17T21:01:14.580Z,"14 km SSE of Sunnyside, Utah",earthquake,0.89,0.22,0.108,4,reviewed,uu,uu
 2022-08-17T19:27:28.210Z,31.59964477,-104.524942,7.288427734,2.403054464,mlv,18,74,0.0720845239,0.2,tx,tx2022qcbf,2022-08-17T20:27:14.387Z,"65 km SSW of Whites City, New Mexico",earthquake,1.421279611,1.492300424,0.1826119297,8,reviewed,tx,tx
 2022-08-17T19:19:32.050Z,38.7868347,-122.767334,2.09,0.46,md,12,99,0.015,0.03,nc,nc73769155,2022-08-17T21:23:11.773Z,"1km NW of The Geysers, CA",earthquake,0.35,0.8,0.4,2,automatic,nc,nc
 2022-08-17T19:17:30.138Z,44.7043,-67.6256,5,2,ml,10,165,0.12,0.53,us,us6000ibqi,2022-08-17T22:06:16.755Z,"4 km E of Centerville, Maine",earthquake,1.84,1.961,0.128,8,reviewed,us,us
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T13:25:59.699Z,44.3224,149.597,10,4.8,mb,67,137,5.038,1,us,us6000ibky,2022-08-17T13:44:51.040Z,"169 km SE of Kuril’sk, Russia",earthquake,10.85,1.896,0.055,102,reviewed,us,us
 2022-08-17T13:24:15.430Z,33.675,-116.7796667,14.87,0.41,ml,18,74,0.06545,0.09,ci,ci40326936,2022-08-17T18:06:00.228Z,"9km SW of Idyllwild, CA",earthquake,0.24,0.31,0.111,9,reviewed,ci,ci
 2022-08-17T13:21:29.085Z,61.1642,-147.024,20.3,1.4,ml,,,,0.74,ak,ak022aixxmap,2022-08-17T17:13:16.183Z,"36 km W of Valdez, Alaska",earthquake,,1.4,,,reviewed,ak,ak
-2022-08-17T13:07:01.923Z,35.9981,-114.9457,2.6,1.6,ml,9,131.58,0.087,0.1387,nn,nn00845252,2022-08-17T20:11:18.634Z,"California-Nevada-Arizona border region",earthquake,,6.2,0.47,5,reviewed,nn,nn
+2022-08-17T13:07:01.923Z,35.9981,-114.9457,2.6,1.6,ml,9,131.58,0.087,0.1387,nn,nn00845252,2022-08-17T20:11:18.634Z,"5 km SE of Henderson, Nevada",earthquake,,6.2,0.47,5,reviewed,nn,nn
 2022-08-17T12:56:43.295Z,41.1453,-116.7293,7.3,1.6,ml,7,251.17,0.289,0.1202,nn,nn00845287,2022-08-17T22:59:30.005Z,"51 km NE of Valmy, Nevada",earthquake,,3.8,0.22,4,reviewed,nn,nn
 2022-08-17T12:56:32.439Z,-7.0096,125.4748,487.994,5.5,mww,159,29,2.978,0.68,us,us6000ibju,2022-08-17T14:59:15.278Z,"170 km N of Metinaro, Timor Leste",earthquake,9.89,6.361,0.063,24,reviewed,us,us
 2022-08-17T12:49:54.758Z,65.607,-144.7325,0,2.1,ml,,,,0.97,ak,ak022aixiann,2022-08-17T12:52:11.315Z,"5 km NE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T07:09:09.930Z,19.4566666666667,-155.597166666667,-1.34,1.82,md,13,76,,0.14,hv,hv73112037,2022-08-17T22:51:53.440Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.2,0.0315056580811813,6,reviewed,hv,hv
 2022-08-17T06:58:00.720Z,39.4333333,-110.3321667,-1.22,1.4,md,5,137,0.01072,0.02,uu,uu60030819,2022-08-17T15:47:46.360Z,"13 km SSE of Sunnyside, Utah",earthquake,1.72,0.98,0.12,4,reviewed,uu,uu
 2022-08-17T06:57:18.580Z,39.4286667,-110.3021667,-1.5,1.07,ml,7,197,0.01834,0.14,uu,uu60510192,2022-08-17T15:45:40.310Z,"15 km SSE of Sunnyside, Utah",earthquake,1.83,1.24,0.081,2,reviewed,uu,uu
-2022-08-17T06:55:10.694Z,44.6889,-67.6409,5,3,mb_lg,13,172,0.132,0.24,us,us6000ibip,2022-08-17T20:41:51.276Z,"3 km ESE of Centerville, Maine",earthquake,2.27,1.955,0.12,18,reviewed,us,us
+2022-08-17T06:55:10.694Z,44.6889,-67.6409,5,3,mb_lg,13,172,0.132,0.24,us,us6000ibip,2022-08-17T23:32:09.939Z,"3 km ESE of Centerville, Maine",earthquake,2.27,1.955,0.12,18,reviewed,us,us
 2022-08-17T06:40:26.610Z,31.72692799,-104.5876655,6.979931641,2.1,ml,17,86,0.06761897151,0.5,tx,tx2022qbbx,2022-08-17T07:22:22.163Z,"53 km SSW of Whites City, New Mexico",earthquake,1.943245816,1.423510958,0.2,13,reviewed,tx,tx
 2022-08-17T06:29:39.373Z,36.9184,-115.945,3.3,-0.1,ml,5,227.66,0.037,0.1346,nn,nn00845246,2022-08-17T19:33:58.259Z,"45 km NNW of Indian Springs, Nevada",earthquake,,4.8,0.36,4,reviewed,nn,nn
 2022-08-17T06:25:23.400Z,38.7946663,-122.8016663,-0.72,0.84,md,8,115,0.006425,0.06,nc,nc73768980,2022-08-17T06:52:14.535Z,"4km WNW of The Geysers, CA",earthquake,0.3,1.05,,1,automatic,nc,nc
@@ -244,8 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T00:19:07.260Z,33.4995,-116.5295,11.45,-0.03,ml,7,192,0.06094,0.06,ci,ci40326712,2022-08-17T00:54:32.170Z,"15km ESE of Anza, CA",earthquake,0.37,0.56,0.051,2,reviewed,ci,ci
 2022-08-17T00:17:55.270Z,46.199,-122.18466666666667,3.16,0.08,ml,11,137,0.001333,0.11,uw,uw61872971,2022-08-17T03:25:38.590Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.54,0.13617571344285706,6,reviewed,uw,uw
 2022-08-17T00:03:00.810Z,33.4853333,-116.514,14.28,0.67,ml,21,56,0.0743,0.14,ci,ci40326704,2022-08-17T00:50:58.929Z,"17km ESE of Anza, CA",earthquake,0.26,0.58,0.083,15,reviewed,ci,ci
-2022-08-16T23:34:44.722Z,60.0913,-140.6034,17.4,2.2,ml,,,,0.69,ak,ak022ahgfhaw,2022-08-16T23:36:46.464Z,"Southern Yukon Territory, Canada",earthquake,,0.2,,,automatic,ak,ak
-2022-08-16T23:33:52.650Z,33.4916667,-116.4731667,12.87,1.78,ml,47,34,0.05074,0.17,ci,ci40326696,2022-08-17T00:48:44.540Z,"20km ESE of Anza, CA",earthquake,0.21,0.36,0.173,25,reviewed,ci,ci
-2022-08-16T23:33:45.860Z,33.4921667,-116.4658333,13.23,1.13,ml,31,67,0.04577,0.12,ci,ci40326688,2022-08-17T00:43:39.670Z,"20km ESE of Anza, CA",earthquake,0.2,0.41,0.166,14,reviewed,ci,ci
-2022-08-16T23:32:02.060Z,33.485,-116.7975,6.71,0.63,ml,22,141,0.0274,0.09,ci,ci40326680,2022-08-17T00:38:32.620Z,"8km NE of Aguanga, CA",earthquake,0.18,0.26,0.095,13,reviewed,ci,ci
-2022-08-16T23:29:36.500Z,37.2423333,-113.247,17.87,0.79,ml,8,85,0.07869,0.18,uu,uu60510137,2022-08-17T13:25:10.770Z,"Utah",earthquake,0.5,1.37,0.33,3,reviewed,uu,uu
