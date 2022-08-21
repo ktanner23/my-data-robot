@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-21T19:04:55.767Z,61.6638,-150.8294,56.3,1.8,ml,,,,0.53,ak,ak022apnk2q0,2022-08-21T19:07:42.124Z,"21 km NW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-21T18:56:37.133Z,60.8173,-150.5803,15.2,1.5,ml,,,,0.72,ak,ak022apn9qwx,2022-08-21T18:58:12.692Z,"13 km SSE of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-21T18:45:54.830Z,38.8411674,-122.8775024,2.05,1.09,md,21,89,0.005499,0.02,nc,nc73770470,2022-08-21T18:55:10.055Z,"13km NW of The Geysers, CA",earthquake,0.26,0.39,0.13,4,automatic,nc,nc
+2022-08-21T18:45:54.830Z,38.8411674,-122.8775024,2.05,1.09,md,21,89,0.005499,0.02,nc,nc73770470,2022-08-21T19:20:12.217Z,"13km NW of The Geysers, CA",earthquake,0.26,0.39,0.13,4,automatic,nc,nc
 2022-08-21T18:44:24.571Z,61.3419,-146.9514,26.8,1.3,ml,,,,0.92,ak,ak022apn75cp,2022-08-21T18:46:43.415Z,"40 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-21T18:37:46.790Z,38.5748333,-119.4496667,5.82,2.65,md,19,59,0.05612,0.08,nc,nc73770465,2022-08-21T19:10:12.386Z,"7km NNE of Walker, CA",earthquake,0.28,0.37,0.257,55,reviewed,nc,nc
+2022-08-21T18:37:46.790Z,38.5748333,-119.4496667,5.82,2.65,md,19,59,0.05612,0.08,nc,nc73770465,2022-08-21T19:20:13.218Z,"7km NNE of Walker, CA",earthquake,0.28,0.37,0.257,55,reviewed,nc,nc
 2022-08-21T18:36:14.490Z,33.9848333,-116.6938333,14.2,1.37,ml,39,35,0.06573,0.19,ci,ci40329360,2022-08-21T18:39:49.133Z,"11km NE of Cabazon, CA",earthquake,0.23,0.61,0.12,26,automatic,ci,ci
 2022-08-21T18:23:05.020Z,19.4181671142578,-155.335662841797,3.45000004768372,2.1500001,md,35,46,,0.209999993,hv,hv73116782,2022-08-21T18:28:39.160Z,"11 km WSW of Volcano, Hawaii",earthquake,0.33,0.99000001,0.75,12,automatic,hv,hv
 2022-08-21T18:21:00.430Z,17.9135,-66.6331666666667,25.22,2.67,md,3,342,,0.09,pr,pr71367293,2022-08-21T19:06:51.650Z,"10 km S of Ponce, Puerto Rico",earthquake,7.94,3.03,,1,reviewed,pr,pr
@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T13:56:54.137Z,61.6352,-149.6701,33.9,1.1,ml,,,,0.32,ak,ak022apkam79,2022-08-21T13:58:40.509Z,"3 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-21T13:56:13.350Z,38.7886658,-122.7611694,0.8,1.01,md,19,77,0.012,0.04,nc,nc73770415,2022-08-21T15:18:10.733Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.43,0.17,5,automatic,nc,nc
 2022-08-21T13:46:36.260Z,34.036,-117.5546667,5.36,1.38,ml,44,33,0.03185,0.17,ci,ci40329248,2022-08-21T13:57:56.450Z,"6km NW of Mira Loma, CA",earthquake,0.2,0.4,0.206,28,automatic,ci,ci
-2022-08-21T13:45:21.537Z,32.83996582,-100.93488,4.255126953000001,3.2,ml,9,95,0.0316775506,0.2,tx,tx2022qixy,2022-08-21T18:34:32.729Z,"13 km N of Snyder, Texas",earthquake,1.054382372,1.6429574739999997,0.1,7,reviewed,tx,tx
+2022-08-21T13:45:21.537Z,32.83996582,-100.93488,4.255126953000001,3.2,ml,9,95,0.0316775506,0.2,tx,tx2022qixy,2022-08-21T19:20:34.968Z,"13 km N of Snyder, Texas",earthquake,1.054382372,1.6429574739999997,0.1,7,reviewed,tx,tx
 2022-08-21T13:31:25.570Z,38.8240013,-122.8116684,1.92,0.5,md,14,65,0.001385,0.03,nc,nc73770410,2022-08-21T14:52:13.574Z,"7km NW of The Geysers, CA",earthquake,0.29,0.63,0.35,2,automatic,nc,nc
 2022-08-21T13:30:34.960Z,17.9823333333333,-66.9081666666667,14.77,2.25,md,16,82,,0.08,pr,pr71367253,2022-08-21T13:51:52.140Z,"Puerto Rico region",earthquake,0.41,0.34,0.196081639932437,8,reviewed,pr,pr
 2022-08-21T13:23:39.755Z,60.9527,-150.7454,32.5,2,ml,,,,0.74,ak,ak022apk3ign,2022-08-21T13:26:14.139Z,"4 km NW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T12:06:19.015Z,38.5966,-119.4435,0,1.3,ml,20,62.29,0.061,0.3455,nn,nn00845546,2022-08-21T12:09:21.009Z,"6 km ENE of Coleville, California",earthquake,,0.4,0.11,14,automatic,nn,nn
 2022-08-21T12:05:48.320Z,35.9311667,-117.6653333,1.57,1.57,ml,19,88,0.125,0.2,ci,ci40329200,2022-08-21T12:09:25.820Z,"22km E of Little Lake, CA",earthquake,0.47,0.53,0.17,22,automatic,ci,ci
 2022-08-21T11:59:28.580Z,33.3135,-116.3415,10.11,0.97,ml,32,67,0.05558,0.2,ci,ci40329192,2022-08-21T12:02:54.597Z,"7km NNE of Borrego Springs, CA",earthquake,0.31,0.5,0.158,27,automatic,ci,ci
+2022-08-21T11:50:26.048Z,61.519,-149.0159,30.9,1.2,ml,,,,0.48,ak,ak022apj29fb,2022-08-21T19:15:24.516Z,"2 km SSE of Butte, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-08-21T11:46:31.950Z,37.6575,-119.0221667,-1.02,-0.07,md,6,102,0.007965,0.03,nc,nc73770375,2022-08-21T18:17:27.860Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.47,0.66,0.163,6,reviewed,nc,nc
 2022-08-21T11:46:08.754Z,-7.2582,154.8117,10,4.7,mb,55,55,4.028,0.47,us,us6000icir,2022-08-21T12:26:06.040Z,"128 km SW of Panguna, Papua New Guinea",earthquake,6.14,1.873,0.07,61,reviewed,us,us
 2022-08-21T11:37:28.010Z,19.1656665802002,-155.503997802734,31.4400005340576,2.3900001,md,44,116,,0.180000007,hv,hv73116537,2022-08-21T12:14:57.040Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.62,0.889999986,0.800000012,32,automatic,hv,hv
@@ -196,5 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T19:38:44.168Z,58.3091,-133.7288,9.766,3.1,ml,20,59,0.418,0.77,us,us6000icet,2022-08-20T21:49:35.040Z,"40 km E of Juneau, Alaska",earthquake,4.45,1.993,0.062,34,reviewed,us,us
 2022-08-20T19:34:46.646Z,-23.6854,-179.8578,509.941,4.7,mb,124,27,4.981,0.9,us,us6000ices,2022-08-20T19:53:08.040Z,"south of the Fiji Islands",earthquake,5.47,7.404,0.035,250,reviewed,us,us
 2022-08-20T19:33:29.655Z,61.6516,-148.4765,33,1.3,ml,,,,0.25,ak,ak022ao06vz9,2022-08-20T19:34:49.828Z,"16 km S of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-08-20T19:20:16.962Z,59.4453,-153.5772,110.5,1.6,ml,,,,0.87,ak,ak022ao042ow,2022-08-20T19:22:23.029Z,"48 km SE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2022-08-20T19:17:15.286Z,60.0497,-153.3982,135.4,1.9,ml,,,,0.23,ak,ak022ao03epa,2022-08-20T19:59:51.573Z,"49 km NE of Pedro Bay, Alaska",earthquake,,0.8,,,reviewed,ak,ak
