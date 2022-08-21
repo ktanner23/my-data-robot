@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-21T00:41:51.937Z,65.1728,-151.993,9.1,1.1,ml,,,,0.3,ak,ak022apcgrfd,2022-08-21T00:43:38.074Z,"4 km E of Tanana, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-21T00:33:38.719Z,60.2577,-151.2871,50.5,1.1,ml,,,,0.37,ak,ak022apcf0of,2022-08-21T00:35:54.106Z,"6 km ENE of Clam Gulch, Alaska",earthquake,,2.5,,,automatic,ak,ak
+2022-08-21T00:31:18.590Z,38.8414993,-122.8773346,2.46,0.84,md,14,90,0.005791,0.02,nc,nc73770210,2022-08-21T00:48:14.689Z,"13km NW of The Geysers, CA",earthquake,0.4,0.58,0.03,3,automatic,nc,nc
+2022-08-21T00:28:06.190Z,33.7451667,-116.0386667,2.01,0.94,ml,17,108,0.09962,0.23,ci,ci40328976,2022-08-21T00:31:39.411Z,"14km ENE of Coachella, CA",earthquake,0.43,0.69,0.097,24,automatic,ci,ci
+2022-08-21T00:27:25.510Z,35.5481682,-120.7993317,5.12,2.08,md,22,97,0.1048,0.14,nc,nc73770205,2022-08-21T00:34:12.603Z,"8km W of Templeton, CA",earthquake,0.34,1.2,0.09,16,automatic,nc,nc
+2022-08-21T00:23:44.200Z,33.9548333,-116.6333333,9.81,0.77,ml,20,68,0.08435,0.17,ci,ci40328960,2022-08-21T00:27:09.395Z,"10km NW of Garnet, CA",earthquake,0.34,0.79,0.171,21,automatic,ci,ci
 2022-08-20T23:44:06.080Z,33.7511667,-116.035,2.25,1.34,ml,34,55,0.1028,0.26,ci,ci40328952,2022-08-20T23:54:25.230Z,"15km ENE of Coachella, CA",earthquake,0.32,0.56,0.128,26,automatic,ci,ci
 2022-08-20T23:27:09.040Z,38.8203316,-122.7823334,1.96,1.17,md,10,126,0.007179,0.02,nc,nc73770195,2022-08-20T23:45:13.345Z,"5km W of Cobb, CA",earthquake,0.58,1.26,,1,automatic,nc,nc
 2022-08-20T23:15:53.840Z,33.6811667,-116.7418333,13.59,0.76,ml,27,60,0.03778,0.14,ci,ci40328944,2022-08-20T23:19:29.403Z,"7km SSW of Idyllwild, CA",earthquake,0.31,0.51,0.153,24,automatic,ci,ci
@@ -16,6 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T21:30:59.140Z,36.1078333,-117.8613333,1.02,1.1,ml,9,195,0.1321,0.16,ci,ci40328936,2022-08-20T21:34:35.562Z,"10km NE of Coso Junction, CA",earthquake,0.69,0.47,0.174,12,automatic,ci,ci
 2022-08-20T21:21:31.030Z,38.8221664,-122.7630005,1.36,0.7,md,9,124,0.009895,0.02,nc,nc73770180,2022-08-20T21:45:12.586Z,"4km W of Cobb, CA",earthquake,0.35,0.7,0.16,2,automatic,nc,nc
 2022-08-20T21:17:44.140Z,38.755,-122.709,1.25,0.08,md,14,82,0.01404,0.02,nc,nc73770175,2022-08-20T23:11:11.149Z,"3km SSW of Anderson Springs, CA",earthquake,0.25,0.34,0.119,4,reviewed,nc,nc
+2022-08-20T21:16:38.750Z,46.19433333333333,-122.20166666666667,2.7,-0.3,mh,6,130,0.009277,0.14,uw,uw61864757,2022-08-21T00:35:25.450Z,"36 km NNE of Amboy, Washington",earthquake,1.64,1.32,,0,reviewed,uw,uw
 2022-08-20T21:15:47.966Z,-31.8588,-70.6524,102.967,4.3,mb,36,88,0.33,0.46,us,us6000icfk,2022-08-20T21:35:42.040Z,"30 km ESE of Salamanca, Chile",earthquake,4.78,5.491,0.217,6,reviewed,us,us
 2022-08-20T21:08:48.030Z,33.658,-116.7541667,12.09,0.42,ml,15,74,0.06265,0.18,ci,ci40328928,2022-08-20T21:12:26.822Z,"10km SSW of Idyllwild, CA",earthquake,0.41,0.7,0.098,9,automatic,ci,ci
 2022-08-20T21:03:00.048Z,63.2788,-150.5234,121.1,1.4,ml,,,,0.67,ak,ak022ao176bn,2022-08-20T21:06:31.157Z,"66 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -179,7 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T01:38:44.805Z,60.9919,-148.1111,8.4,2,ml,,,,0.66,ak,ak022anpi6u8,2022-08-20T13:32:37.043Z,"39 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-20T01:30:18.635Z,12.967,-88.8146,66.473,4.1,mb,36,189,0.691,0.93,us,us6000icaj,2022-08-20T01:49:29.040Z,"45 km SW of Puerto El Triunfo, El Salvador",earthquake,4.87,8.406,0.061,75,reviewed,us,us
 2022-08-20T01:05:39.860Z,-3.6332,131.4218,10,4.4,mb,20,84,1.089,0.98,us,us6000ica5,2022-08-20T01:40:53.040Z,"265 km NNW of Tual, Indonesia",earthquake,6.46,1.876,0.162,11,reviewed,us,us
-2022-08-20T00:44:37.350Z,19.2754993438721,-155.401504516602,32.0200004577637,2.33,ml,44,118,,0.170000002,hv,hv73115037,2022-08-20T07:11:34.264Z,"11 km NE of Pāhala, Hawaii",earthquake,0.58,0.699999988,4.23,17,automatic,hv,hv
-2022-08-20T00:43:09.180Z,58.172,-155.345166666667,0.57,-0.04,ml,4,204,,0.1,av,av91665286,2022-08-20T18:49:19.200Z,"85 km NW of Karluk, Alaska",earthquake,0.52,2.14,0.171492449648589,4,reviewed,av,av
-2022-08-20T00:33:43.900Z,37.2026667,-118.2035,8.34,2,md,28,172,0.1497,0.04,nc,nc73769855,2022-08-20T06:24:16.140Z,"9km ENE of Big Pine, CA",earthquake,0.6,0.38,0.216,30,reviewed,nc,nc
-2022-08-20T00:32:22.110Z,54.2001666666667,-166.065166666667,8.45,1.03,ml,15,216,,0.23,av,av91665281,2022-08-20T18:44:34.100Z,"20 km WNW of Akutan, Alaska",earthquake,0.61,0.4,0.240554229280322,14,reviewed,av,av
