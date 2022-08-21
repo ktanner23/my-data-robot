@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-08-21T13:56:54.137Z,61.6352,-149.6701,33.9,1.1,ml,,,,0.32,ak,ak022apkam79,2022-08-21T13:58:40.509Z,"3 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-21T13:56:13.350Z,38.7886658,-122.7611694,0.8,1.01,md,19,77,0.012,0.04,nc,nc73770415,2022-08-21T13:57:48.429Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.43,0.17,5,automatic,nc,nc
+2022-08-21T13:56:13.350Z,38.7886658,-122.7611694,0.8,1.01,md,19,77,0.012,0.04,nc,nc73770415,2022-08-21T14:06:11.335Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.43,0.17,5,automatic,nc,nc
 2022-08-21T13:46:36.260Z,34.036,-117.5546667,5.36,1.38,ml,44,33,0.03185,0.17,ci,ci40329248,2022-08-21T13:57:56.450Z,"6km NW of Mira Loma, CA",earthquake,0.2,0.4,0.206,28,automatic,ci,ci
-2022-08-21T13:45:22.077Z,32.8397,-100.9315,2.654,3,mb_lg,33,35,0.253,0.34,us,us6000icj3,2022-08-21T13:58:45.720Z,"13 km N of Snyder, Texas",earthquake,4.53,7.79,0.046,126,reviewed,us,us
+2022-08-21T13:45:22.077Z,32.8397,-100.9315,2.654,3,mb_lg,33,35,0.253,0.34,us,us6000icj3,2022-08-21T14:09:00.943Z,"13 km N of Snyder, Texas",earthquake,4.53,7.79,0.046,126,reviewed,us,us
 2022-08-21T13:31:25.570Z,38.8240013,-122.8116684,1.92,0.5,md,14,65,0.001385,0.03,nc,nc73770410,2022-08-21T13:48:14.220Z,"7km NW of The Geysers, CA",earthquake,0.29,0.63,0.35,2,automatic,nc,nc
 2022-08-21T13:30:34.960Z,17.9823333333333,-66.9081666666667,14.77,2.25,md,16,82,,0.08,pr,pr71367253,2022-08-21T13:51:52.140Z,"Puerto Rico region",earthquake,0.41,0.34,0.196081639932437,8,reviewed,pr,pr
 2022-08-21T13:23:39.755Z,60.9527,-150.7454,32.5,2,ml,,,,0.74,ak,ak022apk3ign,2022-08-21T13:26:14.139Z,"4 km NW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -92,6 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T02:51:52.161Z,33.7007,137.0975,368.412,4.2,mb,50,79,1.326,0.62,us,us6000icgr,2022-08-21T03:18:13.040Z,"89 km SSE of Toba, Japan",earthquake,9.52,7.639,0.046,130,reviewed,us,us
 2022-08-21T02:22:16.840Z,38.0515,-118.8008333,8.44,1.15,md,20,69,0.307,0.2,nc,nc73770230,2022-08-21T07:23:11.052Z,"26km SE of Bodie, CA",earthquake,0.44,4.75,0.148,11,reviewed,nc,nc
 2022-08-21T02:18:04.130Z,33.8983333,-117.1228333,11.38,0.78,ml,16,70,0.07775,0.26,ci,ci40329024,2022-08-21T02:21:34.125Z,"10km ESE of Moreno Valley, CA",earthquake,0.47,1.42,0.12,14,automatic,ci,ci
+2022-08-21T02:14:56.620Z,33.671,-116.692,17.31,0.14,ml,17,115,0.01532,0.08,ci,ci40329016,2022-08-21T14:13:00.496Z,"8km SSE of Idyllwild, CA",earthquake,0.26,0.37,0.133,8,reviewed,ci,ci
 2022-08-21T02:08:33.210Z,38.8443336,-122.9638367,3.33,1.25,md,17,135,0.01365,0.02,nc,nc73770225,2022-08-21T02:51:10.439Z,"6km NE of Cloverdale, CA",earthquake,0.51,0.67,0.04,5,automatic,nc,nc
 2022-08-21T02:04:26.499Z,61.7437,-147.5955,40,1.3,ml,,,,0.13,ak,ak022apdfn6h,2022-08-21T02:05:42.637Z,"7 km SSE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-21T01:49:36.635Z,61.5795,-149.8485,50,2.1,ml,,,,0.44,ak,ak022apd3voe,2022-08-21T01:51:36.737Z,"5 km SSW of Houston, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -104,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T01:00:24.170Z,19.3584995269775,-155.839996337891,9.72999954223633,1.87,md,23,151,,0.280000001,hv,hv73116052,2022-08-21T01:03:36.520Z,"11 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.77,0.680000007,0.159999996,9,automatic,hv,hv
 2022-08-21T00:43:52.354Z,-31.4953,-68.9138,110.28,4.2,mb,39,57,0.202,0.56,us,us6000icg9,2022-08-21T01:03:30.040Z,"18 km WNW of Villa Basilio Nievas, Argentina",earthquake,4.65,5.362,0.128,17,reviewed,us,us
 2022-08-21T00:41:51.937Z,65.1728,-151.993,9.1,1.1,ml,,,,0.3,ak,ak022apcgrfd,2022-08-21T00:43:38.074Z,"4 km E of Tanana, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-08-21T00:39:31.010Z,34.0976667,-117.037,3.9,0.43,ml,8,172,0.05155,0.15,ci,ci37438684,2022-08-21T14:06:24.432Z,"7km N of Yucaipa, CA",earthquake,0.62,0.78,0.186,4,reviewed,ci,ci
 2022-08-21T00:39:20.230Z,34.0821667,-117.0375,3.67,0.8,ml,23,73,0.05592,0.14,ci,ci40328984,2022-08-21T14:01:09.429Z,"5km N of Yucaipa, CA",earthquake,0.2,0.47,0.233,11,reviewed,ci,ci
 2022-08-21T00:33:38.719Z,60.2577,-151.2871,50.5,1.1,ml,,,,0.37,ak,ak022apcf0of,2022-08-21T00:35:54.106Z,"6 km ENE of Clam Gulch, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-08-21T00:31:18.590Z,38.8414993,-122.8773346,2.46,0.84,md,14,90,0.005791,0.02,nc,nc73770210,2022-08-21T01:57:11.152Z,"13km NW of The Geysers, CA",earthquake,0.4,0.58,0.03,3,automatic,nc,nc
