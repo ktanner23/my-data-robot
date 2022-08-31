@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T14:10:31.720Z,44.7901667,-110.808,5.03,0.53,md,6,222,0.03032,0.1,uu,uu60512872,2022-08-31T15:30:56.850Z,"Wyoming",earthquake,0.84,0.96,0.157,4,reviewed,uu,uu
 2022-08-31T14:04:52.330Z,38.8235016,-122.8121643,1.86,0.5,md,19,70,0.001636,0.01,nc,nc73773910,2022-08-31T14:48:12.588Z,"7km NW of The Geysers, CA",earthquake,0.21,0.44,0.35,2,automatic,nc,nc
 2022-08-31T14:01:04.100Z,38.8286667,-122.8246689,1.6,0.85,md,8,68,0.01256,0.02,nc,nc73773905,2022-08-31T15:43:10.931Z,"8km NW of The Geysers, CA",earthquake,0.38,1.01,,1,automatic,nc,nc
-2022-08-31T13:54:42.270Z,-26.9109,26.8724,5,3.6,ml,6,234,2.21,0.51,us,us7000i44m,2022-08-31T21:13:17.363Z,"12 km SE of Stilfontein, South Africa",earthquake,5.24,2.023,0.148,6,reviewed,us,us
+2022-08-31T13:54:42.143Z,-26.9093,26.8893,5,3.6,ml,6,235,2.216,0.53,us,us7000i44m,2022-08-31T21:16:56.642Z,"13 km ESE of Stilfontein, South Africa",earthquake,5.26,2.023,0.148,6,reviewed,us,us
 2022-08-31T13:24:04.669Z,63.7633,-148.4556,89.6,0.9,ml,,,,0.46,ak,ak022b63h4eu,2022-08-31T13:27:01.185Z,"22 km E of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-31T13:20:53.690Z,34.8136667,-119.3831667,10.93,0.25,ml,5,97,0.08481,0.14,ci,ci40335000,2022-08-31T18:31:42.246Z,"22km W of Pine Mountain Club, CA",earthquake,0.52,1.43,0.127,1,reviewed,ci,ci
 2022-08-31T13:07:19.870Z,46.81633333333333,-121.737,-2.03,0.58,ml,8,162,0.01951,0.09,uw,uw61876556,2022-08-31T17:50:38.530Z,"23 km ENE of Ashford, Washington",earthquake,0.35,0.66,0.18101115697882353,6,reviewed,uw,uw
@@ -203,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-31T00:16:11.300Z,34.7133333,-118.775,12.37,0.94,ml,18,68,0.02785,0.11,ci,ci40334792,2022-08-31T00:33:37.741Z,"12km SE of Gorman, CA",earthquake,0.26,0.4,0.121,10,reviewed,ci,ci
 2022-08-31T00:12:46.580Z,38.803833,-122.7683334,0.35,0.85,md,7,174,0.01348,0.04,nc,nc73773640,2022-08-31T00:14:21.557Z,"3km NNW of The Geysers, CA",earthquake,0.82,0.95,,1,automatic,nc,nc
 2022-08-31T00:07:53.650Z,38.8236667,-122.8183333,3.94,0.94,md,33,43,0.006457,0.14,nc,nc73773630,2022-08-31T20:38:12.712Z,"7km NW of The Geysers, CA",earthquake,0.38,0.64,0.249,7,reviewed,nc,nc
-2022-08-31T00:07:16.640Z,38.8025,-122.7876667,-0.04,1.15,md,36,48,0.008088,0.06,nc,nc73773625,2022-08-31T21:01:12.843Z,"4km NW of The Geysers, CA",earthquake,0.11,0.23,0.163,8,reviewed,nc,nc
+2022-08-31T00:07:16.640Z,38.8025,-122.7876667,-0.04,1.15,md,36,48,0.008088,0.06,nc,nc73773625,2022-08-31T21:22:11.041Z,"4km NW of The Geysers, CA",earthquake,0.11,0.23,0.163,8,reviewed,nc,nc
 2022-08-31T00:06:26.390Z,38.8031654,-122.7866669,-0.08,1.16,md,8,85,0.008278,0.01,nc,nc73773615,2022-08-31T00:51:13.514Z,"4km NW of The Geysers, CA",earthquake,0.27,0.75,,1,automatic,nc,nc
 2022-08-31T00:05:43.410Z,38.7970009,-122.7913361,-0.48,1.14,md,18,65,0.01261,0.04,nc,nc73773605,2022-08-31T03:51:13.598Z,"4km NW of The Geysers, CA",earthquake,0.17,0.74,0.05,3,automatic,nc,nc
 2022-08-31T00:04:33.180Z,38.7996667,-122.787,-0.54,2.18,md,63,32,0.006518,0.06,nc,nc73773600,2022-08-31T19:41:11.381Z,"4km NW of The Geysers, CA",earthquake,0.09,0.21,0.306,38,reviewed,nc,nc
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-30T21:35:55.020Z,36.9648333,-121.6058333,2.93,0.75,md,12,67,0.0213,0.07,nc,nc73773545,2022-08-31T07:37:13.959Z,"6km SW of Gilroy, CA",earthquake,0.24,0.5,0.132,10,reviewed,nc,nc
 2022-08-30T21:34:06.240Z,58.1881666666667,-155.277666666667,1.44,0.03,ml,7,90,,0.07,av,av91672216,2022-08-31T11:08:26.550Z,"84 km NW of Karluk, Alaska",earthquake,0.27,0.93,0.356276652187926,7,reviewed,av,av
 2022-08-30T21:30:49.770Z,39.0033333,-123.6273333,4.29,0.95,md,8,203,0.07874,0.05,nc,nc73773540,2022-08-31T07:14:12.813Z,"12km NNE of Point Arena, CA",earthquake,0.32,0.82,0.267,7,reviewed,nc,nc
-2022-08-30T21:22:39.920Z,38.7989998,-122.7901688,-0.17,0.82,md,9,79,0.009813,0.03,nc,nc73773535,2022-08-30T22:03:12.515Z,"4km NW of The Geysers, CA",earthquake,0.27,0.82,0.45,2,automatic,nc,nc
