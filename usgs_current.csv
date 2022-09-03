@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-03T11:22:23.590Z,34.2295,-117.0081667,7.66,1,ml,35,45,0.07946,0.19,ci,ci40095447,2022-09-03T11:25:52.057Z,"9km W of Big Bear Lake, CA",earthquake,0.3,0.68,0.112,23,automatic,ci,ci
+2022-09-03T11:12:04.754Z,17.9234,-66.2873,10,2.8,ml,20,197,0.226,0.35,us,us7000i4x2,2022-09-03T11:43:06.040Z,"6 km S of Salinas, Puerto Rico",earthquake,1.5,1.976,0.057,40,reviewed,us,us
 2022-09-03T11:01:44.744Z,-14.6485,167.2991,161.004,4.6,mb,54,65,0.799,0.84,us,us7000i4x1,2022-09-03T11:24:57.040Z,"Vanuatu",earthquake,9.74,3.029,0.056,96,reviewed,us,us
 2022-09-03T10:51:54.170Z,35.8768333,-117.6663333,6.81,0.64,ml,8,184,0.08272,0.13,ci,ci40095431,2022-09-03T10:55:22.786Z,"23km ESE of Little Lake, CA",earthquake,0.47,0.88,0.126,7,automatic,ci,ci
 2022-09-03T10:42:37.290Z,17.9505,-66.9436666666667,15.09,1.85,md,5,214,,0.06,pr,pr71369548,2022-09-03T11:05:18.480Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.71,0.86,0.0843572900341891,4,reviewed,pr,pr
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T08:58:01.280Z,17.9516666666667,-66.9423333333333,12.54,2.19,md,17,207,,0.07,pr,pr71369528,2022-09-03T09:32:47.120Z,"Puerto Rico region",earthquake,0.39,0.25,0.0944790224150389,9,reviewed,pr,pr
 2022-09-03T08:35:34.562Z,38.1717,-117.8353,7.9,0.9,ml,14,172.24,0.103,0.1023,nn,nn00846341,2022-09-03T08:38:50.240Z,"34 km SE of Mina, Nevada",earthquake,,0.7,0.23,7,automatic,nn,nn
 2022-09-03T08:34:06.290Z,33.3191667,-116.7616667,10.97,1.22,ml,44,22,0.083,0.17,ci,ci40095399,2022-09-03T08:45:07.700Z,"9km N of Lake Henshaw, CA",earthquake,0.18,0.64,0.163,26,automatic,ci,ci
-2022-09-03T08:29:35.600Z,38.5818333,-119.4621667,5.42,2.22,md,14,124,0.0454,0.05,nc,nc73774915,2022-09-03T11:38:28.495Z,"8km NNE of Walker, CA",earthquake,0.33,0.29,0.275,29,reviewed,nc,nc
+2022-09-03T08:29:35.600Z,38.5818333,-119.4621667,5.42,2.22,md,14,124,0.0454,0.05,nc,nc73774915,2022-09-03T11:42:11.590Z,"8km NNE of Walker, CA",earthquake,0.33,0.29,0.275,29,reviewed,nc,nc
 2022-09-03T08:27:45.183Z,38.3571,23.2927,9.264,4.4,mb,42,66,1,0.8,us,us7000i4wc,2022-09-03T08:46:44.040Z,"4 km NNW of Thívai, Greece",earthquake,3.25,5.039,0.179,9,reviewed,us,us
 2022-09-03T08:25:22.834Z,31.56125566,-104.0317679,8.805200195,3.1,ml,22,72,0.07304977011,0.2,tx,tx2022rggw,2022-09-03T09:37:19.461Z,"35 km NW of Toyah, Texas",earthquake,1.061304385,1.358733957,0.2,13,reviewed,tx,tx
 2022-09-03T08:25:22.440Z,32.6428333,-115.7303333,6.61,1.42,ml,16,76,0.007286,0.27,ci,ci40095391,2022-09-03T08:28:49.989Z,"15km WNW of Progreso, B.C., MX",earthquake,0.7,0.72,0.225,12,automatic,ci,ci
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-02T11:58:48.960Z,38.8166656,-122.8010025,0.24,0.66,md,12,51,0.00976,0.02,nc,nc73774650,2022-09-02T12:23:16.299Z,"6km NW of The Geysers, CA",earthquake,0.24,0.64,0.51,2,automatic,nc,nc
 2022-09-02T11:49:46.200Z,38.8263321,-122.8065033,1.39,0.74,md,16,70,0.004047,0.02,nc,nc73774645,2022-09-02T12:13:13.234Z,"7km NW of The Geysers, CA",earthquake,0.24,0.4,0.24,3,automatic,nc,nc
 2022-09-02T11:49:31.410Z,33.7131667,-116.764,16.03,0.52,ml,23,71,0.04159,0.09,ci,ci40095039,2022-09-02T21:04:34.851Z,"5km SW of Idyllwild, CA",earthquake,0.19,0.29,0.209,13,reviewed,ci,ci
-2022-09-02T11:43:11.571Z,59.886,-151.0758,59.9,3.5,ml,,,,0.69,ak,ak022b9dh1ae,2022-09-03T03:21:21.041Z,"7 km WNW of Fox River, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2022-09-02T11:42:56.640Z,34.5406667,-119.2,0.79,1.29,ml,21,57,0.1157,0.15,ci,ci40095031,2022-09-02T20:49:06.659Z,"11km NNE of Ojai, CA",earthquake,0.22,0.45,0.182,15,reviewed,ci,ci
