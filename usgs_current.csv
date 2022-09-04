@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-04T23:44:11.690Z,33.092,-116.0416667,3.63,1.54,ml,37,44,0.09737,0.25,ci,ci40096335,2022-09-04T23:47:48.370Z,"10km SE of Ocotillo Wells, CA",earthquake,0.31,0.83,0.148,26,automatic,ci,ci
+2022-09-04T23:44:10.990Z,17.9571666666667,-67.014,8.9,1.91,md,5,212,,0.08,pr,pr71369823,2022-09-04T23:53:17.850Z,"3 km ESE of La Parguera, Puerto Rico",earthquake,0.53,0.76,0.0450123761759222,5,reviewed,pr,pr
 2022-09-04T23:34:38.660Z,35.0516667,-117.6601667,0.29,1.79,ml,19,94,0.1207,0.32,ci,ci40096327,2022-09-04T23:38:27.324Z,"6km N of Boron, CA",quarry blast,0.92,31.61,0.162,31,automatic,ci,ci
 2022-09-04T23:25:51.970Z,33.6626667,-116.7291667,14.42,0.75,ml,34,48,0.04996,0.21,ci,ci40096319,2022-09-04T23:29:23.052Z,"9km S of Idyllwild, CA",earthquake,0.33,0.52,0.141,25,automatic,ci,ci
 2022-09-04T23:06:18.628Z,38.5993,-119.4396,0.1,1.1,ml,10,123.82,0.064,0.2627,nn,nn00846410,2022-09-04T23:10:05.205Z,"6 km ENE of Coleville, California",earthquake,,0.7,0.31,6,automatic,nn,nn
-2022-09-04T22:55:15.610Z,37.310833,-121.6781693,6.79,3.48,ml,74,39,0.04184,0.06,nc,nc73775530,2022-09-04T23:41:14.769Z,"14km E of Seven Trees, CA",earthquake,0.12,0.27,0.264,64,reviewed,nc,nc
+2022-09-04T22:55:15.610Z,37.310833,-121.6781693,6.79,3.48,ml,74,39,0.04184,0.06,nc,nc73775530,2022-09-04T23:53:00.040Z,"14km E of Seven Trees, CA",earthquake,0.12,0.27,0.264,64,reviewed,nc,nc
 2022-09-04T22:43:20.850Z,38.8334999,-122.8056641,2.04,1.39,md,23,72,0.01066,0.01,nc,nc73775525,2022-09-04T23:02:53.209Z,"7km W of Cobb, CA",earthquake,0.2,0.35,0.04,6,automatic,nc,nc
 2022-09-04T22:41:25.493Z,62.082,-148.9556,39.1,1.1,ml,,,,0.29,ak,ak022bcv33lx,2022-09-04T22:42:37.114Z,"35 km NNW of Sutton-Alpine, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-04T22:32:15.480Z,33.1636667,-115.6376667,1.82,1.12,ml,16,71,0.02304,0.19,ci,ci40096303,2022-09-04T22:35:49.808Z,"12km WNW of Calipatria, CA",earthquake,0.4,0.66,0.235,20,automatic,ci,ci
@@ -12,18 +14,19 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T22:07:55.820Z,33.8056679,-116.1875,7.4,0.96,ml,15,188,0.02968,0.08,ci,ci40096271,2022-09-04T22:11:21.785Z,"10km NNE of Indio, CA",earthquake,0.95,0.57,0.15,4,automatic,ci,ci
 2022-09-04T22:05:14.020Z,61.5763,-142.3164,0,1,ml,,,,0.52,ak,ak022bcuvcy2,2022-09-04T22:10:08.041Z,"35 km ENE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-04T22:01:22.393Z,62.3662,-149.1946,0,1.2,ml,,,,0.71,ak,ak022bcuuiq7,2022-09-04T22:03:05.008Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-04T21:57:35.802Z,34.6621,70.7014,10,5.3,mww,110,42,1.373,0.44,us,us7000i57m,2022-09-04T23:45:36.040Z,"34 km NE of Jalālābād, Afghanistan",earthquake,6.95,0.957,0.093,11,reviewed,us,us
+2022-09-04T21:57:35.802Z,34.6621,70.7014,10,5.3,mww,110,42,1.373,0.44,us,us7000i57m,2022-09-04T23:46:12.129Z,"34 km NE of Jalālābād, Afghanistan",earthquake,6.95,0.957,0.093,11,reviewed,us,us
 2022-09-04T21:54:05.640Z,35.9086685,-117.6883316,6.81,1.16,ml,14,106,0.1126,0.08,ci,ci40096263,2022-09-04T21:57:32.694Z,"20km E of Little Lake, CA",earthquake,0.4,0.91,0.164,3,automatic,ci,ci
 2022-09-04T21:49:21.260Z,17.9778333333333,-66.984,13.54,2.2,md,6,171,,0.11,pr,pr71369818,2022-09-04T21:59:21.790Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.67,0.4,0.140131268429486,5,reviewed,pr,pr
 2022-09-04T21:45:45.280Z,33.7821655,-117.9108353,14.05,1.66,ml,17,164,0.3207,0.33,ci,ci40096255,2022-09-04T21:49:17.636Z,"5km E of Garden Grove, CA",earthquake,1.75,2.58,0.171,10,automatic,ci,ci
 2022-09-04T21:45:30.980Z,39.5048332,-123.3990021,4.48,1.34,md,5,197,0.3082,0.33,nc,nc73775505,2022-09-04T22:03:14.038Z,"7km N of Brooktrails, CA",earthquake,3.26,24.99,0.02,2,automatic,nc,nc
 2022-09-04T21:27:04.750Z,36.5751648,-121.1246643,11.33,1.95,md,15,124,0.04902,0.11,nc,nc73775500,2022-09-04T21:44:12.910Z,"5km NNE of Pinnacles, CA",earthquake,0.47,0.95,0.11,15,automatic,nc,nc
 2022-09-04T21:23:52.920Z,33.5998333,-116.8061667,6.62,0.74,ml,28,49,0.03564,0.13,ci,ci40096239,2022-09-04T21:27:30.366Z,"13km WNW of Anza, CA",earthquake,0.2,0.38,0.158,23,automatic,ci,ci
+2022-09-04T21:19:03.159Z,51.4602,-178.2851,15.1,1.9,ml,,,,0.6,ak,ak022bcucwwh,2022-09-04T23:54:16.040Z,"123 km WSW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-09-04T21:16:02.110Z,34.0433333,-117.1451667,4.76,1.05,ml,21,77,0.02831,0.21,ci,ci40096223,2022-09-04T21:19:36.239Z,"3km SSW of Mentone, CA",earthquake,0.39,0.63,0.143,27,automatic,ci,ci
 2022-09-04T21:11:44.050Z,37.3898315,-122.1608353,6.08,1.88,md,18,47,0.01836,0.07,nc,nc73775495,2022-09-04T22:59:52.098Z,"2km WNW of Los Altos Hills, CA",earthquake,0.29,0.46,0.12,15,automatic,nc,nc
 2022-09-04T21:06:09.790Z,34.8076667,-120.3391667,0.95,1.41,ml,16,65,0.08693,0.2,ci,ci40096215,2022-09-04T21:09:45.631Z,"9km NW of Los Alamos, CA",earthquake,0.51,31.61,0.101,14,automatic,ci,ci
 2022-09-04T20:51:12.500Z,38.8428345,-122.8253326,2.07,1.13,md,22,95,0.008992,0.02,nc,nc73775485,2022-09-04T21:07:14.679Z,"9km WNW of Cobb, CA",earthquake,0.22,0.44,0.08,4,automatic,nc,nc
-2022-09-04T20:35:59.900Z,36.5748329,-121.1263351,10.17,2.53,md,24,124,0.04765,0.12,nc,nc73775480,2022-09-04T23:11:12.326Z,"5km NNE of Pinnacles, CA",earthquake,0.39,0.9,0.17,25,automatic,nc,nc
+2022-09-04T20:35:59.900Z,36.5748329,-121.1263351,10.17,2.53,md,24,124,0.04765,0.12,nc,nc73775480,2022-09-04T23:50:12.621Z,"5km NNE of Pinnacles, CA",earthquake,0.39,0.9,0.17,25,automatic,nc,nc
 2022-09-04T20:32:05.760Z,36.5681648,-121.1364975,10.7,2.64,md,41,66,0.03953,0.11,nc,nc73775475,2022-09-04T23:45:11.588Z,"4km N of Pinnacles, CA",earthquake,0.24,0.51,0.19,50,automatic,nc,nc
 2022-09-04T20:15:04.121Z,-21.2477,168.5367,10,5.3,mww,25,71,1.694,1.23,us,us7000i56w,2022-09-04T20:29:15.040Z,"Loyalty Islands, New Caledonia",earthquake,7.01,1.94,0.098,10,reviewed,us,us
 2022-09-04T20:11:14.150Z,33.2726667,-116.1173333,1.7,1.1,ml,25,58,0.1241,0.25,ci,ci40096191,2022-09-04T20:14:39.250Z,"14km N of Ocotillo Wells, CA",earthquake,0.38,0.75,0.122,21,automatic,ci,ci
@@ -208,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T00:23:46.210Z,36.5565,-121.095,2.58,2.21,md,35,63,0.04707,0.11,nc,nc73775215,2022-09-04T08:51:13.218Z,"5km ENE of Pinnacles, CA",earthquake,0.2,0.35,0.245,46,reviewed,nc,nc
 2022-09-04T00:23:21.620Z,38.1867,-117.8877,5,0.6,ml,8,176.13,0.074,0.088,nn,nn00846362,2022-09-04T00:27:13.620Z,"29 km SE of Mina, Nevada",earthquake,,2.4,0.08,2,automatic,nn,nn
 2022-09-04T00:05:31.170Z,33.4158333,-116.6291667,7.98,0.36,ml,18,122,0.08182,0.18,ci,ci40095735,2022-09-04T00:09:05.381Z,"15km N of Warner Springs, CA",earthquake,0.41,0.89,0.169,10,automatic,ci,ci
-2022-09-03T23:53:43.282Z,46.9419,-112.4975,9.36,2.3,ml,22,63,0.087,0.63,us,us7000i51d,2022-09-04T00:02:13.040Z,"14 km E of Lincoln, Montana",earthquake,2.24,5.121,0.06,36,reviewed,us,us
-2022-09-03T23:47:22.660Z,33.0906667,-116.0335,6.56,1.29,ml,26,52,0.09493,0.24,ci,ci40095727,2022-09-03T23:58:23.260Z,"11km ESE of Ocotillo Wells, CA",earthquake,0.34,1.33,0.138,27,automatic,ci,ci
