@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T01:10:15.617Z,61.5513,-146.0516,41,1.6,ml,,,,0.66,ak,ak022bcieby1,2022-09-04T01:12:12.363Z,"47 km WSW of Tonsina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-04T01:09:03.934Z,61.264,-146.0893,29.9,1.6,ml,,,,1.07,ak,ak022bcie3bt,2022-09-04T01:11:44.406Z,"20 km NE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-04T01:07:30.580Z,19.2336673736572,-155.373336791992,30.8700008392334,2.54,ml,42,151,,0.159999996,hv,hv73130552,2022-09-04T01:13:02.050Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.56,0.709999979,4.07,5,automatic,hv,hv
-2022-09-04T00:52:50.990Z,38.8311653,-122.81633,1.85,1.92,md,35,50,0.009169,0.03,nc,nc73775225,2022-09-04T02:57:12.072Z,"8km NW of The Geysers, CA",earthquake,0.16,0.27,0.03,11,automatic,nc,nc
+2022-09-04T00:52:50.990Z,38.8316667,-122.8161667,1.83,1.62,md,53,35,0.009533,0.04,nc,nc73775225,2022-09-04T06:31:11.382Z,"8km NW of The Geysers, CA",earthquake,0.1,0.16,0.27,23,reviewed,nc,nc
 2022-09-04T00:46:42.126Z,63.2485,-151.0232,5.1,1.1,ml,,,,0.79,ak,ak022bci0o5w,2022-09-04T00:49:24.168Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-04T00:39:47.020Z,38.8326683,-122.8180008,1.62,0.87,md,18,69,0.01114,0.04,nc,nc73775220,2022-09-04T00:54:12.319Z,"8km NW of The Geysers, CA",earthquake,0.25,0.43,0.3,3,automatic,nc,nc
 2022-09-04T00:23:46.210Z,36.5565,-121.095,2.58,2.21,md,35,63,0.04707,0.11,nc,nc73775215,2022-09-04T05:51:16.131Z,"5km ENE of Pinnacles, CA",earthquake,0.2,0.35,0.245,46,reviewed,nc,nc
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T17:11:40.410Z,37.6121667,-118.8275,5.04,0.04,md,10,108,0.02214,0.04,nc,nc73775095,2022-09-03T18:54:11.380Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.96,0.86,0.163,8,reviewed,nc,nc
 2022-09-03T17:10:51.590Z,34.0168333,-117.558,11.53,1.02,ml,23,76,0.01257,0.21,ci,ci40095575,2022-09-03T21:21:49.310Z,"5km NW of Mira Loma, CA",earthquake,0.35,0.6,0.226,30,automatic,ci,ci
 2022-09-03T17:06:32.780Z,33.8795013,-117.732666,6.39,1.47,ml,14,176,0.1058,0.49,ci,ci40095567,2022-09-03T20:54:36.750Z,"8km E of Yorba Linda, CA",earthquake,1.83,5.77,0.283,20,automatic,ci,ci
-2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-04T06:13:40.514Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
+2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-04T06:18:55.152Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
 2022-09-03T17:02:26.020Z,37.3895,-122.1638333,6.23,0.98,md,19,42,0.01717,0.09,nc,nc73775075,2022-09-03T21:27:10.112Z,"3km WNW of Los Altos Hills, CA",earthquake,0.28,0.39,0.093,11,reviewed,nc,nc
 2022-09-03T16:57:32.657Z,37.0458,20.9038,10,4.2,mb,26,234,0.827,0.99,us,us7000i4y1,2022-09-03T18:33:06.040Z,"61 km WSW of Filiatrá, Greece",earthquake,5.2,1.979,0.187,8,reviewed,us,us
 2022-09-03T16:44:35.300Z,37.6248333,-118.7728333,9.72,0.61,md,6,305,0.05174,0.04,nc,nc73775070,2022-09-03T18:50:10.362Z,"11km NW of Toms Place, CA",earthquake,1.86,1.48,0.192,5,reviewed,nc,nc
@@ -231,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T06:40:31.940Z,19.4731674194336,-155.478500366211,1.4099999666214,1.91,ml,42,58,,0.230000004,hv,hv73129822,2022-09-03T06:46:10.310Z,"25 km W of Volcano, Hawaii",earthquake,0.41,2.19000006,3.61,6,automatic,hv,hv
 2022-09-03T06:39:56.088Z,60.5017,-152.1281,91.3,1.6,ml,,,,0.54,ak,ak022bay0gd4,2022-09-03T06:41:30.383Z,"46 km WSW of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-03T06:33:52.084Z,44.2551,-115.1896,14.621,2.2,ml,6,104,0.891,0.16,us,us7000i4vq,2022-09-03T07:19:18.040Z,"20 km WNW of Stanley, Idaho",earthquake,2.71,7.25,0.071,26,reviewed,us,us
-2022-09-03T06:26:59.560Z,36.7691667,-121.286,11.96,1.17,md,14,72,0.06739,0.06,nc,nc73774885,2022-09-03T10:27:11.286Z,"4km SE of Tres Pinos, CA",earthquake,0.31,0.84,0.243,15,reviewed,nc,nc
-2022-09-03T06:25:37.420Z,48.85633333333333,-121.87316666666666,-0.81,1.67,ml,6,223,0.0747,0.79,uw,uw61868542,2022-09-03T23:07:19.680Z,"6 km SE of Glacier, Washington",earthquake,2.94,3.61,0.03755348072531928,5,reviewed,uw,uw
