@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T15:02:49.030Z,32.8115,-116.0883333,8.01,0.9,ml,17,86,0.02097,0.2,ci,ci40097527,2022-09-07T15:06:24.018Z,"12km NW of Ocotillo, CA",earthquake,0.43,0.72,0.156,7,automatic,ci,ci
+2022-09-07T14:58:53.849Z,38.1563,-117.888,7.2,0.6,ml,8,166.7,0.059,0.1386,nn,nn00846559,2022-09-07T15:02:26.078Z,"32 km SE of Mina, Nevada",earthquake,,1,0.42,3,automatic,nn,nn
 2022-09-07T14:49:16.920Z,33.2491667,-116.7136667,10.27,0.61,ml,16,128,0.2492,0.41,ci,ci40097519,2022-09-07T14:52:48.423Z,"5km E of Lake Henshaw, CA",earthquake,1.44,4.36,0.093,5,automatic,ci,ci
 2022-09-07T14:48:26.560Z,33.4035,-116.497,6.65,0.47,ml,12,195,0.1336,0.34,ci,ci40097511,2022-09-07T14:51:55.734Z,"18km NE of Warner Springs, CA",earthquake,1.29,31.61,0.172,12,automatic,ci,ci
 2022-09-07T14:25:56.836Z,57.2387,-155.8716,60.9,1.4,ml,,,,0.12,ak,ak022bhoub7n,2022-09-07T14:28:30.263Z,"92 km WSW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -71,9 +73,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T08:48:49.950Z,38.7958336,-122.7473297,1.65,0.46,md,8,125,0.01079,0.03,nc,nc73776290,2022-09-07T09:22:15.586Z,"2km NNE of The Geysers, CA",earthquake,0.46,0.87,0.41,2,automatic,nc,nc
 2022-09-07T08:26:20.380Z,18.0365,-66.7485,16.33,2.15,md,10,134,,0.09,pr,pr71370318,2022-09-07T08:37:20.160Z,"2 km S of Santo Domingo, Puerto Rico",earthquake,0.31,0.53,0.0557144314190685,3,reviewed,pr,pr
 2022-09-07T08:24:35.650Z,39.4256667,-110.295,-2.14,1.39,ml,10,200,0.02337,0.14,uu,uu60514037,2022-09-07T14:12:17.600Z,"16 km SSE of Sunnyside, Utah",earthquake,1.28,1.43,0.024,5,reviewed,uu,uu
-2022-09-07T08:19:18.514Z,37.4999,-117.5474,2.1,1.3,ml,22,118.75,0.239,0.224,nn,nn00846536,2022-09-07T08:22:45.628Z,"29 km SSE of Silver Peak, Nevada",earthquake,,4.9,0.85,14,automatic,nn,nn
+2022-09-07T08:19:18.514Z,37.4999,-117.5474,2.1,1.3,ml,22,118.75,0.239,0.224,nn,nn00846536,2022-09-07T08:22:45.628Z,"California-Nevada border region",earthquake,,4.9,0.85,14,automatic,nn,nn
 2022-09-07T08:17:25.031Z,37.5196,-117.5152,3.4,0.8,ml,13,179.44,0.569,0.207,nn,nn00846532,2022-09-07T08:20:33.717Z,"28 km SSE of Silver Peak, Nevada",earthquake,,10.8,0.96,9,automatic,nn,nn
-2022-09-07T08:10:58.750Z,37.3859,-117.097,0.8,-0.2,ml,10,150.02,0.156,0.2346,nn,nn00846530,2022-09-07T08:16:03.717Z,"37 km SSE of Goldfield, Nevada",earthquake,,35.9,1.04,4,automatic,nn,nn
+2022-09-07T08:10:58.750Z,37.3859,-117.097,0.8,-0.2,ml,10,150.02,0.156,0.2346,nn,nn00846530,2022-09-07T08:16:03.717Z,"Nevada",earthquake,,35.9,1.04,4,automatic,nn,nn
 2022-09-07T08:00:00.820Z,38.8344994,-122.7901688,1.93,0.88,md,17,56,0.003906,0.02,nc,nc73776285,2022-09-07T08:40:12.366Z,"6km WNW of Cobb, CA",earthquake,0.24,0.43,0.13,4,automatic,nc,nc
 2022-09-07T07:38:07.290Z,19.2021675109863,-155.384002685547,32.2599983215332,1.84000003,md,37,161,,0.119999997,hv,hv73133262,2022-09-07T07:41:19.150Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.910000026,0.469999999,13,automatic,hv,hv
 2022-09-07T07:35:57.350Z,1.7817,127.4784,123.145,4.6,mb,36,105,1.009,0.7,us,us7000i5y8,2022-09-07T08:04:42.040Z,"59 km W of Tobelo, Indonesia",earthquake,10.62,7.252,0.105,27,reviewed,us,us
@@ -115,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T04:38:43.410Z,38.8323326,-122.8116684,2,0.89,md,20,58,0.009011,0.01,nc,nc73776245,2022-09-07T05:34:10.291Z,"8km W of Cobb, CA",earthquake,0.24,0.45,0.2,4,automatic,nc,nc
 2022-09-07T04:34:39.260Z,39.4256667,-110.2908333,-3.02,2.03,ml,16,169,0.02659,0.15,uu,uu60514012,2022-09-07T13:57:20.520Z,"Utah",earthquake,0.84,1.89,0.109,6,reviewed,uu,uu
 2022-09-07T04:25:09.355Z,62.3629,-149.1867,0,1.1,ml,,,,0.96,ak,ak022bhivvhz,2022-09-07T04:26:45.859Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-09-07T04:11:43.601Z,62.3537,-149.1687,0,1.3,ml,,,,0.6,ak,ak022bhisy48,2022-09-07T04:13:20.833Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-07T04:11:43.601Z,62.3537,-149.1687,0,1.3,ml,,,,0.6,ak,ak022bhisy48,2022-09-07T04:13:20.833Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-07T04:10:53.434Z,62.3667,-149.0035,0,1.1,ml,,,,0.98,ak,ak022bhisr5m,2022-09-07T04:12:58.829Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-07T04:09:54.170Z,19.5033340454102,-155.272827148438,20.4599990844727,1.85000002,md,30,59,,0.119999997,hv,hv73133137,2022-09-07T04:12:52.920Z,"7 km NNW of Volcano, Hawaii",earthquake,0.39,0.850000024,1.85000002,7,automatic,hv,hv
 2022-09-07T03:58:25.619Z,58.4961,-153.645,88.1,1.3,ml,,,,0.37,ak,ak022bhihjs1,2022-09-07T04:01:28.343Z,"64 km NW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
