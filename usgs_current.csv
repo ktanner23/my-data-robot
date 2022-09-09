@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T19:04:58.860Z,38.7496681,-122.6901703,0.1,1.1,md,7,88,0.02962,0.01,nc,nc73779856,2022-09-09T21:36:10.633Z,"3km S of Anderson Springs, CA",earthquake,0.3,1.12,0.04,5,automatic,nc,nc
 2022-09-09T19:04:03.060Z,38.7416649,-122.6998367,0.54,2.37,md,29,77,0.02648,0.07,nc,nc73779851,2022-09-09T21:11:10.343Z,"4km S of Anderson Springs, CA",earthquake,0.26,0.42,0.08,15,automatic,nc,nc
 2022-09-09T18:57:18.470Z,38.8311653,-122.8113327,1.92,0.74,md,18,47,0.007821,0.02,nc,nc73779841,2022-09-09T19:07:11.594Z,"8km NW of The Geysers, CA",earthquake,0.22,0.65,0.13,2,automatic,nc,nc
-2022-09-09T18:51:30.083Z,64.7448,-149.1942,15.5,3.7,ml,,,,0.71,ak,ak022bl2g95u,2022-09-09T21:46:26.089Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.1,,,reviewed,ak,ak
+2022-09-09T18:51:30.083Z,64.7448,-149.1942,15.5,3.7,ml,,,,0.71,ak,ak022bl2g95u,2022-09-09T22:34:06.655Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-09-09T18:46:24.340Z,17.9585,-66.9063333333333,14,2.77,md,27,174,,0.18,pr,pr71370768,2022-09-09T19:15:12.430Z,"1 km S of Guánica, Puerto Rico",earthquake,0.41,0.34,0.208328173671852,15,reviewed,pr,pr
 2022-09-09T18:46:17.194Z,62.9212,-149.5357,59.4,2.6,ml,,,,0.64,ak,ak022bl2f5l1,2022-09-09T19:41:49.040Z,"60 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-09T18:36:36.715Z,-38.7179,175.9983,8.414,4.4,mwr,17,91,0.776,0.61,us,us6000iii0,2022-09-09T20:44:04.558Z,"North Island of New Zealand",earthquake,2.24,5.932,0.054,33,reviewed,us,us
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T08:57:27.780Z,33.2095,-116.7458333,10.67,0.63,ml,21,66,0.02855,0.14,ci,ci40098215,2022-09-09T18:16:33.935Z,"4km SSE of Lake Henshaw, CA",earthquake,0.2,0.37,0.128,9,reviewed,ci,ci
 2022-09-09T08:55:58.000Z,44.773,-111.121,11.74,-0.12,md,6,136,0.02537,0.17,uu,uu60514342,2022-09-09T16:10:22.340Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,1.42,2.52,0.15,4,reviewed,uu,uu
 2022-09-09T08:55:10.520Z,38.7881667,-122.762,1.88,0.14,md,21,64,0.01257,0.04,nc,nc71129024,2022-09-09T20:52:13.227Z,"1km NNW of The Geysers, CA",earthquake,0.16,0.38,0.248,5,reviewed,nc,nc
-2022-09-09T08:54:37.840Z,39.6036667,-120.403,-1.16,2.12,md,23,63,0.1412,0.14,nc,nc73779676,2022-09-09T20:59:17.266Z,"16km WSW of Loyalton, CA",earthquake,0.25,4.03,0.201,35,reviewed,nc,nc
+2022-09-09T08:54:37.840Z,39.6036667,-120.403,-1.16,2.12,md,23,63,0.1412,0.14,nc,nc73779676,2022-09-09T22:33:10.846Z,"16km WSW of Loyalton, CA",earthquake,0.25,4.03,0.201,35,reviewed,nc,nc
 2022-09-09T08:52:49.460Z,38.7999992,-122.7733307,1.52,0.55,md,13,82,0.01066,0.02,nc,nc73779671,2022-09-09T09:05:11.833Z,"3km NNW of The Geysers, CA",earthquake,0.28,0.51,0.4,3,automatic,nc,nc
 2022-09-09T08:47:12.310Z,19.4705009460449,-155.615173339844,-2,2.08,ml,29,91,,0.230000004,hv,hv73135212,2022-09-09T08:52:43.310Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.389999986,4.41,10,automatic,hv,hv
 2022-09-09T08:45:15.250Z,17.9896666666667,-66.8211666666667,17.2,2.26,md,10,181,,0.09,pr,pr71370688,2022-09-09T09:27:42.450Z,"0 km SSW of Indios, Puerto Rico",earthquake,0.49,0.39,0.0715920324281538,7,reviewed,pr,pr
@@ -221,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-08T22:50:44.540Z,38.8343315,-122.8016663,1.24,0.85,md,11,58,0.009735,0.03,nc,nc73779446,2022-09-08T23:04:10.281Z,"7km WNW of Cobb, CA",earthquake,0.29,0.96,,1,automatic,nc,nc
 2022-09-08T22:50:17.770Z,36.6521667,-89.8771667,16.89,2.11,md,39,60,0.0342,0.1,nm,nm60407692,2022-09-09T13:22:57.930Z,"6 km NW of Parma, Missouri",earthquake,0.18,0.18,0.174,27,reviewed,nm,nm
 2022-09-08T22:43:47.590Z,34.0176667,-117.558,11.17,2.03,ml,79,21,0.01338,0.15,ci,ci40098047,2022-09-09T00:34:20.460Z,"5km NW of Mira Loma, CA",earthquake,0.13,0.22,0.165,25,reviewed,ci,ci
-2022-09-08T22:36:59.649Z,34.0175,-97.16783333,19.88,1.2,ml,11,167,0.02699470272,0.18,ok,ok2022rqmn,2022-09-09T12:28:36.818Z,"10 km NNW of Marietta, Oklahoma",earthquake,,1,0.21,6,reviewed,ok,ok
-2022-09-08T22:29:22.260Z,38.831665,-122.8010025,1.36,1.13,md,26,44,0.01071,0.03,nc,nc73779441,2022-09-08T22:51:14.202Z,"7km W of Cobb, CA",earthquake,0.17,0.34,0.16,5,automatic,nc,nc
