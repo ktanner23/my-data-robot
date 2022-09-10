@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-10T07:23:52.630Z,38.8143349,-122.8131638,2.7,0.35,md,12,85,0.009363,0.02,nc,nc73780006,2022-09-10T07:25:26.459Z,"6km NW of The Geysers, CA",earthquake,0.4,0.92,,1,automatic,nc,nc
+2022-09-10T07:23:52.630Z,38.8143349,-122.8131638,2.7,0.35,md,12,85,0.009363,0.02,nc,nc73780006,2022-09-10T07:40:11.092Z,"6km NW of The Geysers, CA",earthquake,0.4,0.92,,1,automatic,nc,nc
 2022-09-10T07:23:13.070Z,19.2646675109863,-155.394836425781,29.7399997711182,2.05,ml,35,126,,0.159999996,hv,hv73136117,2022-09-10T07:28:43.670Z,"11 km NE of Pāhala, Hawaii",earthquake,0.72,0.889999986,5.25,3,automatic,hv,hv
 2022-09-10T07:03:35.340Z,38.7854996,-122.7368317,2.84,0.76,md,7,118,0.002261,0.02,nc,nc73779996,2022-09-10T07:13:09.902Z,"2km ENE of The Geysers, CA",earthquake,0.49,1.27,0.15,2,automatic,nc,nc
 2022-09-10T06:52:36.285Z,-33.4782,-72.3166,20.263,4,mwr,36,145,0.613,0.85,us,us6000iin0,2022-09-10T07:22:58.040Z,"66 km W of Cartagena, Chile",earthquake,4.37,5.717,0.043,52,reviewed,us,us
@@ -20,9 +20,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T05:05:32.482Z,61.7551,-150.4986,41.6,1.7,ml,,,,0.34,ak,ak022bmhz41s,2022-09-10T05:07:48.465Z,"23 km N of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-09-10T04:58:54.910Z,38.8358345,-122.8779984,2.62,0.84,md,12,121,0.004882,0.03,nc,nc73779971,2022-09-10T05:44:12.318Z,"12km WNW of The Geysers, CA",earthquake,0.41,0.6,0.04,3,automatic,nc,nc
 2022-09-10T04:47:10.300Z,39.0004997,-122.6366653,14.37,1.79,md,8,201,0.06733,0.2,nc,nc73779966,2022-09-10T05:19:12.178Z,"4km SE of Clearlake Oaks, CA",earthquake,1.65,3.25,0.15,8,automatic,nc,nc
+2022-09-10T04:44:07.223Z,31.67042029,-104.3932504,7.905419922,2.1,ml,19,59,0.06584264068,0.3,tx,tx2022rsud,2022-09-10T07:42:39.622Z,"western Texas",earthquake,1.356603123,1.277316777,0.1,14,reviewed,tx,tx
 2022-09-10T04:41:42.222Z,63.5022,-155.3406,57.7,1.2,ml,,,,1.15,ak,ak022bmhleze,2022-09-10T04:44:19.024Z,"Central Alaska",earthquake,,4,,,automatic,ak,ak
 2022-09-10T04:22:37.342Z,37.819,-117.8733,4.1,1,ml,10,148.37,0.19,0.1536,nn,nn00846720,2022-09-10T04:26:28.622Z,"California-Nevada border region",earthquake,,2.7,0.41,6,automatic,nn,nn
-2022-09-10T04:14:24.470Z,18.8346,-64.5361,49,3.59,md,19,318,0.6397,0.23,pr,pr2022253000,2022-09-10T04:53:07.271Z,"Virgin Islands region",earthquake,2.9,4.28,0.13,8,reviewed,pr,pr
+2022-09-10T04:14:24.470Z,18.8346,-64.5361,49,3.59,md,19,318,0.6397,0.23,pr,pr2022253000,2022-09-10T04:53:07.271Z,"61 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.9,4.28,0.13,8,reviewed,pr,pr
 2022-09-10T04:05:26.800Z,37.4945,-118.8475,5.32,0.5,md,16,239,0.09647,0.02,nc,nc73779961,2022-09-10T06:43:10.713Z,"17km WSW of Toms Place, CA",earthquake,1.36,1.77,0.127,12,reviewed,nc,nc
 2022-09-10T04:02:07.351Z,62.4577,-148.3977,36.1,1.7,ml,,,,0.53,ak,ak022bmhczcv,2022-09-10T04:03:54.109Z,"73 km N of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-10T03:59:28.030Z,38.8251648,-122.7968369,2.59,1.18,md,29,33,0.01049,0.02,nc,nc73779951,2022-09-10T04:39:10.949Z,"6km NNW of The Geysers, CA",earthquake,0.21,0.4,0.09,5,automatic,nc,nc
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T08:06:48.860Z,33.9816667,-116.7216667,18.8,1.75,ml,65,34,0.08346,0.13,ci,ci40098207,2022-09-09T18:11:11.590Z,"9km NE of Cabazon, CA",earthquake,0.12,0.24,0.104,24,reviewed,ci,ci
 2022-09-09T08:04:57.807Z,38.1702,-117.8951,5.9,0.6,ml,11,160.25,0.059,0.078,nn,nn00846668,2022-09-09T08:08:34.201Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.72,5,automatic,nn,nn
 2022-09-09T07:46:05.550Z,19.1708335876465,-155.463333129883,32.0900001525879,2.39,ml,45,106,,0.119999997,hv,hv73135172,2022-09-09T07:54:28.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.53,0.790000021,4.43,15,automatic,hv,hv
-2022-09-09T07:33:43.036Z,36.5804,71.0534,202.003,4.4,mb,45,103,0.665,0.85,us,us6000iid5,2022-09-09T07:51:47.040Z,"Hindu Kush region, Afghanistan",earthquake,8.61,6.15,0.109,24,reviewed,us,us
