@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-10T10:32:24.410Z,33.7271667,-116.9703333,15.73,1.68,ml,45,36,0.0322,0.2,ci,ci40098535,2022-09-10T10:36:01.399Z,"2km S of Hemet, CA",earthquake,0.22,0.42,0.147,26,automatic,ci,ci
-2022-09-10T10:28:00.926Z,60.2842,-153.6517,179.7,1.5,ml,,,,0.24,ak,ak022bml353w,2022-09-10T10:30:06.286Z,"37 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-09-10T10:32:24.410Z,33.7271667,-116.9703333,15.73,1.68,ml,45,36,0.0322,0.2,ci,ci40098535,2022-09-10T10:43:13.800Z,"2km S of Hemet, CA",earthquake,0.22,0.42,0.147,26,automatic,ci,ci
+2022-09-10T10:28:00.926Z,60.2842,-153.6517,179.7,1.5,ml,,,,0.24,ak,ak022bml353w,2022-09-10T10:44:44.040Z,"37 km ENE of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-10T10:04:25.991Z,63.2034,-150.4814,101.5,1.6,ml,,,,0.3,ak,ak022bmky1uv,2022-09-10T10:07:07.651Z,"72 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-10T09:58:39.090Z,35.0951004,-95.38694,1.57956481,2.15,ml,19,137.2121353,0.1262561083,0.4622598525,ok,ok2022rten,2022-09-10T10:01:28.121Z,"3 km SSW of Quinton, Oklahoma",earthquake,3.832301487,2.176753969,,15,automatic,ok,ok
 2022-09-10T09:52:00.746Z,38.5075,-119.5417,1,1.4,ml,20,92.4,0.08,0.1956,nn,nn00846732,2022-09-10T09:55:04.013Z,"5 km W of Walker, California",earthquake,,4.2,0.32,11,automatic,nn,nn
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T06:28:51.573Z,61.4926,-150.006,41.5,1.3,ml,,,,0.43,ak,ak022bmipilh,2022-09-10T06:31:07.825Z,"4 km SW of Big Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-09-10T06:26:15.020Z,38.840332,-122.8108368,1.94,0.98,md,13,61,0.01612,0.01,nc,nc73779986,2022-09-10T06:58:09.806Z,"8km WNW of Cobb, CA",earthquake,0.3,0.65,0.27,2,automatic,nc,nc
 2022-09-10T06:21:31.440Z,17.9915,-66.9853333333333,7.43,2.07,md,8,145,,0.09,pr,pr71370933,2022-09-10T06:38:29.310Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.35,0.34,0.0611865903411245,6,reviewed,pr,pr
-2022-09-10T06:07:36.012Z,62.3717,-151.0064,71.9,1.4,ml,,,,0.41,ak,ak022bmikzcx,2022-09-10T06:09:53.881Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-09-10T06:07:36.012Z,62.3717,-151.0064,71.9,1.4,ml,,,,0.41,ak,ak022bmikzcx,2022-09-10T06:09:53.881Z,"18 km SW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T06:03:14.425Z,-2.3376,100.6552,52.933,4.7,mb,41,163,2.674,0.41,us,us6000iimq,2022-09-10T06:28:18.040Z,"87 km WSW of Sungai Penuh, Indonesia",earthquake,7.93,8.229,0.11,26,reviewed,us,us
 2022-09-10T06:00:20.822Z,61.2334,-146.8981,33.8,1.5,ml,,,,0.5,ak,ak022bmijg6a,2022-09-10T06:02:25.804Z,"31 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T05:46:36.511Z,61.2098,-148.4497,25.1,1.4,ml,,,,0.72,ak,ak022bmi7wpv,2022-09-10T05:49:29.116Z,"37 km SE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -200,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-09T10:57:04.930Z,38.8209991,-122.7914963,1.91,0.63,md,18,35,0.01145,0.02,nc,nc73779706,2022-09-09T11:46:10.829Z,"6km NNW of The Geysers, CA",earthquake,0.24,0.46,0.07,3,automatic,nc,nc
 2022-09-09T10:54:35.980Z,17.9671666666667,-66.9746666666667,7.54,3.11,md,34,177,,0.17,pr,pr71370708,2022-09-09T12:07:03.040Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.34,0.19,0.15849759961701,17,reviewed,pr,pr
 2022-09-09T10:53:30.810Z,19.5765,-155.661,-3.37,1.58,md,13,89,,0.17,hv,hv73135322,2022-09-09T23:56:12.720Z,"25 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.3,0.19,0.0813029682402253,6,reviewed,hv,hv
-2022-09-09T10:51:16.290Z,39.4303333,-110.3208333,-0.97,1.55,md,8,191,0.007048,0.15,uu,uu60514357,2022-09-09T14:18:50.970Z,"14 km SSE of Sunnyside, Utah",earthquake,1.67,0.43,0.147,6,reviewed,uu,uu
-2022-09-09T10:48:40.310Z,19.488,-155.662,-0.26,0.55,md,13,111,,0.11,hv,hv73135312,2022-09-09T21:31:40.970Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.63,0.133513540431958,4,reviewed,hv,hv
-2022-09-09T10:46:16.850Z,36.0543333,-120.6368333,-0.72,0.82,md,15,126,0.03596,0.11,nc,nc73779701,2022-09-10T00:14:11.425Z,"24km E of San Ardo, CA",earthquake,0.4,1.04,,1,reviewed,nc,nc
