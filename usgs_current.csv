@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T17:27:23.670Z,17.9281666666667,-66.9056666666667,12.22,1.92,md,4,224,,0.07,pr,pr71371043,2022-09-10T17:39:42.340Z,"Puerto Rico region",earthquake,0.66,0.56,0.0169124203127639,2,reviewed,pr,pr
 2022-09-10T17:22:42.860Z,53.0014,173.4545,13.44,4.7,mb,130,81,0.478,1.33,us,us6000iiqx,2022-09-10T19:07:04.482Z,"24 km NE of Attu Station, Alaska",earthquake,5.55,2.713,0.037,222,reviewed,us,us
 2022-09-10T16:57:06.648Z,51.3466,179.8008,11.7,2.1,ml,,,,0.67,ak,ak022bmotzo3,2022-09-10T19:01:18.403Z,"253 km WSW of Adak, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2022-09-10T16:39:00.760Z,37.8598333,-122.2448333,8.68,1.9,md,73,28,0.01792,0.09,nc,nc73780081,2022-09-10T22:18:11.374Z,"3km ESE of Berkeley, CA",earthquake,0.11,0.19,0.149,48,reviewed,nc,nc
+2022-09-10T16:39:00.760Z,37.8598333,-122.2448333,8.68,1.9,md,73,28,0.01792,0.09,nc,nc73780081,2022-09-10T22:30:12.582Z,"3km ESE of Berkeley, CA",earthquake,0.11,0.19,0.149,48,reviewed,nc,nc
 2022-09-10T16:31:41.618Z,60.9538,-150.8449,35.4,1.2,ml,,,,0.52,ak,ak022bmooh0x,2022-09-10T16:32:53.381Z,"9 km WNW of Point Possession, Alaska",earthquake,,5.4,,,automatic,ak,ak
 2022-09-10T16:22:11.919Z,34.98745728,-97.83227539,4.446635723,2.25,ml,33,47.87582397,0.04911977425,0.8106713772,ok,ok2022rtre,2022-09-10T16:25:13.836Z,"9 km NNW of Alex, Oklahoma",earthquake,2.048195884,1.694223938,,25,automatic,ok,ok
 2022-09-10T16:10:28.841Z,61.9338,-151.0691,26,1.2,ml,,,,0.88,ak,ak022bmojy04,2022-09-10T16:12:30.302Z,"18 km ESE of Skwentna, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T16:05:28.660Z,33.3603333,-116.2261667,2.51,0.89,ml,23,78,0.1688,0.22,ci,ci40098583,2022-09-10T16:09:13.966Z,"17km SW of Oasis, CA",earthquake,0.35,1.3,0.122,20,automatic,ci,ci
 2022-09-10T16:00:00.197Z,64.7579,-149.1886,0,2.2,ml,,,,0.8,ak,ak022bmo92uq,2022-09-10T16:02:04.882Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-10T15:59:09.210Z,64.7385,-149.2069,17.9,1.4,ml,,,,0.84,ak,ak022bmo8yyx,2022-09-10T16:01:56.854Z,"15 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-10T22:19:02.652Z,"1 km ENE of Flaxlanden, France",earthquake,3.95,5.862,0.239,6,reviewed,us,us
+2022-09-10T15:58:11.642Z,47.7015,7.3371,9.161,4.3,mb,49,71,0.916,0.75,us,us6000iiqi,2022-09-10T22:24:17.603Z,"1 km ENE of Flaxlanden, France",earthquake,3.95,5.862,0.239,6,reviewed,us,us
 2022-09-10T15:54:31.031Z,47.8964,144.5202,476.807,4.5,mb,94,56,1.519,0.39,us,us6000iiqh,2022-09-10T16:12:35.040Z,"144 km ENE of Dolinsk, Russia",earthquake,10.25,7.265,0.03,331,reviewed,us,us
 2022-09-10T15:34:59.487Z,-22.2033,-66.2824,255.015,4.5,mb,40,43,1.905,0.66,us,us6000iiqa,2022-09-10T15:51:10.040Z,"71 km W of La Quiaca, Argentina",earthquake,8.43,7.652,0.101,29,reviewed,us,us
 2022-09-10T14:46:14.030Z,17.9036666666667,-66.8538333333333,16.52,2.16,md,9,231,,0.07,pr,pr71371018,2022-09-10T15:19:00.368Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.55,0.6,0.150308801508439,7,reviewed,pr,pr
@@ -152,13 +152,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T01:27:13.485Z,-2.2272,138.1577,10,4.7,mb,34,104,5.943,0.69,us,us6000iili,2022-09-10T01:49:16.040Z,"Papua, Indonesia",earthquake,7.32,1.89,0.117,22,reviewed,us,us
 2022-09-10T01:13:35.960Z,35.9248333,-117.6833333,1.99,1.27,ml,9,144,0.1118,0.19,ci,ci40098439,2022-09-10T01:17:14.135Z,"20km E of Little Lake, CA",earthquake,0.5,0.68,0.154,13,automatic,ci,ci
 2022-09-10T01:11:46.452Z,38.7874,-119.6716,10.3,1,ml,9,100.67,0.234,0.1481,nn,nn00846715,2022-09-10T01:14:47.265Z,"8 km SSW of Carter Springs, Nevada",earthquake,,1.2,0.48,4,automatic,nn,nn
+2022-09-10T01:04:39.348Z,-2.4024,138.1435,10,4.4,mb,21,88,5.911,0.71,us,us6000iilf,2022-09-10T22:31:53.040Z,"Papua, Indonesia",earthquake,11.93,1.903,0.144,15,reviewed,us,us
 2022-09-10T00:51:24.430Z,60.6084,-151.9659,79.4,1.3,ml,,,,0.44,ak,ak022bmf9scb,2022-09-10T00:52:42.458Z,"35 km W of Salamatof, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-09-10T00:51:22.241Z,56.1457,-156.1463,39.1,3,ml,,,,0.79,ak,ak022bmf9s68,2022-09-10T01:01:28.040Z,"141 km E of Chignik, Alaska",earthquake,,7.3,,,automatic,ak,ak
 2022-09-10T00:22:29.490Z,33.996,-116.8388333,19.2,1.14,ml,31,47,0.0468,0.1,ci,ci40098431,2022-09-10T00:31:32.186Z,"9km NNE of Banning, CA",earthquake,0.16,0.37,0.204,26,reviewed,ci,ci
 2022-09-10T00:17:37.687Z,38.3821,-117.857,3.9,1.4,ml,12,159.59,0.239,0.1487,nn,nn00846713,2022-09-10T00:21:16.839Z,"22 km E of Mina, Nevada",earthquake,,7,0.37,6,automatic,nn,nn
 2022-09-10T00:15:34.765Z,-21.0938,-68.9757,114.688,4.5,mb,39,43,0.481,0.63,us,us6000iikv,2022-09-10T03:36:22.597Z,"151 km N of Calama, Chile",earthquake,4.98,2.746,0.125,19,reviewed,us,us
 2022-09-10T00:12:32.710Z,19.238166809082,-155.393173217773,33.0499992370605,2.6400001,md,44,140,,0.129999995,hv,hv73135867,2022-09-10T00:51:20.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.720000029,1.63,36,automatic,hv,hv
-2022-09-10T00:09:53.720Z,38.5911667,-122.8028333,8.03,1.19,md,42,46,0.1246,0.07,nc,nc73779916,2022-09-10T21:16:11.995Z,"5km NNE of Windsor, CA",earthquake,0.19,0.5,0.193,22,reviewed,nc,nc
+2022-09-10T00:09:53.720Z,38.5911667,-122.8028333,8.03,1.19,md,42,46,0.1246,0.07,nc,nc73779916,2022-09-10T22:30:12.440Z,"5km NNE of Windsor, CA",earthquake,0.19,0.5,0.193,22,reviewed,nc,nc
 2022-09-10T00:05:12.731Z,-2.2198,138.1856,19.108,6.2,mww,124,21,5.971,0.77,us,us6000iikp,2022-09-10T02:18:40.977Z,"260 km ESE of Biak, Indonesia",earthquake,7.87,3.368,0.046,45,reviewed,us,us
 2022-09-10T00:02:27.280Z,58.2496666666667,-154.936166666667,3.3,0.43,ml,6,164,,0.16,av,av91678236,2022-09-10T20:00:00.270Z,"81 km NNW of Karluk, Alaska",earthquake,0.5,1.81,0.25311365144194,6,reviewed,av,av
 2022-09-10T00:02:26.116Z,63.1827,-151.0979,0,1.7,ml,,,,0.79,ak,ak022bmezadv,2022-09-10T00:04:30.406Z,"50 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
