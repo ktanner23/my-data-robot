@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-11T12:21:19.600Z,37.7220001,-122.1364975,8.59,0.97,md,8,159,0.01381,0.07,nc,nc73780421,2022-09-11T12:38:12.342Z,"2km E of San Leandro, CA",earthquake,0.74,1.06,0.1,5,automatic,nc,nc
+2022-09-11T12:21:19.600Z,37.7220001,-122.1364975,8.59,0.97,md,8,159,0.01381,0.07,nc,nc73780421,2022-09-11T12:56:10.433Z,"2km E of San Leandro, CA",earthquake,0.74,1.06,0.1,5,automatic,nc,nc
 2022-09-11T12:07:26.663Z,-24.2999,-67.2869,192.226,4.3,mb,22,98,1.571,0.36,us,us7000i76r,2022-09-11T12:22:24.040Z,"98 km W of San Antonio de los Cobres, Argentina",earthquake,9.52,8.581,0.177,9,reviewed,us,us
 2022-09-11T12:00:17.648Z,37.0321,-117.6076,11.3,0.8,ml,15,212.82,0.196,0.2068,nn,nn00846794,2022-09-11T12:03:30.069Z,"58 km ENE of Independence, California",earthquake,,0.6,1.51,6,automatic,nn,nn
 2022-09-11T11:39:34.475Z,38.2921,-118.6831,0,1.3,ml,14,145.69,0.146,0.2812,nn,nn00846791,2022-09-11T11:42:47.816Z,"26 km S of Hawthorne, Nevada",earthquake,,11.2,0.21,9,automatic,nn,nn
@@ -125,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T20:44:48.047Z,63.5841,-152.6749,0,1.4,ml,,,,0.95,ak,ak022bmr5090,2022-09-10T20:46:57.945Z,"37 km SSW of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-10T20:41:12.760Z,38.8288345,-122.7981644,1.33,0.46,md,11,66,0.01077,0.02,nc,nc73780106,2022-09-10T20:58:12.021Z,"6km W of Cobb, CA",earthquake,0.29,0.84,0.39,2,automatic,nc,nc
 2022-09-10T20:11:02.394Z,38.1129,-118.0506,2.7,1.1,ml,10,163.32,0.076,0.1421,nn,nn00846741,2022-09-10T20:14:14.856Z,"31 km S of Mina, Nevada",earthquake,,1.2,0.29,5,automatic,nn,nn
-2022-09-10T19:58:44.589Z,58.0509,-157.2447,15,1.6,ml,,,,1.17,ak,ak022bmqmkei,2022-09-10T20:02:21.087Z,"19 km SSE of Egegik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-09-10T19:58:44.589Z,58.0509,-157.2447,15,1.6,ml,,,,1.17,ak,ak022bmqmkei,2022-09-10T20:02:21.087Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2022-09-10T19:49:31.404Z,35.10398865,-95.38169098,1.069155097,2.44,ml,24,138.2695084,0.121341452,0.5512064213,ok,ok2022rtya,2022-09-10T19:52:51.751Z,"2 km SSW of Quinton, Oklahoma",earthquake,3.411927035,1.993566226,,18,automatic,ok,ok
 2022-09-10T19:29:38.500Z,33.0466667,-116.3956667,11.94,1.33,ml,35,65,0.1729,0.22,ci,ci40098623,2022-09-10T19:40:13.730Z,"20km E of Julian, CA",earthquake,0.29,1.38,0.172,25,automatic,ci,ci
 2022-09-10T19:20:08.910Z,33.8838333,-116.7398333,17.59,1.01,ml,24,46,0.06931,0.16,ci,ci40098615,2022-09-10T19:24:40.230Z,"6km SE of Cabazon, CA",earthquake,0.27,0.63,0.159,28,automatic,ci,ci
@@ -166,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-10T13:44:19.690Z,33.9836667,-116.7235,13.87,0.75,ml,19,80,0.08326,0.18,ci,ci40098559,2022-09-10T13:47:56.250Z,"9km NE of Cabazon, CA",earthquake,0.39,1.18,0.159,16,automatic,ci,ci
 2022-09-10T13:35:44.851Z,61.7925,-149.7754,28.6,1.4,ml,,,,0.88,ak,ak022bmmx1bp,2022-09-10T13:38:20.360Z,"14 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-10T13:12:16.560Z,38.8209991,-122.814003,4.38,0.56,md,9,135,0.003891,0.01,nc,nc73780061,2022-09-10T13:44:13.429Z,"7km NW of The Geysers, CA",earthquake,1.12,2.61,0.33,2,automatic,nc,nc
-2022-09-10T12:50:54.355Z,62.2374,-151.2157,75.9,1.4,ml,,,,0.25,ak,ak022bmmeu6z,2022-09-10T12:52:50.191Z,"29 km NNE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
