@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T15:30:04.170Z,19.4669990539551,-155.614334106445,-1.14999997615814,2.16,ml,24,92,,0.340000004,hv,hv73149507,2022-09-23T15:35:34.050Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.48,0.589999974,3.44,7,automatic,hv,hv
+2022-09-23T15:25:59.500Z,38.8144989,-122.8138351,2.81,0.93,md,22,48,0.009356,0.02,nc,nc73785081,2022-09-23T15:27:34.849Z,"6km NW of The Geysers, CA",earthquake,0.23,0.53,0.06,5,automatic,nc,nc
+2022-09-23T15:24:27.640Z,36.0378342,-120.6008301,3.18,1.01,md,14,112,0.03114,0.05,nc,nc73785076,2022-09-23T15:26:05.170Z,"22km NW of Parkfield, CA",earthquake,0.5,1.09,0.2,5,automatic,nc,nc
 2022-09-23T14:26:02.390Z,19.4773330688477,-155.674835205078,-2.82999992370605,1.8,ml,11,125,,0.219999999,hv,hv73149427,2022-09-23T14:31:32.430Z,"20 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.419999987,0.49,3,automatic,hv,hv
 2022-09-23T14:23:18.166Z,58.1724,-155.4116,1.2,0.9,ml,,,,0.17,ak,ak022c85fcp4,2022-09-23T14:24:43.030Z,"Alaska Peninsula",earthquake,,2.4,,,automatic,ak,ak
 2022-09-23T14:18:35.894Z,63.6517,-147.5771,76.2,1.6,ml,,,,0.33,ak,ak022c85ebhh,2022-09-23T14:20:46.969Z,"66 km E of Denali Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -194,6 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T18:36:43.920Z,19.4806671142578,-155.592163085938,-0.170000001788139,1.75999999,md,16,54,,0.25999999,hv,hv73148402,2022-09-22T18:42:14.710Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.69,0.449999988,1.13,7,automatic,hv,hv
 2022-09-22T18:30:09.515Z,55.3964,-155.1066,40,3.5,ml,,,,1.11,ak,ak022c6kb7ip,2022-09-22T21:37:57.849Z,"181 km SSW of Akhiok, Alaska",earthquake,,0,,,reviewed,ak,ak
 2022-09-22T18:28:53.442Z,59.6023,-146.3182,41.4,1.3,ml,,,,0.91,ak,ak022c6kb1ni,2022-09-22T18:34:42.197Z,"108 km ESE of Chenega, Alaska",earthquake,,12.7,,,automatic,ak,ak
+2022-09-22T18:27:20.660Z,34.452,-97.51083333,7,1.91,ml,45,90,0.09358163609,0.35,ok,ok2022spti,2022-09-23T15:37:32.252Z,"0 km NNW of Ratliff City, Oklahoma",earthquake,,1,0.16,5,reviewed,ok,ok
 2022-09-22T18:25:09.520Z,35.6411667,-117.4596667,6.97,1.5,ml,29,48,0.05459,0.11,ci,ci40104423,2022-09-22T18:44:58.200Z,"15km SSW of Searles Valley, CA",earthquake,0.15,0.34,0.146,24,reviewed,ci,ci
 2022-09-22T18:24:28.770Z,44.7946667,-110.7938333,4.82,1.19,md,5,232,0.04084,0.05,uu,uu60517692,2022-09-22T21:28:41.170Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.79,0.46,0.394,5,reviewed,uu,uu
 2022-09-22T18:24:23.769Z,31.60376912,-103.9636679,8.856616211,2.1,ml,18,67,0.09659850534,0.2,tx,tx2022sptg,2022-09-23T05:59:58.984Z,"western Texas",earthquake,0.9032792936000001,1.412976028,0.2,11,reviewed,tx,tx
@@ -246,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T16:00:53.960Z,19.5938333333333,-155.953,18.48,2.92,ml,43,244,,0.27,hv,hv73148302,2022-09-22T21:01:08.971Z,"2 km NNE of Kahaluu-Keauhou, Hawaii",earthquake,0.72,0.97,0.217046074681585,16,reviewed,hv,hv
 2022-09-22T15:47:57.996Z,44.1351,10.6239,18.654,4.6,mb,66,91,0.333,0.79,us,us7000ia8f,2022-09-22T21:36:25.839Z,"3 km WSW of Abetone, Italy",earthquake,3.75,2.726,0.096,35,reviewed,us,us
 2022-09-22T15:47:16.695Z,58.2807,-154.9954,2.5,0,ml,,,,1.08,ak,ak022c6imkwa,2022-09-22T23:06:48.500Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
-2022-09-22T15:37:54.940Z,58.2696666666667,-154.9365,2.39,-0.26,ml,9,147,,0.08,av,av91071863,2022-09-22T23:01:32.190Z,"Alaska Peninsula",earthquake,0.32,0.51,0.262919742078761,9,reviewed,av,av
-2022-09-22T15:32:00.390Z,35.1491667,-118.6816667,7.15,1.35,ml,36,58,0.08192,0.13,ci,ci40104327,2022-09-22T17:38:33.430Z,"15km ESE of Arvin, CA",earthquake,0.17,0.51,0.225,24,reviewed,ci,ci
-2022-09-22T15:29:23.780Z,58.264,-155.106,5.28,-1.03,ml,4,193,,0.12,av,av91071858,2022-09-22T22:54:20.710Z,"86 km NNW of Karluk, Alaska",earthquake,1.46,0.65,0.103583619254024,4,reviewed,av,av
