@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-23T10:53:55.810Z,35.834,-117.6783333,4.43,0.49,ml,6,104,0.06816,0.21,ci,ci40104991,2022-09-23T10:57:31.282Z,"24km ESE of Little Lake, CA",earthquake,0.58,1.53,0.191,4,automatic,ci,ci
 2022-09-23T10:41:19.430Z,33.0041667,-116.2903333,3.94,2.1,ml,56,37,0.05063,0.21,ci,ci40104983,2022-09-23T10:52:18.870Z,"21km SW of Ocotillo Wells, CA",earthquake,0.22,0.95,0.16,26,automatic,ci,ci
 2022-09-23T10:28:59.256Z,62.3683,-149.8667,18.4,1.3,ml,,,,0.48,ak,ak022c832s11,2022-09-23T10:31:12.831Z,"13 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-23T10:25:02.660Z,19.24049949646,-155.391006469727,35.9000015258789,2.05999994,md,40,144,,0.159999996,hv,hv73149242,2022-09-23T10:28:08.820Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.870000005,0.649999976,11,automatic,hv,hv
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T23:56:33.790Z,19.2268333435059,-155.392669677734,33,2.18,ml,34,163,,0.170000002,hv,hv73148672,2022-09-23T00:02:07.100Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.7,0.970000029,5.24,3,automatic,hv,hv
 2022-09-22T23:56:29.250Z,19.3173333333333,-155.249,4.18,2.29,md,32,94,,0.13,hv,hv73148667,2022-09-23T00:29:27.050Z,"13 km S of Volcano, Hawaii",earthquake,0.25,1.13,0.186398433589571,10,reviewed,hv,hv
 2022-09-22T23:56:22.420Z,47.1025,-123.06516666666667,18.87,0.8,ml,10,92,0.07164,0.15,uw,uw61873872,2022-09-23T02:25:49.780Z,"12 km SSE of Shelton, Washington",earthquake,0.61,1.04,0.08981643009973261,6,reviewed,uw,uw
-2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"Hindu Kush region, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
+2022-09-22T23:52:58.311Z,35.9341,70.908,122.258,4.4,mb,22,80,2.065,0.95,us,us7000iabv,2022-09-23T00:15:17.040Z,"56 km N of Pārūn, Afghanistan",earthquake,7.14,11.622,0.179,9,reviewed,us,us
 2022-09-22T23:51:34.287Z,64.0111,-148.794,4.9,1.5,ml,,,,0.53,ak,ak022c6nexxw,2022-09-22T23:53:29.181Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-22T23:13:00.110Z,51.8585,-177.813666666667,7.44,1.17,ml,4,250,,0.04,av,av91683616,2022-09-23T01:27:07.610Z,"81 km W of Adak, Alaska",earthquake,0.57,0.68,0.186499195975507,4,reviewed,av,av
 2022-09-22T23:10:59.110Z,38.8066673,-122.7805023,1.14,0.65,md,12,65,0.006584,0.04,nc,nc73784821,2022-09-22T23:12:35.472Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.56,0.19,3,automatic,nc,nc
@@ -315,8 +316,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-22T11:26:38.930Z,19.2514991760254,-155.416168212891,33.060001373291,1.75999999,md,34,139,,0.129999995,hv,hv73148102,2022-09-22T11:29:53.580Z,"8 km NE of Pāhala, Hawaii",earthquake,0.66,0.779999971,0.870000005,3,automatic,hv,hv
 2022-09-22T11:08:01.330Z,58.26,-154.952333333333,12.2,0.1,ml,8,144,,0.16,av,av91071908,2022-09-23T00:07:21.280Z,"82 km NNW of Karluk, Alaska",earthquake,0.6,0.79,0.408698869074717,8,reviewed,av,av
 2022-09-22T11:07:02.360Z,58.2541666666667,-154.931833333333,10.37,0.13,ml,9,152,,0.09,av,av91071903,2022-09-23T00:24:43.660Z,"81 km NNW of Karluk, Alaska",earthquake,0.42,0.66,0.283159143148979,9,reviewed,av,av
-2022-09-22T11:02:48.710Z,37.5556667,-118.862,5.43,0.12,md,9,287,0.04312,0.01,nc,nc73784591,2022-09-22T15:54:05.626Z,"14km SE of Mammoth Lakes, CA",earthquake,1.9,1.64,0.128,7,reviewed,nc,nc
-2022-09-22T11:00:55.438Z,58.1593,-155.3293,1,0.2,ml,,,,0.12,ak,ak022c6fyuta,2022-09-22T23:50:24.840Z,"83 km NW of Karluk, Alaska",earthquake,,0,,,reviewed,ak,ak
-2022-09-22T11:00:27.320Z,60.5781,-151.0868,45,1.3,ml,,,,0.55,ak,ak022c6fysmk,2022-09-22T11:02:03.506Z,"5 km N of Ridgeway, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-09-22T10:59:22.557Z,19.8731,121.3303,33.795,4.5,mb,47,104,2.939,0.68,us,us7000ia4g,2022-09-22T11:36:26.040Z,"92 km SW of Basco, Philippines",earthquake,10.17,6.046,0.091,36,reviewed,us,us
-2022-09-22T10:57:10.124Z,43.4487,-110.8035,9.165,1.5,ml,18,92,0.038,0.58,us,us7000ia5w,2022-09-22T14:23:07.145Z,"2 km N of Rafter J Ranch, Wyoming",earthquake,0.95,2.868,0.066,30,reviewed,us,us
