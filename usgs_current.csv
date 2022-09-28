@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-09-28T10:33:43.420Z,19.1601657867432,-155.496170043945,34.4000015258789,2.26999998,md,42,125,,0.140000001,hv,hv73157042,2022-09-28T10:36:52.320Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.62,1.02999997,0.0199999996,13,automatic,hv,hv
+2022-09-28T10:32:16.996Z,32.3546,142.5868,10,4.5,mb,35,135,2.457,0.63,us,us6000inye,2022-09-28T10:50:16.040Z,"Izu Islands, Japan region",earthquake,9.38,1.909,0.113,23,reviewed,us,us
 2022-09-28T10:26:13.340Z,19.2534999847412,-155.387832641602,30.8899993896484,2.19,ml,43,134,,0.159999996,hv,hv73157032,2022-09-28T10:31:44.640Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.680000007,4.51,4,automatic,hv,hv
 2022-09-28T10:24:36.600Z,19.1616668701172,-155.466995239258,32.0099983215332,2.26999998,md,46,84,,0.119999997,hv,hv73157027,2022-09-28T10:30:06.030Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.56,0.730000019,1.33000004,20,automatic,hv,hv
 2022-09-28T10:05:48.191Z,62.2158,-149.3336,31.4,1.7,ml,,,,0.42,ak,ak022cgcmk6b,2022-09-28T10:07:38.730Z,"27 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -152,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T21:25:15.050Z,36.9618333,-121.601,4.6,1.08,md,25,57,0.01652,0.12,nc,nc73786596,2022-09-28T04:14:34.420Z,"6km SSW of Gilroy, CA",earthquake,0.22,0.41,0.246,18,reviewed,nc,nc
 2022-09-27T21:22:30.811Z,31.91159426,-103.9204822,8.111083984,2.8,ml,11,57,0.09572892509,0.2,tx,tx2022szcq,2022-09-27T21:53:07.040Z,"37 km SSE of Malaga, New Mexico",earthquake,1.899154284,2.521576292,0.1,6,reviewed,tx,tx
 2022-09-27T21:18:19.141Z,53.7319,-35.2173,10,4.9,mb,76,98,9.246,0.6,us,us6000int8,2022-09-27T21:33:42.040Z,"Reykjanes Ridge",earthquake,10.32,1.896,0.036,241,reviewed,us,us
-2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
+2022-09-27T21:17:48.690Z,44.7841667,-110.8113333,10.51,2.14,ml,22,99,0.0282,0.16,uu,uu60518217,2022-09-27T21:57:53.680Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.39,0.67,0.266,7,reviewed,uu,uu
 2022-09-27T21:15:05.530Z,38.8365,-122.787,2.47,0.46,md,17,76,0.003233,0.03,nc,nc73786591,2022-09-27T23:36:43.707Z,"6km WNW of Cobb, CA",earthquake,0.26,0.32,0.116,5,reviewed,nc,nc
 2022-09-27T21:09:53.964Z,53.7854,-35.2431,10,4.8,mb,67,82,15.202,0.73,us,us6000int6,2022-09-27T21:28:19.040Z,"Reykjanes Ridge",earthquake,11.33,1.885,0.047,139,reviewed,us,us
 2022-09-27T20:56:08.066Z,31.61168816,-104.1199787,6.825683594,2.2,ml,12,74,0.09529886576,0.3,tx,tx2022szbt,2022-09-28T09:34:30.979Z,"45 km NW of Toyah, Texas",earthquake,1.333506072,1.810770181,0.2,10,reviewed,tx,tx
@@ -314,9 +315,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-27T11:03:21.788Z,62.0088,-148.5846,30.7,1.2,ml,,,,0.85,ak,ak022cepo5te,2022-09-27T11:06:11.807Z,"24 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-27T10:59:20.172Z,54.21,-35.2717,10,4.7,mb,59,112,8.827,0.78,us,us6000inls,2022-09-27T14:35:58.040Z,"Reykjanes Ridge",earthquake,11.12,1.949,0.054,106,reviewed,us,us
 2022-09-27T10:52:42.620Z,38.8366661,-122.7941666,2.11,0.68,md,11,78,0.003456,0.01,nc,nc73786366,2022-09-27T10:54:17.913Z,"6km WNW of Cobb, CA",earthquake,0.38,0.49,0.14,2,automatic,nc,nc
-2022-09-27T10:51:51.260Z,38.8284988,-122.8151703,2.07,1,md,17,61,0.006467,0.02,nc,nc73786361,2022-09-27T10:53:27.907Z,"8km NW of The Geysers, CA",earthquake,0.24,0.48,0.23,2,automatic,nc,nc
-2022-09-27T10:51:04.242Z,60.6316,-153.2616,8.5,1.2,ml,,,,0.24,ak,ak022cepcz88,2022-09-27T10:53:16.368Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-27T10:50:54.730Z,17.9665,-66.5148,8,3.05,md,11,138,0.0811,0.23,pr,pr2022270004,2022-09-27T14:36:07.320Z,"3 km SW of Potala Pastillo, Puerto Rico",earthquake,0.72,2.99,0.12,6,reviewed,pr,pr
-2022-09-27T10:50:54.660Z,17.9568333333333,-66.53,9.89,3.05,md,16,97,,0.43,pr,pr71373238,2022-09-27T14:44:24.750Z,"5 km SW of Potala Pastillo, Puerto Rico",earthquake,0.82,1.36,0.0798768526496927,6,reviewed,pr,pr
-2022-09-27T10:44:58.720Z,38.8375,-122.7395,1.01,0.46,md,18,185,0.02477,0.03,nc,nc73786356,2022-09-27T18:10:46.625Z,"2km NW of Cobb, CA",earthquake,0.23,0.49,0.149,6,reviewed,nc,nc
-2022-09-27T10:38:08.605Z,59.6455,-151.7132,42.6,1.5,ml,,,,0.48,ak,ak022cepa798,2022-09-27T10:41:03.859Z,"9 km W of Homer, Alaska",earthquake,,1.5,,,automatic,ak,ak
