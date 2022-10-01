@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-01T12:39:57.920Z,19.3419990539551,-155.129669189453,3.84999990463257,2.29999995,md,42,176,,0.230000004,hv,hv73162552,2022-10-01T12:43:16.390Z,"13 km S of Fern Forest, Hawaii",earthquake,0.53,1,1.32000005,24,automatic,hv,hv
-2022-10-01T12:30:27.680Z,36.70777512,-97.6656189,0.3133072257,3.03,ml,73,55.31356621,0.2235102504,0.6458430255,ok,ok2022tftc,2022-10-01T12:33:25.299Z,"9 km W of Lamont, Oklahoma",earthquake,1.56137062,1.138928231,,52,automatic,ok,ok
+2022-10-01T12:49:21.536Z,31.67956953,-104.199255,7.10847168,2.9,ml,19,48,0.05652710246,0.2,tx,tx2022tfts,2022-10-01T13:04:30.076Z,"55 km NW of Toyah, Texas",earthquake,0.8584205626,0.8315768211,0.1,11,reviewed,tx,tx
+2022-10-01T12:39:57.920Z,19.3419990539551,-155.129669189453,3.84999990463257,2.27,ml,42,176,,0.230000004,hv,hv73162552,2022-10-01T12:59:02.769Z,"13 km S of Fern Forest, Hawaii",earthquake,0.53,1,3.65,11,automatic,hv,hv
+2022-10-01T12:32:24.857Z,-58.802,-23.0476,10,4.6,mb,18,93,8.691,0.5,us,us6000ipze,2022-10-01T12:57:54.040Z,"South Sandwich Islands region",earthquake,13.64,1.866,0.137,17,reviewed,us,us
+2022-10-01T12:30:27.680Z,36.70777512,-97.6656189,0.3133072257,3.03,ml,73,55.31356621,0.2235102504,0.6458430255,ok,ok2022tftc,2022-10-01T12:48:29.040Z,"9 km W of Lamont, Oklahoma",earthquake,1.56137062,1.138928231,,52,automatic,ok,ok
 2022-10-01T12:12:06.210Z,69.5877,-144.5206,0,2.3,ml,,,,0.68,ak,ak022clcgvn1,2022-10-01T12:21:18.469Z,"69 km SSW of Kaktovik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-10-01T12:08:36.289Z,60.2008,-153.6297,18.5,1.1,ml,,,,1.01,ak,ak022clcg33g,2022-10-01T12:10:16.929Z,"38 km E of Port Alsworth, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-01T11:49:48.280Z,19.2061672210693,-155.466827392578,31.9899997711182,1.75999999,md,27,103,,0.119999997,hv,hv73162507,2022-10-01T11:53:08.210Z,"1 km ENE of Pāhala, Hawaii",earthquake,0.59,0.870000005,0.689999998,5,automatic,hv,hv
@@ -36,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-01T08:42:40.250Z,38.8336678,-122.8156662,1.8,0.71,md,17,57,0.01115,0.02,nc,nc73787911,2022-10-01T08:44:15.633Z,"8km NW of The Geysers, CA",earthquake,0.26,0.5,0.14,2,automatic,nc,nc
 2022-10-01T08:42:15.191Z,61.499,-150.022,34,1.5,ml,,,,0.44,ak,ak022cla9le7,2022-10-01T08:44:23.833Z,"4 km SW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-01T08:40:37.141Z,61.6029,-147.8213,34.5,1,ml,,,,0.27,ak,ak022cla97nm,2022-10-01T08:42:28.271Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-10-01T08:40:25.663Z,-23.3998,-66.822,215.252,4.4,mb,15,141,1.326,0.44,us,us6000ipy3,2022-10-01T13:05:55.040Z,"104 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.02,11.751,0.19,8,reviewed,us,us
 2022-10-01T08:36:48.919Z,35.10910797,-95.55497742,1.222391605,2.32,ml,27,81.62821198,0.1163962483,0.5795934574,ok,ok2022tflj,2022-10-01T08:40:22.825Z,"10 km E of Crowder, Oklahoma",earthquake,2.809671469,2.0178502,,21,automatic,ok,ok
 2022-10-01T08:31:42.660Z,39.4194984,-122.9933319,2.94,1.53,md,7,213,0.114,0.26,nc,nc73787886,2022-10-01T09:04:11.333Z,"3km WNW of Lake Pillsbury, CA",earthquake,2.39,5.5,0.15,3,automatic,nc,nc
 2022-10-01T08:31:12.026Z,59.9548,-151.797,74.6,1.3,ml,,,,0.13,ak,ak022cla789u,2022-10-01T08:32:17.737Z,"Kenai Peninsula, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -292,8 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-30T13:15:44.920Z,38.7596667,-122.7291667,1.55,0.1,md,10,72,0.003877,0.02,nc,nc73787596,2022-10-01T01:47:52.520Z,"3km SE of The Geysers, CA",earthquake,0.35,0.59,0.193,2,reviewed,nc,nc
 2022-09-30T13:13:10.983Z,61.804,-151.4006,77.3,1.6,ml,,,,0.71,ak,ak022cjpj6u2,2022-09-30T13:15:15.533Z,"20 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-30T13:07:01.940Z,41.3541667,-122.1936667,7.37,1.18,md,11,89,0.03269,0.03,nc,nc73787591,2022-09-30T15:42:11.092Z,"11km ENE of Mount Shasta, CA",earthquake,0.43,0.67,0.345,5,reviewed,nc,nc
-2022-09-30T13:04:21.730Z,36.244,-89.5153333,7.52,1.56,md,17,54,0.01248,0.07,nm,nm60410051,2022-09-30T14:52:53.390Z,"3 km SW of Ridgely, Tennessee",earthquake,0.18,0.37,0.046,14,reviewed,nm,nm
-2022-09-30T12:52:22.680Z,19.4603333333333,-155.599333333333,-1.41,2.36,ml,15,84,,0.11,hv,hv73160832,2022-09-30T22:18:54.850Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.24,0.2,0.137646904420308,6,reviewed,hv,hv
-2022-09-30T12:51:35.010Z,48.055166666666665,-122.7505,22.25,1.08,ml,15,79,0.04904,0.29,uw,uw61875922,2022-09-30T17:52:28.100Z,"3 km NE of Port Hadlock-Irondale, Washington",earthquake,0.71,1.16,0.23926633004475817,10,reviewed,uw,uw
-2022-09-30T12:50:10.103Z,54.0141,-35.2894,10,4.8,mb,77,92,8.985,0.36,us,us6000ipml,2022-09-30T13:09:47.040Z,"Reykjanes Ridge",earthquake,4.95,1.866,0.05,124,reviewed,us,us
-2022-09-30T12:46:21.660Z,38.7838326,-122.7689972,-0.3,0.34,md,11,85,0.01334,0.03,nc,nc73787586,2022-09-30T12:47:54.097Z,"1km WNW of The Geysers, CA",earthquake,0.27,0.73,0.19,3,automatic,nc,nc
