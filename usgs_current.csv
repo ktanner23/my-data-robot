@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-04T11:20:50.770Z,35.3045006,-118.6273346,4.25,1.61,ml,25,51,0.08886,0.13,ci,ci40355416,2022-10-04T11:22:55.962Z,"21km ENE of Arvin, CA",earthquake,0.25,0.9,0.282,8,automatic,ci,ci
+2022-10-04T11:20:50.760Z,35.3055,-118.6235,3.45,1.4,ml,24,54,0.09148,0.17,ci,ci40355416,2022-10-04T11:24:28.765Z,"22km ENE of Arvin, CA",earthquake,0.25,1.18,0.121,22,automatic,ci,ci
 2022-10-04T11:06:09.410Z,18.0068333333333,-66.77,12.49,2.77,md,16,137,,0.14,pr,pr71374718,2022-10-04T11:20:00.220Z,"1 km S of Magas Arriba, Puerto Rico",earthquake,0.33,0.41,0.22211426525866,15,reviewed,pr,pr
 2022-10-04T10:53:22.043Z,60.1656,-148.1623,6.2,1.8,ml,,,,0.55,ak,ak022cqa4vho,2022-10-04T10:54:58.606Z,"Kenai Peninsula, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-04T10:52:42.673Z,61.495,-147.9864,17,1,ml,,,,0.7,ak,ak022cqa4pd7,2022-10-04T10:54:42.817Z,"39 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-04T09:18:13.590Z,38.8371658,-122.8095016,1.53,0.85,md,8,113,0.01376,0.01,nc,nc73789256,2022-10-04T09:19:48.270Z,"8km WNW of Cobb, CA",earthquake,0.5,1.04,,1,automatic,nc,nc
 2022-10-04T09:03:21.643Z,60.9581,-150.193,40.5,1.2,ml,,,,0.19,ak,ak022cq98q1w,2022-10-04T09:04:38.781Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-04T08:24:58.340Z,19.4643325805664,-155.637664794922,0.140000000596046,1.96000004,md,33,70,,0.319999993,hv,hv73166417,2022-10-04T08:30:28.280Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,1.10000002,0.579999983,13,automatic,hv,hv
-2022-10-04T08:17:12.766Z,62.6537,-152.1716,0,1.5,ml,,,,1.18,ak,ak022cq8q9sc,2022-10-04T08:19:59.229Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-04T08:17:12.766Z,62.6537,-152.1716,0,1.5,ml,,,,1.18,ak,ak022cq8q9sc,2022-10-04T08:19:59.229Z,"74 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-04T08:09:12.052Z,59.2571,-135.4406,8.8,1.8,ml,,,,0.67,ak,ak022cq8ok2v,2022-10-04T08:11:54.178Z,"2 km N of Haines, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-04T07:58:28.390Z,33.8696667,-117.7745,2.81,0.94,ml,21,74,0.04285,0.21,ci,ci40355376,2022-10-04T08:01:59.089Z,"4km ESE of Yorba Linda, CA",earthquake,0.36,0.54,0.188,30,automatic,ci,ci
 2022-10-04T07:57:17.600Z,34.477,-119.261,0.56,1.42,ml,16,85,0.1096,0.31,ci,ci40355368,2022-10-04T08:00:57.233Z,"4km NNW of Ojai, CA",earthquake,0.59,31.61,0.218,30,automatic,ci,ci
@@ -269,7 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T12:01:18.970Z,38.5658333,-122.2921667,-0.3,1.91,md,45,75,0.0319,0.26,nc,nc73788866,2022-10-03T18:34:12.014Z,"14km E of Angwin, CA",earthquake,0.22,1.01,0.158,45,reviewed,nc,nc
 2022-10-03T11:51:15.410Z,44.7691667,-110.8035,3.95,0.04,md,5,181,0.03857,0.15,uu,uu60519032,2022-10-03T20:56:37.920Z,"24 km SSW of Mammoth, Wyoming",earthquake,0.9,1.98,0.078,3,reviewed,uu,uu
 2022-10-03T11:40:07.190Z,59.3598333333333,-153.428833333333,-0.84,-0.21,ml,5,181,,0.05,av,av91688756,2022-10-03T23:18:25.960Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.14,0.24,0.239090192058568,5,reviewed,av,av
-2022-10-03T11:32:59.416Z,60.3591,-143.6841,0,2,ml,,,,1.01,ak,ak022con2jgd,2022-10-03T11:35:11.918Z,"116 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-03T11:30:28.610Z,35.6396667,-118.3216667,7.55,1.57,ml,27,51,0.06055,0.14,ci,ci40354992,2022-10-03T12:44:01.920Z,"14km E of Lake Isabella, CA",earthquake,0.26,0.6,0.286,26,reviewed,ci,ci
-2022-10-03T11:25:18.580Z,44.7758333,-111.1226667,4.23,0,md,8,115,0.05806,0.1,uu,uu60519027,2022-10-03T13:48:12.340Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.47,1.37,0.213,4,reviewed,uu,uu
-2022-10-03T11:23:07.570Z,36.7435,-121.3811667,10.05,0.63,md,12,120,0.04549,0.05,nc,nc73788851,2022-10-03T19:15:29.093Z,"8km SW of Tres Pinos, CA",earthquake,0.51,0.53,0.545,11,reviewed,nc,nc
