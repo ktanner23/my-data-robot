@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-05T18:47:33.405Z,35.32770538,-97.89567566,0.1480496973,2.44,ml,58,27.9826355,0.06462462246,0.76583016,ok,ok2022tnno,2022-10-05T18:54:01.598Z,"4 km ENE of Minco, Oklahoma",earthquake,1.562629234,1.275147482,,44,automatic,ok,ok
+2022-10-05T18:47:33.090Z,35.328,-97.889,6.31,2.11,ml,93,26,0.06568710995,0.35,ok,ok2022tnno,2022-10-05T19:10:44.345Z,"5 km ENE of Minco, Oklahoma",earthquake,,0.6,0.2,15,reviewed,ok,ok
 2022-10-05T18:44:21.410Z,36.7692,-115.5686,0.6,0.7,ml,9,306.75,0.336,0.2336,nn,nn00848608,2022-10-05T18:46:58.674Z,"23 km NNE of Indian Springs, Nevada",earthquake,,114.6,0.12,6,automatic,nn,nn
 2022-10-05T18:44:04.040Z,34.3405,-116.8783333,-0.46,1.62,ml,30,56,0.04276,0.28,ci,ci40356136,2022-10-05T18:47:41.419Z,"9km NNW of Big Bear City, CA",earthquake,0.45,31.61,0.114,29,automatic,ci,ci
 2022-10-05T18:35:16.880Z,33.4633333,-116.5005,12.58,1.17,ml,38,59,0.08658,0.21,ci,ci40356120,2022-10-05T18:46:17.650Z,"19km ESE of Anza, CA",earthquake,0.27,0.53,0.156,26,automatic,ci,ci
@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-05T08:53:12.910Z,44.7858333,-110.8143333,6.03,0.23,md,9,210,0.02587,0.08,uu,uu60519302,2022-10-05T14:14:04.480Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.9,1.16,0.121,6,reviewed,uu,uu
 2022-10-05T08:46:55.730Z,44.7985,-110.7991667,6.86,0.55,ml,10,213,0.03794,0.1,uu,uu60519297,2022-10-05T14:29:00.370Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.75,0.92,0.401,2,reviewed,uu,uu
 2022-10-05T08:43:43.320Z,17.9371666666667,-66.9445,13.94,2.58,md,8,218,,0.07,pr,pr71375023,2022-10-05T09:59:58.850Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.6,0.42,0.0982153126862797,5,reviewed,pr,pr
-2022-10-05T08:38:12.130Z,19.2671666666667,-155.412833333333,32.34,3.42,ml,52,68,,0.12,hv,hv73167597,2022-10-05T17:11:45.090Z,"Hawaii region, Hawaii",earthquake,0.46,0.51,0.193748992876025,35,reviewed,hv,hv
+2022-10-05T08:38:12.130Z,19.2671666666667,-155.412833333333,32.34,3.42,ml,52,68,,0.12,hv,hv73167597,2022-10-05T19:06:46.148Z,"Hawaii region, Hawaii",earthquake,0.46,0.51,0.193748992876025,35,reviewed,hv,hv
 2022-10-05T08:38:01.938Z,38.1841,-117.8125,7.2,1.2,ml,18,154.51,0.124,0.156,nn,nn00848591,2022-10-05T16:56:34.727Z,"34 km SE of Mina, Nevada",earthquake,,2.6,0.43,3,reviewed,nn,nn
 2022-10-05T08:31:27.860Z,17.9738333333333,-66.9881666666667,11.08,2.05,md,8,177,,0.14,pr,pr71375003,2022-10-05T09:32:27.130Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.46,0.47,0.0648272103282095,6,reviewed,pr,pr
 2022-10-05T08:26:57.667Z,64.5649,-134.9487,10,4.5,mb,64,34,1.058,0.65,us,us6000ir0a,2022-10-05T08:53:56.040Z,"224 km ENE of Dawson City, Canada",earthquake,4.87,1.867,0.057,91,reviewed,us,us
@@ -129,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-05T05:15:43.056Z,31.65158268,-104.3177346,7.494091797,1.9,ml,24,73,0.04930814402,0.3,tx,tx2022tmmt,2022-10-05T09:20:38.953Z,"western Texas",earthquake,1.132561653,1.826139419,0.1,14,reviewed,tx,tx
 2022-10-05T05:04:47.330Z,17.944,-66.972,12.89,1.99,md,6,221,,0.06,pr,pr71374958,2022-10-05T05:59:03.310Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.74,0.91,0.0504003525216459,5,reviewed,pr,pr
 2022-10-05T04:52:06.515Z,28.50402832,-98.17486213,6.602783203000001,2.6,ml,20,88,0.02385944682,0.3,tx,tx2022tmlz,2022-10-05T16:28:04.121Z,"4 km N of Three Rivers, Texas",earthquake,2.738894671,1.776819747,0.1,11,reviewed,tx,tx
-2022-10-05T04:51:30.350Z,37.3278333,-120.0411667,19.55,3.01,ml,90,43,0.1424,0.18,nc,nc73789551,2022-10-05T18:48:37.291Z,"19km SSW of Mariposa, CA",earthquake,0.19,0.15,0.144,57,reviewed,nc,nc
+2022-10-05T04:51:30.350Z,37.3278333,-120.0411667,19.55,3.01,ml,90,43,0.1424,0.18,nc,nc73789551,2022-10-05T19:09:48.607Z,"19km SSW of Mariposa, CA",earthquake,0.19,0.15,0.144,57,reviewed,nc,nc
 2022-10-05T04:46:59.340Z,35.5078333,-118.3931667,4.31,1.59,ml,24,38,0.1899,0.15,ci,ci40355824,2022-10-05T12:46:04.300Z,"13km SE of Bodfish, CA",earthquake,0.2,1.6,0.2,27,reviewed,ci,ci
 2022-10-05T04:40:19.704Z,63.1972,-150.2301,104.3,1.6,ml,,,,0.27,ak,ak022cru0tv6,2022-10-05T04:41:57.975Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-10-05T04:13:21.030Z,19.2708339691162,-155.387496948242,34.3899993896484,2.07,ml,45,178,,0.140000001,hv,hv73167392,2022-10-05T04:18:52.110Z,"12 km NE of Pāhala, Hawaii",earthquake,0.64,0.800000012,4.19,12,automatic,hv,hv
@@ -246,8 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-04T19:57:01.830Z,38.7608333,-122.727,2.32,0.02,md,17,58,0.001836,0.05,nc,nc73789411,2022-10-05T15:28:35.706Z,"3km SE of The Geysers, CA",earthquake,0.25,0.4,0.1,4,reviewed,nc,nc
 2022-10-04T19:28:01.930Z,33.8465,-117.4895,-0.48,1.42,ml,70,32,0.04703,0.24,ci,ci40355584,2022-10-04T20:06:02.241Z,"5km SE of Home Gardens, CA",quarry blast,0.28,31.61,0.182,26,reviewed,ci,ci
 2022-10-04T19:14:27.240Z,60.9626666666667,-152.305666666667,12.01,0.67,ml,9,307,,0.1,av,av91689381,2022-10-04T21:48:04.290Z,"63 km WNW of Nikiski, Alaska",earthquake,1.09,2.72,0.227592593086879,9,reviewed,av,av
-2022-10-04T19:09:27.355Z,31.61468127,-104.1186517,5.823071289,2,ml,32,61,0.09281874148,0.3,tx,tx2022tlst,2022-10-05T02:53:26.296Z,"western Texas",earthquake,0.805593489,1.238465242,0.3,19,reviewed,tx,tx
-2022-10-04T19:07:13.768Z,63.8455,-148.3274,75,1.2,ml,,,,0.7,ak,ak022cqf7wim,2022-10-04T19:10:29.784Z,"31 km E of Healy, Alaska",earthquake,,4,,,automatic,ak,ak
-2022-10-04T19:06:39.620Z,38.8001671,-122.7731705,1.52,0.84,md,10,83,0.01053,0.02,nc,nc73789406,2022-10-04T19:08:15.366Z,"3km NNW of The Geysers, CA",earthquake,0.32,0.72,,1,automatic,nc,nc
-2022-10-04T19:06:14.220Z,38.7999992,-122.7731705,1.59,0.67,md,14,74,0.01053,0.03,nc,nc73789401,2022-10-04T19:07:50.707Z,"3km NNW of The Geysers, CA",earthquake,0.25,0.47,0.5,3,automatic,nc,nc
-2022-10-04T18:59:25.120Z,61.3844,-146.6068,18.5,2.3,ml,,,,0.62,ak,ak022cqexmv4,2022-10-04T22:08:33.040Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
