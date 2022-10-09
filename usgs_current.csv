@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-09T07:52:23.630Z,38.7873344,-122.7683334,2.45,0.46,md,8,122,0.01488,0.01,nc,nc73791301,2022-10-09T07:53:58.828Z,"2km NW of The Geysers, CA",earthquake,0.42,0.87,0.4,2,automatic,nc,nc
 2022-10-09T07:31:54.050Z,38.7976685,-122.7513351,2.24,0.46,md,12,95,0.007181,0.02,nc,nc73791296,2022-10-09T07:33:29.677Z,"2km N of The Geysers, CA",earthquake,0.32,0.89,0.41,2,automatic,nc,nc
-2022-10-09T07:25:10.620Z,38.7985001,-122.7331696,1.11,1.24,md,23,105,0.01549,0.05,nc,nc73791291,2022-10-09T07:39:16.886Z,"3km SSW of Cobb, CA",earthquake,0.27,0.43,0.06,6,automatic,nc,nc
+2022-10-09T07:25:10.620Z,38.7985001,-122.7331696,1.11,1.24,md,23,105,0.01549,0.05,nc,nc73791291,2022-10-09T08:05:18.061Z,"3km SSW of Cobb, CA",earthquake,0.27,0.43,0.06,6,automatic,nc,nc
 2022-10-09T07:12:30.540Z,38.7926674,-122.8058319,3.4,0.84,md,22,79,0.004843,0.03,nc,nc73791286,2022-10-09T07:14:03.584Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.56,0.28,4,automatic,nc,nc
 2022-10-09T07:08:12.620Z,37.7036667,-122.0916672,9.47,1.26,md,11,80,0.02997,0.09,nc,nc73791281,2022-10-09T07:39:15.885Z,"1km NNW of Castro Valley, CA",earthquake,0.48,0.68,0.01,4,automatic,nc,nc
 2022-10-09T06:59:20.267Z,31.598,-104.3639,5,2.5,ml,23,85,0.136,0.23,us,us6000is8h,2022-10-09T07:26:29.040Z,"62 km WNW of Toyah, Texas",earthquake,1.51,1.942,0.053,71,reviewed,us,us
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T03:44:37.568Z,57.7294,-155.9075,4.8,4.5,ml,,,,0.54,ak,ak022cyflofc,2022-10-09T04:09:33.069Z,"88 km W of Karluk, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-10-09T03:43:40.791Z,-8.1138,109.0174,81.391,4.5,mb,24,64,1.502,1.38,us,us6000is7k,2022-10-09T04:14:02.040Z,"58 km SSW of Kroya, Indonesia",earthquake,5.59,8.327,0.15,13,reviewed,us,us
 2022-10-09T03:43:22.850Z,38.833168,-122.8156662,1.41,0.36,md,8,135,0.01069,0.02,nc,nc73791196,2022-10-09T03:44:58.613Z,"8km NW of The Geysers, CA",earthquake,0.39,0.99,,1,automatic,nc,nc
-2022-10-09T03:38:06.991Z,58.192,-138.0056,14.1,4.3,ml,,,,0.69,ak,ak022cyfkbwn,2022-10-09T07:23:34.773Z,"97 km W of Elfin Cove, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2022-10-09T03:38:06.991Z,58.192,-138.0056,14.1,4.3,ml,,,,0.69,ak,ak022cyfkbwn,2022-10-09T08:00:08.547Z,"97 km W of Elfin Cove, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-10-09T03:35:29.510Z,33.267,-116.4273333,3.74,1.7,ml,51,39,0.008607,0.19,ci,ci40357984,2022-10-09T03:39:03.884Z,"5km WNW of Borrego Springs, CA",earthquake,0.2,0.43,0.183,25,automatic,ci,ci
 2022-10-09T03:32:45.006Z,43.6299,-128.1419,10,3,ml,21,283,2.16,0.75,us,us6000is7b,2022-10-09T04:07:42.040Z,"off the coast of Oregon",earthquake,5.34,2.026,0.052,48,reviewed,us,us
 2022-10-09T03:24:38.724Z,31.65607164,-104.2965113,7.725463867,3,ml,37,68,0.03111799849,0.2,tx,tx2022ttrc,2022-10-09T03:54:45.141Z,"58 km S of Whites City, New Mexico",earthquake,0.8864285748,0.9514813077,0.1,19,reviewed,tx,tx
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-08T08:24:38.666Z,35.93826294,-97.89064789,5.758853912,1.81,ml,24,119.1255798,0.0807512477,0.2805516586,ok,ok2022tsfn,2022-10-08T08:27:39.238Z,"5 km SSE of Dover, Oklahoma",earthquake,2.599700645,3.556703788,,18,automatic,ok,ok
 2022-10-08T08:17:54.821Z,60.0936,-151.5679,65.6,1,ml,,,,0.18,ak,ak022cwuvpaj,2022-10-08T21:52:35.008Z,"7 km NE of Ninilchik, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-10-08T08:17:29.934Z,61.4849,-146.6583,19.6,1.6,ml,,,,0.67,ak,ak022cwuvozx,2022-10-08T21:52:31.004Z,"42 km NNW of Valdez, Alaska",earthquake,,1,,,reviewed,ak,ak
-2022-10-08T08:05:03.539Z,38.6014,-119.4437,1.1,1.4,ml,19,76.12,0.062,0.2399,nn,nn00848855,2022-10-08T08:08:11.684Z,"Central California",earthquake,,0.9,0.17,12,automatic,nn,nn
-2022-10-08T07:58:31.889Z,31.5342,-104.146,5,2.8,ml,26,79,0.21,0.41,us,us6000is26,2022-10-08T08:07:29.040Z,"41 km NW of Toyah, Texas",earthquake,0.76,1.761,0.048,56,reviewed,us,us
