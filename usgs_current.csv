@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-24T07:51:14.270Z,38.828167,-122.8176651,3.42,0.36,md,12,82,0.007607,0.01,nc,nc73798546,2022-10-24T07:52:51.652Z,"8km NW of The Geysers, CA",earthquake,0.45,1.2,,1,automatic,nc,nc
-2022-10-24T07:46:59.450Z,38.8361664,-122.8079987,2.01,0.85,md,10,60,0.01286,0.01,nc,nc73798536,2022-10-24T07:48:38.641Z,"8km WNW of Cobb, CA",earthquake,0.38,1.35,,1,automatic,nc,nc
+2022-10-24T07:51:10.000Z,-15.478,-173.134,114.5,5.9,Mi,22,,,,pt,pt22297050,2022-10-24T08:05:37.797Z,"88 km NE of Hihifo, Tonga",earthquake,,,,23,reviewed,pt,pt
+2022-10-24T07:46:59.450Z,38.8361664,-122.8079987,2.01,0.85,md,10,60,0.01286,0.01,nc,nc73798536,2022-10-24T08:05:12.931Z,"8km WNW of Cobb, CA",earthquake,0.38,1.35,,1,automatic,nc,nc
+2022-10-24T07:43:51.515Z,41.8823,144.9727,10,4.9,mb,41,177,1.361,0.81,us,us6000iw1c,2022-10-24T08:08:54.040Z,"130 km SSE of Kushiro, Japan",earthquake,8.73,1.931,0.092,37,reviewed,us,us
 2022-10-24T07:34:14.117Z,60.9366,-151.7208,81.1,1.5,ml,,,,0.34,ak,ak022dnazfc3,2022-10-24T07:36:37.810Z,"34 km WSW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-24T07:26:51.040Z,38.7939987,-122.7730026,3.64,0.77,md,17,93,0.01168,0.03,nc,nc73798531,2022-10-24T07:44:13.808Z,"2km NW of The Geysers, CA",earthquake,0.3,0.62,0.08,4,automatic,nc,nc
 2022-10-24T07:13:40.577Z,61.1334,-147.3464,19,1.8,ml,,,,0.45,ak,ak022dnauzc9,2022-10-24T07:15:17.715Z,"46 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-24T05:37:30.790Z,19.1723327636719,-155.47883605957,33.5299987792969,1.75999999,md,27,86,,0.109999999,hv,hv73192707,2022-10-24T05:40:34.100Z,"Island of Hawaii, Hawaii",earthquake,0.83,1.21000004,0.870000005,3,automatic,hv,hv
 2022-10-24T05:14:49.000Z,17.92,-66.8505,13.37,2.16,md,10,226,0.06122,0.18,pr,pr71379423,2022-10-24T05:54:02.400Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.9,0.55,0.129532166304911,6,reviewed,pr,pr
 2022-10-24T05:04:42.322Z,-7.4829,-76.2725,126.33,5,mb,85,108,3.545,0.8,us,us6000iw0p,2022-10-24T05:37:57.030Z,"56 km SE of Pajarillo, Peru",earthquake,6.3,6.028,0.026,487,reviewed,us,us
-2022-10-24T04:50:39.558Z,-15.2445,-173.0212,10,4.7,mb,30,117,2.576,0.76,us,us6000iw0n,2022-10-24T05:19:51.040Z,"114 km NE of Hihifo, Tonga",earthquake,9.84,1.898,0.071,60,reviewed,us,us
+2022-10-24T04:50:39.558Z,-15.2445,-173.0212,10,4.7,mb,30,117,2.576,0.76,us,us6000iw0n,2022-10-24T08:02:47.923Z,"114 km NE of Hihifo, Tonga",earthquake,9.84,1.898,0.071,60,reviewed,us,us
 2022-10-24T04:49:11.544Z,60.7936,-148.1381,28.9,1.7,ml,,,,0.99,ak,ak022dn9ac2i,2022-10-24T04:51:36.130Z,"29 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-24T04:47:32.940Z,32.5501667,-115.669,5.46,1.64,ml,12,133,0.1101,0.16,ci,ci40365008,2022-10-24T04:51:15.142Z,"9km WSW of Progreso, B.C., MX",earthquake,0.5,0.92,0.312,18,automatic,ci,ci
 2022-10-24T04:43:56.570Z,38.7854996,-122.7681656,1.9,0.78,md,14,82,0.01648,0.04,nc,nc73798471,2022-10-24T07:01:10.545Z,"1km NW of The Geysers, CA",earthquake,0.28,0.56,0.1,4,automatic,nc,nc
@@ -179,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-23T09:02:46.430Z,35.8639984,-120.395668,5.33,1.37,md,20,136,0.01824,0.03,nc,nc73798196,2022-10-23T09:44:10.767Z,"5km SE of Parkfield, CA",earthquake,0.39,0.51,0.09,9,automatic,nc,nc
 2022-10-23T08:41:13.605Z,62.0497,-151.8415,88.5,2.3,ml,,,,0.72,ak,ak022dlo30f4,2022-10-23T09:05:08.040Z,"24 km WNW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-23T08:38:29.598Z,62.349,-149.1267,0,1.5,ml,,,,0.45,ak,ak022dlo2ei7,2022-10-23T08:40:17.970Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-23T08:04:25.760Z,38.7688332,-122.7314987,1.83,0.52,md,9,159,0.008899,0.02,nc,nc73798191,2022-10-23T09:15:10.591Z,"2km ESE of The Geysers, CA",earthquake,0.72,0.91,0.35,2,automatic,nc,nc
-2022-10-23T08:00:03.430Z,38.8426666,-122.7828369,0.77,0.86,md,8,132,0.005029,0.02,nc,nc73798186,2022-10-23T08:50:11.262Z,"6km WNW of Cobb, CA",earthquake,0.44,0.92,,1,automatic,nc,nc
