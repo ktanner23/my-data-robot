@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-30T05:29:01.330Z,36.0045013,-120.5678329,2.95,1.11,md,17,97,0.02578,0.08,nc,nc73801116,2022-10-30T05:30:36.852Z,"17km NW of Parkfield, CA",earthquake,0.34,0.55,0.36,5,automatic,nc,nc
-2022-10-30T05:20:59.560Z,37.5373344,-122.1051636,12.27,1.67,md,22,120,0.1321,0.08,nc,nc73801111,2022-10-30T05:34:10.505Z,"6km W of Newark, CA",earthquake,0.3,1.28,0.25,18,automatic,nc,nc
+2022-10-30T05:29:01.330Z,36.0045013,-120.5678329,2.95,1.11,md,17,97,0.02578,0.08,nc,nc73801116,2022-10-30T05:42:10.559Z,"17km NW of Parkfield, CA",earthquake,0.34,0.55,0.36,5,automatic,nc,nc
+2022-10-30T05:20:59.560Z,37.5373344,-122.1051636,12.27,1.67,md,22,120,0.1321,0.08,nc,nc73801111,2022-10-30T05:45:12.578Z,"6km W of Newark, CA",earthquake,0.3,1.28,0.25,18,automatic,nc,nc
 2022-10-30T05:08:04.710Z,37.6119995,-118.8581696,2.23,0.62,md,9,138,0.007947,0.01,nc,nc73801096,2022-10-30T05:34:11.504Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.5,1.31,0.15,8,automatic,nc,nc
 2022-10-30T05:07:22.720Z,37.6118317,-118.8590012,2.14,0.7,md,9,139,0.007806,0.01,nc,nc73801091,2022-10-30T05:24:11.449Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.45,1.35,0.12,8,automatic,nc,nc
 2022-10-30T05:06:17.920Z,17.985,-67.0415,9.84,1.6,md,5,99,0.0157,0.06,pr,pr71380213,2022-10-30T05:20:11.670Z,"1 km NNE of La Parguera, Puerto Rico",earthquake,0.62,0.74,0.0490184444840618,5,reviewed,pr,pr
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T03:30:00.860Z,34,-118.2456667,5.87,1.39,ml,27,82,0.05183,0.28,ci,ci40127135,2022-10-30T04:00:32.605Z,"3km NW of Huntington Park, CA",earthquake,0.53,0.95,0.167,31,automatic,ci,ci
 2022-10-30T03:28:22.700Z,37.6344986,-121.8188324,2.92,1.26,md,8,139,0.0177,0.09,nc,nc73801051,2022-10-30T04:14:11.071Z,"6km ESE of Pleasanton, CA",earthquake,0.49,0.78,0.13,10,automatic,nc,nc
 2022-10-30T03:27:10.140Z,37.626667,-121.8233337,6.34,2.09,md,33,69,0.01083,0.19,nc,nc73801046,2022-10-30T05:16:10.408Z,"6km SE of Pleasanton, CA",earthquake,0.31,0.6,0.16,29,automatic,nc,nc
-2022-10-30T03:26:41.080Z,36.5929985,-121.0988312,6.22,1.32,md,7,158,0.04985,0.07,nc,nc73801041,2022-10-30T05:34:11.653Z,"8km NNE of Pinnacles, CA",earthquake,0.78,0.93,0.08,5,automatic,nc,nc
+2022-10-30T03:26:41.080Z,36.5929985,-121.0988312,6.22,1.32,md,7,158,0.04985,0.07,nc,nc73801041,2022-10-30T05:42:10.674Z,"8km NNE of Pinnacles, CA",earthquake,0.78,0.93,0.08,5,automatic,nc,nc
 2022-10-30T03:24:48.809Z,63.368,-149.8452,91.8,2.3,ml,,,,0.65,ak,ak022dx5rpe8,2022-10-30T03:27:57.454Z,"44 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-30T03:24:12.286Z,61.5924,-149.0584,32.9,1.9,ml,,,,0.56,ak,ak022dx5rmkk,2022-10-30T03:27:30.657Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-30T03:16:52.960Z,32.8625,-116.8603333,27.46,0.96,ml,8,125,0.03083,0.31,ci,ci40127127,2022-10-30T03:20:24.963Z,"6km E of Lakeside, CA",earthquake,1.66,2.38,0.216,11,automatic,ci,ci
@@ -183,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T06:02:01.310Z,33.1088333,-115.6156667,7.27,1.38,ml,24,57,0.03222,0.23,ci,ci40126679,2022-10-29T06:05:35.321Z,"8km N of Westmorland, CA",earthquake,0.38,0.88,0.225,27,automatic,ci,ci
 2022-10-29T05:58:54.550Z,19.0188333333333,-65.504,32.34,3.44,md,15,252,0.7381,0.15,pr,pr71380148,2022-10-29T06:43:38.120Z,"74 km NNE of Vieques, Puerto Rico",earthquake,1.23,6.91,0.0636664255342767,5,reviewed,pr,pr
 2022-10-29T05:50:23.233Z,63.5654,-151.091,0,1.9,ml,,,,0.61,ak,ak022dvjkqqy,2022-10-29T05:53:09.182Z,"31 km E of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-29T05:44:01.428Z,62.3325,-148.4444,34.9,1.7,ml,,,,0.53,ak,ak022dvjjery,2022-10-29T05:45:34.303Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-29T05:38:20.713Z,23.6976,94.4559,94.149,4.4,mb,38,130,3.769,0.79,us,us7000il4i,2022-10-29T05:54:03.040Z,"Myanmar",earthquake,10.21,8.635,0.114,22,reviewed,us,us
