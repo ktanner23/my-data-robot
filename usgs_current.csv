@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-02T21:20:03.310Z,19.228666305542,-155.398666381836,30.8400001525879,2.36,ml,45,143,,0.159999996,hv,hv73205107,2022-11-02T21:25:35.100Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.48,0.879999995,4.59,4,automatic,hv,hv
+2022-11-02T21:19:58.770Z,19.2408332824707,-155.42333984375,30.25,2.41,ml,18,220,,0.180000007,hv,hv73205102,2022-11-02T21:25:30.180Z,"7 km NE of Pāhala, Hawaii",earthquake,2.02,1.39999998,0.16,3,automatic,hv,hv
 2022-11-02T21:17:22.768Z,60.8318,-147.7112,19.6,2,ml,,,,0.54,ak,ak022e2f1zqs,2022-11-02T21:19:07.400Z,"53 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-02T20:54:00.970Z,44.8123333,-110.7883333,6.78,0.56,md,8,223,0.05035,0.05,uu,uu60523082,2022-11-02T21:25:50.900Z,"Wyoming",earthquake,1.03,0.86,0.35,6,reviewed,uu,uu
 2022-11-02T20:52:07.980Z,38.1231,-118.0071,9.4,1,ml,11,149.14,0.041,0.1888,nn,nn00850485,2022-11-02T20:55:35.281Z,"30 km SSE of Mina, Nevada",earthquake,,0.6,0.33,5,automatic,nn,nn
 2022-11-02T20:32:45.760Z,38.8305016,-122.796669,1.52,0.33,md,13,49,0.009314,0.02,nc,nc73802506,2022-11-02T20:47:11.297Z,"6km W of Cobb, CA",earthquake,0.25,0.71,0.35,2,automatic,nc,nc
 2022-11-02T20:13:10.440Z,19.1725006103516,-155.503494262695,35.5499992370605,1.88,md,33,238,,0.100000001,hv,hv73205052,2022-11-02T20:16:26.310Z,"4 km SW of Pāhala, Hawaii",earthquake,0.66,1.13,1.91999996,4,automatic,hv,hv
@@ -32,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T16:44:57.930Z,41.5028333,-112.1756667,7.16,2.69,ml,38,64,0.1039,0.21,uu,uu60523002,2022-11-02T19:42:40.917Z,"7 km SW of Corinne, Utah",earthquake,0.34,0.69,0.166,16,reviewed,uu,uu
 2022-11-02T16:40:36.940Z,33.9803333,-116.9721667,14.34,1.18,ml,45,47,0.05921,0.15,ci,ci40128399,2022-11-02T18:56:14.589Z,"6km N of Beaumont, CA",earthquake,0.15,0.32,0.089,22,reviewed,ci,ci
 2022-11-02T16:27:56.240Z,19.1978340148926,-155.485992431641,32,1.84000003,md,35,144,,0.0900000036,hv,hv73204897,2022-11-02T16:31:04.890Z,"0 km SW of Pāhala, Hawaii",earthquake,0.73,1.19000006,0.00999999978,9,automatic,hv,hv
+2022-11-02T16:07:01.623Z,40.1571,-120.2237,2.5,0.8,ml,3,248.1,0.309,0.0473,nn,nn00850487,2022-11-02T21:30:18.182Z,"6 km WNW of Patton Village, California",earthquake,,58.5,0.1,2,reviewed,nn,nn
 2022-11-02T15:59:05.230Z,32.8048333,-115.5006667,4.81,1.6,ml,17,142,0.04538,0.17,ci,ci40128383,2022-11-02T16:16:21.562Z,"6km ENE of El Centro, CA",earthquake,0.42,0.8,0.246,21,reviewed,ci,ci
 2022-11-02T15:57:03.400Z,41.5053333,-112.1798333,4.81,0.98,md,16,65,0.1001,0.11,uu,uu60522992,2022-11-02T16:06:19.390Z,"7 km SW of Corinne, Utah",earthquake,0.28,1.7,0.118,8,reviewed,uu,uu
 2022-11-02T15:54:57.880Z,61.3111666666667,-152.253,-0.48,0.34,ml,8,121,,0.06,av,av91708306,2022-11-02T18:01:37.720Z,"65 km WNW of Beluga, Alaska",earthquake,0.28,3.92,0.251230341850728,9,reviewed,av,av
@@ -196,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-01T21:40:34.700Z,20.1733333333333,-156.048666666667,35.7,2.34,md,43,165,,0.12,hv,hv73203972,2022-11-02T03:20:54.040Z,"23 km WSW of Hāwī, Hawaii",earthquake,0.64,0.85,0.131326034930893,20,reviewed,hv,hv
 2022-11-01T21:36:52.210Z,36.5803337,-121.1118317,2.11,1.8,md,18,133,0.0582,0.27,nc,nc73802186,2022-11-02T00:32:10.978Z,"6km NNE of Pinnacles, CA",earthquake,0.58,1.44,0.1,12,automatic,nc,nc
 2022-11-01T21:35:40.170Z,17.9685,-67.078,10.93,1.98,md,5,234,0.03216,0.07,pr,pr71380478,2022-11-01T23:14:02.010Z,"3 km WSW of La Parguera, Puerto Rico",earthquake,0.71,0.71,0.0359803175355068,4,reviewed,pr,pr
-2022-11-01T21:25:26.410Z,19.3915,-155.2805,1.38,2.18,ml,21,48,,0.1,hv,hv73203957,2022-11-01T21:36:26.500Z,"7 km SW of Volcano, Hawaii",earthquake,0.21,0.16,0.156685955092005,8,reviewed,hv,hv
