@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T13:05:03.548Z,59.5478,-153.4523,111.7,1.7,ml,,,,0.26,ak,ak022e3xr9bm,2022-11-03T13:07:36.133Z,"45 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-03T12:49:30.476Z,7.7359,126.6784,10,4.6,mb,34,118,1.275,1.48,us,us7000im62,2022-11-03T13:37:55.040Z,"15 km ENE of Kinablangan, Philippines",earthquake,9.15,1.901,0.105,27,reviewed,us,us
 2022-11-03T12:38:55.659Z,59.4991,-152.7752,74.2,1.7,ml,,,,0.63,ak,ak022e3xd0d9,2022-11-03T12:40:57.968Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-03T12:21:31.540Z,19.2648334503174,-155.399337768555,33.6500015258789,2.21000004,md,45,137,,0.140000001,hv,hv73206037,2022-11-03T12:24:47.550Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.930000007,0.25999999,17,automatic,hv,hv
+2022-11-03T12:21:31.540Z,19.2648334503174,-155.399337768555,33.6500015258789,2.21000004,md,45,137,,0.140000001,hv,hv73206037,2022-11-03T12:24:47.550Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.930000007,0.25999999,17,automatic,hv,hv
 2022-11-03T12:17:01.900Z,33.6705,-116.6991667,17.72,0.99,ml,36,56,0.04245,0.16,ci,ci40128623,2022-11-03T13:38:47.790Z,"8km SSE of Idyllwild, CA",earthquake,0.2,0.36,0.123,14,reviewed,ci,ci
 2022-11-03T12:11:19.684Z,62.8104,-150.943,85.6,1.6,ml,,,,0.4,ak,ak022e3x759c,2022-11-03T12:13:18.917Z,"36 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-03T12:07:14.470Z,19.2518329620361,-155.401992797852,33,1.96000004,md,46,129,,0.140000001,hv,hv73206027,2022-11-03T12:10:25.240Z,"9 km NE of Pāhala, Hawaii",earthquake,0.59,0.75,1.10000002,16,automatic,hv,hv
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-03T08:13:56.760Z,44.7966667,-110.7925,6.52,0,md,8,213,0.04213,0.07,uu,uu60523152,2022-11-03T13:22:31.000Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.75,1.07,0.148,5,reviewed,uu,uu
 2022-11-03T08:11:12.910Z,18.0268333333333,-66.7703333333333,15.81,2.11,md,16,94,0.01399,0.13,pr,pr71380653,2022-11-03T09:46:29.680Z,"1 km N of Magas Arriba, Puerto Rico",earthquake,0.37,0.55,0.17008753852529,10,reviewed,pr,pr
 2022-11-03T08:08:54.060Z,19.494499206543,-155.677993774414,-3.4300000667572,2.54,ml,35,74,,0.349999994,hv,hv73205772,2022-11-03T08:41:58.040Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.46,0.280000001,3.72,14,automatic,hv,hv
-2022-11-03T08:01:30.258Z,58.23,-155.2069,0,0.8,ml,,,,0.36,ak,ak022e3uraht,2022-11-03T08:13:38.577Z,"86 km NNW of Karluk, Alaska",earthquake,,90.7,,,automatic,ak,ak
+2022-11-03T08:01:30.258Z,58.23,-155.2069,0,0.8,ml,,,,0.36,ak,ak022e3uraht,2022-11-03T08:13:38.577Z,"Alaska Peninsula",earthquake,,90.7,,,automatic,ak,ak
 2022-11-03T07:51:56.250Z,32.9168333,-116.2478333,3.12,1.74,ml,46,66,0.06,0.22,ci,ci40128599,2022-11-03T08:02:21.350Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.26,0.93,0.144,27,automatic,ci,ci
 2022-11-03T07:49:33.620Z,19.4650001525879,-155.600997924805,-0.589999973773956,1.71000004,md,12,90,,0.200000003,hv,hv73205732,2022-11-03T07:52:40.350Z,"Island of Hawaii, Hawaii",earthquake,0.59,0.49000001,1.70000005,6,automatic,hv,hv
 2022-11-03T07:44:54.658Z,18.5182,-103.1235,65.227,4.7,mb,66,181,2.116,0.95,us,us7000im4p,2022-11-03T13:28:46.608Z,"28 km S of Coalcomán de Vázquez Pallares, Mexico",earthquake,8.3,7.637,0.031,323,reviewed,us,us
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-02T14:49:14.840Z,38.838665,-122.8759995,2.32,1.21,md,18,102,0.005838,0.02,nc,nc73802426,2022-11-02T15:47:17.524Z,"12km WNW of The Geysers, CA",earthquake,0.29,0.48,0.07,4,automatic,nc,nc
 2022-11-02T14:49:00.050Z,38.8414993,-122.8776703,2.25,0.67,md,9,104,0.005577,0.02,nc,nc73802421,2022-11-02T15:45:10.511Z,"13km NW of The Geysers, CA",earthquake,0.41,0.38,0.25,2,automatic,nc,nc
 2022-11-02T14:42:49.800Z,39.504,-123.0128333,5.06,1.66,md,10,243,0.1447,0.16,nc,nc73802416,2022-11-02T18:30:12.452Z,"12km NNW of Lake Pillsbury, CA",earthquake,0.8,2.17,0.183,10,reviewed,nc,nc
-2022-11-02T14:31:40.250Z,19.200834274292,-155.715667724609,-0.170000001788139,1.82000005,md,36,126,,0.230000004,hv,hv73204822,2022-11-02T14:34:58.400Z,"15 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.52,0.569999993,,5,automatic,hv,hv
