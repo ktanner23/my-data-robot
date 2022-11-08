@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-08T17:14:37.710Z,35.6841667,-117.4391667,13.29,1.19,ml,5,203,0.1701,0.12,ci,ci40130223,2022-11-08T17:18:14.288Z,"10km SSW of Searles Valley, CA",earthquake,0.78,1.21,0.084,9,automatic,ci,ci
-2022-11-08T16:54:33.191Z,61.8519,-151.1273,73.7,1.8,ml,,,,0.28,ak,ak022ec9iuzb,2022-11-08T16:56:24.158Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-11-08T16:45:36.790Z,44.7326667,-111.0295,8.45,0.54,md,9,77,0.03142,0.07,uu,uu60524167,2022-11-08T16:58:12.960Z,"Idaho-Montana border region",earthquake,0.38,0.68,0.255,7,reviewed,uu,uu
+2022-11-08T16:54:33.191Z,61.8519,-151.1273,73.7,1.8,ml,,,,0.28,ak,ak022ec9iuzb,2022-11-08T16:56:24.158Z,"20 km SE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-11-08T16:45:36.790Z,44.7326667,-111.0295,8.45,0.54,md,9,77,0.03142,0.07,uu,uu60524167,2022-11-08T16:58:12.960Z,"9 km NE of West Yellowstone, Montana",earthquake,0.38,0.68,0.255,7,reviewed,uu,uu
 2022-11-08T16:45:28.140Z,33.8886667,-116.8585,14.5,1.74,ml,51,26,0.07487,0.17,ci,ci40130215,2022-11-08T16:58:56.284Z,"4km SSE of Banning, CA",earthquake,0.18,0.37,0.174,27,automatic,ci,ci
 2022-11-08T16:40:58.050Z,19.4481658935547,-155.612838745117,-0.200000002980232,2.06,ml,15,96,,0.230000004,hv,hv73213182,2022-11-08T16:46:29.690Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,0.620000005,0.27,4,automatic,hv,hv
 2022-11-08T16:40:54.930Z,19.4478340148926,-155.604339599609,-0.600000023841858,1.72,ml,9,91,,0.109999999,hv,hv73213187,2022-11-08T16:46:34.640Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.430000007,4.47,5,automatic,hv,hv
@@ -158,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T22:40:37.957Z,61.6354,-141.9831,10.7,1.2,ml,,,,0.92,ak,ak022eaph4gj,2022-11-07T22:42:07.945Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-07T22:34:55.220Z,35.5896667,-117.5851667,7.02,1.34,ml,17,93,0.07784,0.15,ci,ci40130063,2022-11-08T00:18:13.263Z,"9km ESE of Ridgecrest, CA",earthquake,0.3,0.6,0.152,16,reviewed,ci,ci
 2022-11-07T22:30:40.590Z,18.4441,-68.8245,177,4.05,md,16,335,0.4486,0.37,pr,pr2022311007,2022-11-07T23:42:16.198Z,"15 km E of La Romana, Dominican Republic",earthquake,5.47,1.65,0.11,11,reviewed,pr,pr
+2022-11-07T22:28:19.750Z,35.93716667,-97.89283333,6.21,1.43,ml,34,70,0.07918446131,0.16,ok,ok2022vwcl,2022-11-08T17:30:08.092Z,"5 km SSE of Dover, Oklahoma",earthquake,,0.5,0.32,4,reviewed,ok,ok
 2022-11-07T22:12:06.852Z,64.5039,-152.5195,0,1.8,ml,,,,0.42,ak,ak022eapb25q,2022-11-07T22:18:01.468Z,"69 km N of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-07T22:08:45.783Z,61.7006,-141.8234,0,1.6,ml,,,,0.28,ak,ak022eapaa5e,2022-11-07T22:10:09.303Z,"65 km ENE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-07T22:08:26.720Z,18.271,-68.0306666666667,107.1,3.43,md,16,160,0.2149,0.32,pr,pr71381213,2022-11-07T22:39:25.520Z,"52 km SE of Punta Cana, Dominican Republic",earthquake,2.11,1.54,0.0844617615008034,10,reviewed,pr,pr
@@ -200,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-07T17:53:05.320Z,38.8366661,-122.8281631,1.35,0.7,md,16,87,0.006033,0.01,nc,nc73804761,2022-11-07T19:21:11.009Z,"9km NW of The Geysers, CA",earthquake,0.24,0.45,0.33,2,automatic,nc,nc
 2022-11-07T17:40:33.850Z,33.7075,-116.7153333,17.48,1.11,ml,36,61,0.003784,0.1,ci,ci40130031,2022-11-07T18:17:10.993Z,"4km S of Idyllwild, CA",earthquake,0.19,0.27,0.164,27,reviewed,ci,ci
 2022-11-07T17:38:12.350Z,38.8258333,-122.7985,2.9,2.29,md,71,25,0.009363,0.04,nc,nc73804756,2022-11-07T20:34:11.444Z,"6km NW of The Geysers, CA",earthquake,0.09,0.15,0.144,44,reviewed,nc,nc
-2022-11-07T17:31:31.650Z,38.8248329,-122.795166,1.17,0.84,md,6,136,0.01173,0.01,nc,nc73804751,2022-11-07T19:20:15.005Z,"6km W of Cobb, CA",earthquake,0.55,1.83,,1,automatic,nc,nc
-2022-11-07T17:24:29.500Z,35.09533333,-95.54683333,7.1,1.32,ml,31,101,0.1241756325,0.29,ok,ok2022vvsk,2022-11-08T16:55:10.959Z,"11 km ESE of Crowder, Oklahoma",earthquake,,1.1,0.39,4,reviewed,ok,ok
