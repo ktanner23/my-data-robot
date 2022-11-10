@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-10T13:29:43.900Z,38.8063316,-122.7330017,2.85,2.62,md,41,52,,0.12,nc,nc73803290,2022-11-10T13:33:13.401Z,"2km SSW of Cobb, CA",earthquake,0.2,0.54,0.1,51,automatic,nc,nc
+2022-11-10T13:15:50.124Z,58.172,-155.2504,1.8,1.8,ml,,,,0.41,ak,ak022efikxj8,2022-11-10T13:17:41.781Z,"82 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-10T13:11:19.250Z,19.492000579834,-155.650161743164,0.360000014305115,1.73000002,md,21,61,,0.280000001,hv,hv73215532,2022-11-10T13:16:49.340Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.49,1.45000005,1.22000003,10,automatic,hv,hv
+2022-11-10T13:10:33.267Z,64.9381,-148.5997,11.1,1.4,ml,,,,0.31,ak,ak022efijtni,2022-11-10T13:12:50.026Z,"29 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-10T12:43:36.017Z,61.1338,-147.4295,26.6,1.8,ml,,,,0.36,ak,ak022efi5gw1,2022-11-10T12:45:11.486Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-10T12:37:45.122Z,62.5097,-151.3134,92.6,2.3,ml,,,,0.53,ak,ak022efi47ao,2022-11-10T12:40:16.272Z,"28 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-10T12:26:06.213Z,38.1875,-117.8399,2.8,2.3,ml,18,131.98,0.115,0.3365,nn,nn00850989,2022-11-10T12:30:03.868Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.94,9,automatic,nn,nn
@@ -21,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-10T10:02:31.530Z,35.037,-119.0126667,9.78,1.75,ml,23,74,0.1295,0.25,ci,ci40130679,2022-11-10T10:13:15.830Z,"13km NW of Grapevine, CA",earthquake,0.46,1.38,0.182,27,automatic,ci,ci
 2022-11-10T10:00:00.566Z,62.1377,-151.2704,88,1.5,ml,,,,0.2,ak,ak022efgpb5k,2022-11-10T10:02:10.581Z,"17 km NNE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-11-10T09:49:46.919Z,60.8418,-152.5134,11.6,2.2,ml,,,,0.49,ak,ak022efgeh7n,2022-11-10T09:51:22.228Z,"68 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-10T09:48:59.605Z,35.40327072,-97.87255096,3.844737768,2.31,ml,45,44.26319885,0.03765556216,1.033739331,ok,ok2022wapx,2022-11-10T10:07:38.145Z,"6 km ENE of Union City, Oklahoma",earthquake,1.791346178,1.49960769,,35,automatic,ok,ok
+2022-11-10T09:48:59.200Z,35.407,-97.89316667,5.83,2.07,ml,92,45,0.02519505587,0.28,ok,ok2022wapx,2022-11-10T13:30:46.011Z,"Oklahoma",earthquake,,0.5,0.23,51,reviewed,ok,ok
 2022-11-10T09:45:42.787Z,60.8532,-152.5657,17.4,3.3,ml,,,,0.28,ak,ak022efgdm12,2022-11-10T09:47:05.788Z,"71 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-10T09:36:01.330Z,34.8668333,-116.3373333,5.67,1.27,ml,13,82,0.03739,0.16,ci,ci40130671,2022-11-10T09:39:36.438Z,"23km NW of Ludlow, CA",earthquake,0.43,0.67,0.199,10,automatic,ci,ci
 2022-11-10T09:28:26.340Z,-25.5513,-176.9048,135.229,4.4,mb,18,140,3.805,0.45,us,us7000inqy,2022-11-10T09:50:19.040Z,"south of the Fiji Islands",earthquake,10.61,8.938,0.131,22,reviewed,us,us
@@ -184,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-09T13:48:48.770Z,40.1633,-119.1358,8,2.6,ml,11,186.48,0.456,0.1326,nn,nn00850892,2022-11-09T21:33:41.218Z,"41 km NNE of Nixon, Nevada",earthquake,,1.4,0.25,7,reviewed,nn,nn
 2022-11-09T13:47:10.372Z,40.1601,-119.1444,8.1,1.7,ml,7,201.96,0.449,0.1315,nn,nn00850917,2022-11-10T02:40:42.569Z,"40 km NNE of Nixon, Nevada",earthquake,,5.9,0.38,4,reviewed,nn,nn
 2022-11-09T13:46:20.871Z,40.1617,-119.1423,9.3,2.2,ml,5,291.27,0.451,0.1141,nn,nn00850914,2022-11-10T02:40:39.097Z,"40 km NNE of Nixon, Nevada",earthquake,,3,0.35,3,reviewed,nn,nn
-2022-11-09T13:28:26.610Z,52.3368333333333,-174.159,4.27,0.38,ml,5,107,,0.03,av,av91712726,2022-11-10T06:04:56.920Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.32,0.59,0.432692596037116,5,reviewed,av,av
-2022-11-09T13:27:06.701Z,36.686,-116.3051,7.7,-0.1,ml,7,251.07,0.044,0.0512,nn,nn00850913,2022-11-10T02:40:34.531Z,"47 km ESE of Beatty, Nevada",earthquake,,1.9,0.19,5,reviewed,nn,nn
