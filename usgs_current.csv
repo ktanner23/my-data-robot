@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-15T22:42:51.170Z,38.838501,-122.8371658,1.25,0.86,md,12,151,0.001314,0.01,nc,nc73807921,2022-11-15T22:44:26.477Z,"10km NW of The Geysers, CA",earthquake,0.3,0.54,,1,automatic,nc,nc
 2022-11-15T22:41:57.390Z,38.8381653,-122.8368301,1.11,0.64,md,16,82,0.001131,0.03,nc,nc73807911,2022-11-15T22:43:31.431Z,"10km NW of The Geysers, CA",earthquake,0.21,0.51,0.5,3,automatic,nc,nc
-2022-11-15T22:41:19.340Z,38.8383331,-122.8371658,1.24,1.21,md,21,82,0.001336,0.01,nc,nc73807906,2022-11-15T22:42:56.586Z,"10km NW of The Geysers, CA",earthquake,0.19,0.41,0.03,4,automatic,nc,nc
+2022-11-15T22:41:19.340Z,38.8383331,-122.8371658,1.24,1.21,md,21,82,0.001336,0.01,nc,nc73807906,2022-11-15T22:52:11.366Z,"10km NW of The Geysers, CA",earthquake,0.19,0.41,0.03,4,automatic,nc,nc
 2022-11-15T22:41:00.390Z,38.8376656,-122.8359985,1.15,0.86,md,13,107,0.001005,0.02,nc,nc73807901,2022-11-15T22:42:36.634Z,"10km NW of The Geysers, CA",earthquake,0.25,0.46,,2,automatic,nc,nc
 2022-11-15T22:32:22.700Z,19.3910007476807,-155.271667480469,7.36999988555908,1.78999996,md,22,50,,0.219999999,hv,hv73223257,2022-11-15T22:35:39.130Z,"6 km SW of Volcano, Hawaii",earthquake,0.54,0.460000008,0.790000021,10,automatic,hv,hv
 2022-11-15T22:10:29.510Z,19.2159996032715,-155.397994995117,32.4700012207031,2.03999996,md,27,152,,0.129999995,hv,hv73223227,2022-11-15T22:16:09.510Z,"Island of Hawaii, Hawaii",earthquake,0.62,1.02999997,0.310000002,12,automatic,hv,hv
@@ -18,7 +18,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-15T20:46:31.937Z,-53.6998,140.5488,10,4.9,mb,45,100,11.693,0.78,us,us7000ipy1,2022-11-15T21:03:34.040Z,"west of Macquarie Island",earthquake,7.51,1.831,0.087,42,reviewed,us,us
 2022-11-15T20:43:52.981Z,62.5855,-151.3333,83.1,1.8,ml,,,,0.6,ak,ak022enwlpia,2022-11-15T20:46:08.809Z,"30 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-15T20:36:14.500Z,33.4758333,-116.4636667,12.97,0.65,ml,19,98,0.05707,0.15,ci,ci40132871,2022-11-15T21:46:22.000Z,"21km ESE of Anza, CA",earthquake,0.33,0.66,0.064,7,reviewed,ci,ci
-2022-11-15T20:35:55.470Z,38.1189995,-122.1474991,3.23,2.28,md,8,189,0.004042,0.08,nc,nc73807881,2022-11-15T22:03:11.178Z,"8km E of Vallejo, CA",earthquake,1.07,0.92,0.05,4,automatic,nc,nc
+2022-11-15T20:35:55.470Z,38.1189995,-122.1474991,3.23,2.28,md,8,189,0.004042,0.08,nc,nc73807881,2022-11-15T22:48:13.346Z,"8km E of Vallejo, CA",earthquake,1.07,0.92,0.05,4,automatic,nc,nc
+2022-11-15T20:35:55.310Z,38.1135,-122.178,-0.07,1.45,md,17,91,0.02453,0.28,nc,nc73807886,2022-11-15T22:53:59.255Z,"5km E of Vallejo, CA",quarry blast,0.65,31.61,0.362,13,reviewed,nc,nc
 2022-11-15T20:30:22.260Z,32.7716667,-116.8943333,-0.34,1.31,ml,24,87,0.05417,0.27,ci,ci40132863,2022-11-15T21:36:02.481Z,"5km NE of Rancho San Diego, CA",quarry blast,0.63,31.61,0.088,5,reviewed,ci,ci
 2022-11-15T20:08:47.020Z,19.074,-64.9728333333333,32.23,2.99,md,4,315,0.7179,0.11,pr,pr71382593,2022-11-15T20:30:32.580Z,"81 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.21,10.27,0.00663968033454809,3,reviewed,pr,pr
 2022-11-15T20:04:00.470Z,36.0755,-117.8586667,1.81,0.26,ml,6,163,0.04211,0.05,ci,ci40132855,2022-11-15T22:18:05.742Z,"9km ENE of Coso Junction, CA",earthquake,0.4,0.3,0.161,3,reviewed,ci,ci
@@ -267,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-14T23:06:44.240Z,37.7926674,-121.9386673,8.39,1.92,md,21,63,0.07868,0.05,nc,nc73807541,2022-11-15T01:59:14.131Z,"4km ENE of San Ramon, CA",earthquake,0.29,0.47,0.08,16,automatic,nc,nc
 2022-11-14T23:06:27.617Z,32.27508545,-101.9349038,4.524129232,2,ml,17,62,0.04695779907,0.2,tx,tx2022wiyf,2022-11-15T21:17:48.854Z,"21 km NW of Stanton, Texas",earthquake,1.21958155,1.420412572,0,6,reviewed,tx,tx
 2022-11-14T22:58:34.970Z,38.8278351,-122.8008347,1.63,0.63,md,16,53,0.00847,0.02,nc,nc73807536,2022-11-14T23:13:09.862Z,"7km W of Cobb, CA",earthquake,0.23,0.4,0.07,3,automatic,nc,nc
-2022-11-14T22:54:55.250Z,44.8041667,-110.8188333,5.75,1.67,ml,17,149,0.02755,0.11,uu,uu60525012,2022-11-14T23:32:03.990Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.43,0.59,0.262,3,reviewed,uu,uu
