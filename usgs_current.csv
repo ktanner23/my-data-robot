@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-23T10:38:08.930Z,19.4263324737549,-155.383499145508,2.0699999332428,1.99000001,md,33,68,,0.200000003,hv,hv73232807,2022-11-23T10:41:18.960Z,"15 km W of Volcano, Hawaii",earthquake,0.36,0.920000017,0.560000002,22,automatic,hv,hv
-2022-11-23T10:33:49.080Z,38.8436661,-122.8286667,1.52,1.19,md,18,87,0.007353,0.03,nc,nc73810611,2022-11-23T10:36:28.722Z,"10km WNW of Cobb, CA",earthquake,0.22,0.49,,1,automatic,nc,nc
+2022-11-23T10:38:08.930Z,19.4263324737549,-155.383499145508,2.0699999332428,2.01,ml,33,68,,0.200000003,hv,hv73232807,2022-11-23T10:43:41.220Z,"15 km W of Volcano, Hawaii",earthquake,0.36,0.920000017,3.77,4,automatic,hv,hv
+2022-11-23T10:33:49.080Z,38.8436661,-122.8286667,1.52,1.19,md,18,87,0.007353,0.03,nc,nc73810611,2022-11-23T10:46:10.142Z,"10km WNW of Cobb, CA",earthquake,0.22,0.49,,1,automatic,nc,nc
 2022-11-23T10:32:05.530Z,34.4875,-118.0796667,9.56,0.7,ml,9,97,0.03173,0.07,ci,ci40379832,2022-11-23T10:35:36.378Z,"4km ESE of Vincent, CA",earthquake,0.37,0.61,0.289,12,automatic,ci,ci
 2022-11-23T10:21:37.460Z,19.193000793457,-155.449340820312,34.3499984741211,1.84000003,md,16,271,,0.100000001,hv,hv73232772,2022-11-23T10:24:51.700Z,"3 km ESE of Pāhala, Hawaii",earthquake,1.2,1.48000002,1.84000003,4,automatic,hv,hv
 2022-11-23T10:02:05.128Z,-22.6365,71.2417,10,4.9,mb,43,67,7.883,0.61,us,us7000irsr,2022-11-23T10:21:16.040Z,"Mid-Indian Ridge",earthquake,9.58,1.864,0.096,34,reviewed,us,us
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T17:04:02.960Z,19.138,-155.432166666667,30.07,1.61,md,14,234,,0.11,hv,hv73231867,2022-11-22T22:49:39.310Z,"8 km SE of Pāhala, Hawaii",earthquake,0.8,0.99,0.105495072923002,11,reviewed,hv,hv
 2022-11-22T17:01:40.010Z,19.2495,-155.408833333333,30.91,1.73,md,31,71,,0.15,hv,hv73231862,2022-11-22T23:03:43.980Z,"8 km NE of Pāhala, Hawaii",earthquake,0.46,0.6,0.221194330250942,17,reviewed,hv,hv
 2022-11-22T16:55:03.901Z,38.4815,-119.4882,9.5,1.3,ml,12,119.65,0.046,0.1184,nn,nn00851822,2022-11-22T17:19:34.894Z,"3 km SSW of Walker, California",earthquake,,1.3,0,1,reviewed,nn,nn
-2022-11-22T16:39:05.692Z,30.7832,-116.3899,10,6.2,mww,150,166,0.799,0.7,us,us7000irjd,2022-11-23T08:29:37.444Z,"29 km SW of Las Brisas, Mexico",earthquake,4.76,1.846,0.029,118,reviewed,us,us
+2022-11-22T16:39:05.692Z,30.7832,-116.3899,10,6.2,mww,150,166,0.799,0.7,us,us7000irjd,2022-11-23T10:43:45.240Z,"29 km SW of Las Brisas, Mexico",earthquake,4.76,1.846,0.029,118,reviewed,us,us
 2022-11-22T16:35:29.080Z,38.7733333,-122.7128333,1.77,0.2,md,10,134,0.008406,0.03,nc,nc73810361,2022-11-23T08:56:11.434Z,"2km W of Anderson Springs, CA",earthquake,0.67,0.32,0.031,2,reviewed,nc,nc
 2022-11-22T16:30:53.860Z,17.9708333333333,-66.9598333333333,8.12,2.25,md,7,182,0.04874,0.19,pr,pr71383503,2022-11-22T16:45:35.700Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.75,1.53,0.0623878511291323,5,reviewed,pr,pr
 2022-11-22T16:24:43.287Z,-5.655,130.8721,70.267,5.1,mww,79,90,2.351,0.62,us,us7000irjc,2022-11-22T17:03:48.040Z,"208 km W of Tual, Indonesia",earthquake,8.11,6.772,0.093,11,reviewed,us,us
@@ -216,6 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T11:03:45.993Z,61.839,-151.369,110.1,1.2,ml,,,,1.11,ak,ak022ezbrnc7,2022-11-22T11:05:59.443Z,"16 km S of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-22T10:58:19.347Z,59.1566,-150.7959,22.3,2.2,ml,,,,0.51,ak,ak022ezbhy26,2022-11-22T11:00:58.562Z,"54 km SSE of Halibut Cove, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-22T10:51:25.430Z,33.69,-116.7233333,15.61,0.85,ml,34,61,0.02245,0.16,ci,ci40379320,2022-11-22T13:55:41.535Z,"6km S of Idyllwild, CA",earthquake,0.24,0.42,0.176,26,reviewed,ci,ci
-2022-11-22T10:47:27.700Z,34.0078333,-117.2173333,6.71,0.93,ml,45,47,0.0914,0.15,ci,ci40379312,2022-11-22T19:56:06.968Z,"6km SE of Loma Linda, CA",earthquake,0.15,0.52,0.169,21,reviewed,ci,ci
-2022-11-22T10:44:23.651Z,-9.8876,159.6272,10,4.7,mb,35,76,0.547,0.43,us,us7000irht,2022-11-22T11:04:07.040Z,"23 km SSW of Malango, Solomon Islands",earthquake,5.96,1.735,0.1,30,reviewed,us,us
-2022-11-22T10:43:21.850Z,38.8209991,-122.7608337,1.82,0.45,md,11,125,0.01182,0.04,nc,nc73810286,2022-11-22T11:17:17.860Z,"3km W of Cobb, CA",earthquake,0.37,0.72,0.4,2,automatic,nc,nc
