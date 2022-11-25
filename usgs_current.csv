@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T05:28:30.560Z,19.1679992675781,-155.483169555664,35.2900009155273,2.68000007,md,42,153,,0.109999999,hv,hv73235137,2022-11-25T05:31:42.770Z,"3 km S of Pāhala, Hawaii",earthquake,0.59,0.870000005,0.419999987,24,automatic,hv,hv
+2022-11-25T05:26:59.451Z,38.1661,-117.8559,0.2,1.3,ml,15,139.76,0.086,0.2681,nn,nn00852019,2022-11-25T05:29:48.757Z,"33 km SE of Mina, Nevada",earthquake,,6.6,0.24,7,automatic,nn,nn
 2022-11-25T05:17:04.506Z,63.1008,-151.1105,40.1,1.6,ml,,,,1.18,ak,ak022f46w00i,2022-11-25T05:18:33.905Z,"57 km SSE of Denali National Park, Alaska",earthquake,,6,,,automatic,ak,ak
 2022-11-25T05:07:32.660Z,38.8226662,-122.8523331,2.6,0.86,md,14,62,0.006026,0.02,nc,nc73811291,2022-11-25T05:26:13.862Z,"10km WNW of The Geysers, CA",earthquake,0.28,0.71,0.01,2,automatic,nc,nc
 2022-11-25T05:01:14.068Z,61.5124,-149.8885,34.2,1.8,ml,,,,0.81,ak,ak022f46slam,2022-11-25T05:03:14.122Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -7,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T04:34:57.930Z,33.5046667,-116.4915,-0.13,0.9,ml,20,119,0.06217,0.29,ci,ci40380640,2022-11-25T04:38:35.983Z,"18km ESE of Anza, CA",earthquake,0.63,31.61,0.22,20,automatic,ci,ci
 2022-11-25T04:27:57.230Z,38.1661682,-122.2900009,9.21,1.32,md,10,73,0.09338,0.09,nc,nc73811276,2022-11-25T04:44:14.479Z,"3km WSW of American Canyon, CA",earthquake,0.49,1.3,0.15,7,automatic,nc,nc
 2022-11-25T04:27:50.536Z,47.6905,-120.2857,10.179,1.6,ml,12,90,0.507,0.45,us,us7000is9l,2022-11-25T05:17:03.707Z,"6 km WNW of Entiat, Washington",earthquake,2.49,6.399,0.074,24,reviewed,us,us
+2022-11-25T04:27:28.130Z,18.164,-67.2928333333333,18.12,2.95,md,21,186,0.1504,0.15,pr,pr71383938,2022-11-25T05:32:27.910Z,"14 km NW of Puerto Real, Puerto Rico",earthquake,0.49,0.53,0.0381094855054029,5,reviewed,pr,pr
 2022-11-25T04:26:32.290Z,19.3633,-64.3978,24,3.83,md,23,316,1.155,0.2,pr,pr2022329000,2022-11-25T05:19:22.817Z,"121 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.44,17.93,0.05,4,reviewed,pr,pr
 2022-11-25T04:08:17.920Z,38.7643318,-122.7265015,2.93,0.88,md,11,75,0.003021,0.04,nc,nc73811271,2022-11-25T04:27:13.378Z,"3km ESE of The Geysers, CA",earthquake,0.43,0.84,,1,automatic,nc,nc
 2022-11-25T03:42:14.240Z,19.0196666666667,-64.8038333333333,17.9,3.43,md,10,292,0.6793,0.11,pr,pr71383923,2022-11-25T04:06:24.470Z,"76 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.64,5.24,0.0271160041471199,4,reviewed,pr,pr
@@ -194,7 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T05:48:09.460Z,51.8566666666667,-178.000666666667,5.04,1.49,ml,4,136,,0.12,av,av91721426,2022-11-24T06:17:42.020Z,"94 km W of Adak, Alaska",earthquake,0.5,0.84,0.103201768634411,4,reviewed,av,av
 2022-11-24T05:45:49.103Z,38.3158,-115.8885,3.8,2.1,ml,14,129.72,1.127,0.1965,nn,nn00851982,2022-11-24T05:49:04.729Z,"75 km N of Rachel, Nevada",earthquake,,2.5,0.66,9,automatic,nn,nn
 2022-11-24T05:40:21.170Z,17.9551666666667,-66.9903333333333,12.18,2.09,md,4,207,0.05322,0.08,pr,pr71383728,2022-11-24T05:49:07.650Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,1.18,0.94,0.0483380087247243,3,reviewed,pr,pr
-2022-11-24T05:32:55.860Z,35.6195,-118.4075,2.95,0.81,ml,11,92,0.06929,0.11,ci,ci40380216,2022-11-24T16:42:36.034Z,"6km E of Lake Isabella, CA",earthquake,0.36,0.43,0.118,5,reviewed,ci,ci
-2022-11-24T05:32:34.260Z,38.8126678,-122.7740021,0.81,0.83,md,12,126,0.005254,0.01,nc,nc73810881,2022-11-24T08:04:15.991Z,"4km NNW of The Geysers, CA",earthquake,0.35,0.47,0.45,2,automatic,nc,nc
-2022-11-24T05:32:26.870Z,36.0203333,-117.859,1.72,0.92,ml,10,92,0.0555,0.12,ci,ci40380208,2022-11-24T05:35:55.664Z,"8km ESE of Coso Junction, CA",earthquake,0.36,0.44,0.161,10,automatic,ci,ci
-2022-11-24T05:29:22.930Z,34.0155,-117.176,4.23,1.39,ml,43,45,0.05644,0.17,ci,ci40380200,2022-11-24T05:40:26.010Z,"4km S of Redlands, CA",earthquake,0.19,0.61,0.21,25,automatic,ci,ci
