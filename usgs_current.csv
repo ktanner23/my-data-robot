@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T18:44:06.635Z,49.4011,155.6055,67.772,5,mb,235,95,3.938,0.56,us,us7000isl7,2022-11-26T19:26:39.040Z,"146 km SSW of Severo-Kuril’sk, Russia",earthquake,9.22,5.678,0.029,387,reviewed,us,us
 2022-11-26T18:40:24.340Z,37.3946648,-119.9954987,18.18,2.42,md,10,73,0.202,0.24,nc,nc73811856,2022-11-26T18:56:13.454Z,"10km SSW of Mariposa, CA",earthquake,0.93,1.28,0.27,7,automatic,nc,nc
 2022-11-26T18:23:57.690Z,19.1983337402344,-155.389007568359,31.0200004577637,2.25,md,41,161,,0.119999997,hv,hv73237017,2022-11-26T18:29:28.980Z,"9 km E of Pāhala, Hawaii",earthquake,0.62,0.779999971,1,21,automatic,hv,hv
-2022-11-26T18:05:16.090Z,37.6090012,-118.9123306,0.77,0.9,md,11,196,0.00389,0.02,nc,nc73811841,2022-11-26T18:56:13.303Z,"7km ESE of Mammoth Lakes, CA",earthquake,0.48,0.31,0.18,11,automatic,nc,nc
+2022-11-26T18:05:16.020Z,37.607,-118.915,1.11,0.71,md,15,169,0.005106,0.05,nc,nc73811841,2022-11-26T20:06:00.388Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.38,0.52,0.212,13,reviewed,nc,nc
 2022-11-26T18:04:35.160Z,19.1721668243408,-155.501327514648,34.6300010681152,2.29,ml,46,106,,0.140000001,hv,hv73237002,2022-11-26T18:16:27.040Z,"4 km SW of Pāhala, Hawaii",earthquake,0.64,0.930000007,3.98,9,automatic,hv,hv
 2022-11-26T18:02:52.970Z,33.2135,-116.7478333,8.57,0.61,ml,17,62,0.02422,0.34,ci,ci40381280,2022-11-26T18:06:28.643Z,"3km SSE of Lake Henshaw, CA",earthquake,0.74,1.52,0.16,10,automatic,ci,ci
 2022-11-26T17:54:11.150Z,38.7996674,-122.7511673,2.63,0.86,md,8,170,0.006745,0.02,nc,nc73811831,2022-11-26T18:22:14.108Z,"2km N of The Geysers, CA",earthquake,0.51,0.92,,1,automatic,nc,nc
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T10:26:29.010Z,19.1690006256104,-155.492172241211,36.7799987792969,2.04999995,md,39,107,,0.129999995,hv,hv73236542,2022-11-26T10:29:59.230Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.850000024,1.08000004,11,automatic,hv,hv
 2022-11-26T10:23:57.200Z,38.7821655,-122.7141647,1.47,0.86,md,9,103,0.01767,0.02,nc,nc73811691,2022-11-26T11:56:12.809Z,"2km WNW of Anderson Springs, CA",earthquake,0.83,1.78,0.01,2,automatic,nc,nc
 2022-11-26T10:02:45.531Z,67.6565,-149.3236,0,2.4,ml,,,,0.89,ak,ak022f5xbdyy,2022-11-26T10:08:23.149Z,"43 km NE of Wiseman, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-11-26T10:01:39.720Z,33.096,-117.9731667,1.96,2.51,ml,20,213,0.3849,0.16,ci,ci40381176,2022-11-26T19:42:43.241Z,"43km SE of Avalon, CA",earthquake,0.76,3.2,0.114,26,automatic,ci,ci
+2022-11-26T10:01:39.720Z,33.096,-117.9731667,1.96,2.51,ml,20,213,0.3849,0.16,ci,ci40381176,2022-11-26T20:05:38.277Z,"43km SE of Avalon, CA",earthquake,0.76,3.2,0.114,26,automatic,ci,ci
 2022-11-26T09:59:40.427Z,-3.4243,130.886,10,4.1,mb,16,53,1.45,0.61,us,us7000isja,2022-11-26T10:29:26.040Z,"Seram, Indonesia",earthquake,7.55,1.907,0.158,16,reviewed,us,us
 2022-11-26T09:44:31.180Z,33.1868333,-115.6088333,1.41,1.5,ml,14,96,0.01094,0.13,ci,ci40381160,2022-11-26T09:48:02.464Z,"10km SW of Niland, CA",earthquake,0.3,0.3,0.195,27,automatic,ci,ci
 2022-11-26T09:44:13.190Z,33.1848333,-115.6056667,1.14,1.23,ml,10,98,0.01113,0.14,ci,ci40381152,2022-11-26T09:47:51.857Z,"10km SW of Niland, CA",earthquake,0.34,31.61,0.213,19,automatic,ci,ci
@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T20:43:43.170Z,33.5853333,-116.8071667,7.33,0.77,ml,25,41,0.0369,0.18,ci,ci40380880,2022-11-25T20:47:17.262Z,"13km WNW of Anza, CA",earthquake,0.28,0.56,0.121,21,automatic,ci,ci
 2022-11-25T20:28:11.628Z,64.7661,-149.4083,35,0.7,ml,,,,1.03,ak,ak022f4fvvii,2022-11-25T20:33:36.920Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-11-25T20:27:06.660Z,33.2668333,-116.423,4.3,1.44,ml,41,43,0.005079,0.23,ci,ci40380872,2022-11-25T20:37:44.010Z,"5km WNW of Borrego Springs, CA",earthquake,0.3,0.51,0.146,27,automatic,ci,ci
-2022-11-25T20:03:53.192Z,38.3355,-118.1749,10,1.3,ml,8,164.5,0.117,0.0918,nn,nn00852046,2022-11-25T20:07:03.108Z,"8 km SW of Mina, Nevada",earthquake,,0.9,0.29,3,automatic,nn,nn
-2022-11-25T20:00:34.312Z,38.2749,-119.1275,0.8,1.3,ml,8,182.14,0.256,0.1472,nn,nn00852043,2022-11-25T20:04:14.055Z,"California-Nevada border region",earthquake,,51,0.24,4,automatic,nn,nn
