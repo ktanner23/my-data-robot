@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-27T22:36:04.560Z,35.6716667,-117.5351667,3.41,1.83,ml,25,75,0.1037,0.16,ci,ci40381696,2022-11-27T22:39:44.728Z,"14km ENE of Ridgecrest, CA",earthquake,0.33,1.18,0.127,26,automatic,ci,ci
+2022-11-27T22:30:33.504Z,61.332,-151.1204,58.1,0.7,ml,,,,0.59,ak,ak022f7s5x51,2022-11-27T22:33:15.261Z,"21 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-11-27T22:30:30.260Z,38.8330002,-122.8154984,1.69,1.16,md,21,55,0.01049,0.02,nc,nc73812126,2022-11-27T22:33:12.438Z,"8km NW of The Geysers, CA",earthquake,0.19,0.39,0.02,2,automatic,nc,nc
 2022-11-27T22:16:44.940Z,33.1408333,-116.2388333,28.31,1.07,ml,18,196,0.1935,0.29,ci,ci40381688,2022-11-27T22:20:19.504Z,"10km W of Ocotillo Wells, CA",earthquake,2.92,1.36,0.162,9,automatic,ci,ci
 2022-11-27T22:11:10.983Z,57.9862,-154.6216,11,2.2,ml,,,,0.29,ak,ak022f7s1shm,2022-11-27T22:14:14.341Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-27T22:10:20.770Z,19.4270000457764,-155.270492553711,0.209999993443489,1.77999997,md,8,118,,0.0900000036,hv,hv73239452,2022-11-27T22:13:16.920Z,"4 km WSW of Volcano, Hawaii",earthquake,0.26,0.219999999,1.33000004,7,automatic,hv,hv
@@ -47,8 +50,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T16:33:06.328Z,57.1969,-156.4818,18.8,2.1,ml,,,,0.61,ak,ak022f7olw94,2022-11-27T16:36:03.899Z,"65 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-27T16:22:01.238Z,35.27315521,-98.03662109,3.179877996,1.83,ml,12,81.69197083,0.06376358867,0.9810622207,ok,ok2022xgek,2022-11-27T16:29:43.848Z,"9 km WSW of Minco, Oklahoma",earthquake,3.420609107,2.400421085,,8,automatic,ok,ok
 2022-11-27T16:13:20.740Z,19.5048332214355,-155.296340942383,8.09000015258789,2.37,ml,47,74,,0.209999993,hv,hv73238797,2022-11-27T16:18:51.980Z,"9 km NW of Volcano, Hawaii",earthquake,0.39,0.709999979,0.3,5,automatic,hv,hv
-2022-11-27T16:10:04.464Z,38.1467,-117.8848,4.5,0.7,ml,9,173.14,0.059,0.1616,nn,nn00852122,2022-11-27T16:13:01.889Z,"33 km SE of Mina, Nevada",earthquake,,1.4,0.42,3,automatic,nn,nn
-2022-11-27T16:08:28.181Z,38.1731,-117.8868,5.5,1,ml,14,174.93,0.067,0.1915,nn,nn00852119,2022-11-27T16:11:23.034Z,"30 km SE of Mina, Nevada",earthquake,,0.5,0.19,7,automatic,nn,nn
+2022-11-27T16:10:04.464Z,38.1467,-117.8848,4.5,0.7,ml,9,173.14,0.059,0.1616,nn,nn00852122,2022-11-27T16:13:01.889Z,"Nevada",earthquake,,1.4,0.42,3,automatic,nn,nn
+2022-11-27T16:08:28.181Z,38.1731,-117.8868,5.5,1,ml,14,174.93,0.067,0.1915,nn,nn00852119,2022-11-27T16:11:23.034Z,"Nevada",earthquake,,0.5,0.19,7,automatic,nn,nn
 2022-11-27T15:47:04.084Z,61.6748,-151.0306,63.4,1.4,ml,,,,0.41,ak,ak022f7o3gi0,2022-11-27T15:50:58.577Z,"31 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-27T15:29:38.179Z,-34.7078,-71.8261,45.456,4.1,mb,31,128,0.313,0.44,us,us7000isrm,2022-11-27T16:22:02.040Z,"42 km W of Santa Cruz, Chile",earthquake,5.16,4.119,0.151,12,reviewed,us,us
 2022-11-27T15:29:25.796Z,34.50990677,-97.23053741,4.266564369,2.06,ml,11,174.7126732,0.1169862226,0.4479171127,ok,ok2022xgcr,2022-11-27T15:31:46.782Z,"10 km W of Davis, Oklahoma",earthquake,5.964079797,3.843026873,,9,automatic,ok,ok
@@ -179,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T23:07:41.190Z,60.1832,-141.9403,13.9,1.4,ml,,,,0.4,ak,ak022f65332f,2022-11-26T23:09:20.093Z,"142 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-26T22:55:36.440Z,38.8366661,-122.8111649,2.11,0.85,md,12,57,0.01328,0.01,nc,nc73811891,2022-11-26T23:39:13.999Z,"8km WNW of Cobb, CA",earthquake,0.28,0.93,,1,automatic,nc,nc
 2022-11-26T22:45:29.060Z,19.1901664733887,-155.488159179688,29.5599994659424,1.75999999,md,24,226,,0.129999995,hv,hv73237292,2022-11-26T22:48:34.160Z,"Island of Hawaii, Hawaii",earthquake,0.97,1.23000002,0.870000005,3,automatic,hv,hv
-2022-11-26T22:39:20.867Z,-5.8364,130.5075,106.397,5.1,mb,79,72,2.272,0.81,us,us7000ism4,2022-11-26T22:53:52.040Z,"249 km W of Tual, Indonesia",earthquake,7.98,7.364,0.073,60,reviewed,us,us
-2022-11-26T22:37:49.823Z,61.4532,-148.4415,4.8,1,ml,,,,1.16,ak,ak022f64o3m4,2022-11-26T22:41:55.005Z,"25 km E of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
