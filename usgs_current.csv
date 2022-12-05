@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T07:06:43.890Z,38.8388329,-122.8218307,2.15,2.19,md,34,52,,0.04,nc,nc73814701,2022-12-05T07:13:13.063Z,"9km WNW of Cobb, CA",earthquake,0.16,0.29,0.13,35,automatic,nc,nc
 2022-12-05T07:00:28.672Z,62.0678,-145.2122,22.1,1.2,ml,,,,0.35,ak,ak022fkrcqur,2022-12-05T07:02:10.715Z,"8 km NE of Silver Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-05T06:55:16.630Z,33.1355,-116.6346667,4.62,0.7,ml,23,97,0.06266,0.19,ci,ci40142175,2022-12-05T06:58:55.417Z,"7km NNW of Julian, CA",earthquake,0.31,0.52,0.181,14,automatic,ci,ci
 2022-12-05T06:48:47.470Z,33.9753333,-117.1413333,16.81,0.88,ml,19,74,0.1253,0.19,ci,ci40142167,2022-12-05T06:52:19.867Z,"8km W of Calimesa, CA",earthquake,0.38,0.93,0.203,15,automatic,ci,ci
 2022-12-05T06:42:23.653Z,60.6036,-146.709,2.6,2.8,ml,,,,1.46,ak,ak022fkr0b05,2022-12-05T06:45:02.833Z,"29 km S of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-05T06:42:06.530Z,56.4107,-148.677,6,3.9,ml,,,,0.9,ak,ak022fkr0968,2022-12-05T06:58:32.794Z,"256 km ESE of Chiniak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2022-12-05T06:42:06.530Z,56.4107,-148.677,6,3.9,ml,,,,0.9,ak,ak022fkr0968,2022-12-05T07:01:31.611Z,"256 km ESE of Chiniak, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2022-12-05T06:32:15.250Z,35.921,-117.7165,5.79,1.24,ml,15,171,0.08687,0.1,ci,ci40142159,2022-12-05T06:35:45.718Z,"17km E of Little Lake, CA",earthquake,0.32,0.64,0.121,13,automatic,ci,ci
 2022-12-05T06:20:37.449Z,63.2007,-151.367,3.6,1.8,ml,,,,0.57,ak,ak022fkqvm8w,2022-12-05T06:22:12.572Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-05T06:17:31.140Z,19.1849994659424,-155.483169555664,34.1800003051758,1.84000003,md,35,76,,0.100000001,hv,hv73259742,2022-12-05T06:20:40.260Z,"Island of Hawaii, Hawaii",earthquake,0.59,1.12,1.84000003,4,automatic,hv,hv
@@ -93,7 +94,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T19:53:53.764Z,62.0656,-145.195,7.6,2,ml,,,,1.07,ak,ak022fjba0hf,2022-12-04T19:55:08.793Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T19:48:43.850Z,33.3803333,-117.9883333,18.45,2.03,ml,30,157,0.2693,0.29,ci,ci40142031,2022-12-04T19:52:20.782Z,"26km SW of Laguna Beach, CA",earthquake,0.69,1.52,0.158,28,automatic,ci,ci
 2022-12-04T19:46:14.782Z,36.4422,-116.2475,5.4,1.9,ml,31,147.53,0.03,0.163,nn,nn00852574,2022-12-04T22:14:41.832Z,"35 km NW of Pahrump, Nevada",earthquake,,1.1,0.97,18,reviewed,nn,nn
-2022-12-04T19:35:20.640Z,62.681,-148.4442,19.7,1.6,ml,,,,1.17,ak,ak022fjb6343,2022-12-04T19:37:02.090Z,"83 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T19:35:15.432Z,62.0348,-145.2082,17.1,2.1,ml,,,,0.31,ak,ak022fjb62nc,2022-12-04T19:36:30.558Z,"7 km ENE of Silver Springs, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-12-04T19:33:44.940Z,35.9741669,-120.5226669,3.67,0.93,md,10,98,0.02348,0.02,nc,nc73814516,2022-12-04T20:37:12.224Z,"12km NW of Parkfield, CA",earthquake,0.38,1.24,0.14,3,automatic,nc,nc
 2022-12-04T19:31:38.010Z,19.3106670379639,-155.200500488281,4.17999982833862,1.74,ml,13,236,,0.189999998,hv,hv73258897,2022-12-04T19:37:09.690Z,"15 km SSE of Volcano, Hawaii",earthquake,1.88,3.69000006,0.23,4,automatic,hv,hv
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T07:27:58.972Z,59.7821,-152.5171,82.7,1.6,ml,,,,0.41,ak,ak022fj3z915,2022-12-04T07:30:24.047Z,"38 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-04T07:26:05.890Z,19.4563333333333,-155.602166666667,-1.44,1.72,md,8,92,,0.12,hv,hv73257522,2022-12-05T03:48:24.850Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.38,0.158189433953167,6,reviewed,hv,hv
 2022-12-04T07:23:12.270Z,33.711,-116.8255,24.24,0.55,ml,15,117,0.0829,0.19,ci,ci40141735,2022-12-04T07:26:50.710Z,"8km ESE of Valle Vista, CA",earthquake,0.97,0.92,0.201,7,automatic,ci,ci
-2022-12-04T07:12:45.059Z,38.3656,14.9687,10.276,4.4,mwr,61,170,1.754,0.54,us,us6000j6ti,2022-12-04T16:05:25.489Z,"11 km S of Lipari, Italy",earthquake,6.92,7.283,0.073,18,reviewed,us,us
-2022-12-04T07:04:46.590Z,19.1111660003662,-155.407165527344,30.9200000762939,1.92999995,md,40,187,,0.159999996,hv,hv73257482,2022-12-04T07:08:04.660Z,"Island of Hawaii, Hawaii",earthquake,0.67,1.03999996,0.400000006,11,automatic,hv,hv
