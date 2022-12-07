@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-07T08:28:59.100Z,38.7921677,-122.7263336,2.9,1,md,9,97,0.02742,0.01,nc,nc73815641,2022-12-07T08:30:35.043Z,"3km ENE of The Geysers, CA",earthquake,0.35,1.69,0.24,8,automatic,nc,nc
+2022-12-07T08:27:53.060Z,38.3828316,-122.2044983,8.91,1.55,md,8,78,0.0681,0.06,nc,nc73815636,2022-12-07T08:29:29.832Z,"12km NE of Napa, CA",earthquake,0.34,1.17,0.18,4,automatic,nc,nc
 2022-12-07T08:19:22.417Z,64.7134,-147.4948,13.3,0.5,ml,,,,0.37,ak,ak022fo34xkh,2022-12-07T08:20:55.854Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-07T08:06:44.590Z,33.6616667,-116.712,14.85,0.56,ml,11,100,0.0523,0.11,ci,ci40142919,2022-12-07T08:10:20.513Z,"9km S of Idyllwild, CA",earthquake,0.4,0.57,0.2,9,automatic,ci,ci
 2022-12-07T08:05:02.560Z,19.4529991149902,-155.597503662109,-1.70000004768372,1.80999994,md,9,80,,0.200000003,hv,hv73262822,2022-12-07T08:08:08.670Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.25999999,1.67999995,6,automatic,hv,hv
@@ -10,9 +12,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T07:28:05.173Z,38.1392,-118.0204,2.9,1.1,ml,14,142.4,0.048,0.1773,nn,nn00852806,2022-12-07T07:30:46.720Z,"28 km SSE of Mina, Nevada",earthquake,,0.9,0.23,8,automatic,nn,nn
 2022-12-07T07:24:24.701Z,57.835,-156.1738,11.6,1.6,ml,,,,0.24,ak,ak022fo2kkpy,2022-12-07T07:26:08.084Z,"81 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-07T07:16:10.860Z,38.8260002,-122.854332,2.68,0.78,md,15,93,0.002514,0.01,nc,nc73815621,2022-12-07T07:17:44.942Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.55,0.16,15,automatic,nc,nc
-2022-12-07T07:15:31.120Z,38.8258324,-122.8544998,2.73,1.28,md,28,81,0.002522,0.02,nc,nc73815616,2022-12-07T07:47:15.030Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.43,0.1,26,automatic,nc,nc
+2022-12-07T07:15:31.120Z,38.8258324,-122.8544998,2.73,1.28,md,28,81,0.002522,0.02,nc,nc73815616,2022-12-07T08:33:11.373Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.43,0.1,26,automatic,nc,nc
 2022-12-07T07:14:34.123Z,62.7767,-149.0386,10.8,2.3,ml,,,,0.64,ak,ak022fo2igac,2022-12-07T07:16:25.627Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-07T07:10:30.930Z,36.154335,-119.6478348,20.32,1.91,md,9,117,0.2716,0.16,nc,nc73815611,2022-12-07T08:07:11.159Z,"10km NW of Corcoran, CA",earthquake,0.83,1.29,0.27,4,automatic,nc,nc
+2022-12-07T07:10:30.930Z,36.154335,-119.6478348,20.32,1.91,md,9,117,0.2716,0.16,nc,nc73815611,2022-12-07T08:32:13.368Z,"10km NW of Corcoran, CA",earthquake,0.83,1.29,0.27,4,automatic,nc,nc
 2022-12-07T07:05:32.120Z,38.8258324,-122.8521652,2.41,1.61,md,32,60,,0.02,nc,nc73815606,2022-12-07T08:06:12.152Z,"10km WNW of The Geysers, CA",earthquake,0.19,0.36,0.21,31,automatic,nc,nc
 2022-12-07T06:59:09.185Z,38.9739,-118.2364,0,1.2,ml,13,100.5,0.129,0.155,nn,nn00852802,2022-12-07T07:02:26.744Z,"California-Nevada border region",earthquake,,13.5,0.19,8,automatic,nn,nn
 2022-12-07T06:53:18.629Z,-3.4059,130.8489,30.04,5,mb,44,62,1.479,1.19,us,us6000j7jw,2022-12-07T07:10:13.040Z,"214 km E of Amahai, Indonesia",earthquake,6.16,4.68,0.101,31,reviewed,us,us
@@ -270,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T08:48:27.870Z,36.2786667,-117.9895,8.46,2.23,ml,31,57,0.1709,0.15,ci,ci40142559,2022-12-06T17:23:40.353Z,"1km ESE of Olancha, CA",earthquake,0.2,0.61,0.219,32,reviewed,ci,ci
 2022-12-06T08:43:21.532Z,41.9732,-119.5587,0,3.5,ml,10,120.94,0.558,0.4458,nn,nn00852719,2022-12-06T18:05:33.334Z,"50 km ENE of Fort Bidwell, California",earthquake,,0,0.34,10,reviewed,nn,nn
 2022-12-06T08:40:31.030Z,35.11933333,-97.91983333,9.3,1.71,ml,90,34,0.1043795172,0.28,ok,ok2022xwao,2022-12-06T13:50:32.515Z,"5 km SW of Amber, Oklahoma",earthquake,,1.2,0.23,40,reviewed,ok,ok
-2022-12-06T08:33:17.380Z,37.5323333,-118.8538333,2.08,0.06,md,7,311,0.06085,0.04,nc,nc73815176,2022-12-06T10:28:12.837Z,"16km WSW of Toms Place, CA",earthquake,0.9,1.95,0.075,6,reviewed,nc,nc
-2022-12-06T08:32:45.350Z,19.5621,-65.7326,74,4.08,md,20,260,1.3013,0.32,pr,pr2022340000,2022-12-07T07:50:12.040Z,"125 km N of Suárez, Puerto Rico",earthquake,3.77,9.63,0.08,9,reviewed,pr,pr
