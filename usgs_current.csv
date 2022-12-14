@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-14T16:15:29.370Z,38.8310013,-122.8000031,1.15,0.78,md,7,150,0.01057,0.01,nc,nc73818616,2022-12-14T16:17:02.845Z,"7km W of Cobb, CA",earthquake,0.59,1.24,0.17,8,automatic,nc,nc
 2022-12-14T16:14:35.480Z,19.1793327331543,-155.488998413086,31.6700000762939,1.74000001,md,34,200,,0.119999997,hv,hv73269387,2022-12-14T16:17:51.460Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.8,1,1.74000001,4,automatic,hv,hv
-2022-12-14T16:14:07.280Z,38.8328323,-122.8066635,2.35,0.23,md,9,93,0.009793,0.01,nc,nc73818611,2022-12-14T16:15:42.920Z,"7km W of Cobb, CA",earthquake,0.39,0.96,0.15,10,automatic,nc,nc
+2022-12-14T16:14:07.280Z,38.8328323,-122.8066635,2.35,0.23,md,9,93,0.009793,0.01,nc,nc73818611,2022-12-14T16:31:12.670Z,"7km W of Cobb, CA",earthquake,0.39,0.96,0.15,10,automatic,nc,nc
 2022-12-14T16:04:18.052Z,62.0859,-145.3015,38.6,1.6,ml,,,,1.06,ak,ak022fzsklsd,2022-12-14T16:06:18.122Z,"7 km ENE of Tazlina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-14T15:49:24.520Z,38.831501,-122.8188324,1.64,0.22,md,9,96,0.0106,0.01,nc,nc73818606,2022-12-14T16:12:14.569Z,"8km NW of The Geysers, CA",earthquake,0.49,0.97,0.11,9,automatic,nc,nc
 2022-12-14T15:48:25.286Z,31.71619236,-104.2708664,6.979931641,2.9,ml,25,56,0.04212584617,0.2,tx,tx2022ylev,2022-12-14T16:08:14.335Z,"51 km S of Whites City, New Mexico",earthquake,0.6700491400000002,0.6537169267,0.1,15,reviewed,tx,tx
@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T11:34:45.558Z,60.9736,-147.6994,12,1.8,ml,,,,0.25,ak,ak022fzprxd7,2022-12-14T11:36:14.014Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-14T11:32:01.920Z,19.1895008087158,-155.393005371094,30.7900009155273,2.49,ml,46,164,,0.200000003,hv,hv73269202,2022-12-14T11:37:33.110Z,"9 km E of Pāhala, Hawaii",earthquake,0.61,0.839999974,3.22,20,automatic,hv,hv
 2022-12-14T11:28:12.951Z,58.216,-155.0773,1.1,1.2,ml,,,,0.41,ak,ak022fzpqkjz,2022-12-14T11:30:19.909Z,"80 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
+2022-12-14T11:21:20.210Z,46.71383333333333,-120.75866666666667,9.21,1.68,ml,23,98,0.04941,0.18,uw,uw61898436,2022-12-14T16:26:39.250Z,"Washington",earthquake,0.35,0.66,0.13114448483854346,19,reviewed,uw,uw
 2022-12-14T10:59:15.518Z,38.1464,-117.9122,11.2,1.2,ml,12,122.68,0.038,0.2707,nn,nn00853327,2022-12-14T11:02:19.646Z,"Nevada",earthquake,,0.4,0.45,6,automatic,nn,nn
 2022-12-14T10:47:20.680Z,35.748,-117.5711667,1.89,1.42,ml,21,84,0.07091,0.21,ci,ci40145407,2022-12-14T10:50:53.081Z,"15km W of Searles Valley, CA",earthquake,0.43,0.66,0.103,18,automatic,ci,ci
 2022-12-14T10:44:11.363Z,61.9223,-150.3347,8.7,1.7,ml,,,,0.38,ak,ak022fzp8ka8,2022-12-14T10:46:32.886Z,"25 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T16:41:33.170Z,35.7766667,-117.6063333,9.89,0.97,ml,22,69,0.03964,0.12,ci,ci40145191,2022-12-13T17:33:43.708Z,"18km W of Searles Valley, CA",earthquake,0.19,0.36,0.14,10,reviewed,ci,ci
 2022-12-13T16:41:20.555Z,38.0468,-118.7891,8.9,1.4,ml,11,175.26,0.303,0.1168,nn,nn00853312,2022-12-14T02:41:10.516Z,"30 km ENE of Lee Vining, California",earthquake,,12.6,0.62,4,reviewed,nn,nn
 2022-12-13T16:33:44.660Z,38.8356667,-122.7801666,1.58,1.34,md,22,100,0.007525,0.03,nc,nc73818236,2022-12-13T18:36:12.991Z,"5km WNW of Cobb, CA",earthquake,0.32,0.33,0.15,23,automatic,nc,nc
-2022-12-13T16:32:12.970Z,61.0285,-152.3515,11.05,-0.08,ml,6,316,,0.04,av,av91079688,2022-12-14T05:00:46.900Z,"65 km W of Tyonek, Alaska",earthquake,0.76,1.67,0.168231680404382,6,reviewed,av,av
-2022-12-13T16:24:43.120Z,38.8008347,-122.7496643,2.43,0.72,md,9,175,0.007854,0.02,nc,nc73818231,2022-12-13T17:19:13.532Z,"3km NNE of The Geysers, CA",earthquake,0.55,0.94,0.06,9,automatic,nc,nc
-2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"66 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
