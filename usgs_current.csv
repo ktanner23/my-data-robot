@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-14T11:53:40.260Z,33.3183333,-116.748,12.28,0.48,ml,13,100,0.08263,0.1,ci,ci40145415,2022-12-14T11:57:11.382Z,"9km N of Lake Henshaw, CA",earthquake,0.32,0.69,0.211,9,automatic,ci,ci
 2022-12-14T11:46:58.560Z,64.6313,-149.1872,12.7,1.4,ml,,,,0.58,ak,ak022fzpuiyo,2022-12-14T11:49:14.684Z,"4 km NW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-14T11:38:14.770Z,38.7849998,-122.7346649,0.36,1.2,md,17,135,0.002386,0.05,nc,nc73818556,2022-12-14T11:56:13.100Z,"2km ENE of The Geysers, CA",earthquake,0.26,0.58,0.11,18,automatic,nc,nc
+2022-12-14T11:38:14.770Z,38.7849998,-122.7346649,0.36,1.2,md,17,135,0.002386,0.05,nc,nc73818556,2022-12-14T12:10:11.174Z,"2km ENE of The Geysers, CA",earthquake,0.26,0.58,0.11,18,automatic,nc,nc
 2022-12-14T11:34:45.558Z,60.9736,-147.6994,12,1.8,ml,,,,0.25,ak,ak022fzprxd7,2022-12-14T11:36:14.014Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-14T11:32:01.920Z,19.1895008087158,-155.393005371094,30.7900009155273,2.49,ml,46,164,,0.200000003,hv,hv73269202,2022-12-14T11:37:33.110Z,"9 km E of Pāhala, Hawaii",earthquake,0.61,0.839999974,3.22,20,automatic,hv,hv
 2022-12-14T11:28:12.951Z,58.216,-155.0773,1.1,1.2,ml,,,,0.41,ak,ak022fzpqkjz,2022-12-14T11:30:19.909Z,"80 km NNW of Karluk, Alaska",earthquake,,3.3,,,automatic,ak,ak
@@ -150,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T16:33:44.660Z,38.8356667,-122.7801666,1.58,1.34,md,22,100,0.007525,0.03,nc,nc73818236,2022-12-13T18:36:12.991Z,"5km WNW of Cobb, CA",earthquake,0.32,0.33,0.15,23,automatic,nc,nc
 2022-12-13T16:32:12.970Z,61.0285,-152.3515,11.05,-0.08,ml,6,316,,0.04,av,av91079688,2022-12-14T05:00:46.900Z,"65 km W of Tyonek, Alaska",earthquake,0.76,1.67,0.168231680404382,6,reviewed,av,av
 2022-12-13T16:24:43.120Z,38.8008347,-122.7496643,2.43,0.72,md,9,175,0.007854,0.02,nc,nc73818231,2022-12-13T17:19:13.532Z,"3km NNE of The Geysers, CA",earthquake,0.55,0.94,0.06,9,automatic,nc,nc
-2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"66 km E of Denali Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-13T16:22:48.123Z,63.6284,-147.5935,8.3,2.1,ml,,,,0.85,ak,ak022fy556i4,2022-12-13T16:24:46.384Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-13T16:01:56.031Z,61.8738,-150.1458,35.5,1.5,ml,,,,0.78,ak,ak022fy50p2r,2022-12-13T16:03:11.293Z,"15 km NNW of Willow, Alaska",earthquake,,8.5,,,automatic,ak,ak
 2022-12-13T15:56:55.590Z,36.6090012,-121.2143326,8.93,1.76,md,16,127,0.04391,0.08,nc,nc73818226,2022-12-13T18:09:14.835Z,"11km NW of Pinnacles, CA",earthquake,0.32,0.74,0.2,16,automatic,nc,nc
 2022-12-13T15:51:36.870Z,38.8276672,-122.8141632,1.84,1.2,md,25,42,0.005329,0.02,nc,nc73818216,2022-12-13T17:41:16.659Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.22,25,automatic,nc,nc
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T12:26:25.541Z,-28.1143,-178.2251,60.866,5.4,mww,44,72,8.979,0.28,us,us6000j8zp,2022-12-13T14:29:48.430Z,"Kermadec Islands region",earthquake,8.88,5.908,0.098,10,reviewed,us,us
 2022-12-13T12:23:28.568Z,62.2473,-150.8768,55.7,1.9,ml,,,,0.51,ak,ak022fy2rmag,2022-12-13T12:26:00.797Z,"28 km SSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-13T12:19:27.310Z,61.3228333333333,-152.266333333333,-2.46,-0.41,ml,8,127,,0.08,av,av91730236,2022-12-14T04:17:09.170Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,1.29,0.225850686517646,8,reviewed,av,av
-2022-12-13T12:09:43.008Z,61.5036,-149.9037,33,1.6,ml,,,,0.45,ak,ak022fy2ondo,2022-12-13T12:11:33.656Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-13T12:02:46.780Z,19.1399993896484,-155.374664306641,28.5699996948242,2.1099999,md,46,184,,0.129999995,hv,hv73268442,2022-12-13T12:06:10.230Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.56,0.839999974,1.54999995,22,automatic,hv,hv
