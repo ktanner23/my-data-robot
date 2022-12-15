@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-15T14:41:04.810Z,19.2501659393311,-155.404159545898,6.26999998092651,2.8599999,md,33,190,,0.370000005,hv,hv73270462,2022-12-15T14:44:03.220Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.87,2.49000001,1.45000005,16,automatic,hv,hv
-2022-12-15T14:40:58.350Z,19.2118339538574,-155.414505004883,32.9900016784668,3.25,md,49,145,,0.189999998,hv,hv73270467,2022-12-15T14:44:18.010Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.779999971,0.389999986,41,automatic,hv,hv
+2022-12-15T14:41:04.810Z,19.2501659393311,-155.404159545898,6.26999998092651,2.87,ml,33,190,,0.370000005,hv,hv73270462,2022-12-15T14:46:35.400Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.87,2.49000001,2.15,18,automatic,hv,hv
+2022-12-15T14:40:58.350Z,19.2118339538574,-155.414505004883,32.9900016784668,2.98,ml,49,145,,0.189999998,hv,hv73270467,2022-12-15T14:46:41.400Z,"6 km E of Pāhala, Hawaii",earthquake,0.56,0.779999971,3.22,29,automatic,hv,hv
+2022-12-15T14:40:35.250Z,19.1703338623047,-155.375335693359,32.2799987792969,2.92,ml,23,217,,0.0900000036,hv,hv73270457,2022-12-15T14:46:06.310Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.85,1.30999994,3.36,32,automatic,hv,hv
 2022-12-15T14:04:29.890Z,38.8363342,-122.7914963,1.92,1.27,md,20,43,0.002259,0.02,nc,nc73818956,2022-12-15T14:37:14.766Z,"6km WNW of Cobb, CA",earthquake,0.22,0.51,0.17,21,automatic,nc,nc
 2022-12-15T13:55:13.580Z,33.3373333,-116.3751667,10.69,1.64,ml,58,40,0.0774,0.23,ci,ci40145735,2022-12-15T14:06:07.410Z,"9km N of Borrego Springs, CA",earthquake,0.26,0.56,0.123,27,automatic,ci,ci
 2022-12-15T13:12:40.630Z,33.1558333,-116.5908333,9,0.96,ml,29,53,0.06408,0.19,ci,ci40145727,2022-12-15T13:16:17.344Z,"9km N of Julian, CA",earthquake,0.3,0.62,0.193,26,automatic,ci,ci
@@ -94,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T01:40:32.781Z,61.029,-146.0539,23.4,1.8,ml,,,,0.78,ak,ak022g17e74e,2022-12-15T01:42:29.394Z,"19 km SE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-15T01:28:48.385Z,36.6797,-116.2949,13.1,-0.1,ml,10,139.78,0.049,0.3262,nn,nn00853404,2022-12-15T01:30:40.503Z,"48 km ESE of Beatty, Nevada",earthquake,,2,0.87,4,automatic,nn,nn
 2022-12-15T01:27:17.760Z,38.8235016,-122.8521652,2.22,0.77,md,9,121,0.005461,0.01,nc,nc73818771,2022-12-15T01:44:13.187Z,"10km WNW of The Geysers, CA",earthquake,0.37,0.8,0.16,10,automatic,nc,nc
+2022-12-15T01:08:48.830Z,35.8715,-89.9765,12.92,1.41,md,11,157,0.06649,0.03,nm,nm60502176,2022-12-15T14:51:23.270Z,"6 km ENE of Dell, Arkansas",earthquake,0.58,0.64,0.0945401195011678,8,reviewed,nm,nm
 2022-12-15T01:07:26.810Z,38.8236656,-122.8525009,2.34,1.27,md,22,61,0.005164,0.02,nc,nc73818761,2022-12-15T02:01:11.284Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.44,0.25,25,automatic,nc,nc
 2022-12-15T01:00:02.780Z,37.547,-118.8105,3.87,0.61,md,9,293,0.04543,0.02,nc,nc73818756,2022-12-15T09:01:12.780Z,"12km W of Toms Place, CA",earthquake,2.3,1.29,0.151,7,reviewed,nc,nc
 2022-12-15T00:41:21.640Z,38.8294983,-122.8016663,1.69,0.87,md,7,178,0.008959,0.02,nc,nc73818751,2022-12-15T01:34:13.133Z,"7km W of Cobb, CA",earthquake,0.74,1.41,0.23,9,automatic,nc,nc
@@ -132,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T21:14:25.806Z,37.156,-117.3478,8.9,1.2,ml,12,102.78,0.161,0.1594,nn,nn00853379,2022-12-15T02:42:22.176Z,"59 km WNW of Beatty, Nevada",earthquake,,5.2,0.81,8,reviewed,nn,nn
 2022-12-14T21:12:39.778Z,-50.2767,112.4184,10,4.8,mb,10,135,21.36,0.48,us,us6000j99h,2022-12-14T21:28:49.040Z,"southeast Indian Ridge",earthquake,12.56,1.928,0.209,7,reviewed,us,us
 2022-12-14T21:04:41.583Z,60.315,-152.2964,84,1.8,ml,,,,0.38,ak,ak022fzvjtmm,2022-12-14T21:06:53.562Z,"45 km NW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-12-14T21:03:23.300Z,36.209,-95.88666667,0,1.24,ml,26,115,0.307739611,0.41,ok,ok2022ylpg,2022-12-15T14:47:03.815Z,"7 km SSW of Owasso, Oklahoma",quarry blast,,0.6,0.13,7,reviewed,ok,ok
 2022-12-14T20:56:46.960Z,46.62416666666667,-121.75633333333333,12.68,2.91,ml,19,160,0.1269,0.12,uw,uw61898541,2022-12-15T06:22:17.879Z,"6 km WNW of Packwood, Washington",earthquake,0.35,0.88,0.1485348324086937,136,reviewed,uw,uw
 2022-12-14T20:52:37.831Z,60.3919,-151.7767,68.3,1.6,ml,,,,0.68,ak,ak022fzv8o3r,2022-12-14T20:54:52.085Z,"26 km W of Cohoe, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-14T20:46:31.573Z,21.8638,95.902,10,5,mb,62,54,1.517,0.5,us,us6000j99a,2022-12-15T06:14:35.863Z,"8 km WSW of Sagaing, Myanmar",earthquake,6.99,1.842,0.061,87,reviewed,us,us
