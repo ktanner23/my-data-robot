@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-18T18:00:07.017Z,39.6237,-120.1423,4.2,0.9,ml,8,89.63,0.08,0.1136,nn,nn00853649,2022-12-18T18:02:39.517Z,"Northern California",earthquake,,8.4,0.35,6,automatic,nn,nn
+2022-12-18T17:56:55.075Z,31.65549035,-104.4606637,5.977319336,2.9,ml,18,66,0.02442488833,0.2,tx,tx2022ysrc,2022-12-18T18:17:54.255Z,"58 km S of Whites City, New Mexico",earthquake,1.152997707,0.8183886501999998,0.1,11,reviewed,tx,tx
 2022-12-18T17:54:41.350Z,38.8238335,-122.8006668,3.14,1.1,md,7,91,0.007361,0.01,nc,nc73820376,2022-12-18T18:07:10.585Z,"6km NW of The Geysers, CA",earthquake,0.52,2.19,0.19,7,automatic,nc,nc
 2022-12-18T17:50:45.660Z,33.0416667,-116.4396667,7.57,0.73,ml,18,82,0.1383,0.25,ci,ci40391920,2022-12-18T17:54:21.511Z,"16km ESE of Julian, CA",earthquake,0.43,2.44,0.191,11,automatic,ci,ci
-2022-12-18T17:49:11.580Z,38.822834,-122.7845001,1.84,0.74,md,11,66,0.01001,0.01,nc,nc73820366,2022-12-18T17:50:47.610Z,"5km W of Cobb, CA",earthquake,0.35,0.54,0.15,13,automatic,nc,nc
+2022-12-18T17:49:11.580Z,38.822834,-122.7845001,1.84,0.74,md,11,66,0.01001,0.01,nc,nc73820366,2022-12-18T18:14:13.629Z,"5km W of Cobb, CA",earthquake,0.35,0.54,0.15,13,automatic,nc,nc
 2022-12-18T17:47:33.140Z,38.7794991,-122.716835,1.77,1.04,md,8,102,0.01599,0.02,nc,nc73820361,2022-12-18T18:04:12.566Z,"2km WNW of Anderson Springs, CA",earthquake,0.36,0.68,0.31,8,automatic,nc,nc
 2022-12-18T17:36:50.500Z,38.1536,-118.0266,0,1.4,ml,12,143.01,0.184,0.2121,nn,nn00853645,2022-12-18T17:39:49.663Z,"27 km SSE of Mina, Nevada",earthquake,,9.5,0.27,8,automatic,nn,nn
 2022-12-18T17:30:05.610Z,38.8223343,-122.7996674,2.88,1.19,md,28,30,0.008198,0.01,nc,nc73820356,2022-12-18T18:01:09.548Z,"6km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,28,automatic,nc,nc
@@ -141,6 +142,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T02:35:38.670Z,58.2486,-155.0859,1.1,0.6,ml,,,,0.09,ak,ak022g66km2q,2022-12-18T02:38:07.465Z,"84 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2022-12-18T02:33:56.570Z,35.6521667,-117.551,4.09,1.08,ml,13,142,0.09761,0.14,ci,ci40391616,2022-12-18T02:37:20.730Z,"12km ENE of Ridgecrest, CA",earthquake,0.35,1.25,0.12,10,automatic,ci,ci
 2022-12-18T02:31:41.580Z,38.8313332,-122.8134995,1.61,1.33,md,26,42,0.008366,0.04,nc,nc73820081,2022-12-18T03:34:11.351Z,"8km NW of The Geysers, CA",earthquake,0.19,0.36,0.15,28,automatic,nc,nc
+2022-12-18T02:24:16.388Z,36.7925,-115.9467,6.7,0.1,ml,11,159.54,0.007,0.1469,nn,nn00853651,2022-12-18T18:12:51.267Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.8,0.1,3,reviewed,nn,nn
+2022-12-18T02:21:15.916Z,38.5414,-119.4787,7.8,1.1,ml,15,107.23,0.049,0.1756,nn,nn00853619,2022-12-18T18:09:40.924Z,"2 km N of Walker, California",earthquake,,1,0.33,4,reviewed,nn,nn
 2022-12-18T02:19:22.608Z,61.4312,-159.258,15.4,1.2,ml,,,,0.81,ak,ak022g66hbkx,2022-12-18T02:40:12.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-18T02:08:33.940Z,38.8079987,-122.7705002,0.58,1.05,md,15,83,0.009534,0.02,nc,nc73820076,2022-12-18T03:07:12.210Z,"4km NNW of The Geysers, CA",earthquake,0.23,0.45,0.13,15,automatic,nc,nc
 2022-12-18T01:59:45.660Z,36.0876667,-117.608,3.42,1.07,ml,9,175,0.1155,0.12,ci,ci40391608,2022-12-18T02:03:20.165Z,"31km E of Coso Junction, CA",earthquake,0.57,2.36,0.305,9,automatic,ci,ci
@@ -205,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-17T18:46:08.660Z,38.8131676,-122.8290024,2.66,0.95,md,10,53,0.004296,0.04,nc,nc73819876,2022-12-17T19:37:14.514Z,"7km WNW of The Geysers, CA",earthquake,0.42,0.93,0.32,11,automatic,nc,nc
 2022-12-17T18:37:23.580Z,37.2988319,-121.6691666,5.66,1.96,md,43,40,0.0399,0.07,nc,nc73819871,2022-12-17T22:14:44.381Z,"15km E of Seven Trees, CA",earthquake,0.15,0.32,0.23,36,automatic,nc,nc
 2022-12-17T18:28:25.810Z,-11.4386,117.9321,17.456,4.8,mb,62,53,2.599,1.06,us,us6000ja1f,2022-12-17T18:47:29.040Z,"south of Sumbawa, Indonesia",earthquake,6.59,4.084,0.09,43,reviewed,us,us
-2022-12-17T18:17:07.520Z,18.2411666666667,-66.965,16.01,2.3,md,14,93,0.1671,0.14,pr,pr71387773,2022-12-17T18:42:54.670Z,"3 km ESE of Las Marías, Puerto Rico",earthquake,0.29,0.77,0.125100413036304,8,reviewed,pr,pr
-2022-12-17T18:10:10.170Z,62.9537,-150.429,107.5,2.8,ml,,,,0.44,ak,ak022g4ses55,2022-12-17T20:09:20.040Z,"53 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
