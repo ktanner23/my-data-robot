@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T00:18:07.371Z,36.7046,-116.3034,8.2,-0.2,ml,8,118.6,0.028,0.0666,nn,nn00853940,2022-12-22T00:20:09.789Z,"46 km ESE of Beatty, Nevada",earthquake,,1.7,0.08,3,automatic,nn,nn
 2022-12-22T00:11:45.540Z,36.543,-121.0968333,2.86,1.6,md,19,102,0.04005,0.06,nc,nc73822811,2022-12-22T08:11:15.956Z,"4km ENE of Pinnacles, CA",earthquake,0.3,0.38,0.221,18,reviewed,nc,nc
 2022-12-22T00:11:39.981Z,62.1273,-147.388,39.7,1.4,ml,,,,0.63,ak,ak022gcrdzri,2022-12-22T00:13:21.909Z,"23 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-12-22T00:04:00.560Z,34.0111667,-116.8625,16.02,1.18,ml,41,40,0.05136,0.2,ci,ci40148671,2022-12-22T00:14:55.710Z,"10km N of Banning, CA",earthquake,0.27,0.61,0.193,28,automatic,ci,ci
+2022-12-22T00:04:00.510Z,34.0071667,-116.8646667,15.62,1.15,ml,54,29,0.05488,0.16,ci,ci40148671,2022-12-22T15:44:37.700Z,"9km N of Banning, CA",earthquake,0.15,0.43,0.152,32,reviewed,ci,ci
 2022-12-22T00:03:09.640Z,38.8226662,-122.8529968,2.75,0.77,md,8,194,0.01404,0.01,nc,nc73822806,2022-12-22T00:24:12.824Z,"10km WNW of The Geysers, CA",earthquake,2.25,1.07,0.21,9,automatic,nc,nc
 2022-12-21T23:51:58.510Z,19.3608333333333,-155.303666666667,10.91,0.59,md,5,113,,0.11,hv,hv73277837,2022-12-22T02:18:54.390Z,"11 km SW of Volcano, Hawaii",earthquake,1.62,2.13,0.0214471159015773,2,reviewed,hv,hv
 2022-12-21T23:51:55.240Z,40.565834,-124.1901703,4.62,1.85,md,7,176,0.144,0.08,nc,nc73822801,2022-12-22T00:15:12.778Z,"4km SW of Fortuna, CA",earthquake,2.35,8.6,0.08,3,automatic,nc,nc
@@ -156,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T21:44:14.670Z,38.8381653,-122.7929993,2.16,0.21,md,9,121,0.002088,0.01,nc,nc73822736,2022-12-21T21:45:48.051Z,"6km WNW of Cobb, CA",earthquake,0.67,0.47,0.06,9,automatic,nc,nc
 2022-12-21T21:40:04.450Z,17.9676,-67.0001,6,3.12,md,23,187,0.0442,0.11,pr,pr2022355002,2022-12-21T22:13:40.040Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.46,0.21,0.17,18,reviewed,pr,pr
 2022-12-21T21:39:58.850Z,35.6643333,-117.5658333,6.93,1.19,ml,26,85,0.07968,0.13,ci,ci40148639,2022-12-22T15:18:25.742Z,"11km ENE of Ridgecrest, CA",earthquake,0.18,0.47,0.107,16,reviewed,ci,ci
-2022-12-21T21:38:00.520Z,58.2956666666667,-154.992666666667,3.98,0.89,ml,12,141,,0.19,av,av91735211,2022-12-22T04:17:10.040Z,"Alaska Peninsula",earthquake,0.49,0.68,0.316892290676138,12,reviewed,av,av
+2022-12-21T21:38:00.520Z,58.2956666666667,-154.992666666667,3.98,0.89,ml,12,141,,0.19,av,av91735211,2022-12-22T04:17:10.040Z,"86 km NNW of Karluk, Alaska",earthquake,0.49,0.68,0.316892290676138,12,reviewed,av,av
 2022-12-21T21:31:55.098Z,61.7814,-149.7168,30.2,1.9,ml,,,,0.62,ak,ak022gbgh2gl,2022-12-21T21:34:09.822Z,"17 km ENE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-21T21:18:38.740Z,38.8341675,-122.8128357,1.93,0.48,md,7,97,0.01097,0.01,nc,nc73822721,2022-12-21T21:20:12.738Z,"8km W of Cobb, CA",earthquake,0.51,1.58,0.32,8,automatic,nc,nc
 2022-12-21T21:16:02.509Z,34.47783333,-96.85016667,0,1.39,ml,23,159,0.6739677445,0.49,ok,ok2022yyke,2022-12-22T14:07:14.325Z,"8 km NNW of Mill Creek, Oklahoma",quarry blast,,1.3,0.23,13,reviewed,ok,ok
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-21T15:57:00.710Z,19.1835,-155.489,28.92,1.41,md,9,210,,0.07,hv,hv73277622,2022-12-21T23:05:01.110Z,"2 km SSW of Pāhala, Hawaii",earthquake,1.55,2.14,0.017785749714524,7,reviewed,hv,hv
 2022-12-21T15:50:23.364Z,58.1819,-155.3475,1.1,0.7,ml,,,,0.33,ak,ak022gbd0gzx,2022-12-22T05:15:03.610Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2022-12-21T15:49:36.109Z,35.80133333,-96.65816667,6.92,1.18,ml,37,67,0.1367731604,0.21,ok,ok2022yxzk,2022-12-22T13:41:23.168Z,"5 km N of Stroud, Oklahoma",earthquake,,0.6,0.23,17,reviewed,ok,ok
-2022-12-21T15:42:39.815Z,-24.2349,-66.95,166.622,4.5,mb,28,45,2.573,0.67,us,us6000javl,2022-12-21T22:27:18.040Z,"64 km W of San Antonio de los Cobres, Argentina",earthquake,7.87,12.624,0.18,9,reviewed,us,us
