@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T15:06:50.310Z,37.6571655,-122.0653305,4.52,1.65,md,16,100,0.07941,0.12,nc,nc73824171,2022-12-24T15:27:03.862Z,"2km NE of Hayward, CA",earthquake,0.34,1.04,0.14,16,automatic,nc,nc
+2022-12-24T15:31:49.330Z,19.1706657409668,-155.489501953125,30.2299995422363,2.4,ml,42,156,,0.129999995,hv,hv73280987,2022-12-24T15:37:20.010Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.63,0.810000002,3.93,7,automatic,hv,hv
+2022-12-24T15:06:50.310Z,37.6571655,-122.0653305,4.52,1.65,md,16,100,0.07941,0.12,nc,nc73824171,2022-12-24T15:32:15.461Z,"2km NE of Hayward, CA",earthquake,0.34,1.04,0.14,16,automatic,nc,nc
 2022-12-24T14:58:00.570Z,40.5391655,-124.3688354,17.59,2.43,md,10,301,0.06788,0.06,nc,nc73824161,2022-12-24T15:28:10.719Z,"10km WSW of Ferndale, CA",earthquake,1.72,0.53,0.1,8,automatic,nc,nc
 2022-12-24T14:51:39.950Z,37.6580009,-122.0680008,4.12,2.12,md,45,48,0.07757,0.12,nc,nc73824156,2022-12-24T15:27:26.595Z,"2km NNE of Hayward, CA",earthquake,0.18,0.64,0.12,40,automatic,nc,nc
 2022-12-24T14:47:26.070Z,32.9908333,-116.1693333,0.94,1.09,ml,21,66,0.1644,0.24,ci,ci40149399,2022-12-24T14:51:09.832Z,"17km SSW of Ocotillo Wells, CA",earthquake,0.39,31.61,0.168,19,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T12:11:13.690Z,38.7923317,-122.7773361,3.07,0.73,md,8,102,0.008313,0.01,nc,nc73824141,2022-12-24T12:37:13.716Z,"2km NW of The Geysers, CA",earthquake,0.74,1.28,0.29,9,automatic,nc,nc
 2022-12-24T12:08:01.790Z,37.1593323,-121.5429993,4.21,1.52,md,26,81,0.05901,0.08,nc,nc73824136,2022-12-24T13:01:13.843Z,"10km NE of San Martin, CA",earthquake,0.22,0.55,0.11,14,automatic,nc,nc
 2022-12-24T11:54:41.350Z,38.7906685,-122.7596664,1.18,0.89,md,10,91,0.009942,0.01,nc,nc73824131,2022-12-24T12:16:14.587Z,"2km N of The Geysers, CA",earthquake,0.32,0.54,0.18,9,automatic,nc,nc
-2022-12-24T11:51:57.120Z,17.9646,-66.948,7,3.81,md,27,185,0.0696,0.11,pr,pr2022358001,2022-12-24T13:54:28.740Z,"4 km SW of Fuig, Puerto Rico",earthquake,0.37,0.18,0.1,18,reviewed,pr,pr
+2022-12-24T11:51:57.120Z,17.9646,-66.948,7,3.81,md,27,185,0.0696,0.11,pr,pr2022358001,2022-12-24T15:35:28.338Z,"4 km SW of Fuig, Puerto Rico",earthquake,0.37,0.18,0.1,18,reviewed,pr,pr
 2022-12-24T11:49:34.650Z,40.5284996,-124.3441696,12.76,1.98,md,6,297,0.05312,0.02,nc,nc73824126,2022-12-24T12:34:13.697Z,"9km SW of Ferndale, CA",earthquake,3.22,1.85,0.1,4,automatic,nc,nc
 2022-12-24T11:47:02.130Z,19.236499786377,-155.39533996582,31.6100006103516,1.84000003,md,40,141,,0.129999995,hv,hv73280767,2022-12-24T11:50:08.520Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.670000017,1.40999997,18,automatic,hv,hv
 2022-12-24T11:33:43.141Z,58.163,-155.4006,0,1.1,ml,,,,0.85,ak,ak022gg9563p,2022-12-24T11:36:21.178Z,"86 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T15:47:59.840Z,19.2024993896484,-155.397506713867,32.4799995422363,2.25,md,41,159,,0.140000001,hv,hv73279482,2022-12-23T15:51:22.360Z,"8 km E of Pāhala, Hawaii",earthquake,0.74,0.819999993,1.51999998,19,automatic,hv,hv
 2022-12-23T15:39:59.131Z,40.0731,-119.6936,14.8,0.8,ml,3,163.65,0.102,0.1195,nn,nn00854101,2022-12-24T02:44:21.633Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,7.5,0,1,reviewed,nn,nn
 2022-12-23T15:39:03.402Z,41.9878,-119.5559,1.5,1.4,ml,4,205.06,0.562,0.1964,nn,nn00854100,2022-12-24T02:44:19.532Z,"51 km ENE of Fort Bidwell, California",earthquake,,10.4,0.89,4,reviewed,nn,nn
-2022-12-23T15:30:05.207Z,58.2423,-155.209,0,1.8,ml,,,,0.37,ak,ak022genyu94,2022-12-23T15:44:52.380Z,"87 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
