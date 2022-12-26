@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-26T09:34:52.750Z,37.4348335,-118.6783371,7.48,1.69,md,15,139,0.1227,0.04,nc,nc73825176,2022-12-26T09:36:28.915Z,"8km WNW of Round Valley, CA",earthquake,0.76,2.33,0.12,12,automatic,nc,nc
-2022-12-26T09:33:23.550Z,19.388500213623,-155.275329589844,1.6599999666214,3.25999999,md,38,44,,0.25,hv,hv73283352,2022-12-26T09:36:30.820Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.300000012,0.439999998,25,automatic,hv,hv
+2022-12-26T09:34:52.750Z,37.4348335,-118.6783371,7.48,1.69,md,15,139,0.1227,0.04,nc,nc73825176,2022-12-26T09:43:09.780Z,"8km WNW of Round Valley, CA",earthquake,0.76,2.33,0.12,12,automatic,nc,nc
+2022-12-26T09:33:23.550Z,19.388500213623,-155.275329589844,1.6599999666214,3.08,ml,38,44,,0.25,hv,hv73283352,2022-12-26T09:44:06.050Z,"7 km SW of Volcano, Hawaii",earthquake,0.32,0.300000012,3.17,24,automatic,hv,hv
 2022-12-26T09:33:11.370Z,38.7929993,-122.7483368,2.6,1.07,md,10,91,0.01332,0.02,nc,nc73825171,2022-12-26T09:34:49.089Z,"2km NNE of The Geysers, CA",earthquake,0.34,1.12,0.1,10,automatic,nc,nc
 2022-12-26T09:24:35.039Z,38.1707,-117.8711,5.6,1.8,ml,20,137,0.159,0.3015,nn,nn00854190,2022-12-26T09:27:45.914Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.4,10,automatic,nn,nn
 2022-12-26T09:15:26.536Z,60.4205,-143.1564,17.3,2.4,ml,,,,0.99,ak,ak022gjix40d,2022-12-26T09:17:20.612Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -126,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:29:59.680Z,38.8434982,-122.8221664,-0.77,1.28,md,22,66,0.01118,0.27,nc,nc73824861,2022-12-25T23:05:17.120Z,"9km WNW of Cobb, CA",earthquake,0.45,1.65,0.12,22,automatic,nc,nc
 2022-12-25T20:27:00.230Z,38.8354988,-122.7886658,1.93,1.02,md,10,83,0.003188,0.01,nc,nc73824856,2022-12-25T21:00:14.409Z,"6km WNW of Cobb, CA",earthquake,0.38,0.43,0.09,12,automatic,nc,nc
 2022-12-25T20:23:12.650Z,38.8356667,-122.8085022,3.37,0.35,md,4,110,0.01232,0.01,nc,nc73824851,2022-12-25T20:49:13.353Z,"8km WNW of Cobb, CA",earthquake,1.18,6.37,0.17,7,automatic,nc,nc
-2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T20:13:32.190Z,33.0215,-116.4248333,5.74,1.18,ml,36,68,0.1219,0.24,ci,ci40149935,2022-12-25T20:17:33.096Z,"18km ESE of Julian, CA",earthquake,0.3,1.58,0.174,12,automatic,ci,ci
 2022-12-25T20:13:12.030Z,33.0165,-116.4266667,6.05,1.14,ml,36,69,0.1206,0.22,ci,ci40149927,2022-12-25T20:17:17.290Z,"18km ESE of Julian, CA",earthquake,0.29,1.22,0.149,24,automatic,ci,ci
 2022-12-25T20:10:39.030Z,38.8351669,-122.8113327,1.92,1.71,md,34,40,,0.03,nc,nc73824846,2022-12-25T21:56:10.730Z,"8km W of Cobb, CA",earthquake,0.17,0.3,0.14,35,automatic,nc,nc
@@ -231,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T10:02:53.365Z,56.2728,-156.6031,27,2.7,ml,,,,0.59,ak,ak022ghvwgtp,2022-12-25T23:41:17.918Z,"111 km E of Chignik, Alaska",earthquake,,1.1,,,reviewed,ak,ak
 2022-12-25T09:51:51.202Z,47.4853,-70.1333,13.14,2.8,ml,26,153,0.84,0.55,us,us6000jbr9,2022-12-26T07:57:16.040Z,"15 km NNW of La Pocatière, Canada",earthquake,3.3,8.7,0.256,2,reviewed,us,us
 2022-12-25T09:50:46.190Z,33.2351667,-116.0445,6.04,0.76,ml,18,146,0.08316,0.23,ci,ci40149663,2022-12-25T09:54:13.651Z,"11km SW of Salton City, CA",earthquake,0.57,1.85,0.167,9,automatic,ci,ci
-2022-12-25T09:41:21.820Z,17.9588333333333,-66.8585,18.91,2.26,md,8,208,0.02551,0.08,pr,pr71388948,2022-12-25T10:05:04.710Z,"Puerto Rico",earthquake,0.68,0.36,0.101018979112849,7,reviewed,pr,pr
