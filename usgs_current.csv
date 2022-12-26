@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T03:41:35.010Z,33.1191667,-115.579,9.05,0.9,ml,9,200,0.002178,0.19,ci,ci40150071,2022-12-26T03:45:06.413Z,"6km W of Calipatria, CA",earthquake,1.26,1.51,0.211,8,automatic,ci,ci
 2022-12-26T03:40:17.360Z,19.4150009155273,-155.287002563477,2.59999990463257,1.75,md,10,136,,0.209999993,hv,hv73283142,2022-12-26T03:43:24.270Z,"6 km WSW of Volcano, Hawaii",earthquake,0.56,0.610000014,0.649999976,6,automatic,hv,hv
 2022-12-26T03:30:38.538Z,61.791,-149.9624,32.8,1.9,ml,,,,0.53,ak,ak022gjffr1p,2022-12-26T03:32:35.234Z,"6 km NE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-26T03:30:00.660Z,37.6160011,-118.8730011,1.9,1.21,md,13,138,0.008519,0.02,nc,nc73825056,2022-12-26T03:38:10.689Z,"10km ESE of Mammoth Lakes, CA",earthquake,0.37,0.53,0.16,13,automatic,nc,nc
+2022-12-26T03:30:00.660Z,37.6160011,-118.8730011,1.9,1.21,md,13,138,0.008519,0.02,nc,nc73825056,2022-12-26T03:55:12.773Z,"10km ESE of Mammoth Lakes, CA",earthquake,0.37,0.53,0.16,13,automatic,nc,nc
 2022-12-26T03:15:38.410Z,33.1515,-116.3841667,12.92,0.67,ml,19,69,0.1167,0.21,ci,ci40150063,2022-12-26T03:19:10.393Z,"12km S of Borrego Springs, CA",earthquake,0.46,1.06,0.068,6,automatic,ci,ci
 2022-12-26T03:13:08.349Z,-6.0715,148.5557,61.294,5,mb,68,51,4.05,0.88,us,us6000jbq7,2022-12-26T03:30:22.040Z,"95 km NE of Finschhafen, Papua New Guinea",earthquake,9.86,7.69,0.081,49,reviewed,us,us
 2022-12-26T03:05:46.323Z,61.5209,-146.4272,28.2,2,ml,,,,0.76,ak,ak022gjfaeqw,2022-12-26T03:07:32.943Z,"43 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:29:59.680Z,38.8434982,-122.8221664,-0.77,1.28,md,22,66,0.01118,0.27,nc,nc73824861,2022-12-25T23:05:17.120Z,"9km WNW of Cobb, CA",earthquake,0.45,1.65,0.12,22,automatic,nc,nc
 2022-12-25T20:27:00.230Z,38.8354988,-122.7886658,1.93,1.02,md,10,83,0.003188,0.01,nc,nc73824856,2022-12-25T21:00:14.409Z,"6km WNW of Cobb, CA",earthquake,0.38,0.43,0.09,12,automatic,nc,nc
 2022-12-25T20:23:12.650Z,38.8356667,-122.8085022,3.37,0.35,md,4,110,0.01232,0.01,nc,nc73824851,2022-12-25T20:49:13.353Z,"8km WNW of Cobb, CA",earthquake,1.18,6.37,0.17,7,automatic,nc,nc
-2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T20:13:32.190Z,33.0215,-116.4248333,5.74,1.18,ml,36,68,0.1219,0.24,ci,ci40149935,2022-12-25T20:17:33.096Z,"18km ESE of Julian, CA",earthquake,0.3,1.58,0.174,12,automatic,ci,ci
 2022-12-25T20:13:12.030Z,33.0165,-116.4266667,6.05,1.14,ml,36,69,0.1206,0.22,ci,ci40149927,2022-12-25T20:17:17.290Z,"18km ESE of Julian, CA",earthquake,0.29,1.22,0.149,24,automatic,ci,ci
 2022-12-25T20:10:39.030Z,38.8351669,-122.8113327,1.92,1.71,md,34,40,,0.03,nc,nc73824846,2022-12-25T21:56:10.730Z,"8km W of Cobb, CA",earthquake,0.17,0.3,0.14,35,automatic,nc,nc
@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T04:19:23.290Z,38.8363342,-122.7894974,1.87,0.63,md,10,120,0.002175,0.02,nc,nc73824451,2022-12-25T05:07:13.600Z,"6km WNW of Cobb, CA",earthquake,0.37,0.51,0.06,10,automatic,nc,nc
 2022-12-25T04:06:27.840Z,38.8328323,-122.8160019,2.13,0.68,md,7,101,0.01627,0.01,nc,nc73824441,2022-12-25T04:40:14.456Z,"8km NW of The Geysers, CA",earthquake,0.52,2.28,0.08,9,automatic,nc,nc
 2022-12-25T04:01:39.560Z,19.1908340454102,-155.0625,42.810001373291,2.21000004,md,11,275,,0.0900000036,hv,hv73281727,2022-12-25T04:04:54.650Z,"31 km SSE of Fern Forest, Hawaii",earthquake,3.24,1.97000003,1.10000002,3,automatic,hv,hv
-2022-12-25T03:57:09.000Z,18.9820003509521,-155.410507202148,33.7900009155273,2.1099999,md,35,224,,0.140000001,hv,hv73281722,2022-12-25T04:09:38.040Z,"20 km ESE of Naalehu, Hawaii",earthquake,0.66,1.13999999,1.96000004,10,automatic,hv,hv
-2022-12-25T03:57:08.180Z,19.4073333740234,-155.278671264648,-1.08000004291534,2.26999998,md,7,124,,0.349999994,hv,hv73281717,2022-12-25T04:00:08.120Z,"6 km SW of Volcano, Hawaii",earthquake,0.36,0.50999999,1.50999999,3,automatic,hv,hv
