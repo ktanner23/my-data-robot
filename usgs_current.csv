@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-13T09:14:55.810Z,38.8053322,-122.7833328,0.65,1.16,md,10,82,0.008181,0.03,nc,nc73831531,2023-01-13T09:16:29.364Z,"4km NW of The Geysers, CA",earthquake,0.29,0.78,0.15,10,automatic,nc,nc
-2023-01-13T09:14:48.730Z,38.8059998,-122.7848358,0.58,2.21,md,9,88,0.007941,0.02,nc,nc73831526,2023-01-13T09:16:24.449Z,"4km NW of The Geysers, CA",earthquake,0.27,0.54,0.32,8,automatic,nc,nc
-2023-01-13T09:13:29.620Z,33.2966667,-116.7598333,5.54,1.27,ml,44,24,0.06053,0.21,ci,ci40402216,2023-01-13T09:17:14.064Z,"6km N of Lake Henshaw, CA",earthquake,0.22,0.96,0.188,25,automatic,ci,ci
+2023-01-13T09:14:48.730Z,38.8059998,-122.7848358,0.58,2.21,md,9,88,0.007941,0.02,nc,nc73831526,2023-01-13T09:22:15.083Z,"4km NW of The Geysers, CA",earthquake,0.27,0.54,0.32,8,automatic,nc,nc
+2023-01-13T09:13:29.620Z,33.2966667,-116.7598333,5.54,1.27,ml,44,24,0.06053,0.21,ci,ci40402216,2023-01-13T09:24:26.390Z,"6km N of Lake Henshaw, CA",earthquake,0.22,0.96,0.188,25,automatic,ci,ci
 2023-01-13T09:08:00.721Z,63.0482,-150.4912,111.3,2,ml,,,,0.26,ak,ak023lne4nc,2023-01-13T09:09:59.231Z,"63 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-13T08:53:55.160Z,33.3996667,-116.3716667,3.06,0.76,ml,22,110,0.1314,0.18,ci,ci40402208,2023-01-13T08:57:26.653Z,"16km N of Borrego Springs, CA",earthquake,0.37,1.41,0.199,16,automatic,ci,ci
 2023-01-13T08:43:02.710Z,38.7233315,-122.7288361,-0.12,1.29,md,9,216,0.0256,0.31,nc,nc73831516,2023-01-13T09:01:11.965Z,"6km SSE of The Geysers, CA",earthquake,3.46,5.2,0.29,9,automatic,nc,nc
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T07:59:24.519Z,60.5318,-143.8304,4.5,1.7,ml,,,,0.8,ak,ak023lmi3pj,2023-01-13T08:01:41.948Z,"105 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T07:56:06.882Z,62.9416,-150.9835,128.1,1.6,ml,,,,0.99,ak,ak023lmhka8,2023-01-13T07:58:14.858Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-13T07:53:20.018Z,61.0207,-150.6149,45.9,1.6,ml,,,,0.55,ak,ak023lmgy5d,2023-01-13T07:55:00.367Z,"11 km NNE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-13T07:33:40.190Z,38.7923317,-122.7788315,3.34,1.32,md,23,79,0.007151,0.02,nc,nc73831496,2023-01-13T08:05:12.643Z,"3km NW of The Geysers, CA",earthquake,0.26,0.51,0.2,25,automatic,nc,nc
+2023-01-13T07:33:40.190Z,38.7923317,-122.7788315,3.34,1.32,md,23,79,0.007151,0.02,nc,nc73831496,2023-01-13T09:27:15.110Z,"3km NW of The Geysers, CA",earthquake,0.26,0.51,0.2,25,automatic,nc,nc
 2023-01-13T07:33:37.673Z,60.5133,-143.8404,9.8,1.7,ml,,,,0.47,ak,ak023lmcp6v,2023-01-13T07:35:06.711Z,"105 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-13T07:30:39.580Z,19.1905002593994,-155.419006347656,33.4900016784668,1.92999995,md,38,166,,0.129999995,hv,hv73302617,2023-01-13T07:33:47.350Z,"6 km ESE of Pāhala, Hawaii",earthquake,0.61,0.829999983,0.959999979,8,automatic,hv,hv
 2023-01-13T07:22:02.920Z,38.8470001,-122.8188324,1.45,1.34,md,22,67,0.008423,0.02,nc,nc73831491,2023-01-13T09:01:12.103Z,"9km WNW of Cobb, CA",earthquake,0.21,0.41,0.13,23,automatic,nc,nc
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T06:19:03.900Z,38.8136673,-122.765831,6.73,1.06,md,8,153,0.01161,0.02,nc,nc73831476,2023-01-13T06:37:12.095Z,"4km WSW of Cobb, CA",earthquake,1.12,3.58,0.32,9,automatic,nc,nc
 2023-01-13T06:13:03.550Z,47.55566666666667,-122.38633333333334,26.33,2.21,ml,23,48,0.009913,0.52,uw,uw61902256,2023-01-13T06:48:42.270Z,"4 km NNW of White Center, Washington",earthquake,1.08,1.73,0.164061631490096,17,reviewed,uw,uw
 2023-01-13T06:11:25.550Z,19.205,-155.397333333333,30.75,3.43,ml,57,157,,0.14,hv,hv73302552,2023-01-13T08:25:35.928Z,"8 km E of Pāhala, Hawaii",earthquake,0.48,0.47,0.170278930745225,41,reviewed,hv,hv
-2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"6 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:46:58.495Z,60.2661,-141.1842,5.1,1.8,ml,,,,0.68,ak,ak023ll8nw9,2023-01-13T05:48:38.687Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:19:09.930Z,38.8188324,-122.7618332,1.89,1.11,md,6,193,0.01322,0.01,nc,nc73831466,2023-01-13T06:04:15.895Z,"3km W of Cobb, CA",earthquake,0.74,1.07,0.26,9,automatic,nc,nc
 2023-01-13T04:59:45.690Z,38.8028336,-122.7806702,2.45,0.99,md,8,80,0.01041,0.01,nc,nc73831461,2023-01-13T05:22:11.596Z,"4km NW of The Geysers, CA",earthquake,0.61,1.15,0.29,8,automatic,nc,nc
@@ -196,6 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T09:47:53.500Z,37.5806667,-121.6953333,-0.23,1.16,md,19,77,0.08874,0.08,nc,nc73831246,2023-01-12T11:41:14.389Z,"13km SSE of Livermore, CA",earthquake,0.19,0.58,0.172,15,reviewed,nc,nc
 2023-01-12T09:34:54.530Z,19.1415004730225,-155.364669799805,27.7999992370605,1.83000004,md,40,184,,0.150000006,hv,hv73302047,2023-01-12T09:37:59.480Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.67,0.970000029,1.05999994,15,automatic,hv,hv
 2023-01-12T09:30:51.820Z,51.8691666666667,-177.9125,4.43,0.98,ml,4,188,,0.11,av,av91084213,2023-01-13T01:52:55.710Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,1.92,0.237373154706545,4,reviewed,av,av
-2023-01-12T09:24:39.500Z,54.948,-162.252833333333,-0.29,0.94,ml,7,253,,0.19,av,av91746301,2023-01-13T01:50:58.150Z,"Alaska Peninsula",earthquake,0.77,4.14,0.241318235290601,6,reviewed,av,av
-2023-01-12T09:24:38.782Z,38.1991,-116.7258,13.1,1.9,ml,6,154.58,0.719,0.1026,nn,nn00854776,2023-01-12T17:17:40.068Z,"46 km ENE of Tonopah, Nevada",earthquake,,3.8,0.27,3,reviewed,nn,nn
-2023-01-12T09:22:38.101Z,60.3342,-152.2059,79.2,1.7,ml,,,,0.69,ak,ak023jzxv2a,2023-01-12T09:24:54.647Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
