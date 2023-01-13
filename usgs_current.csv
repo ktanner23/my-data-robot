@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-13T09:14:55.810Z,38.8053322,-122.7833328,0.65,1.16,md,10,82,0.008181,0.03,nc,nc73831531,2023-01-13T09:16:29.364Z,"4km NW of The Geysers, CA",earthquake,0.29,0.78,0.15,10,automatic,nc,nc
+2023-01-13T09:14:55.810Z,38.8053322,-122.7833328,0.65,1.16,md,10,82,0.008181,0.03,nc,nc73831531,2023-01-13T09:34:13.142Z,"4km NW of The Geysers, CA",earthquake,0.29,0.78,0.15,10,automatic,nc,nc
 2023-01-13T09:14:48.730Z,38.8059998,-122.7848358,0.58,2.21,md,9,88,0.007941,0.02,nc,nc73831526,2023-01-13T09:22:15.083Z,"4km NW of The Geysers, CA",earthquake,0.27,0.54,0.32,8,automatic,nc,nc
 2023-01-13T09:13:29.620Z,33.2966667,-116.7598333,5.54,1.27,ml,44,24,0.06053,0.21,ci,ci40402216,2023-01-13T09:24:26.390Z,"6km N of Lake Henshaw, CA",earthquake,0.22,0.96,0.188,25,automatic,ci,ci
 2023-01-13T09:08:00.721Z,63.0482,-150.4912,111.3,2,ml,,,,0.26,ak,ak023lne4nc,2023-01-13T09:09:59.231Z,"63 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-13T06:19:03.900Z,38.8136673,-122.765831,6.73,1.06,md,8,153,0.01161,0.02,nc,nc73831476,2023-01-13T06:37:12.095Z,"4km WSW of Cobb, CA",earthquake,1.12,3.58,0.32,9,automatic,nc,nc
 2023-01-13T06:13:03.550Z,47.55566666666667,-122.38633333333334,26.33,2.21,ml,23,48,0.009913,0.52,uw,uw61902256,2023-01-13T06:48:42.270Z,"4 km NNW of White Center, Washington",earthquake,1.08,1.73,0.164061631490096,17,reviewed,uw,uw
 2023-01-13T06:11:25.550Z,19.205,-155.397333333333,30.75,3.43,ml,57,157,,0.14,hv,hv73302552,2023-01-13T08:25:35.928Z,"8 km E of Pāhala, Hawaii",earthquake,0.48,0.47,0.170278930745225,41,reviewed,hv,hv
-2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"6 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-01-13T05:53:14.131Z,62.2651,-150.1678,15.2,1.4,ml,,,,0.58,ak,ak023lla2hh,2023-01-13T05:54:59.243Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:46:58.495Z,60.2661,-141.1842,5.1,1.8,ml,,,,0.68,ak,ak023ll8nw9,2023-01-13T05:48:38.687Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-13T05:19:09.930Z,38.8188324,-122.7618332,1.89,1.11,md,6,193,0.01322,0.01,nc,nc73831466,2023-01-13T06:04:15.895Z,"3km W of Cobb, CA",earthquake,0.74,1.07,0.26,9,automatic,nc,nc
 2023-01-13T04:59:45.690Z,38.8028336,-122.7806702,2.45,0.99,md,8,80,0.01041,0.01,nc,nc73831461,2023-01-13T05:22:11.596Z,"4km NW of The Geysers, CA",earthquake,0.61,1.15,0.29,8,automatic,nc,nc
@@ -194,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T09:54:20.125Z,65.4651,-144.9847,0,1.7,ml,,,,0.97,ak,ak023k04ol8,2023-01-12T09:56:33.306Z,"14 km SW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-12T09:53:46.480Z,37.5466652,-121.6586685,-0.23,1.2,md,11,110,0.1049,0.12,nc,nc73831251,2023-01-12T10:48:12.049Z,"18km SSE of Livermore, CA",earthquake,0.4,7.52,0.18,11,automatic,nc,nc
 2023-01-12T09:47:53.500Z,37.5806667,-121.6953333,-0.23,1.16,md,19,77,0.08874,0.08,nc,nc73831246,2023-01-12T11:41:14.389Z,"13km SSE of Livermore, CA",earthquake,0.19,0.58,0.172,15,reviewed,nc,nc
-2023-01-12T09:34:54.530Z,19.1415004730225,-155.364669799805,27.7999992370605,1.83000004,md,40,184,,0.150000006,hv,hv73302047,2023-01-12T09:37:59.480Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.67,0.970000029,1.05999994,15,automatic,hv,hv
-2023-01-12T09:30:51.820Z,51.8691666666667,-177.9125,4.43,0.98,ml,4,188,,0.11,av,av91084213,2023-01-13T01:52:55.710Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.51,1.92,0.237373154706545,4,reviewed,av,av
