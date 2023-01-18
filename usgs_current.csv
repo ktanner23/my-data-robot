@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-18T17:36:22.040Z,62.1124,-149.4459,42.8,1.7,ml,,,,0.68,ak,ak023u20dng,2023-01-18T17:38:08.173Z,"21 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-18T17:23:09.180Z,38.7745018,-122.7281647,1.71,1.12,md,8,95,0.01099,0.02,nc,nc73833616,2023-01-18T17:37:10.534Z,"2km E of The Geysers, CA",earthquake,0.51,0.66,0.23,7,automatic,nc,nc
+2023-01-18T17:23:09.180Z,38.7745018,-122.7281647,1.71,1.12,md,8,95,0.01099,0.02,nc,nc73833616,2023-01-18T17:42:12.558Z,"2km E of The Geysers, CA",earthquake,0.51,0.66,0.23,7,automatic,nc,nc
 2023-01-18T16:27:48.105Z,-11.1287,111.6908,10,5.1,mww,71,91,3.397,0.77,us,us7000j59q,2023-01-18T16:45:57.040Z,"south of Java, Indonesia",earthquake,7.8,1.884,0.068,21,reviewed,us,us
 2023-01-18T16:25:06.170Z,58.2626,-154.707,39.7,0.7,ml,,,,0.88,ak,ak023u1cjy1,2023-01-18T16:26:36.278Z,"78 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-01-18T16:19:31.246Z,61.9808,-150.7888,44.3,2,ml,,,,0.46,ak,ak023u1bbl0,2023-01-18T16:21:20.146Z,"31 km E of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T08:51:48.170Z,19.3221664428711,-155.241333007812,0.829999983310699,1.84,ml,11,227,,0.230000004,hv,hv73306502,2023-01-18T08:57:25.250Z,"13 km S of Volcano, Hawaii",earthquake,1.69,1.42999995,3.48,4,automatic,hv,hv
 2023-01-18T08:49:29.118Z,63.8341,-148.6239,96.6,1.6,ml,,,,0.42,ak,ak023twqa27,2023-01-18T08:51:30.147Z,"17 km E of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-18T08:44:45.920Z,17.9871666666667,-66.8393333333333,17.53,2.22,md,6,183,0.03986,0.08,pr,pr71393138,2023-01-18T09:01:35.230Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.48,0.74,0.275513677194055,7,reviewed,pr,pr
-2023-01-18T08:29:54.020Z,35.6908333,-117.5068333,14.81,1.24,ml,14,174,0.1448,0.17,ci,ci40403576,2023-01-18T08:33:23.115Z,"13km SW of Searles Valley, CA",earthquake,0.48,0.74,0.148,12,automatic,ci,ci
+2023-01-18T08:29:54.300Z,35.678,-117.5231667,10.81,1.22,ml,25,97,0.1166,0.13,ci,ci40403576,2023-01-18T17:46:40.112Z,"15km SW of Searles Valley, CA",earthquake,0.19,0.4,0.121,13,reviewed,ci,ci
 2023-01-18T08:26:03.770Z,35.6886667,-117.5471667,8.5,1.5,ml,27,68,0.1014,0.16,ci,ci40403568,2023-01-18T17:36:36.178Z,"14km ENE of Ridgecrest, CA",earthquake,0.22,0.71,0.129,19,reviewed,ci,ci
 2023-01-18T08:21:08.729Z,61.8084,-151.5287,75.3,1.7,ml,,,,0.3,ak,ak023twk8fs,2023-01-18T08:23:00.428Z,"21 km SSW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-18T08:01:26.730Z,2.6819,127.135,50.817,5.5,mb,98,31,1.911,1.05,us,us7000j56g,2023-01-18T10:04:52.040Z,"143 km NW of Tobelo, Indonesia",earthquake,6.75,5.112,0.048,149,reviewed,us,us
@@ -129,6 +129,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T01:47:45.500Z,19.1669998168945,-155.480834960938,33.2799987792969,1.85000002,md,35,101,,0.119999997,hv,hv73306312,2023-01-18T01:51:05.670Z,"Island of Hawaii, Hawaii",earthquake,0.75,0.910000026,1.40999997,6,automatic,hv,hv
 2023-01-18T01:31:01.396Z,62.3702,-149.7315,8,1.8,ml,,,,0.55,ak,ak023tsgbsr,2023-01-18T01:32:38.376Z,"20 km ENE of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-18T01:29:11.880Z,19.4188327789307,-155.276840209961,5.82000017166138,1.7,ml,25,38,,0.289999992,hv,hv73306292,2023-01-18T01:34:44.170Z,"5 km WSW of Volcano, Hawaii",earthquake,0.43,0.699999988,0.32,4,automatic,hv,hv
+2023-01-18T01:21:52.353Z,39.2918,-120.1563,9,0,ml,5,130.9,0.088,0.0839,nn,nn00854965,2023-01-18T17:48:10.005Z,"4 km SSE of Truckee, California",earthquake,,2.7,0.4,3,reviewed,nn,nn
+2023-01-18T01:19:20.714Z,39.2929,-120.1571,9.1,0.2,ml,7,130.79,0.089,0.0878,nn,nn00854964,2023-01-18T17:45:02.483Z,"4 km SSE of Truckee, California",earthquake,,1.8,0.8,4,reviewed,nn,nn
 2023-01-18T00:57:57.220Z,38.8353348,-122.7703323,9.83,0.82,md,9,153,0.004868,0.08,nc,nc73833376,2023-01-18T00:59:35.297Z,"4km WNW of Cobb, CA",earthquake,1.16,0.66,0.45,12,automatic,nc,nc
 2023-01-18T00:56:58.140Z,17.9795,-66.7983333333333,12.15,2.19,md,7,202,0.07715,0.13,pr,pr71393098,2023-01-18T01:52:03.170Z,"2 km SE of Indios, Puerto Rico",earthquake,0.67,0.96,0.157693588379308,5,reviewed,pr,pr
 2023-01-18T00:56:36.983Z,14.2853,123.2696,10,4.6,mb,26,127,9.249,0.66,us,us7000j52g,2023-01-18T04:28:25.442Z,"34 km NE of Mercedes, Philippines",earthquake,7.35,1.887,0.125,19,reviewed,us,us
@@ -190,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T18:18:20.539Z,36.25,-95.80183333,0,1.42,ml,56,129,0.3392334308,0.5,ok,ok2023beqh,2023-01-18T14:27:14.126Z,"5 km ESE of Owasso, Oklahoma",quarry blast,,0.5,0.22,24,reviewed,ok,ok
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"Island of Hawaii, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
 2023-01-17T18:05:42.309Z,-24.614,-70.0847,60.489,4.4,mb,44,70,0.291,0.9,us,us7000j4y9,2023-01-17T18:35:52.040Z,"Antofagasta, Chile",earthquake,7.24,6.497,0.096,34,reviewed,us,us
-2023-01-17T17:45:23.780Z,38.8243332,-122.8061676,1.49,0.71,md,12,121,0.003192,0.01,nc,nc73833241,2023-01-17T18:14:13.166Z,"7km NW of The Geysers, CA",earthquake,0.33,0.69,0.31,15,automatic,nc,nc
-2023-01-17T17:43:14.430Z,35.7601667,-117.566,8.28,1.09,ml,15,84,0.06109,0.14,ci,ci40403352,2023-01-17T23:06:49.709Z,"15km W of Searles Valley, CA",earthquake,0.27,0.71,0.11,10,reviewed,ci,ci
-2023-01-17T17:43:06.181Z,36.5129,52.8992,10,4.5,mb,50,153,4.408,0.4,us,us7000j4y6,2023-01-18T06:34:26.301Z,"northern Iran",earthquake,9.97,1.939,0.087,43,reviewed,us,us
