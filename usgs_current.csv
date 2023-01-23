@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-01-23T08:36:02.040Z,38.8363342,-122.7900009,1.9,1.02,md,12,65,0.002089,0.01,nc,nc73836196,2023-01-23T08:37:38.232Z,"6km WNW of Cobb, CA",earthquake,0.4,0.75,0.33,15,automatic,nc,nc
-2023-01-23T08:27:39.440Z,38.7876663,-122.7659988,2.17,0.69,md,7,157,0.01384,0,nc,nc73836191,2023-01-23T08:29:13.154Z,"1km NW of The Geysers, CA",earthquake,0.5,1.33,0.11,8,automatic,nc,nc
+2023-01-23T08:27:39.440Z,38.7876663,-122.7659988,2.17,0.69,md,7,157,0.01384,0,nc,nc73836191,2023-01-23T08:44:13.114Z,"1km NW of The Geysers, CA",earthquake,0.5,1.33,0.11,8,automatic,nc,nc
 2023-01-23T08:10:37.610Z,57.7218,-153.1781,52.7,3,ml,,,,0.43,ak,ak0231266o9d,2023-01-23T08:14:23.584Z,"23 km SW of Port Lions, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-23T08:09:04.269Z,-23.0448,171.6843,10,4.9,mb,48,57,3.933,0.46,us,us7000j6bp,2023-01-23T08:34:56.040Z,"southeast of the Loyalty Islands",earthquake,6.48,1.892,0.089,40,reviewed,us,us
 2023-01-23T06:40:16.130Z,19.1056671142578,-155.414001464844,39.8499984741211,1.75999999,md,11,194,,0.0700000003,hv,hv73310642,2023-01-23T06:43:33.140Z,"12 km SSE of Pāhala, Hawaii",earthquake,1.21,1.84000003,1.83000004,4,automatic,hv,hv
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T17:27:33.930Z,38.7973328,-122.7448349,2.08,0.93,md,8,183,0.01544,0.02,nc,nc73835946,2023-01-22T17:45:12.844Z,"2km NNE of The Geysers, CA",earthquake,0.53,1.39,0.2,7,automatic,nc,nc
 2023-01-22T17:19:27.850Z,60.5357,-147.687,16.8,1.7,ml,,,,0.51,ak,ak02310o24v1,2023-01-22T17:22:38.780Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-22T16:59:50.810Z,37.3801651,-122.2271652,6.81,2.38,md,36,59,0.02525,0.07,nc,nc73835941,2023-01-23T05:08:47.275Z,"1km ESE of Portola Valley, CA",earthquake,0.18,0.44,0.15,37,automatic,nc,nc
-2023-01-22T16:57:12.253Z,-7.3974,128.475,162.532,4.6,mb,38,61,2.858,0.54,us,us7000j692,2023-01-22T17:13:34.040Z,"204 km NE of Lospalos, Timor Leste",earthquake,8.15,5.862,0.085,42,reviewed,us,us
+2023-01-22T16:57:12.253Z,-7.3974,128.475,162.532,4.6,mb,38,61,2.858,0.54,us,us7000j692,2023-01-22T17:13:34.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.15,5.862,0.085,42,reviewed,us,us
 2023-01-22T16:56:54.850Z,40.3235016,-124.8131638,8.86,2.83,md,16,244,0.4043,0.15,nc,nc73835936,2023-01-22T17:38:13.793Z,"45km W of Petrolia, CA",earthquake,2.29,3.1,0.08,9,automatic,nc,nc
 2023-01-22T16:54:05.060Z,19.0534992218018,-155.397003173828,35.7599983215332,2.18000007,md,44,206,,0.150000006,hv,hv73310287,2023-01-22T16:57:20.380Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.59,1.07000005,1.11000001,16,automatic,hv,hv
 2023-01-22T16:49:56.750Z,36.2746658,-120.854332,6.27,1.89,md,22,127,0.07266,0.13,nc,nc73835926,2023-01-22T17:23:17.698Z,"22km NE of San Lucas, CA",earthquake,0.31,0.71,0.24,17,automatic,nc,nc
@@ -157,4 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T08:57:18.130Z,38.8323326,-122.8174973,1.65,0.67,md,10,83,0.01064,0.01,nc,nc73835681,2023-01-22T09:16:13.755Z,"8km NW of The Geysers, CA",earthquake,0.35,0.73,0.45,11,automatic,nc,nc
 2023-01-22T08:53:29.210Z,36.3648333333333,-89.4885,6.76,2.56,md,55,40,0.05634,0.1,nm,nm60507521,2023-01-23T05:20:38.875Z,"southeastern Missouri",earthquake,0.21,0.46,0.135157901789986,39,reviewed,nm,nm
 2023-01-22T08:52:10.530Z,17.9505,-66.9586666666667,9.56,2.59,md,12,206,0.05228,0.11,pr,pr71393833,2023-01-22T09:38:53.360Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.45,0.0373703767760363,7,reviewed,pr,pr
-2023-01-22T08:46:38.440Z,38.8339996,-122.8763351,1.93,1.46,md,22,97,0.006978,0.03,nc,nc73835671,2023-01-22T09:20:12.650Z,"12km WNW of The Geysers, CA",earthquake,0.25,0.36,0.17,21,automatic,nc,nc
