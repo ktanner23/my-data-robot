@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-24T04:40:25.420Z,35.6788333,-117.5366667,9.41,1.35,ml,14,148,0.1103,0.17,ci,ci40405200,2023-01-24T04:43:53.951Z,"14km ENE of Ridgecrest, CA",earthquake,0.43,1.11,0.153,16,automatic,ci,ci
+2023-01-24T04:39:27.857Z,60.244,-150.9873,55.3,2.4,ml,,,,0.41,ak,ak02313rihch,2023-01-24T04:41:48.055Z,"18 km ESE of Kasilof, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-24T04:19:41.430Z,18.0026666666667,-66.8861666666667,16.56,2.34,md,4,165,0.02824,0.06,pr,pr71394178,2023-01-24T04:41:11.840Z,"1 km SW of Palomas, Puerto Rico",earthquake,2.96,1.17,0.112881287974235,4,reviewed,pr,pr
 2023-01-24T04:13:59.639Z,2.7294,127.1736,35,4.4,mb,17,185,1.954,0.92,us,us6000jiui,2023-01-24T04:32:11.040Z,"144 km NW of Tobelo, Indonesia",earthquake,12.58,1.975,0.161,11,reviewed,us,us
-2023-01-24T04:10:02.790Z,19.0418338775635,-155.40983581543,32.9300003051758,2.21000004,md,42,240,,0.129999995,hv,hv73311227,2023-01-24T04:13:12.960Z,"18 km E of Naalehu, Hawaii",earthquake,0.56,1.25999999,1.01999998,12,automatic,hv,hv
+2023-01-24T04:10:02.790Z,19.0418338775635,-155.40983581543,32.9300003051758,2.21000004,md,42,240,,0.129999995,hv,hv73311227,2023-01-24T04:13:12.960Z,"Hawaii region, Hawaii",earthquake,0.56,1.25999999,1.01999998,12,automatic,hv,hv
 2023-01-24T04:09:45.199Z,62.3044,-148.5229,33,1.6,ml,,,,0.41,ak,ak02313rc37b,2023-01-24T04:11:41.730Z,"56 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-24T04:06:17.060Z,35.817,-117.64,3.55,1.45,ml,17,95,0.03456,0.14,ci,ci40405192,2023-01-24T04:10:00.065Z,"22km WNW of Searles Valley, CA",earthquake,0.32,0.64,0.113,18,automatic,ci,ci
 2023-01-24T04:02:55.000Z,2.7941,127.0488,35,4.7,mb,35,110,2.034,0.92,us,us6000jiud,2023-01-24T04:20:01.040Z,"159 km NW of Tobelo, Indonesia",earthquake,10.01,1.931,0.106,27,reviewed,us,us
@@ -22,7 +25,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T01:10:23.957Z,2.7248,126.92,38.147,5.2,mb,42,97,1.991,0.76,us,us6000jiti,2023-01-24T01:23:34.040Z,"163 km NW of Tobelo, Indonesia",earthquake,8.74,5.792,0.089,42,reviewed,us,us
 2023-01-24T01:09:22.128Z,64.0341,-148.7947,0.1,1.6,ml,,,,0.89,ak,ak02313pjqlw,2023-01-24T01:11:20.435Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-24T01:02:23.052Z,63.2913,-150.3294,16.5,1.6,ml,,,,0.25,ak,ak02313pi8o1,2023-01-24T01:04:57.058Z,"69 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-24T01:00:29.030Z,38.7815018,-122.7235031,1.73,1.49,md,7,161,0.01048,0.02,nc,nc73836481,2023-01-24T01:53:15.088Z,"3km WNW of Anderson Springs, CA",earthquake,0.52,0.9,0.09,8,automatic,nc,nc
+2023-01-24T01:00:29.030Z,38.7815018,-122.7235031,1.73,1.49,md,7,161,0.01048,0.02,nc,nc73836481,2023-01-24T04:50:10.102Z,"3km WNW of Anderson Springs, CA",earthquake,0.52,0.9,0.09,8,automatic,nc,nc
+2023-01-24T00:53:35.250Z,44.79116666666667,-122.6625,-0.44,2.05,ml,10,74,0.02709,0.28,uw,uw61894527,2023-01-24T04:43:40.930Z,"3 km W of Mehama, Oregon",explosion,0.54,31.61,0.0862531727924023,5,reviewed,uw,uw
 2023-01-24T00:46:24.120Z,18.2983333333333,-65.7406666666667,127.66,3.36,md,14,161,0.08462,0.2,pr,pr71394148,2023-01-24T03:01:55.553Z,"5 km SSW of Ramos, Puerto Rico",earthquake,1.97,0.63,0.0465164991441411,15,reviewed,pr,pr
 2023-01-24T00:44:05.360Z,38.8231659,-122.7941666,2.52,1.46,md,29,33,0.01243,0.03,nc,nc73836476,2023-01-24T04:34:12.006Z,"6km NNW of The Geysers, CA",earthquake,0.2,0.4,0.24,30,automatic,nc,nc
 2023-01-24T00:40:47.781Z,38.1702,-117.823,8.4,1.8,ml,9,89.3,0.112,0.2276,nn,nn00855175,2023-01-24T00:50:48.260Z,"34 km SE of Mina, Nevada",earthquake,,2.4,0.31,5,reviewed,nn,nn
@@ -137,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T08:10:37.610Z,57.7218,-153.1781,52.7,3,ml,,,,0.43,ak,ak0231266o9d,2023-01-23T14:52:54.040Z,"23 km SW of Port Lions, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-23T08:10:36.960Z,44.7816667,-110.7876667,5.02,0.58,md,10,185,0.04524,0.07,uu,uu60530092,2023-01-23T14:37:22.960Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.79,1.16,0.254,6,reviewed,uu,uu
 2023-01-23T08:09:04.269Z,-23.0448,171.6843,10,4.9,mb,48,57,3.933,0.46,us,us7000j6bp,2023-01-23T08:34:56.040Z,"southeast of the Loyalty Islands",earthquake,6.48,1.892,0.089,40,reviewed,us,us
-2023-01-23T08:06:18.497Z,39.2607,-120.1161,9.7,0.4,ml,5,111.7,0.054,0.0369,nn,nn00855169,2023-01-24T00:13:13.029Z,"4 km NW of Carnelian Bay, California",earthquake,,1.6,0.2,3,reviewed,nn,nn
+2023-01-23T08:06:18.497Z,39.2607,-120.1161,9.7,0.4,ml,5,111.7,0.054,0.0369,nn,nn00855169,2023-01-24T00:13:13.029Z,"Northern California",earthquake,,1.6,0.2,3,reviewed,nn,nn
 2023-01-23T07:54:58.660Z,18.007,-67.1566,7,3.52,md,18,213,0.047,0.12,pr,pr2023023004,2023-01-23T12:24:37.886Z,"Puerto Rico",earthquake,0.78,0.28,0.11,15,reviewed,pr,pr
 2023-01-23T07:13:35.180Z,40.49,-111.9681667,9.04,1.02,md,18,57,0.03687,0.14,uu,uu60530087,2023-01-23T14:49:15.240Z,"Utah",earthquake,0.36,0.82,0.372,9,reviewed,uu,uu
 2023-01-23T07:11:56.782Z,39.2612,-120.1168,9.7,0.1,ml,5,112.33,0.054,0.0179,nn,nn00855168,2023-01-24T00:03:56.612Z,"4 km NW of Carnelian Bay, California",earthquake,,2,0.31,3,reviewed,nn,nn
@@ -159,4 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T05:04:47.724Z,62.9504,-148.587,2.1,2,ml,,,,0.89,ak,ak023124d3xg,2023-01-23T05:07:22.476Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-23T04:58:20.230Z,46.193333333333335,-119.563,5.09,0.78,ml,10,249,0.08811,0.07,uw,uw61894442,2023-01-23T14:55:47.950Z,"Washington",earthquake,0.46,0.78,0.18993306366710216,8,reviewed,uw,uw
 2023-01-23T04:56:05.850Z,18.99049949646,-155.432662963867,33.4199981689453,1.82000005,md,29,259,,0.129999995,hv,hv73310557,2023-01-23T04:59:26.700Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.9,1.79999995,1.91999996,4,automatic,hv,hv
-2023-01-23T04:44:34.556Z,62.2465,-150.7209,65.6,1.8,ml,,,,0.18,ak,ak02312407y7,2023-01-23T04:46:28.410Z,"26 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
