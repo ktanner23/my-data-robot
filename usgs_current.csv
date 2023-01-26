@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-26T06:36:10.500Z,33.4078331,-117.043335,7.76,1.26,ml,35,46,0.02106,0.21,ci,ci40162031,2023-01-26T06:38:26.691Z,"6km NNE of Pala, CA",earthquake,0.28,0.77,0.175,9,automatic,ci,ci
+2023-01-26T06:36:10.580Z,33.4105,-117.0398333,6.81,1.09,ml,37,46,0.02242,0.24,ci,ci40162031,2023-01-26T06:39:49.658Z,"6km NE of Pala, CA",earthquake,0.28,0.7,0.177,23,automatic,ci,ci
 2023-01-26T06:09:05.387Z,62.747,-150.5972,85.3,1.6,ml,,,,0.89,ak,ak023173lkbu,2023-01-26T06:11:05.464Z,"29 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-26T06:03:07.500Z,19.1508331298828,-155.437835693359,32.2099990844727,1.97000003,md,39,167,,0.100000001,hv,hv73313117,2023-01-26T06:06:13.490Z,"7 km SE of Pāhala, Hawaii",earthquake,0.73,1.09000003,0.49000001,9,automatic,hv,hv
 2023-01-26T05:45:13.973Z,31.677,-104.293,5,2.5,mb_lg,18,113,0.308,0.33,us,us6000jjc5,2023-01-26T06:13:46.040Z,"55 km S of Whites City, New Mexico",earthquake,1.76,1.943,0.208,12,reviewed,us,us
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
 2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T05:50:08.001Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-26T05:29:33.596Z,"Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T06:35:11.798Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T06:45:29.779Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.635Z,37.2144,-117.3541,1.7,1,ml,12,168.89,0.219,0.1891,nn,nn00855246,2023-01-25T22:22:07.306Z,"55 km S of Goldfield, Nevada",earthquake,,4,0.51,8,reviewed,nn,nn
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T06:53:00.330Z,63.2771,-150.7202,135.4,1.8,ml,,,,0.37,ak,ak02315gbmy9,2023-01-25T06:55:08.716Z,"58 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-25T06:52:20.445Z,60.6714,-149.3079,8.9,1.5,ml,,,,0.62,ak,ak02315gbgsc,2023-01-25T06:53:56.593Z,"20 km N of Moose Pass, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-25T06:46:52.520Z,18.5828,-66.7998,13,3.63,md,20,207,0.2406,0.22,pr,pr2023025001,2023-01-25T07:08:38.935Z,"11 km NNE of Hatillo, Puerto Rico",earthquake,0.69,0.7,0.15,18,reviewed,pr,pr
-2023-01-25T06:38:44.240Z,35.9575,-117.7035,3.48,0.87,ml,13,132,0.08902,0.1,ci,ci40161239,2023-01-25T14:36:03.097Z,"18km E of Little Lake, CA",earthquake,0.33,0.83,0.13,10,reviewed,ci,ci
