@@ -26,8 +26,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T19:24:01.640Z,33.434,-116.5303333,8.36,0.73,ml,11,114,0.1232,0.3,ci,ci40412296,2023-02-08T19:27:31.906Z,"19km SE of Anza, CA",earthquake,1.17,3.23,0.138,12,automatic,ci,ci
 2023-02-08T19:17:25.203Z,56.8631,-157.8344,5.9,1.4,ml,,,,1.04,ak,ak0231stdh2i,2023-02-08T19:19:45.839Z,"49 km E of Port Heiden, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-02-08T19:17:10.100Z,38.8144989,-122.7858353,1.44,1.09,md,21,53,0.00421,0.02,nc,nc73843641,2023-02-08T20:02:14.379Z,"5km NNW of The Geysers, CA",earthquake,0.2,0.33,0.18,22,automatic,nc,nc
-2023-02-08T19:04:55.760Z,38.7931671,-122.748497,2.15,1.25,md,19,90,0.0115,0.02,nc,nc73843636,2023-02-08T19:41:18.269Z,"2km NNE of The Geysers, CA",earthquake,0.25,0.52,0.2,19,automatic,nc,nc
-2023-02-08T18:58:53.997Z,34.1531,36.2324,10,4.2,mb,41,161,2.527,0.7,us,us6000jmjy,2023-02-08T21:30:42.340Z,"16 km N of Baalbek, Lebanon",earthquake,8.86,1.953,0.128,17,reviewed,us,us
+2023-02-08T19:04:55.760Z,38.7931671,-122.748497,2.15,1.25,md,19,90,0.0115,0.02,nc,nc73843636,2023-02-08T21:38:10.940Z,"2km NNE of The Geysers, CA",earthquake,0.25,0.52,0.2,19,automatic,nc,nc
+2023-02-08T18:58:53.997Z,34.1531,36.2324,10,4.2,mb,41,161,2.527,0.7,us,us6000jmjy,2023-02-08T21:35:55.381Z,"16 km N of Baalbek, Lebanon",earthquake,8.86,1.953,0.128,17,reviewed,us,us
 2023-02-08T18:58:08.310Z,35.2643333,-119.0665,18.9,1.96,ml,40,37,0.2514,0.22,ci,ci40412288,2023-02-08T19:10:24.756Z,"11km SSW of Bakersfield, CA",earthquake,0.32,0.89,0.157,25,automatic,ci,ci
 2023-02-08T18:53:36.254Z,63.3267,-145.4157,5.4,1.5,ml,,,,0.71,ak,ak0231sszrw9,2023-02-08T18:55:34.018Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-08T18:46:02.813Z,58.2797,-155.0153,0,1.1,ml,,,,0.37,ak,ak0231ssy7ax,2023-02-08T18:48:01.034Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T07:24:37.960Z,44.7963333,-110.9693333,9.23,1.51,ml,17,118,0.04535,0.12,uu,uu60530521,2023-02-08T16:44:01.620Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.45,0.69,0.154,2,reviewed,uu,uu
 2023-02-08T07:21:47.520Z,34.0616667,-118.9363333,3.21,1.12,ml,22,135,0.02944,0.22,ci,ci40412168,2023-02-08T17:23:26.818Z,"13km WNW of Malibu, CA",earthquake,0.5,0.35,0.152,9,reviewed,ci,ci
 2023-02-08T07:11:15.770Z,18.161,-67.989,93.77,3.43,md,11,324,0.533,0.18,pr,pr71395658,2023-02-08T07:44:12.220Z,"63 km SE of Punta Cana, Dominican Republic",earthquake,1.95,1.08,0.0932898658965113,6,reviewed,pr,pr
-2023-02-08T06:53:50.030Z,19.2609996795654,-155.413497924805,32.2799987792969,2.83,ml,45,120,,0.129999995,hv,hv73321177,2023-02-08T08:28:03.040Z,"9 km NE of Pāhala, Hawaii",earthquake,0.49,0.589999974,3.11,28,automatic,hv,hv
+2023-02-08T06:53:50.040Z,19.2586666666667,-155.412666666667,32.46,3.07,ml,50,61,,0.13,hv,hv73321177,2023-02-08T21:38:40.524Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.5,0.178788544446467,35,reviewed,hv,hv
 2023-02-08T06:39:06.830Z,38.7999992,-122.8188324,10.91,0.77,md,6,213,0.01199,0.02,nc,nc73843411,2023-02-08T07:41:32.700Z,"6km WNW of The Geysers, CA",earthquake,3.03,7.56,0.4,8,automatic,nc,nc
 2023-02-08T06:39:01.947Z,42.9888,145.3592,53.335,4.4,mb,61,134,1.897,0.41,us,us6000jmfs,2023-02-08T08:02:42.040Z,"41 km SSW of Nemuro, Japan",earthquake,8.87,7.583,0.072,56,reviewed,us,us
 2023-02-08T06:27:07.090Z,38.7911682,-122.7210007,3.44,0.78,md,7,96,0.01462,0.01,nc,nc73843406,2023-02-08T07:29:45.627Z,"3km NW of Anderson Springs, CA",earthquake,0.45,2.83,0.05,8,automatic,nc,nc
@@ -218,6 +218,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T02:22:24.113Z,56.6562,-158.1054,85.5,2.2,ml,,,,0.32,ak,ak0231sja62z,2023-02-08T02:24:14.947Z,"44 km NNE of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-08T02:16:22.624Z,31.60871261,-103.9627479,7.532653809,2.591413836,mlv,17,60,0.005565208639,0.1,tx,tx2023crpp,2023-02-08T21:20:20.687Z,"36 km WSW of Mentone, Texas",earthquake,0.3561551938,0.3896890552,0.2357714796,12,reviewed,tx,tx
 2023-02-08T02:12:32.830Z,34.4945,-118.3536667,7.63,0.82,ml,20,102,0.07088,0.16,ci,ci40412088,2023-02-08T16:00:42.170Z,"3km W of Agua Dulce, CA",earthquake,0.31,0.76,0.105,5,reviewed,ci,ci
+2023-02-08T02:10:06.195Z,40.1245,-119.7476,15.5,0.9,ml,3,183.74,0.047,0.046,nn,nn00855849,2023-02-08T21:31:39.391Z,"23 km NNW of Sutcliffe, Nevada",earthquake,,4,0,1,reviewed,nn,nn
 2023-02-08T02:08:21.920Z,37.6266667,-118.8315,2.59,0.13,md,6,163,0.005042,0.01,nc,nc73843281,2023-02-08T20:46:11.614Z,"13km E of Mammoth Lakes, CA",earthquake,0.48,1.53,0.104,7,reviewed,nc,nc
 2023-02-08T02:07:32.280Z,38.8354988,-122.8170013,1.65,0.7,md,10,63,0.01324,0.01,nc,nc73843276,2023-02-08T04:02:28.822Z,"8km W of Cobb, CA",earthquake,0.29,0.99,0.46,13,automatic,nc,nc
 2023-02-08T02:06:58.352Z,66.2668,-154.2653,4.2,2.8,ml,,,,0.64,ak,ak0231sj6t9x,2023-02-08T04:12:24.040Z,"24 km N of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -276,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T21:43:53.720Z,33.4021667,-116.382,3.32,1.28,ml,40,37,0.07242,0.23,ci,ci40411992,2023-02-07T22:49:53.040Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.81,0.202,27,reviewed,ci,ci
 2023-02-07T21:42:24.824Z,31.60733553,-103.962204,9.229382324,2,ml,34,48,0.006588193684,0.1,tx,tx2023crgp,2023-02-08T21:06:48.825Z,"36 km WSW of Mentone, Texas",earthquake,0.5041426202,0.4999522774,0,6,reviewed,tx,tx
 2023-02-07T21:42:19.270Z,44.7933333,-110.9605,8.06,0.58,md,12,162,0.04705,0.16,uu,uu60530426,2023-02-07T22:54:38.270Z,"18 km E of Hebgen Lake Estates, Montana",earthquake,0.58,0.78,0.44,7,reviewed,uu,uu
-2023-02-07T21:32:40.611Z,31.65420871,-104.3008023,6.851391602,2.1,ml,16,58,0.03522026313,0.1,tx,tx2023crgg,2023-02-08T19:15:26.004Z,"58 km S of Whites City, New Mexico",earthquake,0.7878925163,0.8976761876,0.1,17,reviewed,tx,tx
-2023-02-07T21:31:36.634Z,7.2015,-76.9568,24.202,4.9,mb,61,101,1.738,1.01,us,us6000jmce,2023-02-08T19:55:30.669Z,"28 km NNW of Murindó, Colombia",earthquake,4.52,6.015,0.051,119,reviewed,us,us
