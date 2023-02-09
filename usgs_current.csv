@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T20:46:45.098Z,62.6477,-149.6975,6.6,2.7,ml,,,,0.69,ak,ak0231uhoi9p,2023-02-09T20:48:32.720Z,"30 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-09T20:32:50.200Z,38.7944984,-122.76017,2.62,1.33,md,17,68,0.006128,0.02,nc,nc73844201,2023-02-09T21:13:16.704Z,"2km N of The Geysers, CA",earthquake,0.26,0.59,0.13,16,automatic,nc,nc
 2023-02-09T20:29:55.520Z,38.7784996,-122.7566681,1.43,0.75,md,8,100,0.01052,0.01,nc,nc73844196,2023-02-09T21:02:13.633Z,"0km N of The Geysers, CA",earthquake,0.33,0.74,0.2,7,automatic,nc,nc
-2023-02-09T20:24:04.660Z,36.7296677,-121.5808334,-0.04,1.46,md,8,183,0.07889,0.21,nc,nc73844191,2023-02-09T20:51:15.564Z,"8km NE of Salinas, CA",earthquake,1.18,10.62,0.29,4,automatic,nc,nc
+2023-02-09T20:24:04.660Z,36.7296677,-121.5808334,-0.04,1.46,md,8,183,0.07889,0.21,nc,nc73844191,2023-02-09T22:40:10.302Z,"8km NE of Salinas, CA",earthquake,1.18,10.62,0.29,4,automatic,nc,nc
 2023-02-09T19:57:28.820Z,35.901,-117.7473333,7.81,1.27,ml,15,106,0.07478,0.1,ci,ci40412800,2023-02-09T20:59:23.716Z,"15km ESE of Little Lake, CA",earthquake,0.22,0.57,0.159,14,reviewed,ci,ci
 2023-02-09T19:52:03.990Z,33.1838333,-115.6136667,1.47,1.73,ml,26,96,0.006558,0.18,ci,ci40412792,2023-02-09T22:00:12.889Z,"11km SW of Niland, CA",earthquake,0.3,0.2,0.209,34,reviewed,ci,ci
 2023-02-09T19:49:41.580Z,19.0383338928223,-155.421661376953,33.2700004577637,2.66,ml,37,208,,0.140000001,hv,hv73322142,2023-02-09T19:55:14.520Z,"16 km E of Naalehu, Hawaii",earthquake,0.72,1.08000004,0.24,7,automatic,hv,hv
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T16:25:28.873Z,62.9961,-149.365,62.4,1.9,ml,,,,0.84,ak,ak0231uf68k7,2023-02-09T16:27:41.425Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-09T16:25:27.800Z,-24.2278,-67.4226,211.298,3.9,ml,24,84,1.447,1.09,us,us6000jmrg,2023-02-09T19:05:36.040Z,"112 km W of San Antonio de los Cobres, Argentina",earthquake,8.32,10.79,0.071,26,reviewed,us,us
 2023-02-09T16:22:42.170Z,36.381,-117.8491667,2.44,1.8,ml,23,82,0.1954,0.17,ci,ci40412728,2023-02-09T21:12:40.209Z,"18km NE of Olancha, CA",earthquake,0.34,1.04,0.206,15,reviewed,ci,ci
-2023-02-09T16:19:07.943Z,58.2222,-155.1372,3.1,0.1,ml,,,,0.16,ak,ak0231uf4wne,2023-02-09T16:20:37.635Z,"83 km NNW of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-02-09T16:19:07.943Z,58.2222,-155.1372,3.1,0.1,ml,,,,0.16,ak,ak0231uf4wne,2023-02-09T16:20:37.635Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
 2023-02-09T16:06:33.828Z,31.9318,92.9334,15.14,4.1,mb,58,69,6.624,0.48,us,us6000jmrc,2023-02-09T18:28:46.040Z,"97 km ENE of Nagqu, China",earthquake,4.25,4.541,0.088,42,reviewed,us,us
 2023-02-09T16:00:56.780Z,19.2208333333333,-155.213166666667,44.35,2.38,md,27,214,,0.16,hv,hv73322032,2023-02-09T20:59:27.030Z,"24 km S of Volcano, Hawaii",earthquake,0.98,0.55,0.274036821603731,11,reviewed,hv,hv
 2023-02-09T16:00:21.980Z,35.5156667,-118.1465,7.86,0.54,ml,10,89,0.02152,0.11,ci,ci40412712,2023-02-09T20:57:49.968Z,"32km ESE of Lake Isabella, CA",earthquake,0.27,0.52,0.119,6,reviewed,ci,ci
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T23:04:49.160Z,-20.7172,-68.8986,103.656,4.1,mb,19,95,0.639,0.78,us,us6000jmlp,2023-02-09T00:01:14.040Z,"Chile-Bolivia border region",earthquake,6.13,7.187,0.198,7,reviewed,us,us
 2023-02-08T23:04:47.290Z,49.08083333333333,-122.14233333333334,-0.68,1.2,ml,8,259,0.09076,0.3,uw,uw61896782,2023-02-09T05:22:16.410Z,"8 km ENE of Abbotsford, Canada",explosion,1.69,31.61,0.2603891540026673,5,reviewed,uw,uw
 2023-02-08T22:48:46.073Z,63.32,-144.9231,3.4,1.2,ml,,,,0.43,ak,ak0231svcggz,2023-02-08T22:51:12.686Z,"39 km SSW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-08T22:36:50.425Z,38.2174,38.2049,16.084,4,mb,29,91,1.309,0.6,us,us6000jmll,2023-02-08T22:47:15.040Z,"9 km SSW of Yeşilyurt, Turkey",earthquake,4.93,5.752,0.183,8,reviewed,us,us
