@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T19:34:25.720Z,38.8349991,-122.7914963,1.8,1.26,md,19,63,0.003522,0.02,nc,nc73845866,2023-02-13T19:35:59.470Z,"6km WNW of Cobb, CA",earthquake,0.22,0.39,0.13,19,automatic,nc,nc
 2023-02-13T19:31:58.530Z,19.2228336334229,-155.382171630859,32.2999992370605,2.43,ml,34,154,,0.140000001,hv,hv73323897,2023-02-13T19:37:29.080Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.55,0.769999981,0.9,3,automatic,hv,hv
 2023-02-13T19:25:51.224Z,63.2503,-150.6654,128.5,2,ml,,,,0.36,ak,ak0232133z2q,2023-02-13T19:28:07.545Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-13T19:23:13.890Z,38.8356667,-122.7893295,1.91,1.23,md,19,72,0.002851,0.03,nc,nc73845861,2023-02-13T19:24:49.341Z,"6km WNW of Cobb, CA",earthquake,0.23,0.42,0.21,19,automatic,nc,nc
+2023-02-13T19:23:13.890Z,38.8356667,-122.7893295,1.91,1.23,md,19,72,0.002851,0.03,nc,nc73845861,2023-02-13T19:58:11.534Z,"6km WNW of Cobb, CA",earthquake,0.23,0.42,0.21,19,automatic,nc,nc
 2023-02-13T19:20:02.550Z,38.8349991,-122.80233,2.05,0.88,md,13,64,0.009961,0.02,nc,nc73845851,2023-02-13T19:38:10.401Z,"7km WNW of Cobb, CA",earthquake,0.29,0.7,0.28,14,automatic,nc,nc
 2023-02-13T19:12:16.092Z,58.693,-154.3131,81.3,1.6,ml,,,,0.69,ak,ak0232131421,2023-02-13T19:15:11.590Z,"87 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-13T19:08:19.860Z,18.1691666666667,-67.3615,6.24,3.05,md,15,137,0.2115,0.39,pr,pr71396208,2023-02-13T19:32:03.040Z,"20 km SW of Stella, Puerto Rico",earthquake,0.74,1.08,0.0959753177153846,8,reviewed,pr,pr
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T15:13:55.450Z,33.5295,-116.7246667,4.41,0.34,ml,15,140,0.03733,0.06,ci,ci40414184,2023-02-13T18:11:51.464Z,"6km WSW of Anza, CA",earthquake,0.18,0.24,0.076,10,reviewed,ci,ci
 2023-02-13T15:08:38.290Z,36.2215,-117.8608333,2.81,1.99,ml,27,66,0.1038,0.17,ci,ci40414168,2023-02-13T19:47:16.395Z,"15km ESE of Olancha, CA",earthquake,0.23,0.85,0.186,26,reviewed,ci,ci
 2023-02-13T14:59:27.734Z,58.246,-155.1305,1.2,1.1,ml,,,,0.17,ak,ak023210c1l1,2023-02-13T15:00:56.428Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2023-02-13T14:58:05.854Z,45.1281,23.1746,10,5,mww,114,25,1.188,0.73,us,us6000jnl6,2023-02-13T19:42:41.227Z,"0 km S of Dobrița, Romania",earthquake,4.97,1.802,0.057,30,reviewed,us,us
+2023-02-13T14:58:05.854Z,45.1281,23.1746,10,5,mww,114,25,1.188,0.73,us,us6000jnl6,2023-02-13T19:55:48.360Z,"0 km S of Dobrița, Romania",earthquake,4.97,1.802,0.057,30,reviewed,us,us
 2023-02-13T14:47:31.940Z,17.962,-66.7468333333333,10.5,2.71,md,11,163,0.07167,0.1,pr,pr71396183,2023-02-13T15:07:19.370Z,"4 km SW of Tallaboa, Puerto Rico",earthquake,0.43,0.69,0.207519915782661,8,reviewed,pr,pr
 2023-02-13T14:47:28.830Z,46.224833333333336,-119.62933333333334,16.09,0.6900000000000001,ml,9,197,0.04177,0.04,uw,uw61906296,2023-02-13T17:21:57.210Z,"10 km E of Prosser, Washington",earthquake,0.62,0.7,0.08627463985213646,7,reviewed,uw,uw
 2023-02-13T14:30:01.724Z,58.1847,-155.3805,0,1.4,ml,,,,0.84,ak,ak0232105rt8,2023-02-13T14:32:14.699Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -167,6 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T23:35:25.150Z,34.3991667,-118.9866667,27,1.66,ml,30,40,0.09863,0.26,ci,ci40413976,2023-02-12T23:46:14.590Z,"6km W of Fillmore, CA",earthquake,0.44,1.14,0.202,31,automatic,ci,ci
 2023-02-12T23:22:27.486Z,62.8993,-149.8529,64.8,1.4,ml,,,,0.72,ak,ak0231zhxo0s,2023-02-12T23:24:17.918Z,"51 km NNE of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-12T23:09:01.980Z,44.7831667,-110.7016667,4.27,1.66,ml,14,89,0.1061,0.14,uu,uu60531021,2023-02-13T18:06:14.120Z,"21 km S of Mammoth, Wyoming",earthquake,0.4,0.88,0.539,3,reviewed,uu,uu
+2023-02-12T23:05:34.550Z,44.8178333,-110.6583333,4.31,0.55,md,6,279,0.1399,0.06,uu,uu60531016,2023-02-13T19:52:29.470Z,"17 km S of Mammoth, Wyoming",earthquake,4.28,1.28,0.278,4,reviewed,uu,uu
 2023-02-12T23:04:42.130Z,58.179,-155.329833333333,1.91,0.6,ml,8,166,,0.08,av,av91760246,2023-02-13T18:28:35.330Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.45,0.321225020878526,8,reviewed,av,av
 2023-02-12T22:53:27.888Z,60.1293,-152.9077,120.795,3.3,ml,67,59,0.299,0.52,us,us6000jni6,2023-02-13T00:29:03.040Z,"68 km WNW of Happy Valley, Alaska",earthquake,2.08,7.295,0.036,104,reviewed,us,us
 2023-02-12T22:52:59.864Z,38.0276,36.6322,10,4.5,mb,59,99,1.028,0.57,us,us6000jni7,2023-02-13T06:32:10.098Z,"central Turkey",earthquake,4.53,1.855,0.08,46,reviewed,us,us
