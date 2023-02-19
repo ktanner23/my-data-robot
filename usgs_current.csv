@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-19T21:30:17.786Z,63.546,-150.8442,0,1.4,ml,,,,0.48,ak,ak0232b1jx8y,2023-02-19T21:31:57.549Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-19T20:55:44.750Z,17.9301666666667,-66.8401666666667,11.11,2.92,md,13,208,0.05812,0.19,pr,pr71396768,2023-02-19T21:08:29.870Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.72,0.56,0.101044054455469,6,reviewed,pr,pr
 2023-02-19T20:41:30.690Z,33.252,-116.0501667,4.25,1.21,ml,26,63,0.1808,0.36,ci,ci40416512,2023-02-19T20:45:00.233Z,"10km WSW of Salton City, CA",earthquake,0.66,2.49,0.11,25,automatic,ci,ci
 2023-02-19T20:38:48.190Z,38.8348351,-122.7883301,1.4,0.29,md,8,73,0.0039,0.02,nc,nc73848691,2023-02-19T21:08:13.229Z,"6km WNW of Cobb, CA",earthquake,0.5,1.08,0.16,8,automatic,nc,nc
@@ -10,11 +11,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T20:11:26.230Z,33.0375,-116.401,0.35,1.04,ml,23,74,0.06601,0.32,ci,ci40416488,2023-02-19T20:15:05.203Z,"19km ESE of Julian, CA",earthquake,0.59,31.61,0.208,22,automatic,ci,ci
 2023-02-19T20:10:40.248Z,58.2214,-155.1642,10.4,1,ml,,,,0.65,ak,ak0232b0u945,2023-02-19T20:13:17.209Z,"83 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-19T19:51:50.848Z,63.5424,-157.8976,13.9,3.4,ml,,,,0.82,ak,ak0232b0hmmh,2023-02-19T20:54:15.442Z,"96 km SSE of Kaltag, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2023-02-19T19:40:59.170Z,38.8381653,-122.8079987,1.98,0.69,md,7,111,0.01484,0.02,nc,nc73848666,2023-02-19T20:00:14.850Z,"8km WNW of Cobb, CA",earthquake,0.51,1.52,0.45,8,automatic,nc,nc
+2023-02-19T19:40:59.170Z,38.8381653,-122.8079987,1.98,0.69,md,7,111,0.01484,0.02,nc,nc73848666,2023-02-19T21:37:11.387Z,"8km WNW of Cobb, CA",earthquake,0.51,1.52,0.45,8,automatic,nc,nc
 2023-02-19T19:30:23.480Z,38.7716675,-122.7360001,1.22,1.08,md,14,68,0.01157,0.02,nc,nc73848661,2023-02-19T19:48:13.777Z,"2km ESE of The Geysers, CA",earthquake,0.23,0.38,0.25,12,automatic,nc,nc
 2023-02-19T19:21:59.550Z,35.9068333,-117.7348333,3.64,0.92,ml,15,65,0.09647,0.22,ci,ci40416464,2023-02-19T19:25:26.930Z,"16km ESE of Little Lake, CA",earthquake,0.4,1.44,0.167,11,automatic,ci,ci
 2023-02-19T19:18:48.560Z,38.7709999,-122.7481689,0.97,2.35,md,50,34,0.01374,0.07,nc,nc73848656,2023-02-19T21:11:12.255Z,"1km SE of The Geysers, CA",earthquake,0.17,0.25,0.15,57,automatic,nc,nc
-2023-02-19T19:11:09.200Z,38.8349991,-122.8116684,1.78,0.85,md,14,54,0.01165,0.01,nc,nc73848651,2023-02-19T20:56:11.171Z,"8km W of Cobb, CA",earthquake,0.29,0.61,0.21,16,automatic,nc,nc
+2023-02-19T19:11:09.200Z,38.8349991,-122.8116684,1.78,0.85,md,14,54,0.01165,0.01,nc,nc73848651,2023-02-19T21:37:14.387Z,"8km W of Cobb, CA",earthquake,0.29,0.61,0.21,16,automatic,nc,nc
 2023-02-19T19:11:02.151Z,43.3965,-127.3047,10,3.2,ml,20,296,1.766,0.93,us,us6000jq5f,2023-02-19T20:49:29.040Z,"237 km W of Bandon, Oregon",earthquake,4.88,2.027,0.038,89,reviewed,us,us
 2023-02-19T18:55:42.802Z,42.7977,143.1312,130.444,5,mb,144,90,0.782,0.77,us,us6000jq5d,2023-02-19T19:24:45.040Z,"Hokkaido, Japan region",earthquake,8.62,5.526,0.023,599,reviewed,us,us
 2023-02-19T18:54:03.750Z,33.4013333,-116.6513333,14.67,0.54,ml,21,81,0.09006,0.17,ci,ci40416456,2023-02-19T19:58:49.579Z,"13km N of Warner Springs, CA",earthquake,0.32,0.73,0.166,15,reviewed,ci,ci
@@ -193,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-18T21:59:50.450Z,38.8209991,-122.8079987,2.58,1.55,md,32,38,0.00289,0.02,nc,nc73848261,2023-02-19T00:45:14.130Z,"7km NW of The Geysers, CA",earthquake,0.17,0.36,0.13,33,automatic,nc,nc
 2023-02-18T21:50:59.990Z,47.562,-123.997,24.91,1.9000000000000001,ml,23,104,0.06048,0.22,uw,uw61898302,2023-02-19T21:01:48.360Z,"13 km NNW of Amanda Park, Washington",earthquake,0.46,0.72,0.07652186940733141,15,reviewed,uw,uw
 2023-02-18T21:49:02.350Z,34.3165,-116.4663333,3.61,1.09,ml,14,58,0.0737,0.16,ci,ci40416096,2023-02-18T21:52:32.327Z,"23km N of Yucca Valley, CA",earthquake,0.32,0.92,0.118,21,automatic,ci,ci
-2023-02-18T21:33:23.810Z,38.8289986,-122.8148346,2.1,1.04,md,22,45,0.006718,0.02,nc,nc73848251,2023-02-18T23:52:11.838Z,"8km NW of The Geysers, CA",earthquake,0.19,0.39,0.17,24,automatic,nc,nc
