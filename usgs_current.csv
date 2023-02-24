@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-24T04:53:36.050Z,38.8146667,-122.8239975,1.91,0.85,md,10,95,0.007065,0.04,nc,nc73850981,2023-02-24T04:55:11.183Z,"7km NW of The Geysers, CA",earthquake,0.4,0.72,0.23,11,automatic,nc,nc
+2023-02-24T04:53:36.050Z,38.8146667,-122.8239975,1.91,0.85,md,10,95,0.007065,0.04,nc,nc73850981,2023-02-24T05:11:18.790Z,"7km NW of The Geysers, CA",earthquake,0.4,0.72,0.23,11,automatic,nc,nc
 2023-02-24T04:35:14.400Z,37.5633316,-118.9248352,8.85,1.47,md,15,157,0.04928,0.02,nc,nc73850976,2023-02-24T04:54:16.691Z,"10km SSE of Mammoth Lakes, CA",earthquake,0.43,1.07,0.11,14,automatic,nc,nc
 2023-02-24T04:30:27.764Z,63.1048,-151.5377,0,1.9,ml,,,,0.77,ak,ak0232j14b7c,2023-02-24T04:32:25.607Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-24T04:22:05.446Z,63.1142,-151.535,0,1.9,ml,,,,0.53,ak,ak0232j12jr4,2023-02-24T04:24:00.267Z,"48 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -31,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T01:41:44.830Z,38.8253326,-122.8656693,1.52,0.71,md,9,148,0.007217,0.01,nc,nc73850896,2023-02-24T01:54:10.639Z,"11km WNW of The Geysers, CA",earthquake,0.43,0.77,0.44,11,automatic,nc,nc
 2023-02-24T01:30:40.960Z,18.5895,-68.587,156,3.93,md,10,211,0.2191,0.01,pr,pr2023055000,2023-02-24T02:28:21.083Z,"Mona Passage",earthquake,2.7,1.21,0.04,4,reviewed,pr,pr
 2023-02-24T01:19:38.716Z,43.0096,-111.2416,5,1.9,ml,20,129,0.265,0.33,us,us6000jr5w,2023-02-24T01:49:19.880Z,"16 km W of Freedom, Idaho",earthquake,2.06,1.901,0.062,34,reviewed,us,us
+2023-02-24T01:06:32.422Z,33.7854,72.7967,10,4.1,mb,21,175,0.416,1.23,us,us6000jr5s,2023-02-24T05:14:10.170Z,"Pakistan",earthquake,6.54,1.989,0.175,9,reviewed,us,us
 2023-02-24T01:02:14.577Z,61.5869,-150.0858,31,1.5,ml,,,,0.46,ak,ak0232iz5zbl,2023-02-24T01:04:12.158Z,"10 km NW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-24T00:57:53.966Z,-32.0822,-71.8371,35,3.9,mb,34,173,0.733,0.33,us,us6000jr5n,2023-02-24T01:40:20.040Z,"70 km NW of La Ligua, Chile",earthquake,3.54,1.79,0.195,7,reviewed,us,us
 2023-02-24T00:50:44.560Z,36.8193321,-121.4293365,7.14,1.38,md,7,143,0.05703,0.17,nc,nc73850866,2023-02-24T04:02:13.538Z,"4km SW of Hollister, CA",earthquake,0.94,1.98,0.15,9,automatic,nc,nc
@@ -89,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T18:35:21.810Z,38.8348351,-122.8103333,2.17,0.7,md,8,103,0.01143,0,nc,nc73850701,2023-02-23T20:04:11.468Z,"8km W of Cobb, CA",earthquake,0.54,1.78,0.11,8,automatic,nc,nc
 2023-02-23T18:34:31.050Z,19.2145004272461,-155.375839233398,28.5699996948242,2.0999999,md,40,162,,0.119999997,hv,hv73329482,2023-02-23T18:38:46.250Z,"10 km E of Pāhala, Hawaii",earthquake,0.75,0.970000029,0.910000026,20,automatic,hv,hv
 2023-02-23T18:31:54.079Z,62.0562,-149.6871,16.7,1.4,ml,,,,1.79,ak,ak0232hlxaxb,2023-02-23T18:34:11.146Z,"14 km SE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-23T18:31:19.194Z,64.7877,-147.5423,0,1.3,ml,,,,0.79,ak,ak0232hlx88f,2023-02-23T18:32:57.903Z,"1 km SSW of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-23T18:31:19.194Z,64.7877,-147.5423,0,1.3,ml,,,,0.79,ak,ak0232hlx88f,2023-02-23T18:32:57.903Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-23T17:57:14.986Z,64.6244,-146.9897,14.8,0.9,ml,,,,0.52,ak,ak0232hlhcx6,2023-02-23T17:59:32.127Z,"5 km SE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-23T17:46:13.496Z,61.9966,-150.7791,65.9,1.4,ml,,,,0.21,ak,ak0232hlezxh,2023-02-23T17:48:33.250Z,"32 km E of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-23T17:43:15.572Z,38.1419,-117.9837,8.8,1.9,ml,9,117.25,0.019,0.1562,nn,nn00856331,2023-02-24T02:04:21.123Z,"29 km SSE of Mina, Nevada",earthquake,,1.2,0.28,5,reviewed,nn,nn
@@ -184,4 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T05:54:55.480Z,35.7061667,-117.5575,4.74,1.29,ml,21,156,0.1023,0.14,ci,ci40417968,2023-02-23T17:38:28.991Z,"14km NE of Ridgecrest, CA",earthquake,0.23,0.62,0.131,13,reviewed,ci,ci
 2023-02-23T05:41:43.685Z,61.9706,-150.4098,32.8,1.4,ml,,,,0.6,ak,ak0232he8sf4,2023-02-23T05:56:57.727Z,"31 km NW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-23T05:33:08.130Z,44.1468333,-110.6375,10.35,0.89,md,13,120,0.1412,0.12,uu,uu60531941,2023-02-23T14:17:48.820Z,"54 km NE of Alta, Wyoming",earthquake,0.44,1.1,0.027,6,reviewed,uu,uu
-2023-02-23T05:12:22.000Z,35.7053333,-118.0703333,2.37,0.89,ml,17,75,0.1404,0.11,ci,ci40417960,2023-02-23T17:33:47.874Z,"24km WNW of Inyokern, CA",earthquake,0.2,0.75,0.085,6,reviewed,ci,ci
