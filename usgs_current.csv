@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-04T20:44:40.180Z,38.8221664,-122.8061676,0.85,1.08,md,15,80,0.003289,0.02,nc,nc73855456,2023-03-04T20:46:16.083Z,"7km NW of The Geysers, CA",earthquake,0.3,0.46,0.31,15,automatic,nc,nc
 2023-03-04T20:37:02.330Z,38.8279991,-122.8016663,1.76,0.29,md,7,130,0.008017,0.02,nc,nc73855451,2023-03-04T20:38:37.161Z,"7km W of Cobb, CA",earthquake,0.46,1.08,0.13,8,automatic,nc,nc
 2023-03-04T20:32:30.143Z,60.5433,-146.9093,18.8,1.9,ml,,,,0.49,ak,ak0232wiygg6,2023-03-04T20:34:13.806Z,"37 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-04T20:30:32.171Z,59.8593,-152.8992,99.2,1.8,ml,,,,0.26,ak,ak0232wiy169,2023-03-04T20:32:15.848Z,"60 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-04T20:18:07.203Z,-16.789,-172.8379,46.486,5.2,mb,48,77,2.156,1.31,us,us7000jhd8,2023-03-04T20:40:31.040Z,"137 km SE of Hihifo, Tonga",earthquake,7.03,7.49,0.1,36,reviewed,us,us
 2023-03-04T20:00:31.020Z,37.5834999,-118.8503342,3.99,1.52,md,12,210,0.01808,0.02,nc,nc73855446,2023-03-04T20:17:20.682Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.8,0.57,0.14,11,automatic,nc,nc
 2023-03-04T19:34:00.880Z,34.0451667,-117.2501667,22.71,0.98,ml,25,72,0.07299,0.28,ci,ci40420968,2023-03-04T19:37:32.785Z,"1km ESE of Loma Linda, CA",earthquake,0.5,1.16,0.242,18,automatic,ci,ci
 2023-03-04T19:25:05.346Z,64.1583,-148.5473,4,1.4,ml,,,,0.6,ak,ak0232wibgx2,2023-03-04T19:26:42.197Z,"31 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T12:56:37.270Z,37.4648323,-121.7738342,6.54,2.42,md,64,35,0.06909,0.07,nc,nc73855346,2023-03-04T15:27:14.983Z,"12km NNE of Alum Rock, CA",earthquake,0.12,0.55,0.14,71,automatic,nc,nc
 2023-03-04T12:47:18.330Z,35.1453333,-118.2201667,4.22,1.37,ml,28,31,0.1671,0.18,ci,ci40420856,2023-03-04T12:50:56.149Z,"11km NNW of Mojave, CA",earthquake,0.26,0.92,0.14,25,automatic,ci,ci
 2023-03-04T12:45:29.830Z,38.8056679,-122.7818298,3.03,0.77,md,6,102,0.01077,0.01,nc,nc73855341,2023-03-04T15:12:12.899Z,"4km NW of The Geysers, CA",earthquake,0.99,2.93,0.05,6,automatic,nc,nc
-2023-03-04T12:43:15.412Z,31.66501763,-104.4112343,8.033959961,2,ml,16,57,0.01980899987,0.2,tx,tx2023ekgk,2023-03-04T16:17:18.723Z,"56 km S of Whites City, New Mexico",earthquake,0.9462395544,1.077138906,0.1,21,reviewed,tx,tx
+2023-03-04T12:43:15.412Z,31.66501763,-104.4112343,8.033959961,2,ml,16,57,0.01980899987,0.2,tx,tx2023ekgk,2023-03-04T16:17:18.723Z,"western Texas",earthquake,0.9462395544,1.077138906,0.1,21,reviewed,tx,tx
 2023-03-04T12:40:55.410Z,33.6891667,-118.0488333,11.3,1.69,ml,45,105,0.08833,0.33,ci,ci40420848,2023-03-04T12:44:33.000Z,"4km W of Huntington Beach, CA",earthquake,0.54,0.91,0.23,28,automatic,ci,ci
 2023-03-04T12:26:01.031Z,59.9604,-152.2968,85.2,1.7,ml,,,,0.78,ak,ak0232we5n2f,2023-03-04T12:28:08.052Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-03-04T12:13:15.960Z,33.4908333,-116.7835,3.27,1.18,ml,54,35,0.02568,0.23,ci,ci40420840,2023-03-04T12:24:31.050Z,"9km NE of Aguanga, CA",earthquake,0.2,0.6,0.166,26,automatic,ci,ci
@@ -194,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T21:08:14.640Z,41.6276665,-122.4606705,4.61,2.16,md,4,167,0.07002,0.02,nc,nc73855071,2023-03-04T00:30:15.760Z,"6km ESE of Grenada, CA",earthquake,1.3,6.96,0.08,6,automatic,nc,nc
 2023-03-03T20:58:50.420Z,55.4556666666667,-161.824833333333,18.7,-0.33,ml,4,185,,0.08,av,av91091838,2023-03-04T01:35:41.770Z,"54 km NE of King Cove, Alaska",earthquake,1.54,0.88,0.488879520479311,4,reviewed,av,av
 2023-03-03T20:58:17.210Z,55.4393333333333,-161.8385,16.75,0.12,ml,5,157,,0.13,av,av91781551,2023-03-04T01:31:28.560Z,"Alaska Peninsula",earthquake,0.72,0.88,0.432096903149455,5,reviewed,av,av
-2023-03-03T20:39:55.043Z,44.6035,146.3241,176.135,4.2,mb,93,116,2.719,0.75,us,us7000jh67,2023-03-03T23:05:04.040Z,"Kuril Islands",earthquake,8.66,6.901,0.061,83,reviewed,us,us
