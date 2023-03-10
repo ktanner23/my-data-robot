@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T09:33:02.355Z,59.4307,-152.4459,182.8,2.2,ml,,,,1.33,ak,ak023369mxlt,2023-03-10T09:40:20.006Z,"30 km WNW of Nanwalek, Alaska",earthquake,,7.1,,,automatic,ak,ak
 2023-03-10T09:27:09.420Z,19.2479991912842,-155.402160644531,31.2399997711182,2.02999997,md,35,131,,0.119999997,hv,hv73336287,2023-03-10T09:30:21.870Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.6,0.75,0.25999999,16,automatic,hv,hv
 2023-03-10T09:21:04.420Z,33.0168333,-116.3486667,10.33,1.27,ml,35,69,0.06876,0.18,ci,ci40182751,2023-03-10T09:32:10.060Z,"25km ESE of Julian, CA",earthquake,0.24,0.51,0.17,28,automatic,ci,ci
-2023-03-10T09:18:41.372Z,6.8426,-73.0822,159.388,5.4,mww,113,31,0.944,1.41,us,us7000jirz,2023-03-10T10:47:49.924Z,"12 km N of Jordán, Colombia",earthquake,6.14,5.056,0.06,27,reviewed,us,us
+2023-03-10T09:18:41.372Z,6.8426,-73.0822,159.388,5.4,mww,113,31,0.944,1.41,us,us7000jirz,2023-03-10T10:52:59.798Z,"12 km N of Jordán, Colombia",earthquake,6.14,5.056,0.06,27,reviewed,us,us
 2023-03-10T09:09:57.329Z,58.2565,-155.1182,1.8,1.9,ml,,,,0.17,ak,ak023369hvk0,2023-03-10T09:12:25.203Z,"86 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-03-10T09:06:59.810Z,19.2356662750244,-155.372161865234,30.9799995422363,2.20000005,md,28,150,,0.129999995,hv,hv73336272,2023-03-10T09:10:18.500Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.61,0.769999981,0.519999981,5,automatic,hv,hv
 2023-03-10T08:57:38.840Z,32.9356667,-116.2503333,11.22,0.6,ml,11,101,0.04844,0.14,ci,ci40182743,2023-03-10T09:01:13.880Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.45,0.56,0.12,4,automatic,ci,ci
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T22:58:57.160Z,58.2522,-155.1559,0,2.4,ml,,,,0.24,ak,ak02334tzotw,2023-03-10T03:53:37.040Z,"Alaska Peninsula",earthquake,,14.8,,,automatic,ak,ak
 2023-03-09T22:58:29.425Z,36.70997238,-98.3994751,3.871026278,2.05,ml,25,134.9144287,0.2115664929,0.4691796579,ok,ok2023eued,2023-03-09T23:02:11.691Z,"3 km NE of Lambert, Oklahoma",earthquake,2.96488923,2.060148086,,19,automatic,ok,ok
 2023-03-09T22:57:47.701Z,51.8671,-178.1286,10.833,3.3,ml,18,105,0.048,0.44,us,us7000jinz,2023-03-10T03:47:14.040Z,"102 km W of Adak, Alaska",earthquake,1.72,0.874,0.097,14,reviewed,us,us
-2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
+2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"100 km W of Adak, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
 2023-03-09T22:56:50.920Z,51.8536666666667,-177.963666666667,-1.8,1.09,ml,4,129,,0.2,av,av91793901,2023-03-10T04:07:56.330Z,"91 km W of Adak, Alaska",earthquake,0.44,1.54,0.0904314540105216,4,reviewed,av,av
 2023-03-09T22:55:30.320Z,51.8605,-178.098166666667,3.2,1.61,ml,5,215,,0.11,av,av91793886,2023-03-10T04:00:40.840Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.49,0.19446187241184,5,reviewed,av,av
 2023-03-09T22:55:06.220Z,51.8716666666667,-178.114,1.79,1.12,ml,4,222,,0.19,av,av91092983,2023-03-10T04:02:23.300Z,"101 km W of Adak, Alaska",earthquake,0.84,3.15,0.190009148121648,4,reviewed,av,av
@@ -411,5 +411,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T11:10:31.390Z,33.042,-116.3985,6.78,0.76,ml,22,78,0.04848,0.13,ci,ci40182151,2023-03-10T01:28:32.463Z,"19km ESE of Julian, CA",earthquake,0.24,0.42,0.063,7,reviewed,ci,ci
 2023-03-09T11:08:48.090Z,38.8040009,-122.821167,1.92,1.31,md,27,59,0.007924,0.03,nc,nc73854605,2023-03-09T13:17:18.863Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.32,0.15,27,automatic,nc,nc
 2023-03-09T11:01:32.618Z,60.0651,-141.977,8.7,1.4,ml,,,,0.84,ak,ak02334n3ngt,2023-03-09T11:03:43.104Z,"138 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-09T10:51:32.983Z,63.0859,-149.4678,71.4,1.6,ml,,,,0.52,ak,ak02334msxoy,2023-03-09T10:53:29.615Z,"42 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-09T10:51:14.710Z,38.8180008,-122.7611694,1.58,0.75,md,9,118,0.0142,0.03,nc,nc73854600,2023-03-09T12:50:13.693Z,"3km W of Cobb, CA",earthquake,0.35,0.91,0.07,11,automatic,nc,nc
