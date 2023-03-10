@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-10T15:51:11.939Z,65.8689,-149.7094,10.3,1.1,ml,,,,0.58,ak,ak02336dbel5,2023-03-10T15:53:14.475Z,"32 km WSW of Stevens Village, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-10T15:45:28.338Z,63.4005,-152.6745,0.9,1.7,ml,,,,0.76,ak,ak02336da5k0,2023-03-10T15:48:34.628Z,"49 km WSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-10T15:34:06.710Z,38.8348351,-122.8068314,2.1,0.36,md,9,63,0.0117,0.01,nc,nc73855075,2023-03-10T15:47:11.643Z,"7km W of Cobb, CA",earthquake,0.49,1.85,0.26,12,automatic,nc,nc
+2023-03-10T15:34:06.710Z,38.8348351,-122.8068314,2.1,0.36,md,9,63,0.0117,0.01,nc,nc73855075,2023-03-10T16:01:13.742Z,"7km W of Cobb, CA",earthquake,0.49,1.85,0.26,12,automatic,nc,nc
 2023-03-10T15:30:55.920Z,37.2022,-104.7467,2.607,3.5,ml,21,61,0.085,0.52,us,us7000jivk,2023-03-10T15:55:53.059Z,"8 km N of Segundo, Colorado",earthquake,1.92,5.96,0.05,85,reviewed,us,us
 2023-03-10T15:19:21.520Z,33.4053333,-116.377,0.34,0.95,ml,23,73,0.1408,0.3,ci,ci40182855,2023-03-10T15:23:04.188Z,"17km N of Borrego Springs, CA",earthquake,0.42,0.75,0.144,23,automatic,ci,ci
 2023-03-10T15:16:54.910Z,38.8173332,-122.8073349,3.22,0.86,md,25,40,0.00642,0.02,nc,nc73855070,2023-03-10T15:51:14.673Z,"6km NW of The Geysers, CA",earthquake,0.22,0.53,0.22,22,automatic,nc,nc
@@ -21,9 +21,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T14:11:23.560Z,38.8338318,-122.7838364,2.12,1.28,md,23,70,0.006835,0.02,nc,nc73855020,2023-03-10T15:47:18.644Z,"5km WNW of Cobb, CA",earthquake,0.21,0.4,0.08,23,automatic,nc,nc
 2023-03-10T14:06:14.480Z,38.8171654,-122.8078308,3.25,2.07,md,38,41,0.006463,0.04,nc,nc73855015,2023-03-10T15:19:18.462Z,"6km NW of The Geysers, CA",earthquake,0.19,0.31,0.2,37,automatic,nc,nc
 2023-03-10T14:03:10.225Z,58.8803,-154.3701,117,2.1,ml,,,,0.48,ak,ak02336cfoi7,2023-03-10T15:31:06.040Z,"66 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-10T14:03:03.466Z,37.7003,-107.8717,3.22,3.6,ml,20,71,0.701,0.74,us,us7000jitc,2023-03-10T15:56:52.326Z,"14 km E of Rico, Colorado",earthquake,2.31,5.731,0.036,104,reviewed,us,us
+2023-03-10T14:03:03.466Z,37.7003,-107.8717,3.22,3.6,ml,20,71,0.701,0.74,us,us7000jitc,2023-03-10T16:07:07.078Z,"14 km E of Rico, Colorado",earthquake,2.31,5.731,0.036,104,reviewed,us,us
 2023-03-10T13:53:56.554Z,60.0938,-151.7597,50.5,1.6,ml,,,,0.21,ak,ak02336c5293,2023-03-10T13:55:18.978Z,"7 km NW of Ninilchik, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-03-10T13:50:23.871Z,56.8941,-157.9095,1.6,1.9,ml,,,,0.85,ak,ak02336c4cpt,2023-03-10T13:52:51.649Z,"Alaska Peninsula",earthquake,,4,,,automatic,ak,ak
+2023-03-10T13:50:23.871Z,56.8941,-157.9095,1.6,1.9,ml,,,,0.85,ak,ak02336c4cpt,2023-03-10T16:05:41.100Z,"Alaska Peninsula",earthquake,,4,,,automatic,ak,ak
 2023-03-10T13:11:40.864Z,14.1061,-91.4134,77.527,4.2,mb,42,172,0.983,0.46,us,us7000jist,2023-03-10T14:59:46.008Z,"16 km SW of Nueva Concepción, Guatemala",earthquake,6.43,8.63,0.064,68,reviewed,us,us
 2023-03-10T13:11:39.050Z,37.3111649,-121.6811676,7.85,1.27,md,8,145,0.04327,0.01,nc,nc73855010,2023-03-10T15:05:17.391Z,"14km ENE of Seven Trees, CA",earthquake,0.45,0.71,0.14,6,automatic,nc,nc
 2023-03-10T13:06:58.309Z,58.2663,-154.9396,34.3,0.4,ml,,,,0.58,ak,ak02336bv36j,2023-03-10T13:09:35.661Z,"82 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -97,8 +97,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T06:35:46.648Z,51.8512,-178.1035,9.96,4,mb,79,109,0.044,0.94,us,us7000jirj,2023-03-10T13:08:32.040Z,"101 km W of Adak, Alaska",earthquake,11.01,5.325,0.081,41,reviewed,us,us
 2023-03-10T06:24:49.200Z,38.8361664,-122.8113327,1.96,1.21,md,12,102,0.01279,0.01,nc,nc73854895,2023-03-10T07:02:10.492Z,"8km WNW of Cobb, CA",earthquake,0.3,0.85,0.17,13,automatic,nc,nc
 2023-03-10T06:22:31.430Z,19.1638336181641,-155.375,26.6900005340576,1.77999997,md,31,203,,0.140000001,hv,hv73336212,2023-03-10T06:25:38.450Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,1.08000004,1.38999999,10,automatic,hv,hv
+2023-03-10T06:22:08.420Z,56.8686666666667,-158.106333333333,-3.18,1.14,ml,4,235,,0.24,av,av91093133,2023-03-10T16:00:08.420Z,"32 km ESE of Port Heiden, Alaska",earthquake,1.97,2.22,0.1382165446463,6,reviewed,av,av
 2023-03-10T06:19:18.937Z,66.3925,-144.279,0,2.3,ml,,,,1,ak,ak023367rnrp,2023-03-10T06:21:56.922Z,"38 km SW of Chalkyitsik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-03-10T06:06:48.024Z,37.1872,-104.7338,6.275,4.3,mwr,52,58,0.076,0.7,us,us7000jiqv,2023-03-10T15:52:05.769Z,"Colorado",earthquake,2.14,4.235,0.034,81,reviewed,us,us
+2023-03-10T06:06:48.024Z,37.1872,-104.7338,6.275,4.3,mwr,52,58,0.076,0.7,us,us7000jiqv,2023-03-10T16:04:53.100Z,"Colorado",earthquake,2.14,4.235,0.034,81,reviewed,us,us
 2023-03-10T05:50:32.410Z,51.918,-178.072333333333,9.93,0.97,ml,4,205,,0.11,av,av91795061,2023-03-10T06:40:33.360Z,"99 km W of Adak, Alaska",earthquake,1.74,0.53,0.248396615982582,4,reviewed,av,av
 2023-03-10T05:46:48.250Z,51.8601666666667,-178.090333333333,-1.8,1.8,ml,4,209,,0.25,av,av91795051,2023-03-10T06:30:31.690Z,"100 km W of Adak, Alaska",earthquake,0.85,1.91,0.178617388565785,4,reviewed,av,av
 2023-03-10T05:44:46.440Z,51.9068333333333,-178.071833333333,8.86,1.95,ml,4,173,,0.06,av,av91795046,2023-03-10T06:25:59.260Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.74,0.5,0.363112390145987,5,reviewed,av,av
@@ -198,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T22:58:57.160Z,58.2522,-155.1559,0,2.4,ml,,,,0.24,ak,ak02334tzotw,2023-03-10T03:53:37.040Z,"Alaska Peninsula",earthquake,,14.8,,,automatic,ak,ak
 2023-03-09T22:58:29.469Z,36.71016667,-98.4035,7.53,1.99,ml,85,77,0.2105586812,0.22,ok,ok2023eued,2023-03-10T13:20:26.254Z,"3 km NNE of Lambert, Oklahoma",earthquake,,0.7,0.21,36,reviewed,ok,ok
 2023-03-09T22:57:47.701Z,51.8671,-178.1286,10.833,3.3,ml,18,105,0.048,0.44,us,us7000jinz,2023-03-10T03:47:14.040Z,"102 km W of Adak, Alaska",earthquake,1.72,0.874,0.097,14,reviewed,us,us
-2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"100 km W of Adak, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
+2023-03-09T22:57:26.390Z,51.8555,-178.0905,4.65,1.42,ml,4,212,,0.06,av,av91092988,2023-03-10T04:09:43.020Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.5,1.31,0.133867516744688,4,reviewed,av,av
 2023-03-09T22:56:50.920Z,51.8536666666667,-177.963666666667,-1.8,1.09,ml,4,129,,0.2,av,av91793901,2023-03-10T04:07:56.330Z,"91 km W of Adak, Alaska",earthquake,0.44,1.54,0.0904314540105216,4,reviewed,av,av
 2023-03-09T22:55:30.320Z,51.8605,-178.098166666667,3.2,1.61,ml,5,215,,0.11,av,av91793886,2023-03-10T04:00:40.840Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.56,0.49,0.19446187241184,5,reviewed,av,av
 2023-03-09T22:55:06.220Z,51.8716666666667,-178.114,1.79,1.12,ml,4,222,,0.19,av,av91092983,2023-03-10T04:02:23.300Z,"101 km W of Adak, Alaska",earthquake,0.84,3.15,0.190009148121648,4,reviewed,av,av
@@ -409,11 +410,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-09T16:11:51.940Z,49.0505,-119.37133333333334,0.55,1.47,md,5,162,0.3192,0.2,uw,uw61901347,2023-03-09T21:02:49.570Z,"6 km ENE of Osoyoos, Canada",earthquake,0.84,17.19,0.12154795775370042,4,reviewed,uw,uw
 2023-03-09T16:10:38.270Z,51.8688333333333,-178.077833333333,-1.8,0.87,ml,4,184,,0.21,av,av91792946,2023-03-09T17:52:48.860Z,"99 km W of Adak, Alaska",earthquake,0.57,1.56,0.321557832614431,4,reviewed,av,av
 2023-03-09T16:08:21.110Z,38.4945,-112.842,-0.17,-0.69,md,9,111,0.01111,0.07,uu,uu60532946,2023-03-09T18:52:39.900Z,"18 km NE of Milford, Utah",earthquake,0.27,0.11,0.3,3,reviewed,uu,uu
-2023-03-09T16:07:24.090Z,51.8726666666667,-178.068,-1.8,1.52,ml,4,167,,0.14,av,av91792936,2023-03-09T17:12:28.100Z,"98 km W of Adak, Alaska",earthquake,0.36,1.1,0.243590128970177,4,reviewed,av,av
-2023-03-09T16:06:21.680Z,51.8693333333333,-178.0695,-1.8,0.93,ml,4,174,,0.13,av,av91092633,2023-03-09T17:02:49.360Z,"98 km W of Adak, Alaska",earthquake,0.41,1.4,0.269667970166864,4,reviewed,av,av
-2023-03-09T16:06:01.830Z,51.8725,-178.116166666667,4.87,1.11,ml,4,224,,0.13,av,av91792931,2023-03-09T17:01:12.810Z,"102 km W of Adak, Alaska",earthquake,0.76,1.13,0.320979010880926,4,reviewed,av,av
-2023-03-09T16:06:01.830Z,51.8741666666667,-178.118,4.94,1.11,ml,4,225,,0.1,av,av91092628,2023-03-09T16:58:37.720Z,"102 km W of Adak, Alaska",earthquake,0.64,0.98,0.320979010880926,4,reviewed,av,av
-2023-03-09T16:05:47.610Z,51.8651666666667,-178.079833333333,-1.76,1.37,ml,4,191,,0.21,av,av91792926,2023-03-09T16:54:19.470Z,"99 km W of Adak, Alaska",earthquake,0.66,1.6,0.144225536143214,4,reviewed,av,av
-2023-03-09T16:04:40.750Z,51.8688333333333,-178.068,0.94,1.78,ml,5,172,,0.22,av,av91092623,2023-03-09T16:50:54.190Z,"98 km W of Adak, Alaska",earthquake,0.61,3.19,0.194341501314292,5,reviewed,av,av
-2023-03-09T16:04:38.300Z,51.867,-178.078833333333,-1.8,1.75,ml,5,188,,0.16,av,av91792921,2023-03-09T16:48:01.320Z,"99 km W of Adak, Alaska",earthquake,0.56,1.17,0.143689922777638,5,reviewed,av,av
-2023-03-09T16:00:30.020Z,51.8565,-178.057833333333,-1.8,1.69,ml,4,174,,0.25,av,av91792916,2023-03-09T16:39:08.200Z,"98 km W of Adak, Alaska",earthquake,0.73,1.7,0.210943542538294,4,reviewed,av,av
