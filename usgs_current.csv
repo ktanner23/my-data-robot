@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32,48,0.05989,0.2,ci,ci40185783,2023-03-17T04:00:58.460Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28,automatic,ci,ci
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8,128,0.01506,0.03,nc,nc73858005,2023-03-17T05:30:10.691Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6,automatic,nc,nc
 2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22,67,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49,reviewed,us,us
-2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"51 km S of Sarangani, Philippines",earthquake,10.68,9.594,0.191,8,reviewed,us,us
+2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"Pulau-Pulau Sangihe, Indonesia",earthquake,10.68,9.594,0.191,8,reviewed,us,us
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20,179,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96,4.41,md,20,252,0.9435,0.58,pr,pr2023076000,2023-03-17T04:24:11.441Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17,reviewed,pr,pr
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T20:51:38.219Z,62.3336,-150.9559,0,1.6,ml,,,,0.89,ak,ak0233gdiplp,2023-03-16T20:53:59.352Z,"20 km SSW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-16T20:44:32.760Z,51.8626666666667,-178.098166666667,2.61,0.83,ml,4,214,,0.08,av,av91808326,2023-03-16T21:48:43.790Z,"100 km W of Adak, Alaska",earthquake,0.52,1.21,0.198161103288831,4,reviewed,av,av
 2023-03-16T20:40:37.830Z,34.0498333,-117.2505,15.33,1.23,ml,39,96,0.06159,0.13,ci,ci40185671,2023-03-16T21:29:47.030Z,"1km E of Loma Linda, CA",earthquake,0.2,0.3,0.144,23,reviewed,ci,ci
-2023-03-16T20:37:11.770Z,42.1935,-119.39433333333334,9.31,2.92,ml,11,182,0.3772,0.21,uw,uw61902762,2023-03-16T22:48:24.530Z,"48 km ESE of Plush, Oregon",earthquake,0.74,2.04,0.23360811716943486,6,reviewed,uw,uw
+2023-03-16T20:37:11.770Z,42.1935,-119.39433333333334,9.31,2.92,ml,11,182,0.3772,0.21,uw,uw61902762,2023-03-17T05:38:21.423Z,"48 km ESE of Plush, Oregon",earthquake,0.74,2.04,0.23360811716943486,6,reviewed,uw,uw
 2023-03-16T20:33:40.880Z,42.18816666666667,-119.3925,7.64,3.35,ml,9,182,0.3783,0.15,uw,uw61902757,2023-03-17T05:16:20.252Z,"48 km ESE of Plush, Oregon",earthquake,0.72,15.07,0.20456216391756943,5,reviewed,uw,uw
 2023-03-16T20:32:11.790Z,34.2305,-116.761,7.07,1.65,ml,46,33,0.1295,0.15,ci,ci40185663,2023-03-16T21:02:23.710Z,"8km ESE of Big Bear City, CA",earthquake,0.19,0.86,0.139,28,reviewed,ci,ci
 2023-03-16T20:28:26.370Z,51.8621666666667,-178.079666666667,-1.8,1.11,ml,4,195,,0.28,av,av91094658,2023-03-16T21:44:05.820Z,"99 km W of Adak, Alaska",earthquake,0.85,2.06,0.16157226856785,4,reviewed,av,av
@@ -274,4 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T05:42:34.020Z,59.7162,-150.631,41.3,1.4,ml,,,,0.34,ak,ak0233g4j8kq,2023-03-16T16:51:19.091Z,"24 km SE of Fox River, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-03-16T05:41:56.540Z,51.8566666666667,-178.085166666667,3.26,1.19,ml,4,208,,0.15,av,av91094593,2023-03-16T20:04:53.390Z,"99 km W of Adak, Alaska",earthquake,0.69,1.11,0.184026725476064,4,reviewed,av,av
 2023-03-16T05:41:44.190Z,54.1508333333333,-165.971333333333,1.97,-0.59,ml,4,211,,0.19,av,av91807436,2023-03-16T17:27:53.170Z,"12 km W of Akutan, Alaska",earthquake,2.14,0.68,0.165213290885249,4,reviewed,av,av
-2023-03-16T05:34:32.473Z,31.66113122,-104.3724446,6.131567383,2.3,ml,20,57,0.05104362485,0.2,tx,tx2023ffqh,2023-03-16T19:25:43.010Z,"57 km S of Whites City, New Mexico",earthquake,0.9263423283,1.025141519,0.1,25,reviewed,tx,tx
