@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T13:06:00.620Z,38.8163338,-122.7881699,1.68,0.46,md,7,79,0.006604,0.02,nc,nc73858140,2023-03-17T13:46:12.672Z,"5km NNW of The Geysers, CA",earthquake,0.51,1.1,0.3,8,automatic,nc,nc
 2023-03-17T13:04:44.130Z,64.7957,-146.747,3.9,1.7,ml,,,,0.39,ak,ak0233hwlynx,2023-03-17T13:06:29.015Z,"11 km SSE of Pleasant Valley, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-17T13:01:47.820Z,38.7929993,-122.7576675,2.38,0.62,md,7,151,0.00778,0.01,nc,nc73858135,2023-03-17T13:34:13.606Z,"2km N of The Geysers, CA",earthquake,0.47,1.98,0.16,7,automatic,nc,nc
-2023-03-17T13:01:47.240Z,36.6971664,-121.3631668,1.19,1.76,md,14,94,0.01687,0.19,nc,nc73858130,2023-03-17T13:22:13.546Z,"11km SSW of Tres Pinos, CA",earthquake,0.51,0.98,0.12,9,automatic,nc,nc
+2023-03-17T13:01:47.240Z,36.6971664,-121.3631668,1.19,1.76,md,14,94,0.01687,0.19,nc,nc73858130,2023-03-17T14:59:12.090Z,"11km SSW of Tres Pinos, CA",earthquake,0.51,0.98,0.12,9,automatic,nc,nc
 2023-03-17T12:53:46.350Z,38.8256683,-122.8088303,1.17,0.69,md,5,144,0.002469,0.01,nc,nc73858125,2023-03-17T14:44:12.002Z,"7km NW of The Geysers, CA",earthquake,0.56,2.46,0.34,8,automatic,nc,nc
 2023-03-17T12:47:26.540Z,17.9736666666667,-66.84,16.62,2.33,md,8,197,0.03739,0.07,pr,pr71400638,2023-03-17T13:29:24.660Z,"3 km SW of Indios, Puerto Rico",earthquake,0.48,0.44,0.0944282448569043,6,reviewed,pr,pr
 2023-03-17T12:44:20.230Z,33.5091667,-116.4753333,15.59,0.86,ml,24,96,0.04383,0.2,ci,ci40185919,2023-03-17T14:43:12.820Z,"19km ESE of Anza, CA",earthquake,0.36,0.6,0.151,20,reviewed,ci,ci
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T03:49:56.340Z,34.02,-116.738,18.34,1.16,ml,32,48,0.05989,0.2,ci,ci40185783,2023-03-17T04:00:58.460Z,"12km NNE of Cabazon, CA",earthquake,0.35,0.58,0.216,28,automatic,ci,ci
 2023-03-17T03:44:13.240Z,38.7519989,-122.7099991,0.82,0.83,md,8,128,0.01506,0.03,nc,nc73858005,2023-03-17T05:30:10.691Z,"3km SSW of Anderson Springs, CA",earthquake,0.38,0.59,0.41,6,automatic,nc,nc
 2023-03-17T03:40:16.863Z,31.6299,-104.4732,5.737,2.7,ml,22,67,0.045,0.26,us,us7000jkqf,2023-03-17T03:53:51.040Z,"61 km S of Whites City, New Mexico",earthquake,2.21,1.727,0.077,49,reviewed,us,us
-2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"51 km S of Sarangani, Philippines",earthquake,10.68,9.594,0.191,8,reviewed,us,us
+2023-03-17T03:38:28.042Z,4.941,125.4914,178.641,4.5,mb,16,116,2.117,1.19,us,us7000jkql,2023-03-17T04:19:44.040Z,"Pulau-Pulau Sangihe, Indonesia",earthquake,10.68,9.594,0.191,8,reviewed,us,us
 2023-03-17T03:38:03.191Z,62.7771,-149.519,0,1.6,ml,,,,0.63,ak,ak0233hqutsv,2023-03-17T03:39:53.826Z,"47 km NE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-17T03:33:15.323Z,52.5639,-169.9892,44.76,4.2,mb,20,179,0.801,0.78,us,us7000jkqe,2023-03-17T04:04:47.040Z,"86 km WSW of Nikolski, Alaska",earthquake,12.56,11.622,0.158,11,reviewed,us,us
 2023-03-17T03:26:18.310Z,19.2768,-67.8263,96,4.41,md,20,252,0.9435,0.58,pr,pr2023076000,2023-03-17T06:32:53.736Z,"98 km NE of Punta Cana, Dominican Republic",earthquake,4.97,7.42,0.1,17,reviewed,pr,pr
@@ -234,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T15:20:12.860Z,33.1321667,-116.6325,3.33,0.81,ml,29,51,0.06794,0.16,ci,ci40185527,2023-03-16T17:22:04.551Z,"7km NNW of Julian, CA",earthquake,0.32,0.66,0.092,11,reviewed,ci,ci
 2023-03-16T15:18:50.330Z,51.8566666666667,-178.0435,-1.8,1.85,ml,5,147,,0.21,av,av91807991,2023-03-16T16:28:47.200Z,"97 km W of Adak, Alaska",earthquake,0.53,1.41,0.310587009709126,5,reviewed,av,av
 2023-03-16T15:15:47.610Z,35.6993332,-121.0443344,6.63,1.3,md,9,75,0.09061,0.04,nc,nc73857770,2023-03-16T17:17:15.360Z,"14km ENE of San Simeon, CA",earthquake,0.36,1.16,0.13,5,automatic,nc,nc
-2023-03-16T14:59:10.469Z,56.095,-116.6227,10,5,mb,182,40,1.765,1.03,us,us7000jkfd,2023-03-17T13:22:56.425Z,"44 km ESE of Peace River, Canada",earthquake,5.9,1.857,0.027,450,reviewed,us,us
