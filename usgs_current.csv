@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T10:51:04.630Z,38.7898331,-122.7785034,1.31,0.26,md,6,114,0.00808,0.01,nc,nc73858580,2023-03-18T11:17:21.206Z,"2km NW of The Geysers, CA",earthquake,0.48,0.91,0.11,8,automatic,nc,nc
 2023-03-18T10:46:06.250Z,38.8198318,-122.7628326,1.94,0.76,md,10,119,0.01198,0.04,nc,nc73858575,2023-03-18T11:05:20.136Z,"4km W of Cobb, CA",earthquake,0.48,0.96,0.24,10,automatic,nc,nc
 2023-03-18T10:45:28.370Z,33.6781667,-116.5235,-0.26,0.56,ml,9,252,0.06902,0.22,ci,ci40186407,2023-03-18T10:49:04.029Z,"12km WSW of Rancho Mirage, CA",earthquake,2.06,31.61,0.257,6,automatic,ci,ci
-2023-03-18T10:44:44.470Z,38.8186684,-122.7621689,1.88,2.06,md,45,54,0.01325,0.06,nc,nc73858570,2023-03-18T12:45:10.780Z,"3km W of Cobb, CA",earthquake,0.17,0.27,0.16,41,automatic,nc,nc
+2023-03-18T10:44:44.470Z,38.8186684,-122.7621689,1.88,2.06,md,45,54,0.01325,0.06,nc,nc73858570,2023-03-18T13:34:12.079Z,"3km W of Cobb, CA",earthquake,0.17,0.27,0.16,41,automatic,nc,nc
 2023-03-18T10:23:52.190Z,36.8878326,-121.4110031,11.74,1.4,md,12,122,0.06389,0.11,nc,nc73858565,2023-03-18T13:18:12.971Z,"5km NNW of Hollister, CA",earthquake,0.65,1.2,0.17,9,automatic,nc,nc
 2023-03-18T10:21:31.494Z,61.9076,-151.606,87,1.6,ml,,,,0.35,ak,ak0233jigmjh,2023-03-18T10:23:34.255Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-18T10:05:53.113Z,22.3873,-108.2477,10,4.2,mb,34,212,5.103,0.58,us,us7000jl23,2023-03-18T10:53:48.040Z,"164 km ESE of La Playa, Mexico",earthquake,5.76,2.012,0.127,17,reviewed,us,us
@@ -99,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-18T00:26:44.860Z,33.531,-116.7285,4.32,0.62,ml,31,44,0.03509,0.2,ci,ci40186247,2023-03-18T00:30:17.782Z,"6km WSW of Anza, CA",earthquake,0.26,0.46,0.119,19,automatic,ci,ci
 2023-03-18T00:14:48.011Z,-22.3589,-177.5499,328.912,4.5,mb,32,115,2.481,0.66,us,us7000jkzm,2023-03-18T00:41:07.040Z,"276 km WSW of Haveluloto, Tonga",earthquake,7.29,8.832,0.099,30,reviewed,us,us
 2023-03-18T00:14:24.147Z,37.1937,-104.749,5.895,2.3,ml,9,88,0.077,0.44,us,us7000jkzk,2023-03-18T04:33:07.040Z,"7 km N of Segundo, Colorado",earthquake,1.51,1.899,0.094,15,reviewed,us,us
-2023-03-18T00:00:54.476Z,36.5161,69.8417,162.193,4.9,mww,110,39,2.076,1.15,us,us7000jkzj,2023-03-18T11:22:11.721Z,"Hindu Kush region, Afghanistan",earthquake,7.15,5.807,0.086,13,reviewed,us,us
+2023-03-18T00:00:54.476Z,36.5161,69.8417,162.193,4.9,mww,110,39,2.076,1.15,us,us7000jkzj,2023-03-18T13:37:16.431Z,"Hindu Kush region, Afghanistan",earthquake,7.15,5.807,0.086,13,reviewed,us,us
 2023-03-17T23:53:13.680Z,51.8621666666667,-178.090166666667,1.27,1.48,ml,4,207,,0.28,av,av91810016,2023-03-18T04:46:42.230Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,1.07,3.4,0.220224111403314,4,reviewed,av,av
 2023-03-17T23:47:44.480Z,33.526,-116.7301667,2.44,1.48,ml,55,21,0.03975,0.2,ci,ci40186239,2023-03-17T23:58:51.470Z,"6km WSW of Anza, CA",earthquake,0.18,0.28,0.166,27,automatic,ci,ci
 2023-03-17T23:44:53.450Z,58.1805,-155.2945,0.78,-0.61,ml,6,157,,0.05,av,av91810011,2023-03-18T04:43:14.670Z,"84 km NW of Karluk, Alaska",earthquake,0.22,1.07,0.273417737063306,6,reviewed,av,av
@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T13:56:04.248Z,14.4992,119.946,40.074,4.9,mb,51,102,8.779,0.78,us,us7000jku9,2023-03-17T22:35:21.623Z,"39 km WSW of Sabang, Philippines",earthquake,10.83,2.325,0.054,106,reviewed,us,us
 2023-03-17T13:51:32.042Z,31.66424383,-104.4900842,7.082763671999999,1.9,ml,53,67,0.0101012302,0.2,tx,tx2023fice,2023-03-17T20:56:33.530Z,"57 km S of Whites City, New Mexico",earthquake,0.8923457605,0.771036521,0,6,reviewed,tx,tx
 2023-03-17T13:45:44.366Z,37.7784,21.2823,34.144,4.3,mb,58,76,0.787,0.83,us,us7000jku7,2023-03-18T07:42:40.040Z,"southern Greece",earthquake,5.12,5.551,0.097,30,reviewed,us,us
-2023-03-17T13:39:18.180Z,19.9453333333333,-155.620333333333,17.88,1.86,md,42,148,,0.13,hv,hv73342242,2023-03-18T08:17:10.223Z,"10 km SSE of Waimea, Hawaii",earthquake,0.5,1.09,0.132591214611584,15,reviewed,hv,hv
