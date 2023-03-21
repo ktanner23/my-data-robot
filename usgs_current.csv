@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-21T14:04:15.100Z,33.7621667,-117.5511667,3.65,1.38,ml,20,51,0.05846,0.18,ci,ci40187887,2023-03-21T14:07:57.283Z,"12km NNE of Trabuco Canyon, CA",earthquake,0.3,0.96,0.341,28,automatic,ci,ci
-2023-03-21T13:59:15.490Z,38.821167,-122.7858353,1.82,0.85,md,12,116,0.01511,0.02,nc,nc73860265,2023-03-21T14:15:11.878Z,"5km W of Cobb, CA",earthquake,0.32,0.53,0.17,13,automatic,nc,nc
+2023-03-21T13:59:15.490Z,38.821167,-122.7858353,1.82,0.85,md,12,116,0.01511,0.02,nc,nc73860265,2023-03-21T14:31:12.959Z,"5km W of Cobb, CA",earthquake,0.32,0.53,0.17,13,automatic,nc,nc
 2023-03-21T13:56:51.470Z,19.144832611084,-155.502502441406,32.8800010681152,2.00999999,md,36,150,,0.150000006,hv,hv73345547,2023-03-21T14:00:05.810Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.7,0.899999976,1.50999999,14,automatic,hv,hv
 2023-03-21T13:44:02.570Z,38.8330002,-122.8043365,1.9,1.24,md,20,70,0.01059,0.02,nc,nc73860260,2023-03-21T14:20:12.903Z,"7km W of Cobb, CA",earthquake,0.24,0.39,0.12,22,automatic,nc,nc
 2023-03-21T13:43:03.217Z,61.8946,-149.2587,1.1,1.7,ml,,,,0.79,ak,ak0233oizmep,2023-03-21T13:45:55.153Z,"16 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T00:02:50.440Z,38.838501,-122.8368301,1.47,0.44,md,10,112,0.001053,0.01,nc,nc73860010,2023-03-21T00:15:10.718Z,"10km NW of The Geysers, CA",earthquake,0.3,0.55,0.21,10,automatic,nc,nc
 2023-03-20T23:48:59.990Z,33.511,-116.5458333,14.68,0.57,ml,22,59,0.048,0.12,ci,ci40187719,2023-03-21T13:44:24.722Z,"13km ESE of Anza, CA",earthquake,0.2,0.33,0.119,4,reviewed,ci,ci
 2023-03-20T23:47:16.449Z,35.247,-97.74116667,5.19,1.85,ml,82,28,0.01439717478,0.33,ok,ok2023foii,2023-03-21T12:27:44.886Z,"1 km NNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.26,42,reviewed,ok,ok
-2023-03-20T23:36:55.410Z,33.8703346,-118.2798309,9.54,1.67,ml,16,162,0.01527,0.26,ci,ci40187711,2023-03-20T23:40:34.095Z,"3km SE of Gardena, CA",earthquake,1.56,1.04,0.089,7,automatic,ci,ci
+2023-03-20T23:36:55.780Z,33.8773333,-118.22,8.71,1.53,ml,22,130,0.03613,0.27,ci,ci40187711,2023-03-21T14:32:44.272Z,"2km S of Compton, CA",earthquake,0.54,0.85,0.105,21,reviewed,ci,ci
 2023-03-20T23:34:50.740Z,56.9131666666667,-158.051833333333,4.04,0.49,ml,4,270,,0.06,av,av91813901,2023-03-21T01:11:26.770Z,"Alaska Peninsula",earthquake,1.07,0.74,0.474326722519944,4,reviewed,av,av
 2023-03-20T23:26:21.650Z,51.8605,-178.066,-1.79,1.39,ml,4,181,,0.21,av,av91095173,2023-03-21T01:22:26.790Z,"98 km W of Adak, Alaska",earthquake,0.64,1.5,0.174852152040661,4,reviewed,av,av
 2023-03-20T23:25:28.964Z,53.8329,-169.7303,211.541,4.9,mb,137,31,0.968,0.64,us,us7000jljn,2023-03-21T04:35:40.939Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,7.41,6.063,0.022,679,reviewed,us,us
@@ -216,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T15:15:59.550Z,58.1778333333333,-155.349166666667,-0.52,0.12,ml,7,172,,0.11,av,av91813616,2023-03-21T02:52:01.700Z,"86 km NW of Karluk, Alaska",earthquake,0.28,3.85,0.196268182944028,7,reviewed,av,av
 2023-03-20T15:06:22.920Z,39.1183333,-123.5846667,7,0.9,md,7,115,0.08119,0.05,nc,nc73859805,2023-03-20T23:28:10.578Z,"18km ESE of Navarro Head, CA",earthquake,0.33,0.76,0.076,7,reviewed,nc,nc
 2023-03-20T14:36:01.470Z,33.1626667,-116.0028333,3.6,1,ml,26,112,0.02365,0.17,ci,ci40187567,2023-03-20T23:08:18.261Z,"12km E of Ocotillo Wells, CA",earthquake,0.36,0.36,0.074,12,reviewed,ci,ci
-2023-03-20T14:32:50.100Z,51.8645,-178.071333333333,-1.8,1.11,ml,4,182,,0.2,av,av91813581,2023-03-21T01:26:39.400Z,"99 km W of Adak, Alaska",earthquake,0.59,1.64,0.343945911642296,4,reviewed,av,av
-2023-03-20T14:26:35.570Z,51.8506666666667,-178.079,2.67,1.69,ml,5,208,,0.19,av,av91813571,2023-03-21T01:25:07.660Z,"99 km W of Adak, Alaska",earthquake,0.74,1.19,0.164761871111729,5,reviewed,av,av
-2023-03-20T14:26:06.040Z,32.0623333,-116.8285,5.74,1.48,ml,13,152,0.3317,0.17,ci,ci40187559,2023-03-20T23:02:30.785Z,"19km SSE of Primo Tapia, B.C., MX",earthquake,0.65,31.61,0.134,8,reviewed,ci,ci
-2023-03-20T14:24:44.480Z,37.5105,-117.9443333,3.96,1.8,md,10,209,0.3405,0.07,nc,nc73859795,2023-03-20T23:53:42.656Z,"16km NNE of Deep Springs, CA",earthquake,1.05,5.15,0.166,11,reviewed,nc,nc
