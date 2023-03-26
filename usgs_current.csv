@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-26T21:07:13.162Z,62.1952,-145.6438,27.9,1.1,ml,,,,0.63,ak,ak0233wx84pg,2023-03-26T21:09:30.338Z,"10 km NNW of Glennallen, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-03-26T21:06:43.730Z,33.5843333,-116.8235,12.59,2,ml,62,24,0.04986,0.19,ci,ci40190327,2023-03-26T21:10:22.111Z,"14km WNW of Anza, CA",earthquake,0.19,0.39,0.232,26,automatic,ci,ci
+2023-03-26T20:57:20.890Z,33.592,-116.8188333,13.76,1.25,ml,39,51,0.04495,0.2,ci,ci40190319,2023-03-26T21:07:40.630Z,"14km WNW of Anza, CA",earthquake,0.26,0.46,0.226,26,automatic,ci,ci
 2023-03-26T20:53:01.924Z,61.7342,-148.1957,18.2,1.2,ml,,,,0.62,ak,ak0233wwwj6w,2023-03-26T20:55:10.494Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-26T20:45:42.210Z,33.5895,-116.8211667,13.17,1,ml,32,51,0.04611,0.18,ci,ci40190311,2023-03-26T20:49:14.819Z,"14km WNW of Anza, CA",earthquake,0.29,0.47,0.163,22,automatic,ci,ci
 2023-03-26T20:43:46.100Z,19.3605003356934,-155.289001464844,29.6499996185303,1.88,md,33,54,,0.159999996,hv,hv73349877,2023-03-26T20:47:02.510Z,"10 km SSW of Volcano, Hawaii",earthquake,0.66,1.02999997,0.939999998,8,automatic,hv,hv
@@ -28,7 +31,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T18:29:51.480Z,33.7646667,-116.9326667,12.53,1,ml,24,58,0.07774,0.21,ci,ci40190295,2023-03-26T18:33:26.419Z,"3km SE of San Jacinto, CA",earthquake,0.33,0.66,0.12,25,automatic,ci,ci
 2023-03-26T18:29:15.438Z,62.2286,-151.1954,78.3,1.7,ml,,,,0.15,ak,ak0233wvkjtj,2023-03-26T18:31:15.012Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-26T18:23:39.428Z,64.4042,-147.299,14.8,1.9,ml,,,,0.61,ak,ak0233wvjbdi,2023-03-26T18:25:27.287Z,"23 km SW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-26T18:21:08.260Z,38.7900009,-122.768837,1.52,0.88,md,13,78,0.01278,0.03,nc,nc73862635,2023-03-26T20:00:11.622Z,"2km NW of The Geysers, CA",earthquake,0.31,0.62,0.16,13,automatic,nc,nc
+2023-03-26T18:21:35.000Z,46.1985,-122.19866666666667,2.2,0.32,ml,15,60,0.005573,0.07,uw,uw61904887,2023-03-26T21:13:15.180Z,"Washington",earthquake,0.26,0.6,0.19661125503647042,12,reviewed,uw,uw
+2023-03-26T18:21:08.260Z,38.7900009,-122.768837,1.52,0.88,md,13,78,0.01278,0.03,nc,nc73862635,2023-03-26T21:00:11.956Z,"2km NW of The Geysers, CA",earthquake,0.31,0.62,0.16,13,automatic,nc,nc
 2023-03-26T18:18:21.262Z,59.3697,-152.9962,76.7,1.8,ml,,,,0.42,ak,ak0233wvi7e6,2023-03-26T18:20:26.196Z,"61 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-26T18:05:01.390Z,38.751667,-122.7136688,1.31,0.84,md,8,126,0.01322,0.01,nc,nc73862630,2023-03-26T20:33:13.793Z,"3km SW of Anderson Springs, CA",earthquake,0.35,0.46,0.26,7,automatic,nc,nc
 2023-03-26T17:58:11.238Z,18.7744,-101.6282,88.986,4.2,mb,111,149,0.947,0.7,us,us7000jmw6,2023-03-26T19:44:29.040Z,"5 km SSW of Poturo, Mexico",earthquake,7.4,4.505,0.058,84,reviewed,us,us
@@ -207,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T21:55:35.317Z,-16.012,-174.7621,10.113,4.6,mb,40,67,2.721,0.59,us,us7000jmr5,2023-03-25T22:47:14.040Z,"103 km W of Hihifo, Tonga",earthquake,8.33,4.538,0.087,40,reviewed,us,us
 2023-03-25T21:35:35.541Z,17.1156,120.9222,10.424,4.5,mb,65,90,5.675,0.6,us,us7000jmr1,2023-03-25T22:09:02.040Z,"4 km NE of Sagada, Philippines",earthquake,8.57,3.757,0.078,48,reviewed,us,us
 2023-03-25T21:31:14.720Z,51.8566666666667,-178.080333333333,3.31,1.39,ml,4,204,,0.14,av,av91819136,2023-03-25T22:23:52.340Z,"99 km W of Adak, Alaska",earthquake,0.61,0.96,0.162934459786406,4,reviewed,av,av
-2023-03-25T21:12:59.629Z,58.2422,-153.9562,62.8,1.6,ml,,,,0.29,ak,ak0233v9pydm,2023-03-25T21:15:11.554Z,"64 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-25T21:08:43.950Z,38.8433342,-122.7523346,10.37,0.98,md,13,213,0.0188,0.11,nc,nc73862205,2023-03-25T21:53:15.959Z,"4km NW of Cobb, CA",earthquake,1.78,1.17,0.31,12,automatic,nc,nc
