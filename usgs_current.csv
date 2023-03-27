@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T03:29:06.960Z,19.0095,-65.038,12.07,3.26,md,6,277,0.6582,0.22,pr,pr71401708,2023-03-27T03:41:57.550Z,"74 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.2,3.29,0.0216891460649729,3,reviewed,pr,pr
 2023-03-27T03:22:34.060Z,33.7646667,-116.938,13.29,1.11,ml,38,36,0.04989,0.22,ci,ci40190399,2023-03-27T03:26:11.504Z,"3km SE of San Jacinto, CA",earthquake,0.28,0.54,0.163,26,automatic,ci,ci
 2023-03-27T03:17:28.545Z,62.4015,-149.7298,63.6,1,ml,,,,0.28,ak,ak0233ya3unq,2023-03-27T03:20:22.660Z,"19 km ESE of Chase, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-03-27T03:15:59.150Z,38.7611656,-122.7268295,2.03,1.81,md,38,69,0.02265,0.06,nc,nc73862810,2023-03-27T05:04:11.816Z,"3km SE of The Geysers, CA",earthquake,0.24,0.41,0.2,38,automatic,nc,nc
+2023-03-27T03:15:59.150Z,38.7611656,-122.7268295,2.03,1.81,md,38,69,0.02265,0.06,nc,nc73862810,2023-03-27T05:35:18.018Z,"3km SE of The Geysers, CA",earthquake,0.24,0.41,0.2,38,automatic,nc,nc
 2023-03-27T03:08:57.740Z,38.8186684,-122.7851639,1.96,0.22,md,7,102,0.006436,0.02,nc,nc73862805,2023-03-27T05:09:16.847Z,"5km NNW of The Geysers, CA",earthquake,0.94,1.95,0.09,7,automatic,nc,nc
 2023-03-27T02:56:06.731Z,-5.5666,146.923,186.972,4.6,mb,36,92,3.821,0.77,us,us7000jmyc,2023-03-27T03:17:34.040Z,"128 km N of Lae, Papua New Guinea",earthquake,12.04,7.874,0.101,29,reviewed,us,us
 2023-03-27T02:53:43.417Z,-22.7695,171.7227,10.385,5,mb,47,101,3.952,0.94,us,us7000jmyb,2023-03-27T03:09:14.040Z,"southeast of the Loyalty Islands",earthquake,10.18,4.85,0.093,37,reviewed,us,us
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T02:07:00.680Z,38.8209991,-122.7968369,2.68,0.92,md,11,93,0.01061,0.02,nc,nc73862780,2023-03-27T02:24:13.872Z,"6km NW of The Geysers, CA",earthquake,0.39,0.83,0.18,6,automatic,nc,nc
 2023-03-27T01:59:11.570Z,18.836,-155.180333333333,8.29,3.01,ml,42,281,,0.15,hv,hv73350032,2023-03-27T05:15:51.570Z,"49 km ESE of Naalehu, Hawaii",earthquake,0.54,0.45,0.173218504628673,26,reviewed,hv,hv
 2023-03-27T01:55:18.168Z,62.0038,-148.3411,30.7,1.3,ml,,,,0.53,ak,ak0233y953uw,2023-03-27T01:56:44.530Z,"23 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-27T01:55:01.794Z,32.00906886,-103.8049765,7.879711914,3.4,ml,27,45,0.01114873466,0.2,tx,tx2023fzlo,2023-03-27T02:15:57.647Z,"34 km SE of Malaga, New Mexico",earthquake,0.5312029197,0.8721428796,0.2,20,reviewed,tx,tx
+2023-03-27T01:55:01.794Z,32.00906886,-103.8049765,7.879711914,3.4,ml,27,45,0.01114873466,0.2,tx,tx2023fzlo,2023-03-27T05:39:27.481Z,"34 km SE of Malaga, New Mexico",earthquake,0.5312029197,0.8721428796,0.2,20,reviewed,tx,tx
 2023-03-27T01:50:35.850Z,37.0616684,-121.4868317,6.39,2.37,md,47,53,0.03628,0.08,nc,nc73862775,2023-03-27T04:16:13.547Z,"10km NE of Gilroy, CA",earthquake,0.2,0.42,0.12,49,automatic,nc,nc
 2023-03-27T01:41:55.732Z,56.9266,-158.2143,1.4,2.2,ml,,,,1.04,ak,ak0233y926qd,2023-03-27T01:43:55.920Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-03-27T01:39:06.270Z,38.8279991,-122.8529968,1.64,0.36,md,8,126,0.003061,0.03,nc,nc73862770,2023-03-27T03:25:10.245Z,"10km NW of The Geysers, CA",earthquake,0.48,0.77,0.25,7,automatic,nc,nc
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:04:04.078Z,58.2373,-154.7794,101.1,1.5,ml,,,,0.38,ak,ak0233wo9uwt,2023-03-26T18:01:09.618Z,"76 km NNW of Karluk, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2023-03-26T06:01:26.350Z,58.3261666666667,-155.064833333333,6.35,-0.65,ml,7,132,,0.3,av,av91819696,2023-03-26T20:03:39.140Z,"91 km NNW of Karluk, Alaska",earthquake,0.79,1.4,0.172076207867044,7,reviewed,av,av
 2023-03-26T05:57:03.140Z,38.8371658,-122.7991638,2.07,0.22,md,9,69,0.006999,0.01,nc,nc73862420,2023-03-26T08:08:15.383Z,"7km WNW of Cobb, CA",earthquake,0.43,1.14,0.11,9,automatic,nc,nc
-2023-03-26T05:42:47.000Z,19.2964992523193,-155.242660522461,2.27999997138977,2.25,ml,36,105,,0.219999999,hv,hv73349432,2023-03-26T05:48:18.370Z,"16 km S of Volcano, Hawaii",earthquake,0.35,0.689999998,0.3,8,automatic,hv,hv
