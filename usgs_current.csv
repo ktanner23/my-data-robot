@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-30T16:21:30.430Z,38.7949982,-122.7476654,2.26,0.5,md,9,94,0.01096,0.03,nc,nc73864500,2023-03-30T16:23:05.736Z,"2km NNE of The Geysers, CA",earthquake,0.33,1.03,0.28,9,automatic,nc,nc
-2023-03-30T16:10:58.310Z,38.6398315,-122.8448334,9.94,1.45,md,16,162,0.0985,0.06,nc,nc73864495,2023-03-30T16:27:10.855Z,"4km NNE of Healdsburg, CA",earthquake,0.68,1.76,0.17,18,automatic,nc,nc
-2023-03-30T16:01:32.327Z,35.22144318,-97.73300934,2.189328432,2.4,ml,10,82.74232483,0.02497106418,0.7782929328,ok,ok2023gfzz,2023-03-30T16:25:21.788Z,"1 km SSE of Bridge Creek, Oklahoma",earthquake,3.990137983,2.984163112,0.41,9,automatic,ok,ok
+2023-03-30T16:21:30.430Z,38.7949982,-122.7476654,2.26,0.5,md,9,94,0.01096,0.03,nc,nc73864500,2023-03-30T16:34:11.891Z,"2km NNE of The Geysers, CA",earthquake,0.33,1.03,0.28,9,automatic,nc,nc
+2023-03-30T16:10:58.310Z,38.6398315,-122.8448334,9.94,1.45,md,16,162,0.0985,0.06,nc,nc73864495,2023-03-30T16:39:11.913Z,"4km NNE of Healdsburg, CA",earthquake,0.68,1.76,0.17,18,automatic,nc,nc
+2023-03-30T16:01:31.739Z,35.23316667,-97.73266667,5.32,2.08,ml,48,49,0.0188962919,0.31,ok,ok2023gfzz,2023-03-30T16:35:35.989Z,"0 km ESE of Bridge Creek, Oklahoma",earthquake,,0.6,0.24,8,reviewed,ok,ok
 2023-03-30T16:01:05.670Z,38.8146667,-122.8308334,1.3,0.79,md,8,100,0.005933,0.01,nc,nc73864490,2023-03-30T16:27:13.854Z,"8km WNW of The Geysers, CA",earthquake,0.34,0.83,0.13,8,automatic,nc,nc
 2023-03-30T16:00:55.193Z,64.7007,-149.0588,14.8,0.9,ml,,,,0.47,ak,ak02343gcxvz,2023-03-30T16:02:53.139Z,"11 km NNE of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-30T15:58:24.860Z,34.0403333,-117.8228333,0.49,1.52,ml,21,108,0.173,0.27,ci,ci39507826,2023-03-30T16:02:10.904Z,"2km NW of Diamond Bar, CA",earthquake,0.73,31.61,0.334,33,automatic,ci,ci
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-30T13:37:21.869Z,61.4264,-150.7272,49.7,1.3,ml,,,,0.53,ak,ak02343eshzu,2023-03-30T13:39:32.556Z,"17 km SW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-03-30T13:34:29.520Z,38.7890015,-122.7676697,2.57,1.05,md,13,78,0.01317,0.02,nc,nc73864440,2023-03-30T13:52:15.002Z,"2km NW of The Geysers, CA",earthquake,0.37,0.72,0.13,12,automatic,nc,nc
 2023-03-30T13:25:48.350Z,19.24049949646,-155.405670166016,27.1800003051758,1.70000005,md,28,137,,0.170000002,hv,hv73352772,2023-03-30T13:29:09.550Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.64,1.00999999,0.730000019,3,automatic,hv,hv
-2023-03-30T13:16:44.730Z,39.4119987,-123.3353348,4.39,2.53,md,21,81,0.05694,0.08,nc,nc73864430,2023-03-30T16:18:21.366Z,"2km E of Willits, CA",earthquake,0.27,1.03,0.13,22,automatic,nc,nc
+2023-03-30T13:16:44.730Z,39.4119987,-123.3353348,4.39,2.53,md,21,81,0.05694,0.08,nc,nc73864430,2023-03-30T16:41:28.729Z,"2km E of Willits, CA",earthquake,0.27,1.03,0.13,22,automatic,nc,nc
 2023-03-30T13:13:51.340Z,34.122,-116.3946667,2.65,0.95,ml,7,107,0.0527,0.13,ci,ci39507786,2023-03-30T13:17:24.868Z,"4km ENE of Yucca Valley, CA",earthquake,0.44,0.44,0.207,15,automatic,ci,ci
 2023-03-30T13:13:42.280Z,35.24233333,-97.7765,7,1.44,ml,27,77,0.01799646848,0.41,ok,ok2023gful,2023-03-30T16:19:26.000Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.8,0.12,4,reviewed,ok,ok
 2023-03-30T13:13:41.534Z,57.4116,-155.5423,83.6,2,ml,,,,0.37,ak,ak02343enebt,2023-03-30T13:15:58.358Z,"Alaska Peninsula",earthquake,,0.9,,,automatic,ak,ak
@@ -256,7 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-29T16:49:10.520Z,38.8203333,-122.7996667,1.8,0.9,md,11,95,0.008686,0.02,nc,nc73864060,2023-03-29T19:12:36.796Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.43,11,reviewed,nc,nc
 2023-03-29T16:47:02.861Z,37.9135,36.2474,10,4.6,mb,64,87,0.342,0.9,us,us6000k0ne,2023-03-29T17:17:38.040Z,"Central Turkey",earthquake,3.55,1.84,0.069,63,reviewed,us,us
 2023-03-29T16:46:33.898Z,58.1924,-155.3024,0.3,0.5,ml,,,,0.23,ak,ak02341t3eot,2023-03-29T16:48:05.425Z,"85 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-03-29T16:41:07.530Z,44.5271667,-110.3616667,3.42,1.45,md,13,67,0.04361,0.16,uu,uu60535626,2023-03-29T17:19:26.800Z,"56 km SSE of Mammoth, Wyoming",earthquake,0.32,0.84,0.378,9,reviewed,uu,uu
-2023-03-29T16:40:17.670Z,38.8216667,-122.7986679,2.01,0.77,md,9,101,0.009075,0.01,nc,nc73864055,2023-03-29T17:10:14.575Z,"6km NW of The Geysers, CA",earthquake,0.41,1.24,0.19,10,automatic,nc,nc
-2023-03-29T16:38:07.199Z,31.71999205,-104.2900153,6.851391602,2.2,ml,19,62,0.04695840595,0.2,tx,tx2023gefs,2023-03-29T18:42:02.096Z,"51 km S of Whites City, New Mexico",earthquake,0.8190234642,1.067081199,0.1,20,reviewed,tx,tx
-2023-03-29T16:36:36.196Z,55.5104,-158.4718,34.3,2.1,ml,,,,0.68,ak,ak02341t1acn,2023-03-29T18:08:44.195Z,"Alaska Peninsula",earthquake,,4.3,,,reviewed,ak,ak
