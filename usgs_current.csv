@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-11T22:45:01.260Z,38.7905006,-122.777832,1.17,0.42,md,7,91,0.008323,0.01,nc,nc73870930,2023-04-11T22:46:38.043Z,"2km NW of The Geysers, CA",earthquake,0.41,1.14,0.27,8,automatic,nc,nc
 2023-04-11T22:40:28.400Z,38.8156662,-122.8146667,-0.62,0.91,md,8,123,0.008511,0.09,nc,nc73870925,2023-04-11T22:42:03.244Z,"7km NW of The Geysers, CA",earthquake,0.61,1.29,0.44,8,automatic,nc,nc
-2023-04-11T22:37:39.340Z,38.8071671,-122.8164978,3.12,0.71,md,7,118,0.01658,0.02,nc,nc73870920,2023-04-11T22:39:18.355Z,"6km WNW of The Geysers, CA",earthquake,0.78,1.77,0.11,8,automatic,nc,nc
-2023-04-11T22:33:03.270Z,38.6341667,-122.7143326,9.7,1,md,6,181,0.05422,0.07,nc,nc73870915,2023-04-11T22:45:12.417Z,"13km NE of Windsor, CA",earthquake,3.82,8.34,0.13,6,automatic,nc,nc
+2023-04-11T22:37:39.340Z,38.8071671,-122.8164978,3.12,0.71,md,7,118,0.01658,0.02,nc,nc73870920,2023-04-11T22:52:11.455Z,"6km WNW of The Geysers, CA",earthquake,0.78,1.77,0.11,8,automatic,nc,nc
+2023-04-11T22:33:03.270Z,38.6341667,-122.7143326,9.7,1,md,6,181,0.05422,0.07,nc,nc73870915,2023-04-11T22:49:15.435Z,"13km NE of Windsor, CA",earthquake,3.82,8.34,0.13,6,automatic,nc,nc
 2023-04-11T22:29:34.540Z,57.5734,-154.7703,30.6,1.7,ml,,,,0.79,ak,ak0234nejvm6,2023-04-11T22:31:58.081Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-11T22:28:21.690Z,17.9595,-66.9621666666667,6.44,2.21,md,5,200,0.07873,0.05,pr,pr71404243,2023-04-11T22:39:28.620Z,"Puerto Rico region",earthquake,0.76,0.39,0.0538929178762662,4,reviewed,pr,pr
 2023-04-11T22:14:05.597Z,61.3455,-150.1133,34.7,1.9,ml,,,,0.31,ak,ak0234negln3,2023-04-11T22:15:48.256Z,"7 km WSW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -189,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-11T04:46:49.654Z,60.8003,-152.3328,102.4,1.1,ml,,,,0.32,ak,ak0234n3xr2d,2023-04-11T04:48:20.567Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-11T04:44:06.637Z,62.3002,-151.1029,71.5,1,ml,,,,0.32,ak,ak0234n3x8bb,2023-04-11T04:45:54.779Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-11T04:26:50.650Z,38.7871666,-122.7681656,2.28,1.44,md,29,81,0.01497,0.06,nc,nc73870520,2023-04-11T06:48:16.478Z,"2km NW of The Geysers, CA",earthquake,0.25,0.44,0.16,28,automatic,nc,nc
-2023-04-11T04:21:13.653Z,59.6798,-153.338,109.7,2.2,ml,,,,0.23,ak,ak0234n3sbaz,2023-04-11T04:22:41.058Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-04-11T04:21:13.653Z,59.6798,-153.338,109.7,2.2,ml,,,,0.23,ak,ak0234n3sbaz,2023-04-11T22:50:51.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-11T03:58:57.750Z,38.7854996,-122.7668304,2.22,0.58,md,8,151,0.0161,0.02,nc,nc73870515,2023-04-11T05:16:14.927Z,"1km NW of The Geysers, CA",earthquake,0.45,0.99,0.22,7,automatic,nc,nc
 2023-04-11T03:58:41.396Z,61.3365,-149.4044,29.1,2.1,ml,,,,0.47,ak,ak0234n3evez,2023-04-11T04:00:23.463Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-11T03:53:38.430Z,38.7923317,-122.7324982,1.76,1.04,md,13,94,0.009664,0.02,nc,nc73870510,2023-04-11T05:03:17.857Z,"3km NE of The Geysers, CA",earthquake,0.3,0.63,0.28,13,automatic,nc,nc
@@ -250,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-10T23:00:42.630Z,38.7958336,-122.7464981,0.76,0.76,md,11,95,0.01138,0.03,nc,nc73870405,2023-04-10T23:38:12.023Z,"2km NNE of The Geysers, CA",earthquake,0.44,0.55,0.12,12,automatic,nc,nc
 2023-04-10T22:59:31.200Z,38.7955017,-122.7458344,0.52,1.64,md,19,95,0.01199,0.04,nc,nc73870400,2023-04-11T01:46:14.747Z,"2km NNE of The Geysers, CA",earthquake,0.22,0.46,0.08,19,automatic,nc,nc
 2023-04-10T22:58:06.330Z,58.1798333333333,-155.331,1.74,0.22,ml,9,166,,0.05,av,av91843506,2023-04-11T00:04:33.200Z,"Alaska Peninsula",earthquake,0.21,0.38,0.317849495287919,9,reviewed,av,av
-2023-04-10T22:55:45.150Z,19.9435,-155.820166666667,32.58,2.94,ml,41,151,,0.12,hv,hv73360887,2023-04-11T04:32:54.768Z,"3 km W of Waikoloa, Hawaii",earthquake,0.51,0.72,0.147334064408215,12,reviewed,hv,hv
-2023-04-10T22:49:32.800Z,53.864,-166.793833333333,7.43,0.02,ml,7,125,,0.14,av,av91843491,2023-04-10T23:59:50.000Z,"16 km W of Dutch Harbor, Alaska",earthquake,0.44,0.8,0.183484800268543,7,reviewed,av,av
-2023-04-10T22:48:42.190Z,38.498,-112.8395,0.54,-0.58,md,10,110,0.0145,0.09,uu,uu60033119,2023-04-11T15:01:55.880Z,"Utah",earthquake,0.37,1.02,0.306,3,reviewed,uu,uu
