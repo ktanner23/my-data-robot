@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-18T01:23:26.010Z,38.7608337,-122.7058334,1.04,1.48,md,5,185,0.008945,0.01,nc,nc73874915,2023-04-18T04:31:11.829Z,"2km SW of Anderson Springs, CA",earthquake,0.96,0.5,0.29,7,automatic,nc,nc
 2023-04-18T01:07:01.990Z,33.9701667,-116.811,16.44,1.6,ml,47,45,0.06056,0.16,ci,ci40442192,2023-04-18T01:17:39.410Z,"6km NNW of Cabazon, CA",earthquake,0.2,0.46,0.211,27,automatic,ci,ci
 2023-04-18T01:03:06.180Z,33.8513333,-116.7996667,10.8,0.79,ml,18,98,0.0178,0.3,ci,ci40442184,2023-04-18T01:06:44.487Z,"7km S of Cabazon, CA",earthquake,0.76,1.28,0.177,21,automatic,ci,ci
-2023-04-18T00:34:59.200Z,17.9303333333333,-66.9626666666667,16.07,2.38,md,15,229,0.06617,0.13,pr,pr71405593,2023-04-18T00:54:05.230Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.43,0.34,0.049318652571253,5,reviewed,pr,pr
+2023-04-18T00:34:59.200Z,17.9303333333333,-66.9626666666667,16.07,2.38,md,15,229,0.06617,0.13,pr,pr71405593,2023-04-18T00:54:05.230Z,"Puerto Rico region",earthquake,0.43,0.34,0.049318652571253,5,reviewed,pr,pr
 2023-04-18T00:33:42.350Z,38.4181667,-122.641,8.46,1.61,md,42,38,0.03367,0.11,nc,nc73874895,2023-04-18T07:40:12.047Z,"6km ESE of Santa Rosa, CA",earthquake,0.21,0.52,0.219,42,reviewed,nc,nc
 2023-04-18T00:19:17.980Z,34.9176667,-119.6058333,7.33,1.19,ml,15,107,0.06129,0.2,ci,ci40442176,2023-04-18T00:22:54.381Z,"24km SW of Maricopa, CA",earthquake,0.51,1.25,0.115,10,automatic,ci,ci
 2023-04-18T00:05:36.920Z,33.2431667,-116.7856667,23.59,0.83,ml,20,90,0.02366,0.36,ci,ci40442168,2023-04-18T00:09:24.851Z,"2km W of Lake Henshaw, CA",earthquake,0.95,1.99,0.097,14,automatic,ci,ci
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T22:59:27.260Z,19.1909999847412,-155.378494262695,30.7700004577637,2.01999998,md,30,190,,0.100000001,hv,hv73367557,2023-04-17T23:04:23.550Z,"Island of Hawaii, Hawaii",earthquake,0.77,1.03999996,0.800000012,3,automatic,hv,hv
 2023-04-17T22:51:17.450Z,17.9711666666667,-66.9558333333333,16.13,2.35,md,6,183,0.07299,0.06,pr,pr71405583,2023-04-17T23:26:35.090Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.72,0.43,0.00380853016589477,4,reviewed,pr,pr
 2023-04-17T22:49:04.920Z,19.3963333333333,-155.2655,1.48,0.42,md,12,61,,0.08,hv,hv73367547,2023-04-18T01:04:44.340Z,"6 km SSW of Volcano, Hawaii",earthquake,0.19,0.21,0.0914030056473533,2,reviewed,hv,hv
-2023-04-17T22:44:05.743Z,63.114,-151.592,14.5,1.2,ml,,,,1.17,ak,ak0234xbv44c,2023-04-17T22:47:35.249Z,"48 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-17T22:44:05.743Z,63.114,-151.592,14.5,1.2,ml,,,,1.17,ak,ak0234xbv44c,2023-04-17T22:47:35.249Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-17T22:36:20.490Z,38.8359985,-122.7900009,1.55,0.59,md,6,122,0.002422,0.02,nc,nc73874880,2023-04-17T22:37:54.305Z,"6km WNW of Cobb, CA",earthquake,0.59,1.24,0.32,7,automatic,nc,nc
 2023-04-17T22:31:13.739Z,38.6831,-119.7783,10.1,2.1,ml,8,205.97,0.011,0.1008,nn,nn00858336,2023-04-18T01:10:57.020Z,"1 km SSE of Markleeville, California",earthquake,,1.5,1.1,2,reviewed,nn,nn
 2023-04-17T22:22:19.888Z,63.5865,-148.8466,7.4,1.5,ml,,,,0.44,ak,ak0234xbqffo,2023-04-17T22:24:18.125Z,"16 km SSE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T11:46:50.135Z,42.1489,-120.166,4.9,0.1,ml,4,127.13,0.161,0.0721,nn,nn00858304,2023-04-17T15:09:34.629Z,"15 km ESE of Lakeview, Oregon",earthquake,,4.4,0.3,2,reviewed,nn,nn
 2023-04-17T11:46:28.007Z,63.5516,-147.455,3,1.5,ml,,,,0.83,ak,ak0234x5btlc,2023-04-17T11:48:39.018Z,"75 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-17T11:42:15.511Z,-31.8217,-178.8321,10,5,mb,25,76,2.67,0.51,us,us6000k51a,2023-04-17T12:00:01.040Z,"Kermadec Islands region",earthquake,9.85,1.866,0.092,38,reviewed,us,us
-2023-04-17T11:39:11.410Z,38.8323326,-122.8154984,1.77,0.76,md,8,67,0.009879,0.01,nc,nc73874665,2023-04-17T11:56:13.759Z,"8km NW of The Geysers, CA",earthquake,0.38,1.14,0.24,9,automatic,nc,nc
