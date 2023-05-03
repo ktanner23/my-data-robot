@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-03T03:16:36.510Z,35.8741667,-117.7138333,9.9,1.75,ml,21,74,0.0775,0.14,ci,ci40217799,2023-05-03T03:20:07.070Z,"19km ESE of Little Lake, CA",earthquake,0.23,0.57,0.13,19,automatic,ci,ci
 2023-05-03T03:16:05.470Z,36.809166,-121.5374985,3.28,1.7,md,17,83,0.02885,0.18,nc,nc73883246,2023-05-03T03:37:15.476Z,"4km S of San Juan Bautista, CA",earthquake,0.44,0.81,0.21,13,automatic,nc,nc
-2023-05-03T03:14:17.750Z,36.8111649,-121.5446701,3.57,3.19,ml,60,47,0.07154,0.21,nc,nc73883241,2023-05-03T03:34:37.238Z,"4km S of San Juan Bautista, CA",earthquake,0.28,0.89,0.222,30,automatic,nc,nc
+2023-05-03T03:14:17.750Z,36.8111649,-121.5446701,3.57,3.19,ml,60,47,0.07154,0.21,nc,nc73883241,2023-05-03T03:40:20.221Z,"4km S of San Juan Bautista, CA",earthquake,0.28,0.89,0.222,30,automatic,nc,nc
 2023-05-03T03:05:49.470Z,35.8778333,-117.7121667,12.19,1.08,ml,11,119,0.08132,0.16,ci,ci40217791,2023-05-03T03:09:24.032Z,"19km ESE of Little Lake, CA",earthquake,0.52,0.76,0.18,6,automatic,ci,ci
 2023-05-03T03:03:16.817Z,64.8634,-147.8905,9.6,1.1,ml,,,,0.79,ak,ak0235ngwo00,2023-05-03T03:07:30.809Z,"4 km W of College, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-03T02:58:50.900Z,35.859,-117.7103333,9.34,1.19,ml,15,114,0.06707,0.19,ci,ci40217783,2023-05-03T03:02:30.140Z,"20km ESE of Little Lake, CA",earthquake,0.44,0.85,0.154,10,automatic,ci,ci
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T00:58:49.950Z,38.8223343,-122.8531647,2.58,0.76,md,18,91,0.005955,0.02,nc,nc73883176,2023-05-03T01:34:14.707Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.53,0.18,18,automatic,nc,nc
 2023-05-03T00:57:53.650Z,38.8255005,-122.8506699,2.39,0.48,md,9,93,0.005258,0.01,nc,nc73883171,2023-05-03T01:23:19.640Z,"10km WNW of The Geysers, CA",earthquake,0.42,1.14,0.26,11,automatic,nc,nc
 2023-05-03T00:56:43.190Z,38.8235016,-122.850502,2.73,2.65,md,52,32,0.006408,0.05,nc,nc73883161,2023-05-03T01:09:11.578Z,"10km WNW of The Geysers, CA",earthquake,0.16,0.25,0.16,66,automatic,nc,nc
-2023-05-03T00:50:27.080Z,19.3700008392334,-155.29216003418,2.1800000667572,1.95,ml,18,106,,0.119999997,hv,hv73387317,2023-05-03T00:55:58.770Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.419999987,0.16,3,automatic,hv,hv
+2023-05-03T00:50:27.110Z,19.3731666666667,-155.2945,2.22,0.93,md,24,97,,0.11,hv,hv73387317,2023-05-03T03:48:44.000Z,"Island of Hawaii, Hawaii",earthquake,0.17,0.23,0.168456979506748,7,reviewed,hv,hv
 2023-05-03T00:47:37.266Z,65.3794,-149.9942,5.2,1.1,ml,,,,0.37,ak,ak0235nfdu9q,2023-05-03T00:49:16.547Z,"16 km SSE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T00:40:28.440Z,19.3010005950928,-155.227493286133,-0.490000009536743,1.85,ml,34,179,,0.209999993,hv,hv73387297,2023-05-03T00:45:59.080Z,"15 km S of Volcano, Hawaii",earthquake,0.54,0.209999993,0.14,6,automatic,hv,hv
 2023-05-03T00:38:50.743Z,62.2194,-149.7245,54,1.4,ml,,,,0.67,ak,ak0235nfbxv6,2023-05-03T00:40:58.893Z,"9 km NE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -226,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T04:21:59.770Z,19.1903324127197,-155.485336303711,31.5100002288818,2.1400001,md,40,73,,0.100000001,hv,hv73386322,2023-05-02T04:25:25.310Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.56,0.860000014,1.40999997,19,automatic,hv,hv
 2023-05-02T04:20:17.273Z,39.8689,-120.683,18.3,1.1,ml,3,328.19,0.248,0.0479,nn,nn00858969,2023-05-02T19:38:37.138Z,"1 km NE of Cromberg, California",earthquake,,8.8,0.19,2,reviewed,nn,nn
 2023-05-02T04:04:08.320Z,59.3711666666667,-153.4225,-0.93,0.16,ml,6,260,,0.21,av,av91098798,2023-05-02T22:41:27.790Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.5,0.53,0.310039156757317,6,reviewed,av,av
-2023-05-02T03:39:17.815Z,45.8504,148.7714,169.256,4.2,mb,30,161,4.712,0.65,us,us7000jxg3,2023-05-02T03:54:33.040Z,"98 km NE of Kuril’sk, Russia",earthquake,10.77,14.495,0.093,32,reviewed,us,us
-2023-05-02T03:39:08.550Z,19.389,-155.247833333333,1.51,2.57,ml,36,56,,0.11,hv,hv73386287,2023-05-02T04:16:05.251Z,"6 km SSW of Volcano, Hawaii",earthquake,0.2,0.15,0.134790663710723,19,reviewed,hv,hv
