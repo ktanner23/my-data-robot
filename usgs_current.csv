@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T03:01:11.470Z,33.5205,-116.5138333,12.28,1.62,ml,34,107,0.03959,0.19,ci,ci40221351,2023-05-09T03:04:52.617Z,"15km ESE of Anza, CA",earthquake,0.31,0.46,0.226,26,automatic,ci,ci
 2023-05-09T03:01:09.310Z,33.526,-116.5215,11.73,0.44,ml,28,70,0.0324,0.2,ci,ci40221343,2023-05-09T03:04:48.010Z,"14km ESE of Anza, CA",earthquake,0.36,0.56,0.091,6,automatic,ci,ci
 2023-05-09T02:45:36.296Z,61.1161,-151.4538,80.2,1.1,ml,,,,0.52,ak,ak0235xdscxp,2023-05-09T02:47:20.360Z,"17 km WNW of Tyonek, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2023-05-09T02:41:30.000Z,38.8139992,-122.8248367,1.96,1.32,md,27,49,0.006145,0.05,nc,nc73885531,2023-05-09T03:08:14.120Z,"7km NW of The Geysers, CA",earthquake,0.2,0.35,0.19,25,automatic,nc,nc
+2023-05-09T02:41:30.000Z,38.8139992,-122.8248367,1.96,1.32,md,27,49,0.006145,0.05,nc,nc73885531,2023-05-09T06:38:10.381Z,"7km NW of The Geysers, CA",earthquake,0.2,0.35,0.19,25,automatic,nc,nc
 2023-05-09T02:34:21.520Z,33.587,-117.0965,9.65,0.64,ml,20,77,0.053,0.24,ci,ci40221327,2023-05-09T02:37:52.746Z,"6km ENE of Murrieta Hot Springs, CA",earthquake,0.39,1.04,0.212,12,automatic,ci,ci
 2023-05-09T02:28:09.436Z,11.1414,-85.7684,83.442,4.6,mb,47,133,0.513,0.64,us,us6000kaim,2023-05-09T04:45:42.887Z,"16 km WNW of La Cruz, Costa Rica",earthquake,5.87,6.946,0.037,222,reviewed,us,us
 2023-05-09T02:28:06.331Z,63.0282,-150.2168,97.8,1.5,ml,,,,0.15,ak,ak0235xdong9,2023-05-09T02:29:38.027Z,"Central Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -76,8 +76,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T20:52:02.789Z,62.7025,-150.0453,15.5,1.8,ml,,,,0.52,ak,ak0235w108ra,2023-05-08T20:53:39.937Z,"28 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T20:50:21.190Z,19.2173328399658,-155.23567199707,27.1900005340576,1.82000005,md,28,227,,0.109999999,hv,hv73393212,2023-05-08T20:53:29.720Z,"24 km S of Volcano, Hawaii",earthquake,1.45,0.839999974,1.36000001,5,automatic,hv,hv
 2023-05-08T20:20:35.074Z,37.9808,38.3955,13.819,4.5,mb,81,74,0.636,0.85,us,us6000kagp,2023-05-08T22:06:34.939Z,"eastern Turkey",earthquake,6.27,5.381,0.079,47,reviewed,us,us
-2023-05-08T20:20:26.506Z,62.8622,-150.4975,86.5,1.3,ml,,,,0.42,ak,ak0235w0tfoa,2023-05-08T20:22:26.671Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
+2023-05-08T20:20:26.506Z,62.8622,-150.4975,86.5,1.3,ml,,,,0.42,ak,ak0235w0tfoa,2023-05-08T20:22:26.671Z,"43 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-08T20:16:48.819Z,59.599,-152.7212,54.9,1.4,ml,,,,0.25,ak,ak0235w0smj5,2023-05-08T20:18:18.554Z,"52 km WNW of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-08T20:14:18.123Z,37.4546,137.3632,8.798,4.9,mb,70,88,1.13,0.93,us,us6000kagl,2023-05-09T04:00:14.099Z,"47 km ENE of Anamizu, Japan",earthquake,6.22,4.615,0.033,285,reviewed,us,us
 2023-05-08T20:12:23.643Z,64.0015,-149.28,11.6,1.4,ml,,,,0.51,ak,ak0235w0rpq4,2023-05-08T20:14:10.995Z,"8 km WSW of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-08T20:05:04.850Z,47.24666666666667,-121.75633333333333,-0.86,1.12,ml,14,177,0.05065,0.08,uw,uw61922706,2023-05-08T22:30:00.910Z,"Washington",explosion,0.69,31.61,0.2439500512033308,13,reviewed,uw,uw
@@ -184,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T07:09:55.240Z,19.133,-155.484833333333,31.36,1.74,md,32,176,,0.1,hv,hv73392302,2023-05-09T00:26:21.400Z,"7 km S of Pāhala, Hawaii",earthquake,0.65,0.77,0.252798960361819,15,reviewed,hv,hv
 2023-05-08T06:51:00.670Z,17.941,-66.6705,7.9,2.7,md,12,192,0.0793,0.15,pr,pr71408483,2023-05-08T07:00:49.730Z,"7 km SE of Tallaboa, Puerto Rico",earthquake,0.54,0.65,0.178352453772442,5,reviewed,pr,pr
 2023-05-08T06:39:20.539Z,61.1822,-147.5436,15.4,1.4,ml,,,,0.52,ak,ak0235vslfcl,2023-05-08T06:42:46.865Z,"58 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-08T06:38:22.367Z,-4.345,143.2097,75.722,4.7,mb,48,79,6.375,0.55,us,us6000kabw,2023-05-08T07:01:04.040Z,"45 km ESE of Ambunti, Papua New Guinea",earthquake,10.13,7.763,0.093,36,reviewed,us,us
-2023-05-08T06:29:55.880Z,33.2801666666667,-83.0073333333333,10.95,2.47,md,10,103,0.406,0.27,se,se60500698,2023-05-09T03:47:42.309Z,"2 km W of Sparta, Georgia",earthquake,0.57,0.91,0.0661072566773759,10,reviewed,se,se
