@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-11T19:41:50.690Z,38.8240013,-122.7883301,-0.29,1.1,md,14,56,0.01228,0.1,nc,nc73886661,2023-05-11T19:43:27.874Z,"6km W of Cobb, CA",earthquake,0.25,0.61,0.1,16,automatic,nc,nc
-2023-05-11T19:41:30.580Z,38.822834,-122.7904968,1.25,1.47,md,24,38,0.01225,0.02,nc,nc73886656,2023-05-11T19:43:07.881Z,"6km W of Cobb, CA",earthquake,0.18,0.33,0.18,26,automatic,nc,nc
-2023-05-11T19:29:42.390Z,39.196167,-123.4509964,4.95,1.63,md,9,82,0.06426,0.05,nc,nc73886651,2023-05-11T19:42:11.809Z,"22km WNW of Ukiah, CA",earthquake,0.4,1.23,0.1,6,automatic,nc,nc
-2023-05-11T19:29:17.980Z,34.0263333,-117.4381667,3.44,1.35,ml,16,97,0.09129,0.31,ci,ci40223079,2023-05-11T19:32:53.166Z,"4km NW of Rubidoux, CA",earthquake,0.9,5.47,0.194,31,automatic,ci,ci
+2023-05-11T19:41:30.580Z,38.822834,-122.7904968,1.25,1.47,md,24,38,0.01225,0.02,nc,nc73886656,2023-05-11T19:54:10.886Z,"6km W of Cobb, CA",earthquake,0.18,0.33,0.18,26,automatic,nc,nc
+2023-05-11T19:29:42.390Z,39.196167,-123.4509964,4.95,1.63,md,9,82,0.06426,0.05,nc,nc73886651,2023-05-11T19:57:13.904Z,"22km WNW of Ukiah, CA",earthquake,0.4,1.23,0.1,6,automatic,nc,nc
+2023-05-11T19:29:20.560Z,33.8586667,-117.4838333,-0.56,1.46,ml,33,49,0.0523,0.23,ci,ci40223079,2023-05-11T19:57:08.567Z,"4km ESE of Home Gardens, CA",quarry blast,0.37,31.61,0.154,26,reviewed,ci,ci
 2023-05-11T19:25:09.590Z,33.706,-116.7331667,16.17,1.32,ml,42,34,0.01666,0.18,ci,ci40223071,2023-05-11T19:28:46.480Z,"4km SSW of Idyllwild, CA",earthquake,0.22,0.4,0.228,26,automatic,ci,ci
 2023-05-11T19:16:34.630Z,38.8173332,-122.8239975,2.3,0.71,md,10,106,0.009372,0.01,nc,nc73886646,2023-05-11T19:29:12.719Z,"7km NW of The Geysers, CA",earthquake,0.41,0.81,0.42,12,automatic,nc,nc
 2023-05-11T18:46:49.200Z,33.9386667,-117.0545,11.57,0.96,ml,36,44,0.06383,0.16,ci,ci40223047,2023-05-11T18:50:22.931Z,"6km S of Calimesa, CA",earthquake,0.22,0.75,0.125,23,automatic,ci,ci
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T16:59:02.570Z,32.8913333,-116.2718333,6.83,0.9,ml,17,72,0.06844,0.1,ci,ci40222959,2023-05-11T19:41:26.189Z,"25km ENE of Pine Valley, CA",earthquake,0.18,0.59,0.046,7,reviewed,ci,ci
 2023-05-11T16:55:37.168Z,58.2898,-154.8929,15.7,0.8,ml,,,,0.58,ak,ak02360x99mc,2023-05-11T16:57:22.567Z,"84 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-11T16:52:35.013Z,60.1544,-153.0461,120.3,1.5,ml,,,,0.59,ak,ak02360x8mb1,2023-05-11T16:55:59.391Z,"70 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-11T16:50:58.470Z,38.7383347,-122.8280029,4.89,1.45,md,32,109,0.03365,0.05,nc,nc73886576,2023-05-11T17:29:15.009Z,"8km SW of The Geysers, CA",earthquake,0.29,0.62,0.19,30,automatic,nc,nc
+2023-05-11T16:50:58.470Z,38.7383347,-122.8280029,4.89,1.45,md,32,109,0.03365,0.05,nc,nc73886576,2023-05-11T19:52:12.873Z,"8km SW of The Geysers, CA",earthquake,0.29,0.62,0.19,30,automatic,nc,nc
 2023-05-11T16:36:38.810Z,38.8193333,-122.788,1.58,0.47,md,12,78,0.008333,0.01,nc,nc73886571,2023-05-11T18:13:10.288Z,"5km NNW of The Geysers, CA",earthquake,0.42,0.68,0.078,11,reviewed,nc,nc
 2023-05-11T16:35:01.570Z,19.1511669158936,-155.496673583984,36.1199989318848,2.18000007,md,40,142,,0.109999999,hv,hv73396752,2023-05-11T16:38:11.330Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.71,0.829999983,1.03999996,19,automatic,hv,hv
 2023-05-11T16:33:17.880Z,35.0563333,-118.3406667,-0.93,1.16,ml,16,51,0.06559,0.17,ci,ci40222935,2023-05-11T19:37:02.260Z,"13km SE of Tehachapi, CA",quarry blast,0.4,31.61,0.107,20,reviewed,ci,ci
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T14:00:13.600Z,19.1746673583984,-155.405334472656,31.9899997711182,2,md,44,166,,0.129999995,hv,hv73396597,2023-05-11T14:05:44.430Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.6,0.75999999,1.12,12,automatic,hv,hv
 2023-05-11T13:59:15.742Z,65.5927,-145.0762,19.1,1.6,ml,,,,0.31,ak,ak02360vhs0m,2023-05-11T14:01:14.290Z,"12 km W of Central, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-11T13:50:07.350Z,24.2054,125.337,28.576,4.8,mb,24,215,2.137,0.58,us,us6000kb3j,2023-05-11T14:14:41.040Z,"64 km S of Miyakojima, Japan",earthquake,15.99,8.669,0.084,44,reviewed,us,us
+2023-05-11T13:40:05.460Z,46.872,-121.93083333333334,8.18,0.3,ml,13,85,0.01618,0.1,uw,uw61923501,2023-05-11T19:54:01.300Z,"14 km NNE of Ashford, Washington",earthquake,0.54,0.54,0.21572641911844093,10,reviewed,uw,uw
 2023-05-11T13:34:50.627Z,63.0366,-151.0531,124.8,1.5,ml,,,,0.31,ak,ak02360vchqx,2023-05-11T13:38:24.035Z,"61 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-11T13:33:14.013Z,24.212,125.2916,24.636,5.9,mww,58,40,2.095,1.17,us,us6000kb3g,2023-05-11T15:39:31.232Z,"64 km S of Miyakojima, Japan",earthquake,7.19,4.816,0.071,19,reviewed,us,us
 2023-05-11T13:27:56.915Z,63.0579,-150.5273,96.4,1.9,ml,,,,0.64,ak,ak02360vb0a3,2023-05-11T13:30:10.426Z,"63 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -85,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-11T10:20:16.640Z,34.2496667,-118.2103333,13.1,0.73,ml,16,46,0.03375,0.1,ci,ci40222695,2023-05-11T17:48:33.302Z,"3km NE of La Crescenta-Montrose, CA",earthquake,0.23,0.61,0.117,9,reviewed,ci,ci
 2023-05-11T10:16:50.730Z,37.4336662,-121.7693329,9.77,1.4,md,26,73,0.02979,0.05,nc,nc73886476,2023-05-11T12:22:30.186Z,"9km NE of Alum Rock, CA",earthquake,0.21,0.37,0.17,16,automatic,nc,nc
 2023-05-11T10:12:28.107Z,62.1888,-148.1373,22.1,2.6,ml,,,,0.69,ak,ak02360tffih,2023-05-11T11:31:10.040Z,"46 km NNE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-05-11T10:07:49.341Z,39.4024,-119.8429,8.1,0.2,ml,3,317.33,0.062,0.0338,nn,nn00859357,2023-05-11T19:49:37.133Z,"14 km SSE of Mogul, Nevada",earthquake,,3.9,0,1,reviewed,nn,nn
 2023-05-11T10:06:42.900Z,17.9553333333333,-66.8385,18.17,2.2,md,8,207,0.04347,0.09,pr,pr71408893,2023-05-11T10:19:33.260Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.53,0.72,0.0578892886850169,6,reviewed,pr,pr
 2023-05-11T09:52:44.367Z,42.3324,142.9855,63.921,5.2,mww,120,63,0.342,0.63,us,us6000kb2d,2023-05-11T10:58:14.620Z,"23 km NNE of Honchō, Japan",earthquake,7.46,6.14,0.098,10,reviewed,us,us
 2023-05-11T09:50:11.930Z,34.9431667,-119.0925,9.62,1.05,ml,8,138,0.1373,0.12,ci,ci40222687,2023-05-11T17:45:08.980Z,"12km NNE of Pine Mountain Club, CA",earthquake,0.49,1.64,0.04,2,reviewed,ci,ci
@@ -224,8 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-10T20:07:46.200Z,19.0336666107178,-155.392501831055,33.8400001525879,1.87,md,22,243,,0.119999997,hv,hv73395427,2023-05-10T20:12:42.510Z,"20 km E of Naalehu, Hawaii",earthquake,0.91,1.39999998,1.90999997,4,automatic,hv,hv
 2023-05-10T20:02:37.076Z,62.2547,-150.1568,60.4,1.1,ml,,,,0.17,ak,ak0235zbsal7,2023-05-10T20:04:10.479Z,"7 km SSE of Trapper Creek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-05-10T20:01:28.140Z,38.8351669,-122.7986679,2.11,1.02,md,15,60,0.007262,0.02,nc,nc73886276,2023-05-10T21:30:12.804Z,"7km WNW of Cobb, CA",earthquake,0.26,0.71,0.22,17,automatic,nc,nc
-2023-05-10T19:51:19.125Z,64.9916,-158.0326,4.3,2.8,ml,,,,1.16,ak,ak0235zbhboo,2023-05-10T21:23:11.730Z,"20 km NW of Koyukuk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-10T19:50:19.655Z,59.8901,-151.7108,50.4,2.3,ml,,,,0.28,ak,ak0235zbh40d,2023-05-10T19:55:54.345Z,"6 km S of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-05-10T19:49:50.120Z,33.3736667,-116.3908333,11.06,0.63,ml,14,105,0.05084,0.11,ci,ci40222359,2023-05-10T21:20:31.918Z,"13km N of Borrego Springs, CA",earthquake,0.42,0.87,0.092,9,reviewed,ci,ci
-2023-05-10T19:49:27.820Z,33.3741667,-116.3951667,11.46,1.03,ml,21,64,0.05281,0.13,ci,ci40222351,2023-05-10T21:17:23.657Z,"13km N of Borrego Springs, CA",earthquake,0.23,0.65,0.077,12,reviewed,ci,ci
-2023-05-10T19:48:55.040Z,33.3673333,-116.412,11.33,2.38,ml,95,20,0.05522,0.19,ci,ci40222343,2023-05-11T05:46:18.420Z,"13km NNW of Borrego Springs, CA",earthquake,0.12,0.25,0.165,111,reviewed,ci,ci
