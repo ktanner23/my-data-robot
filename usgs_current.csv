@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-05-22T09:41:12.280Z,33.3341667,-116.6653333,13.23,0.37,ml,15,104,0.1355,0.13,ci,ci40231103,2023-05-22T09:44:47.356Z,"6km NNW of Warner Springs, CA",earthquake,0.31,1.02,0.14,7,automatic,ci,ci
-2023-05-22T09:39:29.480Z,38.8520012,-122.7768326,1.25,0.71,md,9,197,0.009392,0.03,nc,nc73891186,2023-05-22T09:41:06.278Z,"6km NW of Cobb, CA",earthquake,0.54,0.49,0.1,10,automatic,nc,nc
+2023-05-22T09:39:29.480Z,38.8520012,-122.7768326,1.25,0.71,md,9,197,0.009392,0.03,nc,nc73891186,2023-05-22T09:56:11.761Z,"6km NW of Cobb, CA",earthquake,0.54,0.49,0.1,10,automatic,nc,nc
 2023-05-22T09:29:14.010Z,34.0335,-117.0871667,16.94,1.14,ml,44,38,0.02105,0.25,ci,ci40231095,2023-05-22T09:40:02.710Z,"4km W of Yucaipa, CA",earthquake,0.3,0.6,0.251,29,automatic,ci,ci
 2023-05-22T09:14:09.822Z,63.6077,-147.5128,20.9,0.8,ml,,,,0.35,ak,ak0236izr7cm,2023-05-22T09:16:20.685Z,"70 km ESE of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-05-22T08:59:53.470Z,38.8219986,-122.8191681,1.98,0.39,md,8,161,0.007239,0.01,nc,nc73891181,2023-05-22T09:28:13.593Z,"7km NW of The Geysers, CA",earthquake,0.62,1.04,0.15,9,automatic,nc,nc
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-22T04:28:19.640Z,38.8226662,-122.8099976,9.49,0.65,md,9,137,0.0007302,0.05,nc,nc73891111,2023-05-22T04:45:13.635Z,"7km NW of The Geysers, CA",earthquake,1.92,7.54,0.19,10,automatic,nc,nc
 2023-05-22T04:27:59.260Z,35.6998333,-117.5573333,6.78,0.86,ml,11,142,0.1142,0.16,ci,ci40230967,2023-05-22T04:31:37.496Z,"14km NE of Ridgecrest, CA",earthquake,0.68,1.44,0.157,7,automatic,ci,ci
 2023-05-22T04:21:10.890Z,40.1673317,-121.0573349,0.08,2.38,md,11,83,0.3162,0.17,nc,nc73891106,2023-05-22T05:36:14.924Z,"2km E of Canyondam, CA",earthquake,0.56,12.36,0.09,7,automatic,nc,nc
-2023-05-22T04:19:49.400Z,40.1635017,-121.0546646,-1.39,3.08,ml,41,48,0.318,0.51,nc,nc73891101,2023-05-22T05:50:28.415Z,"2km ESE of Canyondam, CA",earthquake,0.68,3.19,0.297,16,automatic,nc,nc
+2023-05-22T04:19:49.400Z,40.1635017,-121.0546646,-1.39,3.08,ml,41,48,0.318,0.51,nc,nc73891101,2023-05-22T09:55:21.642Z,"2km ESE of Canyondam, CA",earthquake,0.68,3.19,0.297,16,automatic,nc,nc
 2023-05-22T03:53:41.584Z,35.16608047,-97.88650513,2.994560003,1.82,ml,11,116.2590027,0.05737625062,0.7770796468,ok,ok2023jxxq,2023-05-22T03:56:27.916Z,"0 km NW of Amber, Oklahoma",earthquake,3.823057246,2.398858481,0.24,7,automatic,ok,ok
 2023-05-22T03:52:15.535Z,60.1762,-151.1191,65.4,2.1,ml,,,,0.21,ak,ak0236iwerdd,2023-05-22T03:53:25.318Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-22T03:51:33.320Z,62.9786,-151.1591,124,1.4,ml,,,,0.24,ak,ak0236iwel10,2023-05-22T03:53:22.695Z,"57 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -276,6 +276,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-21T10:04:46.180Z,47.38216666666667,-123.2815,13.87,0.88,ml,12,94,0.06372,0.14,uw,uw61926791,2023-05-21T21:29:05.060Z,"10 km WNW of Skokomish, Washington",earthquake,0.37,0.55,0.22353904465370833,8,reviewed,uw,uw
 2023-05-21T10:04:18.521Z,37.2671,-117.5838,6.9,1.7,ml,18,94.88,0.06,0.1839,nn,nn00859925,2023-05-21T18:01:50.174Z,"California-Nevada border region",earthquake,,1.2,0.68,10,reviewed,nn,nn
 2023-05-21T10:00:11.571Z,59.2467,-144.6562,5,3.6,ml,,,,0.79,ak,ak0236hcqakb,2023-05-21T17:16:55.910Z,"157 km SSE of Cordova, Alaska",earthquake,,0,,,reviewed,ak,ak
-2023-05-21T09:54:02.400Z,37.2627,-117.5827,5.6,1.7,ml,14,123.83,0.059,0.2051,nn,nn00859924,2023-05-21T17:58:37.741Z,"54 km S of Silver Peak, Nevada",earthquake,,1.7,0.75,8,reviewed,nn,nn
-2023-05-21T09:51:57.480Z,17.82,-66.8638333333333,11.34,2.42,md,12,253,0.1549,0.12,pr,pr71410188,2023-05-21T10:04:40.770Z,"17 km SSE of Guánica, Puerto Rico",earthquake,0.68,0.49,0.0556495731334077,6,reviewed,pr,pr
-2023-05-21T09:50:07.450Z,19.2703342437744,-155.378829956055,29.0499992370605,2.55,ml,50,129,,0.159999996,hv,hv73413472,2023-05-21T09:59:22.040Z,"12 km NE of Pāhala, Hawaii",earthquake,0.54,0.600000024,3.35,30,automatic,hv,hv
