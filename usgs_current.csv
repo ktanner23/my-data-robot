@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T10:58:41.370Z,44.798,-110.8066667,5.59,0.43,md,11,210,0.03267,0.08,uu,uu60540871,2023-05-25T13:19:50.750Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.68,0.74,0.104,7,reviewed,uu,uu
 2023-05-25T10:43:10.980Z,38.7823334,-122.7580032,1.64,1.08,md,13,65,0.01308,0.02,nc,nc73889695,2023-05-25T11:36:13.242Z,"1km NNW of The Geysers, CA",earthquake,0.27,0.5,0.18,13,automatic,nc,nc
 2023-05-25T10:42:34.430Z,37.3905,-118.4528333,8.92,2.52,md,20,144,0.1034,0.07,nc,nc73889690,2023-05-25T18:11:17.928Z,"3km N of West Bishop, CA",earthquake,0.45,1.8,0.15,32,reviewed,nc,nc
-2023-05-25T10:39:37.614Z,-23.2286,170.7972,10,5.5,mww,65,63,3.149,0.76,us,us7000k3ps,2023-05-25T12:43:02.062Z,"southeast of the Loyalty Islands",earthquake,6.78,1.745,0.058,29,reviewed,us,us
+2023-05-25T10:39:37.614Z,-23.2286,170.7972,10,5.5,mww,65,63,3.149,0.76,us,us7000k3ps,2023-05-25T19:24:35.040Z,"southeast of the Loyalty Islands",earthquake,6.78,1.745,0.058,29,reviewed,us,us
 2023-05-25T10:21:02.250Z,38.8173333,-122.8221667,2.29,-0.01,md,19,57,0.01007,0.03,nc,nc73889685,2023-05-25T15:47:07.683Z,"7km NW of The Geysers, CA",earthquake,0.22,0.41,0.391,18,reviewed,nc,nc
 2023-05-25T09:59:49.174Z,37.2733,-117.592,5.9,1.2,ml,8,126.77,0.059,0.123,nn,nn00860277,2023-05-25T17:32:00.644Z,"California-Nevada border region",earthquake,,5.3,0.8,5,reviewed,nn,nn
 2023-05-25T09:52:29.559Z,61.572,-146.5131,31.3,1.3,ml,,,,0.74,ak,ak0236nylfk5,2023-05-25T09:54:42.324Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-25T08:09:34.797Z,59.2194,-152.6901,68.6,1.6,ml,,,,0.45,ak,ak0236nxqt7l,2023-05-25T17:46:49.531Z,"46 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-05-25T08:08:35.594Z,61.0661,-152.3509,108.9,0.2,ml,,,,0.13,ak,ak0236nxqkx3,2023-05-25T08:09:51.060Z,"65 km W of Tyonek, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-05-25T07:57:25.907Z,61.1701,-151.7052,93.2,1,ml,,,,0.55,ak,ak0236nxfmni,2023-05-25T07:59:12.380Z,"32 km WNW of Tyonek, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2023-05-25T07:41:53.140Z,58.261,-155.0965,2.49,-0.17,ml,4,128,,0.13,av,av91104883,2023-05-25T19:15:56.440Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,1.66,0.212178367407952,4,reviewed,av,av
 2023-05-25T07:40:35.820Z,19.4051666259766,-155.317169189453,3.30999994277954,1.75,ml,11,93,,0.230000004,hv,hv73420587,2023-05-25T07:46:06.200Z,"9 km WSW of Volcano, Hawaii",earthquake,0.57,1.09000003,0.25,4,automatic,hv,hv
 2023-05-25T07:35:13.109Z,8.8978,-77.1147,10,4.5,mb,30,73,2.152,0.68,us,us7000k3pa,2023-05-25T10:45:53.781Z,"Panama-Colombia border region",earthquake,2.5,1.976,0.221,7,reviewed,us,us
 2023-05-25T07:25:12.460Z,58.1881666666667,-155.286,2.43,0.68,ml,12,55,,0.06,av,av91771567,2023-05-25T19:09:43.570Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.38,0.0431468370343048,3,reviewed,av,av
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-24T19:44:42.000Z,58.2501666666667,-155.056833333333,3.72,0.56,ml,12,115,,0.09,av,av91771157,2023-05-25T02:08:03.760Z,"83 km NNW of Karluk, Alaska",earthquake,0.27,0.48,0.265198358179612,12,reviewed,av,av
 2023-05-24T19:43:16.270Z,33.4818333,-116.4398333,10.2,1.19,ml,33,70,0.04311,0.21,ci,ci40233071,2023-05-24T20:44:27.737Z,"23km ESE of Anza, CA",earthquake,0.27,0.46,0.168,27,reviewed,ci,ci
 2023-05-24T19:38:49.311Z,39.3706,-99.0031,8.876,3.2,mb_lg,27,47,0.797,0.77,us,us7000k3l2,2023-05-25T04:52:14.420Z,"12 km SSW of Alton, Kansas",earthquake,2.5,7.271,0.043,141,reviewed,us,us
-2023-05-24T19:17:42.220Z,38.8380013,-122.8105011,1.64,0.27,md,6,152,0.01459,0.01,nc,nc73889520,2023-05-24T19:33:11.482Z,"8km WNW of Cobb, CA",earthquake,0.81,1.66,0.17,7,automatic,nc,nc
