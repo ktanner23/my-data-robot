@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-07T13:40:19.150Z,19.4055004119873,-155.275329589844,0,2.56999993,md,25,37,,0.280000001,hv,hv73444812,2023-06-07T13:43:35.730Z,"5 km SW of Volcano, Hawaii",earthquake,0.29,0.340000004,2.05999994,14,automatic,hv,hv
+2023-06-07T13:40:19.150Z,19.4055004119873,-155.275329589844,0,1.92,ml,25,37,,0.280000001,hv,hv73444812,2023-06-07T13:45:52.430Z,"5 km SW of Volcano, Hawaii",earthquake,0.29,0.340000004,0.37,12,automatic,hv,hv
 2023-06-07T13:36:52.110Z,19.4125003814697,-155.278839111328,0.239999994635582,1.74,ml,25,53,,0.140000001,hv,hv73444807,2023-06-07T13:42:22.960Z,"5 km SW of Volcano, Hawaii",earthquake,0.21,0.230000004,0.27,8,automatic,hv,hv
 2023-06-07T13:35:28.270Z,19.4103336334229,-155.284164428711,0.949999988079071,1.77,ml,19,54,,0.119999997,hv,hv73444802,2023-06-07T13:40:58.120Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.180000007,0.24,7,automatic,hv,hv
 2023-06-07T13:25:25.510Z,61.3048,-150.6575,67.5,1.2,ml,,,,0.38,ak,ak02379isvrb,2023-06-07T13:27:30.425Z,"27 km SSW of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-07T12:40:52.440Z,19.411,-155.275,0.88,2.08,ml,20,47,,0.07,hv,hv73444632,2023-06-07T13:17:18.650Z,"5 km SW of Volcano, Hawaii",earthquake,0.13,0.19,0.186495513257934,10,reviewed,hv,hv
 2023-06-07T12:40:13.823Z,62.7269,-150.4553,6.9,1.2,ml,,,,0.58,ak,ak02379iamzt,2023-06-07T12:43:05.831Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-07T12:35:34.610Z,19.4118333333333,-155.2675,1.12,3.44,ml,55,39,,0.11,hv,hv73444617,2023-06-07T13:44:00.595Z,"4 km SW of Volcano, Hawaii",earthquake,0.12,0.12,0.201232872577562,32,reviewed,hv,hv
-2023-06-07T12:26:38.692Z,42.0505,24.8375,10,4.6,mb,108,26,1.045,0.74,us,us7000k6vb,2023-06-07T13:43:13.110Z,"Bulgaria",earthquake,5.2,1.875,0.072,58,reviewed,us,us
+2023-06-07T12:26:38.692Z,42.0505,24.8375,10,4.6,mb,108,26,1.045,0.74,us,us7000k6vb,2023-06-07T13:53:17.574Z,"Bulgaria",earthquake,5.2,1.875,0.072,58,reviewed,us,us
 2023-06-07T12:26:27.200Z,19.4101657867432,-155.287673950195,0.670000016689301,1.78999996,md,16,58,,0.0700000003,hv,hv73444592,2023-06-07T12:40:48.683Z,"6 km WSW of Volcano, Hawaii",earthquake,0.19,0.150000006,1.21000004,12,automatic,hv,hv
 2023-06-07T12:25:24.638Z,45.4448,-111.8189,13.378,2.5,ml,33,46,0.202,0.42,us,us7000k6va,2023-06-07T13:33:47.222Z,"12 km NNW of Ennis, Montana",earthquake,1.76,8.141,0.053,47,reviewed,us,us
 2023-06-07T12:22:33.760Z,19.42,-155.2855,1.76,0.34,md,12,109,,0.09,hv,hv73444577,2023-06-07T12:39:03.300Z,"Island of Hawaii, Hawaii",earthquake,0.22,0.21,0.00316316556724083,2,reviewed,hv,hv
@@ -289,5 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-06T14:11:01.070Z,35.6998333,-121.0438333,8.61,1,md,15,76,0.09111,0.03,nc,nc73897726,2023-06-06T19:21:55.401Z,"15km ENE of San Simeon, CA",earthquake,0.2,0.66,0.258,10,reviewed,nc,nc
 2023-06-06T13:56:27.129Z,62.1558,-152.1174,107.4,1.8,ml,,,,0.42,ak,ak02377vg6l4,2023-06-06T13:59:03.582Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-06-06T13:55:35.689Z,36.5557,-116.2515,6.9,0,ml,6,162.29,0.106,0.0897,nn,nn00860919,2023-06-07T02:04:03.156Z,"45 km NNW of Pahrump, Nevada",earthquake,,4.8,0.05,2,reviewed,nn,nn
-2023-06-06T13:49:42.071Z,36.9788,-116.2741,10.8,0.3,ml,11,87.18,0.036,0.3368,nn,nn00860910,2023-06-06T13:51:27.678Z,"43 km E of Beatty, Nevada",earthquake,,0.8,0.14,7,automatic,nn,nn
-2023-06-06T13:48:05.400Z,46.88166666666667,-121.982,11.72,0.35000000000000003,ml,17,210,0.02469,0.1,uw,uw61930901,2023-06-07T05:53:49.700Z,"Washington",earthquake,0.69,0.41,0.1767482119184089,9,reviewed,uw,uw
