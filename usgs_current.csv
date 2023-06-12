@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-12T08:08:20.100Z,34.4613333,-117.9588333,8.87,0.87,ml,16,52,0.01268,0.14,ci,ci40483728,2023-06-12T08:11:49.912Z,"7km SW of Pearblossom, CA",earthquake,0.32,0.52,0.385,19,automatic,ci,ci
 2023-06-12T08:05:09.150Z,34.4546667,-117.9626667,11.38,0.39,ml,10,63,0.008282,0.18,ci,ci40483720,2023-06-12T08:08:41.126Z,"8km SW of Pearblossom, CA",earthquake,0.58,0.78,0.254,7,automatic,ci,ci
-2023-06-12T07:56:06.840Z,38.8354988,-122.8034973,1.82,0.72,md,9,96,0.01996,0.02,nc,nc73900281,2023-06-12T07:57:43.619Z,"7km WNW of Cobb, CA",earthquake,0.31,1.17,0.31,9,automatic,nc,nc
-2023-06-12T07:48:15.860Z,38.8214989,-122.8046646,3.25,1.15,md,17,51,0.01536,0.02,nc,nc73900276,2023-06-12T07:58:09.563Z,"6km NW of The Geysers, CA",earthquake,0.26,0.59,0.18,18,automatic,nc,nc
+2023-06-12T07:56:06.840Z,38.8354988,-122.8034973,1.82,0.72,md,9,96,0.01996,0.02,nc,nc73900281,2023-06-12T08:27:17.754Z,"7km WNW of Cobb, CA",earthquake,0.31,1.17,0.31,9,automatic,nc,nc
+2023-06-12T07:48:15.860Z,38.8214989,-122.8046646,3.25,1.15,md,17,51,0.01536,0.02,nc,nc73900276,2023-06-12T08:16:14.685Z,"6km NW of The Geysers, CA",earthquake,0.26,0.59,0.18,18,automatic,nc,nc
 2023-06-12T07:44:08.500Z,19.2150001525879,-155.385330200195,30.5,2.39,ml,50,156,,0.150000006,hv,hv73449232,2023-06-12T08:11:40.040Z,"9 km E of Pāhala, Hawaii",earthquake,0.53,0.819999993,3.52,21,automatic,hv,hv
-2023-06-12T07:40:12.370Z,38.8218346,-122.8016663,2.84,1.34,md,22,52,0.01471,0.05,nc,nc73900271,2023-06-12T08:04:15.604Z,"6km NW of The Geysers, CA",earthquake,0.24,0.43,0.13,19,automatic,nc,nc
+2023-06-12T07:40:12.370Z,38.8218346,-122.8016663,2.84,1.34,md,22,52,0.01471,0.05,nc,nc73900271,2023-06-12T08:15:11.677Z,"6km NW of The Geysers, CA",earthquake,0.24,0.43,0.13,19,automatic,nc,nc
 2023-06-12T07:38:51.771Z,35.3379097,-98.10218048,2.371318817,1.82,ml,16,113.6380768,0.1047722474,0.7343864715,ok,ok2023lkoq,2023-06-12T07:42:44.657Z,"14 km W of Minco, Oklahoma",earthquake,3.906169296,2.636505643,0.37,10,automatic,ok,ok
 2023-06-12T07:34:59.200Z,17.9706666666667,-67.0078333333333,8.19,2.24,md,3,182,0.03466,0.04,pr,pr71413103,2023-06-12T07:46:47.400Z,"4 km E of La Parguera, Puerto Rico",earthquake,2.83,0.98,0.144975828355374,3,reviewed,pr,pr
 2023-06-12T07:24:42.664Z,60.4246,-152.0481,80.5,1.7,ml,,,,0.34,ak,ak0237howu7e,2023-06-12T07:27:13.469Z,"41 km W of Cohoe, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -148,6 +148,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-11T08:52:38.636Z,61.739,-150.5561,4.5,1.4,ml,,,,0.78,ak,ak0237g24x1z,2023-06-11T08:54:31.725Z,"21 km N of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-11T08:50:38.754Z,65.9052,-147.0864,0,1.2,ml,,,,0.3,ak,ak0237g24hmr,2023-06-11T08:52:16.592Z,"52 km SSE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-11T08:49:42.420Z,58.247,-155.063666666667,4.1,0.21,ml,6,160,,0.18,av,av91920901,2023-06-11T14:45:15.830Z,"83 km NNW of Karluk, Alaska",earthquake,0.5,1.07,0.225971204049805,6,reviewed,av,av
-2023-06-11T08:27:02.410Z,58.2343333333333,-155.185166666667,4.34,0.52,ml,6,132,,0.21,av,av91920836,2023-06-11T14:38:16.560Z,"85 km NNW of Karluk, Alaska",earthquake,0.56,0.65,0.140182897398791,6,reviewed,av,av
-2023-06-11T08:23:38.817Z,55.5229,-158.7736,16.6,2.5,ml,,,,0.13,ak,ak0237g1ypax,2023-06-11T08:25:34.203Z,"49 km SSE of Perryville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-06-11T08:22:55.660Z,33.5315,-116.6846667,9.24,1.03,ml,45,32,0.05545,0.16,ci,ci40483208,2023-06-11T13:48:00.260Z,"3km SSW of Anza, CA",earthquake,0.17,0.38,0.227,27,reviewed,ci,ci
