@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-18T15:22:45.155Z,63.6655,-147.3434,250,1.5,ml,,,,0.92,ak,ak0237rqvyrn,2023-06-18T15:35:45.094Z,"78 km E of Denali Park, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T15:04:49.691Z,-23.7728,-175.7382,10,5.8,mww,39,121,2.638,0.94,us,us7000k9dk,2023-06-18T15:34:02.892Z,"280 km SSW of ‘Ohonua, Tonga",earthquake,9.5,1.862,0.093,11,reviewed,us,us
 2023-06-18T15:04:13.667Z,64.9961,-147.3866,1.8,1.6,ml,,,,0.57,ak,ak0237rqs1gb,2023-06-18T15:06:47.508Z,"11 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-18T14:57:42.242Z,59.6959,-152.7124,88.1,1.8,ml,,,,0.61,ak,ak0237rqi100,2023-06-18T15:00:04.368Z,"50 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -8,7 +9,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T14:29:39.184Z,-23.9721,-175.7954,28.456,5.7,mww,49,78,2.842,0.54,us,us7000k9d8,2023-06-18T14:53:13.002Z,"Tonga region",earthquake,10.07,4.774,0.071,19,reviewed,us,us
 2023-06-18T14:28:45.429Z,-23.7584,-175.9331,10,5.1,mb,21,133,2.663,0.99,us,us7000k9d9,2023-06-18T14:47:10.040Z,"285 km SSW of ‘Ohonua, Tonga",earthquake,12.99,1.906,0.042,181,reviewed,us,us
 2023-06-18T14:25:38.915Z,-23.8868,-175.9281,10,5.1,mb,21,164,2.786,1.01,us,us7000k9d7,2023-06-18T14:43:13.040Z,"299 km SSW of ‘Ohonua, Tonga",earthquake,10.43,1.893,0.061,86,reviewed,us,us
-2023-06-18T14:04:45.527Z,59.2056,-153.6392,250,2.3,ml,,,,1.14,ak,ak0237rq6u16,2023-06-18T14:12:13.337Z,"62 km SE of Pope-Vannoy Landing, Alaska",earthquake,,9.8,,,automatic,ak,ak
 2023-06-18T14:00:32.695Z,57.9225,-155.8802,11.6,1.8,ml,,,,0.74,ak,ak0237rq5sg5,2023-06-18T14:01:52.489Z,"93 km WNW of Karluk, Alaska",earthquake,,6.1,,,automatic,ak,ak
 2023-06-18T13:52:44.165Z,60.0534,-152.893,103.8,1.5,ml,,,,0.22,ak,ak0237rpvhdf,2023-06-18T15:34:30.062Z,"65 km W of Happy Valley, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-06-18T13:45:06.360Z,19.371,-65.6555,54.12,3.37,md,14,274,1.115,0.42,pr,pr71413888,2023-06-18T14:11:06.820Z,"106 km NNE of Suárez, Puerto Rico",earthquake,3.43,11.37,0.135325271444437,11,reviewed,pr,pr
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T03:58:39.266Z,-23.1515,-66.3282,226.463,4.5,mwr,64,43,1.716,0.91,us,us7000k9al,2023-06-18T04:16:20.040Z,"66 km W of El Aguilar, Argentina",earthquake,7.9,7.235,,,reviewed,us,guc
 2023-06-18T03:57:57.670Z,38.8185005,-122.8216629,2.67,1.49,md,25,48,0.01029,0.05,nc,nc73902361,2023-06-18T06:26:13.211Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.14,27,automatic,nc,nc
 2023-06-18T03:53:35.940Z,44.5258333333333,-115.234,12.55,2.23,ml,10,93,0.6371,0.07,mb,mb90018718,2023-06-18T14:30:15.700Z,"41 km NW of Stanley, Idaho",earthquake,0.38,1,0.203968825780424,21,reviewed,mb,mb
-2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T15:27:06.549Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
+2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T15:43:54.352Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
 2023-06-18T03:34:44.460Z,38.8358345,-122.7945023,2.21,0.76,md,13,58,0.004142,0.01,nc,nc73902346,2023-06-18T05:17:18.838Z,"6km WNW of Cobb, CA",earthquake,0.32,0.87,0.14,13,automatic,nc,nc
 2023-06-18T03:33:45.857Z,62.2253,-151.1157,71,1.8,ml,,,,0.5,ak,ak0237rjt4ft,2023-06-18T03:35:48.765Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T03:24:56.450Z,19.1611671447754,-155.50666809082,34.3499984741211,1.87,md,32,211,,0.140000001,hv,hv73454317,2023-06-18T03:28:04.130Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.94,0.819999993,1.66999996,10,automatic,hv,hv
