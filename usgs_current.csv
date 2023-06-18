@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-18T20:34:27.540Z,38.8325005,-122.8021698,2.37,0.79,md,12,60,0.01096,0.01,nc,nc73902616,2023-06-18T20:36:01.942Z,"7km W of Cobb, CA",earthquake,0.35,1,0.16,14,automatic,nc,nc
-2023-06-18T20:30:30.000Z,23.2,-108.3,33,6.6,Mi,132,151.19998790400098,0,1.89,at,at00rwguar,2023-06-18T20:38:53.086Z,"138 km ESE of La Rivera, Mexico",earthquake,0,0,,70,reviewed,at,at
-2023-06-18T20:10:08.660Z,38.8325005,-122.8183365,1.38,0.77,md,14,56,0.01115,0.02,nc,nc73902601,2023-06-18T20:11:42.679Z,"8km NW of The Geysers, CA",earthquake,0.26,0.65,0.15,14,automatic,nc,nc
+2023-06-18T20:30:23.636Z,23.2562,-108.6967,10,6.3,mww,54,175,5.163,1.47,us,us7000k9f0,2023-06-18T20:52:32.257Z,"98 km ESE of La Rivera, Mexico",earthquake,9.61,1.905,0.055,32,reviewed,us,us
+2023-06-18T20:10:08.660Z,38.8325005,-122.8183365,1.38,0.77,md,14,56,0.01115,0.02,nc,nc73902601,2023-06-18T20:41:19.113Z,"8km NW of The Geysers, CA",earthquake,0.26,0.65,0.15,14,automatic,nc,nc
 2023-06-18T19:59:47.780Z,38.7906685,-122.7580032,2.26,0.71,md,5,171,0.01003,0.06,nc,nc73902596,2023-06-18T20:29:19.049Z,"2km N of The Geysers, CA",earthquake,1.02,1.58,0.19,7,automatic,nc,nc
 2023-06-18T19:18:37.530Z,36.074501,-120.6484985,4.13,2.57,md,36,65,0.04276,0.16,nc,nc73902581,2023-06-18T19:42:10.788Z,"24km ENE of San Ardo, CA",earthquake,0.31,1,0.13,32,automatic,nc,nc
 2023-06-18T19:15:19.374Z,63.4835,-149.3159,33.3,1.5,ml,,,,0.68,ak,ak0237rt856p,2023-06-18T19:21:48.254Z,"20 km WNW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-18T03:58:39.266Z,-23.1515,-66.3282,226.463,4.5,mwr,64,43,1.716,0.91,us,us7000k9al,2023-06-18T04:16:20.040Z,"66 km W of El Aguilar, Argentina",earthquake,7.9,7.235,,,reviewed,us,guc
 2023-06-18T03:57:57.670Z,38.8185005,-122.8216629,2.67,1.49,md,25,48,0.01029,0.05,nc,nc73902361,2023-06-18T06:26:13.211Z,"7km NW of The Geysers, CA",earthquake,0.22,0.47,0.14,27,automatic,nc,nc
 2023-06-18T03:53:35.940Z,44.5258333333333,-115.234,12.55,2.23,ml,10,93,0.6371,0.07,mb,mb90018718,2023-06-18T14:30:15.700Z,"southern Idaho",earthquake,0.38,1,0.203968825780424,21,reviewed,mb,mb
-2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T20:15:50.686Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
+2023-06-18T03:44:59.090Z,39.0893333,-123.0895,10.52,4.35,mw,92,64,0.04182,0.11,nc,nc73902356,2023-06-18T20:46:49.745Z,"8km SE of Talmage, CA",earthquake,0.13,0.35,,4,reviewed,nc,nc
 2023-06-18T03:34:44.460Z,38.8358345,-122.7945023,2.21,0.76,md,13,58,0.004142,0.01,nc,nc73902346,2023-06-18T05:17:18.838Z,"6km WNW of Cobb, CA",earthquake,0.32,0.87,0.14,13,automatic,nc,nc
 2023-06-18T03:33:45.857Z,62.2253,-151.1157,71,1.8,ml,,,,0.5,ak,ak0237rjt4ft,2023-06-18T03:35:48.765Z,"30 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-18T03:24:56.450Z,19.1611671447754,-155.50666809082,34.3499984741211,1.87,md,32,211,,0.140000001,hv,hv73454317,2023-06-18T03:28:04.130Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.94,0.819999993,1.66999996,10,automatic,hv,hv
@@ -175,4 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-17T21:15:03.500Z,34.499,-116.2313333,1.99,2.68,ml,39,71,0.1949,0.12,ci,ci40487888,2023-06-18T18:02:42.688Z,"26km SSW of Ludlow, CA",earthquake,0.13,0.63,0.135,115,reviewed,ci,ci
 2023-06-17T21:12:21.140Z,19.328332901001,-155.271835327148,31.3600006103516,1.74000001,md,33,120,,0.119999997,hv,hv73454047,2023-06-17T21:15:26.110Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.639999986,0.430000007,9,automatic,hv,hv
 2023-06-17T20:54:39.160Z,32.954,-115.5495,8.36,1.44,ml,29,74,0.05323,0.28,ci,ci40487880,2023-06-18T17:20:25.471Z,"3km SSW of Brawley, CA",earthquake,0.31,0.95,0.137,17,reviewed,ci,ci
-2023-06-17T20:46:48.512Z,35.7887,79.9086,10,4.4,mb,25,128,5.431,1.13,us,us7000k990,2023-06-17T21:39:56.040Z,"Kashmir-Xinjiang border region",earthquake,4.4,1.927,0.131,17,reviewed,us,us
