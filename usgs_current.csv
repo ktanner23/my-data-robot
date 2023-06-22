@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T03:45:07.947Z,36.10228348,-97.83260345,5.214579582,1.52,ml,19,90.02676392,0.1149994731,0.2913527479,ok,ok2023mcny,2023-06-22T03:48:13.814Z,"Oklahoma",earthquake,2.96322345,4.119647828,0.2,6,automatic,ok,ok
 2023-06-22T03:35:42.080Z,35.7163333,-117.4985,11.1,0.84,ml,11,169,0.07949,0.18,ci,ci40491648,2023-06-22T03:39:19.540Z,"10km WSW of Searles Valley, CA",earthquake,0.83,1.22,0.13,5,automatic,ci,ci
 2023-06-22T03:28:18.528Z,58.2405,-155.2027,0,0.7,ml,,,,0.35,ak,ak0237y5xdq4,2023-06-22T03:29:34.097Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
 2023-06-22T03:26:14.762Z,38.1738,-117.7691,8,1.4,ml,10,183.93,0.108,0.1436,nn,nn00861539,2023-06-22T03:28:55.664Z,"38 km SE of Mina, Nevada",earthquake,,0.6,0.93,8,automatic,nn,nn
 2023-06-22T03:24:27.650Z,19.3731666666667,-66.4136666666667,50.47,3.37,md,7,325,0.898,0.17,pr,pr71414348,2023-06-22T03:38:28.860Z,"100 km N of Brenas, Puerto Rico",earthquake,2.3,6.81,0.0443632528468378,5,reviewed,pr,pr
+2023-06-22T03:12:36.790Z,47.278333333333336,-123.59733333333334,16.41,1.31,ml,19,85,0.06342,0.25,uw,uw61934956,2023-06-22T03:47:04.580Z,"26 km SE of Neilton, Washington",earthquake,0.52,0.96,0.10437572550121321,14,reviewed,uw,uw
 2023-06-22T03:07:55.130Z,17.9406666666667,-66.9453333333333,10.35,2.27,md,15,215,0.04694,0.1,pr,pr71414333,2023-06-22T03:19:25.140Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.55,0.4,0.215758291396424,5,reviewed,pr,pr
 2023-06-22T02:42:25.813Z,44.0373,33.4084,9.69,4.7,mb,68,25,2.122,0.83,us,us7000ka91,2023-06-22T03:15:50.040Z,"49 km SW of Foros, Ukraine",earthquake,6.54,4.777,0.078,50,reviewed,us,us
 2023-06-22T02:37:34.870Z,33.6465,-116.7148333,15.96,1.99,ml,70,26,0.0645,0.19,ci,ci40491632,2023-06-22T02:48:00.490Z,"10km S of Idyllwild, CA",earthquake,0.17,0.33,0.152,25,automatic,ci,ci
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T02:13:30.677Z,-23.566,-175.9857,35,5,mb,42,121,2.492,0.71,us,us7000ka8y,2023-06-22T03:01:50.040Z,"268 km SSW of ‘Ohonua, Tonga",earthquake,12.92,1.892,0.055,104,reviewed,us,us
 2023-06-22T01:46:19.113Z,58.1851,-155.317,0.9,1.1,ml,,,,0.4,ak,ak0237y4udg7,2023-06-22T01:48:08.144Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-06-22T01:41:31.122Z,58.0645,-153.6135,52.4,1.5,ml,,,,0.34,ak,ak0237y4tbso,2023-06-22T01:43:44.311Z,"Kodiak Island region, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-06-22T01:24:17.063Z,26.3529,127.8194,35,5.1,mb,46,65,0.629,0.7,us,us7000ka8v,2023-06-22T03:17:55.975Z,"2 km NE of Okinawa, Japan",earthquake,6.45,1.923,0.045,157,reviewed,us,us
+2023-06-22T01:24:17.063Z,26.3529,127.8194,35,5.1,mb,46,65,0.629,0.7,us,us7000ka8v,2023-06-22T03:49:02.309Z,"2 km NE of Okinawa, Japan",earthquake,6.45,1.923,0.045,157,reviewed,us,us
 2023-06-22T01:18:34.762Z,57.0528,-157.571,167.7,2.2,ml,,,,0.6,ak,ak0237y4oelw,2023-06-22T01:20:25.093Z,"52 km SSW of Ugashik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-06-22T00:48:22.130Z,33.2371667,-116.6423333,12.91,0.57,ml,21,86,0.03814,0.2,ci,ci40491608,2023-06-22T00:51:56.857Z,"5km S of Warner Springs, CA",earthquake,0.4,0.8,0.197,10,automatic,ci,ci
 2023-06-22T00:44:50.740Z,38.8424988,-122.8243332,1.71,0.27,md,10,116,0.009545,0.02,nc,nc73903776,2023-06-22T02:22:17.053Z,"9km WNW of Cobb, CA",earthquake,0.41,0.63,0.11,10,automatic,nc,nc
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T21:21:02.135Z,37.2717,-117.5896,6.3,1.9,ml,13,94.9,0.059,0.1356,nn,nn00861529,2023-06-21T21:58:04.275Z,"53 km S of Silver Peak, Nevada",earthquake,,1.6,0.38,7,reviewed,nn,nn
 2023-06-21T21:18:13.420Z,40.7281667,-112.0706667,9.46,0.66,md,12,86,0.02647,0.11,uu,uu60542951,2023-06-21T21:53:05.530Z,"3 km NE of Magna, Utah",earthquake,0.33,0.6,0.072,5,reviewed,uu,uu
 2023-06-21T21:03:11.906Z,64.6393,-146.8724,1,1.5,ml,,,,0.57,ak,ak0237wsygpi,2023-06-21T21:04:58.618Z,"9 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-21T21:01:18.780Z,45.6715,-122.71283333333334,20.07,2.54,ml,23,36,0.03956,0.14,uw,uw61934921,2023-06-22T03:33:29.931Z,"2 km SW of Lake Shore, Washington",earthquake,0.29,0.52,0.15120455247181308,18,reviewed,uw,uw
+2023-06-21T21:01:18.780Z,45.6715,-122.71283333333334,20.07,2.54,ml,23,36,0.03956,0.14,uw,uw61934921,2023-06-22T03:52:14.289Z,"2 km SW of Lake Shore, Washington",earthquake,0.29,0.52,0.15120455247181308,18,reviewed,uw,uw
 2023-06-21T20:49:12.585Z,60.1788,-151.0361,68.6,1.5,ml,,,,0.27,ak,ak0237wsmw3e,2023-06-22T00:06:38.788Z,"20 km ESE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-06-21T20:45:20.594Z,62.8991,-148.9408,10.6,1.3,ml,,,,0.63,ak,ak0237wslvmk,2023-06-21T20:47:33.511Z,"54 km S of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T20:45:10.326Z,54.7901,-156.7817,10,3.1,ml,,,,0.96,ak,ak0237wsm1g9,2023-06-21T22:50:02.445Z,"195 km SE of Perryville, Alaska",earthquake,,4.8,,,reviewed,ak,ak
@@ -116,8 +118,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T11:20:54.620Z,33.4715,-116.559,9.71,1.09,ml,54,80,0.04288,0.15,ci,ci40490736,2023-06-21T16:14:58.310Z,"14km SE of Anza, CA",earthquake,0.17,0.28,0.195,24,reviewed,ci,ci
 2023-06-21T11:12:31.460Z,44.2215,-110.273,7.71,1.12,md,13,87,0.1705,0.21,uu,uu60542906,2023-06-21T13:47:28.730Z,"72 km NNE of Kelly, Wyoming",earthquake,0.65,1.15,0.3,10,reviewed,uu,uu
 2023-06-21T11:08:07.378Z,63.1169,-150.8282,8.4,0.3,ml,,,,0.42,ak,ak0237wn1fi2,2023-06-21T11:13:26.429Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-06-21T11:06:14.460Z,58.171,-155.314333333333,0.33,0.25,ml,6,207,,0.15,av,av91108208,2023-06-22T03:51:55.720Z,"84 km NW of Karluk, Alaska",earthquake,0.77,2.85,0.451234894587561,6,reviewed,av,av
+2023-06-21T11:05:57.940Z,58.1626666666667,-155.328833333333,-2.2,0.45,ml,9,214,,0.12,av,av91932686,2023-06-22T03:49:43.950Z,"84 km NW of Karluk, Alaska",earthquake,0.62,2.44,0.498883317131102,9,reviewed,av,av
 2023-06-21T11:05:02.130Z,64.4726,-158.1844,13.9,1.3,ml,,,,1.11,ak,ak0237wn0j7j,2023-06-21T15:54:26.920Z,"27 km S of Nulato, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-06-21T11:03:28.840Z,58.1345,-155.4664,11,0.5,ml,,,,0.28,ak,ak0237wn064g,2023-06-21T11:06:38.739Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-21T11:03:28.840Z,58.1345,-155.4664,11,0.5,ml,,,,0.28,ak,ak0237wn064g,2023-06-22T03:47:22.080Z,"87 km NW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T11:01:24.490Z,51.9055,179.6105,6.74,0.4,ml,5,171,,0.18,av,av91932676,2023-06-22T03:44:41.600Z,"258 km W of Adak, Alaska",earthquake,0.82,0.91,0.21448228437939,5,reviewed,av,av
 2023-06-21T10:59:12.500Z,64.2177,-150.4741,14.8,2,ml,,,,0.71,ak,ak0237wmqp76,2023-06-21T11:01:08.802Z,"62 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T10:58:53.990Z,19.037,-67.9611666666667,18.49,3.32,md,8,330,0.7937,0.36,pr,pr71414248,2023-06-21T13:38:54.934Z,"68 km NE of Punta Cana, Dominican Republic",earthquake,13.01,26.22,0.0407920044606154,6,reviewed,pr,pr
@@ -203,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T04:01:35.560Z,58.2474,-155.1076,27.4,0.7,ml,,,,0.34,ak,ak0237witptg,2023-06-22T00:29:36.710Z,"84 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T03:59:40.090Z,58.2365,-155.168333333333,33.98,0.96,ml,12,121,,0.15,av,av91932296,2023-06-21T23:58:08.260Z,"Alaska Peninsula",earthquake,0.65,0.86,0.293139398219895,11,reviewed,av,av
 2023-06-21T03:58:53.840Z,47.93066666666667,-122.02133333333333,26.45,1.83,ml,45,38,0.06433,0.27,uw,uw61934781,2023-06-21T04:54:22.700Z,"1 km SSW of Three Lakes, Washington",earthquake,0.33,0.54,0.10995448143652053,36,reviewed,uw,uw
-2023-06-21T03:53:27.154Z,61.2748,-152.0347,6.5,0.9,ml,,,,0.99,ak,ak0237wijesr,2023-06-22T00:14:02.090Z,"53 km WNW of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-21T03:52:31.340Z,19.2848339080811,-155.386672973633,29.4899997711182,2.01,ml,50,120,,0.109999999,hv,hv73457102,2023-06-21T03:58:02.220Z,"13 km NE of Pāhala, Hawaii",earthquake,0.52,0.629999995,3.33,7,automatic,hv,hv
-2023-06-21T03:48:54.780Z,58.1771666666667,-155.335833333333,2.24,0.35,ml,8,206,,0.08,av,av91932286,2023-06-22T00:11:00.010Z,"Alaska Peninsula",earthquake,0.34,0.41,0.409282383352278,8,reviewed,av,av
