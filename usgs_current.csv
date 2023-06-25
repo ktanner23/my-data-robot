@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-25T14:38:47.920Z,18.7900009155273,-155.244171142578,7.23999977111816,2.0999999,md,23,274,,0.159999996,hv,hv73461427,2023-06-25T14:42:08.470Z,"Hawaii region, Hawaii",earthquake,2.12,2.01999998,2.06999993,6,automatic,hv,hv
 2023-06-25T14:35:46.835Z,60.1473,-153.4581,153.5,2.5,ml,,,,0.78,ak,ak02383b4r1y,2023-06-25T14:39:40.709Z,"48 km E of Port Alsworth, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-06-25T14:35:45.370Z,38.8260002,-122.8059998,1.2,0.72,md,9,73,0.00411,0.02,nc,nc73905081,2023-06-25T14:37:23.214Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.23,11,automatic,nc,nc
+2023-06-25T14:35:45.370Z,38.8260002,-122.8059998,1.2,0.72,md,9,73,0.00411,0.02,nc,nc73905081,2023-06-25T14:52:15.213Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.23,11,automatic,nc,nc
 2023-06-25T14:27:08.150Z,36.2548333333333,-83.5393333333333,4.73,2.39,md,23,108,0.08835,0.46,se,se60530996,2023-06-25T14:42:45.650Z,"3 km SW of Rutledge, Tennessee",earthquake,1.08,2.92,0.0798818622606934,13,reviewed,se,se
 2023-06-25T14:14:48.750Z,34.007,-117.2148333,6.51,0.89,ml,14,142,0.1341,0.21,ci,ci40494872,2023-06-25T14:18:14.296Z,"6km SSW of Redlands, CA",earthquake,0.57,2.31,0.194,10,automatic,ci,ci
 2023-06-25T14:04:38.770Z,32.7543333,-115.422,9.8,1.59,ml,13,120,0.05497,0.27,ci,ci40494864,2023-06-25T14:08:16.231Z,"7km SSW of Holtville, CA",earthquake,0.89,1.62,0.178,18,automatic,ci,ci
@@ -135,7 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T20:26:49.262Z,31.68618975,-104.1605363,6.131567383,2.9,ml,35,54,0.07152756709,0.2,tx,tx2023mhma,2023-06-24T20:48:13.168Z,"53 km W of Mentone, Texas",earthquake,0.4936503593,0.5882881292999999,0.2,25,reviewed,tx,tx
 2023-06-24T20:26:07.010Z,38.8300018,-122.3681641,-0.65,1.31,md,7,154,0.2917,0.13,nc,nc73904791,2023-06-24T22:38:13.484Z,"17km E of Hidden Valley Lake, CA",earthquake,2.01,6.27,,2,automatic,nc,nc
 2023-06-24T20:25:17.684Z,39.3553,-119.9941,7.3,0.8,ml,9,116.56,0.071,0.1103,nn,nn00861690,2023-06-24T23:22:43.626Z,"4 km SSE of Floriston, California",earthquake,,1.6,0.35,5,reviewed,nn,nn
-2023-06-24T20:16:40.319Z,62.0039,-148.5927,15.3,1.1,ml,,,,1.01,ak,ak02381r1x33,2023-06-24T20:18:21.657Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-06-24T20:16:40.319Z,62.0039,-148.5927,15.3,1.1,ml,,,,1.01,ak,ak02381r1x33,2023-06-24T20:18:21.657Z,"24 km NNW of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-24T19:51:09.550Z,19.1660003662109,-155.355667114258,29.4400005340576,1.72000003,md,36,178,,0.119999997,hv,hv73460802,2023-06-24T19:54:24.700Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,1.04999995,1.02999997,16,automatic,hv,hv
 2023-06-24T19:48:38.580Z,37.0564,-116.1871,6,0.8,ml,20,47.48,0.062,0.0996,nn,nn00861680,2023-06-24T23:03:57.795Z,"Nevada",earthquake,,1.2,0.41,10,reviewed,nn,nn
 2023-06-24T19:47:29.350Z,36.8071671,-121.4518356,6.35,1.72,md,13,87,0.04298,0.09,nc,nc73904786,2023-06-24T22:12:17.356Z,"6km SW of Hollister, CA",earthquake,0.37,0.83,0.13,5,automatic,nc,nc
@@ -177,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-24T15:13:46.800Z,38.8139992,-122.8171692,2.97,0.82,md,14,106,0.01069,0.02,nc,nc73904661,2023-06-24T15:32:11.814Z,"7km NW of The Geysers, CA",earthquake,0.35,0.64,0.15,12,automatic,nc,nc
 2023-06-24T15:05:11.160Z,32.9348333,-116.2858333,8.94,1.09,ml,33,58,0.02462,0.24,ci,ci40494072,2023-06-24T15:08:52.539Z,"26km ENE of Pine Valley, CA",earthquake,0.3,0.92,0.132,21,automatic,ci,ci
 2023-06-24T15:04:36.380Z,32.9421667,-116.2818333,11.8,0.83,ml,30,57,0.02195,0.21,ci,ci40494064,2023-06-24T15:08:18.821Z,"26km SSW of Ocotillo Wells, CA",earthquake,0.3,0.77,0.108,9,automatic,ci,ci
-2023-06-24T15:00:59.760Z,36.6048317,-121.206337,1.81,2.09,md,20,148,0.03711,0.1,nc,nc73904656,2023-06-24T17:18:15.511Z,"10km NW of Pinnacles, CA",earthquake,0.47,0.94,0.22,20,automatic,nc,nc
-2023-06-24T14:55:40.199Z,-12.6347,66.0898,10,4.8,mb,35,84,7.547,0.56,us,us7000kaup,2023-06-24T15:12:02.040Z,"Mid-Indian Ridge",earthquake,9.14,1.669,0.091,37,reviewed,us,us
