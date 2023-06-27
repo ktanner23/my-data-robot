@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-06-27T10:35:14.280Z,37.4049988,-119.9469986,3.5,2.27,md,10,62,0.1625,0.33,nc,nc73905936,2023-06-27T10:43:11.796Z,"8km SW of Bootjack, CA",earthquake,0.92,2.58,0.11,6,automatic,nc,nc
+2023-06-27T10:35:14.280Z,37.4049988,-119.9469986,3.5,2.27,md,10,62,0.1625,0.33,nc,nc73905936,2023-06-27T10:50:47.837Z,"8km SW of Bootjack, CA",earthquake,0.92,2.58,0.11,6,automatic,nc,nc
 2023-06-27T10:26:53.250Z,37.4091682,-119.9844971,21.76,2.35,md,5,112,0.1919,0.13,nc,nc73905926,2023-06-27T10:41:44.887Z,"9km S of Mariposa, CA",earthquake,0.88,1.31,0.08,5,automatic,nc,nc
 2023-06-27T10:09:48.160Z,33.9948333,-116.791,17.98,1.57,ml,54,52,0.04256,0.19,ci,ci40496776,2023-06-27T10:13:23.174Z,"9km N of Cabazon, CA",earthquake,0.2,0.43,0.194,26,automatic,ci,ci
-2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"19 km S of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
+2023-06-27T10:02:21.666Z,-30.1304,-71.3012,65.363,4.6,mwr,60,121,0.218,0.54,us,us6000knd9,2023-06-27T10:24:47.040Z,"Near the coast of Coquimbo, Chile",earthquake,2.17,5.276,,,reviewed,us,guc
 2023-06-27T10:01:42.730Z,33.378,-116.3741667,11.09,0.51,ml,13,167,0.1153,0.18,ci,ci40496768,2023-06-27T10:05:31.005Z,"14km N of Borrego Springs, CA",earthquake,0.55,1.15,0.141,6,automatic,ci,ci
 2023-06-27T10:00:20.370Z,36.5751648,-121.0934982,12.37,1.93,md,13,163,0.04354,0.05,nc,nc73905916,2023-06-27T10:47:11.825Z,"7km NE of Pinnacles, CA",earthquake,1.8,2.51,0.13,8,automatic,nc,nc
 2023-06-27T09:59:57.310Z,33.3851667,-116.386,11,0.63,ml,20,148,0.1195,0.15,ci,ci40496760,2023-06-27T10:03:39.443Z,"14km N of Borrego Springs, CA",earthquake,0.36,0.71,0.173,12,automatic,ci,ci
@@ -144,6 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T15:31:23.770Z,34.1373333,-117.4208333,6.61,2.7,ml,99,16,0.0405,0.18,ci,ci40495808,2023-06-27T08:09:07.633Z,"6km NE of Fontana, CA",earthquake,0.14,0.37,0.211,24,reviewed,ci,ci
 2023-06-26T15:29:49.570Z,19.1790008544922,-155.490493774414,31.6900005340576,1.85000002,md,27,90,,0.100000001,hv,hv73462362,2023-06-26T15:32:51.200Z,"Hawaii region, Hawaii",earthquake,0.67,0.579999983,0.920000017,3,automatic,hv,hv
 2023-06-26T15:22:18.350Z,33.8813333,-116.209,4.8,0.93,ml,25,70,0.05304,0.13,ci,ci40495800,2023-06-27T00:06:10.921Z,"18km N of Indio, CA",earthquake,0.2,0.4,0.121,18,reviewed,ci,ci
+2023-06-26T15:19:29.830Z,37.7225,-122.5458333,7.55,1.24,md,26,102,0.09183,0.04,nc,nc73905616,2023-06-27T10:59:22.059Z,"4km WSW of San Francisco Zoo, CA",earthquake,0.29,0.59,0.171,21,reviewed,nc,nc
 2023-06-26T15:13:59.930Z,64.9161,-148.6373,18.8,0.4,ml,,,,0.44,ak,ak02384z4uex,2023-06-26T15:21:09.614Z,"30 km WNW of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-26T15:13:23.608Z,53.6895,-166.0932,71.6,1.8,ml,,,,0.49,ak,ak02384z4q0d,2023-06-26T15:29:17.411Z,"35 km SE of Unalaska, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2023-06-26T15:09:44.920Z,36.4211667,-120.4543333,2.13,1.28,md,27,127,0.1109,0.21,nc,nc73905611,2023-06-27T00:37:20.101Z,"16km SW of Cantua Creek, CA",earthquake,0.37,1.04,0.089,9,reviewed,nc,nc
@@ -154,6 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T14:56:12.964Z,61.955,-149.8756,32,1.8,ml,,,,0.56,ak,ak02384ysiz4,2023-06-26T14:58:50.056Z,"23 km S of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-26T14:39:21.057Z,36.8631,-115.9783,6.3,0.6,ml,7,127.62,0.005,0.1414,nn,nn00861769,2023-06-27T02:04:23.395Z,"42 km NW of Indian Springs, Nevada",earthquake,,2,0.45,5,reviewed,nn,nn
 2023-06-26T14:38:39.470Z,38.0761667,-112.7766667,5.5,1.27,md,9,255,0.1767,0.21,uu,uu60544027,2023-06-26T17:18:45.100Z,"20 km SE of Minersville, Utah",earthquake,1.44,5.27,0.068,6,reviewed,uu,uu
+2023-06-26T14:33:45.890Z,37.6705,-122.4936667,7.62,1.19,md,22,90,0.0116,0.06,nc,nc73905601,2023-06-27T10:57:21.721Z,"3km WSW of Colma, CA",earthquake,0.25,0.34,0.127,14,reviewed,nc,nc
 2023-06-26T14:00:07.940Z,33.871,-116.2096667,3.8,0.53,ml,9,160,0.06213,0.1,ci,ci37527589,2023-06-27T00:00:37.755Z,"17km N of Indio, CA",earthquake,0.32,0.76,0.068,4,reviewed,ci,ci
 2023-06-26T13:59:52.980Z,33.8785,-116.214,4.69,0.89,ml,20,70,0.05773,0.11,ci,ci40495728,2023-06-26T23:56:54.671Z,"18km ENE of Thousand Palms, CA",earthquake,0.21,0.46,0.087,18,reviewed,ci,ci
 2023-06-26T13:51:41.750Z,44.7443333,-111.1318333,9.45,-0.03,md,7,95,0.04632,0.2,uu,uu60544022,2023-06-26T15:53:06.510Z,"western Montana",earthquake,0.67,1.53,0.383,5,reviewed,uu,uu
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-26T11:17:25.890Z,40.2107,-119.7943,6.7,0.7,ml,5,258.78,0.063,0.1601,nn,nn00861761,2023-06-27T02:04:15.720Z,"29 km ENE of Herlong, California",earthquake,,2.2,0.31,5,reviewed,nn,nn
 2023-06-26T11:12:49.040Z,38.821167,-122.795166,2.67,1.08,md,25,33,0.01186,0.03,nc,nc73905546,2023-06-26T11:35:17.483Z,"6km NW of The Geysers, CA",earthquake,0.22,0.43,0.16,22,automatic,nc,nc
 2023-06-26T11:03:53.367Z,32.08648682,-101.6262147,8.632527669,2.2,ml,15,85,0.1234693992,0.1,tx,tx2023mkkm,2023-06-26T16:00:40.967Z,"16 km ESE of Stanton, Texas",earthquake,0.4515872171,1.24124016,0.1,29,reviewed,tx,tx
-2023-06-26T10:54:31.466Z,61.4085,-147.7364,48.1,1.1,ml,,,,0.48,ak,ak02384weeju,2023-06-26T10:55:46.949Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
