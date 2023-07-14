@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T06:40:41.600Z,34.0043333,-117.1793333,16.34,1.95,ml,76,32,0.05707,0.17,ci,ci39612466,2023-07-14T06:51:43.410Z,"6km S of Redlands, CA",earthquake,0.16,0.36,0.2,25,automatic,ci,ci
 2023-07-14T06:32:14.426Z,64.5952,-149.4323,30.6,0.8,ml,,,,0.47,ak,ak0238ylk5ya,2023-07-14T06:34:00.915Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-14T06:05:16.930Z,38.8433342,-122.8351669,1.43,0.98,md,5,203,0.004745,0.01,nc,nc73912786,2023-07-14T06:58:15.662Z,"10 km WNW of Cobb, CA",earthquake,1.14,0.7,0.24,4,automatic,nc,nc
-2023-07-14T05:56:05.890Z,20.0571670532227,-155.853332519531,15.289999961853,2.7,ml,46,154,,0.189999998,hv,hv73481007,2023-07-14T07:10:13.763Z,"9 km N of Puako, Hawaii",earthquake,0.76,3.04999995,4.14,11,automatic,hv,hv
+2023-07-14T05:56:05.890Z,20.0571670532227,-155.853332519531,15.289999961853,2.7,ml,46,154,,0.189999998,hv,hv73481007,2023-07-14T07:36:53.653Z,"9 km N of Puako, Hawaii",earthquake,0.76,3.04999995,4.14,11,automatic,hv,hv
 2023-07-14T05:46:38.345Z,58.195,-155.3659,0,0.3,ml,,,,0.26,ak,ak0238yl1s7e,2023-07-14T05:48:33.106Z,"88 km NW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-07-14T05:41:04.834Z,58.181,-155.344,1.3,0.3,ml,,,,0.19,ak,ak0238yl0n1v,2023-07-14T05:42:32.608Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2023-07-14T05:32:09.480Z,38.7840004,-122.7256699,1.17,0.91,md,9,104,0.008674,0.03,nc,nc73912776,2023-07-14T06:23:20.447Z,"3 km ENE of The Geysers, CA",earthquake,0.29,0.61,0.19,10,automatic,nc,nc
@@ -49,8 +49,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T02:48:42.180Z,38.777,-122.7255,1.09,0.3,md,14,72,0.01076,0.06,nc,nc73912561,2023-07-14T06:30:39.331Z,"3 km E of The Geysers, CA",earthquake,0.29,0.72,0.186,5,reviewed,nc,nc
 2023-07-14T02:48:09.230Z,38.7688332,-122.722168,-0.82,0.3,md,8,105,0.00753,0.28,nc,nc73912566,2023-07-14T02:50:52.339Z,"3 km WSW of Anderson Springs, CA",earthquake,0.79,2.8,0.05,4,automatic,nc,nc
 2023-07-14T02:47:48.220Z,38.784832,-122.7259979,-0.56,0.94,md,8,108,0.008534,0.01,nc,nc73912551,2023-07-14T03:24:14.262Z,"3 km ENE of The Geysers, CA",earthquake,0.41,1.56,0.14,8,automatic,nc,nc
-2023-07-14T02:47:28.970Z,38.7813333,-122.7241667,1.38,1.45,md,42,42,0.009998,0.05,nc,nc73912556,2023-07-14T06:33:11.503Z,"3 km E of The Geysers, CA",earthquake,0.14,0.25,0.162,33,reviewed,nc,nc
-2023-07-14T02:47:11.090Z,38.7611667,-122.7241667,2.21,1.44,md,41,54,0.0006898,0.06,nc,nc73912541,2023-07-14T07:21:14.791Z,"3 km WSW of Anderson Springs, CA",earthquake,0.18,0.25,0.201,33,reviewed,nc,nc
+2023-07-14T02:47:28.970Z,38.7813333,-122.7241667,1.38,1.45,md,42,42,0.009998,0.05,nc,nc73912556,2023-07-14T07:33:31.856Z,"3 km E of The Geysers, CA",earthquake,0.14,0.25,0.162,33,reviewed,nc,nc
+2023-07-14T02:47:11.090Z,38.7611667,-122.7241667,2.21,1.44,md,41,54,0.0006898,0.06,nc,nc73912541,2023-07-14T07:38:10.880Z,"3 km WSW of Anderson Springs, CA",earthquake,0.18,0.25,0.201,33,reviewed,nc,nc
 2023-07-14T02:46:44.130Z,38.7781667,-122.7248333,1.75,1.23,md,31,65,0.01058,0.05,nc,nc73912536,2023-07-14T06:47:11.748Z,"3 km E of The Geysers, CA",earthquake,0.2,0.29,0.322,25,reviewed,nc,nc
 2023-07-14T02:46:17.240Z,38.7788333,-122.7205,2.53,1.3,md,9,89,0.01342,0.03,nc,nc71130919,2023-07-14T07:12:10.737Z,"2 km W of Anderson Springs, CA",earthquake,0.33,0.37,0.192,3,reviewed,nc,nc
 2023-07-14T02:45:58.010Z,38.7691667,-122.7266667,1.39,3.18,ml,100,26,0.007693,0.08,nc,nc73912546,2023-07-14T06:23:05.537Z,"3 km ESE of The Geysers, CA",earthquake,0.11,0.15,0.149,103,reviewed,nc,nc
@@ -250,8 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-13T07:44:02.930Z,33.4913333,-116.4728333,12.68,-0.03,ml,16,181,0.1082,0.15,ci,ci37556764,2023-07-13T14:08:20.202Z,"20km ESE of Anza, CA",earthquake,0.58,0.77,0.205,6,reviewed,ci,ci
 2023-07-13T07:43:43.740Z,33.4875,-116.4576667,16.33,0.5,ml,24,172,0.121,0.21,ci,ci39611546,2023-07-13T14:04:38.523Z,"21km ESE of Anza, CA",earthquake,0.53,0.67,0.173,5,reviewed,ci,ci
 2023-07-13T07:42:40.214Z,36.6591,-116.2607,4.8,-0.3,ml,8,185.96,0.064,0.0902,nn,nn00862529,2023-07-13T14:49:25.208Z,"52 km ESE of Beatty, Nevada",earthquake,,4.1,0.04,3,reviewed,nn,nn
-2023-07-13T07:40:24.410Z,-31.7382,-67.9505,4.182,4.4,mb,30,109,0.655,0.87,us,us7000kfcx,2023-07-13T08:26:48.040Z,"32 km ESE of Caucete, Argentina",earthquake,5.32,1.481,0.124,21,reviewed,us,us
-2023-07-13T07:38:59.580Z,62.8608,-151.2385,104.6,1.6,ml,,,,0.46,ak,ak0238wynmue,2023-07-13T07:41:32.052Z,"47 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-07-13T07:38:29.228Z,31.73190963,-104.5071897,5.771655273,2.2,ml,30,110,0.02201296504,0.2,tx,tx2023npff,2023-07-13T14:53:24.333Z,"50 km SSW of Whites City, New Mexico",earthquake,0.7896385185,0.5771723209,0.1,6,reviewed,tx,tx
-2023-07-13T07:33:37.450Z,35.9766667,-119.966,26.46,1.88,md,33,148,0.03639,0.14,nc,nc73912151,2023-07-13T18:55:14.213Z,"4 km S of Kettleman City, CA",earthquake,0.46,0.42,0.195,21,reviewed,nc,nc
-2023-07-13T07:30:47.997Z,36.6588,-116.2616,3.7,-0.5,ml,6,186.09,0.064,0.0693,nn,nn00862528,2023-07-13T14:46:17.903Z,"52 km ESE of Beatty, Nevada",earthquake,,5.4,0,2,reviewed,nn,nn
