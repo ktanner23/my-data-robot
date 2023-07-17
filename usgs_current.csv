@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-17T15:31:58.070Z,33.2978333,-116.7385,12.58,0.46,ml,19,66,0.06398,0.17,ci,ci39614794,2023-07-17T15:35:30.451Z,"7km NNE of Lake Henshaw, CA",earthquake,0.49,0.77,0.159,8,automatic,ci,ci
 2023-07-17T15:28:34.698Z,60.0379,-151.3985,62.1,1.3,ml,,,,0.36,ak,ak02393piakt,2023-07-17T15:31:10.336Z,"15 km E of Ninilchik, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-07-17T15:23:11.200Z,36.5806656,-121.1790009,5.87,2.34,md,35,128,,0.1,nc,nc73913966,2023-07-17T15:32:14.611Z,"6 km NNW of Pinnacles, CA",earthquake,0.28,0.59,0.19,27,automatic,nc,nc
+2023-07-17T15:23:11.200Z,36.5806656,-121.1790009,5.87,2.34,md,35,128,,0.1,nc,nc73913966,2023-07-17T15:46:10.696Z,"6 km NNW of Pinnacles, CA",earthquake,0.28,0.59,0.19,27,automatic,nc,nc
 2023-07-17T15:07:23.260Z,19.1736660003662,-155.488494873047,33.8199996948242,1.87,md,39,162,,0.109999999,hv,hv73485212,2023-07-17T15:10:42.300Z,"Island of Hawaii, Hawaii",earthquake,0.77,0.959999979,1.59000003,14,automatic,hv,hv
 2023-07-17T14:46:54.832Z,61.6075,-149.6143,32.7,1.7,ml,,,,0.86,ak,ak02393p0rez,2023-07-17T14:48:58.728Z,"2 km SSW of Meadow Lakes, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2023-07-17T14:24:35.150Z,19.2248,-63.937,43,4.15,md,21,239,1.3417,0.36,pr,pr2023198000,2023-07-17T14:52:16.862Z,"Leeward Islands",earthquake,2.54,13.78,0.12,11,reviewed,pr,pr
@@ -173,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T19:33:20.780Z,31.5301667,-114.3841667,5.96,3.11,ml,8,133,0.5271,0.34,ci,ci39614330,2023-07-16T21:00:11.797Z,"94km SE of Estacion Coahuila, B.C., MX",earthquake,0.78,31.61,0.187,75,reviewed,ci,ci
 2023-07-16T19:25:55.245Z,27.3262,54.4283,10,4.1,mb,31,145,2.858,0.73,us,us7000kg6y,2023-07-16T20:41:11.040Z,"47 km SE of Gerāsh, Iran",earthquake,9.96,1.93,0.109,23,reviewed,us,us
 2023-07-16T19:18:13.825Z,11.2114,125.4522,10.898,4.5,mb,36,113,4.117,0.68,us,us7000kg75,2023-07-16T20:35:53.040Z,"9 km NW of Quinapundan, Philippines",earthquake,13.34,4.46,0.094,33,reviewed,us,us
-2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T11:40:55.398Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
+2023-07-16T19:16:05.100Z,31.5663333,-114.4146667,5.97,4.57,mw,14,127,0.4826,0.33,ci,ci39614322,2023-07-17T15:42:58.019Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.53,31.61,,6,reviewed,ci,ci
 2023-07-16T19:15:20.294Z,39.3965,-119.7177,5.4,0.7,ml,7,124.31,0.037,0.1326,nn,nn00862820,2023-07-16T20:09:27.020Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.7,0.39,4,reviewed,nn,nn
 2023-07-16T19:14:43.490Z,38.8359985,-122.7699966,1.96,1.04,md,14,143,0.00552,0.03,nc,nc73913711,2023-07-16T20:40:11.858Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.46,0.07,14,automatic,nc,nc
 2023-07-16T19:11:39.600Z,36.5698318,-121.1549988,7.15,1.69,md,12,132,0.02455,0.06,nc,nc73913706,2023-07-16T20:13:11.694Z,"4 km NNW of Pinnacles, CA",earthquake,0.5,0.7,0.33,6,automatic,nc,nc
@@ -185,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T18:10:20.170Z,36.02683333,-97.91466667,5.85,1.7,ml,75,38,0,0.17,ok,ok2023nvmo,2023-07-17T14:16:21.496Z,"5 km N of Dover, Oklahoma",earthquake,,0.4,0.19,8,reviewed,ok,ok
 2023-07-16T18:09:44.890Z,46.2245,-119.60133333333333,7,0.29,ml,9,208,0.06055,0.06,uw,uw61932117,2023-07-16T18:50:09.700Z,"Washington",earthquake,0.52,0.25,0.07951562116839256,5,reviewed,uw,uw
 2023-07-16T18:03:13.190Z,66.3115,-154.718,0,1.8,ml,,,,1,ak,ak023923luc3,2023-07-16T18:06:50.346Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-16T18:01:04.230Z,33.6493333,-116.7186667,15.14,1,ml,33,56,0.04221,0.12,ci,ci39614298,2023-07-17T15:42:21.508Z,"10km S of Idyllwild, CA",earthquake,0.17,0.28,0.105,21,reviewed,ci,ci
 2023-07-16T17:59:52.820Z,35.6238333,-117.5765,2.18,0.98,ml,14,95,0.1003,0.15,ci,ci39614282,2023-07-16T18:03:21.147Z,"9km E of Ridgecrest, CA",earthquake,0.33,0.66,0.15,5,automatic,ci,ci
 2023-07-16T17:47:39.150Z,48.64633333333333,-121.02266666666667,8.71,1.53,ml,9,170,0.3908,0.32,uw,uw61932112,2023-07-16T19:00:02.790Z,"Washington",earthquake,0.9,28.07,0.18015179202361453,8,reviewed,uw,uw
 2023-07-16T17:46:24.421Z,39.6391,-119.7305,10.5,-0.3,ml,4,185.18,0.181,0.0594,nn,nn00862813,2023-07-16T19:44:32.119Z,"Nevada",earthquake,,4.9,0,1,reviewed,nn,nn
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T16:06:59.787Z,63.2314,-150.4764,125.7,2.4,ml,,,,0.53,ak,ak023922fpvr,2023-07-16T18:34:55.639Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-16T16:06:59.180Z,33.6286667,-116.7158333,15.85,0.56,ml,19,79,0.05329,0.14,ci,ci39614242,2023-07-16T20:03:26.335Z,"9km NNW of Anza, CA",earthquake,0.33,0.65,0.184,12,reviewed,ci,ci
 2023-07-16T15:56:44.612Z,39.3737,-119.9174,8.7,0.5,ml,7,123.03,0.119,0.074,nn,nn00862827,2023-07-16T22:52:57.221Z,"Nevada",earthquake,,2.7,0.37,2,reviewed,nn,nn
-2023-07-16T15:41:28.160Z,19.2836666107178,-155.393997192383,28.2800006866455,1.95000005,md,34,137,,0.129999995,hv,hv73483882,2023-07-16T15:44:35.970Z,"12 km NE of Pāhala, Hawaii",earthquake,0.57,1.02999997,1.94000006,6,automatic,hv,hv
