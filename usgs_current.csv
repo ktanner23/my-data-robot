@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-29T22:59:35.480Z,36.0099983,-120.0488358,2.34,2.71,md,40,175,0.1989,0.14,nc,nc73918051,2023-07-29T23:06:16.895Z,"7 km E of Avenal, CA",earthquake,0.48,0.88,0.11,28,automatic,nc,nc
 2023-07-29T22:52:29.115Z,64.4896,-147.6976,6,1,ml,,,,0.73,ak,ak0239no9mhr,2023-07-29T22:54:58.177Z,"33 km SSW of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-29T22:46:19.572Z,68.6566,-148.4504,0.1,2,ml,,,,0.93,ak,ak0239no8bgl,2023-07-29T22:48:56.163Z,"133 km WNW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-07-29T22:29:31.780Z,20.1132,94.0108,41.239,4.5,mb,43,151,2.909,0.41,us,us6000kwkm,2023-07-29T22:57:14.040Z,"90 km W of Minbu, Myanmar",earthquake,5.98,8.556,0.085,40,reviewed,us,us
 2023-07-29T22:10:42.040Z,40.3771667,-124.0068359,27.14,1.8,md,15,117,0.07402,0.1,nc,nc73918036,2023-07-29T22:51:10.809Z,"16 km SSE of Rio Dell, CA",earthquake,0.63,1.49,0.1,10,automatic,nc,nc
 2023-07-29T21:53:51.470Z,36.1204987,-119.8564987,13.83,1.97,md,15,122,0.3695,0.1,nc,nc73918031,2023-07-29T22:26:10.669Z,"8 km SSW of Stratford, CA",earthquake,0.73,1.82,0.05,3,automatic,nc,nc
 2023-07-29T21:53:21.630Z,60.7557,-151.8242,73.2,1.3,ml,,,,0.13,ak,ak0239nnoe0z,2023-07-29T21:54:45.705Z,"30 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -89,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T11:12:15.094Z,38.8782,-119.5912,1.5,0.3,ml,5,171.01,0.021,0.065,nn,nn00863699,2023-07-29T16:12:12.019Z,"4 km ENE of Carter Springs, Nevada",earthquake,,0.9,0.24,2,reviewed,nn,nn
 2023-07-29T10:57:08.650Z,40.1655,-121.2666667,4.65,2.12,md,25,64,0.124,0.26,nc,nc73917886,2023-07-29T14:21:13.855Z,"10 km SW of Almanor, CA",earthquake,0.45,1.98,0.188,29,reviewed,nc,nc
 2023-07-29T10:55:46.040Z,38.8274994,-122.800499,1.72,1.03,md,16,50,0.008528,0.01,nc,nc73917881,2023-07-29T13:39:13.772Z,"7 km W of Cobb, CA",earthquake,0.24,0.53,0.18,15,automatic,nc,nc
-2023-07-29T10:51:50.659Z,38.5286,-119.4901,7.6,0.8,ml,7,194.53,0.048,0.0529,nn,nn00863698,2023-07-29T16:12:11.400Z,"California-Nevada border region",earthquake,,1.3,0.02,2,reviewed,nn,nn
+2023-07-29T10:51:50.659Z,38.5286,-119.4901,7.6,0.8,ml,7,194.53,0.048,0.0529,nn,nn00863698,2023-07-29T16:12:11.400Z,"1 km NW of Walker, California",earthquake,,1.3,0.02,2,reviewed,nn,nn
 2023-07-29T10:47:32.799Z,53.4356,-165.2317,35,3.7,mb,46,171,1.044,0.75,us,us6000kwhk,2023-07-29T20:09:26.479Z,"85 km SSE of Akutan, Alaska",earthquake,7.16,1.991,0.122,17,reviewed,us,us
 2023-07-29T10:47:03.660Z,38.8051667,-122.7808333,0.99,0.4,md,12,87,0.008081,0.01,nc,nc73917876,2023-07-29T21:59:19.523Z,"4 km NW of The Geysers, CA",earthquake,0.28,0.41,0.218,12,reviewed,nc,nc
 2023-07-29T10:40:49.328Z,53.5419,-165.2592,50.1,3.7,ml,,,,0.69,ak,ak0239nh1wav,2023-07-29T20:14:18.609Z,"74 km SSE of Akutan, Alaska",earthquake,,4.2,,,reviewed,ak,ak
@@ -193,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T23:38:42.750Z,64.9908,-147.4247,4.4,2,ml,,,,0.8,ak,ak0239m18qmr,2023-07-28T23:40:32.104Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-28T23:29:58.650Z,37.5448333,-121.841,5.97,1.36,md,26,105,0.03093,0.04,nc,nc73917781,2023-07-29T10:15:15.231Z,"8 km SE of Sunol, CA",earthquake,0.19,0.22,0.134,18,reviewed,nc,nc
 2023-07-28T23:26:31.110Z,58.1863333333333,-155.283,2.35,0.79,ml,9,92,,0.06,av,av91981666,2023-07-29T05:15:29.110Z,"Alaska Peninsula",earthquake,0.19,0.41,0.30736149668257,9,reviewed,av,av
-2023-07-28T23:05:47.330Z,38.7796669,-122.7649994,0.81,1.12,md,17,86,0.02133,0.04,nc,nc73917771,2023-07-29T02:39:16.569Z,"1 km WNW of The Geysers, CA",earthquake,0.25,0.57,0.14,17,automatic,nc,nc
-2023-07-28T22:58:05.470Z,35.6448333,-121.0591667,6.14,1.44,md,23,116,0.08555,0.09,nc,nc73917766,2023-07-29T09:47:20.073Z,"9 km NNE of Cambria, CA",earthquake,0.21,0.68,0.194,16,reviewed,nc,nc
