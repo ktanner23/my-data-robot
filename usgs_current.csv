@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-07-29T23:20:38.810Z,33.3543333,-116.3603333,11.36,0.93,ml,33,93,0.0982,0.23,ci,ci39625370,2023-07-29T23:24:13.342Z,"11 km N of Borrego Springs, CA",earthquake,0.45,1.04,0.129,22,automatic,ci,ci
-2023-07-29T23:19:37.060Z,38.8358345,-122.7991638,2.22,0.81,md,10,93,0.007352,0.01,nc,nc73918061,2023-07-29T23:21:11.770Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.93,0.2,11,automatic,nc,nc
+2023-07-29T23:19:37.060Z,38.8358345,-122.7991638,2.22,0.81,md,10,93,0.007352,0.01,nc,nc73918061,2023-07-29T23:44:14.140Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.93,0.2,11,automatic,nc,nc
 2023-07-29T23:17:16.930Z,38.8419991,-122.8776703,1.94,0.69,md,13,91,0.005883,0.04,nc,nc73918056,2023-07-29T23:34:14.079Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.5,0.08,13,automatic,nc,nc
-2023-07-29T23:16:35.591Z,32.3724,-101.6464,5,3.1,mb_lg,20,62,0.414,0.62,us,us6000kwks,2023-07-29T23:31:28.077Z,"western Texas",earthquake,1.46,1.755,0.046,125,reviewed,us,us
+2023-07-29T23:16:35.591Z,32.3724,-101.6464,5,3.1,mb_lg,20,62,0.414,0.62,us,us6000kwks,2023-07-29T23:41:50.173Z,"western Texas",earthquake,1.46,1.755,0.046,125,reviewed,us,us
 2023-07-29T23:16:18.089Z,61.7704,-149.685,39.4,1.1,ml,,,,0.77,ak,ak0239nonbgw,2023-07-29T23:19:00.106Z,"16 km NNW of Meadow Lakes, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-29T23:10:52.440Z,33.6928333,-116.713,16.67,0.86,ml,24,97,0.01831,0.13,ci,ci39625362,2023-07-29T23:14:32.925Z,"5 km S of Idyllwild, CA",earthquake,0.25,0.36,0.207,22,automatic,ci,ci
 2023-07-29T23:00:32.100Z,18,-67.0115,8.68,2.16,md,3,165,0.04353,0.05,pr,pr71419658,2023-07-29T23:17:12.470Z,"4 km NE of La Parguera, Puerto Rico",earthquake,0.93,31.61,0.0348045102496128,2,reviewed,pr,pr
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T17:47:46.132Z,60.2202,-152.9811,125,1.6,ml,,,,0.51,ak,ak0239nl9f65,2023-07-29T17:50:46.318Z,"74 km E of Port Alsworth, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-29T17:45:08.120Z,39.765667,-124.0733337,0.57,1.83,md,10,183,0.3403,0.05,nc,nc73917966,2023-07-29T20:24:13.961Z,"21 km WNW of Cape Vizcaino, CA",earthquake,0.6,7.7,0.12,3,automatic,nc,nc
 2023-07-29T17:41:36.497Z,62.0169,-144.0769,0,1.3,ml,,,,0.74,ak,ak0239nl848e,2023-07-29T17:44:10.383Z,"56 km NE of Kenny Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-29T17:37:05.020Z,35.7613335,-121.2948303,0.25,1.22,md,4,232,0.1393,0.02,nc,nc73917961,2023-07-29T19:56:14.802Z,"16 km NW of San Simeon, CA",earthquake,1.31,6.99,0.13,4,automatic,nc,nc
+2023-07-29T17:37:05.600Z,35.7701667,-121.2771667,3.18,1.15,md,23,190,0.1334,0.13,nc,nc73917961,2023-07-29T23:44:11.140Z,"16 km NNW of San Simeon, CA",earthquake,0.42,1.3,0.1,9,reviewed,nc,nc
 2023-07-29T17:34:25.447Z,45.4971,14.4734,8.569,3.9,mwr,34,30,0.766,0.73,us,us6000kwj4,2023-07-29T20:46:16.647Z,"9 km NE of Klana, Croatia",earthquake,2.55,6.481,0.05,38,reviewed,us,us
 2023-07-29T17:33:38.104Z,69.0408,-144.3659,0,2,ml,,,,0.53,ak,ak0239nl6ek2,2023-07-29T17:35:56.642Z,"northern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-29T17:18:27.453Z,42.9096,-126.2736,13.508,2.8,ml,54,236,1.541,0.74,us,us6000kwj2,2023-07-29T18:27:37.040Z,"146 km W of Port Orford, Oregon",earthquake,7.63,8.715,0.038,92,reviewed,us,us
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-29T13:55:01.989Z,43.4276,-127.2108,10,4.4,mb,30,217,2.32,0.76,us,us6000kwi5,2023-07-29T14:41:16.945Z,"off the coast of Oregon",earthquake,3.04,1.989,0.064,71,reviewed,us,us
 2023-07-29T13:50:19.749Z,63.9954,-150.2398,5,0.9,ml,,,,0.68,ak,ak0239niw9w6,2023-07-29T14:01:09.172Z,"54 km W of Ferry, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-29T13:48:27.193Z,61.5053,-149.8955,32,1.5,ml,,,,0.6,ak,ak0239nivv0h,2023-07-29T13:49:54.399Z,"3 km ESE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-29T13:35:56.210Z,40.3065,-124.661,18.05,2.41,md,32,236,0.2442,0.19,nc,nc73917896,2023-07-29T23:32:39.749Z,"32 km W of Petrolia, CA",earthquake,0.72,0.49,0.23,27,reviewed,nc,nc
+2023-07-29T13:35:56.210Z,40.3065,-124.661,18.05,2.41,md,32,236,0.2442,0.19,nc,nc73917896,2023-07-29T23:44:15.140Z,"32 km W of Petrolia, CA",earthquake,0.72,0.49,0.23,27,reviewed,nc,nc
 2023-07-29T13:34:14.620Z,18.1823,-65.1776,135,3.86,md,20,206,0.1633,0.16,pr,pr2023210000,2023-07-29T20:47:12.372Z,"18 km SE of Culebra, Puerto Rico",earthquake,6.61,1.31,0.13,16,reviewed,pr,pr
 2023-07-29T13:08:44.296Z,61.6308,-150.2663,35.3,1.6,ml,,,,0.59,ak,ak0239ninbpp,2023-07-29T13:10:26.766Z,"16 km NE of Susitna, Alaska",earthquake,,7.4,,,automatic,ak,ak
 2023-07-29T13:07:37.390Z,33.9876667,-116.9566667,16.08,0.97,ml,28,89,0.06903,0.18,ci,ci39625082,2023-07-29T13:11:12.594Z,"7 km NNE of Beaumont, CA",earthquake,0.3,0.72,0.142,30,automatic,ci,ci
@@ -199,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-28T23:58:17.021Z,61.2884,-152.3946,17.1,1.6,ml,,,,0.85,ak,ak0239m1cyyu,2023-07-29T05:30:38.990Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-28T23:57:52.660Z,18.017,-66.8401666666667,16.1,3.05,md,26,126,0.04638,0.12,pr,pr71419533,2023-07-29T00:37:41.040Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.24,0.42,0.0668509756334421,11,reviewed,pr,pr
 2023-07-28T23:55:46.888Z,64.5912,-17.2981,10,4.7,mb,67,105,11.054,0.43,us,us6000kwex,2023-07-29T00:18:18.040Z,"107 km WNW of Höfn, Iceland",earthquake,8.62,1.876,0.044,159,reviewed,us,us
-2023-07-28T23:42:42.427Z,58.2551,-155.1193,32.6,0.8,ml,,,,0.14,ak,ak0239m19lgy,2023-07-29T05:26:11.570Z,"85 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-07-28T23:41:53.990Z,58.2748333333333,-155.134833333333,34.33,0.37,ml,9,89,,0.13,av,av91981686,2023-07-29T05:20:18.000Z,"88 km NNW of Karluk, Alaska",earthquake,0.63,0.83,0.208473248634858,8,reviewed,av,av
-2023-07-28T23:38:42.750Z,64.9908,-147.4247,4.4,2,ml,,,,0.8,ak,ak0239m18qmr,2023-07-28T23:40:32.104Z,"9 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
