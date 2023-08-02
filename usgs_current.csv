@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-02T18:55:39.150Z,38.7994995,-122.8249969,4.1,0.75,md,5,219,0.009909,0.01,nc,nc73919471,2023-08-02T18:57:13.803Z,"6 km WNW of The Geysers, CA",earthquake,2.95,5.48,0.12,8,automatic,nc,nc
 2023-08-02T18:48:52.890Z,38.8011665,-122.8188324,2.94,1.34,md,27,63,0.01116,0.02,nc,nc73919466,2023-08-02T19:00:10.096Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.42,0.17,30,automatic,nc,nc
-2023-08-02T18:48:39.610Z,38.8009987,-122.8188324,3.03,1.32,md,26,64,0.01127,0.02,nc,nc73919461,2023-08-02T18:50:13.549Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.45,0.13,27,automatic,nc,nc
-2023-08-02T18:45:29.300Z,38.8009987,-122.8181686,3.07,0.72,md,8,98,0.01165,0.02,nc,nc73919456,2023-08-02T18:47:05.083Z,"6 km WNW of The Geysers, CA",earthquake,0.46,0.77,0.13,11,automatic,nc,nc
+2023-08-02T18:48:39.610Z,38.8009987,-122.8188324,3.03,1.32,md,26,64,0.01127,0.02,nc,nc73919461,2023-08-02T19:05:12.131Z,"6 km WNW of The Geysers, CA",earthquake,0.22,0.45,0.13,27,automatic,nc,nc
+2023-08-02T18:45:29.300Z,38.8009987,-122.8181686,3.07,0.72,md,8,98,0.01165,0.02,nc,nc73919456,2023-08-02T19:08:14.148Z,"6 km WNW of The Geysers, CA",earthquake,0.46,0.77,0.13,11,automatic,nc,nc
 2023-08-02T18:41:16.920Z,38.8326683,-122.8176651,1.77,1.33,md,24,66,0.011,0.01,nc,nc73919451,2023-08-02T18:58:14.085Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.14,25,automatic,nc,nc
 2023-08-02T18:27:21.490Z,33.8493333,-117.4941667,1.94,1.78,ml,47,37,0.05183,0.23,ci,ci39627954,2023-08-02T18:31:10.523Z,"4 km SE of Home Gardens, CA",quarry blast,0.29,0.46,0.168,28,automatic,ci,ci
 2023-08-02T18:03:03.580Z,17.9806666666667,-66.837,18.23,1.96,md,6,189,0.04061,0.11,pr,pr71420228,2023-08-02T18:13:25.070Z,"Puerto Rico region",earthquake,0.5,0.71,0.221427587858489,6,reviewed,pr,pr
@@ -270,7 +270,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T20:38:10.536Z,62.7829,-150.7999,84.6,1.6,ml,,,,0.57,ak,ak0239sllrb1,2023-08-01T20:40:51.202Z,"31 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-01T20:32:34.270Z,32.523,-115.2696667,5.91,1.31,ml,10,108,0.2725,0.22,ci,ci39627154,2023-08-02T00:02:55.415Z,"9 km ESE of Puebla, B.C., MX",earthquake,0.63,31.61,0.27,7,reviewed,ci,ci
 2023-08-01T20:29:47.980Z,37.4786667,-121.8255,6.82,1.07,md,22,93,0.03034,0.07,nc,nc73919146,2023-08-02T00:32:14.801Z,"9 km NE of Milpitas, CA",earthquake,0.25,0.3,0.23,19,reviewed,nc,nc
-2023-08-01T20:26:39.360Z,38.8145,-122.8236667,2.26,1.13,md,43,45,0.007083,0.03,nc,nc73919141,2023-08-02T17:39:16.626Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.23,0.183,33,reviewed,nc,nc
+2023-08-01T20:26:39.360Z,38.8145,-122.8236667,2.26,1.13,md,43,45,0.007083,0.03,nc,nc73919141,2023-08-02T19:08:15.149Z,"7 km NW of The Geysers, CA",earthquake,0.14,0.23,0.183,33,reviewed,nc,nc
 2023-08-01T20:19:47.010Z,38.8238333,-122.8055,2.33,0.44,md,21,42,0.0036,0.03,nc,nc71131079,2023-08-01T23:35:40.608Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.46,0.149,20,reviewed,nc,nc
 2023-08-01T20:19:16.250Z,39.8188333,-122.9436667,7.04,1.4,md,7,158,0.207,0.05,nc,nc73919136,2023-08-02T02:13:15.281Z,"26 km E of Covelo, CA",earthquake,0.43,2,0.227,8,reviewed,nc,nc
 2023-08-01T20:12:35.421Z,57.7723,-155.9671,9.6,1,ml,,,,0.6,ak,ak0239slg8ly,2023-08-01T20:19:13.659Z,"90 km ENE of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
@@ -289,9 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-01T19:22:44.550Z,42.891333333333336,-123.51733333333334,-0.8,1.6,ml,16,57,0.04895,0.29,uw,uw61937077,2023-08-01T20:27:00.850Z,"14 km WSW of Riddle, Oregon",explosion,0.53,31.61,0.10622587636605985,7,reviewed,uw,uw
 2023-08-01T19:20:06.290Z,37.2538333,-121.6348333,6.04,1.03,md,17,44,0.03098,0.09,nc,nc73919111,2023-08-02T16:56:14.402Z,"14 km N of Morgan Hill, CA",earthquake,0.24,0.48,0.146,16,reviewed,nc,nc
 2023-08-01T19:16:22.410Z,33.873,-117.5016667,2.41,1.03,ml,21,55,0.07277,0.13,ci,ci39627066,2023-08-01T20:42:31.655Z,"2 km ESE of Home Gardens, CA",quarry blast,0.31,0.37,0.13,4,reviewed,ci,ci
-2023-08-01T19:15:27.250Z,37.2518333,-121.6321667,4.88,2.48,md,82,42,0.03345,0.08,nc,nc73919106,2023-08-02T16:51:13.419Z,"14 km N of Morgan Hill, CA",earthquake,0.11,0.22,0.175,72,reviewed,nc,nc
-2023-08-01T19:14:07.710Z,46.9041666666667,-112.599333333333,10.55,0.84,ml,10,109,0.04412,0.13,mb,mb90023128,2023-08-01T20:57:58.310Z,"western Montana",earthquake,0.44,0.67,0.0592484156510887,5,reviewed,mb,mb
-2023-08-01T19:13:31.590Z,46.22233333333333,-119.5995,7.25,0.29,ml,8,211,0.06141,0.04,uw,uw61937067,2023-08-01T20:36:23.100Z,"9 km WSW of Benton City, Washington",earthquake,0.67,0.24,0.13252499617151825,6,reviewed,uw,uw
-2023-08-01T19:12:38.915Z,58.1137,-155.5715,27.2,0.3,ml,,,,0.81,ak,ak0239skut9v,2023-08-01T19:14:13.891Z,"89 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-08-01T19:10:41.990Z,17.9893333333333,-66.8218333333333,16.57,2.72,md,20,177,0.04197,0.17,pr,pr71420043,2023-08-01T19:28:46.220Z,"Puerto Rico",earthquake,0.41,0.49,0.0674235293612766,8,reviewed,pr,pr
-2023-08-01T19:10:35.810Z,46.9045,-112.597333333333,11.38,1.04,ml,10,131,0.04543,0.07,mb,mb90023123,2023-08-01T21:04:57.360Z,"8 km SE of Lincoln, Montana",earthquake,0.37,0.55,0.0717080166229093,7,reviewed,mb,mb
