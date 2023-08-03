@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-03T10:05:39.917Z,62.5142,-150.7214,59.4,2.4,ml,,,,0.73,ak,ak0239vqj3uz,2023-08-03T10:07:24.572Z,"3 km NE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-08-03T10:05:12.270Z,18.731,-67.4425,6.97,2.9,md,7,296,0.3464,0.32,pr,pr71420343,2023-08-03T10:19:59.390Z,"44 km NW of San Antonio, Puerto Rico",earthquake,2.95,2.74,0.127324090377415,7,reviewed,pr,pr
 2023-08-03T09:46:57.030Z,33.1178333,-116.4906667,10.94,1.83,ml,52,46,0.09695,0.17,ci,ci39628514,2023-08-03T09:57:26.810Z,"11 km ENE of Julian, CA",earthquake,0.2,0.45,0.175,26,automatic,ci,ci
 2023-08-03T09:46:17.045Z,58.3373,-154.6004,50,1.2,ml,,,,1,ak,ak0239vq6evc,2023-08-03T09:48:04.439Z,"86 km N of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-08-03T09:45:14.653Z,61.4953,-149.6974,32.5,1.7,ml,,,,0.58,ak,ak0239vq66yx,2023-08-03T09:47:25.065Z,"4 km NNE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T08:31:57.320Z,38.8349991,-122.7991638,1.65,0.72,md,8,95,0.007684,0.04,nc,nc73919686,2023-08-03T08:57:15.025Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.64,0.31,10,automatic,nc,nc
 2023-08-03T08:14:57.020Z,19.2161674499512,-155.368667602539,33.7799987792969,2.00999999,md,37,178,,0.140000001,hv,hv73508192,2023-08-03T08:18:00.490Z,"11 km E of Pāhala, Hawaii",earthquake,0.77,1.34000003,0.00999999978,5,automatic,hv,hv
 2023-08-03T08:01:45.746Z,59.9897,-139.4985,0,1.8,ml,,,,1.11,ak,ak0239vpbe9a,2023-08-03T08:04:09.796Z,"50 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-03T07:59:15.320Z,37.4604988,-118.5393295,19.36,2.73,md,29,92,0.2144,0.07,nc,nc73919676,2023-08-03T08:45:10.954Z,"7 km NE of Round Valley, CA",earthquake,0.3,0.83,0.13,26,automatic,nc,nc
+2023-08-03T07:59:15.320Z,37.4604988,-118.5393295,19.36,2.73,md,29,92,0.2144,0.07,nc,nc73919676,2023-08-03T10:14:13.441Z,"7 km NE of Round Valley, CA",earthquake,0.3,0.83,0.13,26,automatic,nc,nc
 2023-08-03T07:58:21.480Z,35.0518333,-118.3185,7.32,1.09,ml,22,43,0.06396,0.23,ci,ci39628490,2023-08-03T08:08:54.450Z,"13 km W of Mojave, CA",earthquake,0.34,1.17,0.144,18,automatic,ci,ci
 2023-08-03T07:51:13.600Z,34.596,-116.2811667,0.52,1.06,ml,9,101,0.1377,0.14,ci,ci39628482,2023-08-03T07:54:55.397Z,"18 km SW of Ludlow, CA",earthquake,0.84,2.12,0.106,15,automatic,ci,ci
 2023-08-03T07:45:56.700Z,38.8191681,-122.8044968,3.03,0.77,md,21,40,0.006066,0.02,nc,nc73919666,2023-08-03T08:26:12.852Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.63,0.13,23,automatic,nc,nc
@@ -235,7 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T10:38:47.049Z,61.6593,-149.4738,35.7,0.9,ml,,,,0.47,ak,ak0239u36ukg,2023-08-02T10:40:40.599Z,"4 km NW of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-02T10:31:45.070Z,44.5808333,-110.7501667,8.26,0.33,ml,14,93,0.07994,0.15,uu,uu60546777,2023-08-02T13:53:22.370Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.65,1.14,0.377,2,reviewed,uu,uu
 2023-08-02T10:31:26.660Z,37.6156667,-122.4695,8.19,1.18,md,32,106,0.0219,0.05,nc,nc73919381,2023-08-02T20:03:13.474Z,"2 km E of Pacifica, CA",earthquake,0.2,0.26,0.247,24,reviewed,nc,nc
-2023-08-02T10:22:11.990Z,48.41133333333333,-121.84066666666666,-0.53,1.96,ml,17,67,0.1939,0.3,uw,uw61937292,2023-08-02T18:42:45.360Z,"Washington",earthquake,0.45,0.93,0.11600123303897869,15,reviewed,uw,uw
-2023-08-02T10:15:32.930Z,37.5378333,-118.8356667,-1.33,0.77,md,19,156,0.05236,0.05,nc,nc73919376,2023-08-02T20:26:12.589Z,"14 km W of Toms Place, CA",earthquake,0.45,0.33,0.147,14,reviewed,nc,nc
-2023-08-02T10:13:46.430Z,38.8219986,-122.8013306,3.13,0.59,md,13,78,0.006971,0.02,nc,nc73919366,2023-08-02T10:51:14.311Z,"6 km NW of The Geysers, CA",earthquake,0.33,1.01,0.37,14,automatic,nc,nc
-2023-08-02T10:11:47.840Z,37.4671667,-118.8446667,5.55,0.64,md,22,139,0.1233,0.04,nc,nc73919371,2023-08-02T20:26:12.734Z,"18 km SW of Toms Place, CA",earthquake,0.83,1.69,0.156,18,reviewed,nc,nc
