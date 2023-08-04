@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-04T11:46:13.170Z,38.8330002,-122.8178329,1.62,0.68,md,10,69,0.01135,0.01,nc,nc73920086,2023-08-04T11:47:50.074Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.89,0.42,14,automatic,nc,nc
+2023-08-04T11:48:39.602Z,-0.2063,125.0158,44.24,5.6,mww,88,42,2.392,0.92,us,us6000kxs1,2023-08-04T12:09:04.567Z,"97 km SE of Modisi, Indonesia",earthquake,5.85,4.866,0.078,16,reviewed,us,us
+2023-08-04T11:46:13.170Z,38.8330002,-122.8178329,1.62,0.68,md,10,69,0.01135,0.01,nc,nc73920086,2023-08-04T12:04:12.178Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.89,0.42,14,automatic,nc,nc
 2023-08-04T11:38:55.534Z,62.9145,-151.1794,115.8,1.4,ml,,,,0.27,ak,ak0239xeuztd,2023-08-04T11:41:01.590Z,"51 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-08-04T11:07:25.570Z,36.965168,-121.6246643,9.02,2.06,md,37,56,0.04538,0.14,nc,nc73920081,2023-08-04T11:39:15.025Z,"7 km SW of Gilroy, CA",earthquake,0.26,0.51,0.21,33,automatic,nc,nc
 2023-08-04T11:00:14.054Z,65.1731,-152.703,0,1.3,ml,,,,0.48,ak,ak0239xemrel,2023-08-04T11:02:28.900Z,"29 km W of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -24,7 +25,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-04T09:02:02.155Z,58.2494,-154.3993,26.5,1.5,ml,,,,0.77,ak,ak0239xdgapj,2023-08-04T09:04:40.380Z,"75 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-08-04T09:00:25.000Z,59.3271,-152.8616,84.5,1.4,ml,,,,0.29,ak,ak0232r9qf5pg,2023-08-04T09:02:34.150Z,"53 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-08-04T08:58:33.520Z,35.5091667,-118.3965,4.99,1.25,ml,21,41,0.1658,0.21,ci,ci40529328,2023-08-04T09:02:05.869Z,"12 km SE of Bodfish, CA",earthquake,0.32,3.27,0.13,13,automatic,ci,ci
-2023-08-04T08:56:22.110Z,33.9533333,-116.9708333,24.99,1.3,ml,11,278,0.2814,0.24,ci,ci40529320,2023-08-04T08:59:58.891Z,"3 km NNE of Beaumont, CA",earthquake,3.03,2.91,0.287,13,automatic,ci,ci
 2023-08-04T08:39:50.330Z,19.1963329315186,-155.506332397461,36.1699981689453,1.84,ml,41,68,,0.0900000036,hv,hv73509372,2023-08-04T08:45:22.060Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.52,0.850000024,3.91,5,automatic,hv,hv
 2023-08-04T08:15:01.870Z,37.5275002,-118.8563309,5.72,3.03,ml,25,175,0.06606,0.05,nc,nc73920066,2023-08-04T11:24:13.932Z,"16 km WSW of Toms Place, CA",earthquake,0.35,0.88,0.311,28,automatic,nc,nc
 2023-08-04T07:34:45.320Z,18.0666666666667,-66.5913333333333,14.33,2.55,md,7,157,0.01415,0.14,pr,pr71420473,2023-08-04T07:50:55.710Z,"4 km WNW of Coto Laurel, Puerto Rico",earthquake,0.79,0.56,0.112086931983627,4,reviewed,pr,pr
@@ -180,9 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-03T12:31:12.320Z,19.1429996490479,-155.494827270508,33.8400001525879,1.73000002,md,24,168,,0.0900000036,hv,hv73508257,2023-08-03T12:34:14.610Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.720000029,0.860000014,3,automatic,hv,hv
 2023-08-03T12:21:10.580Z,48.31433333333333,-122.1105,13.48,1.81,ml,25,44,0.1138,0.2,uw,uw61937552,2023-08-03T18:35:11.090Z,"6 km WSW of Lake Cavanaugh, Washington",earthquake,0.3,0.97,0.14040912942210326,17,reviewed,uw,uw
 2023-08-03T12:21:00.753Z,60.823,-151.8362,98.4,1,ml,,,,0.16,ak,ak0239vrtbiz,2023-08-03T12:23:17.690Z,"33 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-08-03T12:15:35.230Z,37.4066667,-119.016,5.75,0.8,md,16,178,0.2029,0.16,nc,nc73919746,2023-08-03T18:11:19.092Z,"26 km S of Mammoth Lakes, CA",earthquake,0.83,6.34,0.092,13,reviewed,nc,nc
-2023-08-03T12:15:12.796Z,36.7474,-116.2465,5.6,-0.3,ml,7,180.11,0.023,0.0349,nn,nn00863900,2023-08-03T15:55:10.145Z,"49 km ESE of Beatty, Nevada",earthquake,,2.2,0.01,2,reviewed,nn,nn
-2023-08-03T12:10:45.173Z,63.041,-152.6884,7.5,1.2,ml,,,,0.59,ak,ak0239vrr22t,2023-08-03T12:13:00.855Z,"73 km SW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-08-03T12:05:26.191Z,64.9614,-148.8679,26.9,0.7,ml,,,,1.76,ak,ak0239vrpy17,2023-08-03T12:07:22.641Z,"30 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-03T12:03:40.630Z,35.7868333,-117.5895,11.32,0.94,ml,15,75,0.1442,0.2,ci,ci39628562,2023-08-03T15:29:30.026Z,"17 km W of Searles Valley, CA",earthquake,0.46,1.16,0.135,2,reviewed,ci,ci
-2023-08-03T11:59:47.850Z,33.3711667,-116.396,11.82,0.6,ml,23,156,0.1042,0.16,ci,ci39628554,2023-08-03T15:26:55.122Z,"13 km N of Borrego Springs, CA",earthquake,0.31,0.7,0.036,8,reviewed,ci,ci
