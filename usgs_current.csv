@@ -102,9 +102,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T16:38:04.730Z,58.2613333333333,-155.131,31.67,0.12,ml,10,134,,0.15,av,av91996276,2023-08-10T00:56:00.060Z,"Alaska Peninsula",earthquake,0.66,1.02,0.291987001125349,9,reviewed,av,av
 2023-08-09T16:35:24.760Z,58.256,-155.141,32.27,0.66,ml,14,91,,0.13,av,av91996271,2023-08-10T01:12:33.010Z,"86 km NNW of Karluk, Alaska",earthquake,0.56,0.62,0.312866130720322,13,reviewed,av,av
 2023-08-09T16:31:45.320Z,48.622166666666665,-121.97866666666667,10.34,0.43,md,5,94,0.1038,0.03,uw,uw61948641,2023-08-09T17:47:12.310Z,"11 km N of Hamilton, Washington",earthquake,0.34,1.27,0.254575052253029,5,reviewed,uw,uw
-2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"16 km NW of Hope, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-09T16:12:10.934Z,61.0379,-149.8135,43.1,1.7,ml,,,,0.2,ak,ak023a5rd891,2023-08-09T16:13:34.948Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-09T16:10:34.060Z,35.6303333,-117.4205,6.93,1.11,ml,13,87,0.0348,0.15,ci,ci40532560,2023-08-10T00:56:14.824Z,"15 km S of Searles Valley, CA",earthquake,0.39,0.71,0.125,5,reviewed,ci,ci
-2023-08-09T16:07:22.623Z,60.0588,-151.6991,52.4,1.7,ml,,,,0.39,ak,ak023a5rc6km,2023-08-09T16:09:59.868Z,"1 km WNW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-09T16:07:22.623Z,60.0588,-151.6991,52.4,1.7,ml,,,,0.39,ak,ak023a5rc6km,2023-08-09T16:09:59.868Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-09T16:03:57.384Z,56.4406,-149.1869,10,3.1,ml,27,263,2.779,0.43,us,us6000kyw9,2023-08-10T00:28:44.040Z,"228 km SE of Chiniak, Alaska",earthquake,9.8,2.021,0.059,38,reviewed,us,us
 2023-08-09T16:01:07.250Z,36.22783333,-95.84683333,0,1.55,ml,33,118,0.3203371389,0.37,ok,ok2023pnej,2023-08-09T17:52:58.494Z,"4 km S of Owasso, Oklahoma",quarry blast,,0.5,0.21,4,reviewed,ok,ok
 2023-08-09T16:00:42.790Z,53.8511666666667,-166.7985,5.21,0.24,ml,7,88,,0.11,av,av91996246,2023-08-10T01:25:19.460Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.31,0.97,0.240650684922801,7,reviewed,av,av
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T15:44:42.950Z,37.4136658,-118.5196686,12.4,1.78,md,13,132,0.06967,0.02,nc,nc73922221,2023-08-09T17:04:12.546Z,"7 km E of Round Valley, CA",earthquake,1.36,2.54,0.16,9,automatic,nc,nc
 2023-08-09T15:42:25.110Z,53.8545,-166.8025,5.51,-0.21,ml,5,127,,0.06,av,av91996231,2023-08-10T00:29:51.430Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.34,0.87,0.237927258771951,5,reviewed,av,av
 2023-08-09T15:41:37.080Z,53.8496666666667,-166.799166666667,4.87,0.47,ml,7,87,,0.11,av,av91996226,2023-08-10T00:25:58.990Z,"17 km WSW of Dutch Harbor, Alaska",earthquake,0.31,0.96,0.247299942699085,7,reviewed,av,av
-2023-08-09T15:40:48.890Z,58.2618333333333,-155.132666666667,32.83,0,ml,12,92,,0.12,av,av91996221,2023-08-10T00:19:38.660Z,"87 km NNW of Karluk, Alaska",earthquake,0.48,0.71,0.363777591805238,11,reviewed,av,av
+2023-08-09T15:40:48.890Z,58.2618333333333,-155.132666666667,32.83,0,ml,12,92,,0.12,av,av91996221,2023-08-10T00:19:38.660Z,"Alaska Peninsula",earthquake,0.48,0.71,0.363777591805238,11,reviewed,av,av
 2023-08-09T15:24:27.094Z,-55.6653,-27.2816,33.772,4.8,mb,33,116,5.481,0.78,us,us6000kyvp,2023-08-09T15:42:50.040Z,"South Sandwich Islands region",earthquake,9.51,6.546,0.087,41,reviewed,us,us
 2023-08-09T15:24:23.805Z,64.9141,-149.0886,3.1,0.8,ml,,,,0.99,ak,ak023a5que8c,2023-08-09T15:26:22.599Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-09T15:13:57.530Z,38.8458328,-122.7876663,1.09,0.32,md,7,148,0.007702,0.02,nc,nc73922211,2023-08-09T15:47:15.078Z,"6 km WNW of Cobb, CA",earthquake,0.69,1.04,0.24,8,automatic,nc,nc
@@ -261,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-09T04:12:05.550Z,48.1031666666667,-114.2185,10.71,1.47,ml,14,170,0.05468,0.14,mb,mb90024013,2023-08-09T14:43:08.310Z,"2 km N of Somers, Montana",earthquake,0.53,0.59,0.414989984417564,9,reviewed,mb,mb
 2023-08-09T03:41:00.819Z,44.6575,-114.3659,10,2.7,ml,46,66,0.361,0.75,us,us6000kysm,2023-08-09T23:06:17.496Z,"20 km NNW of Challis, Idaho",earthquake,1.83,1.646,0.04,82,reviewed,us,us
 2023-08-09T03:33:31.480Z,32.9986667,-116.2298333,8.03,1.99,ml,67,49,0.07585,0.2,ci,ci40532264,2023-08-09T18:46:47.480Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.93,0.091,23,reviewed,ci,ci
-2023-08-09T03:27:14.940Z,33.3085,-116.3598333,9.67,0.61,ml,30,87,0.01918,0.22,ci,ci40532256,2023-08-09T18:37:15.246Z,"6 km NNE of Borrego Springs, CA",earthquake,0.36,0.63,0.131,16,reviewed,ci,ci
