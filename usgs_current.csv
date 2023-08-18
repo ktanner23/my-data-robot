@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T03:17:30.190Z,37.3251667,-122.2046667,8.2,0.98,md,19,66,0.03714,0.08,nc,nc73925456,2023-08-18T04:27:16.639Z,"7 km SSE of Portola Valley, CA",earthquake,0.24,0.31,0.248,13,reviewed,nc,nc
 2023-08-18T02:44:04.480Z,38.8223343,-122.7723312,0.49,0.56,md,8,131,0.008342,0.02,nc,nc73925441,2023-08-18T04:27:17.639Z,"4 km W of Cobb, CA",earthquake,0.61,1.18,0.17,6,automatic,nc,nc
 2023-08-18T02:37:55.330Z,33.9388333,-116.8026667,18.05,0.92,ml,28,57,0.09617,0.2,ci,ci39643370,2023-08-18T02:41:33.430Z,"3 km NNW of Cabazon, CA",earthquake,0.35,0.63,0.136,21,automatic,ci,ci
-2023-08-18T02:21:56.650Z,39.1433333,-123.4928333,3.23,1.24,md,14,68,0.0219,0.09,nc,nc73925426,2023-08-18T05:23:18.951Z,"18 km NW of Boonville, CA",earthquake,0.21,0.44,0.157,12,reviewed,nc,nc
+2023-08-18T02:21:56.650Z,39.1433333,-123.4928333,3.23,1.24,md,14,68,0.0219,0.09,nc,nc73925426,2023-08-18T07:13:11.587Z,"18 km NW of Boonville, CA",earthquake,0.21,0.44,0.157,12,reviewed,nc,nc
 2023-08-18T02:20:23.450Z,38.8306656,-122.8170013,2.03,1.34,md,25,63,0.009055,0.02,nc,nc73925421,2023-08-18T03:34:13.353Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.35,0.15,28,automatic,nc,nc
 2023-08-18T02:08:57.282Z,62.0073,-149.5021,20,1.1,ml,,,,0.39,ak,ak023akeuixs,2023-08-18T02:10:23.597Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-18T02:01:31.500Z,36.0098343,-120.5763321,-0.7,0.87,md,8,124,0.03221,0.11,nc,nc73925416,2023-08-18T02:21:14.960Z,"18 km NW of Parkfield, CA",earthquake,0.43,1.55,0.02,4,automatic,nc,nc
@@ -85,7 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T20:27:26.200Z,34.8891667,-119.0406667,12.12,1.53,ml,28,81,0.08971,0.18,ci,ci39643202,2023-08-17T20:43:03.864Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.3,0.64,0.169,20,reviewed,ci,ci
 2023-08-17T20:25:15.319Z,39.2038,-116.1133,15.8,3,ml,7,153.81,0.909,0.1747,nn,nn00864609,2023-08-17T21:30:34.040Z,"36 km SSW of Eureka, Nevada",earthquake,,3.8,0.25,4,reviewed,nn,nn
 2023-08-17T20:24:43.859Z,58.2826,-155.1265,1.2,1,ml,,,,0.27,ak,ak023aj24dr5,2023-08-17T20:26:15.536Z,"88 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2023-08-17T20:21:48.226Z,63.2225,-150.4987,125.5,1.9,ml,,,,0.36,ak,ak023aj23qxy,2023-08-17T20:24:13.067Z,"Central Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-08-17T19:59:12.938Z,58.2723,-155.1113,1.1,2,ml,,,,0.4,ak,ak023aj1qdtp,2023-08-17T20:00:24.445Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-17T19:58:59.980Z,34.8986667,-119.039,8.89,3.39,ml,80,26,0.08536,0.29,ci,ci39643162,2023-08-18T04:55:20.461Z,"11 km WSW of Grapevine, CA",earthquake,0.23,0.51,0.163,111,reviewed,ci,ci
 2023-08-17T19:58:17.021Z,38.15,-117.8963,6.1,1,ml,8,171.16,0.085,0.0864,nn,nn00864607,2023-08-17T20:00:53.657Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.9,6,automatic,nn,nn
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T07:25:11.020Z,52.7531666666667,-169.942666666667,8.18,1.42,ml,5,268,,0.25,av,av92005821,2023-08-17T17:33:54.730Z,"75 km WSW of Nikolski, Alaska",earthquake,2.95,3.05,0.310907098547084,6,reviewed,av,av
 2023-08-17T07:23:15.900Z,58.1915,-155.272,1.98,0.53,ml,6,139,,0.07,av,av92005816,2023-08-18T02:21:16.930Z,"84 km NW of Karluk, Alaska",earthquake,0.22,0.46,0.296862419609124,6,reviewed,av,av
 2023-08-17T07:20:32.960Z,52.7555,-169.91,-1.03,0.68,ml,5,261,,0.12,av,av91113518,2023-08-17T18:41:58.600Z,"73 km WSW of Nikolski, Alaska",earthquake,1.36,0.54,0.33432800768376,5,reviewed,av,av
-2023-08-17T07:17:38.350Z,52.7565,-169.916833333333,9.2,1.07,ml,6,261,,0.24,av,av91113483,2023-08-17T17:34:56.300Z,"73 km WSW of Nikolski, Alaska",earthquake,2.02,1.09,0.177178146448049,7,reviewed,av,av
-2023-08-17T07:16:13.623Z,36.6511,-115.95,0.9,0.1,ml,11,285.92,0.015,0.1178,nn,nn00864576,2023-08-17T15:56:06.055Z,"26 km WNW of Indian Springs, Nevada",earthquake,,3,0.08,4,reviewed,nn,nn
