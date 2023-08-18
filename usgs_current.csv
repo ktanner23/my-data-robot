@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-08-18T21:31:27.530Z,19.4899997711182,-155.485000610352,1.87999999523163,2.06999993,md,20,85,,0.230000004,hv,hv73532897,2023-08-18T21:34:44.890Z,"26 km W of Volcano, Hawaii",earthquake,0.45,3.04999995,1.02999997,12,automatic,hv,hv
+2023-08-18T21:31:27.530Z,19.4899997711182,-155.485000610352,1.87999999523163,2.07,ml,20,85,,0.230000004,hv,hv73532897,2023-08-18T21:36:56.890Z,"26 km W of Volcano, Hawaii",earthquake,0.45,3.04999995,0.41,5,automatic,hv,hv
 2023-08-18T21:29:48.440Z,33.3245,-116.3161667,8.73,1.08,ml,32,64,0.1015,0.23,ci,ci39644242,2023-08-18T21:33:22.832Z,"9 km NE of Borrego Springs, CA",earthquake,0.41,1.23,0.223,25,automatic,ci,ci
 2023-08-18T21:29:41.060Z,32.393,-115.1385,7.23,2.48,ml,18,72,0.06034,0.23,ci,ci39644234,2023-08-18T21:33:20.472Z,"7 km NE of Delta, B.C., MX",earthquake,0.43,1.09,0.094,25,automatic,ci,ci
 2023-08-18T21:28:55.563Z,60.4695,-151.9673,70.6,1.1,ml,,,,0.61,ak,ak023akqa1mc,2023-08-18T21:30:51.187Z,"37 km W of Kalifornsky, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T18:35:17.701Z,12.8401,124.3111,115.242,5,mb,26,132,5.868,0.96,us,us7000kpba,2023-08-18T19:15:21.275Z,"18 km NNW of Biri, Philippines",earthquake,15.3,10.472,0.133,18,reviewed,us,us
 2023-08-18T18:34:43.580Z,38.7874985,-122.7473297,0.1,1.66,md,8,100,0.0427,0.02,nc,nc73925726,2023-08-18T19:10:14.602Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.86,0.22,9,automatic,nc,nc
 2023-08-18T18:33:04.850Z,42.3131,143.0566,61.336,4.9,mww,240,65,0.307,0.64,us,us7000kpb9,2023-08-18T19:43:45.040Z,"20 km W of Hiroo, Japan",earthquake,6.89,4.429,0.098,10,reviewed,us,us
-2023-08-18T18:31:41.380Z,37.9851667,-122.4538333,-0.03,1.41,md,22,85,0.02351,0.11,nc,nc73925721,2023-08-18T21:26:19.119Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.26,31.61,0.15,17,reviewed,nc,nc
+2023-08-18T18:31:41.380Z,37.9851667,-122.4538333,-0.03,1.41,md,22,85,0.02351,0.11,nc,nc73925721,2023-08-18T21:43:12.482Z,"6 km ESE of Santa Venetia, CA",quarry blast,0.26,31.61,0.15,17,reviewed,nc,nc
 2023-08-18T18:29:52.330Z,52.0648333333333,-176.151333333333,3.15,0.34,ml,5,140,,0.2,av,av91113688,2023-08-18T18:59:35.940Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.85,1.21,0.175980598527135,5,reviewed,av,av
 2023-08-18T18:29:17.060Z,54.7485,-164.111,1.21,2.07,ml,8,106,,0.27,av,av92007851,2023-08-18T18:55:48.750Z,"46 km WSW of False Pass, Alaska",earthquake,0.79,0.47,0.287829617560938,13,reviewed,av,av
 2023-08-18T18:27:48.970Z,60.3819,-141.149,16.8,1.4,ml,,,,0.46,ak,ak023akohild,2023-08-18T18:30:13.355Z,"122 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -100,9 +100,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T12:00:59.630Z,38.8429985,-122.7758331,0.92,0.78,md,11,165,0.0005928,0.02,nc,nc73925641,2023-08-18T13:12:14.697Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.44,0.37,10,automatic,nc,nc
 2023-08-18T11:54:30.957Z,58.2416,-155.1702,2.1,0.1,ml,,,,0.45,ak,ak023akkh8as,2023-08-18T11:57:07.150Z,"86 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-18T11:52:42.656Z,61.3048,-150.4877,42,1.2,ml,,,,0.63,ak,ak023akkgtrd,2023-08-18T11:54:40.029Z,"26 km S of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-08-18T11:47:54.660Z,33.6845016,-116.9616699,14.99,2.99,ml,113,14,0.03166,0.21,ci,ci39643762,2023-08-18T21:34:17.243Z,"7 km S of Hemet, CA",earthquake,0.18,0.33,0.322,18,automatic,ci,ci
+2023-08-18T11:47:54.660Z,33.6845016,-116.9616699,14.99,2.99,ml,113,14,0.03166,0.21,ci,ci39643762,2023-08-18T21:39:34.571Z,"7 km S of Hemet, CA",earthquake,0.18,0.33,0.322,18,automatic,ci,ci
 2023-08-18T11:22:39.269Z,51.8727,178.0084,137.728,4.2,mb,37,159,0.359,0.4,us,us7000kp7b,2023-08-18T15:55:39.598Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,12.09,6.296,0.065,66,reviewed,us,us
 2023-08-18T11:19:54.113Z,31.61848698,-104.0880086,5.823071289,1.9,ml,16,62,0.02434825716,0.1,tx,tx2023qdgq,2023-08-18T13:21:46.695Z,"43 km NW of Toyah, Texas",earthquake,0.599534136,0.4818309469,0.1,18,reviewed,tx,tx
+2023-08-18T11:07:32.230Z,46.83083333333333,-121.912,10.84,0.47000000000000003,ml,14,111,0.02755,0.09,uw,uw61942122,2023-08-18T21:37:46.510Z,"12 km NE of Ashford, Washington",earthquake,0.37,0.47,0.1909854494961747,3,reviewed,uw,uw
 2023-08-18T11:04:08.110Z,38.8110008,-122.8296661,1.29,0.75,md,9,66,0.002164,0.03,nc,nc73925631,2023-08-18T12:30:16.334Z,"7 km WNW of The Geysers, CA",earthquake,0.34,0.76,0.23,10,automatic,nc,nc
 2023-08-18T10:54:12.490Z,44.8446666666667,-111.4805,7.63,1.18,ml,17,99,0.03856,0.15,mb,mb90024663,2023-08-18T15:21:15.110Z,"Idaho-Montana border region",earthquake,0.69,0.54,0.200654898160508,13,reviewed,mb,mb
 2023-08-18T10:52:48.550Z,39.1571667,-123.2505,3.86,0.98,md,12,71,0.06245,0.05,nc,nc73925626,2023-08-18T17:39:57.370Z,"4 km WNW of Ukiah, CA",earthquake,0.2,0.97,0.25,11,reviewed,nc,nc
@@ -235,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-17T22:26:55.439Z,51.9316,-169.4213,24.7,2.2,ml,,,,0.47,ak,ak023aj3bt01,2023-08-17T23:55:29.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,4.6,,,reviewed,ak,ak
 2023-08-17T21:58:00.315Z,61.657,-149.9078,35.7,1.4,ml,,,,0.72,ak,ak023aj2x0cf,2023-08-17T21:59:53.029Z,"5 km WNW of Houston, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2023-08-17T21:50:05.740Z,38.7953339,-122.7365036,1.63,0.75,md,6,158,0.01208,0.01,nc,nc73925306,2023-08-17T22:26:13.638Z,"3 km NE of The Geysers, CA",earthquake,0.64,1.12,0.05,8,automatic,nc,nc
-2023-08-17T21:47:55.130Z,38.8325005,-122.7994995,2.07,0.92,md,8,107,0.00927,0.02,nc,nc73925301,2023-08-17T22:13:13.559Z,"7 km W of Cobb, CA",earthquake,0.4,1.46,0.35,8,automatic,nc,nc
-2023-08-17T21:46:52.275Z,54.382,-161.0259,13.2,1.7,ml,,,,0.66,ak,ak023aj2uiqb,2023-08-17T23:48:03.848Z,"111 km SSW of Sand Point, Alaska",earthquake,,4.2,,,reviewed,ak,ak
-2023-08-17T21:39:23.040Z,40.3226667,-124.2486667,29.63,2.05,md,23,53,0.02725,0.11,nc,nc73925296,2023-08-18T00:15:16.479Z,"3 km E of Petrolia, CA",earthquake,0.47,0.53,0.399,27,reviewed,nc,nc
