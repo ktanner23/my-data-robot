@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T20:34:00.020Z,38.8320007,-122.8111649,1.59,1.02,md,9,68,0.008635,0.01,nc,nc73926391,2023-08-20T20:35:33.551Z,"8 km W of Cobb, CA",earthquake,0.34,1.14,0.29,11,automatic,nc,nc
 2023-08-20T20:27:58.740Z,38.8311653,-122.821167,2.17,0.74,md,10,70,0.01163,0.01,nc,nc73926381,2023-08-20T20:29:34.778Z,"8 km NW of The Geysers, CA",earthquake,0.71,2.36,0.14,11,automatic,nc,nc
 2023-08-20T20:19:31.370Z,36.4716682,-121.0425034,9.81,0.33,md,4,194,0.02057,0,nc,nc73926376,2023-08-20T20:22:39.732Z,"11 km SE of Pinnacles, CA",earthquake,1.36,0.81,0.1,3,automatic,nc,nc
-2023-08-20T20:07:32.870Z,38.836834,-122.7845001,1.26,0.3,md,7,107,0.008556,0.01,nc,nc73926366,2023-08-20T20:09:09.630Z,"6 km WNW of Cobb, CA",earthquake,0.81,1.95,0.12,8,automatic,nc,nc
+2023-08-20T20:07:32.870Z,38.836834,-122.7845001,1.26,0.3,md,7,107,0.008556,0.01,nc,nc73926366,2023-08-20T20:54:13.781Z,"6 km WNW of Cobb, CA",earthquake,0.81,1.95,0.12,8,automatic,nc,nc
 2023-08-20T20:06:41.704Z,64.498,-148.0421,10.4,1.1,ml,,,,0.64,ak,ak023ao0mk6i,2023-08-20T20:08:15.740Z,"36 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-20T19:59:48.864Z,-55.9679,-27.6024,75.437,5.7,mww,72,46,5.371,0.76,us,us7000kpp4,2023-08-20T20:25:51.040Z,"South Sandwich Islands region",earthquake,9.93,5.799,0.093,11,reviewed,us,us
 2023-08-20T19:52:53.460Z,38.8348351,-122.7819977,1.75,1.53,md,27,65,0.007431,0.03,nc,nc73926346,2023-08-20T20:38:10.690Z,"5 km WNW of Cobb, CA",earthquake,0.19,0.29,0.12,29,automatic,nc,nc
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-20T16:46:20.560Z,19.3916664123535,-155.276000976562,1.14999997615814,1.89,ml,21,55,,0.129999995,hv,hv73534802,2023-08-20T16:51:51.480Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.180000007,0.28,10,automatic,hv,hv
 2023-08-20T16:37:04.260Z,19.1434993743896,-155.3681640625,29.2099990844727,1.81,ml,39,187,,0.100000001,hv,hv73534797,2023-08-20T16:42:36.730Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.56,0.75999999,0.11,3,automatic,hv,hv
 2023-08-20T16:19:03.678Z,36.8458,-115.8732,10.1,0.6,ml,9,271.05,0.148,0.0923,nn,nn00864700,2023-08-20T16:20:58.042Z,"35 km NNW of Indian Springs, Nevada",earthquake,,2.7,0.26,5,automatic,nn,nn
-2023-08-20T16:14:55.169Z,47.1195,96.4925,10,4.4,mb,26,61,6.527,0.57,us,us7000kpmv,2023-08-20T16:41:13.040Z,"74 km SSW of Uliastay, Mongolia",earthquake,5.46,1.927,0.106,26,reviewed,us,us
+2023-08-20T16:14:55.169Z,47.1195,96.4925,10,4.4,mb,26,61,6.527,0.57,us,us7000kpmv,2023-08-20T16:41:13.040Z,"Western Mongolia",earthquake,5.46,1.927,0.106,26,reviewed,us,us
 2023-08-20T16:06:16.658Z,31.67672938,-104.3768874,5.565991211000001,3.3,ml,17,68,0.04193317971,0.2,tx,tx2023qhhd,2023-08-20T17:55:45.184Z,"55 km S of Whites City, New Mexico",earthquake,0.7679769075,0.883472824,0.3,13,reviewed,tx,tx
 2023-08-20T15:50:39.830Z,34.3436667,-116.8675,2.66,1.62,ml,50,55,0.03341,0.15,ci,ci39645354,2023-08-20T19:47:54.371Z,"9 km NNW of Big Bear City, CA",earthquake,0.15,0.48,0.133,40,reviewed,ci,ci
 2023-08-20T15:28:22.710Z,39.7958,77.7112,10,4.8,mb,42,102,2.027,0.82,us,us7000kpmr,2023-08-20T15:52:28.040Z,"105 km N of Dunbage, China",earthquake,7.69,1.743,0.063,77,reviewed,us,us
@@ -206,6 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-19T21:43:51.319Z,56.789,-155.8528,0,2,ml,,,,0.78,ak,ak023amdwliz,2023-08-19T21:46:01.834Z,"103 km W of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-19T21:42:23.576Z,62.9167,-150.5605,86.5,1.3,ml,,,,0.48,ak,ak023amdwbo5,2023-08-19T21:44:16.763Z,"48 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-19T21:06:45.457Z,60.933,-149.7711,58,1.1,ml,,,,1.2,ak,ak023amdonkx,2023-08-19T21:09:09.289Z,"7 km WNW of Hope, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-19T20:47:59.622Z,58.165,-155.2334,0,0.9,ml,,,,0.51,ak,ak023amdc1ew,2023-08-19T20:53:40.369Z,"Alaska Peninsula",earthquake,,2.7,,,automatic,ak,ak
-2023-08-19T20:47:39.421Z,63.0271,-149.2225,11.7,1,ml,,,,0.43,ak,ak023amdbzva,2023-08-19T20:49:19.782Z,"42 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-19T20:47:34.858Z,58.1926,-155.2797,0,0.1,ml,,,,0.51,ak,ak023amdbzil,2023-08-19T20:49:07.532Z,"84 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
