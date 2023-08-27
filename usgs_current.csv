@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T19:49:21.723Z,64.6607,-148.0845,15.7,1.9,ml,,,,0.42,ak,ak023azl1qa4,2023-08-27T19:51:10.923Z,"21 km S of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-27T19:43:50.480Z,33.8428333,-117.0933333,15.89,0.69,ml,18,56,0.09504,0.19,ci,ci39652586,2023-08-27T19:47:32.487Z,"7 km NE of Nuevo, CA",earthquake,0.36,0.71,0.232,15,automatic,ci,ci
 2023-08-27T19:42:43.107Z,39.2476,-120.2053,11.3,0.9,ml,14,120.81,0.073,0.1473,nn,nn00865117,2023-08-27T20:04:18.818Z,"Northern California",earthquake,,1.2,0.15,8,reviewed,nn,nn
-2023-08-27T19:33:51.150Z,39.3829994,-122.8981705,5.08,1.48,md,7,164,0.1784,0.18,nc,nc73929986,2023-08-27T19:53:14.597Z,"6 km ESE of Lake Pillsbury, CA",earthquake,1.12,6.09,0.08,2,automatic,nc,nc
+2023-08-27T19:33:51.150Z,39.3829994,-122.8981705,5.08,1.48,md,7,164,0.1784,0.18,nc,nc73929986,2023-08-27T20:18:12.641Z,"6 km ESE of Lake Pillsbury, CA",earthquake,1.12,6.09,0.08,2,automatic,nc,nc
 2023-08-27T19:11:54.200Z,33.4916667,-116.4798333,13.32,0.65,ml,20,98,0.0552,0.19,ci,ci39652570,2023-08-27T19:15:22.637Z,"19 km ESE of Anza, CA",earthquake,0.35,0.74,0.139,13,automatic,ci,ci
 2023-08-27T19:01:07.110Z,32.2546667,-116.5703333,9.92,1.15,ml,11,253,0.09816,0.12,ci,ci39652562,2023-08-27T19:04:41.758Z,"33 km E of Primo Tapia, B.C., MX",earthquake,0.73,0.85,0.198,6,automatic,ci,ci
 2023-08-27T18:51:17.463Z,58.2565,-155.1011,1.9,1.2,ml,,,,0.26,ak,ak023azkgps2,2023-08-27T18:52:18.275Z,"85 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T13:22:07.993Z,39.7564,-119.5895,8.5,0.9,ml,10,120.96,0.164,0.1035,nn,nn00865109,2023-08-27T14:39:22.400Z,"15 km NE of Spanish Springs, Nevada",earthquake,,3.4,0.27,6,reviewed,nn,nn
 2023-08-27T13:21:28.578Z,39.7588,-119.5872,9.2,0.7,ml,6,151.67,0.163,0.0879,nn,nn00865108,2023-08-27T14:36:12.902Z,"Nevada",earthquake,,4.8,0.34,4,reviewed,nn,nn
 2023-08-27T13:16:51.900Z,34.02,-117.164,17.05,0.85,ml,16,149,0.04554,0.38,ci,ci39652394,2023-08-27T13:20:30.580Z,"4 km SSE of Redlands, CA",earthquake,0.87,1.67,0.226,18,automatic,ci,ci
-2023-08-27T13:14:05.760Z,19.183500289917,-155.499496459961,30.3099994659424,2.62,ml,52,79,,0.140000001,hv,hv73547542,2023-08-27T16:02:59.476Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,0.639999986,3.17,29,automatic,hv,hv
+2023-08-27T13:14:05.760Z,19.183500289917,-155.499496459961,30.3099994659424,2.62,ml,52,79,,0.140000001,hv,hv73547542,2023-08-27T20:22:34.970Z,"3 km SW of Pāhala, Hawaii",earthquake,0.53,0.639999986,3.17,29,automatic,hv,hv
 2023-08-27T13:13:56.660Z,36.2291679,-121.0151672,4.42,0.68,md,8,203,0.2279,0.24,nc,nc73929921,2023-08-27T13:45:13.248Z,"10 km E of King City, CA",earthquake,6.11,18.47,,1,automatic,nc,nc
 2023-08-27T13:13:11.360Z,34.4116667,-119.1786667,4.82,1.46,ml,15,91,0.04234,0.25,ci,ci39652386,2023-08-27T13:16:44.540Z,"7 km SE of Ojai, CA",earthquake,0.53,0.79,0.199,15,automatic,ci,ci
 2023-08-27T13:11:21.560Z,33.3313333,-116.3708333,8.49,0.65,ml,22,116,0.07396,0.25,ci,ci39652378,2023-08-27T13:14:54.011Z,"8 km N of Borrego Springs, CA",earthquake,0.44,1.23,0.073,10,automatic,ci,ci
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-27T09:41:43.047Z,31.74948005,-104.5542416,4.332006836,2.2,ml,27,179,0.0380385787,0.2,tx,tx2023qtoy,2023-08-27T17:38:40.354Z,"50 km SSW of Whites City, New Mexico",earthquake,0.9721249329,0.6261083366,0.1,19,reviewed,tx,tx
 2023-08-27T09:37:42.022Z,55.9722,-158.8174,72.5,1.6,ml,,,,0.27,ak,ak023azf0v7e,2023-08-27T09:39:43.694Z,"Alaska Peninsula",earthquake,,1.4,,,automatic,ak,ak
 2023-08-27T09:32:22.763Z,63.4803,-151.2299,0,1.3,ml,,,,1.3,ak,ak023azezr1t,2023-08-27T09:34:42.778Z,"25 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-27T09:10:47.880Z,40.4675,-124.3663333,20.04,1.75,md,26,215,0.02344,0.12,nc,nc73929871,2023-08-27T20:05:38.160Z,"15 km SW of Ferndale, CA",earthquake,0.52,0.22,0.161,18,reviewed,nc,nc
+2023-08-27T09:10:47.880Z,40.4675,-124.3663333,20.04,1.75,md,26,215,0.02344,0.12,nc,nc73929871,2023-08-27T20:18:12.528Z,"15 km SW of Ferndale, CA",earthquake,0.52,0.22,0.161,18,reviewed,nc,nc
 2023-08-27T09:07:02.872Z,36.7947,-115.9632,7.4,-0.1,ml,8,158.43,0.017,0.1334,nn,nn00865097,2023-08-27T14:04:55.487Z,"36 km NW of Indian Springs, Nevada",earthquake,,2.3,0.62,4,reviewed,nn,nn
 2023-08-27T09:02:02.100Z,19.3118333333333,-66.0716666666667,89.51,3.43,md,11,299,1.026,0.17,pr,pr71422343,2023-08-27T09:18:56.950Z,"93 km N of San Juan, Puerto Rico",earthquake,2.94,4.65,0.0540820927081915,7,reviewed,pr,pr
 2023-08-27T08:56:02.830Z,40.7391663,-125.1121674,10.01,2.39,md,10,315,0.7096,0.12,nc,nc73929866,2023-08-27T10:53:14.271Z,"74 km WNW of Ferndale, CA",earthquake,10.26,13.03,,1,automatic,nc,nc
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T21:15:50.520Z,19.388334274292,-155.24333190918,2.14000010490417,1.87,ml,22,82,,0.25999999,hv,hv73546272,2023-08-26T21:21:21.910Z,"6 km S of Volcano, Hawaii",earthquake,0.3,0.340000004,2.38,11,automatic,hv,hv
 2023-08-26T20:35:12.270Z,38.8206673,-122.8151703,3.32,0.73,md,14,57,0.004824,0.02,nc,nc73929631,2023-08-26T21:08:11.643Z,"7 km NW of The Geysers, CA",earthquake,0.33,1.11,0.22,14,automatic,nc,nc
 2023-08-26T20:33:12.600Z,33.4666667,-116.5001667,11.35,0.76,ml,22,96,0.08411,0.21,ci,ci39651978,2023-08-26T20:36:39.558Z,"19 km ESE of Anza, CA",earthquake,0.35,0.88,0.172,16,automatic,ci,ci
-2023-08-26T20:25:09.210Z,34.1455,-117.4171667,6.1,1.3,ml,37,63,0.04775,0.18,ci,ci39651970,2023-08-26T20:28:49.568Z,"6 km NW of Rialto, CA",earthquake,0.27,0.7,0.209,27,automatic,ci,ci
