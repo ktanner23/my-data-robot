@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T17:32:51.490Z,38.833168,-122.8044968,2.04,1.44,md,24,50,0.01069,0.02,nc,nc73930586,2023-08-29T18:43:14.164Z,"7 km W of Cobb, CA",earthquake,0.2,0.42,0.17,23,automatic,nc,nc
 2023-08-29T17:32:23.650Z,37.1463,-115.5218,11.6,2.2,ml,46,100.34,0.345,0.1274,nn,nn00865234,2023-08-29T19:44:01.974Z,"39 km SW of Alamo, Nevada",earthquake,,2.8,0.29,26,reviewed,nn,nn
 2023-08-29T17:11:48.966Z,63.2784,-150.4323,122.3,2.1,ml,,,,0.28,ak,ak023b2upgy8,2023-08-29T17:43:24.040Z,"70 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-08-29T17:01:53.410Z,33.4895,-116.5873333,8.97,1.05,ml,36,61,0.01346,0.22,ci,ci39654242,2023-08-29T17:40:47.428Z,"11 km SE of Anza, CA",earthquake,0.26,0.48,0.243,27,automatic,ci,ci
+2023-08-29T17:01:53.310Z,33.4861667,-116.5863333,9.32,1.08,ml,36,62,0.01576,0.12,ci,ci39654242,2023-08-29T22:32:57.150Z,"11 km SE of Anza, CA",earthquake,0.14,0.25,0.144,25,reviewed,ci,ci
 2023-08-29T17:01:25.130Z,38.8134995,-122.7949982,1.8,0.96,md,15,61,0.005529,0.02,nc,nc73930576,2023-08-29T17:49:14.859Z,"5 km NW of The Geysers, CA",earthquake,0.27,0.6,0.26,15,automatic,nc,nc
 2023-08-29T16:55:12.950Z,17.9425,-66.9621666666667,6.63,2.63,md,16,217,0.05889,0.07,pr,pr71422548,2023-08-29T17:16:23.490Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.57,0.23,0.153665720059205,8,reviewed,pr,pr
 2023-08-29T16:50:24.730Z,38.8196678,-122.7614975,1.07,0.71,md,12,177,0.01263,0.04,nc,nc73930571,2023-08-29T18:10:16.980Z,"3 km W of Cobb, CA",earthquake,0.43,0.61,0.11,12,automatic,nc,nc
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T08:08:52.930Z,33.0323333,-117.8685,5.8,1.59,ml,20,170,0.4289,0.21,ci,ci39653914,2023-08-29T19:39:53.379Z,"50 km SSW of San Clemente, CA",earthquake,0.63,31.61,0.062,13,reviewed,ci,ci
 2023-08-29T08:08:43.211Z,39.3739,78.0863,10,4.6,mb,35,71,2.362,1.25,us,us7000kru3,2023-08-29T08:51:27.040Z,"76 km NE of Dunbage, China",earthquake,7.69,1.915,0.137,16,reviewed,us,us
 2023-08-29T08:07:23.250Z,18.6481666666667,-65.0856666666667,30.8,3.21,md,13,256,0.6061,0.24,pr,pr71422468,2023-08-29T08:22:54.870Z,"37 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.76,7.4,0.0637371280197674,8,reviewed,pr,pr
-2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T22:29:03.939Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
+2023-08-29T08:05:33.310Z,33.0018333,-117.9176667,5.98,3.6,mw,80,133,0.4776,0.31,ci,ci39653906,2023-08-29T22:34:12.126Z,"45 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.42,31.61,,4,reviewed,ci,ci
 2023-08-29T07:58:22.440Z,36.742,-121.3925,10.64,0.59,md,12,196,0.04914,0.09,nc,nc73930451,2023-08-29T09:48:12.022Z,"8 km SSW of Ridgemark, CA",earthquake,0.75,0.57,0.359,10,reviewed,nc,nc
 2023-08-29T07:53:27.360Z,33.5161667,-116.5066667,13.77,0.27,ml,17,80,0.04596,0.1,ci,ci39653898,2023-08-29T19:29:04.382Z,"16 km ESE of Anza, CA",earthquake,0.29,0.39,0.122,8,reviewed,ci,ci
 2023-08-29T07:44:59.430Z,46.7765,-121.95833333333333,9.5,0.88,ml,37,45,0.03498,0.16,uw,uw61945622,2023-08-29T22:14:19.580Z,"5 km ENE of Ashford, Washington",earthquake,0.23,0.36,0.24521942448086392,22,reviewed,uw,uw
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-28T23:00:05.820Z,38.8419991,-122.8766632,1.24,1.21,md,13,140,0.03759,0.02,nc,nc73930291,2023-08-29T00:32:16.959Z,"13 km NW of The Geysers, CA",earthquake,0.32,0.95,0.17,15,automatic,nc,nc
 2023-08-28T22:43:23.600Z,58.1888333333333,-155.3495,2.21,0.55,ml,11,56,,0.08,av,av92023646,2023-08-29T02:32:24.610Z,"Alaska Peninsula",earthquake,0.22,0.32,0.29381252378616,11,reviewed,av,av
 2023-08-28T22:42:08.450Z,52.083,-176.134666666667,-1.8,0,ml,5,148,,0.23,av,av92023641,2023-08-29T02:24:43.450Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.88,1.65,0.136718026562049,5,reviewed,av,av
-2023-08-28T22:32:14.227Z,16.6369,-96.23,58.516,4.9,mb,84,134,2.417,0.95,us,us7000krpi,2023-08-29T02:29:26.577Z,"Oaxaca, Mexico",earthquake,9.83,8.151,0.029,384,reviewed,us,us
