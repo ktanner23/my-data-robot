@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-08-30T13:44:15.170Z,33.0396667,-116.4736667,14.11,0.72,ml,20,70,0.08593,0.19,ci,ci39654874,2023-08-30T13:47:41.958Z,"13 km ESE of Julian, CA",earthquake,0.34,0.67,0.139,7,automatic,ci,ci
 2023-08-30T13:42:16.123Z,61.5942,-141.1507,0,1.6,ml,,,,0.77,ak,ak023b4g1nos,2023-08-30T13:43:58.969Z,"95 km E of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-08-30T13:42:15.270Z,36.94338608,-97.68269348,3.917492628,2.37,ml,29,83.22907257,0.1688784063,0.3470508857,ok,ok2023qzjj,2023-08-30T13:44:31.045Z,"3 km NW of Renfrow, Oklahoma",earthquake,2.367842191,1.849605522,0.19,16,automatic,ok,ok
+2023-08-30T13:42:15.269Z,36.94,-97.68466667,4.7,2.1,ml,93,80,0.16556751,0.25,ok,ok2023qzjj,2023-08-30T13:52:48.247Z,"Oklahoma",earthquake,,0.6,0.23,38,reviewed,ok,ok
 2023-08-30T13:37:27.384Z,59.3522,-152.7286,74.2,1.5,ml,,,,0.22,ak,ak023b4g0lz6,2023-08-30T13:39:10.603Z,"45 km W of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-08-30T13:37:08.200Z,38.8406677,-122.8274994,1.63,0.93,md,17,77,0.01434,0.02,nc,nc73930901,2023-08-30T13:44:14.627Z,"9 km WNW of Cobb, CA",earthquake,0.25,0.46,0.2,17,automatic,nc,nc
 2023-08-30T13:36:44.290Z,38.8253326,-122.8034973,2.17,0.29,md,10,84,0.005489,0.02,nc,nc73930896,2023-08-30T13:44:13.628Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.03,0.13,11,automatic,nc,nc
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T09:20:57.486Z,62.1419,-147.7707,25.8,1.3,ml,,,,1,ak,ak023b4djapg,2023-08-30T09:23:13.057Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T09:20:41.380Z,38.7921677,-122.7570038,0.55,1.59,md,25,83,0.008706,0.04,nc,nc73930846,2023-08-30T09:48:16.339Z,"2 km N of The Geysers, CA",earthquake,0.2,0.46,0.11,27,automatic,nc,nc
 2023-08-30T09:12:43.720Z,33.0145,-116.3493333,10.91,0.93,ml,17,87,0.06684,0.14,ci,ci39654770,2023-08-30T09:16:17.282Z,"25 km ESE of Julian, CA",earthquake,0.28,0.41,0.212,10,automatic,ci,ci
-2023-08-30T09:07:16.115Z,-32.7524,-71.8537,47.172,4.3,mb,35,134,0.321,0.68,us,us7000ks19,2023-08-30T13:32:21.222Z,"37 km NNW of Valparaíso, Chile",earthquake,3.49,8.676,0.168,10,reviewed,us,us
+2023-08-30T09:07:16.115Z,-32.7524,-71.8537,47.172,4.3,mb,35,134,0.321,0.68,us,us7000ks19,2023-08-30T13:52:15.223Z,"37 km NNW of Valparaíso, Chile",earthquake,3.49,8.676,0.168,10,reviewed,us,us
 2023-08-30T09:02:53.640Z,44.7274,-73.9257,5.682,1.6,ml,15,86,0.481,0.45,us,us7000ks18,2023-08-30T13:17:35.847Z,"New York",earthquake,1.73,7.041,0.128,8,reviewed,us,us
 2023-08-30T08:52:46.170Z,19.3821659088135,-155.278503417969,1.45000004768372,2.07,ml,22,72,,0.119999997,hv,hv73552912,2023-08-30T08:58:17.930Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.200000003,0.28,10,automatic,hv,hv
 2023-08-30T08:46:25.360Z,33.5048332,-116.4463348,7.47,1.25,ml,43,54,0.0253,0.21,ci,ci39654762,2023-08-30T08:57:13.370Z,"22 km SW of La Quinta, CA",earthquake,0.33,0.91,0.208,9,automatic,ci,ci
@@ -68,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T04:38:14.792Z,55.428,162.7043,35,4.8,mb,70,83,3.386,0.81,us,us7000ks0i,2023-08-30T05:03:00.040Z,"90 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,8.42,1.904,0.032,303,reviewed,us,us
 2023-08-30T04:31:20.510Z,33.7656667,-116.9408333,13.44,0.68,ml,17,105,0.0765,0.21,ci,ci39654714,2023-08-30T04:34:54.300Z,"3 km SE of San Jacinto, CA",earthquake,0.54,0.79,0.054,15,automatic,ci,ci
 2023-08-30T04:23:44.520Z,19.3571662902832,-155.305328369141,2.16000008583069,1.83000004,md,16,94,,0.0700000003,hv,hv73552642,2023-08-30T04:26:48.400Z,"12 km SW of Volcano, Hawaii",earthquake,0.3,0.610000014,0.639999986,14,automatic,hv,hv
+2023-08-30T04:03:53.940Z,34.4703333,-117.9563333,8.7,0.33,ml,9,80,0.02135,0.07,ci,ci39654706,2023-08-30T13:54:29.304Z,"6 km SW of Pearblossom, CA",earthquake,0.21,0.39,0.131,3,reviewed,ci,ci
 2023-08-30T03:51:03.497Z,60.5486,-147.4816,18.9,1.6,ml,,,,0.2,ak,ak023b4a583x,2023-08-30T03:52:28.257Z,"56 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-30T03:35:27.590Z,36.1358333333333,-89.7186666666667,5.8,2.04,md,32,70,0.02078,0.1,nm,nm60547371,2023-08-30T12:00:35.740Z,"southeastern Missouri",earthquake,0.17,0.47,0.140680596943373,26,reviewed,nm,nm
 2023-08-30T03:33:38.480Z,38.7988319,-122.7483368,2.03,0.4,md,7,180,0.01802,0,nc,nc73930766,2023-08-30T03:41:16.184Z,"2 km NNE of The Geysers, CA",earthquake,0.49,2.5,0.17,8,automatic,nc,nc
@@ -169,4 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-29T14:12:54.392Z,61.3178,-146.7954,17.8,2.6,ml,,,,0.62,ak,ak023b2sxe9o,2023-08-29T15:04:29.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-29T14:04:16.620Z,35.4766667,-120.7818333,6.19,1.88,md,45,58,0.08621,0.07,nc,nc73930546,2023-08-29T18:53:19.216Z,"10 km W of Atascadero, CA",earthquake,0.17,0.54,0.167,29,reviewed,nc,nc
 2023-08-29T13:57:38.938Z,5.8923,126.0359,112.817,4.4,mb,26,114,1.255,0.59,us,us7000krvh,2023-08-29T15:24:51.040Z,"40 km ESE of Mangili, Philippines",earthquake,9.59,7.977,0.123,19,reviewed,us,us
-2023-08-29T13:51:36.650Z,37.6205,-121.8673333,7.26,1.17,md,21,99,0.02611,0.07,nc,nc73930541,2023-08-30T01:35:14.448Z,"3 km NE of Sunol, CA",earthquake,0.33,0.22,0.178,14,reviewed,nc,nc
