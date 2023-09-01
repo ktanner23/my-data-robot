@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-01T20:43:46.528Z,60.7127,-152.5196,12,2.1,ml,,,,0.22,ak,ak023b7vanz0,2023-09-01T20:45:14.344Z,"66 km W of Salamatof, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-01T20:43:01.451Z,36.26657486,-97.26981354,3.618222952,2.84,ml,63,26.92513609,0.0288524013,0.2706116521,ok,ok2023rdog,2023-09-01T20:45:37.497Z,"3 km SSE of Perry, Oklahoma",earthquake,1.568868618,1.384035586,0.23,55,automatic,ok,ok
+2023-09-01T20:43:02.024Z,36.27204514,-97.27584076,0.5525574088,2.84,ml,79,27.43900919,0.03508841991,0.6969180482,ok,ok2023rdog,2023-09-01T20:54:21.395Z,"2 km SSE of Perry, Oklahoma",earthquake,1.324326743,1.111167061,0.22,56,automatic,ok,ok
 2023-09-01T20:27:51.060Z,33.5116667,-116.4478333,10.32,0.75,ml,19,102,0.0999,0.17,ci,ci39657082,2023-09-01T20:31:20.189Z,"21 km SW of La Quinta, CA",earthquake,0.38,0.94,0.147,14,automatic,ci,ci
 2023-09-01T20:06:33.800Z,33.844,-117.4911667,2.49,1.67,ml,33,38,0.04668,0.24,ci,ci39657066,2023-09-01T20:10:13.873Z,"5 km SE of Home Gardens, CA",quarry blast,0.31,0.48,0.207,27,automatic,ci,ci
 2023-09-01T20:06:26.950Z,33.5033333,-117.206,29.51,1.29,ml,16,144,0.2343,0.33,ci,ci39657058,2023-09-01T20:10:05.872Z,"5 km WNW of Temecula, CA",earthquake,1.85,1.16,0.294,2,automatic,ci,ci
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T15:21:31.920Z,17.9516666666667,-66.9246666666667,17.37,2.69,md,12,206,0.1152,0.14,pr,pr71422963,2023-09-01T16:27:50.000Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.59,0.4,0.138042916185993,7,reviewed,pr,pr
 2023-09-01T15:21:14.790Z,33.4941667,-116.5873333,8.86,1.14,ml,37,60,0.01243,0.17,ci,ci39656850,2023-09-01T16:09:27.280Z,"10 km SE of Anza, CA",earthquake,0.2,0.38,0.282,27,reviewed,ci,ci
 2023-09-01T15:20:15.580Z,17.998,-66.927,12.01,2.55,md,5,180,0.1151,0.08,pr,pr71422993,2023-09-01T16:48:48.250Z,"1 km NW of Fuig, Puerto Rico",earthquake,0.94,1.26,0.0200244864836385,3,reviewed,pr,pr
-2023-09-01T15:05:59.765Z,-18.2037,168.0015,40.506,4.7,mb,21,234,4.189,0.52,us,us7000ksnw,2023-09-01T19:44:44.687Z,"61 km SSW of Port-Vila, Vanuatu",earthquake,12.24,6.971,0.138,18,reviewed,us,us
+2023-09-01T15:05:59.765Z,-18.2037,168.0015,40.506,4.7,mb,21,234,4.189,0.52,us,us7000ksnw,2023-09-01T20:54:41.230Z,"61 km SSW of Port-Vila, Vanuatu",earthquake,12.24,6.971,0.138,18,reviewed,us,us
 2023-09-01T15:05:11.190Z,17.9706666666667,-66.9105,11.64,2.56,md,6,194,0.1273,0.11,pr,pr71422973,2023-09-01T16:08:13.690Z,"0 km WSW of Guánica, Puerto Rico",earthquake,0.79,1.93,0.0345165528636184,3,reviewed,pr,pr
 2023-09-01T15:00:11.730Z,17.9995,-66.937,12.84,2.37,md,4,172,0.1063,0.08,pr,pr71422953,2023-09-01T15:13:47.470Z,"Puerto Rico region",earthquake,2.35,0.76,0.0573507454297872,3,reviewed,pr,pr
 2023-09-01T14:54:13.220Z,17.9608333333333,-66.9256666666667,14.77,2.6,md,15,201,0.01976,0.2,pr,pr71422938,2023-09-01T16:13:04.790Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.84,0.158475074266568,5,reviewed,pr,pr
@@ -171,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T21:09:50.510Z,38.8286667,-122.8151703,1.78,1.04,md,21,61,0.0066,0.02,nc,nc73931446,2023-08-31T21:11:25.894Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.43,0.28,22,automatic,nc,nc
 2023-08-31T21:00:17.970Z,40.5774994,-122.3218307,16.76,2.19,md,9,139,0.1227,0.03,nc,nc73931441,2023-08-31T22:08:13.831Z,"4 km E of Redding, CA",earthquake,0.67,0.98,0.08,6,automatic,nc,nc
 2023-08-31T20:57:05.050Z,35.714,-117.549,5.06,1.85,ml,25,81,0.1124,0.16,ci,ci39656266,2023-09-01T17:45:57.620Z,"14 km WSW of Searles Valley, CA",earthquake,0.27,0.6,0.073,14,reviewed,ci,ci
-2023-08-31T20:54:39.940Z,38.8311653,-122.8178329,1.74,1.09,md,21,48,0.009845,0.02,nc,nc73931431,2023-08-31T21:22:15.549Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.37,0.15,22,automatic,nc,nc
-2023-08-31T20:47:25.831Z,61.7031,-151.2776,76,2.5,ml,,,,0.51,ak,ak023b67s4r1,2023-08-31T21:55:09.040Z,"32 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
