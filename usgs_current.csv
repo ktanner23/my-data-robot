@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-03T13:18:46.120Z,65.5167,-149.8702,12.9,2.1,ml,,,,0.57,ak,ak023bb21ysk,2023-09-03T13:21:02.649Z,"northern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-03T13:17:47.120Z,33.4626667,-116.5726667,9.46,0.77,ml,28,78,0.04037,0.15,ci,ci39657730,2023-09-03T13:21:18.533Z,"14 km SE of Anza, CA",earthquake,0.23,0.43,0.147,21,automatic,ci,ci
-2023-09-03T13:14:27.380Z,38.7869987,-122.7641678,1.71,0.82,md,14,70,0.01404,0.03,nc,nc73932551,2023-09-03T13:16:03.915Z,"1 km NNW of The Geysers, CA",earthquake,0.31,0.61,0.28,14,automatic,nc,nc
+2023-09-03T13:14:27.380Z,38.7869987,-122.7641678,1.71,0.82,md,14,70,0.01404,0.03,nc,nc73932551,2023-09-03T13:33:15.884Z,"1 km NNW of The Geysers, CA",earthquake,0.31,0.61,0.28,14,automatic,nc,nc
 2023-09-03T13:03:10.203Z,58.3978,-154.6572,13.5,1.6,ml,,,,0.9,ak,ak023bb1yoa4,2023-09-03T13:04:33.526Z,"93 km N of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-09-03T13:01:59.100Z,19.1891670227051,-155.377334594727,31.5599994659424,1.99000001,md,32,178,,0.129999995,hv,hv73559772,2023-09-03T13:05:11.270Z,"10 km E of Pāhala, Hawaii",earthquake,0.8,0.930000007,0.920000017,12,automatic,hv,hv
 2023-09-03T13:01:57.390Z,19.3593330383301,-155.290832519531,1.37999999523163,1.78999996,md,14,121,,0.300000012,hv,hv73559767,2023-09-03T13:05:05.230Z,"10 km SSW of Volcano, Hawaii",earthquake,0.45,0.610000014,0.430000007,9,automatic,hv,hv
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-03T08:40:24.120Z,38.8163338,-122.7976685,2.47,0.85,md,14,59,0.008556,0.06,nc,nc73932506,2023-09-03T09:00:14.278Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.76,0.44,14,automatic,nc,nc
 2023-09-03T08:36:08.910Z,18.8013333333333,-64.4298333333333,7.68,3.34,md,3,344,0.67,0.06,pr,pr71423363,2023-09-03T12:40:07.505Z,"64 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,4.25,3.53,0.0146429594472068,3,reviewed,pr,pr
 2023-09-03T08:25:06.545Z,61.532,-146.4771,31.5,1.3,ml,,,,0.34,ak,ak023baz47q6,2023-09-03T08:26:52.152Z,"45 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-03T08:20:06.789Z,66.0074,-148.2239,13.2,1.8,ml,,,,0.74,ak,ak023baz355y,2023-09-03T08:22:24.282Z,"39 km E of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-03T08:20:06.789Z,66.0074,-148.2239,13.2,1.8,ml,,,,0.74,ak,ak023baz355y,2023-09-03T08:22:24.282Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-03T08:19:39.490Z,61.5845,-147.5373,24.6,1.3,ml,,,,0.42,ak,ak023baz2zz1,2023-09-03T08:21:08.527Z,"25 km SSE of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-03T08:17:57.800Z,38.7876663,-122.74617,1.72,1.15,md,14,84,0.008605,0.02,nc,nc73932501,2023-09-03T09:14:14.372Z,"2 km NE of The Geysers, CA",earthquake,0.26,0.47,0.35,14,automatic,nc,nc
 2023-09-03T08:17:53.430Z,38.7874985,-122.7460022,1.68,1.63,md,10,84,0.01693,0.01,nc,nc73932496,2023-09-03T08:49:14.213Z,"1 km NE of The Geysers, CA",earthquake,0.31,0.79,0.13,10,automatic,nc,nc
@@ -188,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-02T13:46:33.150Z,46.852666666666664,-121.759,1.67,0.22,ml,14,84,0.02337,0.09,uw,uw61956551,2023-09-03T05:24:59.870Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.44,0.163248198442069,5,reviewed,uw,uw
 2023-09-02T13:45:09.830Z,46.826,-121.78383333333333,-2.34,0.43,ml,10,84,0.02564,0.07,uw,uw61956546,2023-09-03T05:35:13.270Z,"20 km ENE of Ashford, Washington",earthquake,0.28,0.92,0.22114816377488897,5,reviewed,uw,uw
 2023-09-02T13:36:50.110Z,19.3589992523193,-155.287002563477,1.49000000953674,1.86,ml,24,121,,0.140000001,hv,hv73558197,2023-09-02T14:02:52.620Z,"10 km SSW of Volcano, Hawaii",earthquake,0.25,0.409999996,0.38,4,automatic,hv,hv
-2023-09-02T13:33:17.710Z,35.666,-117.5343333,4.21,1.66,ml,22,119,0.09008,0.16,ci,ci39657354,2023-09-02T13:44:12.370Z,"14 km ENE of Ridgecrest, CA",earthquake,0.34,1.05,0.137,17,automatic,ci,ci
