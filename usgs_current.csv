@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T15:03:12.650Z,44.4648333333333,-114.134,11.22,2.21,ml,12,80,0.5433,0.14,mb,mb90026573,2023-09-07T15:48:37.560Z,"8 km ESE of Challis, Idaho",earthquake,1.45,2.15,0.296859996829062,26,reviewed,mb,mb
 2023-09-07T15:03:08.370Z,44.4588333333333,-114.137833333333,11.16,1.75,ml,13,80,0.5443,0.2,mb,mb90026563,2023-09-07T15:48:53.050Z,"9 km SE of Challis, Idaho",earthquake,0.78,1.71,0.267922054384628,12,reviewed,mb,mb
 2023-09-07T14:46:58.303Z,60.4353,-152.6096,126.1,1.6,ml,,,,0.71,ak,ak023bhoytd2,2023-09-07T14:48:49.732Z,"67 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-09-07T14:39:35.310Z,38.5093346,-119.4944992,3.32,2.29,md,7,116,0.07903,0.05,nc,nc73934206,2023-09-07T16:39:15.087Z,"1 km WSW of Walker, CA",earthquake,0.66,1.02,0.51,2,automatic,nc,nc
+2023-09-07T14:39:35.330Z,38.5071667,-119.5135,3.84,2.32,md,16,77,0.02746,0.04,nc,nc73934206,2023-09-07T20:04:10.226Z,"3 km WSW of Walker, CA",earthquake,0.24,0.33,0.278,28,reviewed,nc,nc
 2023-09-07T14:25:05.410Z,38.5055008,-119.5224991,4.3,2.85,md,11,106,,0.06,nc,nc73934201,2023-09-07T19:31:17.150Z,"4 km WSW of Walker, CA",earthquake,0.34,0.88,0.16,16,automatic,nc,nc
 2023-09-07T14:22:32.090Z,38.5873337,-122.7925034,6.13,1.3,md,9,152,0.07134,0.06,nc,nc73934196,2023-09-07T14:56:13.518Z,"5 km NNE of Windsor, CA",earthquake,0.48,0.99,0.12,7,automatic,nc,nc
 2023-09-07T14:17:09.276Z,61.4959,-146.5828,40.2,1.2,ml,,,,1.13,ak,ak023bhoshsm,2023-09-07T14:19:14.991Z,"42 km NNW of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -90,7 +90,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T08:49:02.530Z,36.4785004,-121.045166,8.29,1.09,md,6,192,0.02537,0.02,nc,nc73934086,2023-09-07T09:06:13.502Z,"11 km SE of Pinnacles, CA",earthquake,0.85,0.66,0.34,5,automatic,nc,nc
 2023-09-07T08:45:07.110Z,18.0068333333333,-66.8213333333333,17.89,2.36,md,8,161,0.06355,0.16,pr,pr71424058,2023-09-07T08:52:51.420Z,"1 km N of Indios, Puerto Rico",earthquake,0.64,1.34,0.0747205315077009,4,reviewed,pr,pr
 2023-09-07T08:40:02.490Z,38.8349991,-122.7809982,1.77,2.28,md,57,46,0.008054,0.05,nc,nc73934081,2023-09-07T09:02:12.473Z,"5 km WNW of Cobb, CA",earthquake,0.14,0.2,0.16,58,automatic,nc,nc
+2023-09-07T08:27:55.180Z,52.0951666666667,-176.143,4.16,-0.28,ml,5,227,,0.31,av,av91115143,2023-09-07T20:02:15.150Z,"41 km NE of Adak, Alaska",earthquake,1.48,2.18,0.175399372337612,5,reviewed,av,av
 2023-09-07T08:26:50.360Z,36.0223351,-120.5824966,1.34,0.62,md,8,122,0.03937,0.06,nc,nc73934076,2023-09-07T08:50:12.115Z,"19 km NW of Parkfield, CA",earthquake,0.41,2.05,0.03,3,automatic,nc,nc
+2023-09-07T08:24:52.000Z,53.9298333333333,-166.585333333333,8.97,0.44,ml,6,274,,0.11,av,av92033511,2023-09-07T19:57:28.020Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,0.64,0.72,0.191490334575493,6,reviewed,av,av
 2023-09-07T08:21:58.390Z,44.7598333,-111.1153333,8.95,0.17,ml,9,77,0.03687,0.18,uu,uu60549397,2023-09-07T13:26:17.710Z,"6 km E of Hebgen Lake Estates, Montana",earthquake,0.59,1.34,0.325,2,reviewed,uu,uu
 2023-09-07T08:20:35.640Z,38.8025017,-122.8146667,13.27,0.66,md,8,122,0.013,0.07,nc,nc73934071,2023-09-07T08:38:11.047Z,"6 km WNW of The Geysers, CA",earthquake,2.54,1.75,0.19,4,automatic,nc,nc
 2023-09-07T08:19:55.700Z,44.6665,-110.6935,5.98,0.15,md,7,138,0.05005,0.17,uu,uu60549392,2023-09-07T13:34:35.490Z,"32 km E of West Yellowstone, Montana",earthquake,1.01,2.33,0.497,7,reviewed,uu,uu
@@ -219,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-06T20:22:35.730Z,36.1328333,-117.8448333,5.69,0.2,mh,4,316,0.01725,0.01,ci,ci39659882,2023-09-07T16:45:10.060Z,"14 km NE of Coso Junction, CA",earthquake,0.43,0.37,,0,reviewed,ci,ci
 2023-09-06T20:09:21.386Z,62.8822,-143.6559,4.9,1.6,ml,,,,0.61,ak,ak023bg4s25m,2023-09-06T20:11:17.447Z,"7 km SE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T20:06:03.587Z,39.337,-120.0804,4.9,1.1,ml,18,45.42,0.056,0.1629,nn,nn00865481,2023-09-07T02:03:55.872Z,"8 km SW of Floriston, California",earthquake,,1.6,0.16,10,reviewed,nn,nn
-2023-09-06T20:04:22.117Z,61.7764,-150.1213,41.5,1.1,ml,,,,0.39,ak,ak023bg4qzmq,2023-09-06T20:07:43.774Z,"5 km NW of Willow, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-09-06T19:58:06.290Z,44.6725,-114.391333333333,8.16,2.32,ml,19,95,0.54,0.28,mb,mb90026478,2023-09-06T20:31:37.570Z,"22 km NW of Challis, Idaho",earthquake,0.8,1.42,0.410461203924329,25,reviewed,mb,mb
-2023-09-06T19:57:30.532Z,39.8049,-120.7168,6.9,1.2,ml,7,256.04,0.183,0.1367,nn,nn00865491,2023-09-07T02:04:01.879Z,"5 km N of Plumas Eureka (historical), California",earthquake,,3.5,0.24,6,reviewed,nn,nn
-2023-09-06T19:56:22.920Z,36.2091667,-118.2968333,6.57,1.85,ml,21,155,0.3691,0.16,ci,ci39659850,2023-09-06T20:53:46.563Z,"27 km WSW of Olancha, CA",earthquake,0.3,2.35,0.211,13,reviewed,ci,ci
