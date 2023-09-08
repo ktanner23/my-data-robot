@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-08T11:14:35.550Z,34.502,-119,6.71,2.16,ml,52,25,0.07239,0.32,ci,ci39661122,2023-09-08T11:18:11.108Z,"14 km NNW of Fillmore, CA",earthquake,0.34,1.32,0.151,25,automatic,ci,ci
+2023-09-08T11:21:32.197Z,64.1875,-148.2807,2.9,1.5,ml,,,,0.47,ak,ak023bjakg4j,2023-09-08T11:23:21.726Z,"44 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-08T11:14:35.550Z,34.502,-119,6.71,2.16,ml,52,25,0.07239,0.32,ci,ci39661122,2023-09-08T11:25:27.940Z,"14 km NNW of Fillmore, CA",earthquake,0.34,1.32,0.151,25,automatic,ci,ci
 2023-09-08T11:01:19.490Z,63.3281,-153.0685,10.4,0.7,ml,,,,0.37,ak,ak023bjag4tp,2023-09-08T11:03:05.535Z,"71 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-08T10:58:52.850Z,33.9841667,-116.863,11.86,0.83,ml,16,129,0.06849,0.2,ci,ci39661114,2023-09-08T11:02:27.090Z,"7 km N of Banning, CA",earthquake,0.6,0.96,0.096,22,automatic,ci,ci
 2023-09-08T10:54:49.111Z,19.0985,145.8669,147.421,5.2,mb,98,25,5.561,0.78,us,us7000ku6k,2023-09-08T11:14:53.882Z,"Maug Islands region, Northern Mariana Islands",earthquake,6.47,6.479,0.026,504,reviewed,us,us
@@ -21,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T09:01:59.771Z,36.3142,-115.4726,4.2,1.1,ml,19,245.75,0.525,0.1904,nn,nn00865556,2023-09-08T09:04:18.756Z,"16 km ENE of Mount Charleston, Nevada",earthquake,,2,0.23,14,automatic,nn,nn
 2023-09-08T08:33:48.824Z,64.8973,-148.6693,19.6,0.5,ml,,,,0.25,ak,ak023bj8ur6q,2023-09-08T08:35:16.791Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-08T08:26:54.970Z,38.8310013,-122.8096695,0.94,0.27,md,7,89,0.01681,0.1,nc,nc73934521,2023-09-08T08:43:11.669Z,"8 km NW of The Geysers, CA",earthquake,0.64,2.05,0.15,8,automatic,nc,nc
-2023-09-08T08:20:38.623Z,38.1957,-117.8483,3,1.3,ml,9,159.89,0.107,0.3234,nn,nn00865555,2023-09-08T08:23:26.510Z,"31 km SE of Mina, Nevada",earthquake,,0.9,0.41,6,automatic,nn,nn
+2023-09-08T08:20:38.623Z,38.1957,-117.8483,3,1.3,ml,9,159.89,0.107,0.3234,nn,nn00865555,2023-09-08T08:23:26.510Z,"Nevada",earthquake,,0.9,0.41,6,automatic,nn,nn
 2023-09-08T07:46:19.260Z,19.3856658935547,-155.276000976562,1.54999995231628,1.76,ml,16,60,,0.200000003,hv,hv73569227,2023-09-08T07:51:49.860Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.310000002,0.21,10,automatic,hv,hv
 2023-09-08T07:36:59.870Z,34.4105,-119.1596667,3.58,1.2,ml,15,63,0.0321,0.31,ci,ci39661066,2023-09-08T07:40:37.858Z,"9 km ESE of Ojai, CA",earthquake,0.56,0.75,0.231,14,automatic,ci,ci
 2023-09-08T07:26:59.000Z,19.40016746521,-155.303497314453,2.16000008583069,1.83,ml,23,69,,0.270000011,hv,hv73569192,2023-09-08T07:32:31.350Z,"8 km WSW of Volcano, Hawaii",earthquake,0.41,0.370000005,0.34,9,automatic,hv,hv
@@ -187,12 +188,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T12:14:47.920Z,39.2726667,-123.2318333,4.9,1.41,md,16,69,0.08579,0.06,nc,nc73934151,2023-09-08T09:28:11.908Z,"2 km WNW of Redwood Valley, CA",earthquake,0.16,0.83,0.064,19,reviewed,nc,nc
 2023-09-07T12:05:48.950Z,44.7805,-110.802,4.74,0.27,md,9,201,0.03541,0.07,uu,uu60549427,2023-09-07T13:19:59.900Z,"Wyoming",earthquake,0.74,0.69,0.202,5,reviewed,uu,uu
 2023-09-07T12:04:15.027Z,63.7154,-146.6101,2.7,1.2,ml,,,,0.59,ak,ak023bhniuqm,2023-09-07T12:06:10.768Z,"56 km SW of Delta Junction, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-07T12:01:51.520Z,38.589,-122.7938333,8.31,1.59,md,17,118,0.06721,0.14,nc,nc71131319,2023-09-08T10:54:55.077Z,"5 km NNE of Windsor, CA",earthquake,0.29,0.6,0.104,11,reviewed,nc,nc
+2023-09-07T12:01:51.520Z,38.589,-122.7938333,8.31,1.59,md,17,118,0.06721,0.14,nc,nc71131319,2023-09-08T11:22:12.672Z,"5 km NNE of Windsor, CA",earthquake,0.29,0.6,0.104,11,reviewed,nc,nc
 2023-09-07T12:01:45.710Z,38.5863333,-122.7933333,7.1,1.3,md,54,44,0.06868,0.1,nc,nc73934146,2023-09-08T11:16:12.636Z,"5 km NNE of Windsor, CA",earthquake,0.18,0.34,0.191,12,reviewed,nc,nc
 2023-09-07T11:47:48.450Z,58.2468333333333,-155.1475,3.26,0.2,ml,11,77,,0.09,av,av92033816,2023-09-07T21:09:05.580Z,"85 km NNW of Karluk, Alaska",earthquake,0.24,0.53,0.173677385129474,11,reviewed,av,av
 2023-09-07T11:38:26.809Z,36.6239,-116.2895,6.5,-0.1,ml,14,120.6,0.045,0.0744,nn,nn00865524,2023-09-07T23:24:09.961Z,"California-Nevada border region",earthquake,,1.1,1.06,5,reviewed,nn,nn
 2023-09-07T11:37:06.060Z,39.9326668,-123.2671661,4.1,2.03,md,8,106,0.06854,0.08,nc,nc73934141,2023-09-07T12:11:18.589Z,"16 km N of Covelo, CA",earthquake,0.36,1.1,0.23,5,automatic,nc,nc
 2023-09-07T11:34:54.560Z,52.0705,-176.123833333333,-1.78,0.31,ml,6,116,,0.37,av,av92033796,2023-09-07T21:04:03.340Z,"41 km ENE of Adak, Alaska",earthquake,0.7,1.28,0.217062245664925,6,reviewed,av,av
 2023-09-07T11:31:26.980Z,38.8361664,-122.8079987,2.09,0.26,md,8,89,0.01286,0.01,nc,nc73934136,2023-09-07T11:48:13.450Z,"8 km WNW of Cobb, CA",earthquake,0.51,1.65,0.17,8,automatic,nc,nc
-2023-09-07T11:27:33.440Z,67.3174,-156.1638,0.5,2.1,ml,,,,0.75,ak,ak023bhn2e0w,2023-09-07T11:31:34.122Z,"55 km NE of Kobuk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-07T11:24:03.692Z,62.1192,-150.9949,66.5,1.5,ml,,,,0.38,ak,ak023bhn1olt,2023-09-07T11:25:28.306Z,"25 km NE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
