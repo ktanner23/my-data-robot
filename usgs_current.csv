@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-08T18:11:55.790Z,40.9596672,-121.55867,12.07,2.34,md,20,48,0.1023,0.1,nc,nc73934721,2023-09-08T18:19:11.005Z,"11 km WSW of Fall River Mills, CA",earthquake,0.31,0.96,0.18,17,automatic,nc,nc
-2023-09-08T18:10:10.585Z,34.94795609,-97.55049133,4.492563725,2.07,ml,17,54.72669983,0.05068525299,0.2631573091,ok,ok2023rqds,2023-09-08T18:14:05.302Z,"11 km SE of Dibble, Oklahoma",earthquake,2.811598155,2.478709939,0.49,14,automatic,ok,ok
-2023-09-08T18:10:08.420Z,40.9594994,-121.5641632,16.29,2.48,md,18,90,0.09972,0.09,nc,nc73934716,2023-09-08T18:16:10.985Z,"12 km WSW of Fall River Mills, CA",earthquake,0.4,1.16,0.16,17,automatic,nc,nc
+2023-09-08T18:11:55.790Z,40.9596672,-121.55867,12.07,2.34,md,20,48,0.1023,0.1,nc,nc73934721,2023-09-08T18:25:12.254Z,"11 km WSW of Fall River Mills, CA",earthquake,0.31,0.96,0.18,17,automatic,nc,nc
+2023-09-08T18:10:10.419Z,34.954,-97.55566667,4.24,1.8,ml,91,40,0.05218975859,0.35,ok,ok2023rqds,2023-09-08T18:23:24.201Z,"11 km SE of Dibble, Oklahoma",earthquake,,0.6,0.21,36,reviewed,ok,ok
+2023-09-08T18:10:08.420Z,40.9594994,-121.5641632,16.29,2.48,md,18,90,0.09972,0.09,nc,nc73934716,2023-09-08T18:25:12.039Z,"12 km WSW of Fall River Mills, CA",earthquake,0.4,1.16,0.16,17,automatic,nc,nc
 2023-09-08T17:59:44.120Z,38.8269997,-122.8143311,1.76,2.04,md,39,40,0.0049,0.05,nc,nc73934711,2023-09-08T18:04:11.919Z,"8 km NW of The Geysers, CA",earthquake,0.15,0.25,0.18,40,automatic,nc,nc
 2023-09-08T17:58:17.490Z,40.9628334,-121.5601654,12.83,2.13,md,14,94,0.09925,0.09,nc,nc73934706,2023-09-08T18:04:10.920Z,"11 km WSW of Fall River Mills, CA",earthquake,0.33,0.98,0.3,8,automatic,nc,nc
 2023-09-08T17:54:22.727Z,58.4703,-155.4352,131.8,1.6,ml,,,,0.5,ak,ak023bjec3nk,2023-09-08T17:56:40.207Z,"75 km ESE of King Salmon, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-08T17:29:57.960Z,38.8306656,-122.8198318,1.99,1.01,md,20,51,0.01053,0.02,nc,nc73934646,2023-09-08T17:31:32.119Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.42,0.23,22,automatic,nc,nc
 2023-09-08T17:29:14.482Z,62.0291,-151.5887,87.8,1.8,ml,,,,0.33,ak,ak023bje6q48,2023-09-08T17:31:46.791Z,"10 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-08T17:28:52.468Z,29.1551,129.6024,22.88,5.1,mww,78,92,2.459,1.07,us,us7000kuc4,2023-09-08T17:55:28.040Z,"78 km N of Tatsugō, Japan",earthquake,5.52,4.597,0.071,19,reviewed,us,us
-2023-09-08T17:24:38.390Z,40.9519997,-121.557663,14.78,4.97,mw,34,36,,0.11,nc,nc73934641,2023-09-08T18:15:20.528Z,"12 km WSW of Fall River Mills, CA",earthquake,0.24,0.88,,4,reviewed,nc,nc
+2023-09-08T17:24:38.390Z,40.9519997,-121.557663,14.78,4.97,mw,34,36,,0.11,nc,nc73934641,2023-09-08T18:28:09.715Z,"12 km WSW of Fall River Mills, CA",earthquake,0.24,0.88,,4,reviewed,nc,nc
 2023-09-08T17:21:54.054Z,60.0686,-152.7305,104.4,1.6,ml,,,,0.67,ak,ak023bje53cz,2023-09-08T17:34:14.497Z,"57 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-08T17:14:21.638Z,29.2579,129.4615,53.187,4.1,mb,22,110,2.402,0.53,us,us7000kucb,2023-09-08T18:08:04.040Z,"Ryukyu Islands, Japan",earthquake,8.05,10.601,0.165,11,reviewed,us,us
 2023-09-08T17:13:18.070Z,39.4641685,-122.0106659,4.37,2.93,md,5,193,0.342,0.25,nc,nc73934636,2023-09-08T18:16:53.759Z,"17 km ESE of Willows, CA",earthquake,2.56,18.92,0.32,4,automatic,nc,nc
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-07T19:09:17.860Z,60.0253333333333,-153.086833333333,-2.8,-0.84,ml,4,110,,0.09,av,av92034431,2023-09-07T23:19:19.920Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.26,2.05,0.288660736370839,4,reviewed,av,av
 2023-09-07T19:06:32.650Z,38.8326683,-122.8013306,2.08,0.21,md,8,74,0.01032,0.01,nc,nc73934311,2023-09-07T19:24:14.003Z,"7 km W of Cobb, CA",earthquake,0.43,1.27,0.07,8,automatic,nc,nc
 2023-09-07T18:37:22.600Z,34.3236667,-119.3693333,7.1,1.7,ml,27,113,0.05037,0.27,ci,ci39660650,2023-09-07T21:54:44.588Z,"14 km WNW of Ventura, CA",earthquake,0.48,0.67,0.112,23,reviewed,ci,ci
-2023-09-07T18:25:15.750Z,58.1901666666667,-155.29,2.01,0.27,ml,7,146,,0.07,av,av92034361,2023-09-08T00:35:26.610Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.42,0.289305145177255,7,reviewed,av,av
