@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T16:34:51.330Z,33.4158333,-116.6223333,8.13,1.22,ml,42,61,0.08044,0.19,ci,ci39662738,2023-09-11T20:12:06.420Z,"15 km N of Warner Springs, CA",earthquake,0.23,0.77,0.164,26,reviewed,ci,ci
 2023-09-11T16:33:11.769Z,59.1802,-151.993,56.9,1.4,ml,,,,0.52,ak,ak023boc82mv,2023-09-11T20:35:31.786Z,"20 km SSW of Nanwalek, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2023-09-11T16:32:35.040Z,33.0175,-116.3466667,11.15,1.48,ml,52,47,0.07047,0.16,ci,ci39662730,2023-09-11T20:11:02.430Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.15,0.3,0.143,25,reviewed,ci,ci
-2023-09-11T16:14:15.675Z,66.7952,-151.4898,0.1,1.6,ml,,,,0.88,ak,ak023boc44cf,2023-09-11T16:16:30.527Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-11T16:14:15.675Z,66.7952,-151.4898,0.1,1.6,ml,,,,0.88,ak,ak023boc44cf,2023-09-11T16:16:30.527Z,"13 km S of Bettles, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-11T16:00:55.450Z,38.8294983,-122.8148346,1.7,1.08,md,16,46,0.007139,0.02,nc,nc73935751,2023-09-11T16:02:33.633Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.43,0.22,14,automatic,nc,nc
 2023-09-11T15:52:09.500Z,58.2548,-155.1312,29.3,1,ml,,,,0.62,ak,ak023bobqth2,2023-09-11T15:53:49.740Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-11T15:41:26.870Z,35.79216667,-96.97166667,7.37,1.29,ml,67,39,0.1853636253,0.22,ok,ok2023rvli,2023-09-11T15:52:36.647Z,"4 km ESE of Carney, Oklahoma",earthquake,,0.5,0.24,30,reviewed,ok,ok
@@ -84,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T10:22:32.300Z,38.8264999,-122.7993317,1.38,0.76,md,6,140,0.008945,0,nc,nc73935706,2023-09-11T10:24:07.611Z,"7 km NW of The Geysers, CA",earthquake,0.65,1.17,0.19,8,automatic,nc,nc
 2023-09-11T10:05:18.199Z,34.9565,-97.56666667,5.9,1.85,ml,90,74,0.04859046489,0.31,ok,ok2023rvag,2023-09-11T12:28:11.128Z,"10 km SE of Dibble, Oklahoma",earthquake,,0.5,0.25,37,reviewed,ok,ok
 2023-09-11T10:02:00.902Z,36.7042,-116.0884,3.8,-0.4,ml,10,111.11,0.012,0.0477,nn,nn00865692,2023-09-11T15:17:07.298Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1,0.11,4,reviewed,nn,nn
+2023-09-11T09:56:17.960Z,39.3126667,-122.7951667,4.62,1.78,md,29,137,0.1487,0.18,nc,nc73935701,2023-09-11T21:33:35.811Z,"18 km SE of Lake Pillsbury, CA",earthquake,0.31,1.4,0.184,27,reviewed,nc,nc
 2023-09-11T09:44:31.274Z,63.0929,-151.4533,10,1.2,ml,,,,0.43,ak,ak023bo84jsn,2023-09-11T09:47:59.381Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-11T09:42:30.950Z,44.7656667,-111.1196667,12.54,-0.45,md,8,80,0.03191,0.15,uu,uu60549887,2023-09-11T13:33:31.940Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.78,1.9,0.164,5,reviewed,uu,uu
 2023-09-11T09:38:11.100Z,44.7605,-110.936,7.27,0.78,ml,11,101,0.05,0.11,uu,uu60549882,2023-09-11T13:55:14.120Z,"17 km NE of West Yellowstone, Montana",earthquake,0.44,0.83,0.132,3,reviewed,uu,uu
@@ -159,6 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T01:42:17.250Z,19.4045,-155.259833333333,0.86,2.38,ml,21,65,,0.11,hv,hv73575372,2023-09-11T02:01:17.340Z,"5 km SSW of Volcano, Hawaii",earthquake,0.13,0.2,0.248670096917184,7,reviewed,hv,hv
 2023-09-11T01:40:27.560Z,52.072,-176.138166666667,3.77,0.56,ml,5,116,,0.28,av,av92038866,2023-09-11T20:32:08.650Z,"40 km ENE of Adak, Alaska",earthquake,1.3,1.85,0.230664488861459,5,reviewed,av,av
 2023-09-11T01:34:10.130Z,19.4051666666667,-155.259333333333,0.53,2.54,ml,26,68,,0.13,hv,hv73575367,2023-09-11T02:11:35.370Z,"4 km SSW of Volcano, Hawaii",earthquake,0.14,0.19,0.130644637206896,13,reviewed,hv,hv
+2023-09-11T01:30:55.250Z,53.839,-166.569666666667,6.35,-0.08,ml,5,282,,0.25,av,av91115498,2023-09-11T21:35:10.430Z,"4 km SSW of Unalaska, Alaska",earthquake,1.49,2.71,0.117008208388164,5,reviewed,av,av
 2023-09-11T01:26:58.860Z,19.3896666666667,-155.276333333333,1.05,3.06,ml,28,58,,0.13,hv,hv73575362,2023-09-11T01:46:06.496Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.13,0.124168810297402,11,reviewed,hv,hv
 2023-09-11T01:26:50.480Z,19.2978333333333,-155.215,-0.5,1.13,md,8,172,,0.08,hv,hv73575357,2023-09-11T01:47:15.152Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.36,0.0342081627350966,2,reviewed,hv,hv
 2023-09-11T01:25:44.630Z,19.4051666666667,-155.260666666667,0.61,2.14,ml,22,64,,0.11,hv,hv73575352,2023-09-11T20:17:21.410Z,"5 km SW of Volcano, Hawaii",earthquake,0.13,0.18,0.0973455061579542,1,reviewed,hv,hv
@@ -230,8 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T21:46:46.314Z,-6.6746,125.0489,10.219,4.5,mb,20,147,3.157,0.68,us,us7000kuw7,2023-09-10T22:30:46.040Z,"Banda Sea",earthquake,10.42,5.204,0.136,16,reviewed,us,us
 2023-09-10T21:43:49.602Z,35.0565,44.7101,10,4.7,mb,92,59,0.65,0.84,us,us7000kuw4,2023-09-11T08:05:59.425Z,"19 km NNE of Ţūz Khūrmātū, Iraq",earthquake,4.16,1.871,0.05,122,reviewed,us,us
 2023-09-10T21:42:21.240Z,19.238166809082,-155.407836914062,30.8799991607666,1.79999995,md,29,150,,0.109999999,hv,hv73574957,2023-09-10T21:45:28.350Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.74000001,0.870000005,12,automatic,hv,hv
-2023-09-10T21:39:24.977Z,58.1882,-155.3878,1.1,1.1,ml,,,,0.66,ak,ak023bmrpbhi,2023-09-10T21:41:24.147Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
-2023-09-10T21:38:10.760Z,17.9421666666667,-66.8261666666667,11.45,2.56,md,10,214,0.0602,0.05,pr,pr71424518,2023-09-10T21:46:58.570Z,"Puerto Rico region",earthquake,0.83,0.46,0.0196371468044307,3,reviewed,pr,pr
-2023-09-10T21:37:38.220Z,48.772333333333336,-121.84516666666667,-1.01,1.35,ml,8,93,0.03904,0.27,uw,uw61949892,2023-09-10T23:21:52.660Z,"15 km SSE of Glacier, Washington",earthquake,0.81,1.95,0.08347708449331814,5,reviewed,uw,uw
-2023-09-10T21:33:28.880Z,38.5299988,-122.654335,5.4,1.6,md,15,100,0.0629,0.06,nc,nc73935501,2023-09-10T22:05:14.453Z,"8 km SW of Calistoga, CA",earthquake,0.29,0.9,0.2,13,automatic,nc,nc
-2023-09-10T21:32:44.181Z,31.56496156,-104.0237212,8.702368164,2.5,ml,17,58,0.03971163465,0.1,tx,tx2023rubl,2023-09-11T18:27:23.913Z,"35 km NW of Toyah, Texas",earthquake,0.8401281232,0.8912503412,0.1,19,reviewed,tx,tx
