@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-12T19:50:59.872Z,64.1056,-149.2899,17.5,1.3,ml,,,,0.33,ak,ak023bq1nkub,2023-09-12T19:52:24.852Z,"13 km NW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-12T19:49:19.098Z,38.1379,-117.9841,2.7,1.2,ml,9,125.39,0.061,0.1921,nn,nn00865751,2023-09-12T19:51:58.282Z,"Nevada",earthquake,,0.9,0.72,7,automatic,nn,nn
+2023-09-12T19:49:19.527Z,38.1471,-117.9631,8.6,1.3,ml,8,103.38,0.055,0.1742,nn,nn00865751,2023-09-12T20:03:54.004Z,"29 km SSE of Mina, Nevada",earthquake,,1.4,0.36,6,reviewed,nn,nn
 2023-09-12T19:25:20.280Z,33.7521667,-116.7956667,16.14,0.47,ml,12,115,0.07946,0.27,ci,ci39663562,2023-09-12T19:28:48.177Z,"7 km W of Idyllwild, CA",earthquake,0.81,1.54,0.086,7,automatic,ci,ci
 2023-09-12T19:19:32.300Z,35.0506667,-118.3461667,0.15,1.34,ml,23,44,0.06005,0.21,ci,ci39663546,2023-09-12T19:23:13.491Z,"13 km SE of Tehachapi, CA",earthquake,0.39,31.61,0.132,24,automatic,ci,ci
 2023-09-12T18:59:38.370Z,38.4248352,-122.4503326,2.04,1.62,md,9,154,0.03153,0.13,nc,nc73936106,2023-09-12T19:37:14.247Z,"8 km WNW of Yountville, CA",earthquake,0.81,1.66,0.27,6,automatic,nc,nc
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T17:54:03.490Z,33.7186667,-117.3288333,-0.51,1.04,ml,17,113,0.05798,0.21,ci,ci39663490,2023-09-12T18:42:04.497Z,"6 km N of Lake Elsinore, CA",quarry blast,0.54,31.61,0.185,12,reviewed,ci,ci
 2023-09-12T17:35:23.400Z,33.2718333,-116.8091667,15.21,0.33,ml,20,75,0.05534,0.17,ci,ci39663466,2023-09-12T18:34:12.045Z,"5 km NW of Lake Henshaw, CA",earthquake,0.31,0.64,0.102,6,reviewed,ci,ci
 2023-09-12T17:34:18.685Z,61.3841,-147.5648,24,1.4,ml,,,,0.65,ak,ak023bq0d6zw,2023-09-12T17:36:10.126Z,"47 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-12T17:25:20.030Z,47.64566666666666,-117.69016666666667,7.01,2.73,ml,15,62,0.1168,0.09,uw,uw61950352,2023-09-12T20:01:52.636Z,"4 km NW of Fairchild Air Force Base, Washington",earthquake,0.32,0.8,0.23702522488812505,6,reviewed,uw,uw
+2023-09-12T17:25:20.030Z,47.64566666666666,-117.69016666666667,7.01,2.73,ml,15,62,0.1168,0.09,uw,uw61950352,2023-09-12T20:07:26.223Z,"4 km NW of Fairchild Air Force Base, Washington",earthquake,0.32,0.8,0.23702522488812505,6,reviewed,uw,uw
 2023-09-12T17:19:15.387Z,31.6693,-104.4584,10.578,2.8,ml,35,59,0.036,0.44,us,us7000kvbq,2023-09-12T17:48:33.040Z,"56 km S of Whites City, New Mexico",earthquake,1.41,7.386,0.051,79,reviewed,us,us
 2023-09-12T17:19:14.590Z,48.31783333333333,-116.71333333333334,-0.74,2.16,md,8,181,0.2786,0.31,uw,uw61950347,2023-09-12T20:00:33.600Z,"10 km NW of Dover, Idaho",explosion,1.71,31.61,0.3167545581708675,9,reviewed,uw,uw
 2023-09-12T17:15:47.290Z,38.8006668,-122.7376633,5.42,0.79,md,10,115,0.01723,0.07,nc,nc73936086,2023-09-12T17:17:23.833Z,"3 km SSW of Cobb, CA",earthquake,0.58,1.28,0.08,11,automatic,nc,nc
@@ -185,8 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:20:33.310Z,37.5003333,-118.7666667,6.63,0.82,md,11,237,0.1024,0.01,nc,nc73935816,2023-09-11T22:17:10.454Z,"10 km SW of Toms Place, CA",earthquake,3.24,1.51,0.225,10,reviewed,nc,nc
 2023-09-11T20:17:18.370Z,33.7225,-116.77,16.17,0.77,ml,22,58,0.04915,0.15,ci,ci39663002,2023-09-11T20:33:35.095Z,"5 km WSW of Idyllwild, CA",earthquake,0.32,0.49,0.166,16,reviewed,ci,ci
 2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"46 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-11T20:09:21.070Z,35.1205,-116.6343333,0.3,0.7,ml,5,148,0.05689,0.04,ci,ci39662986,2023-09-11T21:14:43.469Z,"16 km SSE of Fort Irwin, CA",earthquake,0.42,0.36,0.156,4,reviewed,ci,ci
-2023-09-11T20:07:55.290Z,38.7835007,-122.7334976,1.58,1.06,md,12,81,0.002536,0.05,nc,nc73935806,2023-09-11T20:09:32.717Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.75,0.21,11,automatic,nc,nc
-2023-09-11T20:07:23.647Z,29.09454346,-97.86982996,2.518839518,3.2,ml,19,85,0.06950751704,0.3,tx,tx2023rvuc,2023-09-12T15:14:59.130Z,"18 km SSE of Stockdale, Texas",earthquake,2.206267046,2.101764894,0.2,10,reviewed,tx,tx
-2023-09-11T20:05:27.088Z,62.5338,-151.3575,83,1.6,ml,,,,0.37,ak,ak023boefy78,2023-09-11T20:07:25.148Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-11T20:04:17.460Z,33.3211667,-116.8983333,18.81,0.71,ml,23,65,0.04404,0.16,ci,ci39662978,2023-09-11T20:32:17.011Z,"5 km SW of Palomar Observatory, CA",earthquake,0.29,0.63,0.144,16,reviewed,ci,ci
