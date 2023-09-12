@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T00:27:01.210Z,35.717,-117.5731667,4.97,0.97,ml,21,141,0.09905,0.16,ci,ci39663186,2023-09-12T00:38:49.996Z,"14 km NE of Ridgecrest, CA",earthquake,0.32,0.68,0.119,10,reviewed,ci,ci
 2023-09-12T00:17:14.451Z,59.7334,-152.6928,89.3,1.4,ml,,,,0.29,ak,ak023bpq55jf,2023-09-12T03:07:07.857Z,"48 km W of Anchor Point, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-09-11T23:57:56.280Z,34.3396667,-117.4296667,10.71,1.27,ml,33,75,0.05807,0.14,ci,ci39663178,2023-09-12T00:09:49.852Z,"7 km SW of Oak Hills, CA",earthquake,0.2,0.3,0.121,20,reviewed,ci,ci
-2023-09-11T23:56:08.866Z,29.0963,-97.8962,7.451,2.7,mb_lg,17,98,0.147,1.11,us,us7000kv6q,2023-09-12T00:08:47.040Z,"16 km SSE of Stockdale, Texas",earthquake,1.55,4.366,0.07,54,reviewed,us,us
+2023-09-11T23:56:08.599Z,29.04327393,-97.85948989,0.0244547526,2.8,ml,12,73,0.04961824465,0.1,tx,tx2023rwbr,2023-09-12T10:37:23.645Z,"16 km ENE of Falls City, Texas",earthquake,0.7643002763,1.262380539,0.1,16,reviewed,tx,tx
 2023-09-11T23:52:26.241Z,39.1902,-118.5882,8.2,1.5,ml,8,73.91,0.383,0.1046,nn,nn00865706,2023-09-12T00:34:44.271Z,"27 km SSE of Fallon Station, Nevada",earthquake,,3.4,0.41,5,reviewed,nn,nn
 2023-09-11T23:49:24.980Z,29.07897949,-97.87293199,8.461344401,3.3,ml,19,93,0.09863131526,0.5,tx,tx2023rwbl,2023-09-12T04:37:52.314Z,"17 km NE of Falls City, Texas",earthquake,1.320000085,3.585771436,0.3,4,reviewed,tx,tx
 2023-09-11T23:39:54.720Z,38.822834,-122.8134995,2.98,0.84,md,7,165,0.002734,0.01,nc,nc73935871,2023-09-11T23:41:28.753Z,"7 km NW of The Geysers, CA",earthquake,0.84,1.78,0.12,8,automatic,nc,nc
@@ -102,7 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T20:21:29.290Z,38.7976685,-122.7303314,0.95,0.75,md,8,129,0.01525,0.04,nc,nc73935811,2023-09-11T20:23:03.219Z,"3 km SSW of Cobb, CA",earthquake,0.33,0.88,0.13,9,automatic,nc,nc
 2023-09-11T20:20:33.310Z,37.5003333,-118.7666667,6.63,0.82,md,11,237,0.1024,0.01,nc,nc73935816,2023-09-11T22:17:10.454Z,"10 km SW of Toms Place, CA",earthquake,3.24,1.51,0.225,10,reviewed,nc,nc
 2023-09-11T20:17:18.370Z,33.7225,-116.77,16.17,0.77,ml,22,58,0.04915,0.15,ci,ci39663002,2023-09-11T20:33:35.095Z,"5 km WSW of Idyllwild, CA",earthquake,0.32,0.49,0.166,16,reviewed,ci,ci
-2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-11T20:13:48.989Z,62.6257,-149.2815,56.1,1.6,ml,,,,1.04,ak,ak023boehpma,2023-09-11T20:16:25.420Z,"46 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T20:09:21.070Z,35.1205,-116.6343333,0.3,0.7,ml,5,148,0.05689,0.04,ci,ci39662986,2023-09-11T21:14:43.469Z,"16 km SSE of Fort Irwin, CA",earthquake,0.42,0.36,0.156,4,reviewed,ci,ci
 2023-09-11T20:07:55.290Z,38.7835007,-122.7334976,1.58,1.06,md,12,81,0.002536,0.05,nc,nc73935806,2023-09-11T20:09:32.717Z,"2 km ENE of The Geysers, CA",earthquake,0.32,0.75,0.21,11,automatic,nc,nc
 2023-09-11T20:07:23.617Z,29.09088135,-97.86982996,2.518839518,3.2,ml,18,85,0.06749534479,0.5,tx,tx2023rvuc,2023-09-11T20:49:56.040Z,"18 km SSE of Stockdale, Texas",earthquake,2.592961808,2.170116844,0.2,10,reviewed,tx,tx
@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-11T11:06:57.630Z,40.5656667,-124.1856667,17.13,1.74,md,22,77,0.06034,0.13,nc,nc73935716,2023-09-11T21:59:19.572Z,"4 km SSW of Fortuna, CA",earthquake,0.33,0.68,0.189,20,reviewed,nc,nc
 2023-09-11T10:56:11.685Z,-8.1638,158.4362,90.47,4.7,mb,36,77,1.958,0.55,us,us7000kuzp,2023-09-11T11:14:43.040Z,"127 km W of Buala, Solomon Islands",earthquake,10.96,8.027,0.076,53,reviewed,us,us
 2023-09-11T10:42:45.060Z,38.7941666,-122.7303314,1.1,1.65,md,24,65,0.012,0.06,nc,nc73935711,2023-09-11T11:20:11.731Z,"3 km NE of The Geysers, CA",earthquake,0.22,0.45,0.19,27,automatic,nc,nc
-2023-09-11T10:33:22.990Z,17.9891666666667,-66.9515,7.32,1.97,md,4,159,0.07018,0.04,pr,pr71424563,2023-09-11T11:08:51.480Z,"Puerto Rico region",earthquake,1.92,0.91,0.0708295896451857,2,reviewed,pr,pr
-2023-09-11T10:32:26.680Z,17.8798333333333,-66.9676666666667,4.33,2.44,md,4,272,0.1151,0.24,pr,pr71424553,2023-09-11T10:51:22.340Z,"11 km SSW of Guánica, Puerto Rico",earthquake,2.27,1.31,0.065729358538738,2,reviewed,pr,pr
