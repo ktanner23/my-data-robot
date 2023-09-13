@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T01:21:57.640Z,33.2509995,-116.2423325,7.14,0.93,ml,20,90,0.1475,0.15,ci,ci39663762,2023-09-13T01:25:27.209Z,"12 km E of Borrego Springs, CA",earthquake,0.35,1.09,0.15,2,automatic,ci,ci
 2023-09-13T01:15:27.048Z,39.4913,-119.6093,0.6,2.1,ml,9,72.18,0.279,0.2334,nn,nn00865763,2023-09-13T01:17:47.426Z,"13 km ESE of Sparks, Nevada",earthquake,,94.1,0.2,8,automatic,nn,nn
 2023-09-13T01:12:14.850Z,17.9758333333333,-66.8458333333333,9.71,2.7,md,7,196,0.03182,0.17,pr,pr71424643,2023-09-13T01:19:49.640Z,"Puerto Rico region",earthquake,0.74,0.99,0.0433476063127376,3,reviewed,pr,pr
-2023-09-13T01:04:52.440Z,33.315,-116.2401667,2.57,1.23,ml,38,42,0.1225,0.22,ci,ci39663754,2023-09-13T01:08:34.050Z,"14 km ENE of Borrego Springs, CA",earthquake,0.29,0.66,0.214,26,automatic,ci,ci
+2023-09-13T01:04:52.540Z,33.309,-116.2421667,6.7,1.18,ml,47,42,0.1061,0.2,ci,ci39663754,2023-09-13T13:36:20.667Z,"14 km ENE of Borrego Springs, CA",earthquake,0.21,0.83,0.15,27,reviewed,ci,ci
 2023-09-13T01:03:06.680Z,17.935,-66.2661666666667,13.72,2.35,md,8,229,0.1494,0.08,pr,pr71424638,2023-09-13T01:31:52.110Z,"5 km WSW of Central Aguirre, Puerto Rico",earthquake,0.59,0.28,0.200495424469431,5,reviewed,pr,pr
 2023-09-13T00:55:50.720Z,46.19916666666666,-122.192,2.96,0.74,ml,21,52,0.001003,0.14,uw,uw61950462,2023-09-13T04:30:18.400Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.46,0.27155517771442694,14,reviewed,uw,uw
 2023-09-13T00:53:58.677Z,18.4545,-105.5313,10,4.6,mb,57,185,4.24,0.77,us,us7000kveh,2023-09-13T04:16:56.040Z,"119 km SSW of Emiliano Zapata, Mexico",earthquake,10.22,1.922,0.043,159,reviewed,us,us
@@ -92,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-13T00:32:16.422Z,62.4364,-148.9777,0.1,1.4,ml,,,,0.91,ak,ak023brdrqlm,2023-09-13T00:34:13.070Z,"54 km ENE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-13T00:12:30.390Z,37.3918333,-118.5091667,11.89,2.39,md,32,69,0.05786,0.06,nc,nc73936176,2023-09-13T08:23:13.739Z,"6 km NW of West Bishop, CA",earthquake,0.34,0.79,0.226,37,reviewed,nc,nc
 2023-09-13T00:06:29.308Z,70.4019,-14.7757,10,4.9,mb,82,54,6.204,0.85,us,us7000kveb,2023-09-13T00:35:09.040Z,"231 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.48,1.293,0.041,184,reviewed,us,us
-2023-09-13T00:05:37.043Z,70.5769,-14.6492,10,4.6,mb,52,50,2.448,0.82,us,us7000kve9,2023-09-13T00:25:52.040Z,"221 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.9,1.884,0.059,87,reviewed,us,us
+2023-09-13T00:05:37.043Z,70.5769,-14.6492,10,4.6,mb,52,50,2.448,0.82,us,us7000kve9,2023-09-13T00:25:52.040Z,"Jan Mayen Island region",earthquake,7.9,1.884,0.059,87,reviewed,us,us
 2023-09-13T00:00:37.540Z,36.5301667,-121.8775,8.25,1.29,md,21,162,0.06508,0.08,nc,nc73936171,2023-09-13T05:35:13.781Z,"5 km SE of Carmel By The Sea, CA",earthquake,0.26,0.51,0.093,15,reviewed,nc,nc
 2023-09-12T23:53:38.373Z,70.4794,-14.5573,10,4.2,mb,17,88,2.483,0.91,us,us7000kve8,2023-09-13T00:10:21.040Z,"220 km WSW of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.08,1.914,0.186,8,reviewed,us,us
 2023-09-12T23:50:54.926Z,60.0288,-153.1011,119.5,1.8,ml,,,,0.68,ak,ak023bq41avo,2023-09-12T23:53:44.684Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-12T14:12:06.598Z,60.237,-152.8106,123,1.5,ml,,,,0.36,ak,ak023bpyg5s7,2023-09-12T17:45:34.629Z,"66 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-09-12T14:06:40.308Z,61.9926,-154.2997,8.5,1.3,ml,,,,0.26,ak,ak023bpyexsu,2023-09-12T14:08:12.079Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-12T13:58:01.065Z,30.1715,142.1454,10,4.8,mb,50,118,3.545,0.68,us,us7000kva1,2023-09-12T14:47:18.040Z,"Izu Islands, Japan region",earthquake,11.43,1.887,0.101,30,reviewed,us,us
-2023-09-12T13:34:44.144Z,58.1695,-155.3833,0.1,0.3,ml,,,,0.42,ak,ak023bpxziji,2023-09-12T13:37:09.813Z,"86 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
