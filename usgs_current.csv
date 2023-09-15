@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T11:40:06.650Z,38.8305016,-122.8138351,1.33,0.36,md,9,83,0.00768,0.01,nc,nc73937031,2023-09-15T11:41:40.158Z,"8 km NW of The Geysers, CA",earthquake,0.38,0.76,0.26,9,automatic,nc,nc
 2023-09-15T11:36:57.681Z,62.4673,-152.0895,111.1,1.2,ml,,,,0.39,ak,ak023buvf5ag,2023-09-15T11:38:57.308Z,"64 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-15T11:17:34.220Z,34.4028333,-119.2026667,2.25,2.22,ml,23,82,0.06371,0.27,ci,ci39665770,2023-09-15T12:36:08.941Z,"6 km SE of Ojai, CA",earthquake,0.35,0.6,0.207,9,automatic,ci,ci
-2023-09-15T11:17:00.320Z,34.4083333,-119.2051667,1.93,2.5,ml,44,69,0.06279,0.32,ci,ci39665754,2023-09-15T12:35:49.320Z,"6 km SE of Ojai, CA",earthquake,0.35,0.74,0.153,26,automatic,ci,ci
+2023-09-15T11:17:00.320Z,34.4083333,-119.2051667,1.93,2.5,ml,44,69,0.06279,0.32,ci,ci39665754,2023-09-15T14:34:50.093Z,"6 km SE of Ojai, CA",earthquake,0.35,0.74,0.153,26,automatic,ci,ci
 2023-09-15T11:16:59.160Z,34.3779984,-119.1289978,-0.1,2.16,ml,28,85,0.0592,0.24,ci,ci39665762,2023-09-15T11:19:20.144Z,"7 km WNW of Santa Paula, CA",earthquake,0.38,0.8,0.296,9,automatic,ci,ci
 2023-09-15T10:58:47.890Z,34.4078333,-119.1938333,0.8,2.03,ml,40,66,0.05487,0.33,ci,ci39665746,2023-09-15T11:27:44.167Z,"6 km SE of Ojai, CA",earthquake,0.38,31.61,0.156,28,automatic,ci,ci
 2023-09-15T10:56:08.600Z,33.6765,-116.7926667,16.02,0.71,ml,18,78,0.06531,0.17,ci,ci39665738,2023-09-15T10:59:42.259Z,"10 km SW of Idyllwild, CA",earthquake,0.38,0.67,0.098,13,automatic,ci,ci
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T06:03:38.036Z,63.2878,-147.3432,7.3,1.7,ml,,,,0.88,ak,ak023bus8v42,2023-09-15T06:07:06.966Z,"81 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T06:00:32.342Z,60.3466,-153.1641,130.8,1.9,ml,,,,0.28,ak,ak023bus87j6,2023-09-15T06:02:26.691Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-15T05:58:32.590Z,46.20316666666667,-122.19733333333333,6.9,-0.01,ml,14,87,0.008738,0.21,uw,uw61959926,2023-09-15T13:20:22.510Z,"37 km NNE of Amboy, Washington",earthquake,0.6,0.73,0.143266614607903,6,reviewed,uw,uw
+2023-09-15T05:56:23.080Z,44.7588333,-111.1021667,10.98,-0.01,md,8,85,0.03746,0.2,uu,uu60550187,2023-09-15T14:35:10.190Z,"7 km E of Hebgen Lake Estates, Montana",earthquake,0.71,1.73,0.17,4,reviewed,uu,uu
 2023-09-15T05:54:19.580Z,34.0351667,-118.3028333,11.27,1,ml,20,58,0.02103,0.22,ci,ci39665682,2023-09-15T05:57:57.426Z,"3 km SW of MacArthur Park, CA",earthquake,0.5,0.68,0.226,21,automatic,ci,ci
 2023-09-15T05:48:07.110Z,33.453,-116.4666667,14.13,1.02,ml,37,106,0.07812,0.17,ci,ci39665674,2023-09-15T05:51:38.529Z,"22 km ESE of Anza, CA",earthquake,0.26,0.47,0.113,25,automatic,ci,ci
 2023-09-15T05:14:14.565Z,38.1806,-117.8484,10.4,1.7,ml,13,139.44,0.109,0.3891,nn,nn00865848,2023-09-15T05:16:57.758Z,"32 km SE of Mina, Nevada",earthquake,,0.4,0.39,10,automatic,nn,nn
@@ -172,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T15:03:46.850Z,17.9843333333333,-66.9088333333333,11.44,2.34,md,7,116,0.01206,0.05,pr,pr71424723,2023-09-14T21:33:00.060Z,"0 km ESE of Fuig, Puerto Rico",earthquake,0.6,0.35,0.0116748964626527,4,reviewed,pr,pr
 2023-09-14T14:55:56.740Z,58.2651666666667,-155.130166666667,33.23,-0.14,ml,10,104,,0.08,av,av92044801,2023-09-15T01:11:22.950Z,"Alaska Peninsula",earthquake,0.57,0.65,0.272583898778846,9,reviewed,av,av
 2023-09-14T14:51:15.650Z,46.17666666666667,-122.22533333333334,5.87,-0.03,ml,12,199,0.006194,0.22,uw,uw61950887,2023-09-14T19:35:58.660Z,"34 km NNE of Amboy, Washington",earthquake,1.63,0.84,0.06632772935305131,5,reviewed,uw,uw
-2023-09-14T14:37:58.050Z,38.8380013,-122.807663,1.5,0.69,md,11,63,0.01353,0.06,nc,nc73936756,2023-09-14T14:39:32.094Z,"8 km WNW of Cobb, CA",earthquake,0.36,0.91,0.08,15,automatic,nc,nc
-2023-09-14T14:35:22.660Z,36.266,-121.6343333,11.62,0.79,md,15,100,0.06773,0.08,nc,nc73936751,2023-09-14T19:36:45.618Z,"24 km E of Point Sur, CA",earthquake,0.37,0.78,0.224,12,reviewed,nc,nc
