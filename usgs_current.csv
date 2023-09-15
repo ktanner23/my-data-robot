@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T16:49:33.290Z,33.7805,-116.0391667,5.38,1.23,ml,31,54,0.1315,0.2,ci,ci39666058,2023-09-15T16:53:00.023Z,"17 km NE of Coachella, CA",earthquake,0.35,1.95,0.17,27,automatic,ci,ci
+2023-09-15T16:49:33.290Z,33.7805,-116.0391667,5.38,1.23,ml,31,54,0.1315,0.2,ci,ci39666058,2023-09-15T17:00:23.140Z,"17 km NE of Coachella, CA",earthquake,0.35,1.95,0.17,27,automatic,ci,ci
 2023-09-15T16:46:41.700Z,35.7026667,-117.5518333,2.31,0.82,ml,11,145,0.1108,0.21,ci,ci39666050,2023-09-15T16:50:09.295Z,"14 km NE of Ridgecrest, CA",earthquake,0.52,0.85,0.112,6,automatic,ci,ci
 2023-09-15T16:45:31.290Z,35.9226685,-120.4696655,3,0.67,md,11,94,0.02404,0.07,nc,nc73937091,2023-09-15T16:47:04.759Z,"4 km NW of Parkfield, CA",earthquake,0.37,1.36,0.08,3,automatic,nc,nc
 2023-09-15T16:34:01.620Z,33.0221667,-116.3461667,9.66,1.31,ml,40,47,0.07387,0.23,ci,ci39666034,2023-09-15T16:44:46.860Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.29,0.72,0.194,26,automatic,ci,ci
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T09:53:39.592Z,62.1191,-152.8086,0,2.9,ml,,,,0.88,ak,ak023buubvu1,2023-09-15T16:56:38.040Z,"75 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T09:41:12.810Z,46.84466666666667,-121.7615,0.11,0.38,ml,17,70,0.02156,0.08,uw,uw61959971,2023-09-15T13:25:08.730Z,"Washington",earthquake,0.26,0.69,0.21848139510196857,9,reviewed,uw,uw
 2023-09-15T09:30:02.181Z,-60.4367,-25.8807,10,5,mb,33,196,14.499,0.55,us,us7000kvxa,2023-09-15T10:20:25.040Z,"South Sandwich Islands region",earthquake,19.89,1.986,0.101,31,reviewed,us,us
-2023-09-15T09:27:36.460Z,34.0648333,-117.145,12.05,0.65,ml,16,140,0.03988,0.13,ci,ci39665706,2023-09-15T09:31:11.604Z,"1 km WSW of Mentone, CA",earthquake,0.27,0.44,0.178,8,automatic,ci,ci
+2023-09-15T09:27:36.530Z,34.0613333,-117.141,11.08,0.64,ml,23,108,0.03506,0.12,ci,ci39665706,2023-09-15T17:04:55.793Z,"1 km SSW of Mentone, CA",earthquake,0.21,0.43,0.155,6,reviewed,ci,ci
 2023-09-15T09:21:36.097Z,63.1443,-150.8921,132.1,1.7,ml,,,,0.29,ak,ak023buu50o9,2023-09-15T09:24:08.442Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T09:18:32.570Z,17.9435,-66.9618333333333,14.32,3.35,md,33,212,0.05812,0.14,pr,pr71424813,2023-09-15T13:37:47.040Z,"Puerto Rico",earthquake,0.35,0.39,0.153742099614452,16,reviewed,pr,pr
 2023-09-15T09:13:28.910Z,38.8356667,-122.8151703,1.38,0.39,md,8,110,0.01288,0.02,nc,nc73936996,2023-09-15T09:15:04.875Z,"8 km W of Cobb, CA",earthquake,0.36,1.02,0.3,8,automatic,nc,nc
@@ -176,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T17:25:31.710Z,38.7583333,-122.7385,0.83,0.29,md,9,68,0.007321,0.02,nc,nc73936791,2023-09-14T22:00:29.336Z,"3 km SE of The Geysers, CA",earthquake,0.29,0.4,0.219,6,reviewed,nc,nc
 2023-09-14T17:22:22.706Z,60.0743,-153.1868,120.4,2,ml,,,,0.31,ak,ak023btbdbpa,2023-09-14T17:24:05.857Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-14T17:08:54.520Z,46.339,-122.37366666666667,-0.92,0.88,ml,23,114,0.03979,0.16,uw,uw61950922,2023-09-15T13:15:01.100Z,"22 km SSE of Mossyrock, Washington",explosion,0.39,31.61,0.0914925660983299,15,reviewed,uw,uw
-2023-09-14T17:07:57.080Z,44.7578333,-110.959,7.17,1.7,ml,15,74,0.03363,0.13,uu,uu60550132,2023-09-14T17:40:17.800Z,"Yellowstone National Park, Wyoming",earthquake,0.39,0.8,0.204,5,reviewed,uu,uu
-2023-09-14T16:59:55.282Z,59.4102,-152.3458,68.9,1.8,ml,,,,0.51,ak,ak023btazw3s,2023-09-14T17:02:17.713Z,"24 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
