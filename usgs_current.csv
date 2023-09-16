@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T23:28:05.870Z,34.3976667,-119.2051667,2.54,1.6,ml,20,86,0.06828,0.23,ci,ci39666562,2023-09-16T00:02:06.843Z,"7 km SSE of Ojai, CA",earthquake,0.32,0.43,0.238,18,reviewed,ci,ci
 2023-09-15T23:27:07.790Z,36.5516663,-121.1851654,5.66,1.35,md,14,77,0.02,0.29,nc,nc73937266,2023-09-16T00:30:14.312Z,"4 km WNW of Pinnacles, CA",earthquake,1.05,1.75,0.09,7,automatic,nc,nc
 2023-09-15T23:23:19.038Z,63.5143,-147.5568,15.7,1.6,ml,,,,0.44,ak,ak023bv2hh9b,2023-09-15T23:25:27.041Z,"70 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-09-15T23:19:32.730Z,51.7161666666667,-177.003,0.07,1.75,ml,13,207,,0.17,av,av92046541,2023-09-16T03:50:39.000Z,"30 km SW of Adak, Alaska",earthquake,0.5,1.2,0.297851944102297,13,reviewed,av,av
 2023-09-15T23:10:31.730Z,37.975666,-122.067337,11.49,1.28,md,10,78,0.06529,0.12,nc,nc73937261,2023-09-16T00:01:27.606Z,"1 km SE of Pacheco, CA",earthquake,0.62,0.96,0.19,5,automatic,nc,nc
 2023-09-15T23:06:57.888Z,-24.2796,-175.6261,10,5,mb,54,102,3.12,0.6,us,us7000kw3m,2023-09-15T23:36:02.040Z,"south of Tonga",earthquake,5.91,1.84,0.049,132,reviewed,us,us
 2023-09-15T23:04:45.896Z,60.941,-151.5999,87.4,1.7,ml,,,,0.26,ak,ak023bv2dgq5,2023-09-15T23:06:35.364Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -100,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T15:52:29.868Z,63.1077,-150.7813,113.3,1.3,ml,,,,0.25,ak,ak023buxw973,2023-09-15T15:54:47.454Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T15:36:51.850Z,35.9243333,-120.4698333,5.06,1.75,md,32,56,0.02237,0.06,nc,nc73937086,2023-09-15T20:44:13.042Z,"4 km NW of Parkfield, CA",earthquake,0.19,0.21,0.152,23,reviewed,nc,nc
 2023-09-15T15:35:43.310Z,38.3586667,-122.572,10.43,2.41,md,110,24,0.07773,0.1,nc,nc73937081,2023-09-15T21:16:12.227Z,"4 km W of Glen Ellen, CA",earthquake,0.09,0.27,0.208,119,reviewed,nc,nc
-2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"Puerto Rico region",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
+2023-09-15T15:33:36.900Z,17.948,-67.0761,7,3.24,md,17,239,0.0384,0.07,pr,pr2023258001,2023-09-15T16:32:06.040Z,"4 km SW of La Parguera, Puerto Rico",earthquake,0.85,0.18,0.24,12,reviewed,pr,pr
 2023-09-15T15:33:21.330Z,60.4521666666667,-152.766333333333,0.77,0.15,ml,4,269,,0.08,av,av92046106,2023-09-15T23:28:50.650Z,"75 km NW of Ninilchik, Alaska",earthquake,0.83,0.26,0.319098439294572,3,reviewed,av,av
 2023-09-15T15:25:57.140Z,35.4268333,-118.0688333,7.76,0.73,ml,13,114,0.08403,0.09,ci,ci39665954,2023-09-15T17:26:25.081Z,"34 km SW of Inyokern, CA",earthquake,0.24,0.57,0.076,7,reviewed,ci,ci
 2023-09-15T15:21:25.810Z,44.6806667,-110.4471667,7.17,1.78,ml,10,98,0.05602,0.15,uu,uu60550207,2023-09-15T16:09:15.460Z,"38 km SSE of Mammoth, Wyoming",earthquake,0.55,0.95,0.242,2,reviewed,uu,uu
@@ -226,7 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T04:19:14.390Z,53.846,-166.902333333333,2.64,-0.3,ml,7,151,,0.32,av,av92045481,2023-09-15T20:34:50.800Z,"24 km WSW of Dutch Harbor, Alaska",earthquake,0.84,3.2,0.133455190727899,7,reviewed,av,av
 2023-09-15T04:03:51.540Z,38.8358333,-122.806,2.67,0.42,md,23,53,0.01249,0.04,nc,nc73936931,2023-09-15T16:29:09.122Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.32,0.179,22,reviewed,nc,nc
 2023-09-15T03:52:30.711Z,61.275,-149.3611,42.3,1.3,ml,,,,0.08,ak,ak023buqr1tr,2023-09-15T03:53:46.794Z,"Southern Alaska",earthquake,,1.6,,,automatic,ak,ak
-2023-09-15T03:46:40.300Z,46.190666666666665,-122.20766666666667,5.54,-0.11,ml,6,172,0.03014,0.17,uw,uw61959911,2023-09-15T17:42:06.440Z,"36 km NNE of Amboy, Washington",earthquake,1.76,1.67,0.02505263756307391,4,reviewed,uw,uw
-2023-09-15T03:45:45.060Z,37.5268333,-118.8056667,5.94,0.86,md,20,298,0.06578,0.05,nc,nc73936926,2023-09-15T16:10:08.728Z,"12 km WSW of Toms Place, CA",earthquake,0.73,1.16,0.16,19,reviewed,nc,nc
-2023-09-15T03:45:37.850Z,46.209666666666664,-122.182,7.35,0.08,ml,15,93,0.009776,0.21,uw,uw61959906,2023-09-15T13:37:37.890Z,"Mount St. Helens area, Washington",earthquake,0.44,0.56,0.14188217784177742,9,reviewed,uw,uw
-2023-09-15T03:45:00.790Z,19.719,-156.0685,30.83,2.02,md,30,221,,0.19,hv,hv73577922,2023-09-15T23:40:24.670Z,"Hawaii region, Hawaii",earthquake,0.76,0.97,0.230726931948887,15,reviewed,hv,hv
