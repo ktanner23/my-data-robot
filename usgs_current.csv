@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-20T20:30:44.570Z,33.8668327,-117.4968338,2.03,1.32,ml,25,44,0.06549,0.16,ci,ci39669866,2023-09-20T20:32:48.524Z,"3 km ESE of Home Gardens, CA",earthquake,0.35,0.5,0.237,5,automatic,ci,ci
+2023-09-20T20:30:44.640Z,33.8615,-117.5038333,0.58,1.54,ml,30,55,0.0658,0.33,ci,ci39669866,2023-09-20T20:34:33.983Z,"2 km SE of Home Gardens, CA",quarry blast,0.52,31.61,0.498,28,automatic,ci,ci
 2023-09-20T20:29:58.490Z,38.8359985,-122.8123322,2.22,0.76,md,8,73,0.01271,0.01,nc,nc73939541,2023-09-20T20:31:34.323Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.17,0.23,9,automatic,nc,nc
 2023-09-20T20:16:17.580Z,38.8421669,-122.8769989,2.39,1.5,md,30,89,0.006396,0.03,nc,nc73939531,2023-09-20T20:17:55.078Z,"13 km NW of The Geysers, CA",earthquake,0.22,0.37,0.18,29,automatic,nc,nc
 2023-09-20T20:16:13.510Z,37.4641685,-118.7750015,11.28,1.35,md,13,155,0.1328,0.03,nc,nc73939526,2023-09-20T20:17:50.219Z,"14 km SW of Toms Place, CA",earthquake,0.69,1.71,0.14,10,automatic,nc,nc
@@ -12,10 +12,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-20T19:10:38.410Z,34.2051667,-117.0558333,1.67,1.29,ml,28,48,0.06634,0.17,ci,ci39669778,2023-09-20T19:21:11.280Z,"5 km E of Running Springs, CA",earthquake,0.22,0.36,0.153,28,automatic,ci,ci
 2023-09-20T18:56:15.780Z,34.9781667,-118.1955,0.15,1.3,ml,10,80,0.1028,0.26,ci,ci39669754,2023-09-20T18:59:58.628Z,"8 km SSW of Mojave, CA",earthquake,0.72,31.61,0.081,20,automatic,ci,ci
 2023-09-20T18:55:47.143Z,59.7367,-153.2684,127.1,1.9,ml,,,,0.35,ak,ak023c39dysa,2023-09-20T18:57:45.162Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-20T18:38:39.710Z,35.6251667,-117.4761667,6.44,1.02,ml,14,84,0.05843,0.19,ci,ci39669746,2023-09-20T18:42:04.293Z,"17 km SSW of Searles Valley, CA",earthquake,0.41,1.07,0.205,5,automatic,ci,ci
+2023-09-20T18:38:39.550Z,35.622,-117.477,7.62,1.03,ml,21,61,0.06111,0.14,ci,ci39669746,2023-09-20T20:37:47.894Z,"18 km SSW of Searles Valley, CA",earthquake,0.22,0.63,0.193,7,reviewed,ci,ci
 2023-09-20T18:27:52.580Z,45.36416666666667,-121.817,3.56,0.26,md,8,199,0.05391,0.07,uw,uw61961051,2023-09-20T19:27:20.360Z,"Washington-Oregon border region",earthquake,0.35,1.24,0.12245627508706314,4,reviewed,uw,uw
 2023-09-20T18:10:55.180Z,38.5294991,-122.6523361,5.15,1.81,md,24,52,0.06424,0.06,nc,nc73939481,2023-09-20T18:12:29.597Z,"8 km SW of Calistoga, CA",earthquake,0.24,0.76,0.12,23,automatic,nc,nc
-2023-09-20T18:07:08.010Z,33.3311667,-117.1486667,1.64,0.98,ml,23,102,0.04702,0.3,ci,ci39669722,2023-09-20T18:10:36.112Z,"8 km WSW of Pala, CA",earthquake,0.49,0.75,0.169,21,automatic,ci,ci
+2023-09-20T18:07:07.720Z,33.3328333,-117.1371667,-0.44,0.85,ml,34,76,0.05376,0.24,ci,ci39669722,2023-09-20T20:33:25.766Z,"7 km WSW of Pala, CA",quarry blast,0.42,31.61,0.064,13,reviewed,ci,ci
 2023-09-20T17:46:33.380Z,38.8349991,-122.8209991,2.15,0.42,md,6,152,0.01187,0.01,nc,nc73939476,2023-09-20T17:48:08.691Z,"8 km NW of The Geysers, CA",earthquake,1.34,1.93,0.22,8,automatic,nc,nc
 2023-09-20T17:44:05.074Z,60.9766,-149.7052,32,1.7,ml,,,,0.54,ak,ak023c38q323,2023-09-20T17:46:06.303Z,"7 km NNW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-20T17:38:58.880Z,38.7816658,-122.757164,1.08,0.31,md,8,69,0.01282,0.01,nc,nc73939466,2023-09-20T17:40:34.479Z,"0 km N of The Geysers, CA",earthquake,0.31,0.65,0.14,7,automatic,nc,nc
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T21:14:49.137Z,-43.7064,171.118,11.737,5.6,mww,51,99,0.047,0.81,us,us7000kwrq,2023-09-20T04:22:37.869Z,"43 km W of Methven, New Zealand",earthquake,3.07,1.555,0.052,35,reviewed,us,us
 2023-09-19T21:10:54.526Z,10.8543,144.0759,10,4.8,mb,37,87,2.827,0.57,us,us7000kwrt,2023-09-19T21:44:35.040Z,"274 km SSW of Merizo Village, Guam",earthquake,12.71,1.92,0.111,25,reviewed,us,us
 2023-09-19T20:47:26.710Z,60.2994,-152.5095,102.5,1.5,ml,,,,0.59,ak,ak023c1mzq73,2023-09-19T21:10:43.712Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-19T20:38:32.169Z,62.1646,-149.5788,35.2,1.8,ml,,,,0.48,ak,ak023c1mxt68,2023-09-19T20:40:20.438Z,"14 km E of Susitna North, Alaska",earthquake,,7.4,,,automatic,ak,ak
