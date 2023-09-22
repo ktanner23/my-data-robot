@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-09-22T09:52:14.357Z,58.1644,-154.1649,75.2,2.3,ml,,,,0.23,ak,ak023c6f31nf,2023-09-22T09:53:52.557Z,"68 km NNE of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-22T09:50:35.786Z,61.5879,-141.053,4.5,1.7,ml,,,,0.42,ak,ak023c6f2nve,2023-09-22T09:52:58.338Z,"100 km E of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-09-22T09:50:13.890Z,40.4166679,-124.5608368,21.38,2.43,md,9,302,0.1803,0.1,nc,nc73940216,2023-09-22T09:51:48.795Z,"26 km WNW of Petrolia, CA",earthquake,3.95,0.76,0.12,7,automatic,nc,nc
-2023-09-22T09:48:22.760Z,33.2701667,-116.781,11.29,1.72,ml,50,49,0.03886,0.2,ci,ci40570272,2023-09-22T09:51:59.413Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.72,0.11,26,automatic,ci,ci
+2023-09-22T09:50:13.890Z,40.4166679,-124.5608368,21.38,2.43,md,9,302,0.1803,0.1,nc,nc73940216,2023-09-22T09:57:16.528Z,"26 km WNW of Petrolia, CA",earthquake,3.95,0.76,0.12,7,automatic,nc,nc
+2023-09-22T09:48:22.760Z,33.2701667,-116.781,11.29,1.72,ml,50,49,0.03886,0.2,ci,ci40570272,2023-09-22T10:00:26.255Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.23,0.72,0.11,26,automatic,ci,ci
 2023-09-22T09:48:18.640Z,33.3773333,-116.7358333,15.71,0.73,ml,20,65,0.1087,0.29,ci,ci40570264,2023-09-22T09:51:51.532Z,"12 km ENE of Palomar Observatory, CA",earthquake,0.6,1.25,0.205,2,automatic,ci,ci
 2023-09-22T09:33:10.617Z,62.5851,-151.2982,0,1.6,ml,,,,0.47,ak,ak023c6eyyr9,2023-09-22T09:35:23.979Z,"29 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T09:31:28.480Z,37.3171654,-122.0736694,5.35,1.77,md,20,82,0.02227,0.09,nc,nc73940206,2023-09-22T09:33:04.678Z,"4 km W of Cupertino, CA",earthquake,0.23,0.39,0.12,17,automatic,nc,nc
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T19:23:19.850Z,58.1813333333333,-155.278833333333,1.02,0.2,ml,6,105,,0.16,av,av92052941,2023-09-22T00:35:24.300Z,"83 km NW of Karluk, Alaska",earthquake,0.38,1.88,0.252557869657891,6,reviewed,av,av
 2023-09-21T19:21:30.700Z,35.9098333,-117.7346667,9.83,1.17,ml,12,145,0.07809,0.13,ci,ci40570000,2023-09-21T22:17:43.287Z,"16 km E of Little Lake, CA",earthquake,0.42,0.65,0.253,5,reviewed,ci,ci
 2023-09-21T19:18:55.350Z,33.8385,-117.491,-0.5,1.38,ml,38,46,0.04368,0.23,ci,ci40569992,2023-09-21T21:04:52.775Z,"5 km SSE of Home Gardens, CA",quarry blast,0.39,31.61,0.14,27,reviewed,ci,ci
-2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-09-21T19:17:47.898Z,59.9691,-153.4976,159.7,2.1,ml,,,,0.9,ak,ak023c4xalq6,2023-09-21T19:21:06.969Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-21T19:12:59.691Z,41.7673,-81.0148,5,1.9,ml,8,194,0.841,0.33,us,us7000kx8j,2023-09-22T06:03:17.320Z,"2 km E of Madison, Ohio",earthquake,2.26,1.989,0.148,6,reviewed,us,us
 2023-09-21T19:04:23.940Z,58.2461666666667,-155.156,4.62,0.46,ml,10,125,,0.14,av,av92052926,2023-09-22T00:31:13.320Z,"86 km NNW of Karluk, Alaska",earthquake,0.34,0.53,0.290268317089999,10,reviewed,av,av
 2023-09-21T18:57:15.110Z,38.8134995,-122.7953339,1.12,0.77,md,9,74,0.005523,0.02,nc,nc73939956,2023-09-21T18:58:51.048Z,"5 km NW of The Geysers, CA",earthquake,0.39,0.91,0.11,9,automatic,nc,nc
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T10:09:24.493Z,-23.2426,-66.7283,204.544,4.5,mb,56,34,1.367,1.16,us,us7000kx27,2023-09-21T10:39:35.040Z,"107 km W of El Aguilar, Argentina",earthquake,7.87,7.616,0.065,70,reviewed,us,us
 2023-09-21T10:07:45.150Z,44.4545,-111.0051667,6.7,0.83,ml,9,130,0.1213,0.25,uu,uu60550547,2023-09-21T13:22:02.980Z,"24 km SSE of West Yellowstone, Montana",earthquake,1.48,7.02,0.251,2,reviewed,uu,uu
 2023-09-21T10:05:57.170Z,34.0368333,-116.9148333,15.1,1.2,ml,61,35,0.05921,0.15,ci,ci39670122,2023-09-21T14:22:16.990Z,"12 km E of Yucaipa, CA",earthquake,0.12,0.32,0.139,36,reviewed,ci,ci
-2023-09-21T10:01:48.980Z,46.214,-122.29883333333333,8.95,-0.01,ml,9,114,0.04067,0.17,uw,uw61961176,2023-09-21T17:28:37.780Z,"35 km NNE of Amboy, Washington",earthquake,0.74,1.33,0.16426825703419898,4,reviewed,uw,uw
-2023-09-21T10:01:28.770Z,32.7725,-116.581,16.99,0.77,ml,17,81,0.06648,0.08,ci,ci39670114,2023-09-21T17:00:54.517Z,"7 km SW of Pine Valley, CA",earthquake,0.22,0.38,0.147,6,reviewed,ci,ci
