@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T08:58:11.776Z,58.2467,-155.191,1.1,2.7,ml,,,,0.39,ak,ak023c6eiw4n,2023-09-22T08:59:53.995Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
+2023-09-22T08:56:47.760Z,36.40977478,-96.88726044,4.02052021,2.95,ml,22,119.2197495,0.03477773443,0.2792095554,ok,ok2023span,2023-09-22T08:58:48.015Z,"10 km NW of Pawnee, Oklahoma",earthquake,2.732886973,2.074509904,0.28,15,automatic,ok,ok
 2023-09-22T08:47:13.460Z,35.6723333,-117.495,4.59,0.75,ml,10,130,0.05849,0.16,ci,ci40570248,2023-09-22T08:50:42.802Z,"13 km SW of Searles Valley, CA",earthquake,0.79,1.16,0.225,4,automatic,ci,ci
 2023-09-22T08:40:52.780Z,33.6396667,-116.7251667,13.8,0.18,ml,11,79,0.07476,0.15,ci,ci40570240,2023-09-22T08:44:26.017Z,"11 km NNW of Anza, CA",earthquake,0.52,1.65,0.135,5,automatic,ci,ci
 2023-09-22T08:22:57.550Z,33.1873333,-116.332,11.06,1.54,ml,45,40,0.06563,0.21,ci,ci40570232,2023-09-22T08:33:46.760Z,"9 km SSE of Borrego Springs, CA",earthquake,0.26,0.59,0.17,26,automatic,ci,ci
@@ -90,8 +92,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T20:42:41.660Z,46.19616666666667,-122.19466666666666,2.8,0.24,ml,14,98,0.007538,0.08,uw,uw61961361,2023-09-22T03:42:55.880Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.41,0.10219678655985631,9,reviewed,uw,uw
 2023-09-21T20:25:07.180Z,44.733,-112.4735,13.2,1.03,ml,5,227,0.1507,0.03,mb,mb90027953,2023-09-21T23:25:27.840Z,"Idaho-Montana border region",earthquake,0.93,1.93,0.0587795331203771,5,reviewed,mb,mb
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
-2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"4 km SSE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"Southern Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-09-21T19:57:42.420Z,39.7755013,-120.5469971,15.45,2.59,md,15,74,0.1706,0.28,nc,nc73939981,2023-09-21T20:40:03.932Z,"3 km ESE of Mohawk Vista, CA",earthquake,0.72,3.2,0.23,9,automatic,nc,nc
 2023-09-21T19:57:18.950Z,38.8224983,-122.7901688,0.2,0.77,md,8,78,0.01183,0.11,nc,nc73939976,2023-09-21T19:58:55.455Z,"6 km W of Cobb, CA",earthquake,0.48,1.37,0.32,8,automatic,nc,nc
 2023-09-21T19:37:41.730Z,38.8351669,-122.7891693,1.81,0.99,md,11,68,0.003365,0.02,nc,nc73939971,2023-09-21T19:39:16.185Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.51,0.27,12,automatic,nc,nc
@@ -205,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T09:23:03.550Z,38.8359985,-122.8065033,1.77,0.69,md,9,79,0.01285,0.02,nc,nc73939756,2023-09-21T09:24:37.318Z,"7 km WNW of Cobb, CA",earthquake,0.36,1.11,0.32,9,automatic,nc,nc
 2023-09-21T09:21:17.080Z,33.3728333,-116.9678333,7.82,0.45,ml,15,72,0.05593,0.17,ci,ci39670090,2023-09-21T14:52:07.548Z,"10 km W of Palomar Observatory, CA",earthquake,0.27,0.82,0.09,7,reviewed,ci,ci
 2023-09-21T09:10:33.650Z,38.824501,-122.8033371,2.45,1.08,md,18,45,0.005377,0.01,nc,nc73939751,2023-09-21T09:12:22.004Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.66,0.15,20,automatic,nc,nc
-2023-09-21T08:58:10.459Z,39.7468,-120.5641,0,0.5,ml,3,199.23,0.144,0.0108,nn,nn00866186,2023-09-21T17:29:51.709Z,"1 km N of Valley Ranch, California",earthquake,,87.3,0.19,2,reviewed,nn,nn
-2023-09-21T08:52:55.830Z,47.7418333333333,-113.827166666667,7.44,0.29,ml,6,132,0.1738,0.06,mb,mb90027948,2023-09-21T23:14:52.970Z,"Western Montana",earthquake,0.37,2.13,0.3161735961417,2,reviewed,mb,mb
