@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T17:06:32.041Z,61.8,-150.6474,51.6,1.1,ml,,,,0.37,ak,ak023cbi6qec,2023-09-25T17:08:32.717Z,"29 km NNW of Susitna, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-09-25T17:03:19.290Z,17.9885,-66.8541666666667,11.53,2.5,md,4,164,0.02737,0.18,pr,pr71425878,2023-09-25T17:19:51.500Z,"3 km SE of Palomas, Puerto Rico",earthquake,4.72,2.14,0.241869394901518,3,reviewed,pr,pr
 2023-09-25T17:02:40.061Z,57.6633,-156.1812,2.7,2.1,ml,,,,0.77,ak,ak023cbi5w5i,2023-09-25T17:04:27.778Z,"74 km ENE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-25T17:02:36.730Z,35.6753333,-117.5468333,10.37,1.4,ml,19,75,0.1008,0.17,ci,ci40572224,2023-09-25T17:06:27.616Z,"13 km ENE of Ridgecrest, CA",earthquake,0.33,0.75,0.107,14,automatic,ci,ci
+2023-09-25T17:02:36.750Z,35.6746667,-117.5553333,9.4,1.4,ml,22,76,0.09044,0.1,ci,ci40572224,2023-09-25T20:28:26.900Z,"12 km ENE of Ridgecrest, CA",earthquake,0.18,0.5,0.104,13,reviewed,ci,ci
 2023-09-25T16:55:49.390Z,19.1544990539551,-155.499160766602,34.4000015258789,1.91999996,md,37,128,,0.109999999,hv,hv73585192,2023-09-25T16:59:01.680Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.68,1,1.19000006,14,automatic,hv,hv
 2023-09-25T16:51:19.000Z,38.8263321,-122.8071671,-0.16,1.11,md,21,75,0.003709,0.09,nc,nc73941796,2023-09-25T17:01:33.257Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.44,0.17,21,automatic,nc,nc
 2023-09-25T16:45:45.880Z,38.8344994,-122.8188324,1.46,0.84,md,13,81,0.01303,0.01,nc,nc73941791,2023-09-25T16:47:20.275Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.72,0.26,15,automatic,nc,nc
@@ -38,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T16:06:31.860Z,36.8858337,-121.6263351,-0.13,1.81,md,13,78,0.02759,0.31,nc,nc73941776,2023-09-25T16:08:04.492Z,"2 km ESE of Aromas, CA",earthquake,0.57,2.12,0.15,7,automatic,nc,nc
 2023-09-25T16:04:20.000Z,34.2065,-116.4328333,8.95,1.66,ml,49,45,0.02446,0.11,ci,ci40572168,2023-09-25T20:18:51.470Z,"10 km N of Yucca Valley, CA",earthquake,0.12,0.28,0.127,27,reviewed,ci,ci
 2023-09-25T16:00:20.410Z,17.9748333333333,-66.8553333333333,10.91,2.22,md,6,195,0.02277,0.12,pr,pr71425858,2023-09-25T16:13:59.010Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,2.5,1.11,0.00626960854118597,3,reviewed,pr,pr
-2023-09-25T16:00:12.160Z,19.3325004577637,-155.139663696289,-0.660000026226044,2.77,ml,47,163,,0.180000007,hv,hv73585172,2023-09-25T16:59:09.040Z,"14 km S of Fern Forest, Hawaii",earthquake,0.49,0.170000002,3.13,30,automatic,hv,hv
+2023-09-25T16:00:12.820Z,19.3331666666667,-155.1435,1.25,3.02,ml,48,91,,0.17,hv,hv73585172,2023-09-25T20:28:06.810Z,"14 km S of Fern Forest, Hawaii",earthquake,0.26,0.33,0.176328479081617,42,reviewed,hv,hv
 2023-09-25T15:51:04.930Z,59.8971,-153.1359,118.9,1.8,ml,,,,0.12,ak,ak023cbh9gbh,2023-09-25T16:22:20.477Z,"55 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-25T15:48:49.340Z,-6.95,130.0029,90.621,4.7,mb,51,87,2.414,0.67,us,us7000ky06,2023-09-25T16:28:21.040Z,"Banda Sea",earthquake,9.02,2.358,0.089,38,reviewed,us,us
 2023-09-25T15:21:09.820Z,18.0026666666667,-66.8578333333333,9.29,2.54,md,5,145,0.03421,0.1,pr,pr71425848,2023-09-25T15:41:28.260Z,"2 km SE of Palomas, Puerto Rico",earthquake,3.03,1.9,0.127270315353069,2,reviewed,pr,pr
@@ -137,8 +137,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T04:35:49.953Z,41.5656,141.963,60.087,4.4,mb,48,148,1,0.45,us,us7000kxxj,2023-09-25T10:53:37.040Z,"69 km ENE of Mutsu, Japan",earthquake,4.5,8.321,0.068,63,reviewed,us,us
 2023-09-25T04:26:38.690Z,37.534,-118.8365,3.81,0.76,md,15,291,0.05624,0.02,nc,nc73941621,2023-09-25T07:01:05.732Z,"14 km WSW of Toms Place, CA",earthquake,1.73,1.19,0.109,14,reviewed,nc,nc
 2023-09-25T04:22:53.970Z,17.9498333333333,-66.8445,11.71,2.54,md,12,209,0.04152,0.19,pr,pr71425778,2023-09-25T04:39:06.740Z,"5 km SSW of Indios, Puerto Rico",earthquake,0.79,0.62,0.0513228797409697,4,reviewed,pr,pr
-2023-09-25T04:19:56.322Z,62.003,-150.6806,63.5,1.4,ml,,,,0.42,ak,ak023cbaixps,2023-09-25T04:21:49.334Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-25T04:16:39.142Z,62.9353,-151.3053,114.3,1.6,ml,,,,0.29,ak,ak023cbai98q,2023-09-25T04:18:42.754Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2023-09-25T04:19:56.322Z,62.003,-150.6806,63.5,1.4,ml,,,,0.42,ak,ak023cbaixps,2023-09-25T04:21:49.334Z,"37 km E of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-09-25T04:16:39.142Z,62.9353,-151.3053,114.3,1.6,ml,,,,0.29,ak,ak023cbai98q,2023-09-25T04:18:42.754Z,"56 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-25T04:14:06.465Z,62.7382,-148.1521,86.9,0.9,ml,,,,0.78,ak,ak023cbahrae,2023-09-25T04:16:15.374Z,"83 km SSE of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-09-25T04:12:19.407Z,-55.9027,-28.3177,147.116,5,mb,60,79,4.965,0.48,us,us7000kxxd,2023-09-25T19:21:15.282Z,"South Sandwich Islands region",earthquake,8.8,6.431,0.066,72,reviewed,us,us
 2023-09-25T04:11:55.270Z,18.6581666666667,-67.105,98.37,3.23,md,18,264,0.1897,0.2,pr,pr71425763,2023-09-25T04:31:18.300Z,"18 km N of San Antonio, Puerto Rico",earthquake,1.34,0.7,0.0765316990825349,8,reviewed,pr,pr
@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T20:35:39.080Z,19.3421669006348,-155.345001220703,27.2600002288818,2.3499999,md,35,108,,0.219999999,hv,hv73584812,2023-09-24T20:38:54.050Z,"16 km SW of Volcano, Hawaii",earthquake,0.82,0.680000007,1.84000003,6,automatic,hv,hv
 2023-09-24T20:34:30.630Z,37.3031667,-122.0795,4.65,1.18,md,28,53,0.005651,0.14,nc,nc73941436,2023-09-25T11:02:59.912Z,"5 km WSW of Cupertino, CA",earthquake,0.26,0.19,0.111,15,reviewed,nc,nc
 2023-09-24T20:33:08.370Z,58.2506666666667,-155.164666666667,1.1,-0.18,ml,7,105,,0.2,av,av92057006,2023-09-25T01:07:52.050Z,"86 km NNW of Karluk, Alaska",earthquake,0.45,2.72,0.211836089724227,7,reviewed,av,av
-2023-09-24T20:30:04.520Z,36.2153333333333,-89.4415,7.73,1.62,md,15,60,0.02261,0.06,nm,nm60552801,2023-09-25T16:20:27.370Z,"6 km SE of Ridgely, Tennessee",earthquake,0.2,0.41,0.088362935939848,10,reviewed,nm,nm
