@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-29T04:01:30.576Z,58.2473,-154.9215,0,0.5,ml,,,,0.42,ak,ak023chwketd,2023-09-29T04:02:57.070Z,"80 km NNW of Karluk, Alaska",earthquake,,13.7,,,automatic,ak,ak
+2023-09-29T03:57:48.434Z,36.54308701,-98.95100403,5.964486599,1.74,ml,12,94.59037781,0.04908613116,0.1881306691,ok,ok2023tble,2023-09-29T04:00:53.301Z,"7 km SW of Waynoka, Oklahoma",earthquake,3.595761062,4.479650137,0.21,9,automatic,ok,ok
 2023-09-29T03:52:50.310Z,33.4018333,-117.0306667,12.48,0.58,ml,6,188,0.1652,0.14,ci,ci40574240,2023-09-29T03:56:24.045Z,"6 km NE of Pala, CA",earthquake,1.12,2.11,0.1,9,automatic,ci,ci
 2023-09-29T03:47:01.440Z,38.831665,-122.8098297,1.39,1.08,md,13,60,0.00826,0.02,nc,nc73943186,2023-09-29T03:48:34.015Z,"8 km W of Cobb, CA",earthquake,0.26,0.96,0.31,14,automatic,nc,nc
 2023-09-29T03:44:04.216Z,62.3871,-149.1923,0.1,1.7,ml,,,,0.52,ak,ak023chw84yt,2023-09-29T03:45:40.939Z,"42 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -48,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T21:43:24.296Z,58.2444,-155.1213,29.7,1.6,ml,,,,0.43,ak,ak023cgjef71,2023-09-28T21:44:43.473Z,"Alaska Peninsula",earthquake,,0.1,,,automatic,ak,ak
 2023-09-28T21:34:28.555Z,56.8375,-155.5867,11.2,1.9,ml,,,,0.36,ak,ak023cgjci2v,2023-09-28T21:36:09.837Z,"87 km W of Akhiok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-28T21:26:41.660Z,54.226,-165.957333333333,11.45,-0.37,ml,5,292,,0.13,av,av91116978,2023-09-29T03:52:46.670Z,"15 km NW of Akutan, Alaska",earthquake,1.13,0.85,0.257010858034761,5,reviewed,av,av
+2023-09-28T21:26:34.710Z,58.2516666666667,-155.156666666667,31.18,0.5,ml,16,87,,0.21,av,av91116983,2023-09-29T04:00:44.820Z,"86 km NNW of Karluk, Alaska",earthquake,0.59,0.81,0.233548688900881,15,reviewed,av,av
 2023-09-28T21:26:34.690Z,58.2525,-155.157166666667,31.03,0.56,ml,17,73,,0.15,av,av92065891,2023-09-29T03:48:25.600Z,"86 km NNW of Karluk, Alaska",earthquake,0.46,0.6,0.258253555062978,17,reviewed,av,av
 2023-09-28T21:20:29.785Z,63.7988,-149.2828,28.8,1.4,ml,,,,1.06,ak,ak023cgj9i5e,2023-09-28T21:22:29.965Z,"16 km WSW of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-28T21:16:04.740Z,58.1894,-155.3658,1.2,0.6,ml,,,,0.25,ak,ak023cgj8lcq,2023-09-29T03:40:06.660Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -238,8 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T04:32:49.250Z,57.042,-135.6155,5.48,1.6,ml,6,178,,0.1,av,av91116888,2023-09-29T00:51:48.720Z,"17 km W of Sitka, Alaska",earthquake,0.83,0.63,0.250173866516499,7,reviewed,av,av
 2023-09-28T04:29:53.721Z,59.5873,-153.0128,113.9,2.1,ml,,,,0.35,ak,ak023cg9744y,2023-09-28T04:40:10.040Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-28T04:13:15.820Z,38.8213348,-122.854332,2.36,1.08,md,19,89,0.006511,0.04,nc,nc73942886,2023-09-28T04:16:47.858Z,"10 km WNW of The Geysers, CA",earthquake,0.26,0.36,0.15,22,automatic,nc,nc
-2023-09-28T04:08:47.860Z,38.3836667,-112.8461667,8.02,1.74,ml,24,71,0.03734,0.17,uu,uu60551012,2023-09-28T13:49:44.180Z,"Utah",earthquake,0.44,0.83,0.147,5,reviewed,uu,uu
-2023-09-28T04:03:39.320Z,38.8373337,-122.8036652,2.14,0.79,md,11,119,0.01046,0.01,nc,nc73942871,2023-09-28T04:05:14.411Z,"7 km WNW of Cobb, CA",earthquake,0.44,0.79,0.2,12,automatic,nc,nc
-2023-09-28T04:02:30.150Z,17.9388333333333,-66.2841666666667,12.84,2.34,md,13,193,0.1594,0.24,pr,pr71426228,2023-09-28T04:19:20.290Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.74,0.63,0.230619884954487,7,reviewed,pr,pr
-2023-09-28T04:00:18.381Z,39.7449,-120.5648,7.4,2.1,ml,16,156.78,0.102,0.168,nn,nn00866453,2023-09-28T15:48:44.634Z,"0 km N of Valley Ranch, California",earthquake,,1.7,0.21,7,reviewed,nn,nn
-2023-09-28T03:59:49.539Z,55.9075,-159.0948,76.6,1.1,ml,,,,0.17,ak,ak023cg8s3pl,2023-09-28T04:02:25.439Z,"3 km E of Perryville, Alaska",earthquake,,0.9,,,automatic,ak,ak
