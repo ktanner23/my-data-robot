@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-01T03:23:09.880Z,33.9281667,-117.102,13.17,1.04,ml,34,66,0.1012,0.2,ci,ci40575008,2023-10-01T03:26:48.045Z,"8 km SW of Calimesa, CA",earthquake,0.25,0.78,0.13,28,automatic,ci,ci
 2023-10-01T03:20:22.840Z,38.8256683,-122.8026657,2.55,0.76,md,14,71,0.006216,0.01,nc,nc73944006,2023-10-01T03:21:59.748Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.76,0.15,13,automatic,nc,nc
+2023-10-01T03:17:04.770Z,17.9196666666667,-66.8515,12.99,2.69,md,10,224,0.0611,0.12,pr,pr71426788,2023-10-01T03:30:28.310Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.76,0.42,0.0775404872491574,6,reviewed,pr,pr
 2023-10-01T03:14:25.150Z,38.8253326,-122.8050003,2.35,1.07,md,23,34,0.00441,0.01,nc,nc73944001,2023-10-01T03:15:59.441Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.42,0.24,24,automatic,nc,nc
 2023-10-01T03:11:46.170Z,19.175500869751,-155.488006591797,38.3499984741211,1.89999998,md,33,154,,0.150000006,hv,hv73589057,2023-10-01T03:15:26.930Z,"Hawaii region, Hawaii",earthquake,0.81,1.41999996,1.78999996,10,automatic,hv,hv
 2023-10-01T03:04:47.710Z,38.8276672,-122.754837,-0.85,0.8,md,9,151,0.0121,0.3,nc,nc73943996,2023-10-01T03:06:25.425Z,"3 km WNW of Cobb, CA",earthquake,0.95,3.77,0.11,10,automatic,nc,nc
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T16:03:42.030Z,38.6846657,-122.4971695,8.19,1.7,md,19,113,0.09286,0.06,nc,nc73943831,2023-09-30T16:05:20.150Z,"13 km SE of Middletown, CA",earthquake,0.35,1.25,0.13,19,automatic,nc,nc
 2023-09-30T15:57:35.420Z,32.7375,-115.5621667,12.95,1.82,ml,19,96,0.05671,0.24,ci,ci40574880,2023-09-30T16:28:34.262Z,"3 km WNW of Heber, CA",earthquake,0.59,0.93,0.235,27,reviewed,ci,ci
 2023-09-30T15:57:26.445Z,63.401,-151.5521,3.5,1.5,ml,,,,0.89,ak,ak023cjqzilg,2023-09-30T15:59:50.225Z,"17 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45,166,0.02573,0.2,nc,nc73943821,2023-10-01T02:49:40.771Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5,reviewed,nc,nc
+2023-09-30T15:26:26.760Z,40.5588333,-124.2886667,17.88,4.65,mw,45,166,0.02573,0.2,nc,nc73943821,2023-10-01T03:35:06.487Z,"3 km SW of Ferndale, CA",earthquake,0.44,0.29,,5,reviewed,nc,nc
 2023-09-30T15:17:47.960Z,19.2019996643066,-155.369171142578,30.1599998474121,1.95000005,md,40,176,,0.100000001,hv,hv73588652,2023-09-30T15:21:08.260Z,"Island of Hawaii, Hawaii",earthquake,0.65,0.819999993,0.449999988,21,automatic,hv,hv
 2023-09-30T15:03:28.030Z,19.2611675262451,-155.391830444336,31.5799999237061,1.88,md,38,147,,0.119999997,hv,hv73588647,2023-09-30T15:06:39.720Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.790000021,0.129999995,9,automatic,hv,hv
 2023-09-30T14:45:11.850Z,38.3046684,-119.3779984,7.45,2.72,md,24,94,0.06592,0.25,nc,nc73943811,2023-09-30T15:07:14.525Z,"14 km WNW of Bridgeport, CA",earthquake,0.5,1.36,0.14,16,automatic,nc,nc
@@ -166,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:49:06.819Z,61.1276,-148.2473,13.4,0.9,ml,,,,0.67,ak,ak023cjjsk8p,2023-09-30T03:50:28.181Z,"45 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-30T03:46:05.553Z,59.8516,-152.1295,60.8,1.1,ml,,,,0.56,ak,ak023cjjrwzv,2023-09-30T03:48:48.648Z,"18 km WNW of Anchor Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-09-30T03:36:30.492Z,59.6752,-152.2534,59.2,1.2,ml,,,,0.11,ak,ak023cjjptrd,2023-09-30T03:37:41.661Z,"26 km WSW of Anchor Point, Alaska",earthquake,,5.3,,,automatic,ak,ak
-2023-09-30T03:34:21.750Z,17.9423333333333,-66.2831666666667,13.58,2.41,md,12,193,0.1569,0.23,pr,pr71426568,2023-09-30T03:43:31.680Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.74,0.53,0.142661736751047,6,reviewed,pr,pr
