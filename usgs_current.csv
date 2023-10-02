@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T20:38:02.660Z,17.8921666666667,-66.843,8.37,2.85,md,15,209,0.08937,0.2,pr,pr71427288,2023-10-02T20:50:35.600Z,"Puerto Rico region",earthquake,0.8,1.16,0.12282313539282,5,reviewed,pr,pr
 2023-10-02T20:19:24.870Z,34.0438333,-117.0536667,16.37,1.38,ml,47,37,0.0726,0.22,ci,ci40575672,2023-10-02T20:30:07.300Z,"2 km NW of Yucaipa, CA",earthquake,0.26,0.7,0.229,29,automatic,ci,ci
 2023-10-02T20:01:37.500Z,38.6818352,-122.495163,8.62,1.38,md,11,114,0.08994,0.06,nc,nc73944696,2023-10-02T20:14:04.522Z,"12 km NNW of Angwin, CA",earthquake,0.53,1.95,0.25,11,automatic,nc,nc
-2023-10-02T19:55:29.221Z,-41.2877,175.2113,17.632,3.4,ml,19,164,0.383,0.38,us,us6000lcc0,2023-10-02T21:07:06.747Z,"North Island of New Zealand",earthquake,4.19,5.07,0.066,30,reviewed,us,us
+2023-10-02T19:55:29.229Z,-41.2891,175.2103,17.878,3.4,ml,19,164,0.382,0.35,us,us6000lcc0,2023-10-02T21:14:50.687Z,"21 km SE of Heretaunga, New Zealand",earthquake,3.27,5.173,0.066,30,reviewed,us,us
 2023-10-02T19:53:10.850Z,38.6850014,-122.5003357,7.49,1.86,md,24,73,0.09372,0.07,nc,nc73944691,2023-10-02T19:59:01.676Z,"12 km SE of Middletown, CA",earthquake,0.26,1.05,0.15,28,automatic,nc,nc
 2023-10-02T19:43:43.530Z,36.2161666666667,-89.4406666666667,7.65,1.82,md,15,57,0.02156,0.05,nm,nm60501168,2023-10-02T20:33:19.450Z,"6 km SE of Ridgely, Tennessee",earthquake,0.17,0.48,0.0322761300729959,11,reviewed,nm,nm
 2023-10-02T19:31:00.740Z,38.8139992,-122.8294983,1.88,0.65,md,10,94,0.00513,0.01,nc,nc73944681,2023-10-02T19:32:37.948Z,"8 km WNW of The Geysers, CA",earthquake,0.37,0.7,0.33,12,automatic,nc,nc
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T02:33:43.921Z,28.8362,142.5556,10,5.1,mb,50,137,8.057,0.95,us,us6000lc6i,2023-10-02T02:48:25.040Z,"Bonin Islands, Japan region",earthquake,10.82,1.913,0.075,58,reviewed,us,us
 2023-10-02T02:30:56.610Z,17.9238333333333,-66.8496666666667,10.84,2.88,md,12,210,0.05821,0.17,pr,pr71427213,2023-10-02T02:52:19.040Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.75,0.59,0.134113482477236,9,reviewed,pr,pr
 2023-10-02T02:30:35.619Z,63.0926,-151.3604,0,1.7,ml,,,,0.71,ak,ak023cmu5t8p,2023-10-02T02:32:51.936Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-02T02:27:58.830Z,32.6723333,-115.7061667,10.57,1.62,ml,17,132,0.02858,0.2,ci,ci40575296,2023-10-02T02:31:42.742Z,"15 km NW of Progreso, B.C., MX",earthquake,0.72,0.55,0.282,18,automatic,ci,ci
+2023-10-02T02:27:58.820Z,32.6795,-115.7116667,10.79,1.36,ml,24,117,0.03254,0.28,ci,ci40575296,2023-10-02T21:11:13.888Z,"16 km NW of Progreso, B.C., MX",earthquake,0.59,0.54,0.258,8,reviewed,ci,ci
 2023-10-02T02:26:37.150Z,40.2168333,-121.1576667,6.78,1.65,md,17,79,0.03223,0.13,nc,nc73944401,2023-10-02T20:13:50.468Z,"1 km N of Prattville, CA",earthquake,0.62,0.42,0.266,17,reviewed,nc,nc
 2023-10-02T02:23:04.237Z,63.0891,-149.2246,28.5,1.5,ml,,,,0.89,ak,ak023cmu48tj,2023-10-02T02:26:20.762Z,"36 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-02T02:18:54.015Z,63.1231,-151.4682,2.6,2.6,ml,,,,0.62,ak,ak023cmu3a2f,2023-10-02T02:20:51.497Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -199,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T22:08:36.065Z,61.4108,-146.6639,2,3.2,ml,,,,0.77,ak,ak023clief4t,2023-10-02T00:21:01.343Z,"35 km NNW of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-10-01T21:40:35.180Z,38.840168,-122.8125,2.25,0.6,md,8,95,0.01677,0.01,nc,nc73944311,2023-10-01T21:42:09.305Z,"8 km WNW of Cobb, CA",earthquake,0.52,1.07,0.38,9,automatic,nc,nc
 2023-10-01T21:24:52.795Z,63.1105,-149.3881,89.7,1.5,ml,,,,0.16,ak,ak023clhwg9r,2023-10-01T21:26:21.809Z,"38 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-10-01T21:16:45.379Z,62.2083,-148.0303,13.4,1.9,ml,,,,0.55,ak,ak023clhupuw,2023-10-01T21:19:02.745Z,"48 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
