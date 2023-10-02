@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-02T19:31:00.740Z,38.8139992,-122.8294983,1.88,0.65,md,10,94,0.00513,0.01,nc,nc73944681,2023-10-02T19:32:37.948Z,"8 km WNW of The Geysers, CA",earthquake,0.37,0.7,0.33,12,automatic,nc,nc
 2023-10-02T19:30:17.900Z,32.596,-116.9991667,2.71,1.33,ml,22,208,0.05938,0.21,ci,ci40575640,2023-10-02T19:34:06.312Z,"6 km SE of Chula Vista, CA",quarry blast,0.89,1.6,0.158,11,automatic,ci,ci
-2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:31:12.469Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
+2023-10-02T19:24:29.350Z,39.7243347,-120.5018311,25.33,2.64,md,14,84,0.1794,0.29,nc,nc73944676,2023-10-02T19:46:11.556Z,"4 km E of Whitehawk, CA",earthquake,1.04,1.98,0.19,6,automatic,nc,nc
 2023-10-02T19:17:08.246Z,62.1366,-149.4674,53.1,1.4,ml,,,,0.55,ak,ak023cn47c3s,2023-10-02T19:18:49.874Z,"20 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-02T19:05:40.816Z,61.7899,-150.6219,46.9,1.6,ml,,,,0.56,ak,ak023cn44u0x,2023-10-02T19:07:37.326Z,"28 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-02T18:57:30.750Z,34.9911667,-118.2191667,0.65,1.27,ml,12,62,0.1005,0.34,ci,ci40575632,2023-10-02T19:01:19.240Z,"8 km SSW of Mojave, CA",earthquake,0.72,1.41,0.11,12,automatic,ci,ci
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T05:23:12.910Z,33.13,-115.6393333,5.55,1.11,ml,12,83,0.05134,0.16,ci,ci40575352,2023-10-02T05:26:41.753Z,"10 km N of Westmorland, CA",earthquake,0.43,0.87,0.134,11,automatic,ci,ci
 2023-10-02T05:22:29.080Z,38.833168,-122.8160019,1.59,1.06,md,20,55,0.0108,0.02,nc,nc73944426,2023-10-02T05:24:06.792Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.44,0.13,20,automatic,nc,nc
 2023-10-02T04:58:47.374Z,38.1518,-117.8414,9.4,0.9,ml,8,109.3,0.123,0.1888,nn,nn00866623,2023-10-02T16:26:03.040Z,"35 km SE of Mina, Nevada",earthquake,,1.8,0.37,2,reviewed,nn,nn
-2023-10-02T04:55:20.370Z,36.8023333,-121.5421667,7.12,2.7,md,79,23,0.02651,0.16,nc,nc73944421,2023-10-02T19:38:46.649Z,"5 km S of San Juan Bautista, CA",earthquake,0.16,0.26,0.105,130,reviewed,nc,nc
+2023-10-02T04:55:20.370Z,36.8023333,-121.5421667,7.12,2.7,md,79,23,0.02651,0.16,nc,nc73944421,2023-10-02T19:41:18.518Z,"5 km S of San Juan Bautista, CA",earthquake,0.16,0.26,0.105,130,reviewed,nc,nc
 2023-10-02T04:54:32.030Z,34.8451667,-118.9705,13.78,1.23,ml,20,75,0.06983,0.14,ci,ci40575344,2023-10-02T12:58:48.432Z,"3 km NW of Frazier Park, CA",earthquake,0.32,0.48,0.202,14,reviewed,ci,ci
 2023-10-02T04:45:23.796Z,61.3798,-150.1042,36.2,1.7,ml,,,,0.27,ak,ak023cmvfva3,2023-10-02T04:46:55.899Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-02T04:36:09.645Z,61.1285,-150.6352,44.8,1.7,ml,,,,0.32,ak,ak023cmvdws4,2023-10-02T04:38:37.708Z,"23 km N of Point Possession, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -196,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-01T20:08:38.386Z,-20.2382,-177.7672,500.141,4.4,mb,61,68,2.573,0.7,us,us6000lc4y,2023-10-01T20:51:28.040Z,"276 km WNW of Houma, Tonga",earthquake,11.71,7.006,0.075,51,reviewed,us,us
 2023-10-01T19:57:11.426Z,63.8594,-149.0949,104.8,2,ml,,,,0.46,ak,ak023clgwkhy,2023-10-01T19:59:12.133Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-01T19:47:41.259Z,32.691,-100.7,5.2578,2.9,ml(texnet),13,64,0,0.2,tx,tx2023tghn,2023-10-01T20:24:31.409Z,"8 km NE of Hermleigh, Texas",earthquake,1.178129435,1.548084388,0.1,11,reviewed,tx,tx
-2023-10-01T19:44:44.580Z,40.3081665,-124.2921677,8.94,1.37,md,7,123,0.04331,0.02,nc,nc73944276,2023-10-01T19:46:18.865Z,"2 km SSW of Petrolia, CA",earthquake,0.63,1.39,0.11,4,automatic,nc,nc
