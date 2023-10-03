@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-03T21:56:14.580Z,33.9729996,-117.1914978,14.03,1.49,ml,47,49,0.02992,0.2,ci,ci40576472,2023-10-03T21:58:40.924Z,"6 km NNE of Moreno Valley, CA",earthquake,0.31,0.56,0.213,15,automatic,ci,ci
+2023-10-03T21:52:22.960Z,38.8359985,-122.7948303,2.09,1.07,md,18,62,0.004251,0.02,nc,nc73945111,2023-10-03T21:54:00.467Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.45,0.13,21,automatic,nc,nc
 2023-10-03T21:42:08.730Z,32.74,-116.1088333,7.88,1.31,ml,6,206,0.1878,0.15,ci,ci40576456,2023-10-03T21:45:39.855Z,"11 km W of Ocotillo, CA",earthquake,1.08,31.61,0.364,8,automatic,ci,ci
 2023-10-03T21:39:36.470Z,33.1716667,-115.6416667,2.09,2.09,ml,22,54,0.01968,0.17,ci,ci40576448,2023-10-03T21:43:09.397Z,"13 km WNW of Calipatria, CA",earthquake,0.37,0.46,0.175,26,automatic,ci,ci
 2023-10-03T21:37:57.860Z,33.4425,-116.9105,5.01,0.72,ml,20,88,0.1047,0.19,ci,ci40576440,2023-10-03T21:41:27.980Z,"4 km W of Aguanga, CA",earthquake,0.32,2.71,0.094,15,automatic,ci,ci
@@ -43,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T18:01:34.750Z,34.50183333,-97.24766667,0,1.38,ml,63,63,0.106179164,0.39,ok,ok2023tjva,2023-10-03T18:13:36.176Z,"11 km W of Davis, Oklahoma",quarry blast,,0.4,0.22,21,reviewed,ok,ok
 2023-10-03T17:52:14.790Z,38.7854996,-122.7518311,4.21,1.39,md,25,78,0.01202,0.05,nc,nc73945051,2023-10-03T19:05:17.361Z,"1 km NNE of The Geysers, CA",earthquake,0.3,0.54,0.15,27,automatic,nc,nc
 2023-10-03T17:51:26.184Z,-19.2537,-176.9639,314.229,4.5,mb,88,73,2.523,0.92,us,us6000lckj,2023-10-03T18:52:27.040Z,"274 km NW of Houma, Tonga",earthquake,12.5,7.495,0.06,85,reviewed,us,us
-2023-10-03T17:48:01.370Z,38.4215012,-122.2518311,3.21,1.72,md,7,130,0.03998,0.05,nc,nc73945041,2023-10-03T18:55:14.308Z,"10 km ENE of Yountville, CA",earthquake,0.28,0.84,0.12,8,automatic,nc,nc
+2023-10-03T17:48:01.370Z,38.4215012,-122.2518311,3.21,1.72,md,7,130,0.03998,0.05,nc,nc73945041,2023-10-03T21:58:17.297Z,"10 km ENE of Yountville, CA",earthquake,0.28,0.84,0.12,8,automatic,nc,nc
 2023-10-03T17:44:27.328Z,36.6506,-116.4591,6.1,0.8,ml,26,61.06,0.082,0.1376,nn,nn00866690,2023-10-03T19:05:33.856Z,"39 km SE of Beatty, Nevada",earthquake,,1.7,0.37,11,reviewed,nn,nn
 2023-10-03T17:34:59.880Z,54.7518333333333,-163.975166666667,-0.99,2.24,ml,9,69,,0.17,av,av92071901,2023-10-03T18:22:26.010Z,"38 km WSW of False Pass, Alaska",earthquake,0.24,0.3,0.219439417761854,9,reviewed,av,av
 2023-10-03T17:23:01.180Z,35.5196667,-118.2315,9.55,0.81,ml,16,50,0.07625,0.08,ci,ci40576240,2023-10-03T18:17:50.115Z,"24 km ESE of Lake Isabella, CA",earthquake,0.14,0.49,0.214,7,reviewed,ci,ci
@@ -236,5 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-02T22:03:23.200Z,44.74,-110.9511667,2.06,-0.27,md,3,133,0.04369,0.06,uu,uu60033734,2023-10-03T14:20:15.760Z,"Yellowstone National Park, Wyoming",earthquake,0.56,7.18,0.221,6,reviewed,uu,uu
 2023-10-02T22:03:15.260Z,44.7463333,-110.9716667,7.68,0.63,md,7,126,0.0278,0.19,uu,uu60033729,2023-10-03T14:17:39.190Z,"14 km NE of West Yellowstone, Montana",earthquake,0.67,0.96,0.192,4,reviewed,uu,uu
 2023-10-02T22:00:19.640Z,39.7405,-120.5643333,3.39,2.44,md,16,81,0.1026,0.1,nc,nc73944741,2023-10-03T00:10:15.073Z,"0 km NE of Valley Ranch, CA",earthquake,0.24,0.9,0.164,22,reviewed,nc,nc
-2023-10-02T21:52:54.310Z,44.7448333,-110.9498333,2.32,-0.32,md,5,128,0.04267,0.09,uu,uu60033714,2023-10-02T22:17:44.870Z,"15 km NE of West Yellowstone, Montana",earthquake,0.47,7.38,0.176,6,reviewed,uu,uu
-2023-10-02T21:52:30.080Z,44.7463333,-110.9626667,5.31,0.24,md,6,129,0.0336,0.17,uu,uu60551327,2023-10-02T22:15:38.920Z,"14 km NE of West Yellowstone, Montana",earthquake,0.84,2.03,0.261,6,reviewed,uu,uu
