@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-04T00:08:11.308Z,61.9181,-149.3179,19.7,4,ml,,,,0.69,ak,ak023cq3wvg8,2023-10-04T00:09:47.426Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-10-04T00:08:11.308Z,61.9181,-149.3179,19.7,4,ml,,,,0.69,ak,ak023cq3wvg8,2023-10-04T00:23:29.104Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-04T00:05:47.680Z,38.8406677,-122.8361664,1.61,0.66,md,12,118,0.002142,0.01,nc,nc73945136,2023-10-04T00:07:24.607Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.71,0.44,12,automatic,nc,nc
-2023-10-04T00:01:54.150Z,34.0441667,-117.2355,15.2,2.43,ml,97,15,0.07813,0.21,ci,ci40576544,2023-10-04T00:07:45.539Z,"2 km E of Loma Linda, CA",earthquake,0.18,0.32,0.182,24,automatic,ci,ci
+2023-10-04T00:01:54.060Z,34.0415,-117.2358333,15.65,2.44,ml,100,18,0.07474,0.15,ci,ci40576544,2023-10-04T00:23:54.580Z,"2 km ESE of Loma Linda, CA",earthquake,0.11,0.27,0.177,23,reviewed,ci,ci
 2023-10-03T23:48:33.440Z,19.1973323822021,-155.488830566406,32.0200004577637,2,md,28,85,,0.189999998,hv,hv73590997,2023-10-03T23:51:50.480Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.83,1.19000006,0.469999999,9,automatic,hv,hv
 2023-10-03T23:22:45.940Z,35.0345,-117.6728333,-0.79,1.34,ml,25,70,0.1017,0.14,ci,ci40576520,2023-10-04T00:08:03.961Z,"4 km NNW of Boron, CA",quarry blast,0.31,31.61,0.161,15,reviewed,ci,ci
 2023-10-03T23:11:55.471Z,36.37099075,-97.65422058,5.425270081,1.88,ml,10,94.71335602,0.1541303098,0.3687431448,ok,ok2023tkfg,2023-10-03T23:15:04.375Z,"4 km ENE of Fairmont, Oklahoma",earthquake,4.251441412,4.968095271,0.33,5,automatic,ok,ok
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T21:21:00.876Z,-23.5428,-179.9572,532.145,4.7,mb,59,96,4.994,0.73,us,us6000lcm6,2023-10-03T21:37:38.040Z,"south of the Fiji Islands",earthquake,12.53,8.783,0.04,194,reviewed,us,us
 2023-10-03T21:19:23.533Z,29.85,140.7585,10,4.8,mb,39,202,6.322,0.79,us,us6000lcm7,2023-10-03T21:50:11.040Z,"Izu Islands, Japan region",earthquake,5.79,1.948,0.103,29,reviewed,us,us
 2023-10-03T20:43:18.770Z,38.7871666,-122.746666,2.19,1.04,md,15,83,0.008704,0.02,nc,nc73945096,2023-10-03T20:59:20.999Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.6,0.08,15,automatic,nc,nc
-2023-10-03T20:41:25.965Z,61.18,-150.648,49.1,3.2,ml,,,,0.74,ak,ak023coshapd,2023-10-04T00:03:48.874Z,"23 km E of Beluga, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2023-10-03T20:41:25.965Z,61.18,-150.648,49.1,3.2,ml,,,,0.74,ak,ak023coshapd,2023-10-04T00:18:40.877Z,"23 km E of Beluga, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-10-03T20:32:35.555Z,29.8376,140.1214,10,5.2,mww,89,104,3.278,1.13,us,us6000lclx,2023-10-03T20:51:00.040Z,"Izu Islands, Japan region",earthquake,8.33,1.857,0.073,18,reviewed,us,us
 2023-10-03T20:21:40.030Z,33.6641667,-116.758,15.1,0.6,ml,14,114,0.06291,0.09,ci,ci40576384,2023-10-03T23:32:34.370Z,"9 km SSW of Idyllwild, CA",earthquake,0.25,0.41,0.198,11,reviewed,ci,ci
 2023-10-03T20:11:38.912Z,57.4009,-154.6918,46.7,2.5,ml,,,,0.23,ak,ak023cosaw8w,2023-10-03T20:38:59.685Z,"23 km SW of Karluk, Alaska",earthquake,,0.8,,,reviewed,ak,ak
@@ -209,6 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T03:08:37.830Z,38.8230019,-122.765831,2.04,1.06,md,21,119,0.008111,0.02,nc,nc73944821,2023-10-03T03:10:11.011Z,"4 km W of Cobb, CA",earthquake,0.27,0.43,0.23,21,automatic,nc,nc
 2023-10-03T03:06:15.690Z,33.2735,-116.783,12.02,0.92,ml,36,34,0.04258,0.14,ci,ci40575808,2023-10-03T14:21:55.981Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.16,0.56,0.127,20,reviewed,ci,ci
 2023-10-03T03:05:55.410Z,19.1854991912842,-155.490493774414,34.0099983215332,2.02999997,md,44,82,,0.119999997,hv,hv73590397,2023-10-03T03:09:12.100Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.61,0.889999986,0.460000008,17,automatic,hv,hv
+2023-10-03T03:05:25.572Z,39.6303,-119.6437,12.4,0.9,ml,8,108.47,0.215,0.1186,nn,nn00866715,2023-10-04T00:11:12.014Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,3.5,0.31,6,reviewed,nn,nn
 2023-10-03T03:00:28.439Z,31.0265,86.2831,10,4.2,mb,26,91,3.332,0.45,us,us6000lcec,2023-10-03T21:38:41.040Z,"western Xizang",earthquake,6.16,1.881,0.124,18,reviewed,us,us
 2023-10-03T02:54:13.292Z,39.7392,-120.5571,7.4,0.8,ml,6,192.95,0.141,0.0839,nn,nn00866714,2023-10-04T00:04:58.877Z,"0 km ENE of Valley Ranch, California",earthquake,,5.8,0.15,3,reviewed,nn,nn
 2023-10-03T02:43:05.688Z,58.2737,-154.9387,0,1.8,ml,,,,0.32,ak,ak023cohrvqg,2023-10-03T02:45:49.229Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
@@ -229,7 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-03T00:35:53.480Z,36.5318333333333,-89.6416666666667,7.95,1.9,md,28,34,0.02209,0.03,nm,nm60553816,2023-10-03T16:20:35.330Z,"2 km WNW of Marston, Missouri",earthquake,0.4,0.63,0.0688198126118897,22,reviewed,nm,nm
 2023-10-03T00:32:24.970Z,17.9348333333333,-66.98,11.29,2.61,md,25,211,0.07015,0.14,pr,pr71427353,2023-10-03T00:54:07.560Z,"Puerto Rico region",earthquake,0.37,0.3,0.187623370819833,10,reviewed,pr,pr
 2023-10-03T00:30:16.920Z,43.62083333333333,-121.56016666666666,-1.74,1.3,ml,10,269,0.1575,0.21,uw,uw61963676,2023-10-03T19:06:17.400Z,"7 km SW of La Pine, Oregon",explosion,1.7,31.61,0.09159259819245724,7,reviewed,uw,uw
-2023-10-03T00:26:21.350Z,39.3128333,-123.2081667,3.25,1.54,md,21,54,0.01156,0.08,nc,nc73944781,2023-10-03T07:58:13.616Z,"5 km N of Redwood Valley, CA",earthquake,0.18,0.33,0.155,21,reviewed,nc,nc
-2023-10-03T00:22:45.659Z,61.4872,-149.2648,26.3,1.5,ml,,,,0.4,ak,ak023cogglkl,2023-10-03T00:24:11.074Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-03T00:17:34.370Z,44.394666666666666,-121.0295,-1.54,1.56,ml,12,153,0.06809,0.37,uw,uw61963671,2023-10-03T19:13:39.460Z,"12 km ENE of Terrebonne, Oregon",explosion,1.16,31.61,0.0608427779113081,6,reviewed,uw,uw
-2023-10-03T00:13:28.698Z,39.7344,-120.5559,9.7,1.1,ml,12,152.29,0.098,0.1867,nn,nn00866706,2023-10-03T23:43:02.879Z,"Northern California",earthquake,,1.6,0.18,4,reviewed,nn,nn
