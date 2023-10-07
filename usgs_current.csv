@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T12:05:42.820Z,37.8681679,-122.2446671,8.86,0.82,md,11,59,0.009922,0.02,nc,nc73946681,2023-10-07T12:32:15.091Z,"3 km E of Berkeley, CA",earthquake,0.31,0.63,0.06,5,automatic,nc,nc
 2023-10-07T12:02:23.920Z,19.1983337402344,-155.32600402832,30.2800006866455,2.02999997,md,30,173,,0.159999996,hv,hv73598677,2023-10-07T12:05:40.030Z,"Hawaii region, Hawaii",earthquake,0.68,0.949999988,2.02999997,4,automatic,hv,hv
 2023-10-07T11:58:20.335Z,59.9692,-143.0262,22.8,1.6,ml,,,,0.83,ak,ak023cv9df0x,2023-10-07T12:00:16.269Z,"163 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-07T11:57:23.380Z,17.9786666666667,-66.8245,16.31,1.88,md,8,200,0.05224,0.23,pr,pr71427758,2023-10-07T12:14:45.330Z,"1 km SSW of Indios, Puerto Rico",earthquake,0.82,2,0.106553212104764,5,reviewed,pr,pr
+2023-10-07T11:57:23.380Z,17.9786666666667,-66.8245,16.31,1.88,md,8,200,0.05224,0.23,pr,pr71427758,2023-10-07T12:14:45.330Z,"Puerto Rico region",earthquake,0.82,2,0.106553212104764,5,reviewed,pr,pr
 2023-10-07T11:51:16.665Z,63.2174,-150.5651,117.7,1.3,ml,,,,0.34,ak,ak023cv9bvg0,2023-10-07T14:42:55.349Z,"68 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2023-10-07T11:48:00.200Z,44.4123333333333,-115.201166666667,8.38,1.91,ml,10,103,0.3982,0.09,mb,mb90029293,2023-10-07T13:29:23.500Z,"30 km NW of Stanley, Idaho",earthquake,0.3,0.54,0.194209222875811,10,reviewed,mb,mb
 2023-10-07T11:35:51.133Z,62.7416,-151.1122,0,1,ml,,,,0.95,ak,ak023cv98jxk,2023-10-07T11:37:52.920Z,"32 km NNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-07T08:09:31.130Z,19.3781661987305,-155.281829833984,1.08000004291534,1.94,ml,27,87,,0.219999999,hv,hv73598297,2023-10-07T08:15:03.710Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.289999992,0.22,6,automatic,hv,hv
 2023-10-07T08:06:56.416Z,-21.419,-71.7399,19.854,4.6,mb,50,137,1.721,0.71,us,us6000ldq5,2023-10-07T08:26:59.040Z,"176 km WNW of Tocopilla, Chile",earthquake,7.61,5.191,0.09,37,reviewed,us,us
 2023-10-07T08:06:37.093Z,34.6691,61.926,10,4.6,mb,28,150,5.871,0.53,us,us6000ldq8,2023-10-07T08:30:31.040Z,"33 km SSE of Qarah Bāgh, Afghanistan",earthquake,10.19,1.933,0.129,18,reviewed,us,us
-2023-10-07T08:06:26.412Z,0.0545,97.55,24.43,4.7,mb,33,183,1.241,0.61,us,us6000ldq6,2023-10-07T08:23:16.040Z,"63 km SSW of Teluk Dalam, Indonesia",earthquake,8.02,5.826,0.138,16,reviewed,us,us
+2023-10-07T08:06:26.412Z,0.0545,97.55,24.43,4.7,mb,33,183,1.241,0.61,us,us6000ldq6,2023-10-07T08:23:16.040Z,"Nias region, Indonesia",earthquake,8.02,5.826,0.138,16,reviewed,us,us
 2023-10-07T07:55:07.530Z,19.3608341217041,-155.296829223633,1.26999998092651,1.85,ml,33,108,,0.209999993,hv,hv73598267,2023-10-07T08:00:38.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.33,0.569999993,0.38,11,automatic,hv,hv
 2023-10-07T07:54:50.670Z,35.6701667,-117.4668333,6.48,1.27,ml,14,86,0.03547,0.2,ci,ci40578520,2023-10-07T15:19:23.277Z,"12 km SSW of Searles Valley, CA",earthquake,0.55,1.02,0.097,8,reviewed,ci,ci
 2023-10-07T07:40:29.417Z,34.6391,62.0327,7.726,5.9,mww,126,43,5.783,0.71,us,us6000ldpv,2023-10-07T09:47:21.943Z,"35 km NNW of Herāt, Afghanistan",earthquake,7.26,3.844,0.054,33,reviewed,us,us
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-06T16:14:35.816Z,61.8574,-147.9849,27,1.6,ml,,,,0.94,ak,ak023ctoju8t,2023-10-06T16:16:28.321Z,"18 km WNW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-10-06T16:11:21.886Z,32.107,-102.209,8.0456,1.6,ml(texnet),27,63,0,0.1,tx,tx2023tpdx,2023-10-06T19:59:30.601Z,"17 km NW of Midland, Texas",earthquake,0.5384175644,0.6245193076,0.2,22,reviewed,tx,tx
 2023-10-06T16:08:44.040Z,58.173,-155.3735,1.96,0.31,ml,7,129,,0.06,av,av92075701,2023-10-06T21:07:23.570Z,"86 km NW of Karluk, Alaska",earthquake,0.22,0.45,0.201620816363975,7,reviewed,av,av
-2023-10-06T16:02:27.170Z,36.3600006,-121.4106674,6.68,1.81,md,18,57,0.03586,0.09,nc,nc73946321,2023-10-06T19:11:17.805Z,"10 km SW of Soledad, CA",earthquake,0.32,0.64,0.14,17,automatic,nc,nc
