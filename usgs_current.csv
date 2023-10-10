@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T07:10:15.680Z,38.6846657,-122.4981689,6.66,1.14,md,7,128,0.09349,0.06,nc,nc73948401,2023-10-10T08:55:14.056Z,"13 km SE of Middletown, CA",earthquake,0.53,3.48,0.25,6,automatic,nc,nc
 2023-10-10T07:06:44.270Z,19.363166809082,-155.287338256836,2.20000004768372,1.79,ml,17,115,,0.129999995,hv,hv73602832,2023-10-10T07:12:15.060Z,"10 km SSW of Volcano, Hawaii",earthquake,0.33,0.479999989,0.36,6,automatic,hv,hv
 2023-10-10T06:58:56.810Z,38.821167,-122.7618332,1.78,1.11,md,16,123,0.01123,0.02,nc,nc73948391,2023-10-10T07:59:19.850Z,"3 km W of Cobb, CA",earthquake,0.29,0.45,0.15,15,automatic,nc,nc
-2023-10-10T06:58:52.734Z,38.3001,-119.3766,9.3,1.2,ml,11,91.24,0.07,0.1782,nn,nn00867077,2023-10-10T16:07:33.825Z,"13 km WNW of Bridgeport, California",earthquake,,1.3,0.16,4,reviewed,nn,nn
+2023-10-10T06:58:52.734Z,38.3001,-119.3766,9.3,1.2,ml,11,91.24,0.07,0.1782,nn,nn00867077,2023-10-10T16:07:33.825Z,"California-Nevada border region",earthquake,,1.3,0.16,4,reviewed,nn,nn
 2023-10-10T06:55:57.160Z,19.3388328552246,-155.300994873047,2.92000007629395,1.72000003,md,25,113,,0.180000007,hv,hv73602822,2023-10-10T06:59:04.700Z,"Island of Hawaii, Hawaii",earthquake,0.37,0.689999998,1.40999997,14,automatic,hv,hv
 2023-10-10T06:40:20.320Z,17.938,-66.2791666666667,13.71,2.1,md,7,216,0.1663,0.21,pr,pr71428083,2023-10-10T06:49:33.840Z,"4 km SSE of Salinas, Puerto Rico",earthquake,0.89,0.74,0.142542415237631,6,reviewed,pr,pr
 2023-10-10T06:39:44.258Z,28.919,-98.056,5.0132,2.3,ml(texnet),21,55,0.1,0.2,tx,tx2023tvtb,2023-10-10T15:02:59.376Z,"8 km SSW of Falls City, Texas",earthquake,1.062775656,1.542777787,0.1,7,reviewed,tx,tx
@@ -166,6 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T00:13:15.347Z,-23.6067,-63.6564,538.053,5.6,mww,95,25,4.209,0.8,us,us6000leee,2023-10-10T04:15:33.089Z,"63 km SE of Embarcación, Argentina",earthquake,10.66,6.116,0.055,32,reviewed,us,us
 2023-10-10T00:09:15.212Z,31.662,-104.483,6.0287,1.9,ml(texnet),12,71,0,0.2,tx,tx2023tvgf,2023-10-10T10:43:39.762Z,"57 km S of Whites City, New Mexico",earthquake,1.056033408,0.6515030464,0.2,9,reviewed,tx,tx
 2023-10-10T00:07:17.719Z,31.68,-104.424,6.0287,2.1,ml(texnet),16,65,0,0.2,tx,tx2023tvgd,2023-10-10T18:35:31.553Z,"55 km S of Whites City, New Mexico",earthquake,1.260271457,1.100760237,0.1,6,reviewed,tx,tx
+2023-10-10T00:02:47.820Z,51.8216666666667,-178.865333333333,4.92,0.27,ml,5,281,,0.09,av,av92078551,2023-10-10T19:14:03.560Z,"153 km W of Adak, Alaska",earthquake,0.6,0.78,0.222605540540943,5,reviewed,av,av
 2023-10-10T00:01:00.660Z,39.6126,-119.9661,6.2,0.6,ml,5,157.56,0.007,0.0783,nn,nn00867075,2023-10-10T13:41:41.510Z,"7 km S of Cold Springs, Nevada",earthquake,,1.5,0.19,4,reviewed,nn,nn
 2023-10-09T23:37:51.199Z,31.635,-103.983,6.7743,2.3,ml(texnet),14,66,0,0.1,tx,tx2023tvfd,2023-10-10T17:53:19.356Z,"37 km WSW of Mentone, Texas",earthquake,2.670891752,2.019968799,0.1,6,reviewed,tx,tx
 2023-10-09T23:37:47.910Z,31.4893333,-115.6335,10.58,2.49,ml,10,102,0.1615,0.16,ci,ci40580288,2023-10-10T00:29:49.830Z,"92 km ESE of Maneadero, B.C., MX",earthquake,0.28,0.84,0.125,29,reviewed,ci,ci
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T19:47:01.530Z,33.3398333,-116.3858333,11.56,1.36,ml,44,33,0.02039,0.2,ci,ci40580064,2023-10-09T23:46:53.580Z,"9 km N of Borrego Springs, CA",earthquake,0.24,0.97,0.136,25,reviewed,ci,ci
 2023-10-09T19:40:22.840Z,64.8309,-147.5366,8.9,1.2,ml,,,,0.56,ak,ak023cyp3q5o,2023-10-09T19:42:21.852Z,"3 km N of Badger, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-09T19:30:17.920Z,32.6431667,-116.9713333,-0.5,0.82,ml,10,202,0.04955,0.13,ci,ci40580040,2023-10-10T00:24:26.198Z,"6 km ESE of Bonita, CA",quarry blast,0.75,31.61,0.12,5,reviewed,ci,ci
-2023-10-09T19:11:57.487Z,64.4869,-147.8611,8.9,1.1,ml,,,,0.6,ak,ak023cyoxl2c,2023-10-09T19:13:53.604Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
