@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T19:34:30.150Z,38.8349991,-122.8171692,1.4,0.66,md,11,62,0.01284,0.01,nc,nc73948966,2023-10-11T20:12:14.224Z,"8 km W of Cobb, CA",earthquake,0.3,0.92,0.18,11,automatic,nc,nc
 2023-10-11T19:32:08.580Z,33.8506667,-117.495,-0.44,1.89,ml,57,31,0.0532,0.23,ci,ci40581344,2023-10-11T20:19:25.590Z,"4 km SE of Home Gardens, CA",quarry blast,0.3,31.61,0.176,58,reviewed,ci,ci
 2023-10-11T19:22:07.388Z,58.2028,-155.5943,107.9,0.7,ml,,,,0.9,ak,ak023d202j2a,2023-10-11T19:24:12.113Z,"82 km SE of King Salmon, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2023-10-11T19:10:54.649Z,37.0574,-116.1854,0,-0.3,ml,8,75.08,0.12,0.1243,nn,nn00867154,2023-10-11T19:12:52.632Z,"53 km ENE of Beatty, Nevada",earthquake,,10.7,1.1,4,automatic,nn,nn
+2023-10-11T19:10:55.711Z,37.0547,-116.1943,6.2,0.6,ml,22,55.12,0.061,0.1301,nn,nn00867154,2023-10-11T21:03:13.176Z,"52 km ENE of Beatty, Nevada",earthquake,,1.3,0.29,13,reviewed,nn,nn
 2023-10-11T19:09:16.950Z,34.067,-118.1163333,10.25,1.17,ml,23,98,0.0175,0.15,ci,ci40581312,2023-10-11T20:45:29.499Z,"1 km NE of Monterey Park, CA",earthquake,0.28,0.41,0.312,6,reviewed,ci,ci
 2023-10-11T19:03:19.410Z,46.0133333333333,-112.463166666667,-2,1.06,ml,6,203,0.06344,0.08,mb,mb90029463,2023-10-11T19:38:52.820Z,"Western Montana",quarry blast,1.14,31.61,0.117469887458691,7,reviewed,mb,mb
 2023-10-11T18:57:58.860Z,33.8193333,-117.7288333,5.37,0.98,ml,23,88,0.05122,0.22,ci,ci40581304,2023-10-11T20:35:33.955Z,"8 km E of Villa Park, CA",earthquake,0.35,0.55,0.075,7,reviewed,ci,ci
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T15:49:24.320Z,34.0586667,-118.1221667,11.14,1.38,ml,11,124,0.009112,0.09,ci,ci40581136,2023-10-11T20:51:56.531Z,"0 km S of Monterey Park, CA",earthquake,0.4,0.49,0.047,3,reviewed,ci,ci
 2023-10-11T15:46:19.280Z,33.3661667,-116.3045,10.06,0.92,ml,24,132,0.06555,0.18,ci,ci40581128,2023-10-11T20:45:10.205Z,"14 km NNE of Borrego Springs, CA",earthquake,0.41,0.63,0.119,10,reviewed,ci,ci
 2023-10-11T15:42:45.800Z,19.1136665344238,-155.445007324219,27.6100006103516,1.96000004,md,41,178,,0.170000002,hv,hv73605187,2023-10-11T15:45:56.250Z,"Island of Hawaii, Hawaii",earthquake,0.67,1.03999996,0.270000011,5,automatic,hv,hv
-2023-10-11T15:35:45.660Z,34.072,-118.1051667,10.18,2.71,ml,111,24,0.02539,0.18,ci,ci40581104,2023-10-11T20:35:07.298Z,"2 km ENE of Monterey Park, CA",earthquake,0.13,0.22,0.172,22,reviewed,ci,ci
+2023-10-11T15:35:45.660Z,34.072,-118.1051667,10.18,2.71,ml,111,24,0.02539,0.18,ci,ci40581104,2023-10-11T21:04:07.657Z,"2 km ENE of Monterey Park, CA",earthquake,0.13,0.22,0.172,22,reviewed,ci,ci
 2023-10-11T15:35:42.670Z,33.3305,-116.415,7.05,1.24,ml,39,40,0.04024,0.19,ci,ci40581112,2023-10-11T17:30:45.802Z,"9 km NNW of Borrego Springs, CA",earthquake,0.21,0.52,0.114,20,reviewed,ci,ci
 2023-10-11T15:05:11.929Z,62.0065,-149.4398,32.9,1.5,ml,,,,1.09,ak,ak023d1xl5tk,2023-10-11T15:07:18.340Z,"27 km SE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-11T15:02:17.000Z,19.3626670837402,-155.074172973633,4.46999979019165,1.97,ml,41,158,,0.319999993,hv,hv73605132,2023-10-11T15:07:48.170Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.71,0.589999974,0.44,5,automatic,hv,hv
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T12:46:57.160Z,19.3401660919189,-155.302673339844,3.3199999332428,2.08999991,md,34,87,,0.140000001,hv,hv73604942,2023-10-11T12:50:10.360Z,"13 km SSW of Volcano, Hawaii",earthquake,0.35,0.709999979,0.610000014,17,automatic,hv,hv
 2023-10-11T12:41:26.575Z,63.0978,-151.4724,9.2,1.3,ml,,,,0.46,ak,ak023d1w0lwx,2023-10-11T12:43:58.148Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-11T12:40:20.480Z,33.0293333,-116.3553333,3.61,1.03,ml,40,65,0.07383,0.15,ci,ci40581048,2023-10-11T13:39:20.812Z,"24 km ESE of Julian, CA",earthquake,0.15,0.5,0.139,20,reviewed,ci,ci
-2023-10-11T12:10:34.500Z,35.6603333333333,-89.6848333333333,12.05,2.86,md,49,71,0.2285,0.17,nm,nm60555026,2023-10-11T20:16:52.765Z,"10 km NE of Garland, Tennessee",earthquake,0.36,0.72,0.164076913784211,46,reviewed,nm,nm
+2023-10-11T12:10:34.500Z,35.6603333333333,-89.6848333333333,12.05,2.86,md,49,71,0.2285,0.17,nm,nm60555026,2023-10-11T21:05:59.275Z,"10 km NE of Garland, Tennessee",earthquake,0.36,0.72,0.164076913784211,46,reviewed,nm,nm
 2023-10-11T11:57:36.500Z,36.282,-97.499,7.98,1.72,ml,92,26,0,0.22,ok,ok2023txzb,2023-10-11T12:42:40.131Z,"4 km WNW of Lucien, Oklahoma",earthquake,,0.7,0.23,47,reviewed,ok,ok
 2023-10-11T11:54:01.698Z,63.1303,-150.7272,109.8,1.4,ml,,,,0.27,ak,ak023d1vhwp5,2023-10-11T11:56:15.662Z,"67 km SE of Denali National Park, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-11T11:49:05.560Z,38.8246651,-122.8095016,0.73,1.05,md,18,54,0.001345,0.04,nc,nc73948866,2023-10-11T13:58:14.004Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.42,0.11,18,automatic,nc,nc
