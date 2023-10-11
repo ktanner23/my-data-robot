@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-11T11:37:28.820Z,38.6893349,-122.4996643,6.16,2.05,md,36,57,0.09562,0.1,nc,nc73948861,2023-10-11T11:39:04.917Z,"12 km SE of Middletown, CA",earthquake,0.24,0.8,0.18,35,automatic,nc,nc
-2023-10-11T11:26:56.870Z,38.7729988,-122.7425003,1.19,0.53,md,7,78,0.01118,0.02,nc,nc73948851,2023-10-11T11:36:11.166Z,"1 km ESE of The Geysers, CA",earthquake,0.42,0.92,0.26,7,automatic,nc,nc
+2023-10-11T11:37:28.820Z,38.6893349,-122.4996643,6.16,2.05,md,36,57,0.09562,0.1,nc,nc73948861,2023-10-11T11:43:15.205Z,"12 km SE of Middletown, CA",earthquake,0.24,0.8,0.18,35,automatic,nc,nc
+2023-10-11T11:26:56.870Z,38.7729988,-122.7425003,1.19,0.53,md,7,78,0.01118,0.02,nc,nc73948851,2023-10-11T11:43:14.205Z,"1 km ESE of The Geysers, CA",earthquake,0.42,0.92,0.26,7,automatic,nc,nc
 2023-10-11T11:20:53.347Z,63.1868,-150.7543,124.6,1.4,ml,,,,0.19,ak,ak023d1vaqc6,2023-10-11T11:22:45.421Z,"Central Alaska",earthquake,,2,,,automatic,ak,ak
 2023-10-11T11:07:18.619Z,34.50331879,-97.77669525,4.845986843,1.92,ml,15,102.8658142,0.1078221798,0.8426815736,ok,ok2023txxj,2023-10-11T11:11:26.797Z,"10 km WNW of Velma, Oklahoma",earthquake,3.378238628,2.336717244,0.26,10,automatic,ok,ok
 2023-10-11T10:44:23.372Z,61.6411,-149.859,25.6,1.4,ml,,,,0.53,ak,ak023d1uudlt,2023-10-11T10:47:10.297Z,"2 km WNW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T22:49:15.593Z,61.5387,-149.9103,35.9,1.7,ml,,,,0.35,ak,ak023d0ehacn,2023-10-10T22:50:33.390Z,"3 km NE of Big Lake, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2023-10-10T22:24:51.370Z,19.38450050354,-155.278671264648,0.170000001788139,1.89999998,md,7,148,,0.129999995,hv,hv73603982,2023-10-10T22:27:40.150Z,"Island of Hawaii, Hawaii",earthquake,0.34,0.349999994,0.349999994,7,automatic,hv,hv
 2023-10-10T22:23:41.210Z,45.904,-119.31683333333334,-0.32,2.11,ml,14,109,0.2858,0.15,uw,uw61965351,2023-10-10T22:34:25.560Z,"2 km SE of Umatilla, Oregon",explosion,0.41,31.61,0.10264437433768347,8,reviewed,uw,uw
-2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"16 km NE of Big Pine, California",earthquake,,10.4,0,1,reviewed,nn,nn
+2023-10-10T22:08:39.890Z,37.2853,-118.1868,0,0.1,ml,3,327.3,0.19,0.2143,nn,nn00867115,2023-10-11T00:21:15.236Z,"California-Nevada border region",earthquake,,10.4,0,1,reviewed,nn,nn
 2023-10-10T22:08:04.790Z,17.8901666666667,-66.8726666666667,12.95,2.29,md,8,237,0.08466,0.06,pr,pr71428148,2023-10-10T22:18:19.970Z,"Puerto Rico region",earthquake,0.81,0.36,0.0366257011071571,5,reviewed,pr,pr
 2023-10-10T21:54:42.790Z,37.2163315,-118.3918304,9.74,1.65,md,6,144,0.08804,0.02,nc,nc73948681,2023-10-10T23:40:39.284Z,"6 km S of Wilkerson, CA",earthquake,1.07,2.02,0.47,4,automatic,nc,nc
 2023-10-10T21:41:34.920Z,38.8258324,-122.8065033,2.17,1.32,md,23,36,0.003702,0.02,nc,nc73948676,2023-10-10T22:11:19.558Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.38,0.1,25,automatic,nc,nc
@@ -169,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-10T11:55:33.930Z,38.6845016,-122.4954987,8.32,1.41,md,12,112,0.09171,0.06,nc,nc73948516,2023-10-10T16:13:13.486Z,"13 km NNW of Angwin, CA",earthquake,0.4,1.78,0.19,13,automatic,nc,nc
 2023-10-10T11:52:40.890Z,38.6868324,-122.5021667,5.56,2.83,md,66,44,0.09294,0.15,nc,nc73948511,2023-10-11T11:36:05.040Z,"12 km SE of Middletown, CA",earthquake,0.22,0.79,0.13,81,automatic,nc,nc
 2023-10-10T11:52:35.630Z,34.2955,-118.5391667,6.25,1.03,ml,18,81,0.02493,0.19,ci,ci40580440,2023-10-10T17:21:40.124Z,"4 km NW of Granada Hills, CA",earthquake,0.39,0.67,0.097,3,reviewed,ci,ci
-2023-10-10T11:44:31.770Z,38.6863327,-122.4980011,6.3,1.27,md,9,111,0.09437,0.05,nc,nc73948501,2023-10-10T15:33:14.259Z,"12 km SE of Middletown, CA",earthquake,0.43,2.62,0.13,9,automatic,nc,nc
