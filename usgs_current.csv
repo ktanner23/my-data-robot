@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T06:03:57.710Z,17.9321666666667,-66.275,14.59,2.1,md,10,212,0.1036,0.14,pr,pr71428278,2023-10-12T07:29:11.240Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.61,0.52,0.164001042265932,6,reviewed,pr,pr
 2023-10-12T05:50:17.120Z,36.7568321,-121.2870026,4.17,1.41,md,10,159,0.02669,0.07,nc,nc73946350,2023-10-12T06:21:15.913Z,"5 km SE of Tres Pinos, CA",earthquake,0.42,0.69,0.27,8,automatic,nc,nc
 2023-10-12T05:49:27.220Z,19.3761672973633,-155.27766418457,0.759999990463257,1.89,ml,23,101,,0.330000013,hv,hv73606262,2023-10-12T05:54:58.100Z,"8 km SSW of Volcano, Hawaii",earthquake,0.38,0.340000004,0.25,6,automatic,hv,hv
-2023-10-12T05:44:22.290Z,38.8016663,-122.7378311,2.13,0.97,md,9,109,0.01713,0.01,nc,nc73946345,2023-10-12T06:09:14.856Z,"3 km SSW of Cobb, CA",earthquake,0.42,0.85,0.19,9,automatic,nc,nc
+2023-10-12T05:44:22.290Z,38.8016663,-122.7378311,2.13,0.97,md,9,109,0.01713,0.01,nc,nc73946345,2023-10-12T08:20:11.618Z,"3 km SSW of Cobb, CA",earthquake,0.42,0.85,0.19,9,automatic,nc,nc
 2023-10-12T05:42:23.350Z,19.3466663360596,-155.295837402344,1.95000004768372,1.79,ml,24,117,,0.170000002,hv,hv73606252,2023-10-12T05:47:52.800Z,"12 km SSW of Volcano, Hawaii",earthquake,0.36,0.49000001,1.86,11,automatic,hv,hv
 2023-10-12T05:25:20.960Z,33.9211655,-118.2941666,19.81,1.5,ml,21,135,0.1309,0.27,ci,ci40581496,2023-10-12T05:27:37.557Z,"4 km W of Willowbrook, CA",earthquake,0.94,0.73,0.153,6,automatic,ci,ci
 2023-10-12T05:13:04.460Z,19.1979999542236,-155.495330810547,35.7200012207031,2.59,ml,52,68,,0.109999999,hv,hv73606227,2023-10-12T06:53:02.040Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.51,0.660000026,3.56,31,automatic,hv,hv
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T03:34:20.950Z,19.2546672821045,-155.397994995117,31.1700000762939,2.32,ml,17,205,,0.0900000036,hv,hv73606137,2023-10-12T03:39:53.130Z,"10 km NE of Pāhala, Hawaii",earthquake,1.69,0.920000017,0.43,11,automatic,hv,hv
 2023-10-12T03:30:31.199Z,-29.3289,-176.2373,10,4.8,mb,31,115,1.472,1.15,us,us6000lezl,2023-10-12T03:54:18.040Z,"Kermadec Islands region",earthquake,6.38,1.876,0.107,27,reviewed,us,us
 2023-10-12T03:22:47.430Z,38.8328323,-122.8088303,2.17,0.78,md,16,47,0.009473,0.01,nc,nc73946315,2023-10-12T04:11:18.021Z,"8 km W of Cobb, CA",earthquake,0.26,0.78,0.15,15,automatic,nc,nc
-2023-10-12T03:17:39.234Z,52.8249,-171.2676,113.189,4.4,mb,43,161,1.469,0.83,us,us6000lez7,2023-10-12T04:16:09.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.78,9.005,0.056,90,reviewed,us,us
+2023-10-12T03:17:39.234Z,52.8249,-171.2676,113.189,4.4,mb,43,161,1.469,0.83,us,us6000lez7,2023-10-12T04:16:09.040Z,"162 km W of Nikolski, Alaska",earthquake,9.78,9.005,0.056,90,reviewed,us,us
 2023-10-12T03:17:37.235Z,60.5626,-143.023,1.8,1.4,ml,,,,0.75,ak,ak023d3e1xln,2023-10-12T03:18:54.336Z,"97 km S of McCarthy, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-12T03:02:54.599Z,60.7204,-149.3731,0,3,ml,,,,0.97,ak,ak023d3dyut1,2023-10-12T04:42:18.036Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T03:02:50.209Z,60.3497,-150.7148,63.4,3.3,ml,,,,0.26,ak,ak023d3dyqv0,2023-10-12T05:05:27.195Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T14:01:28.230Z,38.836834,-122.8000031,2.04,0.91,md,12,92,0.007706,0.01,nc,nc73948876,2023-10-11T14:39:16.245Z,"7 km WNW of Cobb, CA",earthquake,0.44,0.75,0.27,13,automatic,nc,nc
 2023-10-11T13:57:53.090Z,52.7606666666667,-169.89,8.82,1.06,ml,5,255,,0.17,av,av92080046,2023-10-12T05:05:14.210Z,"72 km WSW of Nikolski, Alaska",earthquake,2.08,1.57,0.142497188128031,5,reviewed,av,av
 2023-10-11T13:55:31.850Z,34.1501667,-116.4386667,8.61,0.75,ml,18,115,0.05388,0.11,ci,ci40581064,2023-10-11T15:40:51.171Z,"4 km N of Yucca Valley, CA",earthquake,0.23,0.43,0.159,8,reviewed,ci,ci
-2023-10-11T13:53:41.542Z,53.1342,-166.7974,22.5,4.2,ml,,,,0.57,ak,ak023d1won2f,2023-10-12T00:30:36.866Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,1.6,,,reviewed,ak,ak
+2023-10-11T13:53:41.542Z,53.1342,-166.7974,22.5,4.2,ml,,,,0.57,ak,ak023d1won2f,2023-10-12T00:30:36.866Z,"84 km SSW of Unalaska, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2023-10-11T13:46:29.540Z,19.4538333333333,-155.570666666667,45,2.22,ml,21,40,,0.13,hv,hv73605022,2023-10-11T18:17:47.470Z,"29 km NNW of Pāhala, Hawaii",earthquake,1.26,0.63,0.187913459022515,24,reviewed,hv,hv
 2023-10-11T13:43:13.113Z,65.0813,-146.6101,2.6,1,ml,,,,0.6,ak,ak023d1wmfwv,2023-10-11T13:44:32.791Z,"northern Alaska",earthquake,,6.7,,,automatic,ak,ak
 2023-10-11T13:29:29.215Z,61.0542,-148.4855,0,0.9,ml,,,,0.97,ak,ak023d1wjh1j,2023-10-11T13:31:49.678Z,"32 km NNE of Whittier, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T08:41:20.660Z,46.203,-122.17966666666666,2.59,0.18,ml,9,138,0.004925,0.09,uw,uw61965406,2023-10-11T17:52:20.620Z,"38 km NNE of Amboy, Washington",earthquake,0.33,0.86,0.10595901256006568,5,reviewed,uw,uw
 2023-10-11T08:36:06.860Z,17.8911666666667,-66.8593333333333,12.79,2.37,md,6,239,0.08556,0.07,pr,pr71428198,2023-10-11T09:05:41.990Z,"Puerto Rico region",earthquake,1.3,0.53,0.142588219137605,6,reviewed,pr,pr
 2023-10-11T08:34:49.270Z,17.8663333333333,-66.8478333333333,13.86,2.49,md,6,247,0.1122,0.07,pr,pr71428178,2023-10-11T08:48:29.370Z,"Puerto Rico region",earthquake,1.24,0.44,0.308712394533829,7,reviewed,pr,pr
-2023-10-11T08:28:37.210Z,19.2940006256104,-155.384170532227,2.27999997138977,1.83000004,md,18,160,,0.119999997,hv,hv73604607,2023-10-11T08:31:47.950Z,"14 km NE of Pāhala, Hawaii",earthquake,0.49,0.769999981,0.910000026,3,automatic,hv,hv
