@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-12T16:45:52.950Z,60.6428,-151.8208,79.7,1.3,ml,,,,0.13,ak,ak023d3lylel,2023-10-12T16:49:59.011Z,"27 km W of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-12T16:35:36.320Z,38.8260002,-122.8063354,2.37,0.53,md,7,105,0.003911,0.01,nc,nc73946455,2023-10-12T17:18:14.680Z,"7 km NW of The Geysers, CA",earthquake,0.63,1.4,0.28,7,automatic,nc,nc
+2023-10-12T16:35:36.320Z,38.8260002,-122.8063354,2.37,0.53,md,7,105,0.003911,0.01,nc,nc73946455,2023-10-12T17:24:09.739Z,"7 km NW of The Geysers, CA",earthquake,0.63,1.4,0.28,7,automatic,nc,nc
 2023-10-12T16:18:06.240Z,38.7811661,-122.7440033,0.69,1.18,md,14,77,0.006053,0.06,nc,nc73946450,2023-10-12T16:54:11.542Z,"1 km ENE of The Geysers, CA",earthquake,0.27,0.65,0.15,13,automatic,nc,nc
 2023-10-12T16:04:26.461Z,60.355,-141.2793,10.7,1.4,ml,,,,0.4,ak,ak023d3lpra0,2023-10-12T16:07:06.215Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-12T15:56:44.769Z,64.489,-146.4182,6,2.2,ml,,,,0.84,ak,ak023d3lfid8,2023-10-12T15:59:07.939Z,"15 km NNE of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T06:04:51.576Z,-39.4968,-72.1358,81.908,4.7,mb,69,66,0.211,0.67,us,us6000lf0i,2023-10-12T12:42:17.862Z,"Araucania-Los Lagos border region, Chile",earthquake,8.73,6.024,0.079,49,reviewed,us,us
 2023-10-12T06:04:41.454Z,64.8518,-150.676,10.2,1.9,ml,,,,0.26,ak,ak023d3frgfl,2023-10-12T06:06:27.910Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-12T06:03:57.710Z,17.9321666666667,-66.275,14.59,2.1,md,10,212,0.1036,0.14,pr,pr71428278,2023-10-12T07:29:11.240Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.61,0.52,0.164001042265932,6,reviewed,pr,pr
+2023-10-12T06:02:59.540Z,33.2423333,-116.0131667,2.95,0.7,ml,25,86,0.04407,0.22,ci,ci40581504,2023-10-12T17:27:19.739Z,"8 km SW of Salton City, CA",earthquake,0.31,0.47,0.13,9,reviewed,ci,ci
 2023-10-12T05:50:17.120Z,36.7568321,-121.2870026,4.17,1.41,md,10,159,0.02669,0.07,nc,nc73946350,2023-10-12T08:49:17.801Z,"5 km SE of Tres Pinos, CA",earthquake,0.42,0.69,0.27,8,automatic,nc,nc
 2023-10-12T05:49:27.220Z,19.3761672973633,-155.27766418457,0.759999990463257,1.89,ml,23,101,,0.330000013,hv,hv73606262,2023-10-12T05:54:58.100Z,"8 km SSW of Volcano, Hawaii",earthquake,0.38,0.340000004,0.25,6,automatic,hv,hv
 2023-10-12T05:44:22.290Z,38.8016663,-122.7378311,2.13,0.97,md,9,109,0.01713,0.01,nc,nc73946345,2023-10-12T08:20:11.618Z,"3 km SSW of Cobb, CA",earthquake,0.42,0.85,0.19,9,automatic,nc,nc
@@ -107,10 +108,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T03:30:31.199Z,-29.3289,-176.2373,10,4.8,mb,31,115,1.472,1.15,us,us6000lezl,2023-10-12T03:54:18.040Z,"Kermadec Islands region",earthquake,6.38,1.876,0.107,27,reviewed,us,us
 2023-10-12T03:28:44.340Z,43.0051666666667,-111.025833333333,4.44,1.8,ml,16,92,0.2458,0.19,mb,mb90029563,2023-10-12T14:11:21.400Z,"2 km NNE of Freedom, Idaho",earthquake,0.69,3.23,0.251823002368554,23,reviewed,mb,mb
 2023-10-12T03:22:47.430Z,38.8328323,-122.8088303,2.17,0.78,md,16,47,0.009473,0.01,nc,nc73946315,2023-10-12T04:11:18.021Z,"8 km W of Cobb, CA",earthquake,0.26,0.78,0.15,15,automatic,nc,nc
-2023-10-12T03:17:39.234Z,52.8249,-171.2676,113.189,4.4,mb,43,161,1.469,0.83,us,us6000lez7,2023-10-12T17:20:18.962Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.78,9.005,0.056,90,reviewed,us,us
+2023-10-12T03:17:39.234Z,52.8249,-171.2676,113.189,4.4,mb,43,161,1.469,0.83,us,us6000lez7,2023-10-12T17:23:33.615Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,9.78,9.005,0.056,90,reviewed,us,us
 2023-10-12T03:17:37.235Z,60.5626,-143.023,1.8,1.4,ml,,,,0.75,ak,ak023d3e1xln,2023-10-12T03:18:54.336Z,"97 km S of McCarthy, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-10-12T03:02:50.381Z,60.3445,-150.7181,65.5,3.4,ml,,,,0.44,ak,ak023d3dyut1,2023-10-12T16:54:02.800Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2023-10-12T03:02:50.209Z,60.3497,-150.7148,63.4,3.3,ml,,,,0.26,ak,ak023d3dyqv0,2023-10-12T16:54:19.782Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-10-12T03:02:50.209Z,60.3497,-150.7148,63.4,3.3,ml,,,,0.26,ak,ak023d3dyqv0,2023-10-12T17:23:30.620Z,"17 km S of Funny River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-12T02:58:54.910Z,35.6443329,-120.1793365,3.6,1.42,md,7,188,0.05453,0.03,nc,nc73946305,2023-10-12T06:17:19.891Z,"14 km SE of Cholame, CA",earthquake,1.5,1.26,0.27,4,automatic,nc,nc
 2023-10-12T02:55:48.219Z,63.0156,-151.571,1.9,1.3,ml,,,,0.84,ak,ak023d3doo1x,2023-10-12T02:58:28.700Z,"59 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-12T02:50:55.440Z,19.3748340606689,-155.278839111328,2.02999997138977,1.94,ml,26,97,,0.170000002,hv,hv73606097,2023-10-12T02:56:26.750Z,"8 km SSW of Volcano, Hawaii",earthquake,0.26,0.270000011,0.32,8,automatic,hv,hv
@@ -142,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-12T00:17:31.600Z,38.7895012,-122.7261658,1.7,0.95,md,8,92,0.01036,0.02,nc,nc73946215,2023-10-12T02:33:16.330Z,"3 km ENE of The Geysers, CA",earthquake,0.33,1.52,0.22,8,automatic,nc,nc
 2023-10-12T00:16:49.590Z,38.7888336,-122.7258301,2.17,1.12,md,9,92,0.01018,0.01,nc,nc73946210,2023-10-12T02:06:12.183Z,"3 km ENE of The Geysers, CA",earthquake,0.36,1.67,0.19,11,automatic,nc,nc
 2023-10-12T00:09:33.120Z,38.8008347,-122.7381668,1.43,1.03,md,16,107,0.01684,0.03,nc,nc73946205,2023-10-12T01:08:12.830Z,"3 km SSW of Cobb, CA",earthquake,0.29,0.56,0.1,15,automatic,nc,nc
-2023-10-12T00:00:30.760Z,33.034668,-116.3568344,2.8,1.16,ml,19,70,0.07729,0.22,ci,ci40581440,2023-10-12T00:02:37.580Z,"23 km ESE of Julian, CA",earthquake,0.52,1.12,0.228,3,automatic,ci,ci
+2023-10-12T00:00:30.650Z,33.0253333,-116.3556667,4.47,0.9,ml,35,71,0.07059,0.19,ci,ci40581440,2023-10-12T17:26:03.986Z,"24 km ESE of Julian, CA",earthquake,0.21,0.56,0.098,13,reviewed,ci,ci
 2023-10-11T23:48:44.190Z,17.9066666666667,-65.8845,13.74,2.48,md,11,224,0.09915,0.13,pr,pr71428238,2023-10-12T00:01:03.550Z,"Puerto Rico region",earthquake,0.67,0.39,0.133381959119866,4,reviewed,pr,pr
 2023-10-11T23:44:00.837Z,29.8058,138.8555,452.494,4.1,mb,30,151,3.399,0.58,us,us6000ley7,2023-10-12T00:15:06.040Z,"Izu Islands, Japan region",earthquake,12.54,7.748,0.13,16,reviewed,us,us
 2023-10-11T23:28:26.400Z,35.7356667,-117.47,6.69,1.1,ml,19,79,0.07985,0.15,ci,ci40581432,2023-10-12T00:27:57.887Z,"7 km WSW of Searles Valley, CA",earthquake,0.23,0.84,0.148,7,reviewed,ci,ci
@@ -186,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-11T17:57:01.683Z,62.0271,-150.9278,69.4,1.5,ml,,,,0.28,ak,ak023d1z35h4,2023-10-11T17:59:10.104Z,"24 km E of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-11T17:41:07.570Z,65.4655,-149.9943,8.9,1.4,ml,,,,0.67,ak,ak023d1yzqh1,2023-10-11T17:42:49.201Z,"9 km ESE of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-11T17:35:58.590Z,35.0161667,-118.4865,6.56,1.19,ml,20,49,0.1217,0.13,ci,ci40581240,2023-10-11T19:01:52.899Z,"13 km SSW of Tehachapi, CA",earthquake,0.18,0.76,0.073,5,reviewed,ci,ci
-2023-10-11T17:26:03.020Z,33.0408333,-115.6013333,7.95,1.54,ml,32,77,0.01652,0.27,ci,ci40581208,2023-10-11T19:19:07.495Z,"2 km ENE of Westmorland, CA",earthquake,0.35,0.63,0.078,18,reviewed,ci,ci
