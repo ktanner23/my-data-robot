@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-15T11:26:32.960Z,35.536335,-120.8424988,6.88,1.69,md,16,66,0.09591,0.02,nc,nc73947450,2023-10-15T11:28:10.106Z,"11 km NNE of Cayucos, CA",earthquake,0.48,0.94,0.18,10,automatic,nc,nc
-2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T11:29:32.040Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
+2023-10-15T11:26:32.960Z,35.536335,-120.8424988,6.88,1.69,md,16,66,0.09591,0.02,nc,nc73947450,2023-10-15T11:37:10.616Z,"11 km NNE of Cayucos, CA",earthquake,0.48,0.94,0.18,10,automatic,nc,nc
+2023-10-15T11:15:37.551Z,31.1027,49.5001,10,5.3,mww,103,48,5.383,0.8,us,us6000lfq9,2023-10-15T11:42:38.904Z,"21 km SSW of Rāmhormoz, Iran",earthquake,7.52,1.843,0.065,23,reviewed,us,us
 2023-10-15T11:06:35.692Z,64.978,-147.403,1.4,1.1,ml,,,,0.53,ak,ak023d8hd2xd,2023-10-15T11:08:51.037Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T10:33:52.012Z,64.6215,-152.2467,8.4,1.3,ml,,,,0.99,ak,ak023d8gxgwx,2023-10-15T10:35:44.265Z,"61 km S of Tanana, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-15T10:04:49.790Z,17.9293333333333,-66.9508333333333,6.36,2.32,md,9,225,0.08191,0.19,pr,pr71428668,2023-10-15T10:23:33.840Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.03,0.5,0.102905034885837,5,reviewed,pr,pr
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-15T04:36:57.597Z,28.5644,-98.5749,8.256,2.5,ml,15,192,0.214,1.36,us,us6000lfnq,2023-10-15T04:49:40.040Z,"11 km NNW of Tilden, Texas",earthquake,3.38,7.4,0.115,10,reviewed,us,us
 2023-10-15T04:17:45.180Z,37.8865013,-121.9968338,9.39,1.25,md,13,116,,0.07,nc,nc73947370,2023-10-15T05:59:11.744Z,"5 km NE of Alamo, CA",earthquake,0.41,0.72,0.16,9,automatic,nc,nc
 2023-10-15T04:12:37.050Z,34.0418333,-117.239,15.22,1.13,ml,44,34,0.1091,0.2,ci,ci40582672,2023-10-15T04:16:18.168Z,"2 km ESE of Loma Linda, CA",earthquake,0.21,0.41,0.206,29,automatic,ci,ci
-2023-10-15T04:10:33.375Z,60.5061,-147.3846,19.3,1.9,ml,,,,0.5,ak,ak023d8d7wdl,2023-10-15T04:12:07.753Z,"55 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-15T04:10:33.375Z,60.5061,-147.3846,19.3,1.9,ml,,,,0.5,ak,ak023d8d7wdl,2023-10-15T04:12:07.753Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-15T03:56:28.863Z,34.5926,62.1483,10,5.4,mww,116,22,5.689,1,us,us6000lfng,2023-10-15T06:03:18.043Z,"27 km N of Herāt, Afghanistan",earthquake,7.23,1.79,0.093,11,reviewed,us,us
 2023-10-15T03:46:53.680Z,17.964,-66.9538333333333,13.21,2.72,md,4,193,0.07183,0.1,pr,pr71428613,2023-10-15T04:27:47.380Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.66,1.01,0.0201491434223553,4,reviewed,pr,pr
 2023-10-15T03:45:47.839Z,62.9316,-149.9091,70.7,1.9,ml,,,,0.34,ak,ak023d8ctzy7,2023-10-15T03:47:33.252Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
@@ -160,4 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-14T12:14:45.990Z,17.9371666666667,-66.9568333333333,6.52,2.99,md,14,220,0.05761,0.16,pr,pr71428523,2023-10-14T12:29:25.550Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.56,0.3,0.13415804615117,7,reviewed,pr,pr
 2023-10-14T12:12:27.670Z,17.902,-66.8483333333333,15.38,3.07,md,18,213,0.07839,0.14,pr,pr71428513,2023-10-14T12:37:58.480Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.53,0.55,0.114220549189737,6,reviewed,pr,pr
 2023-10-14T12:07:25.259Z,61.5542,-150.6567,74.9,1.4,ml,,,,0.74,ak,ak023d6ufcy5,2023-10-14T12:09:25.628Z,"Southern Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-10-14T11:39:45.000Z,38.8256683,-122.8128357,1.79,0.36,md,11,76,0.003132,0.02,nc,nc73947080,2023-10-14T14:29:12.217Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.92,0.31,12,automatic,nc,nc
