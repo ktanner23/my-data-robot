@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-18T04:30:42.930Z,37.7630005,-122.0078354,8.13,1.57,md,18,77,,0.07,nc,nc73948475,2023-10-18T04:47:12.426Z,"3 km SW of San Ramon, CA",earthquake,0.25,0.41,0.2,14,automatic,nc,nc
-2023-10-18T04:27:15.840Z,37.6188316,-122.3736649,11.58,1.34,md,11,140,0.05027,0.04,nc,nc73948470,2023-10-18T04:42:11.397Z,"2 km NNE of Millbrae, CA",earthquake,0.91,0.57,0.27,5,automatic,nc,nc
+2023-10-18T04:27:15.840Z,37.6188316,-122.3736649,11.58,1.34,md,11,140,0.05027,0.04,nc,nc73948470,2023-10-18T04:54:11.463Z,"2 km NNE of Millbrae, CA",earthquake,0.91,0.57,0.27,5,automatic,nc,nc
 2023-10-18T04:25:44.980Z,61.1921,-147.9466,19.3,1.2,ml,,,,0.96,ak,ak023ddbx6hu,2023-10-18T04:26:58.685Z,"59 km ESE of Knik River, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-18T04:19:48.475Z,62.3847,-147.8688,18.9,1.6,ml,,,,1.25,ak,ak023ddbvwgv,2023-10-18T04:22:05.622Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-18T04:05:34.696Z,57.6265,-156.3855,196.5,2.2,ml,,,,0.83,ak,ak023ddbsvdp,2023-10-18T04:07:43.521Z,"Alaska Peninsula",earthquake,,5.7,,,automatic,ak,ak
+2023-10-18T04:19:48.475Z,62.3847,-147.8688,18.9,1.6,ml,,,,1.25,ak,ak023ddbvwgv,2023-10-18T04:22:05.622Z,"61 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-10-18T04:05:34.696Z,57.6265,-156.3855,196.5,2.2,ml,,,,0.83,ak,ak023ddbsvdp,2023-10-18T04:07:43.521Z,"61 km ENE of Ugashik, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2023-10-18T03:55:46.900Z,46.195,-122.189,3.64,0.35000000000000003,ml,9,102,0.02164,0.15,uw,uw61957777,2023-10-18T04:27:17.520Z,"37 km NNE of Amboy, Washington",earthquake,0.44,31.61,0.18109854752411644,10,reviewed,uw,uw
 2023-10-18T03:43:40.805Z,60.3541,-148.3688,0,1.8,ml,,,,0.55,ak,ak023ddbflgg,2023-10-18T03:45:21.068Z,"Kenai Peninsula, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-18T03:37:18.970Z,38.8233337,-122.8148346,1.93,0.89,md,8,97,0.003719,0.02,nc,nc73948465,2023-10-18T03:55:12.150Z,"7 km NW of The Geysers, CA",earthquake,0.45,0.98,0.21,10,automatic,nc,nc
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T00:30:30.690Z,36.1103333,-117.8688333,2.3,1.3,ml,14,186,0.01343,0.19,ci,ci40583648,2023-10-18T00:34:17.352Z,"10 km NE of Coso Junction, CA",earthquake,0.9,0.37,0.184,11,automatic,ci,ci
 2023-10-18T00:23:55.510Z,38.8129997,-122.8343353,-0.55,1.06,md,9,102,0.005767,0.24,nc,nc73948410,2023-10-18T00:35:11.990Z,"8 km WNW of The Geysers, CA",earthquake,0.73,2,0.12,9,automatic,nc,nc
 2023-10-18T00:19:02.647Z,60.636,-141.5027,7,1.4,ml,,,,0.46,ak,ak023dd9i2ja,2023-10-18T00:21:18.656Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-18T00:13:54.860Z,47.458,-122.58833333333334,24.19,1.32,ml,17,102,0.09674,0.35,uw,uw61957762,2023-10-18T04:16:29.220Z,"Seattle-Tacoma urban area, Washington",earthquake,1.01,1.53,0.03764168339646112,8,reviewed,uw,uw
+2023-10-18T00:13:54.860Z,47.458,-122.58833333333334,24.19,1.32,ml,17,102,0.09674,0.35,uw,uw61957762,2023-10-18T04:16:29.220Z,"5 km SE of Bethel, Washington",earthquake,1.01,1.53,0.03764168339646112,8,reviewed,uw,uw
 2023-10-18T00:02:16.306Z,61.4771,-146.5105,31,1.6,ml,,,,0.76,ak,ak023dd9ege6,2023-10-18T00:04:12.544Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-17T23:53:31.570Z,17.9063333333333,-66.95,8.58,1.54,md,4,260,0.09595,0.03,pr,pr71429048,2023-10-18T00:06:16.010Z,"Puerto Rico region",earthquake,0.66,1.55,0.207168972771014,3,reviewed,pr,pr
 2023-10-17T23:47:37.740Z,17.9243333333333,-66.949,9.78,2.53,md,16,227,0.06118,0.08,pr,pr71429033,2023-10-18T00:10:57.100Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.4,0.49,0.104534945361096,6,reviewed,pr,pr
@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T05:10:03.319Z,27.7363,56.1369,10,5.5,mww,109,38,2.78,0.74,us,us6000lg2t,2023-10-17T17:10:32.937Z,"62 km NNW of Bandar Abbas, Iran",earthquake,7.64,1.83,0.073,18,reviewed,us,us
 2023-10-17T05:07:10.930Z,18.511,-66.2081666666667,91.48,3.33,md,20,193,0.1757,0.16,pr,pr71428893,2023-10-17T19:57:24.931Z,"Puerto Rico region",earthquake,1.26,0.69,0.146366748096562,12,reviewed,pr,pr
 2023-10-17T04:59:22.660Z,27.7249,56.1166,10,5.1,mww,117,34,2.769,0.83,us,us6000lg2q,2023-10-17T23:45:30.732Z,"southern Iran",earthquake,6.42,1.793,0.08,15,reviewed,us,us
-2023-10-17T04:57:32.300Z,19.3696670532227,-155.289001464844,0.879999995231628,1.79,ml,13,136,,0.170000002,hv,hv73611172,2023-10-17T05:03:03.050Z,"9 km SW of Volcano, Hawaii",earthquake,0.42,0.360000014,0.15,3,automatic,hv,hv
-2023-10-17T04:56:06.592Z,65.4432,-148.2036,0,1.5,ml,,,,0.62,ak,ak023dboke8j,2023-10-17T04:58:18.477Z,"18 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
