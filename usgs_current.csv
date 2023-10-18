@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T17:13:45.980Z,19.2931671142578,-155.382339477539,1.35000002384186,1.70000005,md,24,161,,0.159999996,hv,hv73613512,2023-10-18T17:16:53.160Z,"14 km NE of Pāhala, Hawaii",earthquake,0.41,0.560000002,0.779999971,10,automatic,hv,hv
 2023-10-18T16:50:40.230Z,19.394832611084,-155.239669799805,1.35000002384186,2.46,ml,27,82,,0.280000001,hv,hv73613497,2023-10-18T16:56:11.530Z,"5 km S of Volcano, Hawaii",earthquake,0.4,0.330000013,2.02,12,automatic,hv,hv
 2023-10-18T16:49:31.657Z,-11.7451,166.4688,161.606,4.9,mb,62,74,6.808,0.6,us,us6000lgel,2023-10-18T17:05:57.040Z,"134 km SSE of Lata, Solomon Islands",earthquake,10.73,7.449,0.071,62,reviewed,us,us
-2023-10-18T16:29:14.940Z,38.1261673,-121.6323318,10.75,4.14,mw,156,28,,0.41,nc,nc73948665,2023-10-18T17:19:55.090Z,"4 km SSW of Isleton, CA",earthquake,0.36,0.69,,4,reviewed,nc,nc
+2023-10-18T16:29:14.940Z,38.1261673,-121.6323318,10.75,4.14,mw,156,28,,0.41,nc,nc73948665,2023-10-18T17:33:30.484Z,"4 km SSW of Isleton, CA",earthquake,0.36,0.69,,4,reviewed,nc,nc
 2023-10-18T16:19:13.100Z,44.7403333,-111.1811667,14.14,0.29,md,13,117,0.01498,0.17,uu,uu60552497,2023-10-18T16:50:40.280Z,"3 km SSE of Hebgen Lake Estates, Montana",earthquake,0.7,1.41,0.277,9,reviewed,uu,uu
 2023-10-18T16:18:16.401Z,59.4356,-154.5368,153.6,2.1,ml,,,,0.15,ak,ak023ddj0tjc,2023-10-18T16:19:45.858Z,"13 km E of Kokhanok, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2023-10-18T16:04:34.119Z,36.22266667,-95.84316667,0,1.3,ml,53,117,0.3149381984,0.46,ok,ok2023ulbs,2023-10-18T16:15:38.343Z,"5 km SSE of Owasso, Oklahoma",quarry blast,,0.5,0.16,23,reviewed,ok,ok
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T10:17:10.316Z,61.8133,-150.7389,52.3,1.5,ml,,,,0.52,ak,ak023ddffzpz,2023-10-18T10:19:00.739Z,"32 km NNW of Susitna, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-18T10:16:43.030Z,34.2293333,-118.6365,2.17,1.35,ml,33,55,0.03349,0.24,ci,ci40583712,2023-10-18T16:19:18.345Z,"4 km N of West Hills, CA",earthquake,0.23,0.32,0.14,21,reviewed,ci,ci
 2023-10-18T10:16:23.140Z,37.4853325,-118.8368301,5.12,1.26,md,17,230,0.1047,0.03,nc,nc73948595,2023-10-18T13:48:13.489Z,"16 km WSW of Toms Place, CA",earthquake,0.81,2.05,0.15,16,automatic,nc,nc
-2023-10-18T10:12:20.039Z,39.6297,-119.6434,10.8,2.1,ml,22,74.9,0.133,0.1605,nn,nn00867558,2023-10-18T17:23:38.969Z,"Nevada",earthquake,,1.7,0.34,10,reviewed,nn,nn
+2023-10-18T10:12:20.034Z,39.6297,-119.6426,10.8,2.1,ml,22,74.9,0.133,0.1517,nn,nn00867558,2023-10-18T17:30:00.057Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.3,0.34,10,reviewed,nn,nn
 2023-10-18T10:09:16.540Z,38.7876663,-122.7365036,1.59,2.12,md,35,54,0.02228,0.07,nc,nc73948585,2023-10-18T13:04:13.279Z,"2 km NE of The Geysers, CA",earthquake,0.23,0.37,0.15,34,automatic,nc,nc
 2023-10-18T10:05:23.160Z,31.673,-104.371,5.2061,3,ml(texnet),19,68,0,0.2,tx,tx2023ukqa,2023-10-18T15:03:06.628Z,"55 km S of Whites City, New Mexico",earthquake,0.8809051866,1.323224319,0.1,7,reviewed,tx,tx
 2023-10-18T10:03:33.588Z,61.6834,-151.73,100.6,1.9,ml,,,,0.48,ak,ak023ddfd1hq,2023-10-18T10:05:41.227Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -123,6 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T01:10:56.550Z,19.3148326873779,-155.300003051758,6.09999990463257,1.88999999,md,20,148,,0.219999999,hv,hv73612642,2023-10-18T01:13:55.470Z,"15 km SSW of Volcano, Hawaii",earthquake,0.68,1.11000001,0.600000024,14,automatic,hv,hv
 2023-10-18T01:10:42.070Z,34.0513333,-116.4158333,8.83,0.73,ml,22,43,0.028,0.13,ci,ci40583664,2023-10-18T14:45:55.588Z,"7 km SSE of Yucca Valley, CA",earthquake,0.21,0.45,0.059,6,reviewed,ci,ci
 2023-10-18T01:07:20.550Z,19.1838,-67.0321,58,3.68,md,17,229,0.8672,0.47,pr,pr2023291000,2023-10-18T02:04:42.516Z,"75 km N of Isabela, Puerto Rico",earthquake,2.95,7.88,0.06,13,reviewed,pr,pr
+2023-10-18T01:05:38.070Z,33.1871667,-115.6288333,2.09,1.27,ml,8,153,0.006618,0.11,ci,ci37580804,2023-10-18T17:29:42.478Z,"12 km WSW of Niland, CA",earthquake,0.63,0.24,0.089,1,reviewed,ci,ci
 2023-10-18T01:04:49.840Z,33.1888333,-115.6113333,2.8,1.57,ml,26,85,0.01101,0.21,ci,ci40583656,2023-10-18T17:24:00.353Z,"10 km WSW of Niland, CA",earthquake,0.23,0.19,0.24,25,reviewed,ci,ci
 2023-10-18T00:58:15.500Z,35.1743333333333,-84.5085,16.7,2.14,md,14,104,0.1575,0.06,se,se60555821,2023-10-18T11:53:57.190Z,"13 km E of Benton, Tennessee",earthquake,0.54,0.75,0.0744287502685621,13,reviewed,se,se
 2023-10-18T00:47:05.680Z,39.510334,-122.9998322,0.46,2.28,md,15,129,0.1516,0.07,nc,nc73948425,2023-10-18T04:35:15.366Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.34,8.19,0.08,12,automatic,nc,nc
