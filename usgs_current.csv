@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T03:43:39.600Z,39.4973335,-123.0046692,1.97,1.76,md,5,184,0.1532,0,nc,nc73948815,2023-10-19T04:00:18.536Z,"11 km NNW of Lake Pillsbury, CA",earthquake,1.28,4.37,0.02,3,automatic,nc,nc
 2023-10-19T03:08:29.599Z,64.8513,-149.064,16.2,1.3,ml,,,,0.16,ak,ak023deyrf0v,2023-10-19T03:11:05.825Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-19T03:03:06.090Z,38.8434982,-122.8781662,2.18,1.39,md,26,95,0.006693,0.03,nc,nc73948810,2023-10-19T03:23:27.340Z,"13 km ENE of Cloverdale, CA",earthquake,0.23,0.31,0.15,29,automatic,nc,nc
-2023-10-19T02:52:42.530Z,38.8144989,-122.8188324,2.59,0.93,md,12,75,0.009846,0.03,nc,nc73948805,2023-10-19T04:06:11.732Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.62,0.23,12,automatic,nc,nc
+2023-10-19T02:52:42.530Z,38.8144989,-122.8188324,2.59,0.93,md,12,75,0.009846,0.03,nc,nc73948805,2023-10-19T04:26:14.676Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.62,0.23,12,automatic,nc,nc
 2023-10-19T02:49:28.745Z,34.7134,61.961,10,4.1,mb,19,129,4.464,0.68,us,us6000lghy,2023-10-19T03:15:57.271Z,"30 km SE of Qarah Bāgh, Afghanistan",earthquake,11.25,1.979,0.174,9,reviewed,us,us
 2023-10-19T02:37:24.498Z,62.848,-150.6756,78.5,1.6,ml,,,,0.63,ak,ak023deyc6sh,2023-10-19T02:39:22.037Z,"39 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-19T02:31:56.869Z,-24.1807,-68.0881,117.199,4.4,mb,22,82,1.226,1.1,us,us6000lghw,2023-10-19T03:16:52.040Z,"Chile-Argentina border region",earthquake,4.68,7.92,0.169,10,reviewed,us,us
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T17:13:46.070Z,19.286,-155.3795,2.91,1.09,md,40,119,,0.1,hv,hv73613512,2023-10-18T19:50:33.710Z,"13 km NE of Pāhala, Hawaii",earthquake,0.26,0.68,0.11455868784886,5,reviewed,hv,hv
 2023-10-18T16:50:40.270Z,19.3903333333333,-155.244333333333,1.55,2.55,ml,32,101,,0.1,hv,hv73613497,2023-10-19T00:09:32.394Z,"5 km S of Volcano, Hawaii",earthquake,0.2,0.13,0.179730332850677,11,reviewed,hv,hv
 2023-10-18T16:49:31.657Z,-11.7451,166.4688,161.606,4.9,mb,62,74,6.808,0.6,us,us6000lgel,2023-10-18T17:05:57.040Z,"134 km SSE of Lata, Solomon Islands",earthquake,10.73,7.449,0.071,62,reviewed,us,us
-2023-10-18T16:29:14.990Z,38.127,-121.6428333,8.46,4.24,mw,157,20,0.04364,0.41,nc,nc73948665,2023-10-19T04:22:12.255Z,"5 km SW of Isleton, CA",earthquake,0.26,1.05,,4,reviewed,nc,nc
+2023-10-18T16:29:14.990Z,38.127,-121.6428333,8.46,4.24,mw,157,20,0.04364,0.41,nc,nc73948665,2023-10-19T04:27:13.601Z,"5 km SW of Isleton, CA",earthquake,0.26,1.05,,4,reviewed,nc,nc
 2023-10-18T16:27:36.202Z,42.8638,144.9372,70.986,4.4,mb,30,148,1.567,0.8,us,us6000lgej,2023-10-18T21:39:13.040Z,"20 km SSE of Akkeshi, Japan",earthquake,8.3,6.158,0.13,17,reviewed,us,us
 2023-10-18T16:19:13.100Z,44.7403333,-111.1811667,14.14,0.29,md,13,117,0.01498,0.17,uu,uu60552497,2023-10-18T16:50:40.280Z,"3 km SSE of Hebgen Lake Estates, Montana",earthquake,0.7,1.41,0.277,9,reviewed,uu,uu
 2023-10-18T16:18:49.364Z,29.6752,81.256,10,4.4,mb,22,116,7.876,0.78,us,us6000lgeh,2023-10-18T22:12:57.040Z,"55 km NE of Dipayal, Nepal",earthquake,7.86,1.937,0.204,7,reviewed,us,us
@@ -156,6 +156,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-18T05:19:36.272Z,36.6216,-116.2499,5.9,0.3,ml,23,108.61,0.075,0.0817,nn,nn00867549,2023-10-18T23:17:16.755Z,"51 km NNW of Pahrump, Nevada",earthquake,,1.1,0.51,9,reviewed,nn,nn
 2023-10-18T05:15:56.230Z,58.2306666666667,-155.154833333333,-1.65,-0.51,ml,4,222,,0.06,av,av91118628,2023-10-18T22:18:25.650Z,"84 km NNW of Karluk, Alaska",earthquake,0.56,4.29,0.175456106917452,4,reviewed,av,av
 2023-10-18T04:59:37.180Z,19.1895008087158,-155.429504394531,31.1900005340576,1.86000001,md,38,152,,0.109999999,hv,hv73612852,2023-10-18T05:03:05.170Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.56,0.920000017,0.920000017,3,automatic,hv,hv
-2023-10-18T04:30:42.930Z,37.7630005,-122.0078354,8.13,1.57,md,18,77,,0.07,nc,nc73948475,2023-10-18T17:59:10.682Z,"3 km SW of San Ramon, CA",earthquake,0.25,0.41,0.2,14,automatic,nc,nc
-2023-10-18T04:27:15.840Z,37.6188316,-122.3736649,11.58,1.34,md,11,140,0.05027,0.04,nc,nc73948470,2023-10-18T07:19:11.220Z,"2 km NNE of Millbrae, CA",earthquake,0.91,0.57,0.27,5,automatic,nc,nc
-2023-10-18T04:25:44.980Z,61.1921,-147.9466,19.3,1.2,ml,,,,0.96,ak,ak023ddbx6hu,2023-10-18T04:26:58.685Z,"59 km ESE of Knik River, Alaska",earthquake,,0.6,,,automatic,ak,ak
