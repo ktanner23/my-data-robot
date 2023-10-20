@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T16:05:08.204Z,-24.3367,-67.1274,156.414,4.5,mb,25,75,1.682,1.08,us,us6000lgyz,2023-10-20T16:24:20.040Z,"83 km W of San Antonio de los Cobres, Argentina",earthquake,9.17,5.742,0.191,14,reviewed,us,us
 2023-10-20T16:04:56.230Z,46.19433333333333,-122.19516666666667,0.89,0.07,ml,8,106,0.04701,0.07,uw,uw61958197,2023-10-20T19:14:06.460Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.31,0.06988532655281184,4,reviewed,uw,uw
 2023-10-20T15:59:54.332Z,39.6267,-119.6338,9.2,2.3,ml,24,108.87,0.127,0.1483,nn,nn00867669,2023-10-20T17:44:20.114Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1.3,0,1,reviewed,nn,nn
-2023-10-20T15:59:25.571Z,39.6274,-119.638,10,3,ml,30,73.28,0.135,0.1398,nn,nn00867659,2023-10-20T20:05:04.916Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1,0.34,11,reviewed,nn,nn
+2023-10-20T15:59:25.571Z,39.6274,-119.638,10,3,ml,30,73.28,0.135,0.1398,nn,nn00867659,2023-10-20T20:37:32.534Z,"6 km ESE of Spanish Springs, Nevada",earthquake,,1,0.34,11,reviewed,nn,nn
 2023-10-20T15:56:45.860Z,35.343,-118.4755,6.23,1.17,ml,24,71,0.06828,0.13,ci,ci40584600,2023-10-20T16:37:44.261Z,"24 km N of Tehachapi, CA",earthquake,0.2,0.39,0.157,9,reviewed,ci,ci
 2023-10-20T15:05:41.630Z,38.8388329,-122.8096695,1.98,0.72,md,12,56,0.0151,0.03,nc,nc73949350,2023-10-20T16:57:12.324Z,"8 km WNW of Cobb, CA",earthquake,0.3,1.01,0.1,11,automatic,nc,nc
 2023-10-20T14:56:05.520Z,38.7915001,-122.7171631,4.09,0.8,md,6,100,0.01737,0.02,nc,nc73949345,2023-10-20T16:35:20.201Z,"3 km NW of Anderson Springs, CA",earthquake,1.64,7.17,0.33,7,automatic,nc,nc
@@ -116,6 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T06:33:47.410Z,36.9126667,-121.5773333,7.07,1.8,md,56,59,0.0305,0.16,nc,nc73949240,2023-10-20T18:50:13.968Z,"6 km ENE of Aromas, CA",earthquake,0.24,0.4,0.193,49,reviewed,nc,nc
 2023-10-20T06:02:03.218Z,61.3714,-147.4113,19,1.8,ml,,,,0.64,ak,ak023dgo1q01,2023-10-20T06:03:52.606Z,"50 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-20T05:58:41.370Z,38.8409996,-122.8286667,2.47,0.73,md,5,129,0.005845,0.01,nc,nc73949235,2023-10-20T06:31:13.612Z,"9 km WNW of Cobb, CA",earthquake,1.47,3.22,0.17,7,automatic,nc,nc
+2023-10-20T05:48:03.120Z,51.971,-176.36,8.47,1.28,ml,10,140,,0.23,av,av92088821,2023-10-20T20:38:22.450Z,"21 km ENE of Adak, Alaska",earthquake,0.77,1.74,0.376508667558963,10,reviewed,av,av
 2023-10-20T05:46:51.650Z,36.519001,-120.5678329,5.84,2.07,md,32,169,0.2445,0.14,nc,nc73949230,2023-10-20T07:59:19.132Z,"15 km NE of New Idria, CA",earthquake,0.38,0.96,0.1,18,automatic,nc,nc
 2023-10-20T05:35:27.200Z,44.2063333333333,-115.111333333333,5.99,1.99,ml,11,73,0.2152,0.2,mb,mb90030508,2023-10-20T14:49:14.930Z,"13 km W of Stanley, Idaho",earthquake,0.41,2.89,0.263809365105919,13,reviewed,mb,mb
 2023-10-20T05:34:08.200Z,44.2216666666667,-115.111333333333,7.65,2.43,ml,17,71,0.2227,0.14,mb,mb90030488,2023-10-20T14:12:01.490Z,"13 km W of Stanley, Idaho",earthquake,0.36,0.67,0.271270842209018,26,reviewed,mb,mb
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T20:53:37.810Z,38.6759987,-122.4908371,7.43,1.41,md,5,159,0.08386,0,nc,nc73949080,2023-10-19T21:31:11.706Z,"12 km NNW of Angwin, CA",earthquake,0.59,2.36,0.18,8,automatic,nc,nc
 2023-10-19T20:50:39.200Z,33.6948333,-117.1461667,-0.54,0.86,ml,10,94,0.04209,0.1,ci,ci40584392,2023-10-19T21:13:55.434Z,"4 km S of Menifee, CA",quarry blast,0.3,31.61,0.199,6,reviewed,ci,ci
 2023-10-19T20:42:25.170Z,18.6301666666667,-64.8761666666667,75.33,3.16,md,8,291,0.2866,0.2,pr,pr71429268,2023-10-19T21:23:04.040Z,"32 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.47,1.39,0.17621005971648,7,reviewed,pr,pr
-2023-10-19T20:39:30.843Z,59.5591,-153.1319,94.6,1.8,ml,,,,0.37,ak,ak023df92flo,2023-10-19T20:41:58.904Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-10-19T20:34:48.050Z,52.058,-176.127333333333,-1.8,0.29,ml,6,91,,0.3,av,av91118743,2023-10-20T00:39:54.760Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.82,1.64,0.265472738176265,6,reviewed,av,av
