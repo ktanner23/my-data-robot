@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-20T19:40:06.940Z,38.8378334,-122.8356705,1.78,0.74,md,6,106,0.000768,0.01,nc,nc73949440,2023-10-20T19:41:40.574Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.02,0.47,8,automatic,nc,nc
-2023-10-20T19:37:44.930Z,38.8283348,-122.8554993,2.33,0.77,md,18,61,0.001332,0.02,nc,nc73949435,2023-10-20T19:39:20.799Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
+2023-10-20T19:55:27.841Z,59.6936,-138.9902,7.7,2.4,ml,,,,0.77,ak,ak023dgw3rps,2023-10-20T19:58:24.538Z,"44 km ENE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-20T19:55:24.040Z,38.8284988,-122.8219986,1.58,1,md,17,51,0.01062,0.02,nc,nc73949450,2023-10-20T19:57:02.152Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.43,0.09,18,automatic,nc,nc
+2023-10-20T19:45:30.050Z,17.9371666666667,-66.9435,10.89,2.81,md,20,202,0.04812,0.08,pr,pr71429333,2023-10-20T20:03:25.180Z,"5 km SW of Guánica, Puerto Rico",earthquake,0.4,0.32,0.0182322206546632,5,reviewed,pr,pr
+2023-10-20T19:40:06.940Z,38.8378334,-122.8356705,1.78,0.74,md,6,106,0.000768,0.01,nc,nc73949440,2023-10-20T20:01:10.414Z,"10 km NW of The Geysers, CA",earthquake,0.42,1.02,0.47,8,automatic,nc,nc
+2023-10-20T19:39:41.964Z,52.2896,-169.5049,45.087,4.3,mb,50,139,0.515,0.76,us,us6000lh09,2023-10-20T19:59:05.040Z,"84 km SSW of Nikolski, Alaska",earthquake,5.67,5.898,0.075,50,reviewed,us,us
+2023-10-20T19:37:44.930Z,38.8283348,-122.8554993,2.33,0.77,md,18,61,0.001332,0.02,nc,nc73949435,2023-10-20T19:56:10.387Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.46,0.17,18,automatic,nc,nc
 2023-10-20T19:36:47.290Z,38.796833,-122.7496643,1.3,1.35,md,19,95,0.008717,0.03,nc,nc73949430,2023-10-20T19:50:11.479Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.42,0.14,20,automatic,nc,nc
 2023-10-20T19:34:02.111Z,-5.4912,150.2567,124.504,4.9,mb,42,82,2.298,0.76,us,us6000lh06,2023-10-20T19:48:04.040Z,"New Britain region, Papua New Guinea",earthquake,10.89,7.699,0.102,30,reviewed,us,us
 2023-10-20T19:31:18.873Z,39.6205,-119.6508,4.2,1.3,ml,8,94.79,0.223,0.1031,nn,nn00867680,2023-10-20T19:33:19.855Z,"Nevada",earthquake,,4.2,0.37,5,automatic,nn,nn
@@ -27,7 +31,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T17:30:22.174Z,61.8438,-149.6906,43.3,1.3,ml,,,,0.52,ak,ak023dgurj61,2023-10-20T17:32:02.952Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-20T17:20:04.450Z,36.0323334,-120.609169,-0.75,1.4,md,9,122,0.03789,0.08,nc,nc73949410,2023-10-20T19:50:11.354Z,"22 km NW of Parkfield, CA",earthquake,1.13,5.62,0.12,3,automatic,nc,nc
 2023-10-20T17:19:35.830Z,38.8326683,-122.8136673,1.87,0.71,md,11,77,0.009676,0.01,nc,nc73949405,2023-10-20T17:56:13.656Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.84,0.1,11,automatic,nc,nc
-2023-10-20T17:12:08.568Z,58.2666,-154.9868,4.4,0.1,ml,,,,0.56,ak,ak023dgunn91,2023-10-20T17:14:46.754Z,"83 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-20T16:56:52.068Z,-22.1277,-67.3442,175.293,4.6,mb,40,34,1.126,1.12,us,us6000lgz3,2023-10-20T17:15:48.040Z,"123 km NE of San Pedro de Atacama, Chile",earthquake,7.05,6.733,0.071,59,reviewed,us,us
 2023-10-20T16:56:15.560Z,17.9285,-66.9458333333333,10.29,2.21,md,6,224,0.07849,0.08,pr,pr71429323,2023-10-20T17:30:29.820Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.68,0.63,0.0698669855390894,4,reviewed,pr,pr
 2023-10-20T16:55:29.969Z,32.5497,137.8991,348.92,4.4,mb,69,89,1.708,0.73,us,us6000lgz4,2023-10-20T17:08:55.040Z,"221 km SSE of Shima, Japan",earthquake,3.26,7.393,0.067,63,reviewed,us,us
@@ -175,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-20T00:03:42.049Z,63.0077,-151.5717,1.4,1.1,ml,,,,0.63,ak,ak023dgkhf32,2023-10-20T00:06:40.119Z,"59 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-20T00:02:02.710Z,35.2585,-98.02766667,9.22,1.85,ml,91,37,0.1601685695,0.23,ok,ok2023unmz,2023-10-20T12:50:43.083Z,"Oklahoma",earthquake,,1.3,0.24,41,reviewed,ok,ok
 2023-10-19T23:54:58.273Z,57.8914,-154.7884,56.1,1.4,ml,,,,0.22,ak,ak023dfay09v,2023-10-19T23:56:41.835Z,"41 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-19T23:52:05.720Z,38.0029984,-122.2829971,4.74,2.1,md,36,27,,0.08,nc,nc73949140,2023-10-20T04:27:12.003Z,"1 km E of Pinole, CA",earthquake,0.18,0.37,0.11,27,automatic,nc,nc
+2023-10-19T23:52:05.720Z,38.0029984,-122.2829971,4.74,2.1,md,36,27,,0.08,nc,nc73949140,2023-10-20T20:04:45.639Z,"1 km E of Pinole, CA",earthquake,0.18,0.37,0.11,27,automatic,nc,nc
 2023-10-19T23:47:11.350Z,58.1761666666667,-155.360166666667,1.74,-0.24,ml,8,122,,0.06,av,av91118753,2023-10-20T01:28:18.010Z,"86 km NW of Karluk, Alaska",earthquake,0.27,0.46,0.200339587798505,8,reviewed,av,av
 2023-10-19T23:44:10.820Z,18.1543333333333,-66.4086666666667,6.96,2.31,md,8,116,0.1692,0.33,pr,pr71429283,2023-10-20T00:12:41.560Z,"Puerto Rico region",earthquake,0.86,0.9,0.166001620969033,4,reviewed,pr,pr
 2023-10-19T23:33:32.319Z,-49.4107,30.3424,10,4.9,mb,36,72,14.725,0.41,us,us6000lgrl,2023-10-20T00:07:50.040Z,"south of Africa",earthquake,5.7,1.876,0.094,35,reviewed,us,us
@@ -213,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-19T20:24:26.850Z,46.10333333333333,-119.168,7.73,1.54,ml,12,177,0.1528,0.19,uw,uw61958017,2023-10-19T23:13:10.860Z,"5 km SW of Highland, Washington",earthquake,0.83,1.33,0.16490639041726673,11,reviewed,uw,uw
 2023-10-19T20:17:32.670Z,46.47383333333333,-122.26466666666667,16.39,0.41000000000000003,ml,11,198,0.0847,0.08,uw,uw61958012,2023-10-20T04:37:26.290Z,"9 km S of Morton, Washington",earthquake,0.63,0.94,0.08402617393904438,6,reviewed,uw,uw
 2023-10-19T20:15:22.489Z,62.4631,-149.3071,5.6,2.2,ml,,,,0.32,ak,ak023df8x9rs,2023-10-19T20:17:02.012Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-19T20:00:24.890Z,61.0377,-148.4177,0.9,1.8,ml,,,,0.58,ak,ak023df8u27t,2023-10-19T20:02:03.587Z,"32 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
