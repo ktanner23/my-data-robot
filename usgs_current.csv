@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-22T17:19:04.252Z,37.0633,-115.641,0.8,1.2,ml,13,282.43,0.266,0.3036,nn,nn00867751,2023-10-22T17:21:11.654Z,"53 km SW of Alamo, Nevada",earthquake,,0.1,1.06,9,automatic,nn,nn
+2023-10-22T17:16:30.330Z,34.3143333,-117.282,16.68,1.05,ml,14,169,0.1742,0.25,ci,ci40584936,2023-10-22T17:20:03.366Z,"8 km N of Crestline, CA",earthquake,1.07,2.92,0.23,18,automatic,ci,ci
+2023-10-22T17:14:39.796Z,64.2393,-147.7563,11,1.8,ml,,,,0.26,ak,ak023dk5qt19,2023-10-22T17:16:55.279Z,"52 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-22T17:03:34.530Z,19.3518333435059,-155.307327270508,2.13000011444092,2.06,ml,39,48,,0.230000004,hv,hv73618332,2023-10-22T17:09:05.310Z,"12 km SW of Volcano, Hawaii",earthquake,0.35,0.620000005,1.66,15,automatic,hv,hv
 2023-10-22T16:53:48.890Z,19.3781661987305,-155.278839111328,1.19000005722046,1.85,ml,18,85,,0.119999997,hv,hv73618297,2023-10-22T16:59:19.060Z,"8 km SSW of Volcano, Hawaii",earthquake,0.2,0.219999999,0.31,8,automatic,hv,hv
 2023-10-22T16:45:01.250Z,19.1403331756592,-155.399337768555,31.1200008392334,1.78,ml,46,178,,0.109999999,hv,hv73618287,2023-10-22T16:50:33.060Z,"10 km SE of Pāhala, Hawaii",earthquake,0.56,0.720000029,4.97,5,automatic,hv,hv
@@ -76,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T08:18:53.700Z,19.1371669769287,-155.482162475586,10.9899997711182,2.18,ml,40,166,,0.219999999,hv,hv73617607,2023-10-22T09:00:57.040Z,"7 km S of Pāhala, Hawaii",earthquake,0.57,0.439999998,4.32,10,automatic,hv,hv
 2023-10-22T08:14:15.280Z,35.263,-118.642,7.63,1.2,ml,17,97,0.04981,0.17,ci,ci40584856,2023-10-22T13:41:11.764Z,"18 km ENE of Arvin, CA",earthquake,0.35,0.93,0.119,11,reviewed,ci,ci
 2023-10-22T08:13:38.944Z,38.9069,22.3607,13.874,4.3,mb,47,54,1.199,0.56,us,us6000lh9v,2023-10-22T08:38:44.040Z,"1 km NW of Stavrós, Greece",earthquake,4.74,4.599,0.168,10,reviewed,us,us
-2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-22T17:09:13.442Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
+2023-10-22T08:10:19.060Z,38.0423333333333,-79.0508333333333,3.49,2.42,md,11,54,0.2917,0.12,se,se60501213,2023-10-22T17:21:29.321Z,"2 km NW of Stuarts Draft, Virginia",earthquake,0.36,1.12,0.12850169824745,10,reviewed,se,se
 2023-10-22T08:04:50.658Z,61.6379,-148.8423,14.2,1.1,ml,,,,0.26,ak,ak023dk0btah,2023-10-22T08:06:20.170Z,"5 km ENE of Lazy Mountain, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-22T07:48:45.010Z,18.2975,-67.2995,80.54,3.33,md,15,151,0.06171,0.34,pr,pr71429433,2023-10-22T08:49:40.040Z,"6 km WSW of Stella, Puerto Rico",earthquake,1.88,1.35,0.140655110797906,7,reviewed,pr,pr
 2023-10-22T07:34:55.486Z,60.0323,-153.3551,91.6,2.4,ml,,,,0.49,ak,ak023djzwtjg,2023-10-22T07:37:25.557Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,3.4,,,automatic,ak,ak
@@ -92,8 +95,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T06:12:00.580Z,36.8785019,-121.1383362,10.04,1.75,md,6,162,0.3023,0.05,nc,nc73949930,2023-10-22T07:37:11.065Z,"19 km ENE of Tres Pinos, CA",earthquake,0.73,1.92,0.29,2,automatic,nc,nc
 2023-10-22T06:11:38.561Z,60.3315,-151.3592,42.4,1.3,ml,,,,0.18,ak,ak023djz6f5s,2023-10-22T06:12:50.723Z,"Kenai Peninsula, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2023-10-22T06:04:38.750Z,38.8238335,-122.7935028,2.78,1.05,md,19,42,0.01295,0.02,nc,nc73949925,2023-10-22T07:10:10.917Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.49,0.19,17,automatic,nc,nc
-2023-10-22T05:45:30.303Z,58.1681,-155.4119,0.3,0.5,ml,,,,1.04,ak,ak023djys99i,2023-10-22T05:46:59.400Z,"87 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-22T05:32:12.654Z,59.539,-152.4516,50.7,1.3,ml,,,,0.13,ak,ak023djypfld,2023-10-22T05:34:45.998Z,"36 km NW of Nanwalek, Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-10-22T05:31:17.804Z,60.987,-147.2131,25.9,1.2,ml,,,,0.38,ak,ak023djyp89w,2023-10-22T05:32:54.116Z,"32 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-22T05:27:25.000Z,34.4191667,-119.1575,3.24,1.61,ml,38,60,0.02423,0.28,ci,ci40584840,2023-10-22T16:23:42.048Z,"8 km ESE of Ojai, CA",earthquake,0.29,0.4,0.127,21,reviewed,ci,ci
 2023-10-22T05:23:18.437Z,60.2054,-141.6768,0,1.3,ml,,,,0.54,ak,ak023djynign,2023-10-22T05:25:35.660Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -195,7 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T18:37:51.470Z,19.3753333333333,-155.248333333333,1.15,0.35,md,14,113,,0.12,hv,hv73616647,2023-10-21T21:37:57.170Z,"7 km SSW of Volcano, Hawaii",earthquake,0.33,0.22,0.31139668212805,2,reviewed,hv,hv
 2023-10-21T18:33:25.289Z,62.8926,-148.3291,4,1.5,ml,,,,0.66,ak,ak023diiwynk,2023-10-21T18:35:17.579Z,"63 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-21T18:25:11.020Z,18.8128333333333,-66.4413333333333,30.03,2.53,md,7,280,0.497,0.06,pr,pr71429398,2023-10-21T18:56:30.120Z,"39 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.97,3.76,0.0830949448418332,3,reviewed,pr,pr
-2023-10-21T18:02:08.081Z,36.6967,-116.3344,8.7,0,ml,18,116.42,0.029,0.1045,nn,nn00867727,2023-10-22T00:13:52.660Z,"44 km ESE of Beatty, Nevada",earthquake,,0.8,0.58,4,reviewed,nn,nn
+2023-10-21T18:02:08.081Z,36.6967,-116.3344,8.7,0,ml,18,116.42,0.029,0.1045,nn,nn00867727,2023-10-22T00:13:52.660Z,"California-Nevada border region",earthquake,,0.8,0.58,4,reviewed,nn,nn
 2023-10-21T17:49:18.870Z,38.7941666,-122.8101654,3.09,1.1,md,17,76,0.008047,0.02,nc,nc73949740,2023-10-21T19:03:14.718Z,"5 km WNW of The Geysers, CA",earthquake,0.3,0.54,0.17,22,automatic,nc,nc
 2023-10-21T17:44:36.590Z,19.388500213623,-155.277160644531,1.11000001430511,1.75,md,15,123,,0.129999995,hv,hv73616567,2023-10-21T17:47:38.540Z,"Island of Hawaii, Hawaii",earthquake,0.28,0.25999999,0.519999981,12,automatic,hv,hv
 2023-10-21T17:43:06.220Z,19.3635005950928,-155.302673339844,1.76999998092651,1.82000005,md,12,192,,0.100000001,hv,hv73616562,2023-10-21T17:46:07.560Z,"11 km SW of Volcano, Hawaii",earthquake,0.38,0.479999989,0.939999998,12,automatic,hv,hv
