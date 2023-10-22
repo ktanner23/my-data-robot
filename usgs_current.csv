@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-22T04:06:43.351Z,60.2738,-152.4708,100,3.7,ml,,,,0.74,ak,ak023djxyhod,2023-10-22T04:24:05.964Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2023-10-22T04:32:39.710Z,34.3395004,-116.8683319,1.22,1.21,ml,21,57,0.08839,0.15,ci,ci40584832,2023-10-22T04:34:45.104Z,"9 km NNW of Big Bear City, CA",earthquake,0.28,0.44,0.239,2,automatic,ci,ci
+2023-10-22T04:06:43.351Z,60.2738,-152.4708,100,3.7,ml,,,,0.74,ak,ak023djxyhod,2023-10-22T04:32:52.040Z,"51 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-10-22T04:06:26.490Z,33.6366667,-116.7063333,13.67,1.75,ml,49,28,0.07563,0.19,ci,ci40584824,2023-10-22T04:17:01.090Z,"10 km NNW of Anza, CA",earthquake,0.21,0.36,0.209,26,automatic,ci,ci
 2023-10-22T03:59:01.701Z,51.9738,-169.6839,55.5,3.8,ml,,,,0.88,ak,ak023djxo8kv,2023-10-22T04:14:23.874Z,"121 km SSW of Nikolski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-22T03:58:48.300Z,19.4060001373291,-155.840667724609,5.09000015258789,1.78999996,md,20,208,,0.230000004,hv,hv73617347,2023-10-22T04:02:04.110Z,"6 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,1.05,1.04999995,,5,automatic,hv,hv
@@ -16,9 +17,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T02:33:06.080Z,38.7804985,-122.7568359,1.39,1.08,md,12,80,0.01595,0.02,nc,nc73949875,2023-10-22T03:19:10.661Z,"0 km N of The Geysers, CA",earthquake,0.27,0.59,0.21,13,automatic,nc,nc
 2023-10-22T02:18:06.230Z,60.2971,-152.2235,88.1,1.4,ml,,,,0.31,ak,ak023djwu49b,2023-10-22T02:20:11.370Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-22T02:15:22.190Z,34.1425,-117.3428333,2.8,1.5,ml,48,27,0.06635,0.22,ci,ci40584816,2023-10-22T02:19:17.657Z,"1 km S of Muscoy, CA",earthquake,0.22,0.51,0.156,27,automatic,ci,ci
-2023-10-22T02:14:30.606Z,62.5655,-148.9163,249.8,2.2,ml,,,,1.18,ak,ak023djwtb9w,2023-10-22T02:23:28.248Z,"62 km ENE of Chase, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2023-10-22T02:05:15.172Z,16.3143,-99.0333,10,4.9,mb,60,209,1.321,1.16,us,us6000lh8d,2023-10-22T03:47:10.315Z,"33 km S of Copala, Mexico",earthquake,8.94,1.971,0.027,426,reviewed,us,us
-2023-10-22T01:54:20.970Z,27.8679,84.7191,24.684,5.2,mb,82,40,1.854,0.76,us,us6000lh8c,2023-10-22T03:48:25.772Z,"Nepal-India border region",earthquake,6.48,4.975,0.049,139,reviewed,us,us
+2023-10-22T01:54:20.970Z,27.8679,84.7191,24.684,5.2,mb,82,40,1.854,0.76,us,us6000lh8c,2023-10-22T04:33:19.410Z,"Nepal-India border region",earthquake,6.48,4.975,0.049,139,reviewed,us,us
 2023-10-22T01:46:19.839Z,61.7349,-146.6042,73.3,1.5,ml,,,,1.18,ak,ak023djwepr3,2023-10-22T01:48:48.194Z,"29 km SSE of Nelchina, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-10-22T01:30:35.980Z,33.6945,-116.8088333,16.63,1.68,ml,51,21,0.07208,0.19,ci,ci40584808,2023-10-22T01:41:31.390Z,"10 km WSW of Idyllwild, CA",earthquake,0.22,0.44,0.289,26,automatic,ci,ci
 2023-10-22T01:21:57.997Z,62.1738,-150.7181,56.4,2.4,ml,,,,0.61,ak,ak023djw9frt,2023-10-22T01:41:19.040Z,"29 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -134,7 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T12:04:56.360Z,-8.1326,118.0666,10,4.7,mb,28,77,0.748,0.59,us,us6000lh5c,2023-10-21T12:24:51.040Z,"62 km NW of Dompu, Indonesia",earthquake,5.17,1.837,0.12,23,reviewed,us,us
 2023-10-21T12:03:07.200Z,36.7550011,-121.3991699,9.05,1.26,md,13,64,0.06129,0.16,nc,nc73949675,2023-10-21T13:30:10.748Z,"7 km SSW of Ridgemark, CA",earthquake,0.52,1.51,0.16,10,automatic,nc,nc
 2023-10-21T11:53:28.824Z,66.0255,-153.7036,0,2.7,ml,,,,0.67,ak,ak023diev80i,2023-10-21T12:40:41.040Z,"25 km E of Hughes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-10-21T11:46:47.293Z,39.1269,-119.6584,11.3,0.2,ml,6,154.02,0.058,0.1513,nn,nn00867726,2023-10-22T00:07:27.956Z,"Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
+2023-10-21T11:46:47.293Z,39.1269,-119.6584,11.3,0.2,ml,6,154.02,0.058,0.1513,nn,nn00867726,2023-10-22T00:07:27.956Z,"10 km ESE of Carson City, Nevada",earthquake,,1.8,0,1,reviewed,nn,nn
 2023-10-21T11:45:17.810Z,39.5061684,-123.0068359,2.67,2.43,md,24,102,0.1481,0.1,nc,nc73949670,2023-10-22T00:04:19.167Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.27,1.75,0.06,21,automatic,nc,nc
 2023-10-21T11:23:34.960Z,19.195499420166,-155.494003295898,31.9899997711182,1.82000005,md,44,74,,0.119999997,hv,hv73616007,2023-10-21T11:26:54.400Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.370000005,9,automatic,hv,hv
 2023-10-21T11:23:15.150Z,38.8144989,-122.8160019,2.84,0.92,md,13,84,0.01002,0.01,nc,nc73949665,2023-10-21T12:49:10.491Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.87,0.2,15,automatic,nc,nc
@@ -194,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T04:57:05.929Z,63.2094,-150.7126,136.7,1.5,ml,,,,0.23,ak,ak023diapzvk,2023-10-21T04:59:01.453Z,"62 km SE of Denali National Park, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-10-21T04:52:39.620Z,39.4873333,-123.3038333,8.7,1.82,md,27,45,0.03181,0.09,nc,nc73949600,2023-10-21T08:21:14.801Z,"8 km NE of Brooktrails, CA",earthquake,0.2,0.35,0.125,27,reviewed,nc,nc
 2023-10-21T04:46:29.420Z,32.9405,-116.2513333,12.13,1.74,ml,43,57,0.04597,0.2,ci,ci40584720,2023-10-21T04:58:00.420Z,"25 km SSW of Ocotillo Wells, CA",earthquake,0.27,0.67,0.099,26,automatic,ci,ci
-2023-10-21T04:31:25.563Z,60.1425,-139.8605,2.7,1.5,ml,,,,1.25,ak,ak023diakgrw,2023-10-21T04:33:01.774Z,"66 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-10-21T04:27:08.376Z,14.849,-87.4989,10,4.4,mb,28,65,0.817,1.08,us,us6000lh2y,2023-10-21T11:08:03.258Z,"14 km NW of San Luis, Honduras",earthquake,5.41,1.931,0.098,31,reviewed,us,us
