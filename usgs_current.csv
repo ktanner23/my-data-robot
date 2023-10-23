@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T23:12:43.200Z,19.1898326873779,-155.501495361328,33.9500007629395,1.84,ml,44,137,,0.109999999,hv,hv73621317,2023-10-23T23:18:15.220Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.46,0.689999998,4.32,4,automatic,hv,hv
 2023-10-23T23:08:22.014Z,59.574,-152.9986,96.6,1.6,ml,,,,0.39,ak,ak023dlwtgih,2023-10-23T23:10:49.632Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-23T23:06:01.778Z,57.6431,-156.4566,250,1.6,ml,,,,0.91,ak,ak023dlwszip,2023-10-23T23:07:55.747Z,"58 km ENE of Ugashik, Alaska",earthquake,,24.3,,,automatic,ak,ak
-2023-10-23T23:05:25.506Z,24.0602,122.6461,35.161,5.9,mww,106,35,0.525,1.2,us,us7000l5vd,2023-10-23T23:21:39.531Z,"57 km SW of Yonakuni, Japan",earthquake,4.44,5.646,0.06,27,reviewed,us,us
+2023-10-23T23:05:25.506Z,24.0602,122.6461,35.161,5.9,mww,106,35,0.525,1.2,us,us7000l5vd,2023-10-23T23:26:37.049Z,"57 km SW of Yonakuni, Japan",earthquake,4.44,5.646,0.06,27,reviewed,us,us
 2023-10-23T23:02:13.763Z,-29.8963,-177.5052,37.281,5.2,mb,33,115,0.728,0.64,us,us7000l5vb,2023-10-23T23:17:47.040Z,"Kermadec Islands, New Zealand",earthquake,10.25,6.826,0.066,75,reviewed,us,us
 2023-10-23T22:57:05.680Z,18.007,-66.8091666666667,16.65,2.32,md,13,171,0.02119,0.14,pr,pr71429663,2023-10-23T23:06:40.020Z,"1 km NE of Indios, Puerto Rico",earthquake,0.45,0.73,0.0987914222126705,5,reviewed,pr,pr
 2023-10-23T22:50:44.890Z,33.0438333,-115.9913333,3.41,1.34,ml,27,43,0.1298,0.3,ci,ci40585792,2023-10-23T22:54:13.344Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.47,2.32,0.121,26,automatic,ci,ci
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T12:28:56.994Z,36.7958,-115.969,5.7,0,ml,12,138.79,0.021,0.1738,nn,nn00867780,2023-10-23T16:36:36.956Z,"36 km NW of Indian Springs, Nevada",earthquake,,3.4,0.3,7,reviewed,nn,nn
 2023-10-23T12:13:57.880Z,46.204,-122.19733333333333,2.57,0.32,ml,12,85,0.009055,0.11,uw,uw61502838,2023-10-23T17:35:42.040Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.64,0.06803047586339353,3,reviewed,uw,uw
 2023-10-23T12:13:31.810Z,46.199333333333335,-122.199,2.4,0.21,ml,13,79,0.009417,0.16,uw,uw61958822,2023-10-23T17:31:34.710Z,"Washington",earthquake,0.39,0.58,0.10420289591367204,3,reviewed,uw,uw
-2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"39 km S of Mina, Nevada",earthquake,,1.3,0.18,8,reviewed,nn,nn
+2023-10-23T11:38:51.082Z,38.0347,-118.1121,15.3,1.5,ml,13,64.42,0.193,0.1547,nn,nn00867771,2023-10-23T20:17:15.276Z,"California-Nevada border region",earthquake,,1.3,0.18,8,reviewed,nn,nn
 2023-10-23T09:15:39.405Z,31.665,-104.497,5.6688,2.1,ml(texnet),19,71,0,0.2,tx,tx2023utrt,2023-10-23T19:59:28.822Z,"57 km SSW of Whites City, New Mexico",earthquake,1.511228414,0.7636279723,0.1,7,reviewed,tx,tx
 2023-10-23T09:07:04.682Z,40.0222,-119.5924,9,0.5,ml,4,188.74,0.183,0.0255,nn,nn00867779,2023-10-23T16:30:17.708Z,"8 km N of Sutcliffe, Nevada",earthquake,,6.7,0.09,3,reviewed,nn,nn
 2023-10-23T08:57:03.760Z,46.1955,-122.18983333333334,3.55,0.04,ml,13,127,0.005582,0.11,uw,uw61958802,2023-10-23T16:18:18.070Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.52,0.08325898484597666,8,reviewed,uw,uw
@@ -159,6 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T23:52:51.450Z,40.1990013,-121.145668,0.82,2.24,md,9,149,0.2344,0.17,nc,nc73950145,2023-10-23T00:15:10.742Z,"1 km SE of Prattville, CA",earthquake,0.68,11.79,0.04,6,automatic,nc,nc
 2023-10-22T23:46:17.900Z,19.2636661529541,-155.383666992188,30.25,1.98000002,md,44,138,,0.119999997,hv,hv73619062,2023-10-22T23:49:30.520Z,"12 km NE of Pāhala, Hawaii",earthquake,0.51,0.720000029,1.28999996,18,automatic,hv,hv
 2023-10-22T23:32:36.320Z,53.9186666666667,-167.9735,7.89,2.01,ml,14,159,,0.11,av,av91118918,2023-10-23T22:22:51.010Z,"94 km W of Dutch Harbor, Alaska",earthquake,1.39,1.02,0.337665809315529,15,reviewed,av,av
-2023-10-22T23:25:11.939Z,31.6959,-103.9923,11.895,2.5,ml,43,50,0.073,0.88,us,us6000lhde,2023-10-22T23:37:33.040Z,"37 km W of Mentone, Texas",earthquake,1.83,7.349,0.055,62,reviewed,us,us
-2023-10-22T23:25:11.155Z,61.383,-150.7612,40.3,1.2,ml,,,,0.77,ak,ak023dk9dqcr,2023-10-22T23:31:59.263Z,"Southern Alaska",earthquake,,8.3,,,automatic,ak,ak
-2023-10-22T23:23:08.260Z,38.8193321,-122.7935028,2.8,1.26,md,26,37,0.01143,0.02,nc,nc73950140,2023-10-22T23:59:12.786Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.22,27,automatic,nc,nc
