@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-24T20:06:36.715Z,62.1265,-148.6457,35.5,1.2,ml,,,,0.31,ak,ak023dnik3w7,2023-10-24T20:08:08.722Z,"37 km NNW of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-10-24T20:03:00.010Z,17.9143333333333,-66.2846666666667,14.58,1.88,md,8,227,0.1235,0.15,pr,pr71429748,2023-10-24T20:12:36.350Z,"7 km SSE of Salinas, Puerto Rico",earthquake,0.76,1.23,0.0749050420616575,5,reviewed,pr,pr
 2023-10-24T19:57:16.040Z,19.3533325195312,-155.283828735352,3.05999994277954,1.79,ml,15,139,,0.150000006,hv,hv73622642,2023-10-24T20:02:46.910Z,"11 km SSW of Volcano, Hawaii",earthquake,0.42,0.819999993,0.35,6,automatic,hv,hv
 2023-10-24T19:53:01.676Z,37.308,-117.6056,5.4,2.2,ml,12,99.7,0.082,0.2405,nn,nn00867834,2023-10-24T19:55:20.467Z,"49 km S of Silver Peak, Nevada",earthquake,,1.6,0.52,10,automatic,nn,nn
 2023-10-24T19:51:04.720Z,32.7558333,-115.4201667,16.35,2.67,ml,27,66,0.05421,0.27,ci,ci40586488,2023-10-24T20:01:48.440Z,"7 km SSW of Holtville, CA",earthquake,0.5,0.86,0.123,26,automatic,ci,ci
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T19:03:30.230Z,45.36149978637695,-121.70500183105469,0.819999992847443,1.6133557558059692,ml,8,86,0.03241,0.0500000007,uw,uw61959072,2023-10-24T19:06:43.430Z,"7 km NNE of Government Camp, Oregon",earthquake,0.36,0.419999987,0.419586181640625,7,reviewed,uw,uw
 2023-10-24T18:57:26.740Z,35.9015,-117.7506667,8.74,0.75,ml,12,112,0.07241,0.09,ci,ci40586408,2023-10-24T19:31:25.073Z,"15 km ESE of Little Lake, CA",earthquake,0.25,0.5,0.207,3,reviewed,ci,ci
 2023-10-24T18:57:22.220Z,19.1588325500488,-155.473159790039,33.4300003051758,2.17000008,md,39,118,,0.100000001,hv,hv73622567,2023-10-24T19:00:40.750Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.910000026,1.55999994,20,automatic,hv,hv
-2023-10-24T18:55:28.510Z,34.9871667,-118.1995,0.18,1.32,ml,18,61,0.1107,0.3,ci,ci40586400,2023-10-24T18:59:07.951Z,"8 km SSW of Mojave, CA",earthquake,0.52,31.61,0.188,12,automatic,ci,ci
+2023-10-24T18:55:27.970Z,34.9901667,-118.1916667,-0.9,1.42,ml,21,58,0.1152,0.21,ci,ci40586400,2023-10-24T20:06:54.275Z,"7 km SSW of Mojave, CA",quarry blast,0.45,31.61,0.184,14,reviewed,ci,ci
 2023-10-24T18:53:51.540Z,37.8761673,-122.2531662,8.81,1.74,md,36,33,,0.04,nc,nc73950860,2023-10-24T19:06:10.475Z,"2 km ENE of Berkeley, CA",earthquake,0.15,0.29,0.25,21,automatic,nc,nc
 2023-10-24T18:49:30.010Z,38.8396683,-122.840332,2.08,0.61,md,11,118,0.003934,0.03,nc,nc73950855,2023-10-24T19:00:10.449Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.77,0.23,13,automatic,nc,nc
 2023-10-24T18:40:09.380Z,38.7896652,-122.7683334,1.24,0.84,md,14,79,0.01285,0.02,nc,nc73950845,2023-10-24T18:50:10.392Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.55,0.25,16,automatic,nc,nc
@@ -235,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T20:28:18.760Z,35.959,-117.4908333,0.78,1.92,ml,18,125,0.1816,0.18,ci,ci40585696,2023-10-23T20:53:14.709Z,"23 km NNW of Searles Valley, CA",earthquake,0.4,1.09,0.263,21,reviewed,ci,ci
 2023-10-23T20:25:13.890Z,38.0955,-112.7606667,0.88,1.3,md,14,104,0.1871,0.15,uu,uu60552782,2023-10-23T20:54:17.910Z,"Utah",earthquake,0.39,1.79,0.2,9,reviewed,uu,uu
 2023-10-23T20:16:51.900Z,33.8425,-117.4938333,-0.51,1.65,ml,54,50,0.04772,0.24,ci,ci40585664,2023-10-24T14:37:59.846Z,"5 km SSE of Home Gardens, CA",quarry blast,0.33,31.61,0.214,47,reviewed,ci,ci
-2023-10-23T20:12:13.130Z,18.8763333333333,-67.1768333333333,20.77,3.04,md,9,272,0.5671,0.12,pr,pr71429633,2023-10-23T20:30:01.610Z,"Mona Passage",earthquake,0.82,10.93,0.0405422193152261,4,reviewed,pr,pr
-2023-10-23T20:05:46.222Z,43.0859,144.9905,103.282,4.2,mb,31,192,1.727,0.39,us,us7000l5ug,2023-10-24T14:08:57.983Z,"12 km ENE of Akkeshi, Japan",earthquake,5.85,10.211,0.104,26,reviewed,us,us
-2023-10-23T20:05:42.840Z,59.2181,-148.1516,24.8,1.8,ml,,,,0.84,ak,ak023dlv0kj8,2023-10-24T06:53:10.944Z,"94 km S of Chenega, Alaska",earthquake,,2.8,,,reviewed,ak,ak
