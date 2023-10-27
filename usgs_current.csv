@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-27T07:22:13.700Z,38.8408318,-122.8366699,1.68,0.76,md,13,123,0.01729,0.01,nc,nc73951990,2023-10-27T07:53:11.987Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.57,0.17,13,automatic,nc,nc
 2023-10-27T07:19:16.940Z,18.0118333333333,-66.8076666666667,13.11,2.15,md,13,162,0.07733,0.18,pr,pr71429983,2023-10-27T07:29:28.170Z,"1 km WSW of Guayanilla, Puerto Rico",earthquake,0.48,0.55,0.21043874691185,6,reviewed,pr,pr
 2023-10-27T06:54:56.488Z,59.8394,-151.8612,61.7,3.1,ml,,,,0.16,ak,ak023ds94esw,2023-10-27T07:10:17.901Z,"7 km NNW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-10-27T06:53:46.630Z,37.5805,-119.4926667,6.5,1.25,md,16,127,0.2563,0.08,nc,nc73951980,2023-10-27T09:36:10.423Z,"19 km SSE of Yosemite Valley, CA",earthquake,0.61,3.25,0.243,12,reviewed,nc,nc
+2023-10-27T06:53:46.630Z,37.5805,-119.4926667,6.5,1.25,md,16,127,0.2563,0.08,nc,nc73951980,2023-10-27T11:42:11.124Z,"19 km SSE of Yosemite Valley, CA",earthquake,0.61,3.25,0.243,12,reviewed,nc,nc
 2023-10-27T06:49:30.210Z,18.0145,-66.8121666666667,15.64,2.59,md,24,145,0.02038,0.2,pr,pr71429973,2023-10-27T07:19:40.460Z,"2 km WSW of Guayanilla, Puerto Rico",earthquake,0.36,0.48,0.201346700892214,9,reviewed,pr,pr
 2023-10-27T06:45:59.499Z,61.6151,-149.8406,55.7,1.1,ml,,,,0.2,ak,ak023ds92hl9,2023-10-27T06:47:10.621Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-10-27T06:45:48.720Z,33.9725,-116.7983333,17.64,0.64,ml,18,105,0.1386,0.15,ci,ci40589048,2023-10-27T06:49:32.793Z,"6 km N of Cabazon, CA",earthquake,0.49,0.82,0.177,16,automatic,ci,ci
@@ -164,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T20:31:16.060Z,38.8181648,-122.8181686,2.51,0.77,md,12,90,0.008201,0.01,nc,nc73951755,2023-10-26T20:41:12.081Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.99,0.24,13,automatic,nc,nc
 2023-10-26T20:24:09.880Z,19.1813335418701,-155.436340332031,30.8999996185303,2.23000002,md,23,166,,0.300000012,hv,hv73625907,2023-10-26T20:27:11.090Z,"5 km ESE of Pāhala, Hawaii",earthquake,1.6,3.55999994,1.26999998,3,automatic,hv,hv
 2023-10-26T20:22:18.510Z,19.1095,-155.427166666667,35.27,1.92,ml,25,195,,0.14,hv,hv73625902,2023-10-26T20:58:10.760Z,"11 km SSE of Pāhala, Hawaii",earthquake,1.13,0.69,0.0580264807875968,3,reviewed,hv,hv
-2023-10-26T20:21:57.269Z,64.6653,-150.9739,13.4,1.4,ml,,,,0.62,ak,ak023dqtq27i,2023-10-26T20:23:29.629Z,"40 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-26T20:21:57.269Z,64.6653,-150.9739,13.4,1.4,ml,,,,0.62,ak,ak023dqtq27i,2023-10-26T20:23:29.629Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-26T20:14:28.790Z,19.3611666666667,-155.293166666667,1.47,0.98,md,21,111,,0.11,hv,hv73625887,2023-10-26T20:41:35.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.19,0.28,0.15983738423896,3,reviewed,hv,hv
 2023-10-26T20:10:59.410Z,35.7975,-118.3031667,3.34,1.56,ml,34,43,0.1087,0.15,ci,ci40588624,2023-10-26T20:33:35.464Z,"12 km ENE of Kernville, CA",earthquake,0.16,0.55,0.096,13,reviewed,ci,ci
 2023-10-26T20:08:26.370Z,40.221,-121.1146667,8.2,0.91,md,5,206,0.03556,0.03,nc,nc73951735,2023-10-27T08:40:11.134Z,"4 km ENE of Prattville, CA",earthquake,0.72,0.64,0.266,3,reviewed,nc,nc
@@ -244,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-26T11:47:58.660Z,19.3603324890137,-155.296493530273,2.86999988555908,1.72,ml,16,110,,0.200000003,hv,hv73625157,2023-10-26T11:54:17.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.41,0.769999981,3.59,5,automatic,hv,hv
 2023-10-26T11:47:29.630Z,19.363000869751,-155.300659179688,-0.699999988079071,2,ml,10,147,,0.119999997,hv,hv73625152,2023-10-26T11:54:11.690Z,"11 km SW of Volcano, Hawaii",earthquake,0.33,0.560000002,3.09,5,automatic,hv,hv
 2023-10-26T11:47:28.460Z,19.3533333333333,-155.288333333333,4.87,1.98,ml,14,122,,0.16,hv,hv73625147,2023-10-26T17:28:32.550Z,"11 km SSW of Volcano, Hawaii",earthquake,0.51,1.01,0.0965795228237182,1,reviewed,hv,hv
-2023-10-26T11:46:31.584Z,61.137,-148.2767,0,1.6,ml,,,,0.78,ak,ak023dqoigom,2023-10-26T11:48:35.689Z,"46 km NNE of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-26T11:40:53.369Z,61.1081,-146.7684,44.9,1.3,ml,,,,0.74,ak,ak023dqoh82g,2023-10-26T11:42:41.885Z,"22 km W of Valdez, Alaska",earthquake,,2.5,,,automatic,ak,ak
