@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T06:04:23.640Z,38.7566681,-122.6956635,8.28,1.12,md,5,185,0.09321,0.06,nc,nc73953180,2023-10-29T06:17:11.485Z,"2 km S of Anderson Springs, CA",earthquake,1.95,7.41,0.23,4,automatic,nc,nc
 2023-10-29T05:59:31.300Z,33.9326667,-116.8123333,5.94,0.84,ml,29,50,0.03013,0.17,ci,ci40590576,2023-10-29T06:03:08.748Z,"3 km NW of Cabazon, CA",earthquake,0.27,0.64,0.123,19,automatic,ci,ci
 2023-10-29T05:51:53.439Z,31.6457,-104.364,5,3.2,ml,22,110,0.119,0.28,us,us7000l7bz,2023-10-29T06:23:07.375Z,"58 km S of Whites City, New Mexico",earthquake,0.78,1.845,0.049,80,reviewed,us,us
-2023-10-29T05:46:01.260Z,17.9716666666667,-66.9338333333333,12.36,2.76,md,34,179,0.02398,0.28,pr,pr71430248,2023-10-29T06:24:34.710Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.51,0.37,0.212995227466694,13,reviewed,pr,pr
+2023-10-29T05:46:01.260Z,17.9716666666667,-66.9338333333333,12.34,2.76,md,34,179,0.02398,0.28,pr,pr71430248,2023-10-29T06:54:43.350Z,"2 km SW of Fuig, Puerto Rico",earthquake,0.51,0.37,0.212995227466694,13,reviewed,pr,pr
 2023-10-29T05:45:37.940Z,17.9661666666667,-66.9398333333333,13.21,1.76,md,22,188,0.03029,0.12,pr,pr71430268,2023-10-29T06:42:14.500Z,"3 km W of Guánica, Puerto Rico",earthquake,0.43,0.19,0.151815694021235,6,reviewed,pr,pr
 2023-10-29T05:38:05.720Z,19.5146675109863,-155.89582824707,7.3899998664856,1.89999998,md,22,243,,0.280000001,hv,hv73630577,2023-10-29T05:41:23.530Z,"Island of Hawaii, Hawaii",earthquake,1.08,0.75,0.360000014,5,automatic,hv,hv
 2023-10-29T05:27:02.637Z,63.0043,-150.905,115.3,3.3,ml,,,,0.49,ak,ak023dvjfro6,2023-10-29T05:52:18.040Z,"57 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -220,6 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T08:06:48.900Z,33.0236667,-116.3653333,3.88,1.96,ml,61,46,0.06422,0.21,ci,ci40590104,2023-10-29T01:51:05.956Z,"23 km ESE of Julian, CA",earthquake,0.2,0.76,0.112,26,reviewed,ci,ci
 2023-10-28T08:03:22.270Z,35.0758333,-119.177,18.07,1.49,ml,23,49,0.2107,0.34,ci,ci40590096,2023-10-28T08:07:06.032Z,"20 km E of Maricopa, CA",earthquake,0.63,1.64,0.223,18,automatic,ci,ci
 2023-10-28T07:56:35.915Z,59.0286,-136.3315,0,1.7,ml,,,,0.86,ak,ak023dtx9kqv,2023-10-28T07:59:02.046Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-10-28T07:54:09.220Z,37.3621667,-121.7201667,7.14,0.81,md,16,81,0.06514,0.07,nc,nc73952690,2023-10-29T06:54:43.786Z,"10 km E of Alum Rock, CA",earthquake,0.27,0.51,0.19,14,reviewed,nc,nc
 2023-10-28T07:51:00.700Z,38.7705,-122.948,6.8,0.31,md,14,97,0.05229,0.07,nc,nc71131729,2023-10-29T06:13:11.459Z,"7 km ESE of Cloverdale, CA",earthquake,0.33,0.69,0.071,12,reviewed,nc,nc
 2023-10-28T07:50:57.330Z,39.0018333,-123.325,4.49,0.84,md,11,64,0.02333,0.05,nc,nc73952685,2023-10-29T05:56:10.354Z,"4 km ESE of Boonville, CA",earthquake,0.26,0.47,0.111,10,reviewed,nc,nc
 2023-10-28T07:48:58.930Z,38.8105011,-122.8180008,3.02,1.46,md,29,55,0.008884,0.02,nc,nc73952680,2023-10-28T10:03:10.336Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.43,0.16,29,automatic,nc,nc
@@ -234,9 +235,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T07:29:28.668Z,58.9597,-136.3589,0,2.1,ml,,,,0.76,ak,ak023dtx3ruq,2023-10-28T07:31:47.251Z,"54 km SSW of Covenant Life, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T07:21:50.120Z,63.2521,-151.1116,9,1.4,ml,,,,0.5,ak,ak023dtx23s4,2023-10-28T07:24:11.484Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-28T07:14:34.130Z,17.9316666666667,-66.2955,12.29,2.39,md,13,195,0.1128,0.28,pr,pr71430153,2023-10-28T07:46:33.160Z,"5 km S of Salinas, Puerto Rico",earthquake,0.84,0.76,0.0853180475177382,8,reviewed,pr,pr
-2023-10-28T07:10:31.550Z,40.4708333,-121.5141667,2.22,1.44,md,5,169,0.06578,0.03,nc,nc71131724,2023-10-29T05:38:11.237Z,"14 km NNE of Mineral, CA",earthquake,1.02,1.95,0.231,5,reviewed,nc,nc
+2023-10-28T07:10:31.550Z,40.4708333,-121.5141667,2.22,1.44,md,5,169,0.06578,0.03,nc,nc71131724,2023-10-29T06:56:11.700Z,"14 km NNE of Mineral, CA",earthquake,1.02,1.95,0.231,5,reviewed,nc,nc
 2023-10-28T07:10:17.950Z,40.4728333,-121.5136667,3.59,1.53,md,10,122,0.06486,0.06,nc,nc73952675,2023-10-29T06:28:10.551Z,"14 km NNE of Mineral, CA",earthquake,0.5,0.88,0.139,11,reviewed,nc,nc
-2023-10-28T07:02:01.890Z,38.5521667,-119.5068333,4.94,2.73,md,18,112,0.03523,0.05,nc,nc73952660,2023-10-29T01:04:50.040Z,"5 km NNW of Walker, CA",earthquake,0.24,0.34,0.225,44,reviewed,nc,nc
-2023-10-28T06:59:32.988Z,62.0083,-150.3117,40.2,1.8,ml,,,,0.26,ak,ak023dtwos2a,2023-10-28T07:01:02.732Z,"29 km SW of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-10-28T06:57:47.908Z,59.0025,-136.5897,0,2.4,ml,,,,0.86,ak,ak023dtwods6,2023-10-28T07:00:01.456Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-28T06:54:31.380Z,38.5578346,-119.518837,9.51,2.41,md,6,121,0.02807,0.03,nc,nc73952655,2023-10-28T09:20:10.080Z,"6 km NW of Walker, CA",earthquake,0.48,2.22,0.19,7,automatic,nc,nc
