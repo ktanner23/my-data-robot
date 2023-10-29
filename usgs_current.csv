@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-29T13:12:01.610Z,34.6288333,-116.6673333,4.08,1.72,ml,22,52,0.03845,0.17,ci,ci40590704,2023-10-29T13:15:47.405Z,"34 km NE of Lucerne Valley, CA",earthquake,0.29,0.9,0.192,28,automatic,ci,ci
+2023-10-29T13:12:01.610Z,34.6288333,-116.6673333,4.08,1.72,ml,22,52,0.03845,0.17,ci,ci40590704,2023-10-29T13:22:55.610Z,"34 km NE of Lucerne Valley, CA",earthquake,0.29,0.9,0.192,28,automatic,ci,ci
 2023-10-29T12:58:37.119Z,36.6024,83.7663,10,4.2,mb,27,109,6.902,0.76,us,us7000l7dq,2023-10-29T13:18:58.040Z,"southern Xinjiang, China",earthquake,10.6,1.934,0.167,10,reviewed,us,us
 2023-10-29T12:50:56.870Z,38.8236656,-122.8539963,2.41,0.74,md,7,110,0.03371,0.02,nc,nc73953270,2023-10-29T13:01:10.905Z,"10 km WNW of The Geysers, CA",earthquake,0.39,1.48,0.14,8,automatic,nc,nc
 2023-10-29T12:36:43.790Z,33.2976667,-116.1806667,0.42,1.23,ml,8,100,0.3905,0.18,ci,ci40590680,2023-10-29T12:40:29.909Z,"18 km NNW of Ocotillo Wells, CA",earthquake,0.94,31.61,0.377,8,automatic,ci,ci
@@ -41,6 +41,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-29T07:33:01.323Z,44.237,-115.1158,10,2.7,ml,18,69,0.234,0.42,us,us7000l7cd,2023-10-29T07:50:03.040Z,"14 km W of Stanley, Idaho",earthquake,2.12,2.011,0.053,46,reviewed,us,us
 2023-10-29T07:28:29.380Z,36.796833,-121.3933334,9,1.43,md,16,74,0.06885,0.13,nc,nc73953195,2023-10-29T08:41:12.337Z,"3 km SW of Ridgemark, CA",earthquake,0.42,1.14,0.24,11,automatic,nc,nc
 2023-10-29T07:26:19.270Z,33.0715,-115.5766667,9.75,2.28,ml,36,91,0.03344,0.24,ci,ci40590616,2023-10-29T10:11:58.513Z,"6 km NE of Westmorland, CA",earthquake,0.34,0.81,0.265,28,automatic,ci,ci
+2023-10-29T07:02:58.900Z,57.0401666666667,-135.6395,7.18,-0.1,ml,4,178,,0.08,av,av92099886,2023-10-29T13:24:09.870Z,"18 km W of Sitka, Alaska",earthquake,1.26,0.9,0.190234061526465,4,reviewed,av,av
+2023-10-29T06:39:29.680Z,53.9,-167.924,5.08,1.5,ml,6,163,,0.11,av,av92099881,2023-10-29T13:22:33.510Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,1.49,2.57,0.384235116735048,6,reviewed,av,av
 2023-10-29T06:35:02.470Z,33.8443333,-117.7466667,7.71,1.13,ml,20,60,0.03898,0.21,ci,ci40590592,2023-10-29T06:38:34.651Z,"7 km ENE of Villa Park, CA",earthquake,0.4,0.77,0.255,19,automatic,ci,ci
 2023-10-29T06:29:12.070Z,33.7951667,-116.9323333,12.79,0.39,ml,10,135,0.1042,0.15,ci,ci40590584,2023-10-29T06:32:39.767Z,"3 km ENE of San Jacinto, CA",earthquake,0.58,1.02,0.108,5,automatic,ci,ci
 2023-10-29T06:28:19.950Z,19.3408336639404,-155.30583190918,2.61999988555908,2.03999996,md,26,107,,0.109999999,hv,hv73630632,2023-10-29T06:31:28.420Z,"13 km SW of Volcano, Hawaii",earthquake,0.32,0.779999971,0.959999979,15,automatic,hv,hv
@@ -151,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T20:00:35.110Z,38.7705002,-122.7423325,0.04,0.81,md,9,85,0.01345,0.02,nc,nc73952890,2023-10-28T20:15:10.886Z,"1 km ESE of The Geysers, CA",earthquake,0.25,0.69,0.18,8,automatic,nc,nc
 2023-10-28T19:58:40.510Z,36.7243347,-121.4306641,6.22,1.93,md,36,46,0.03992,0.21,nc,nc73952885,2023-10-28T21:07:11.158Z,"11 km SSW of Ridgemark, CA",earthquake,0.39,0.86,0.13,30,automatic,nc,nc
 2023-10-28T19:33:17.987Z,59.9001,-139.3594,0,1.8,ml,,,,1.16,ak,ak023du49t5i,2023-10-28T19:35:35.094Z,"44 km NNE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-28T19:27:39.335Z,34.5509,62.0939,10,5,mww,140,21,5.735,0.52,us,us7000l78n,2023-10-29T00:25:25.113Z,"western Afghanistan",earthquake,8.56,1.784,0.08,15,reviewed,us,us
+2023-10-28T19:27:39.335Z,34.5509,62.0939,10,5,mww,140,21,5.735,0.52,us,us7000l78n,2023-10-29T00:25:25.113Z,"24 km NNW of Herāt, Afghanistan",earthquake,8.56,1.784,0.08,15,reviewed,us,us
 2023-10-28T19:18:49.336Z,63.1143,-150.4747,117.1,2.5,ml,,,,0.65,ak,ak023du46nsq,2023-10-29T00:03:00.040Z,"70 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-28T19:17:37.173Z,-21.9055,-69.8,70.408,4.5,mwr,76,134,0.149,0.53,us,us7000l78j,2023-10-29T00:56:29.269Z,"45 km ENE of Tocopilla, Chile",earthquake,4.55,4.396,0.071,19,reviewed,us,us
 2023-10-28T19:10:17.780Z,32.4611667,-116.8286667,1.75,1.3,ml,14,194,0.152,0.19,ci,ci40590360,2023-10-29T01:56:18.244Z,"20 km ESE of Tijuana, B.C., MX",earthquake,0.84,0.98,0.28,7,reviewed,ci,ci
@@ -199,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-28T13:46:46.620Z,37.1513333,-121.5288333,8.1,0.74,md,22,55,0.0632,0.1,nc,nc73952775,2023-10-29T09:15:11.525Z,"10 km NE of San Martin, CA",earthquake,0.24,0.63,0.258,19,reviewed,nc,nc
 2023-10-28T13:35:04.552Z,59.0409,-136.4882,0,2.1,ml,,,,0.66,ak,ak023du0plx3,2023-10-28T13:55:12.588Z,"Southeastern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-28T13:31:42.600Z,59.0062,-136.5447,0,2.1,ml,,,,0.52,ak,ak023du0otzo,2023-10-28T13:33:58.676Z,"54 km SSW of Covenant Life, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-28T13:27:43.470Z,48.46816666666667,-121.86766666666666,3.46,1.08,ml,10,69,0.1141,0.2,uw,uw61959967,2023-10-28T19:55:23.090Z,"10 km ESE of Hamilton, Washington",earthquake,0.48,18.79,0.06262293100576954,6,reviewed,uw,uw
-2023-10-28T13:22:24.400Z,17.968,-66.9755,11.02,1.74,md,3,187,0.06543,0.05,pr,pr71430163,2023-10-28T13:49:22.150Z,"Puerto Rico region",earthquake,2.03,1.05,0.1960496785844,2,reviewed,pr,pr
