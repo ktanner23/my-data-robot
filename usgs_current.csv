@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-10-31T09:20:00.360Z,34.0036667,-116.8465,17.85,0.9,ml,22,84,0.04495,0.23,ci,ci40592432,2023-10-31T09:23:42.364Z,"9 km NNE of Banning, CA",earthquake,0.41,0.87,0.195,20,automatic,ci,ci
 2023-10-31T09:13:41.976Z,32.0542,59.7592,10,5,mb,115,77,8.158,0.78,us,us7000l7qg,2023-10-31T09:32:55.040Z,"103 km SSE of Bīrjand, Iran",earthquake,8.79,1.862,0.05,126,reviewed,us,us
-2023-10-31T09:07:31.760Z,38.7915001,-122.7265015,1.19,0.7,md,7,97,0.01149,0.02,nc,nc73954060,2023-10-31T09:18:10.525Z,"3 km ENE of The Geysers, CA",earthquake,0.51,2,0.18,7,automatic,nc,nc
+2023-10-31T09:07:31.760Z,38.7915001,-122.7265015,1.19,0.7,md,7,97,0.01149,0.02,nc,nc73954060,2023-10-31T09:39:11.657Z,"3 km ENE of The Geysers, CA",earthquake,0.51,2,0.18,7,automatic,nc,nc
 2023-10-31T09:06:54.506Z,59.5996,-152.3879,67.4,1.9,ml,,,,0.41,ak,ak023dywrt2i,2023-10-31T09:08:44.777Z,"37 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-31T09:03:14.896Z,31.6413,-104.4333,6.672,2.6,ml,31,95,0.064,0.29,us,us7000l7qe,2023-10-31T09:20:28.040Z,"59 km S of Whites City, New Mexico",earthquake,1.22,3.64,0.062,62,reviewed,us,us
 2023-10-31T08:44:59.520Z,38.689167,-122.5121689,1.21,2.05,md,33,81,,0.35,nc,nc73954055,2023-10-31T09:06:10.428Z,"11 km SE of Middletown, CA",earthquake,0.55,5.9,0.14,27,automatic,nc,nc
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T05:56:11.443Z,62.1035,-147.7676,39.4,1.2,ml,,,,0.2,ak,ak023dyuop4o,2023-10-31T05:57:38.432Z,"33 km N of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-10-31T05:49:52.940Z,38.8195,-122.7610016,1.78,1.32,md,22,121,0.01298,0.02,nc,nc73954015,2023-10-31T08:34:11.238Z,"3 km W of Cobb, CA",earthquake,0.24,0.36,0.1,23,automatic,nc,nc
 2023-10-31T05:46:45.626Z,-20.0633,-178.4263,580.129,4.5,mb,53,53,3.213,0.85,us,us7000l7pw,2023-10-31T06:02:53.040Z,"Fiji region",earthquake,14.24,8.813,0.055,97,reviewed,us,us
-2023-10-31T05:29:51.240Z,37.8269997,-121.9076691,5.2,1.63,md,13,92,,0.08,nc,nc73954010,2023-10-31T07:54:10.991Z,"1 km N of Blackhawk, CA",earthquake,0.34,0.68,0.23,11,automatic,nc,nc
+2023-10-31T05:29:51.240Z,37.8269997,-121.9076691,5.2,1.63,md,13,92,,0.08,nc,nc73954010,2023-10-31T09:45:11.688Z,"1 km N of Blackhawk, CA",earthquake,0.34,0.68,0.23,11,automatic,nc,nc
 2023-10-31T05:29:49.010Z,63.3942,-151.4754,3.9,1.6,ml,,,,0.91,ak,ak023dyuizp1,2023-10-31T05:33:55.517Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-31T05:25:38.722Z,61.4921,-146.5935,31,1.5,ml,,,,0.69,ak,ak023dyui41c,2023-10-31T05:27:14.697Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-31T05:10:47.650Z,33.8001667,-116.1808333,5.99,0.99,ml,27,100,0.03405,0.25,ci,ci40592400,2023-10-31T05:14:25.532Z,"9 km NNE of Indio, CA",earthquake,0.53,0.71,0.119,20,automatic,ci,ci
@@ -202,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-30T10:12:09.510Z,38.8333321,-122.8125,0.93,0.72,md,8,93,0.0187,0.02,nc,nc73953640,2023-10-30T10:22:11.533Z,"8 km W of Cobb, CA",earthquake,0.44,0.93,0.17,8,automatic,nc,nc
 2023-10-30T10:00:54.980Z,38.8474998,-122.8151703,1.12,0.24,md,6,149,0.009587,0.01,nc,nc73953635,2023-10-30T10:56:11.742Z,"8 km WNW of Cobb, CA",earthquake,0.58,0.93,0.14,8,automatic,nc,nc
 2023-10-30T09:49:57.730Z,37.4686667,-118.7878333,3.65,0.61,md,19,153,0.1255,0.04,nc,nc73953630,2023-10-30T19:11:26.998Z,"14 km SW of Toms Place, CA",earthquake,1.29,1.74,0.204,17,reviewed,nc,nc
-2023-10-30T09:42:25.300Z,44.2225,-115.1015,5.64,1.99,ml,14,72,0.2172,0.12,mb,mb90031238,2023-10-30T14:58:27.160Z,"13 km W of Stanley, Idaho",earthquake,0.29,0.9,0.348419164212916,12,reviewed,mb,mb
