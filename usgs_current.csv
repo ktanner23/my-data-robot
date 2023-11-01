@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-01T21:07:06.318Z,61.9439,-145.6631,139,1.9,ml,,,,1.01,ak,ak023e0rggtj,2023-11-01T21:09:15.736Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-01T20:51:17.159Z,60.9181,-149.4767,28.7,1.6,ml,,,,0.62,ak,ak023e0r4hk3,2023-11-01T20:52:56.629Z,"4 km NW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-01T20:41:01.785Z,63.9409,-149.0037,0,1.7,ml,,,,0.44,ak,ak023e0r2b7m,2023-11-01T20:42:44.976Z,"9 km N of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-01T20:40:47.380Z,39.1628342,-123.0641632,4.66,2.18,md,28,100,0.03419,0.1,nc,nc73954735,2023-11-01T20:47:13.264Z,"10 km ENE of Talmage, CA",earthquake,0.27,0.78,0.15,24,automatic,nc,nc
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T17:49:01.910Z,35.0578333,-118.347,-0.93,1.08,ml,16,60,0.06723,0.18,ci,ci40594016,2023-11-01T20:57:53.345Z,"12 km SE of Tehachapi, CA",quarry blast,0.34,31.61,0.105,8,reviewed,ci,ci
 2023-11-01T17:46:14.602Z,55.3661,-159.5551,40.7,2.2,ml,,,,0.4,ak,ak023e0pb4t7,2023-11-01T20:19:33.848Z,"59 km S of Ivanof Bay, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-01T17:44:01.208Z,64.5436,-150.6383,16.8,1.3,ml,,,,0.79,ak,ak023e0pani0,2023-11-01T17:45:25.421Z,"51 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-01T17:43:09.320Z,34.4343333,-116.889,2.73,1.16,ml,12,260,0.1736,0.38,ci,ci40594000,2023-11-01T17:47:01.107Z,"7 km E of Lucerne Valley, CA",earthquake,3.28,4.77,0.124,17,automatic,ci,ci
+2023-11-01T17:43:10.490Z,34.3406667,-116.8446667,-1.88,1.1,ml,13,62,0.1004,0.23,ci,ci40594000,2023-11-01T21:02:00.516Z,"9 km N of Big Bear City, CA",quarry blast,0.6,31.61,0.125,12,reviewed,ci,ci
 2023-11-01T17:33:10.495Z,60.1807,-151.9625,57.9,0.7,ml,,,,0.48,ak,ak023e0p8bo8,2023-11-01T17:35:30.961Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-01T17:27:54.700Z,38.8313332,-122.8191681,1.49,0.72,md,16,59,0.01064,0.02,nc,nc73954655,2023-11-01T18:07:12.365Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.56,0.08,15,automatic,nc,nc
 2023-11-01T17:09:46.360Z,38.8326683,-122.8191681,1.39,0.83,md,19,51,0.01167,0.02,nc,nc73954650,2023-11-01T19:18:11.769Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.46,0.22,19,automatic,nc,nc
@@ -211,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-31T21:42:01.920Z,33.2465,-115.7955,6.26,2.08,ml,50,58,0.118,0.14,ci,ci40593176,2023-11-01T01:34:45.675Z,"13 km SSW of Bombay Beach, CA",earthquake,0.17,0.96,0.144,26,reviewed,ci,ci
 2023-10-31T21:27:29.510Z,33.7783333,-116.9083333,12.81,0.92,ml,31,80,0.09193,0.12,ci,ci40593144,2023-10-31T21:55:26.543Z,"4 km NNW of Valle Vista, CA",earthquake,0.21,0.41,0.17,20,reviewed,ci,ci
 2023-10-31T21:22:51.370Z,38.8361664,-122.796669,2.23,0.82,md,10,151,0.005424,0.01,nc,nc73954310,2023-10-31T22:13:10.617Z,"7 km WNW of Cobb, CA",earthquake,0.5,0.57,0.23,15,automatic,nc,nc
-2023-10-31T21:09:29.888Z,45.7248,-112.3201,4.17,2.4,ml,35,34,0.134,0.41,us,us7000l7xd,2023-10-31T23:54:11.040Z,"20 km N of Twin Bridges, Montana",earthquake,0.79,3.386,0.055,44,reviewed,us,us
-2023-10-31T21:08:15.600Z,38.824501,-122.7651672,2.17,0.74,md,9,123,0.00702,0.03,nc,nc73954305,2023-10-31T21:49:11.356Z,"4 km W of Cobb, CA",earthquake,0.45,1.03,0.21,9,automatic,nc,nc
-2023-10-31T21:07:58.410Z,38.6843338,-122.4944992,8.22,1.33,md,9,128,0.09098,0.07,nc,nc73954300,2023-11-01T00:48:11.499Z,"13 km NNW of Angwin, CA",earthquake,0.73,2.88,0.29,9,automatic,nc,nc
-2023-10-31T21:03:15.320Z,45.7165,-112.333,9.55,1.8,ml,16,89,0.1345,0.06,mb,mb90031528,2023-10-31T22:59:41.890Z,"19 km N of Twin Bridges, Montana",earthquake,0.32,0.93,0.203080311519167,18,reviewed,mb,mb
