@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-02T11:39:24.272Z,31.684,-104.4,6.6971,1.8,ml(texnet),26,65,0,0.2,tx,tx2023vmdn,2023-11-02T12:57:23.970Z,"54 km S of Whites City, New Mexico",earthquake,0.8659930059,0.8654014301,0,6,reviewed,tx,tx
 2023-11-02T11:24:01.990Z,33.341,-116.6593333,10.18,0.36,ml,17,124,0.1338,0.2,ci,ci40594928,2023-11-02T13:41:50.180Z,"7 km NNW of Warner Springs, CA",earthquake,0.56,1.2,0.134,7,reviewed,ci,ci
 2023-11-02T10:58:45.050Z,38.8258324,-122.8538361,2.24,0.45,md,9,112,0.002924,0.01,nc,nc73955010,2023-11-02T13:49:12.283Z,"10 km WNW of The Geysers, CA",earthquake,0.34,0.92,0.33,10,automatic,nc,nc
-2023-11-02T10:45:21.340Z,38.8118333,-112.0635,9.21,3.17,ml,38,59,0.1541,0.22,uu,uu60553437,2023-11-02T15:27:38.910Z,"Utah",earthquake,0.34,0.92,0.127,30,reviewed,uu,uu
+2023-11-02T10:45:21.340Z,38.8118333,-112.0635,9.21,3.17,ml,38,59,0.1541,0.22,uu,uu60553437,2023-11-02T15:51:23.568Z,"Utah",earthquake,0.34,0.92,0.127,30,reviewed,uu,uu
 2023-11-02T10:31:16.380Z,37.4303333,-113.1185,9.99,2.08,ml,16,78,0.0743,0.13,uu,uu60553432,2023-11-02T13:27:56.460Z,"13 km SSE of Kanarraville, Utah",earthquake,0.34,0.67,0.158,10,reviewed,uu,uu
 2023-11-02T10:14:58.160Z,38.8320007,-122.8166656,1.4,0.65,md,10,73,0.01002,0.01,nc,nc73954995,2023-11-02T12:52:10.965Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.75,0.07,12,automatic,nc,nc
 2023-11-02T09:48:34.630Z,38.7789993,-122.7450027,-0.28,0.8,md,10,84,0.007731,0.05,nc,nc73954980,2023-11-02T10:49:11.251Z,"1 km E of The Geysers, CA",earthquake,0.28,0.61,0.19,8,automatic,nc,nc
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T20:27:48.940Z,34.0225,-116.715,-1,1.5,mh,2,333,0.3105,0,ci,ci40594320,2023-11-02T00:44:30.135Z,"13 km WSW of Morongo Valley, CA",earthquake,2.23,3.52,,0,reviewed,ci,ci
 2023-11-01T20:27:21.427Z,52.7806,-168.1666,22.8,3.7,ml,,,,0.71,ak,ak023e0qz7j9,2023-11-01T22:03:38.188Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,,1,,,reviewed,ak,ak
 2023-11-01T20:21:04.161Z,36.6597,-116.2721,6.4,-0.3,ml,12,108.44,0.056,0.0644,nn,nn00868315,2023-11-02T02:34:16.760Z,"51 km ESE of Beatty, Nevada",earthquake,,1.4,0.39,6,reviewed,nn,nn
-2023-11-01T20:06:42.802Z,64.9527,-148.9756,24.6,1,ml,,,,0.27,ak,ak023e0quwbc,2023-11-01T20:08:38.030Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-01T20:06:42.802Z,64.9527,-148.9756,24.6,1,ml,,,,0.27,ak,ak023e0quwbc,2023-11-01T20:08:38.030Z,"28 km SE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-01T20:04:04.000Z,18.1683333333333,-66.4048333333333,8.36,1.83,md,8,107,0.09772,0.11,pr,pr71430563,2023-11-01T20:19:49.190Z,"6 km SSW of Orocovis, Puerto Rico",earthquake,0.4,2.08,0.222931306354206,5,reviewed,pr,pr
 2023-11-01T20:03:43.210Z,44.2293333333333,-115.105,5.31,2.53,ml,14,71,0.223,0.18,mb,mb90031593,2023-11-02T14:47:38.950Z,"13 km W of Stanley, Idaho",earthquake,0.36,1,0.222903097321149,13,reviewed,mb,mb
 2023-11-01T19:41:36.650Z,19.625,-155.9455,12.95,1.92,md,41,125,,0.17,hv,hv73635877,2023-11-02T01:20:46.539Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.73,0.223194703446749,16,reviewed,hv,hv
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-01T16:03:38.270Z,36.229,-95.85566667,0,1.21,ml,39,118,0.3221367858,0.55,ok,ok2023vkqs,2023-11-02T12:43:23.924Z,"Oklahoma",quarry blast,,0.7,0.18,16,reviewed,ok,ok
 2023-11-01T15:53:07.500Z,61.8553,-148.0425,23.2,3.8,ml,,,,0.78,ak,ak023e0o5q4j,2023-11-01T19:39:57.182Z,"21 km WNW of Glacier View, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-11-01T15:52:15.140Z,38.8333321,-122.8153305,1.5,0.67,md,13,55,0.01074,0.01,nc,nc73954630,2023-11-01T17:39:11.368Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.7,0.29,14,automatic,nc,nc
-2023-11-01T15:46:01.671Z,37.4545,-115.9674,5.3,1.9,ml,39,100.12,0.252,0.1407,nn,nn00868272,2023-11-01T16:40:55.428Z,"28 km SW of Rachel, Nevada",earthquake,,1.4,0.26,23,reviewed,nn,nn
-2023-11-01T15:44:31.830Z,46.84866666666667,-121.7645,-0.05,0.74,ml,6,127,0.02526,0.05,uw,uw61960887,2023-11-01T19:48:57.150Z,"22 km ENE of Ashford, Washington",earthquake,0.34,1.52,0.1919040444051624,5,reviewed,uw,uw
