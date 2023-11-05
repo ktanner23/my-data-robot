@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T13:43:37.404Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
-2023-11-05T13:27:10.000Z,50.42,176.66,66,5.3,Mb,42,316.799974656002,1.921496,0.92,at,at00s3nk1a,2023-11-05T13:33:39.752Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,22,reviewed,at,at
+2023-11-05T13:45:50.800Z,38.8318329,-122.8166656,1.45,0.74,md,19,52,0.009874,0.01,nc,nc73956420,2023-11-05T13:47:27.303Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.42,0.12,19,automatic,nc,nc
+2023-11-05T13:44:10.770Z,36.8045006,-121.3246689,8.04,1.16,md,8,140,0.03189,0.04,nc,nc73956415,2023-11-05T13:45:47.039Z,"2 km NNW of Tres Pinos, CA",earthquake,0.41,1.06,0.16,7,automatic,nc,nc
+2023-11-05T13:27:28.428Z,51.5184,178.3647,80.999,5.1,mb,71,143,0.457,0.81,us,us7000l90i,2023-11-05T13:47:38.560Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.14,5.544,0.025,500,reviewed,us,us
+2023-11-05T13:27:10.000Z,50.42,176.66,66,5.3,Mb,42,316.799974656002,1.921496,0.92,at,at00s3nk1a,2023-11-05T13:47:22.495Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0,0,,22,reviewed,at,at
 2023-11-05T13:18:15.569Z,37.3952,-117.1018,1.9,1.7,ml,28,111.43,0.158,0.2758,nn,nn00868477,2023-11-05T13:20:18.828Z,"36 km SSE of Goldfield, Nevada",earthquake,,5.5,0.39,20,automatic,nn,nn
 2023-11-05T13:00:07.570Z,38.8318329,-122.815834,1.47,1.05,md,21,52,0.009552,0.01,nc,nc73956400,2023-11-05T13:16:10.805Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.46,0.11,22,automatic,nc,nc
 2023-11-05T12:50:58.948Z,60.3635,-152.0449,84.2,1.4,ml,,,,0.3,ak,ak023e78ia7a,2023-11-05T12:52:49.564Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -45,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-05T08:20:12.461Z,60.7583,-150.8834,49.3,1.8,ml,,,,0.26,ak,ak023e75y0pq,2023-11-05T08:21:50.026Z,"21 km SSW of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-11-05T08:11:07.919Z,60.4915,-143.06,18.8,0.8,ml,,,,1.1,ak,ak023e75w2x3,2023-11-05T08:12:43.175Z,"105 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-05T07:59:41.200Z,34.1201667,-117.4705,8.71,0.7,ml,19,114,0.08984,0.2,ci,ci39708402,2023-11-05T08:03:18.932Z,"3 km NNW of Fontana, CA",earthquake,0.47,0.98,0.174,15,automatic,ci,ci
-2023-11-05T07:50:05.700Z,39.8409996,-120.7826691,-0.13,2.46,md,8,134,,0.2,nc,nc73956315,2023-11-05T11:23:11.117Z,"7 km WSW of Cromberg, CA",earthquake,0.82,13.17,0.13,4,automatic,nc,nc
+2023-11-05T07:50:05.700Z,39.8409996,-120.7826691,-0.13,2.46,md,8,134,,0.2,nc,nc73956315,2023-11-05T13:48:40.422Z,"7 km WSW of Cromberg, CA",earthquake,0.82,13.17,0.13,4,automatic,nc,nc
 2023-11-05T07:49:12.240Z,33.2621667,-116.2843333,6.02,0.49,ml,24,67,0.1442,0.21,ci,ci39708394,2023-11-05T07:52:55.641Z,"8 km E of Borrego Springs, CA",earthquake,0.42,2.07,0.184,4,automatic,ci,ci
 2023-11-05T07:48:04.550Z,17.8885,-66.9275,13.84,2.98,md,34,225,0.08516,0.17,pr,pr71430818,2023-11-05T08:09:11.410Z,"9 km SSW of Guánica, Puerto Rico",earthquake,0.46,0.23,0.205573515407376,12,reviewed,pr,pr
 2023-11-05T07:32:44.300Z,17.985,-65.3993333333333,7.27,3.27,md,13,159,0.3361,0.28,pr,pr71430808,2023-11-05T07:44:20.920Z,"14 km SSE of Esperanza, Puerto Rico",earthquake,0.89,1.24,0.067017050367447,6,reviewed,pr,pr
@@ -199,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-04T14:04:13.930Z,38.7986679,-122.7509995,2.66,1.05,md,10,97,,0.01,nc,nc73955990,2023-11-04T15:59:14.307Z,"2 km N of The Geysers, CA",earthquake,0.38,0.99,0.22,9,automatic,nc,nc
 2023-11-04T14:03:24.481Z,14.0271,-91.5425,54.866,4.2,mb,25,178,1.716,0.75,us,us7000l8vc,2023-11-04T16:31:38.040Z,"32 km SW of Nueva Concepción, Guatemala",earthquake,4.83,17.899,0.084,39,reviewed,us,us
 2023-11-04T13:56:23.133Z,31.609,-104.24,8.0371,1.5,ml(texnet),13,137,0.1,0.3,tx,tx2023vpzb,2023-11-04T14:14:50.790Z,"western Texas",earthquake,0,8.970390356,0.3,11,automatic,tx,tx
-2023-11-04T13:50:15.210Z,36.9700012,-121.6273346,3.95,1.19,md,8,88,0.03913,0.03,nc,nc73955985,2023-11-04T15:27:12.126Z,"7 km SW of Gilroy, CA",earthquake,0.36,0.54,0.16,7,automatic,nc,nc
-2023-11-04T13:46:37.490Z,40.4883347,-123.7938309,21.83,1.73,md,15,111,0.06512,0.08,nc,nc73955980,2023-11-04T15:01:11.966Z,"26 km E of Rio Dell, CA",earthquake,0.56,0.43,0.16,8,automatic,nc,nc
