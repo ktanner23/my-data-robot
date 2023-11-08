@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-08T02:05:03.610Z,33.3068352,-116.3984985,14.38,1.14,ml,38,120,0.2345,0.2,ci,ci39710210,2023-11-08T02:11:04.717Z,"6 km NNW of Borrego Springs, CA",earthquake,0.38,0.84,0.267,6,automatic,ci,ci
 2023-11-08T01:51:06.220Z,19.2513332366943,-155.399993896484,28.1399993896484,2.28,ml,44,148,,0.129999995,hv,hv73641242,2023-11-08T01:56:37.090Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.790000021,3.32,7,automatic,hv,hv
-2023-11-08T01:50:40.264Z,66.6379,13.867,10,4.6,mb,38,64,5.238,0.99,us,us7000l9gm,2023-11-08T02:07:26.040Z,"20 km S of Glomfjord, Norway",earthquake,5.62,1.838,0.071,58,reviewed,us,us
+2023-11-08T01:50:40.264Z,66.6379,13.867,10,4.6,mb,38,64,5.238,0.99,us,us7000l9gm,2023-11-08T02:26:25.940Z,"20 km S of Glomfjord, Norway",earthquake,5.62,1.838,0.071,58,reviewed,us,us
 2023-11-08T01:46:18.890Z,36.571167,-121.1344986,10.32,2.32,md,39,123,0.04098,0.14,nc,nc73957555,2023-11-08T01:53:11.093Z,"4 km N of Pinnacles, CA",earthquake,0.29,0.62,0.17,39,automatic,nc,nc
 2023-11-08T01:38:32.400Z,18.6745,-65.4608333333333,66.05,3.38,md,14,230,0.4515,0.09,pr,pr71431038,2023-11-08T01:54:04.120Z,"42 km NE of Luquillo, Puerto Rico",earthquake,1.51,1.34,0.167983923982118,12,reviewed,pr,pr
 2023-11-08T01:37:28.071Z,31.671,-104.185,4.3847,2,mlv,19,75,0.1,0.2,tx,tx2023vwir,2023-11-08T02:12:44.665Z,"western Texas",earthquake,0,1.218867174,0.2,15,automatic,tx,tx
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T00:12:46.113Z,61.7504,-146.5322,18.8,1.9,ml,,,,0.87,ak,ak023ebzqy83,2023-11-08T00:14:52.180Z,"29 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-08T00:10:53.060Z,38.8318329,-122.8150024,1.66,1.07,md,19,50,0.009263,0.02,nc,nc73957515,2023-11-08T00:24:09.603Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.53,0.21,20,automatic,nc,nc
 2023-11-08T00:07:17.520Z,38.8311653,-122.8138351,1.75,1.3,md,25,49,0.008297,0.02,nc,nc73957510,2023-11-08T00:19:11.575Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.12,26,automatic,nc,nc
-2023-11-07T23:39:16.760Z,37.6548347,-118.8871689,2.81,1.19,md,10,142,0.01294,0.03,nc,nc73957495,2023-11-08T00:08:12.508Z,"8 km ENE of Mammoth Lakes, CA",earthquake,0.61,0.9,0.17,10,automatic,nc,nc
+2023-11-07T23:39:16.760Z,37.6548347,-118.8871689,2.81,1.19,md,10,142,0.01294,0.03,nc,nc73957495,2023-11-08T02:22:14.237Z,"8 km ENE of Mammoth Lakes, CA",earthquake,0.61,0.9,0.17,10,automatic,nc,nc
 2023-11-07T23:24:05.730Z,19.1616668701172,-155.494659423828,33.9199981689453,2.0999999,md,29,212,,0.119999997,hv,hv73641207,2023-11-07T23:27:42.750Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.84,1.00999999,1.03999996,8,automatic,hv,hv
 2023-11-07T22:48:24.170Z,37.162,-117.8003333,1.71,2.46,ml,23,93,0.1422,0.2,ci,ci39710146,2023-11-08T02:05:03.992Z,"43 km E of Big Pine, CA",earthquake,0.22,0.52,0.201,11,reviewed,ci,ci
 2023-11-07T22:46:53.862Z,59.2344,-151.9219,53.9,2.3,ml,,,,0.51,ak,ak023eapifze,2023-11-07T22:49:10.690Z,"13 km S of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T02:51:13.810Z,19.2938333333333,-155.381333333333,3.72,2.64,ml,42,109,,0.13,hv,hv73640632,2023-11-07T03:13:16.710Z,"14 km NE of Pāhala, Hawaii",earthquake,0.24,0.94,0.20426293483274,29,reviewed,hv,hv
 2023-11-07T02:39:35.210Z,19.3373333333333,-155.0965,3.58,2.28,ml,42,143,,0.16,hv,hv73640622,2023-11-07T03:41:24.630Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.37,0.9,0.173954508489207,16,reviewed,hv,hv
 2023-11-07T02:31:15.143Z,60.1786,-153.696,42.5,1.1,ml,,,,0.59,ak,ak023eadih5m,2023-11-07T02:33:48.856Z,"Southern Alaska",earthquake,,2.6,,,automatic,ak,ak
-2023-11-07T02:25:08.085Z,62.0112,-150.8251,61.8,2.5,ml,,,,0.41,ak,ak023eadh6bc,2023-11-08T02:12:45.040Z,"30 km E of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-11-07T02:16:53.620Z,19.2154998779297,-155.384994506836,29.5499992370605,2.03999996,md,37,173,,0.109999999,hv,hv73640607,2023-11-07T02:20:09.280Z,"9 km E of Pāhala, Hawaii",earthquake,0.61,0.680000007,1.44000006,16,automatic,hv,hv
