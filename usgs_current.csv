@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T19:52:45.090Z,19.1704998016357,-155.496170043945,34.1199989318848,1.79999995,md,27,209,,0.0900000036,hv,hv73641817,2023-11-08T19:55:55.830Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.78,1,0.589999974,3,automatic,hv,hv
 2023-11-08T19:45:05.907Z,61.9622,-150.8539,67.5,2,ml,,,,0.31,ak,ak023ecb968u,2023-11-08T19:47:21.629Z,"28 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-08T19:41:01.040Z,36.1604996,-120.309166,10.2,0.98,md,8,190,0.1449,0.02,nc,nc73960136,2023-11-08T20:00:09.982Z,"5 km ENE of Coalinga, CA",earthquake,1.01,2.1,0.04,2,automatic,nc,nc
-2023-11-08T19:37:59.460Z,38.8479996,-122.7623367,0.94,1.16,md,7,193,0.01223,0.03,nc,nc73960131,2023-11-08T19:49:10.918Z,"4 km NW of Cobb, CA",earthquake,0.61,0.74,0.14,9,automatic,nc,nc
+2023-11-08T19:37:59.460Z,38.8479996,-122.7623367,0.94,1.16,md,7,193,0.01223,0.03,nc,nc73960131,2023-11-08T20:08:14.030Z,"4 km NW of Cobb, CA",earthquake,0.61,0.74,0.14,9,automatic,nc,nc
 2023-11-08T19:33:31.250Z,31.653,-104.018,5.2881,1.8,ml(texnet),20,47,0,0.4,tx,tx2023vxse,2023-11-08T19:58:20.324Z,"40 km W of Mentone, Texas",earthquake,0,2.110242312,0.2,16,automatic,tx,tx
 2023-11-08T19:18:26.424Z,31.585,-104.541,2.8322,2.1,ml(texnet),18,159,0.1,0.3,tx,tx2023vxrs,2023-11-08T20:03:28.806Z,"western Texas",earthquake,0,1.800475519,0.1,14,automatic,tx,tx
 2023-11-08T19:10:23.950Z,38.7948341,-122.730835,1.2,1.56,md,27,98,0.01246,0.03,nc,nc73960126,2023-11-08T19:58:14.103Z,"3 km NE of The Geysers, CA",earthquake,0.24,0.42,0.18,29,automatic,nc,nc
@@ -35,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T16:46:35.839Z,49.262,153.2809,10.27,4.7,mb,126,164,4.748,0.35,us,us7000l9ni,2023-11-08T17:29:30.040Z,"Kuril Islands",earthquake,10.95,5.084,0.052,116,reviewed,us,us
 2023-11-08T16:40:53.046Z,31.64,-104.003,4.8334,1.6,mlv,8,110,0,0.1,tx,tx2023vxnd,2023-11-08T17:17:16.565Z,"38 km W of Mentone, Texas",earthquake,0,2.386953589,0.2,4,automatic,tx,tx
 2023-11-08T16:39:51.539Z,58.1614,-155.2328,0,1.4,ml,,,,1.09,ak,ak023ec9fonl,2023-11-08T16:41:35.046Z,"80 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-11-08T16:33:32.210Z,31.624,-103.899,11.2218,2.3,ml(texnet),19,76,0,0.3,tx,tx2023vxmk,2023-11-08T20:12:10.528Z,"29 km WSW of Mentone, Texas",earthquake,0.8849731744,1.344283368,0.3,10,reviewed,tx,tx
 2023-11-08T16:29:53.949Z,31.483,-104.323,0.7204,1.7,ml(texnet),13,215,0.2,0.7,tx,tx2023vxmi,2023-11-08T17:01:08.776Z,"53 km WNW of Toyah, Texas",earthquake,0,2.124711634,0.5,10,automatic,tx,tx
 2023-11-08T16:25:15.780Z,33.3063333,-116.286,11.54,1.04,ml,32,105,0.07092,0.19,ci,ci39710346,2023-11-08T16:52:53.091Z,"10 km NE of Borrego Springs, CA",earthquake,0.3,0.88,0.109,9,reviewed,ci,ci
 2023-11-08T16:20:59.170Z,38.7960014,-122.8103333,3.44,1.08,md,19,85,0.009537,0.02,nc,nc73957835,2023-11-08T18:38:13.513Z,"5 km WNW of The Geysers, CA",earthquake,0.34,0.64,0.08,19,automatic,nc,nc
@@ -147,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T10:31:04.244Z,31.636,-103.977,18.5695,3.4,ml(texnet),9,88,0,0.8,tx,tx2023vxak,2023-11-08T18:16:41.262Z,"36 km WSW of Mentone, Texas",earthquake,0,4.868939668,0.1,7,automatic,tx,tx
 2023-11-08T10:30:06.871Z,31.613,-103.994,7.5841,3.2,ml(texnet),15,58,0,0.1,tx,tx2023vxai,2023-11-08T16:38:13.430Z,"38 km NNW of Toyah, Texas",earthquake,0.4682446831,0.6219120053,0.2,13,reviewed,tx,tx
 2023-11-08T10:29:41.440Z,33.8011667,-116.2021667,8.73,1.22,ml,43,74,0.0167,0.14,ci,ci39710298,2023-11-08T17:59:34.950Z,"9 km N of Indio, CA",earthquake,0.19,0.35,0.143,23,reviewed,ci,ci
-2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T20:02:15.304Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
+2023-11-08T10:27:49.034Z,31.622,-103.982,7.417,5.2,ml(texnet),31,52,0,0.2,tx,tx2023vxae,2023-11-08T20:15:29.373Z,"Coalson Draw, Texas",earthquake,0.6306655439,0.8419580201,0.2,41,reviewed,tx,tx
 2023-11-08T10:27:24.722Z,31.626,-104.517,7.1856,0.4,ml(texnet),6,276,0,0.1,tx,tx2023vxad,2023-11-08T16:53:53.560Z,"62 km SSW of Whites City, New Mexico",earthquake,2.020156741,1.552113787,0.1,6,reviewed,tx,tx
 2023-11-08T10:23:52.340Z,19.2544994354248,-155.404663085938,30.3500003814697,2.2,ml,45,126,,0.119999997,hv,hv73641452,2023-11-08T10:29:22.780Z,"9 km NE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.17,3,automatic,hv,hv
 2023-11-08T10:02:02.233Z,63.0999,-150.885,131.1,2.4,ml,,,,0.3,ak,ak023ec5n1ql,2023-11-08T10:17:31.040Z,"64 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -260,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-07T20:25:47.660Z,46.006,-112.461833333333,-2,0.79,ml,3,197,0.06627,0.03,mb,mb90032333,2023-11-08T16:54:05.800Z,"5 km E of Butte, Montana",quarry blast,0.74,31.61,0.208635285790203,3,reviewed,mb,mb
 2023-11-07T20:22:55.455Z,61.8205,-150.603,39,1.6,ml,,,,0.17,ak,ak023eao6fpl,2023-11-07T20:24:21.403Z,"Southern Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-11-07T20:18:53.416Z,31.657,-104.299,6.2344,2.2,ml(texnet),28,58,0,0.2,tx,tx2023vvye,2023-11-07T21:05:06.955Z,"western Texas",earthquake,0.7127510254,0.7281466921,0.1,17,reviewed,tx,tx
-2023-11-07T20:11:42.647Z,58.8339,-153.6837,13.2,2,ml,,,,0.41,ak,ak023eao41ug,2023-11-07T20:13:34.047Z,"Kodiak Island region, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-11-07T20:05:47.791Z,40.4965,27.5314,11.827,4.1,mb,20,88,0.58,0.5,us,us7000l9f2,2023-11-08T08:11:58.766Z,"10 km SSW of Marmara, Turkey",earthquake,3.05,4.207,0.212,7,reviewed,us,us
