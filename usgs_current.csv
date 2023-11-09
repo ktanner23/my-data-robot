@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T20:16:39.700Z,19.2430000305176,-155.393661499023,31.2099990844727,2.36,ml,43,137,,0.140000001,hv,hv73642432,2023-11-09T20:22:09.470Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.23,4,automatic,hv,hv
 2023-11-09T20:11:32.802Z,31.638,-104.007,4.956,1.5,ml(texnet),15,83,0,0.2,tx,tx2023vzox,2023-11-09T20:51:52.666Z,"39 km W of Mentone, Texas",earthquake,0,1.198227911,0.2,13,automatic,tx,tx
 2023-11-09T20:01:44.880Z,34.993,-118.1856667,-0.93,1.2,ml,14,63,0.1193,0.26,ci,ci39710882,2023-11-09T20:25:48.496Z,"7 km S of Mojave, CA",quarry blast,0.49,31.61,0.079,9,reviewed,ci,ci
-2023-11-09T19:59:26.550Z,38.8356667,-122.8085022,2.06,1.3,md,25,76,0.01232,0.02,nc,nc73960586,2023-11-09T20:18:11.313Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.41,0.18,26,automatic,nc,nc
+2023-11-09T19:59:26.550Z,38.8356667,-122.8085022,2.06,1.3,md,25,76,0.01232,0.02,nc,nc73960586,2023-11-09T22:49:11.226Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.41,0.18,26,automatic,nc,nc
 2023-11-09T19:57:00.680Z,63.2683,-149.7913,96,3.6,ml,,,,0.61,ak,ak023edyv2w6,2023-11-09T21:40:01.040Z,"44 km WSW of Cantwell, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-11-09T19:51:15.640Z,35.0605,-118.342,-0.93,1.17,ml,11,68,0.06974,0.17,ci,ci39710874,2023-11-09T20:21:14.391Z,"13 km SE of Tehachapi, CA",quarry blast,0.41,31.61,0.106,7,reviewed,ci,ci
 2023-11-09T19:35:48.940Z,33.4845,-116.476,10.82,0.81,ml,23,98,0.0572,0.15,ci,ci39710866,2023-11-09T20:17:10.054Z,"20 km ESE of Anza, CA",earthquake,0.34,0.51,0.138,15,reviewed,ci,ci
@@ -110,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T09:40:36.410Z,31.597,-104.546,3.3162,2,ml(texnet),18,162,0.1,0.4,tx,tx2023vyub,2023-11-09T10:18:43.100Z,"66 km SSW of Whites City, New Mexico",earthquake,0,1.64808463,0.1,14,automatic,tx,tx
 2023-11-09T09:39:15.010Z,38.7809982,-122.7456665,0.29,1.68,md,24,75,0.007337,0.04,nc,nc73960376,2023-11-09T12:38:10.553Z,"1 km ENE of The Geysers, CA",earthquake,0.19,0.4,0.11,25,automatic,nc,nc
 2023-11-09T09:35:53.619Z,36.42883333,-96.92633333,5.82,1.21,ml,55,63,0.02699470272,0.27,ok,ok2023vyty,2023-11-09T13:33:51.132Z,"14 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.23,25,reviewed,ok,ok
+2023-11-09T09:34:54.186Z,56.0492,-157.7664,54.665,3.4,ml,42,190,0.841,0.43,us,us7000l9t6,2023-11-09T22:44:48.040Z,"48 km SE of Chignik, Alaska",earthquake,8.2,24.602,0.059,38,reviewed,us,us
 2023-11-09T09:18:39.780Z,38.646,-122.7323333,6.4,1.09,md,38,57,0.06753,0.08,nc,nc73960371,2023-11-09T22:26:09.967Z,"12 km ENE of Healdsburg, CA",earthquake,0.18,0.31,0.123,30,reviewed,nc,nc
 2023-11-09T09:14:58.476Z,31.638,-104.012,5.6419,1.9,mlv,14,81,0,0.2,tx,tx2023vytg,2023-11-09T09:36:30.145Z,"39 km W of Mentone, Texas",earthquake,0,2.111156926,0.2,12,automatic,tx,tx
 2023-11-09T09:14:17.574Z,-5.5615,130.1774,10,5.1,mww,65,46,6.889,0.69,us,us7000l9t5,2023-11-09T09:32:20.040Z,"282 km SSE of Amahai, Indonesia",earthquake,7.94,1.861,0.078,16,reviewed,us,us
@@ -222,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-08T22:59:46.020Z,35.6506667,-117.4393333,9.52,1.55,ml,33,67,0.01922,0.15,ci,ci39710546,2023-11-09T01:09:08.544Z,"13 km SSW of Searles Valley, CA",earthquake,0.2,0.36,0.132,16,reviewed,ci,ci
 2023-11-08T22:55:03.850Z,46.2265,-122.17,8.27,0.04,ml,16,91,0.01815,0.16,uw,uw61971386,2023-11-09T05:51:06.950Z,"37 km SSE of Morton, Washington",earthquake,0.45,0.55,0.0980673597109753,7,reviewed,uw,uw
 2023-11-08T22:53:53.548Z,26.586,126.8343,132.919,4.4,mb,31,127,1.31,1.19,us,us7000l9qc,2023-11-08T23:21:25.040Z,"93 km WNW of Yomitan, Japan",earthquake,8.23,7.895,0.138,15,reviewed,us,us
-2023-11-08T22:50:26.551Z,62.0755,-149.2955,19.2,1.7,ml,,,,1.07,ak,ak023ecd2l8f,2023-11-08T22:52:42.656Z,"30 km ESE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-08T22:43:36.219Z,34.262,-96.38816667,0,1.38,ml,46,173,0.6541716292,0.43,ok,ok2023vxyl,2023-11-09T13:51:25.699Z,"12 km N of Kenefic, Oklahoma",quarry blast,,0.6,0.18,16,reviewed,ok,ok
