@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-10T16:41:59.730Z,38.8458328,-122.81633,1.3,0.81,md,17,67,0.01038,0.04,nc,nc73960991,2023-11-10T16:43:35.898Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.45,0.22,17,automatic,nc,nc
+2023-11-10T16:41:59.730Z,38.8458328,-122.81633,1.3,0.81,md,17,67,0.01038,0.04,nc,nc73960991,2023-11-10T16:51:10.445Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.45,0.22,17,automatic,nc,nc
 2023-11-10T16:24:16.834Z,61.2437,-149.9873,45,1.7,ml,,,,0.51,ak,ak023efkf383,2023-11-10T16:26:28.555Z,"5 km WNW of Anchorage, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-10T16:23:38.271Z,31.64,-104.015,4.3656,1.7,ml(texnet),18,43,0,0.3,tx,tx2023wbcz,2023-11-10T16:43:25.784Z,"40 km W of Mentone, Texas",earthquake,0,1.156541736,0.2,14,automatic,tx,tx
 2023-11-10T16:21:38.366Z,61.3363,-149.9905,36.8,1.8,ml,,,,0.36,ak,ak023efkehqk,2023-11-10T16:23:21.738Z,"2 km SSW of Point MacKenzie, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T15:36:51.203Z,38.1686,-117.8605,7.2,2.6,ml,19,106.33,0.102,0.2191,nn,nn00868738,2023-11-10T16:39:39.040Z,"32 km SE of Mina, Nevada",earthquake,,0.6,0.39,12,automatic,nn,nn
 2023-11-10T15:36:29.520Z,32.797,47.6372,10,5.2,mb,51,70,2.667,0.8,us,us7000la3j,2023-11-10T15:53:21.040Z,"29 km SE of Ābdānān, Iran",earthquake,8.45,1.856,0.053,115,reviewed,us,us
 2023-11-10T15:33:30.809Z,38.1924,-117.8477,2.6,2.7,ml,17,109.65,0.108,0.3165,nn,nn00868736,2023-11-10T16:04:05.040Z,"31 km SE of Mina, Nevada",earthquake,,0.6,0.27,8,automatic,nn,nn
-2023-11-10T15:30:44.470Z,38.1859,-117.8543,12.7,4.3,ml,13,43.65,0.104,0.1701,nn,nn00868733,2023-11-10T16:43:44.337Z,"Nevada",earthquake,,1.3,0.58,6,reviewed,nn,nn
+2023-11-10T15:30:44.470Z,38.1859,-117.8543,12.7,4.3,ml,13,43.65,0.104,0.1701,nn,nn00868733,2023-11-10T16:49:08.809Z,"Nevada",earthquake,,1.3,0.58,6,reviewed,nn,nn
 2023-11-10T15:27:38.224Z,-28.6931,-71.6426,43.618,5.1,mb,37,145,0.698,0.91,us,us7000la3e,2023-11-10T16:01:28.733Z,"87 km W of Vallenar, Chile",earthquake,3.31,6.715,0.121,22,reviewed,us,us
 2023-11-10T14:41:48.620Z,44.2878333,-110.8021667,3.23,1.42,md,10,86,0.01691,0.04,uu,uu60553987,2023-11-10T15:18:48.420Z,"Wyoming",earthquake,0.23,0.37,0.113,7,reviewed,uu,uu
 2023-11-10T14:25:35.104Z,60.1864,-153.288,150.4,2.1,ml,,,,0.41,ak,ak023efj8h52,2023-11-10T14:27:30.313Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -94,7 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T04:16:40.196Z,31.639,-104.01,5.9645,1.9,ml(texnet),25,26,0,0.2,tx,tx2023waey,2023-11-10T14:13:20.073Z,"39 km W of Mentone, Texas",earthquake,0.454427277,0.5642389883,0.1,7,reviewed,tx,tx
 2023-11-10T04:01:38.887Z,36.765,-116.0091,6.5,0.3,ml,7,207.98,0.026,0.0631,nn,nn00868732,2023-11-10T15:00:38.217Z,"37 km NW of Indian Springs, Nevada",earthquake,,1.9,0.58,2,reviewed,nn,nn
 2023-11-10T04:01:13.352Z,38.8893,-118.5747,2.3,1.4,ml,11,100.99,0.401,0.1484,nn,nn00868718,2023-11-10T04:04:04.852Z,"21 km ESE of Schurz, Nevada",earthquake,,1.6,0.28,5,automatic,nn,nn
-2023-11-10T03:55:07.246Z,55.6135,166.2035,10,4.9,mww,60,90,5.126,0.8,us,us7000l9zi,2023-11-10T04:15:21.040Z,"242 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,10.53,1.866,0.089,12,reviewed,us,us
+2023-11-10T03:55:07.246Z,55.6135,166.2035,10,4.9,mww,60,90,5.126,0.8,us,us7000l9zi,2023-11-10T04:15:21.040Z,"Komandorskiye Ostrova, Russia region",earthquake,10.53,1.866,0.089,12,reviewed,us,us
 2023-11-10T03:50:35.199Z,-6.0431,130.1688,10,5.9,mww,88,43,7.325,0.94,us,us7000l9ze,2023-11-10T05:53:53.204Z,"289 km W of Tual, Indonesia",earthquake,7.8,1.75,0.071,19,reviewed,us,us
 2023-11-10T03:48:52.887Z,-6.0269,130.0031,10,4.9,mb,32,121,8.751,0.37,us,us7000l9zd,2023-11-10T04:03:59.040Z,"Banda Sea",earthquake,9.57,1.885,0.11,26,reviewed,us,us
 2023-11-10T03:45:31.070Z,38.7888333,-122.7368333,2.5,0.45,md,26,88,0.005589,0.02,nc,nc73960741,2023-11-10T11:54:10.679Z,"2 km NE of The Geysers, CA",earthquake,0.16,0.36,0.281,18,reviewed,nc,nc
