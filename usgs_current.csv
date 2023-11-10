@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-10T03:25:57.340Z,19.4888324737549,-155.492004394531,4.82999992370605,1.91999996,md,21,63,,0.239999995,hv,hv73642592,2023-11-10T03:29:16.870Z,"27 km W of Volcano, Hawaii",earthquake,0.51,1.24000001,0.469999999,9,automatic,hv,hv
-2023-11-10T03:24:36.920Z,33.4871674,-116.4846649,10.1,1.01,ml,31,98,0.08012,0.17,ci,ci39711050,2023-11-10T03:26:44.425Z,"19 km ESE of Anza, CA",earthquake,0.42,0.65,0.251,7,automatic,ci,ci
+2023-11-10T03:25:57.340Z,19.4888324737549,-155.492004394531,4.82999992370605,1.93,ml,21,63,,0.239999995,hv,hv73642592,2023-11-10T03:31:28.760Z,"27 km W of Volcano, Hawaii",earthquake,0.51,1.24000001,0.36,3,automatic,hv,hv
+2023-11-10T03:24:36.920Z,33.4871674,-116.4846649,10.1,1.01,ml,31,98,0.08012,0.17,ci,ci39711050,2023-11-10T03:30:44.291Z,"19 km ESE of Anza, CA",earthquake,0.42,0.65,0.251,7,automatic,ci,ci
 2023-11-10T03:18:06.990Z,33.8019981,-116.9235001,10.17,1.11,ml,28,67,0.114,0.17,ci,ci39711042,2023-11-10T03:24:25.258Z,"4 km ENE of San Jacinto, CA",earthquake,0.35,0.82,0.142,7,automatic,ci,ci
 2023-11-10T03:04:08.630Z,33.2713318,-116.7835007,9.88,1.14,ml,40,81,0.0409,0.14,ci,ci39711034,2023-11-10T03:10:23.180Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.22,0.77,0.286,8,automatic,ci,ci
 2023-11-10T02:59:39.760Z,38.8064995,-122.8101654,2.15,1.08,md,16,56,0.0117,0.02,nc,nc73960731,2023-11-10T03:10:10.568Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.56,0.21,18,automatic,nc,nc
@@ -202,6 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T05:40:38.306Z,31.667,-104.424,8.6252,2.2,ml(texnet),15,74,0,0.4,tx,tx2023vymf,2023-11-09T12:40:41.499Z,"56 km S of Whites City, New Mexico",earthquake,1.460876916,1.069787885,0.2,13,reviewed,tx,tx
 2023-11-09T05:38:46.330Z,46.562,-122.42266666666667,13.1,1.07,ml,46,44,0.09995,0.18,uw,uw61971441,2023-11-09T19:41:28.760Z,"5 km NE of Mossyrock, Washington",earthquake,0.21,0.93,0.17080064054311228,20,reviewed,uw,uw
 2023-11-09T05:35:04.952Z,31.634,-104.025,4.5579,1.5,ml(texnet),14,74,0,0.2,tx,tx2023vyma,2023-11-09T06:21:57.532Z,"western Texas",earthquake,0,1.315168076,0.2,12,automatic,tx,tx
+2023-11-09T05:34:28.910Z,53.7816666666667,-166.843333333333,7.94,0.26,ml,6,232,,0.05,av,av92112036,2023-11-10T03:37:32.260Z,"22 km WSW of Unalaska, Alaska",earthquake,0.4,0.46,0.335981134106234,7,reviewed,av,av
 2023-11-09T05:32:59.670Z,38.8390007,-122.8235016,1.59,0.72,md,7,214,0.009369,0,nc,nc73960316,2023-11-09T05:59:11.417Z,"9 km WNW of Cobb, CA",earthquake,0.76,1.46,0.1,9,automatic,nc,nc
 2023-11-09T05:24:40.190Z,38.7981682,-122.7288361,0.45,0.55,md,7,110,0.01613,0.04,nc,nc73960311,2023-11-09T06:28:14.465Z,"3 km S of Cobb, CA",earthquake,0.31,1.65,0.13,7,automatic,nc,nc
 2023-11-09T05:22:02.890Z,38.7988319,-122.7298355,0.47,0.73,md,8,106,0.01648,0.03,nc,nc73960296,2023-11-09T05:55:12.267Z,"3 km SSW of Cobb, CA",earthquake,0.3,1.33,0.04,8,automatic,nc,nc
@@ -217,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T04:12:30.555Z,31.636,-104.01,6.0159,2.1,ml(texnet),20,58,0,0.2,tx,tx2023vyji,2023-11-09T12:23:30.825Z,"39 km W of Mentone, Texas",earthquake,0.5539182356,0.4543536886,0.2,7,reviewed,tx,tx
 2023-11-09T03:57:07.834Z,37.2406,-116.3896,8.5,0.4,ml,13,127.4,0.056,0.1227,nn,nn00868691,2023-11-09T22:36:38.463Z,"49 km NE of Beatty, Nevada",earthquake,,1.5,0.6,6,reviewed,nn,nn
 2023-11-09T03:41:33.390Z,31.629,-103.996,5.9821,1.7,ml(texnet),15,82,0,0.2,tx,tx2023vyil,2023-11-09T04:33:24.061Z,"western Texas",earthquake,0,2.100478109,0.2,12,automatic,tx,tx
-2023-11-09T03:34:10.632Z,61.2871,-151.7181,74.4,1.4,ml,,,,0.66,ak,ak023edp78jr,2023-11-09T03:36:28.356Z,"37 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-11-09T03:30:56.950Z,37.0475,-121.1673333,4.65,1.19,md,34,75,0.05094,0.13,nc,nc73960281,2023-11-09T18:16:12.550Z,"28 km SSW of Gustine, CA",earthquake,0.18,0.97,0.182,23,reviewed,nc,nc
-2023-11-09T03:30:49.254Z,31.638,-103.999,4.9107,1.8,ml(texnet),20,47,0,0.2,tx,tx2023vyib,2023-11-09T03:59:30.637Z,"western Texas",earthquake,0,1.131048263,0.2,16,automatic,tx,tx
