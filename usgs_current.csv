@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-10T08:57:06.145Z,56.4777,-153.0777,0,2.7,ml,,,,0.93,ak,ak023effuo6u,2023-11-10T09:00:37.737Z,"81 km S of Old Harbor, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-11-10T08:16:39.070Z,19.3950004577637,-155.27783203125,1.0900000333786,1.83000004,md,14,51,,0.219999999,hv,hv73642697,2023-11-10T08:19:36.960Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.330000013,1.14999998,11,automatic,hv,hv
+2023-11-10T08:14:15.268Z,31.587,-104.425,2.6731,1.6,ml(texnet),13,111,0.1,0.6,tx,tx2023wamv,2023-11-10T09:02:20.529Z,"65 km S of Whites City, New Mexico",earthquake,0,2.194156546,0.2,11,automatic,tx,tx
 2023-11-10T08:10:44.530Z,38.7874985,-122.7334976,1.77,0.77,md,9,87,0.004947,0.02,nc,nc73960806,2023-11-10T08:20:10.250Z,"2 km ENE of The Geysers, CA",earthquake,0.36,0.74,0.12,9,automatic,nc,nc
 2023-11-10T07:48:04.627Z,4.3549,-73.4965,10,4.5,mb,43,82,1.582,0.54,us,us7000la0s,2023-11-10T08:38:31.172Z,"Colombia",earthquake,7.45,1.922,0.088,38,reviewed,us,us
 2023-11-10T07:29:48.020Z,33.9343338,-116.6313324,8.32,0.99,ml,22,63,0.1048,0.23,ci,ci39711122,2023-11-10T07:35:54.582Z,"9 km WNW of Garnet, CA",earthquake,0.36,1.72,0.189,7,automatic,ci,ci
@@ -25,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T04:51:46.280Z,38.7813339,-122.7251663,1.01,0.95,md,7,109,0.009232,0.02,nc,nc73960756,2023-11-10T05:01:11.172Z,"3 km E of The Geysers, CA",earthquake,0.66,1.67,0.39,8,automatic,nc,nc
 2023-11-10T04:46:01.170Z,34.3409996,-116.8661652,0.47,2.31,ml,94,18,0.03278,0.17,ci,ci39711058,2023-11-10T04:56:41.600Z,"9 km NNW of Big Bear City, CA",earthquake,0.13,0.32,0.222,24,automatic,ci,ci
 2023-11-10T04:45:14.591Z,31.638,-104.014,6.0802,2.9,ml(texnet),21,68,0,0.2,tx,tx2023wafw,2023-11-10T05:11:37.080Z,"40 km W of Mentone, Texas",earthquake,0.6355574334,0.5391408959,0.2,13,reviewed,tx,tx
-2023-11-10T04:44:11.176Z,31.642,-103.974,7.1681,3.4,mlv,6,197,0,0.4,tx,tx2023wafv,2023-11-10T05:50:37.579Z,"western Texas",earthquake,0,5.469876244,0.3,6,automatic,tx,tx
+2023-11-10T04:44:11.176Z,31.642,-103.974,7.1681,3.4,mlv,6,197,0,0.4,tx,tx2023wafv,2023-11-10T08:57:35.693Z,"western Texas",earthquake,0,5.469876244,0.3,6,automatic,tx,tx
 2023-11-10T04:42:10.976Z,62.3597,-149.0899,16.1,1.5,ml,,,,0.38,ak,ak023efddqgc,2023-11-10T04:44:28.871Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-10T04:19:03.745Z,61.6142,-151.0233,63.4,1.7,ml,,,,0.27,ak,ak023efd8sdi,2023-11-10T04:21:22.980Z,"28 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-10T04:16:40.077Z,31.641,-104.004,6.246,1.9,ml(texnet),21,36,0,0.3,tx,tx2023waey,2023-11-10T04:33:48.316Z,"39 km W of Mentone, Texas",earthquake,0,2.018648231,0.3,17,automatic,tx,tx
@@ -201,10 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-09T09:05:28.617Z,31.598,-104.245,8.3167,2.3,ml(texnet),25,61,0.1,0.2,tx,tx2023vysy,2023-11-09T19:58:01.257Z,"53 km NW of Toyah, Texas",earthquake,1.058948513,1.356305135,0.1,15,reviewed,tx,tx
 2023-11-09T09:05:06.900Z,38.5515,-112.6986667,7.15,0.78,md,16,74,0.09299,0.07,uu,uu60553907,2023-11-09T14:28:54.340Z,"30 km N of Beaver, Utah",earthquake,0.44,0.99,0.319,7,reviewed,uu,uu
 2023-11-09T09:04:10.900Z,38.5596667,-112.7003333,6.85,0.02,md,9,160,0.09766,0.04,uu,uu60033954,2023-11-09T15:25:36.150Z,"31 km N of Beaver, Utah",earthquake,0.6,0.91,0.227,5,reviewed,uu,uu
-2023-11-09T09:03:51.490Z,38.556,-112.6966667,7.31,0.78,md,11,157,0.09717,0.06,uu,uu60553902,2023-11-09T15:22:59.540Z,"31 km N of Beaver, Utah",earthquake,0.56,1.06,0.28,6,reviewed,uu,uu
-2023-11-09T09:02:22.230Z,38.5556667,-112.6995,7.84,0.47,md,9,157,0.09532,0.05,uu,uu60553897,2023-11-09T15:17:46.390Z,"31 km N of Beaver, Utah",earthquake,0.52,0.8,0.194,5,reviewed,uu,uu
-2023-11-09T09:02:07.240Z,38.5575,-112.7036667,7.45,0.03,md,9,159,0.09428,0.08,uu,uu60033949,2023-11-09T15:20:22.940Z,"31 km N of Beaver, Utah",earthquake,0.56,0.85,0.304,4,reviewed,uu,uu
-2023-11-09T09:01:30.720Z,38.5526667,-112.6983333,7.3,1.18,md,10,155,0.09396,0.05,uu,uu60033944,2023-11-09T14:34:38.360Z,"31 km N of Beaver, Utah",earthquake,0.62,0.98,0.391,6,reviewed,uu,uu
-2023-11-09T09:01:18.260Z,38.5698333,-112.6993333,8.82,1.54,ml,22,64,0.1057,0.16,uu,uu60553892,2023-11-09T14:31:30.880Z,"Utah",earthquake,0.52,0.79,0.222,3,reviewed,uu,uu
-2023-11-09T08:56:50.892Z,31.621,-104.497,7.3141,2.5,ml(texnet),30,75,0,0.2,tx,tx2023vysp,2023-11-09T12:53:53.082Z,"62 km S of Whites City, New Mexico",earthquake,0.9917187527,0.7343032935,0.1,24,reviewed,tx,tx
-2023-11-09T08:54:33.785Z,61.4013,-150.6645,52.4,1.9,ml,,,,0.25,ak,ak023edsaqoi,2023-11-09T08:56:40.659Z,"17 km SSW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
