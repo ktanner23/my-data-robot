@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-11T15:58:10.794Z,63.5611,-147.7119,0,1.8,ml,,,,0.51,ak,ak023eh7k9zr,2023-11-11T15:59:56.109Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T15:49:35.730Z,33.8671667,-116.5146667,9.37,0.61,ml,26,62,0.1146,0.08,ci,ci39711690,2023-11-11T15:55:39.996Z,"5 km SE of Garnet, CA",earthquake,0.12,0.6,0.065,10,automatic,ci,ci
 2023-11-11T15:44:34.010Z,33.0185013,-116.7675018,10.21,1.47,ml,11,110,0.05475,0.27,ci,ci39711682,2023-11-11T15:51:04.978Z,"2 km NE of San Diego Country Estates, CA",earthquake,0.81,1.74,0.581,9,automatic,ci,ci
+2023-11-11T15:43:05.103Z,31.633,-103.985,5.2939,2,ml(texnet),14,87,0,0.2,tx,tx2023wcxc,2023-11-11T15:58:18.815Z,"western Texas",earthquake,0,2.132033097,0.2,12,automatic,tx,tx
+2023-11-11T15:39:51.235Z,31.635,-103.986,4.5639,1.5,ml(texnet),13,88,0,0.2,tx,tx2023wcxb,2023-11-11T15:58:10.552Z,"western Texas",earthquake,0,1.299171162,0.2,11,automatic,tx,tx
 2023-11-11T15:23:53.510Z,64.7728,-148.0735,1.3,1.2,ml,,,,0.55,ak,ak023eh7cv87,2023-11-11T15:25:30.665Z,"8 km SSW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-11T15:05:47.180Z,38.8284988,-122.8193359,1.69,0.79,md,19,55,0.008849,0.02,nc,nc73961606,2023-11-11T15:16:11.091Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.38,0.22,19,automatic,nc,nc
 2023-11-11T14:52:49.600Z,38.8326683,-122.8044968,2.17,1.09,md,16,49,0.01023,0.04,nc,nc73961596,2023-11-11T15:03:11.017Z,"7 km W of Cobb, CA",earthquake,0.31,0.75,0.08,16,automatic,nc,nc
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T13:56:34.980Z,38.7944984,-122.7490005,2.63,0.71,md,12,92,0.01037,0.02,nc,nc73961586,2023-11-11T14:07:10.677Z,"2 km NNE of The Geysers, CA",earthquake,0.35,0.82,0.12,11,automatic,nc,nc
 2023-11-11T13:36:12.030Z,38.7873344,-122.746666,0.97,1.47,md,18,83,0.008781,0.03,nc,nc73961581,2023-11-11T13:48:51.807Z,"1 km NE of The Geysers, CA",earthquake,0.22,0.63,0.16,20,automatic,nc,nc
 2023-11-11T13:26:52.520Z,34.0531667,-117.535,9.35,0.87,ml,35,61,0.06967,0.12,ci,ci39711626,2023-11-11T13:33:35.123Z,"6 km NW of Glen Avon, CA",earthquake,0.19,0.32,0.241,13,automatic,ci,ci
-2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T13:31:10.450Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
+2023-11-11T13:19:15.470Z,38.8330002,-122.8184967,2,0.23,md,10,66,0.01163,0.02,nc,nc73961571,2023-11-11T15:59:11.358Z,"8 km NW of The Geysers, CA",earthquake,0.37,0.99,0.12,10,automatic,nc,nc
 2023-11-11T13:18:17.243Z,-17.9437,-178.1799,591.825,4.5,mb,42,100,24.936,0.87,us,us7000lace,2023-11-11T13:40:34.040Z,"Fiji region",earthquake,11.43,7.288,0.099,33,reviewed,us,us
 2023-11-11T13:16:15.030Z,38.822834,-122.8443298,1.72,0.72,md,12,85,0.00727,0.03,nc,nc73961566,2023-11-11T15:34:10.199Z,"9 km WNW of The Geysers, CA",earthquake,0.35,0.65,0.42,12,automatic,nc,nc
 2023-11-11T12:53:46.130Z,33.9895,-116.4638333,8.3,1.83,ml,74,36,0.06683,0.13,ci,ci39711610,2023-11-11T13:04:42.520Z,"5 km NE of Desert Hot Springs, CA",earthquake,0.09,0.31,0.142,26,automatic,ci,ci
@@ -278,6 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T16:19:37.780Z,19.3925,-155.281833333333,1.51,0.59,md,13,80,,0.07,hv,hv73643027,2023-11-10T17:51:21.290Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.27,0.0881309448763702,2,reviewed,hv,hv
 2023-11-10T16:18:05.772Z,31.638,-103.986,5.9419,1.9,ml(texnet),19,49,0,0.2,tx,tx2023wbcs,2023-11-10T16:43:20.292Z,"37 km WSW of Mentone, Texas",earthquake,0,2.510262692,0.3,14,automatic,tx,tx
 2023-11-10T16:15:03.901Z,64.027,-154.3972,6.1,1.8,ml,,,,0.41,ak,ak023efkd4s6,2023-11-10T16:18:17.702Z,"95 km SSE of Ruby, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-10T16:06:00.550Z,19.6901,-67.9041,72,3.59,md,4,239,1.345,0.29,pr,pr2023314004,2023-11-10T22:51:37.617Z,"Mona Passage",earthquake,4.24,9.84,0.15,3,reviewed,pr,pr
-2023-11-10T16:01:04.277Z,38.1916,-117.8595,13.2,2.1,ml,10,77.54,0.099,0.1044,nn,nn00868744,2023-11-10T22:23:54.300Z,"31 km SE of Mina, Nevada",earthquake,,1,0.32,7,reviewed,nn,nn
-2023-11-10T16:00:17.870Z,58.1708333333333,-155.362166666667,1.32,0.08,ml,10,77,,0.1,av,av91121278,2023-11-11T00:41:15.780Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.98,0.139104357073356,10,reviewed,av,av
