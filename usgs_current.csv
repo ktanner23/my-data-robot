@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-11T17:48:43.420Z,38.8310013,-122.8166656,2.53,1.13,md,7,106,0.009176,0.02,nc,nc73961681,2023-11-11T17:50:15.830Z,"8 km NW of The Geysers, CA",earthquake,0.88,3.77,0.2,5,automatic,nc,nc
-2023-11-11T17:48:23.070Z,33.4763333,-116.4516667,8.63,1.54,ml,74,25,0.05171,0.17,ci,ci39711762,2023-11-11T17:55:10.433Z,"22 km ESE of Anza, CA",earthquake,0.11,0.29,0.175,26,automatic,ci,ci
-2023-11-11T17:47:18.730Z,33.4746667,-116.4476667,9.11,1.24,ml,56,50,0.05196,0.17,ci,ci39711754,2023-11-11T17:53:52.736Z,"23 km ESE of Anza, CA",earthquake,0.14,0.31,0.168,26,automatic,ci,ci
+2023-11-11T17:48:43.420Z,38.8310013,-122.8166656,2.53,1.13,md,7,106,0.009176,0.02,nc,nc73961681,2023-11-11T17:59:12.040Z,"8 km NW of The Geysers, CA",earthquake,0.88,3.77,0.2,5,automatic,nc,nc
+2023-11-11T17:48:23.070Z,33.4763333,-116.4516667,8.63,1.54,ml,74,25,0.05171,0.17,ci,ci39711762,2023-11-11T17:59:10.990Z,"22 km ESE of Anza, CA",earthquake,0.11,0.29,0.175,26,automatic,ci,ci
+2023-11-11T17:47:18.730Z,33.4746667,-116.4476667,9.11,1.24,ml,56,50,0.05196,0.17,ci,ci39711754,2023-11-11T17:58:07.960Z,"23 km ESE of Anza, CA",earthquake,0.14,0.31,0.168,26,automatic,ci,ci
 2023-11-11T17:22:13.224Z,31.608,-103.993,4.513,1.7,ml(texnet),15,42,0,0.2,tx,tx2023wdaj,2023-11-11T17:44:22.423Z,"37 km NNW of Toyah, Texas",earthquake,0,1.408657048,0.3,12,automatic,tx,tx
 2023-11-11T17:16:04.800Z,31.639,-104.013,5.8876,1.8,mlv,6,164,0,0.2,tx,tx2023wdad,2023-11-11T17:40:23.327Z,"39 km W of Mentone, Texas",earthquake,0,4.905157855,0.2,5,automatic,tx,tx
 2023-11-11T17:04:18.180Z,40.3720016,-124.5569992,20.04,2,md,10,302,0.1796,0.13,nc,nc73961656,2023-11-11T17:12:10.766Z,"24 km WNW of Petrolia, CA",earthquake,4.83,0.84,0.03,5,automatic,nc,nc
@@ -185,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T00:53:04.840Z,61.9709,-149.8131,33.9,1.9,ml,,,,0.57,ak,ak023egylovg,2023-11-11T00:56:08.990Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-11T00:51:42.630Z,38.8306656,-122.8176651,1.79,0.71,md,10,129,0.009374,0.01,nc,nc73961176,2023-11-11T02:04:10.498Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.69,0.25,10,automatic,nc,nc
 2023-11-11T00:22:38.410Z,33.2653333,-116.4366667,4.39,1.49,ml,65,37,0.0845,0.17,ci,ci39711434,2023-11-11T00:33:50.310Z,"6 km W of Borrego Springs, CA",earthquake,0.14,0.49,0.172,26,automatic,ci,ci
-2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T17:43:20.541Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
+2023-11-11T00:18:42.258Z,39.0471,-97.6158,5,4,mwr,33,37,0.785,0.4,us,us7000la9a,2023-11-11T18:02:36.083Z,"2 km NW of Bennington, Kansas",earthquake,1.9,1.994,0.032,93,reviewed,us,us
 2023-11-11T00:17:39.270Z,59.6102,-151.8835,49.3,2.1,ml,,,,0.47,ak,ak023egye1rb,2023-11-11T00:19:57.929Z,"18 km S of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-11T00:16:36.040Z,46.193333333333335,-122.195,0.56,0.45,ml,8,108,0.007061,0.14,uw,uw61971646,2023-11-11T05:30:31.810Z,"37 km NNE of Amboy, Washington",earthquake,0.82,0.74,0.4973317441950629,4,reviewed,uw,uw
 2023-11-11T00:13:28.230Z,33.7501667,-116.0786667,4.9,1.09,ml,39,48,0.1201,0.13,ci,ci39711426,2023-11-11T01:32:51.394Z,"12 km NE of Coachella, CA",earthquake,0.14,0.44,0.127,20,reviewed,ci,ci
@@ -265,5 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-10T18:09:00.031Z,63.7731,-22.5542,10,5,mb,50,102,6.723,0.68,us,us7000la6d,2023-11-10T18:54:04.018Z,"9 km SW of Grindavík, Iceland",earthquake,8.68,1.873,0.045,158,reviewed,us,us
 2023-11-10T18:06:46.140Z,37.4351667,-118.7966667,7.4,0.94,md,16,197,0.1567,0.16,nc,nc73961026,2023-11-10T20:12:10.609Z,"17 km SW of Toms Place, CA",earthquake,0.82,3.7,0.152,14,reviewed,nc,nc
 2023-11-10T18:06:07.371Z,63.9985,-22.6072,10,4.5,mb,64,104,0.936,0.71,us,us7000la6l,2023-11-10T19:31:43.040Z,"2 km W of Reykjanesbær, Iceland",earthquake,5.9,1.918,0.077,50,reviewed,us,us
-2023-11-10T18:05:09.700Z,33.2536667,-116.2053333,10.63,1.38,ml,52,39,0.1026,0.21,ci,ci39711266,2023-11-10T19:06:05.150Z,"14 km NNW of Ocotillo Wells, CA",earthquake,0.22,0.6,0.118,32,reviewed,ci,ci
-2023-11-10T18:00:56.626Z,63.8501,-22.5794,10,5.1,mww,177,48,1.054,0.67,us,us7000la69,2023-11-11T09:48:21.327Z,"7 km W of Grindavík, Iceland",earthquake,5.19,1.393,0.05,39,reviewed,us,us
