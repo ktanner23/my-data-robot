@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-12T16:46:20.940Z,38.8274994,-122.7991638,-0.52,0.38,md,8,122,0.009456,0.01,nc,nc73962116,2023-11-12T16:47:56.979Z,"7 km W of Cobb, CA",earthquake,0.32,1.03,0.32,8,automatic,nc,nc
+2023-11-12T16:46:20.940Z,38.8274994,-122.7991638,-0.52,0.38,md,8,122,0.009456,0.01,nc,nc73962116,2023-11-12T16:57:11.010Z,"7 km W of Cobb, CA",earthquake,0.32,1.03,0.32,8,automatic,nc,nc
 2023-11-12T16:44:46.440Z,19.3776664733887,-155.281661987305,0.939999997615814,2.89,ml,39,75,,0.300000012,hv,hv73645212,2023-11-12T16:50:18.480Z,"8 km SW of Volcano, Hawaii",earthquake,0.26,0.300000012,2.2,19,automatic,hv,hv
 2023-11-12T16:40:02.220Z,33.2328333,-116.4068333,2.11,0.87,ml,45,58,0.09937,0.19,ci,ci39712138,2023-11-12T16:46:08.731Z,"4 km SW of Borrego Springs, CA",earthquake,0.19,0.35,0.117,15,automatic,ci,ci
 2023-11-12T16:39:53.640Z,35.7316666,-121.112999,6.73,1.22,md,7,173,0.05936,0.03,nc,nc73962111,2023-11-12T16:51:10.980Z,"12 km NE of San Simeon, CA",earthquake,1.05,1.53,0.13,4,automatic,nc,nc
@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T04:05:31.280Z,34.1178322,-116.9785004,8.65,1.29,ml,57,52,0.04286,0.16,ci,ci39711970,2023-11-12T04:31:49.559Z,"11 km NNE of Yucaipa, CA",earthquake,0.21,0.49,0.229,7,automatic,ci,ci
 2023-11-12T03:52:16.594Z,35.10557175,-95.53878784,5,2.32,ml,49,85.22066879,0.111921899,0.9781072999,ok,ok2023wdvd,2023-11-12T03:57:24.480Z,"12 km E of Crowder, Oklahoma",earthquake,2.309120464,,0.3,14,automatic,ok,ok
 2023-11-12T03:48:18.720Z,51.8673333333333,-177.931833333333,5.46,2,ml,5,172,,0.1,av,av92115911,2023-11-12T05:25:39.900Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.44,0.96,0.208921488531943,5,reviewed,av,av
-2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"western Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
+2023-11-12T03:44:59.897Z,31.647,-104.001,6.3119,1.5,ml(texnet),18,35,0,0.5,tx,tx2023wdux,2023-11-12T04:17:36.558Z,"38 km W of Mentone, Texas",earthquake,0,2.12119345,0.2,12,automatic,tx,tx
 2023-11-12T03:39:39.780Z,38.828167,-122.8554993,2.49,1.29,md,23,61,0.00124,0.02,nc,nc73961921,2023-11-12T05:11:11.125Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.42,0.16,26,automatic,nc,nc
 2023-11-12T03:33:15.420Z,19.3770008087158,-155.281494140625,1.70000004768372,2.1,ml,27,91,,0.189999998,hv,hv73644637,2023-11-12T03:38:52.810Z,"8 km SW of Volcano, Hawaii",earthquake,0.27,0.310000002,0.3,9,automatic,hv,hv
 2023-11-12T03:29:02.390Z,51.8673333333333,-177.930166666667,6.32,1.18,ml,4,217,,0.12,av,av92115881,2023-11-12T06:25:55.250Z,"89 km W of Adak, Alaska",earthquake,0.65,1.3,0.178719475091409,4,reviewed,av,av
@@ -178,6 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T17:22:13.224Z,31.608,-103.993,4.513,1.7,ml(texnet),15,42,0,0.2,tx,tx2023wdaj,2023-11-11T17:44:22.423Z,"37 km NNW of Toyah, Texas",earthquake,0,1.408657048,0.3,12,automatic,tx,tx
 2023-11-11T17:16:04.800Z,31.639,-104.013,5.8876,1.8,mlv,6,164,0,0.2,tx,tx2023wdad,2023-11-11T17:40:23.327Z,"39 km W of Mentone, Texas",earthquake,0,4.905157855,0.2,5,automatic,tx,tx
 2023-11-11T17:04:18.180Z,40.3720016,-124.5569992,20.04,2,md,10,302,0.1796,0.13,nc,nc73961656,2023-11-11T20:15:11.700Z,"24 km WNW of Petrolia, CA",earthquake,4.83,0.84,0.03,5,automatic,nc,nc
-2023-11-11T16:59:09.460Z,33.7631667,-116.9336667,13.97,0.91,ml,36,82,0.07633,0.12,ci,ci39711738,2023-11-12T14:56:08.031Z,"3 km SE of San Jacinto, CA",earthquake,0.15,0.32,0.162,28,reviewed,ci,ci
-2023-11-11T16:58:38.520Z,36.5358315,-121.1526642,2.58,1.35,md,8,90,0.04446,0.36,nc,nc73961651,2023-11-11T20:00:10.850Z,"1 km WNW of Pinnacles, CA",earthquake,1.44,2.84,0.47,6,automatic,nc,nc
-2023-11-11T16:54:33.400Z,38.8358345,-122.8118362,1.84,0.78,md,13,76,0.0125,0.01,nc,nc73961646,2023-11-11T17:05:11.728Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.73,0.17,13,automatic,nc,nc
