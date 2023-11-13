@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T18:16:31.530Z,19.3728333333333,-154.950666666667,6.46,1.13,md,19,231,,0.2,hv,hv73646917,2023-11-13T20:22:54.960Z,"11 km SSW of Leilani Estates, Hawaii",earthquake,0.7,0.63,0.135980949612753,9,reviewed,hv,hv
 2023-11-13T18:06:20.783Z,32.216,-102.006,9.3173,2,ml(texnet),18,57,0.1,0.1,tx,tx2023wgsu,2023-11-13T23:18:39.763Z,"22 km WNW of Stanton, Texas",earthquake,0.9146210392,1.127331083,0.2,11,reviewed,tx,tx
 2023-11-13T17:59:43.390Z,38.8181648,-122.82267,2.19,1.36,md,28,47,0.01058,0.02,nc,nc73962526,2023-11-13T21:11:11.473Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.33,0.15,28,automatic,nc,nc
-2023-11-13T17:54:51.050Z,37.2473333,-118.2753333,12.75,3.23,ml,38,103,0.01773,0.08,nc,nc73962521,2023-11-13T23:21:06.229Z,"9 km N of Big Pine, CA",earthquake,0.27,0.36,0.161,32,reviewed,nc,nc
+2023-11-13T17:54:51.050Z,37.2473333,-118.2753333,12.75,3.23,ml,38,103,0.01773,0.08,nc,nc73962521,2023-11-13T23:23:11.210Z,"9 km N of Big Pine, CA",earthquake,0.27,0.36,0.161,32,reviewed,nc,nc
 2023-11-13T17:51:24.280Z,38.8300018,-122.8106689,1.34,0.57,md,11,62,0.006614,0.02,nc,nc73962516,2023-11-13T18:02:11.476Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.85,0.41,11,automatic,nc,nc
 2023-11-13T17:49:54.060Z,19.047,-155.373,33.17,2.57,ml,55,208,,0.12,hv,hv73646897,2023-11-13T22:43:01.510Z,"20 km SSE of Pāhala, Hawaii",earthquake,0.41,0.63,0.16974295437594,21,reviewed,hv,hv
 2023-11-13T17:48:18.786Z,-31.6044,-71.8759,33.094,4.3,mb,33,149,0.849,0.73,us,us7000laq3,2023-11-13T22:22:22.040Z,"67 km W of Illapel, Chile",earthquake,2.3,7.134,0.266,4,reviewed,us,us
@@ -123,7 +123,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T08:41:49.555Z,62.458,-149.3136,15.2,1.4,ml,,,,0.33,ak,ak023ekeddkb,2023-11-13T08:43:55.236Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-13T08:27:14.916Z,31.619,-104.011,4.8673,1.6,ml(texnet),15,44,0,0.2,tx,tx2023wfzt,2023-11-13T09:05:20.789Z,"western Texas",earthquake,0,1.273090385,0.2,13,automatic,tx,tx
 2023-11-13T08:26:37.874Z,31.64,-103.955,2.4961,2,mlv,7,213,0.1,0.5,tx,tx2023wgad,2023-11-13T09:04:29.703Z,"34 km WSW of Mentone, Texas",earthquake,0,2.274829766,0.2,7,automatic,tx,tx
+2023-11-13T08:15:43.900Z,58.1631666666667,-155.3825,1.5,0.08,ml,9,119,,0.09,av,av92117206,2023-11-13T23:29:29.020Z,"Alaska Peninsula",earthquake,0.25,0.84,0.203639617248339,9,reviewed,av,av
 2023-11-13T08:14:37.032Z,28.481,-98.47,2.5188,2.4,ml(texnet),14,106,0.2,0.3,tx,tx2023wfzh,2023-11-13T21:45:02.743Z,"8 km ENE of Tilden, Texas",earthquake,5.60343488,2.76086697,0.1,6,reviewed,tx,tx
+2023-11-13T08:04:12.980Z,58.1745,-155.2825,2.03,0.05,ml,9,111,,0.12,av,av92117191,2023-11-13T23:25:30.570Z,"Alaska Peninsula",earthquake,0.27,0.7,0.33503756927971,9,reviewed,av,av
 2023-11-13T07:52:58.730Z,58.1786666666667,-155.28,1.36,0.35,ml,11,107,,0.15,av,av92117171,2023-11-13T23:20:52.920Z,"83 km NW of Karluk, Alaska",earthquake,0.35,0.8,0.328527523374307,11,reviewed,av,av
 2023-11-13T07:52:11.640Z,39.2886667,-111.8975,12.94,1.46,ml,16,81,0.2268,0.13,uu,uu60554137,2023-11-13T18:31:50.580Z,"7 km NNW of Fayette, Utah",earthquake,0.36,0.59,0.015,4,reviewed,uu,uu
 2023-11-13T07:48:02.853Z,59.4162,-152.6093,76.8,2.1,ml,,,,0.33,ak,ak023ekdtcd9,2023-11-13T07:50:01.715Z,"39 km W of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -210,8 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-12T23:49:11.250Z,38.8330002,-122.817337,1.98,0.74,md,7,85,0.01114,0.01,nc,nc73962236,2023-11-13T00:57:10.674Z,"8 km NW of The Geysers, CA",earthquake,0.73,2.64,0.36,8,automatic,nc,nc
 2023-11-12T23:47:50.500Z,31.746,-104.139,6.8718,1,ml(texnet),19,59,0,0.1,tx,tx2023wfio,2023-11-13T22:45:41.685Z,"51 km W of Mentone, Texas",earthquake,0.4481638871,0.9301447319,0.1,15,reviewed,tx,tx
 2023-11-12T23:43:43.030Z,19.328,-155.119,6.56,2.12,md,22,148,,0.07,hv,hv73645757,2023-11-13T00:14:13.380Z,"Island of Hawaii, Hawaii",earthquake,0.43,0.81,0.112566706671467,4,reviewed,hv,hv
-2023-11-12T23:27:49.850Z,19.3633333333333,-155.295166666667,1.48,0.81,md,10,124,,0.06,hv,hv73645727,2023-11-12T23:53:35.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.28,0.61,0.158137754247149,2,reviewed,hv,hv
-2023-11-12T23:23:23.935Z,60.6888,-150.5967,27.7,1.5,ml,,,,0.58,ak,ak023eiznma1,2023-11-12T23:25:29.428Z,"19 km NNE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-12T23:23:12.900Z,34.2133333,-117.4603333,11.91,1.32,ml,49,46,0.06489,0.2,ci,ci39712290,2023-11-13T17:48:47.050Z,"6 km W of Devore, CA",earthquake,0.2,0.46,0.169,21,reviewed,ci,ci
-2023-11-12T23:22:17.630Z,38.1461678,-122.4478302,16.88,1.9,md,7,163,0.2942,0.12,nc,nc73962231,2023-11-13T00:30:11.769Z,"7 km ENE of Black Point-Green Point, CA",earthquake,6.44,12.75,,1,automatic,nc,nc
-2023-11-12T23:21:56.015Z,32.222,-101.997,9.0727,3.4,ml(texnet),13,72,0.1,0.1,tx,tx2023wfhu,2023-11-13T12:54:16.905Z,"western Texas",earthquake,0.559157684,0.9856451331,0.2,7,reviewed,tx,tx
