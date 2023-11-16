@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-16T23:40:35.920Z,33.2121658,-116.0361633,3.31,1.44,ml,35,68,0.06235,0.27,ci,ci39713986,2023-11-16T23:43:00.938Z,"12 km NE of Ocotillo Wells, CA",earthquake,0.3,0.46,0.243,4,automatic,ci,ci
+2023-11-16T23:40:35.880Z,33.2133333,-116.0336667,4.4,1.41,ml,56,58,0.06146,0.21,ci,ci39713986,2023-11-16T23:47:07.252Z,"12 km SW of Salton City, CA",earthquake,0.16,0.55,0.139,26,automatic,ci,ci
 2023-11-16T23:23:40.780Z,60.0022,-145.5645,15.1,2.5,ml,,,,0.49,ak,ak023eplt1jy,2023-11-16T23:25:28.735Z,"61 km S of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-16T23:10:58.143Z,65.0113,-147.4907,0.1,1.2,ml,,,,0.71,ak,ak023eplqal6,2023-11-16T23:22:47.869Z,"8 km NE of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-16T22:56:46.020Z,19.1638336181641,-155.504837036133,33.8899993896484,1.98000002,md,27,205,,0.129999995,hv,hv73650102,2023-11-16T22:59:53.810Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.9,0.949999988,0.540000021,11,automatic,hv,hv
@@ -157,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T03:06:59.036Z,61.0571,-148.4761,0,1.6,ml,,,,0.84,ak,ak023ep9srov,2023-11-16T03:08:37.791Z,"33 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-16T03:05:04.690Z,45.85516666666667,-122.41833333333334,15.05,1.6300000000000001,ml,13,199,0.07735,0.13,uw,uw61972436,2023-11-16T15:03:10.580Z,"1 km SW of Yacolt, Washington",earthquake,1.15,0.66,0.13359712504832966,8,reviewed,uw,uw
 2023-11-16T02:55:24.582Z,36.6154,-116.427,3.7,0,ml,7,252.29,0.077,0.0723,nn,nn00868953,2023-11-16T15:01:21.161Z,"42 km ENE of Furnace Creek, California",earthquake,,4.3,0.26,3,reviewed,nn,nn
-2023-11-16T02:54:49.960Z,44.6223333333333,-112.457833333333,8.72,2.89,ml,9,97,0.05386,0.02,mb,mb90033008,2023-11-16T16:08:05.825Z,"10 km E of Lima, Montana",earthquake,0.7,0.7,0.270742691107581,42,reviewed,mb,mb
+2023-11-16T02:54:49.665Z,44.6282,-112.4907,10.193,2.6,ml,21,89,0.077,0.85,us,us6000lnte,2023-11-16T23:52:54.025Z,"8 km E of Lima, Montana",earthquake,1.37,4.612,0.064,33,reviewed,us,us
 2023-11-16T02:54:39.750Z,44.6238333333333,-112.464833333333,7.34,2.36,ml,11,79,0.05889,0.09,mb,mb90032978,2023-11-16T15:15:53.910Z,"10 km E of Lima, Montana",earthquake,0.36,0.7,0.239226812097702,16,reviewed,mb,mb
 2023-11-16T02:49:28.019Z,30.588,137.8621,476.504,4.4,mb,83,118,3.018,0.77,us,us6000lnr7,2023-11-16T03:03:42.040Z,"Izu Islands, Japan region",earthquake,8.87,8.065,0.036,219,reviewed,us,us
 2023-11-16T02:27:32.120Z,19.4823341369629,-155.79899597168,8.98999977111816,1.86000001,md,20,180,,0.219999999,hv,hv73649427,2023-11-16T02:30:45.240Z,"7 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.699999988,1.71000004,6,automatic,hv,hv
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-16T00:16:26.430Z,38.8320007,-122.8188324,1.83,0.77,md,15,57,0.01098,0.01,nc,nc73963356,2023-11-16T00:28:10.653Z,"8 km NW of The Geysers, CA",earthquake,0.26,0.69,0.35,16,automatic,nc,nc
 2023-11-16T00:15:25.530Z,38.8334999,-122.8150024,1.77,0.31,md,8,145,0.0108,0.01,nc,nc73963351,2023-11-16T02:43:10.534Z,"8 km NW of The Geysers, CA",earthquake,0.47,0.91,0.19,8,automatic,nc,nc
 2023-11-15T23:55:39.585Z,-22.2363,179.4425,596.256,5.1,mb,70,80,4.655,0.98,us,us6000lnqi,2023-11-16T00:11:25.040Z,"south of the Fiji Islands",earthquake,10.93,7.54,0.067,72,reviewed,us,us
-2023-11-15T23:50:30.518Z,-21.7644,-68.5073,126.079,5,mb,53,63,0.684,1.36,us,us6000lnqg,2023-11-16T00:17:07.267Z,"65 km SSW of Ollagüe, Chile",earthquake,6.02,4.752,0.054,112,reviewed,us,us
-2023-11-15T23:49:54.270Z,35.6645,-117.4821667,6.25,0.99,ml,17,84,0.0476,0.13,ci,ci39713602,2023-11-16T01:15:39.715Z,"13 km SSW of Searles Valley, CA",earthquake,0.25,0.49,0.051,5,reviewed,ci,ci
