@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-18T01:55:03.050Z,40.604332,-122.2115021,13.38,1.5,md,6,173,0.04315,0.1,nc,nc73964046,2023-11-18T01:56:35.752Z,"4 km SSE of Bella Vista, CA",earthquake,1.86,1.37,0.13,4,automatic,nc,nc
-2023-11-18T01:44:40.420Z,38.7895012,-122.7553329,1.22,1.03,md,14,81,0.01162,0.02,nc,nc73964036,2023-11-18T01:54:10.328Z,"1 km N of The Geysers, CA",earthquake,0.22,1.02,0.29,14,automatic,nc,nc
+2023-11-18T01:55:03.050Z,40.604332,-122.2115021,13.38,1.5,md,6,173,0.04315,0.1,nc,nc73964046,2023-11-18T02:03:10.383Z,"4 km SSE of Bella Vista, CA",earthquake,1.86,1.37,0.13,4,automatic,nc,nc
+2023-11-18T01:44:40.420Z,38.7895012,-122.7553329,1.22,1.03,md,14,81,0.01162,0.02,nc,nc73964036,2023-11-18T02:12:12.435Z,"1 km N of The Geysers, CA",earthquake,0.22,1.02,0.29,14,automatic,nc,nc
 2023-11-18T00:50:38.320Z,35.6873333,-117.522,6.26,0.82,ml,21,86,0.08304,0.14,ci,ci39714482,2023-11-18T00:56:22.633Z,"14 km SW of Searles Valley, CA",earthquake,0.28,0.68,0.082,6,automatic,ci,ci
 2023-11-18T00:31:02.986Z,61.4006,-150.6583,36.5,2,ml,,,,0.61,ak,ak023esj8efu,2023-11-18T00:33:55.040Z,"17 km SSW of Susitna, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-11-18T00:28:20.265Z,63.971,-150.5371,4.6,1.2,ml,,,,0.86,ak,ak023esj7smi,2023-11-18T00:30:28.921Z,"69 km W of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T19:13:52.923Z,56.8744,-149.3136,4.5,4.2,ml,,,,0.69,ak,ak023er6wj5u,2023-11-17T19:44:16.040Z,"197 km ESE of Chiniak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2023-11-17T19:13:17.090Z,44.7401667,-111.2101667,12.3,0.34,md,12,192,0.01456,0.17,uu,uu60554397,2023-11-17T19:30:57.870Z,"3 km SSW of Hebgen Lake Estates, Montana",earthquake,1.04,1.37,0.12,6,reviewed,uu,uu
 2023-11-17T19:07:07.510Z,37.5383339,-122.4185028,11.49,1.66,md,14,119,0.03905,0.08,nc,nc73963926,2023-11-17T22:35:11.154Z,"5 km SW of Hillsborough, CA",earthquake,0.54,0.69,0.17,7,automatic,nc,nc
-2023-11-17T19:00:37.360Z,39.509,-123.0053333,6.08,2.31,md,54,27,0.1481,0.11,nc,nc73963921,2023-11-18T00:27:12.808Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.13,0.62,0.206,66,reviewed,nc,nc
+2023-11-17T19:00:37.360Z,39.509,-123.0053333,6.08,2.31,md,54,27,0.1481,0.11,nc,nc73963921,2023-11-18T02:02:13.376Z,"12 km NNW of Lake Pillsbury, CA",earthquake,0.13,0.62,0.206,66,reviewed,nc,nc
 2023-11-17T18:51:55.490Z,51.63,-178.748833333333,14.96,1.84,ml,10,132,,0.11,av,av92121751,2023-11-17T22:38:45.520Z,"148 km WSW of Adak, Alaska",earthquake,0.63,1.19,0.240662383747147,10,reviewed,av,av
 2023-11-17T18:26:16.720Z,19.1761665344238,-155.489334106445,30.1499996185303,1.86000001,md,30,93,,0.109999999,hv,hv73650812,2023-11-17T18:29:17.970Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.71,0.970000029,1.62,10,automatic,hv,hv
 2023-11-17T17:57:33.910Z,61.187,-152.270166666667,7.67,0.16,ml,6,238,,0.17,av,av91121923,2023-11-17T22:49:51.650Z,"62 km WNW of Tyonek, Alaska",earthquake,0.95,0.59,0.150002937944655,6,reviewed,av,av
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T08:30:58.010Z,39.1171667,-110.8383333,14.08,1.4,md,8,142,0.2448,0.13,uu,uu60554347,2023-11-17T15:42:25.570Z,"18 km SE of Castle Dale, Utah",earthquake,0.65,3.43,0.302,5,reviewed,uu,uu
 2023-11-17T08:24:10.310Z,36.4589996,-121.0378342,7.36,1.75,md,23,115,0.01666,0.12,nc,nc73963751,2023-11-17T11:07:10.769Z,"12 km SE of Pinnacles, CA",earthquake,0.35,0.73,0.15,17,automatic,nc,nc
 2023-11-17T08:21:29.640Z,58.3365,-155.119666666667,16.59,0.1,ml,6,138,,0.29,av,av91121888,2023-11-17T20:35:58.160Z,"94 km NNW of Karluk, Alaska",earthquake,1.1,1.89,0.237570142526945,5,reviewed,av,av
-2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-18T00:11:44.764Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
+2023-11-17T08:14:13.236Z,5.5872,125.051,77.985,6.7,mww,117,21,1.564,1.15,us,us6000lp12,2023-11-18T02:16:24.749Z,"26 km WSW of Burias, Philippines",earthquake,6.88,5.597,0.048,41,reviewed,us,us
 2023-11-17T08:04:03.350Z,36.5786667,-121.0013333,4.12,1.03,md,23,153,0.03078,0.24,nc,nc73963746,2023-11-17T12:01:12.096Z,"14 km ENE of Pinnacles, CA",earthquake,0.62,0.89,0.136,15,reviewed,nc,nc
 2023-11-17T08:02:00.610Z,38.8433342,-122.8371658,1.69,0.77,md,19,93,0.004916,0.03,nc,nc73963736,2023-11-17T10:40:11.757Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.41,0.16,20,automatic,nc,nc
 2023-11-17T07:53:54.860Z,34.41,-118.4026667,9.33,1.38,ml,35,44,0.04529,0.14,ci,ci39714130,2023-11-17T15:27:30.543Z,"10 km E of Santa Clarita, CA",earthquake,0.18,0.31,0.471,25,reviewed,ci,ci
@@ -200,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-17T02:52:06.358Z,62.5678,-151.3013,91.6,2.5,ml,,,,0.43,ak,ak023eqx0fgb,2023-11-17T03:00:01.040Z,"28 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-17T02:32:23.303Z,-24.4015,-67.0031,173.779,4.2,mb,33,66,1.801,0.88,us,us6000lp0b,2023-11-17T03:18:39.040Z,"72 km WSW of San Antonio de los Cobres, Argentina",earthquake,9.01,3.375,0.16,13,reviewed,us,us
 2023-11-17T02:21:22.709Z,32.122,-101.033,2.7878,1.8,ml(texnet),14,70,0.2,0.1,tx,tx2023wmvr,2023-11-17T17:21:14.632Z,"25 km S of Westbrook, Texas",earthquake,1.332737038,2.44985165,0.1,9,reviewed,tx,tx
-2023-11-17T02:14:07.111Z,60.2117,-141.6769,0,1.6,ml,,,,0.58,ak,ak023eqwsaav,2023-11-17T02:15:46.674Z,"131 km WNW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
