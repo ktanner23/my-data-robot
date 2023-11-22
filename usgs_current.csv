@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-22T13:53:41.180Z,40.2739983,-124.2921677,14.9,1.64,md,8,160,0.04118,0.07,nc,nc73965931,2023-11-22T13:55:17.500Z,"6 km S of Petrolia, CA",earthquake,0.81,1.16,0.22,4,automatic,nc,nc
+2023-11-22T13:53:41.180Z,40.2739983,-124.2921677,14.9,1.64,md,8,160,0.04118,0.07,nc,nc73965931,2023-11-22T14:10:14.026Z,"6 km S of Petrolia, CA",earthquake,0.81,1.16,0.22,4,automatic,nc,nc
 2023-11-22T13:49:17.984Z,63.365,-150.3442,111.6,1.8,ml,,,,0.28,ak,ak023ezd8bbq,2023-11-22T13:51:33.389Z,"69 km W of Cantwell, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-11-22T13:47:57.120Z,19.3050003051758,-155.379333496094,2.94000005722046,2.25,ml,42,109,,0.180000007,hv,hv73657772,2023-11-22T13:53:27.410Z,"15 km NE of Pāhala, Hawaii",earthquake,0.34,0.889999986,3.02,6,automatic,hv,hv
 2023-11-22T13:42:45.260Z,39.911335,-122.6851654,10.16,2.11,md,8,93,0.01232,0.36,nc,nc73965921,2023-11-22T13:49:14.898Z,"27 km WSW of Rancho Tehama Reserve, CA",earthquake,1.62,1.28,0.19,6,automatic,nc,nc
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-22T05:09:16.720Z,33.6665,-116.7135,15.14,0.65,ml,20,84,0.0332,0.05,ci,ci39716490,2023-11-22T05:15:41.716Z,"8 km S of Idyllwild, CA",earthquake,0.32,0.63,0.236,11,automatic,ci,ci
 2023-11-22T05:06:16.590Z,19.369,-155.285,1.67,2.32,ml,31,61,,0.1,hv,hv73656987,2023-11-22T06:34:27.170Z,"Hawaii region, Hawaii",earthquake,0.17,0.22,0.202394778907821,17,reviewed,hv,hv
 2023-11-22T05:05:42.380Z,19.1585,-155.351166666667,27.14,1.77,md,46,186,,0.1,hv,hv73656982,2023-11-22T06:27:07.810Z,"Island of Hawaii, Hawaii",earthquake,0.6,0.76,0.150181039995695,19,reviewed,hv,hv
+2023-11-22T04:49:46.650Z,44.738,-111.0305,9.67,0.6,md,12,81,0.02749,0.13,uu,uu60554857,2023-11-22T14:10:02.250Z,"Yellowstone National Park, Wyoming",earthquake,0.45,0.82,0.33,9,reviewed,uu,uu
 2023-11-22T04:47:33.610Z,-14.9854,167.9827,22.523,6.7,mww,96,26,6.56,0.78,us,us6000lq00,2023-11-22T06:55:32.049Z,"98 km E of Port-Olry, Vanuatu",earthquake,7.74,4.384,0.071,19,reviewed,us,us
 2023-11-22T04:43:20.290Z,19.2604999542236,-155.399169921875,31.8299999237061,1.74000001,md,34,128,,0.109999999,hv,hv73656957,2023-11-22T04:46:36.520Z,"Hawaii region, Hawaii",earthquake,0.62,0.670000017,1.74000001,4,automatic,hv,hv
 2023-11-22T04:38:35.926Z,-24.1639,-67.2196,201.677,4.5,mb,19,130,1.493,0.63,us,us6000lpzx,2023-11-22T04:53:28.040Z,"91 km W of San Antonio de los Cobres, Argentina",earthquake,7.05,12.528,0.22,6,reviewed,us,us
@@ -283,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-21T14:34:55.197Z,-30.2164,-177.7063,55.075,4.7,mb,29,166,0.969,0.99,us,us6000lptq,2023-11-21T15:50:50.040Z,"Kermadec Islands, New Zealand",earthquake,12.42,6.114,0.115,26,reviewed,us,us
 2023-11-21T14:34:05.720Z,35.755,-121.2495,5.84,1.89,md,41,179,0.1065,0.09,nc,nc73965321,2023-11-21T23:28:37.931Z,"14 km NNW of San Simeon, CA",earthquake,0.3,0.8,0.192,40,reviewed,nc,nc
 2023-11-21T14:28:02.830Z,38.7869987,-122.7655029,1.96,0.75,md,7,158,0.01625,0.01,nc,nc73965316,2023-11-21T14:48:13.869Z,"1 km NW of The Geysers, CA",earthquake,0.69,1.71,0.26,8,automatic,nc,nc
-2023-11-21T14:10:21.840Z,30.876,-103.333,2.7638,1.5,ml(texnet),10,120,0,0.2,tx,tx2023wvbb,2023-11-21T18:18:43.828Z,"41 km ESE of Balmorhea, Texas",earthquake,2.428297569,1.043963903,0.2,6,reviewed,tx,tx
-2023-11-21T14:01:36.830Z,33.0621667,-116.0366667,9.28,1.56,ml,47,29,0.1215,0.18,ci,ci39716050,2023-11-21T17:35:07.220Z,"13 km SE of Ocotillo Wells, CA",earthquake,0.16,0.62,0.065,16,reviewed,ci,ci
