@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-25T21:30:39.100Z,38.8161659,-122.8188324,2.54,0.83,md,8,105,0.009946,0.01,nc,nc73967371,2023-11-25T21:32:13.954Z,"7 km NW of The Geysers, CA",earthquake,0.64,0.95,0.09,8,automatic,nc,nc
-2023-11-25T21:27:04.550Z,36.4650002,-121.0429993,7.01,2.02,md,24,115,0.01549,0.11,nc,nc73967366,2023-11-25T21:33:10.988Z,"12 km SE of Pinnacles, CA",earthquake,0.34,0.74,0.19,21,automatic,nc,nc
+2023-11-25T21:30:39.100Z,38.8161659,-122.8188324,2.54,0.83,md,8,105,0.009946,0.01,nc,nc73967371,2023-11-25T21:39:10.020Z,"7 km NW of The Geysers, CA",earthquake,0.64,0.95,0.09,8,automatic,nc,nc
+2023-11-25T21:27:04.550Z,36.4650002,-121.0429993,7.01,2.02,md,24,115,0.01549,0.11,nc,nc73967366,2023-11-25T21:42:14.161Z,"12 km SE of Pinnacles, CA",earthquake,0.34,0.74,0.19,21,automatic,nc,nc
 2023-11-25T21:09:03.567Z,63.5526,-150.8324,0,1.3,ml,,,,0.82,ak,ak023f4gd7w4,2023-11-25T21:20:25.470Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T21:06:52.536Z,61.6987,-151.6604,87.3,1.9,ml,,,,0.45,ak,ak023f4gcoi9,2023-11-25T21:10:04.195Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-25T20:57:46.760Z,33.3375,-116.2443333,10.47,1.15,ml,37,213,0.1034,0.15,ci,ci39717914,2023-11-25T21:04:13.080Z,"15 km NE of Borrego Springs, CA",earthquake,0.85,0.53,0.145,24,automatic,ci,ci
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T16:10:29.264Z,62.9887,-151.7538,20.4,1.6,ml,,,,0.94,ak,ak023f4debke,2023-11-25T16:12:42.469Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-25T16:08:21.434Z,65.147,-146.037,8.6,1.8,ml,,,,0.54,ak,ak023f4ddvj3,2023-11-25T16:10:15.521Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T16:07:58.760Z,19.3578338623047,-155.285507202148,2.29999995231628,1.75999999,md,16,123,,0.170000002,hv,hv73662392,2023-11-25T16:13:29.910Z,"10 km SSW of Volcano, Hawaii",earthquake,0.41,0.550000012,0.409999996,13,automatic,hv,hv
-2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
+2023-11-25T15:34:49.350Z,17.9511666666667,-66.9285,16.66,2.42,md,15,207,0.02819,0.23,pr,pr71432163,2023-11-25T16:56:24.950Z,"Puerto Rico region",earthquake,0.78,0.55,0.274382686385752,10,reviewed,pr,pr
 2023-11-25T15:28:04.900Z,19.367166519165,-155.283493041992,2.28999996185303,1.78,ml,20,62,,0.100000001,hv,hv73662297,2023-11-25T15:33:36.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.26,0.360000014,2.55,6,automatic,hv,hv
 2023-11-25T15:20:27.599Z,20.0901,145.4134,10,4.8,mb,26,130,4.836,0.66,us,us6000lqpy,2023-11-25T15:57:29.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,5.1,1.887,0.098,32,reviewed,us,us
 2023-11-25T15:11:36.583Z,31.443,-104.488,6.9011,1.5,ml(texnet),5,244,0.5,0.9,tx,tx2023xclc,2023-11-25T15:40:33.476Z,"western Texas",earthquake,0,8.251581676,0.2,5,automatic,tx,tx
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T11:25:54.791Z,31.671,-104.193,4.4242,1.7,ml(texnet),17,71,0.1,0.4,tx,tx2023xcdq,2023-11-25T11:57:56.806Z,"western Texas",earthquake,0,1.228272528,0.2,13,automatic,tx,tx
 2023-11-25T11:23:34.560Z,19.3936672210693,-155.272994995117,1.73000001907349,1.99,ml,24,42,,0.180000007,hv,hv73661882,2023-11-25T11:29:05.110Z,"6 km SW of Volcano, Hawaii",earthquake,0.24,0.200000003,0.19,9,automatic,hv,hv
 2023-11-25T11:01:07.435Z,23.8071,123.4307,15.476,4.2,mb,31,110,0.761,0.62,us,us6000lqnz,2023-11-25T11:35:17.040Z,"85 km SSE of Yonakuni, Japan",earthquake,3.78,5.026,0.147,14,reviewed,us,us
-2023-11-25T10:47:22.660Z,36.4785004,-121.0579987,8.87,2.19,md,34,69,0.02317,0.09,nc,nc73967191,2023-11-25T13:24:13.046Z,"10 km SE of Pinnacles, CA",earthquake,0.25,0.6,0.19,42,automatic,nc,nc
+2023-11-25T10:47:22.660Z,36.4791667,-121.0598333,9.11,2.13,md,58,69,0.02389,0.09,nc,nc73967191,2023-11-25T21:43:38.060Z,"10 km SE of Pinnacles, CA",earthquake,0.16,0.31,0.183,68,reviewed,nc,nc
 2023-11-25T10:45:03.125Z,60.3493,-152.7793,125.8,2.5,ml,,,,0.6,ak,ak023f4a15x3,2023-11-25T11:24:07.040Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-25T10:39:03.199Z,31.673,-104.181,5.0035,1.8,ml(texnet),19,103,0.1,0.5,tx,tx2023xccc,2023-11-25T11:08:24.533Z,"54 km NW of Toyah, Texas",earthquake,0,3.211314827,0.2,15,automatic,tx,tx
 2023-11-25T10:25:23.490Z,38.7916679,-122.8066635,3.37,1.01,md,13,95,0.004361,0.02,nc,nc73967181,2023-11-25T12:37:13.743Z,"5 km WNW of The Geysers, CA",earthquake,0.42,1.04,0.25,16,automatic,nc,nc
@@ -224,6 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-24T22:09:55.296Z,61.7387,-150.0121,35.6,2.1,ml,,,,0.27,ak,ak023f2tfezt,2023-11-24T22:11:11.861Z,"1 km SE of Willow, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2023-11-24T21:52:09.980Z,19.3873333333333,-155.280166666667,1.04,0.59,md,14,107,,0.07,hv,hv73660552,2023-11-24T22:03:22.200Z,"7 km SW of Volcano, Hawaii",earthquake,0.27,0.18,0.052105266183822,4,reviewed,hv,hv
 2023-11-24T21:50:05.959Z,-22.2082,169.7176,10,4.9,mb,41,77,2.14,0.56,us,us6000lql2,2023-11-24T23:12:33.040Z,"203 km ESE of Tadine, New Caledonia",earthquake,8.59,1.288,0.084,45,reviewed,us,us
-2023-11-24T21:41:49.500Z,19.3623333333333,-155.299666666667,2.26,1.36,md,14,135,,0.1,hv,hv73660532,2023-11-24T21:57:21.480Z,"11 km SW of Volcano, Hawaii",earthquake,0.32,0.48,0.404026631415401,2,reviewed,hv,hv
-2023-11-24T21:40:34.950Z,38.7635002,-122.7241669,2.54,0.73,md,8,119,0.00198,0.02,nc,nc73966976,2023-11-24T21:59:13.051Z,"3 km WSW of Anderson Springs, CA",earthquake,0.61,1.09,0.39,9,automatic,nc,nc
-2023-11-24T21:37:40.147Z,-3.594,131.3682,10,4.7,mb,50,50,1.106,0.49,us,us6000lqky,2023-11-24T22:11:27.040Z,"Ceram Sea, Indonesia",earthquake,4.76,1.902,0.092,36,reviewed,us,us
