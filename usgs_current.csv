@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-27T12:58:22.670Z,32.9623333,-115.527,7.03,1.43,ml,11,82,0.06699,0.1,ci,ci39718346,2023-11-27T13:04:41.891Z,"2 km S of Brawley, CA",earthquake,0.23,0.66,0.263,15,automatic,ci,ci
 2023-11-27T12:34:21.780Z,19.3404998779297,-155.128173828125,3.63000011444092,2.56,ml,48,108,,0.200000003,hv,hv73664697,2023-11-27T12:39:52.290Z,"13 km S of Fern Forest, Hawaii",earthquake,0.39,1.09000003,3.29,26,automatic,hv,hv
 2023-11-27T12:33:09.101Z,31.692,-104.479,7.7132,1.5,ml(texnet),9,83,0,0.4,tx,tx2023xfww,2023-11-27T12:46:24.329Z,"western Texas",earthquake,0,2.658577202,0.1,7,automatic,tx,tx
 2023-11-27T12:18:33.678Z,31.674,-104.479,6.7362,2,ml(texnet),8,92,0,0.2,tx,tx2023xfwk,2023-11-27T12:46:14.020Z,"western Texas",earthquake,0,3.336958789,0.2,6,automatic,tx,tx
@@ -98,9 +99,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T00:45:50.373Z,-28.3867,-71.5473,22.299,3.7,mwr,25,196,0.455,0.57,us,us6000lqy9,2023-11-27T01:09:44.040Z,"79 km WNW of Vallenar, Chile",earthquake,3.83,7.555,0.062,25,reviewed,us,us
 2023-11-27T00:13:07.010Z,38.8240013,-122.8563309,1.7,0.28,md,8,147,0.01666,0.03,nc,nc73968071,2023-11-27T00:39:14.566Z,"10 km WNW of The Geysers, CA",earthquake,0.43,1.41,0.15,8,automatic,nc,nc
 2023-11-27T00:11:31.440Z,59.0757,-152.8487,72.8,3.6,ml,,,,0.5,ak,ak023f7eyaqg,2023-11-27T01:05:12.254Z,"61 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-27T00:09:20.533Z,63.5565,-147.5552,0,1.5,ml,,,,1.09,ak,ak023f7exuhh,2023-11-27T00:11:04.280Z,"70 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-11-27T00:09:20.533Z,63.5565,-147.5552,0,1.5,ml,,,,1.09,ak,ak023f7exuhh,2023-11-27T00:11:04.280Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-27T00:07:42.410Z,38.8120003,-122.8218307,2.68,0.79,md,18,57,0.006537,0.03,nc,nc73968056,2023-11-27T02:38:13.262Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.6,0.17,20,automatic,nc,nc
-2023-11-26T23:47:13.190Z,17.9838333333333,-66.8306666666667,14.99,2.46,md,8,186,0.04707,0.12,pr,pr71432313,2023-11-27T00:19:42.430Z,"1 km SW of Indios, Puerto Rico",earthquake,0.7,0.86,0.0412035994720803,4,reviewed,pr,pr
+2023-11-26T23:47:13.190Z,17.9838333333333,-66.8306666666667,14.99,2.46,md,8,186,0.04707,0.12,pr,pr71432313,2023-11-27T00:19:42.430Z,"Puerto Rico",earthquake,0.7,0.86,0.0412035994720803,4,reviewed,pr,pr
 2023-11-26T23:30:57.940Z,33.2638333,-116.4396667,3.86,1.99,ml,91,17,0.01935,0.18,ci,ci39718210,2023-11-27T00:19:22.760Z,"6 km W of Borrego Springs, CA",earthquake,0.11,0.31,0.205,26,automatic,ci,ci
 2023-11-26T23:21:46.240Z,38.7923317,-122.8061676,3.28,0.75,md,13,87,0.004675,0.02,nc,nc73968031,2023-11-27T01:56:14.019Z,"5 km WNW of The Geysers, CA",earthquake,0.37,1.29,0.23,14,automatic,nc,nc
 2023-11-26T23:16:51.180Z,46.42216666666667,-122.3205,16.77,1.49,ml,60,57,0.1012,0.18,uw,uw61973876,2023-11-27T05:34:26.860Z,"15 km SSW of Morton, Washington",earthquake,0.25,0.42,0.17330382743036554,32,reviewed,uw,uw
@@ -200,7 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T13:15:58.869Z,40.3078,-119.4529,3.9,0.5,ml,4,297.82,0.254,0.139,nn,nn00869327,2023-11-26T23:46:37.977Z,"31 km SSW of Empire, Nevada",earthquake,,14.1,0.43,3,reviewed,nn,nn
 2023-11-26T13:13:31.870Z,32.9305,-116.2538333,9.69,1.32,ml,63,43,0.0481,0.2,ci,ci39718130,2023-11-26T16:17:10.140Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.42,0.072,25,reviewed,ci,ci
 2023-11-26T13:05:29.440Z,61.1903,-146.8769,19,1.9,ml,,,,0.47,ak,ak023f5z4aog,2023-11-26T13:07:12.449Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-26T13:04:57.950Z,38.5656662,-122.4396667,4.69,1.56,md,17,98,0.0709,0.11,nc,nc73967661,2023-11-26T15:57:16.567Z,"1 km SE of Angwin, CA",earthquake,0.32,1.25,0.18,14,automatic,nc,nc
-2023-11-26T12:59:59.810Z,19.394832611084,-155.253005981445,-0.400000005960464,1.94,ml,23,55,,0.270000011,hv,hv73663782,2023-11-26T13:39:25.395Z,"5 km SSW of Volcano, Hawaii",earthquake,0.24,0.270000011,1.92,11,automatic,hv,hv
-2023-11-26T12:58:55.639Z,61.3707,-146.7375,29.1,1.7,ml,,,,0.67,ak,ak023f5yua1n,2023-11-26T13:00:44.955Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-26T12:58:22.560Z,17.9085,-66.8663333333333,13.3,2.98,md,26,205,0.06733,0.17,pr,pr71432283,2023-11-26T13:58:34.040Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.56,0.31,0.0678816715978074,13,reviewed,pr,pr
