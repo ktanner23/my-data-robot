@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T17:57:52.460Z,38.8199997,-122.7645035,2.31,1.04,md,14,115,0.01128,0.02,nc,nc73969086,2023-11-28T17:59:28.543Z,"4 km W of Cobb, CA",earthquake,0.3,0.77,0.24,14,automatic,nc,nc
 2023-11-28T17:45:08.098Z,62.3639,-147.6902,47.6,1.6,ml,,,,0.64,ak,ak023f9ct92x,2023-11-28T17:48:51.015Z,"54 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T17:38:27.370Z,34.0238333,-116.888,2.24,0.96,ml,30,86,0.06757,0.19,ci,ci39718962,2023-11-28T17:44:42.931Z,"11 km N of Banning, CA",earthquake,0.2,0.35,0.158,18,automatic,ci,ci
 2023-11-28T17:23:23.850Z,38.8283348,-122.8535004,1.72,1.04,md,18,90,0.01534,0.02,nc,nc73969081,2023-11-28T17:49:14.891Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.46,0.13,21,automatic,nc,nc
@@ -48,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T11:22:11.140Z,38.8138351,-122.8123322,2.38,0.76,md,12,78,0.009708,0.02,nc,nc73968981,2023-11-28T11:46:12.768Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.64,0.15,12,automatic,nc,nc
 2023-11-28T11:14:03.332Z,2.1192,129.0123,10,4.7,mb,46,115,2.121,0.6,us,us7000leav,2023-11-28T11:35:02.040Z,"Halmahera, Indonesia",earthquake,8.34,1.881,0.096,33,reviewed,us,us
 2023-11-28T11:03:03.122Z,2.1866,129.0781,10.167,5.2,mb,80,79,2.214,0.54,us,us7000leau,2023-11-28T11:20:27.040Z,"129 km ENE of Tobelo, Indonesia",earthquake,7.08,4.202,0.073,62,reviewed,us,us
-2023-11-28T10:45:21.009Z,37.136,-116.2867,9.1,-0.1,ml,9,90.27,0.033,0.1381,nn,nn00869410,2023-11-28T16:11:07.443Z,"49 km ENE of Beatty, Nevada",earthquake,,1.8,0.52,5,reviewed,nn,nn
+2023-11-28T10:45:21.009Z,37.136,-116.2867,9.1,-0.1,ml,9,90.27,0.033,0.1381,nn,nn00869410,2023-11-28T16:11:07.443Z,"Nevada",earthquake,,1.8,0.52,5,reviewed,nn,nn
 2023-11-28T10:37:51.770Z,36.7318,-116.1598,3.1,-0.2,ml,8,130.14,0.027,0.0689,nn,nn00869409,2023-11-28T16:04:51.770Z,"47 km WNW of Indian Springs, Nevada",earthquake,,3.4,0.17,4,reviewed,nn,nn
 2023-11-28T10:36:40.091Z,60.4922,-144.2785,0,1.2,ml,,,,0.42,ak,ak023f98ld8z,2023-11-28T10:39:38.669Z,"81 km E of Cordova, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-11-28T10:34:43.396Z,62.6979,-151.6529,1.1,2.2,ml,,,,0.61,ak,ak023f98kxoz,2023-11-28T10:37:09.682Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T18:18:38.450Z,19.7708333333333,-155.565833333333,14.9,1.52,md,18,158,,0.12,hv,hv73664872,2023-11-27T20:27:55.310Z,"29 km SE of Waikoloa, Hawaii",earthquake,0.5,0.87,0.1333013506626,8,reviewed,hv,hv
 2023-11-27T18:13:30.740Z,38.8260002,-122.854332,2.14,1.25,md,25,62,0.002514,0.02,nc,nc73968581,2023-11-27T20:20:10.092Z,"10 km WNW of The Geysers, CA",earthquake,0.22,0.35,0.16,25,automatic,nc,nc
 2023-11-27T18:07:55.050Z,38.491,-112.8405,-0.01,0.85,md,14,97,0.01143,0.09,uu,uu60555287,2023-11-28T16:22:31.730Z,"18 km NE of Milford, Utah",earthquake,0.29,0.23,0.33,4,reviewed,uu,uu
-2023-11-27T18:00:23.300Z,38.4906667,-112.8405,-0.08,0.61,md,11,98,0.01141,0.08,uu,uu60555282,2023-11-28T16:33:21.290Z,"18 km NE of Milford, Utah",earthquake,0.26,0.33,,2,reviewed,uu,uu
-2023-11-27T18:00:21.512Z,31.95,-103.353,6.9941,2.1,ml(texnet),14,53,0,0.3,tx,tx2023xghq,2023-11-27T23:58:26.495Z,"western Texas",earthquake,1.197252888,1.946139699,0.4,12,reviewed,tx,tx
-2023-11-27T17:53:36.010Z,38.4886667,-112.8411667,0.84,0.58,md,10,100,0.01097,0.07,uu,uu60555277,2023-11-28T16:45:11.550Z,"17 km NE of Milford, Utah",earthquake,0.33,0.89,0.177,3,reviewed,uu,uu
