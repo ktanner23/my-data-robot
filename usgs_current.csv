@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:09:11.481Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
+2023-11-29T21:07:36.060Z,38.8353348,-122.8066635,4.4,0.22,md,10,89,0.01222,0.03,nc,nc73969616,2023-11-29T21:20:10.856Z,"7 km WNW of Cobb, CA",earthquake,0.56,0.74,0.1,8,automatic,nc,nc
 2023-11-29T20:57:37.539Z,61.3224,-146.7113,25,2.4,ml,,,,0.44,ak,ak023fb27j95,2023-11-29T20:59:04.754Z,"28 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T20:44:26.625Z,62.8296,-148.9201,2.1,2.9,ml,,,,0.96,ak,ak023fb24q21,2023-11-29T20:46:19.470Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-29T20:30:39.800Z,38.7908325,-122.76017,0.91,1.47,md,21,67,0.009785,0.03,nc,nc73969606,2023-11-29T21:07:12.790Z,"2 km NNW of The Geysers, CA",earthquake,0.22,0.41,0.12,21,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T19:20:09.730Z,32.8871667,-115.4765,7.91,1.48,ml,23,72,0.04241,0.15,ci,ci39719738,2023-11-29T19:26:34.478Z,"10 km ENE of Imperial, CA",earthquake,0.25,0.34,0.264,16,automatic,ci,ci
 2023-11-29T18:49:22.680Z,33.3318333,-116.3605,9.25,0.61,ml,17,174,0.007539,0.14,ci,ci39719706,2023-11-29T18:55:39.065Z,"9 km N of Borrego Springs, CA",earthquake,0.37,0.56,0.11,8,automatic,ci,ci
 2023-11-29T18:47:03.650Z,38.8286667,-122.8161697,2.48,0.78,md,9,98,0.007098,0.01,nc,nc73969586,2023-11-29T19:16:12.177Z,"8 km NW of The Geysers, CA",earthquake,0.7,1.33,0.27,10,automatic,nc,nc
-2023-11-29T18:38:13.230Z,38.7874985,-122.7666702,1.71,1.1,md,18,80,0.01419,0.03,nc,nc73969581,2023-11-29T19:03:13.124Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.49,0.17,19,automatic,nc,nc
+2023-11-29T18:38:13.230Z,38.7874985,-122.7666702,1.71,1.1,md,18,80,0.01419,0.03,nc,nc73969581,2023-11-29T21:23:10.873Z,"1 km NW of The Geysers, CA",earthquake,0.24,0.49,0.17,19,automatic,nc,nc
 2023-11-29T18:33:43.566Z,62.1659,-149.4995,43.1,1.6,ml,,,,0.58,ak,ak023fb0vjbo,2023-11-29T18:58:28.253Z,"18 km E of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-11-29T18:15:28.120Z,19.2906666666667,-155.380166666667,3.1,1.99,md,26,113,,0.12,hv,hv73667022,2023-11-29T20:49:26.540Z,"Hawaii region, Hawaii",earthquake,0.26,0.78,0.0695908093300428,6,reviewed,hv,hv
 2023-11-29T18:13:51.010Z,41.3965,-111.683,9.86,2.34,ml,29,111,0.1993,0.16,uu,uu60555452,2023-11-29T18:34:48.260Z,"13 km ENE of Wolf Creek, Utah",earthquake,0.35,0.8,0.096,7,reviewed,uu,uu
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T08:46:18.120Z,33.0131667,-116.4303333,5.5,1.08,ml,62,30,0.04444,0.21,ci,ci39719466,2023-11-29T08:56:59.130Z,"18 km ESE of Julian, CA",earthquake,0.18,0.54,0.149,23,automatic,ci,ci
 2023-11-29T08:36:05.620Z,38.7616653,-122.723999,1.7,0.72,md,6,170,0.0006778,0.01,nc,nc73969421,2023-11-29T10:27:16.144Z,"3 km WSW of Anderson Springs, CA",earthquake,1.07,1.12,0.19,6,automatic,nc,nc
 2023-11-29T08:21:10.376Z,39.3659,-119.7391,6.4,0,ml,3,259.47,0.031,0.0391,nn,nn00869460,2023-11-29T20:58:41.464Z,"9 km NW of Virginia City, Nevada",earthquake,,3.2,0.01,2,reviewed,nn,nn
-2023-11-29T08:19:26.436Z,31.626,-104.36,5.7717,1.5,ml(texnet),19,73,0.1,0.2,tx,tx2023xjfm,2023-11-29T16:37:53.901Z,"60 km S of Whites City, New Mexico",earthquake,1.012298622,1.234325227,0.1,7,reviewed,tx,tx
+2023-11-29T08:19:26.436Z,31.626,-104.36,5.7717,1.5,ml(texnet),19,73,0.1,0.2,tx,tx2023xjfm,2023-11-29T16:37:53.901Z,"western Texas",earthquake,1.012298622,1.234325227,0.1,7,reviewed,tx,tx
 2023-11-29T08:17:39.386Z,59.9539,-140.1721,12.9,1.8,ml,,,,0.95,ak,ak023fautrhu,2023-11-29T08:19:26.156Z,"Southeastern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T08:12:24.703Z,12.166,95.2197,10,4.8,mb,53,89,4.397,0.5,us,us7000lei7,2023-11-29T10:52:04.491Z,"275 km ENE of Port Blair, India",earthquake,5.76,1.829,0.089,42,reviewed,us,us
 2023-11-29T07:57:28.502Z,40.0789,-119.688,14.8,-0.1,ml,4,167.93,0.097,0.0898,nn,nn00869459,2023-11-29T20:55:33.713Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,2.9,0.25,2,reviewed,nn,nn
