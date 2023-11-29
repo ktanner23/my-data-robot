@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T14:44:44.570Z,38.8156662,-122.7961655,2.38,1.21,md,27,47,0.007716,0.02,nc,nc73969526,2023-11-29T14:46:19.668Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,28,automatic,nc,nc
+2023-11-29T14:44:44.570Z,38.8156662,-122.7961655,2.38,1.21,md,27,47,0.007716,0.02,nc,nc73969526,2023-11-29T14:54:09.707Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,28,automatic,nc,nc
 2023-11-29T14:35:28.640Z,38.8274994,-122.8541641,2.38,0.55,md,17,80,0.002116,0.02,nc,nc73969521,2023-11-29T14:52:11.696Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.47,0.27,18,automatic,nc,nc
 2023-11-29T14:17:27.705Z,62.1184,-150.2736,51.2,1,ml,,,,0.43,ak,ak023fayec82,2023-11-29T14:19:36.354Z,"22 km S of Trapper Creek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-11-29T14:03:06.890Z,32.9676667,-115.7755,2.47,1.45,ml,6,307,0.1773,0.23,ci,ci39719538,2023-11-29T14:44:19.044Z,"16 km WSW of Westmorland, CA",earthquake,3.25,1.89,0.346,13,reviewed,ci,ci
@@ -88,8 +88,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T03:21:32.658Z,39.5489,-119.8019,4.4,0.5,ml,13,80.21,0.02,0.1532,nn,nn00869448,2023-11-29T05:30:19.162Z,"2 km NNE of Reno, Nevada",earthquake,,1.2,0.35,3,reviewed,nn,nn
 2023-11-29T03:15:04.215Z,31.527,-104.003,7.0571,1.9,ml(texnet),15,107,0,0.1,tx,tx2023xivm,2023-11-29T13:28:17.790Z,"30 km NW of Toyah, Texas",earthquake,0.8638611425,0.6219068923,0.1,13,reviewed,tx,tx
 2023-11-29T03:09:47.515Z,31.658,-104.582,3.6871,1.7,ml(texnet),15,189,0.1,0.2,tx,tx2023xivh,2023-11-29T03:48:35.337Z,"western Texas",earthquake,0,2.701364286,0.2,13,automatic,tx,tx
-2023-11-29T02:53:42.270Z,33.9781667,-116.7883333,5.29,0.78,ml,34,62,0.05909,0.12,ci,ci39719346,2023-11-29T14:52:44.342Z,"7 km N of Cabazon, CA",earthquake,0.14,0.45,0.156,17,automatic,ci,ci
-2023-11-29T02:40:50.700Z,33.7098333,-116.8255,15.35,0.76,ml,37,86,0.08177,0.16,ci,ci39719330,2023-11-29T02:47:07.001Z,"8 km SE of Valle Vista, CA",earthquake,0.2,0.37,0.153,17,automatic,ci,ci
+2023-11-29T02:53:42.270Z,33.9781667,-116.7883333,5.29,0.78,ml,34,62,0.05909,0.12,ci,ci39719346,2023-11-29T14:53:45.580Z,"7 km N of Cabazon, CA",earthquake,0.14,0.45,0.156,17,reviewed,ci,ci
+2023-11-29T02:48:53.510Z,33.958168,-118.5683365,9.78,1.68,ml,7,193,0.27,0.17,ci,ci39719338,2023-11-29T14:53:11.176Z,"10 km SW of Santa Monica, CA",earthquake,1.25,15.38,0.246,18,reviewed,ci,ci
+2023-11-29T02:40:50.700Z,33.7098333,-116.8255,15.35,0.76,ml,37,86,0.08177,0.16,ci,ci39719330,2023-11-29T14:53:15.716Z,"8 km SE of Valle Vista, CA",earthquake,0.2,0.37,0.153,17,reviewed,ci,ci
 2023-11-29T02:31:34.392Z,61.4462,-146.5498,27.1,1.6,ml,,,,0.42,ak,ak023farc5i7,2023-11-29T02:33:31.553Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-29T02:29:58.130Z,35.126,-97.56266667,5.17,1.65,ml,90,41,0.06298763968,0.36,ok,ok2023xitz,2023-11-29T03:20:17.830Z,"2 km NNE of Cole, Oklahoma",earthquake,,0.6,0.2,41,reviewed,ok,ok
 2023-11-29T02:24:28.823Z,60.4149,-152.3517,95,1.1,ml,,,,0.16,ak,ak023faran2a,2023-11-29T02:25:45.920Z,"55 km NW of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -97,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T02:16:41.370Z,36.8373333,-121.5955,6.97,0.73,md,11,190,0.02034,0.07,nc,nc73969336,2023-11-29T08:34:15.422Z,"5 km W of San Juan Bautista, CA",earthquake,0.44,0.55,0.339,11,reviewed,nc,nc
 2023-11-29T02:09:18.458Z,58.1976,-155.3467,0.4,1.8,ml,,,,0.41,ak,ak023far7eit,2023-11-29T03:13:42.090Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T02:04:18.850Z,34.0328333,-117.0993333,15.51,0.86,ml,37,59,0.07346,0.16,ci,ci39719322,2023-11-29T02:10:17.820Z,"5 km W of Yucaipa, CA",earthquake,0.19,0.55,0.095,15,automatic,ci,ci
-2023-11-29T01:57:11.990Z,34.0183333,-116.7433333,16.62,0.67,ml,19,119,0.05609,0.12,ci,ci39719306,2023-11-29T02:03:30.786Z,"12 km NNE of Cabazon, CA",earthquake,0.5,0.72,0.102,14,automatic,ci,ci
+2023-11-29T01:57:11.990Z,34.0183333,-116.7433333,16.62,0.67,ml,19,119,0.05609,0.12,ci,ci39719306,2023-11-29T14:53:41.366Z,"12 km NNE of Cabazon, CA",earthquake,0.5,0.72,0.102,14,reviewed,ci,ci
 2023-11-29T01:50:02.180Z,18.9713333333333,-155.440666666667,37.14,2.47,ml,46,228,,0.13,hv,hv73666402,2023-11-29T03:03:01.180Z,"18 km SE of Naalehu, Hawaii",earthquake,0.47,0.81,0.142376988628368,16,reviewed,hv,hv
 2023-11-29T01:45:28.418Z,62.4749,-152.193,119.3,2.1,ml,,,,0.34,ak,ak023faqtpho,2023-11-29T01:48:30.215Z,"68 km NW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-29T01:44:49.051Z,38.1765,-117.8029,3.5,2,ml,19,109.89,0.124,0.1942,nn,nn00869441,2023-11-29T01:47:46.208Z,"Nevada",earthquake,,1.2,0.3,13,automatic,nn,nn
@@ -106,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T01:17:31.350Z,38.8354988,-122.7911682,0.09,0.21,md,7,121,0.002976,0.01,nc,nc73969301,2023-11-29T01:41:16.825Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.8,0.09,8,automatic,nc,nc
 2023-11-29T01:12:42.870Z,17.8421666666667,-66.9265,7.6,2.62,md,25,235,0.1304,0.2,pr,pr71432508,2023-11-29T01:31:21.730Z,"14 km S of Guánica, Puerto Rico",earthquake,0.54,0.33,0.163846280653315,10,reviewed,pr,pr
 2023-11-29T01:05:30.480Z,19.2815,-155.382833333333,3.14,1.16,md,23,108,,0.1,hv,hv73666377,2023-11-29T02:56:52.730Z,"13 km NE of Pāhala, Hawaii",earthquake,0.28,0.8,0.193923555403922,6,reviewed,hv,hv
-2023-11-29T01:00:36.230Z,35.0435,-118.4161667,6.03,1.01,ml,27,40,0.08084,0.15,ci,ci39719290,2023-11-29T01:06:53.107Z,"10 km SSE of Tehachapi, CA",earthquake,0.2,0.59,0.287,5,automatic,ci,ci
+2023-11-29T01:00:36.230Z,35.0435,-118.4161667,6.03,1.01,ml,27,40,0.08084,0.15,ci,ci39719290,2023-11-29T14:54:36.412Z,"10 km SSE of Tehachapi, CA",earthquake,0.2,0.59,0.287,5,reviewed,ci,ci
 2023-11-29T00:23:41.650Z,35.0296667,-117.6658333,-0.79,1.33,ml,32,61,0.09829,0.28,ci,ci39719274,2023-11-29T00:42:22.639Z,"4 km NNW of Boron, CA",quarry blast,0.53,31.61,0.1,15,reviewed,ci,ci
 2023-11-29T00:12:27.780Z,63.1864,-151.4354,0,1.4,ml,,,,0.81,ak,ak023faq176i,2023-11-29T00:14:39.428Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-29T00:00:00.476Z,61.7841,-148.5453,32.4,1.4,ml,,,,0.49,ak,ak023fapykhb,2023-11-29T00:02:02.341Z,"4 km WSW of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -183,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T15:03:12.460Z,33.2133333,-116.7275,19.69,0.86,ml,35,39,0.03459,0.18,ci,ci39718882,2023-11-28T18:28:57.104Z,"5 km SE of Lake Henshaw, CA",earthquake,0.26,0.51,0.097,19,reviewed,ci,ci
 2023-11-28T15:02:24.080Z,19.1401672363281,-155.511337280273,33.0299987792969,2.1099999,md,47,143,,0.129999995,hv,hv73665962,2023-11-28T15:05:32.340Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.49,0.850000024,0.75,20,automatic,hv,hv
 2023-11-28T15:01:09.724Z,31.629,-104.156,1.9155,1.5,ml(texnet),16,63,0.1,0.2,tx,tx2023xhxg,2023-11-28T20:27:57.644Z,"49 km NW of Toyah, Texas",earthquake,0.737702942,0.6563459685,0.2,12,reviewed,tx,tx
-2023-11-28T14:57:39.492Z,31.608,-103.964,8.7024,2,ml(texnet),25,55,0,0.1,tx,tx2023xhxd,2023-11-28T20:13:59.218Z,"36 km WSW of Mentone, Texas",earthquake,0.3917097842,0.3722394919,0.2,20,reviewed,tx,tx
-2023-11-28T14:55:58.055Z,31.608,-103.963,8.9209,1.9,ml(texnet),25,55,0,0.1,tx,tx2023xhxb,2023-11-28T20:18:27.668Z,"36 km WSW of Mentone, Texas",earthquake,0.3983007231,0.3975293367,0.1,22,reviewed,tx,tx
