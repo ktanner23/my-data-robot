@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-04T18:24:22.530Z,38.7771683,-122.7148361,-0.87,0.98,md,7,92,0.01512,0.12,nc,nc73971756,2023-12-04T18:25:55.965Z,"2 km W of Anderson Springs, CA",earthquake,0.37,3.77,0.27,8,automatic,nc,nc
+2023-12-04T18:24:12.550Z,33.9951667,-116.8421667,17.71,2.62,ml,102,24,0.04906,0.17,ci,ci40615688,2023-12-04T18:31:50.743Z,"8 km NNE of Banning, CA",earthquake,0.11,0.25,0.209,24,automatic,ci,ci
 2023-12-04T18:05:22.300Z,35.0461667,-118.3205,-0.05,1.18,ml,31,40,0.05807,0.18,ci,ci40615680,2023-12-04T18:11:54.770Z,"13 km W of Mojave, CA",earthquake,0.23,0.5,0.152,21,automatic,ci,ci
 2023-12-04T18:02:04.720Z,35.6775017,-117.5551682,7.09,1.36,ml,25,79,0.09141,0.13,ci,ci40615672,2023-12-04T18:07:25.245Z,"13 km ENE of Ridgecrest, CA",earthquake,0.32,0.7,0.198,15,automatic,ci,ci
 2023-12-04T17:14:51.270Z,33.5508333,-116.6398333,12.81,0.67,ml,26,52,0.01759,0.11,ci,ci39722754,2023-12-04T17:21:01.129Z,"3 km E of Anza, CA",earthquake,0.21,0.34,0.212,12,automatic,ci,ci
@@ -8,9 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T16:33:39.580Z,38.8278351,-122.793663,10.79,0.31,md,9,103,0.01087,0.08,nc,nc73971731,2023-12-04T16:54:11.652Z,"6 km W of Cobb, CA",earthquake,1.75,8.52,0.17,10,automatic,nc,nc
 2023-12-04T16:26:18.295Z,64.0433,-151.4954,13.6,1.7,ml,,,,0.82,ak,ak023fj9bumd,2023-12-04T16:28:34.744Z,"43 km ENE of Lake Minchumina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-04T16:23:46.229Z,8.5432,126.771,47.058,4.7,mb,66,109,1.881,0.78,us,us7000lg55,2023-12-04T17:12:55.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,9.36,6.314,0.069,64,reviewed,us,us
-2023-12-04T16:11:12.766Z,52.4088,-166.7902,24.5,2.8,ml,,,,0.45,ak,ak023fj98lqy,2023-12-04T17:56:07.618Z,"152 km ESE of Nikolski, Alaska",earthquake,,14.9,,,reviewed,ak,ak
+2023-12-04T16:11:14.291Z,52.4572,-166.7386,35,3.2,ml,12,239,1.19,0.96,us,us7000lg5p,2023-12-04T18:33:02.040Z,"153 km ESE of Nikolski, Alaska",earthquake,3.98,2.02,0.128,8,reviewed,us,us
 2023-12-04T16:09:29.574Z,65.0089,-147.047,0,1.8,ml,,,,0.97,ak,ak023fj988bh,2023-12-04T16:11:24.769Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-04T16:01:53.250Z,38.8289986,-122.8125,2.6,0.33,md,8,122,0.005908,0.02,nc,nc73971726,2023-12-04T18:19:11.288Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.14,0.13,8,automatic,nc,nc
+2023-12-04T16:01:53.250Z,38.8289986,-122.8125,2.6,0.33,md,8,122,0.005908,0.02,nc,nc73971726,2023-12-04T18:30:14.243Z,"8 km NW of The Geysers, CA",earthquake,0.5,1.14,0.13,8,automatic,nc,nc
 2023-12-04T15:44:58.687Z,8.502,126.4767,55.634,4.6,mb,55,120,1.678,0.9,us,us7000lg51,2023-12-04T17:00:51.040Z,"21 km NE of Hinatuan, Philippines",earthquake,9.54,6.499,0.082,44,reviewed,us,us
 2023-12-04T15:38:37.211Z,8.3788,126.4659,82.52,4.4,mb,37,79,1.57,0.86,us,us7000lg4z,2023-12-04T16:49:29.040Z,"14 km E of Hinatuan, Philippines",earthquake,10.88,8.804,0.106,26,reviewed,us,us
 2023-12-04T15:36:51.970Z,36.586834,-121.0465012,8.91,1.63,md,12,216,0.01003,0.14,nc,nc73971721,2023-12-04T17:58:14.152Z,"11 km NE of Pinnacles, CA",earthquake,1.23,1.33,0.27,11,automatic,nc,nc
@@ -108,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T06:24:23.650Z,33.7953333,-116.9325,12.08,0.44,ml,37,43,0.03207,0.18,ci,ci39722434,2023-12-04T06:30:31.497Z,"3 km ENE of San Jacinto, CA",earthquake,0.24,0.54,0.149,7,automatic,ci,ci
 2023-12-04T06:20:32.781Z,12.9689,-90.6117,28.805,4.2,mb,72,161,1.231,0.63,us,us7000lg29,2023-12-04T08:42:19.040Z,"107 km S of Iztapa, Guatemala",earthquake,10,6.294,0.06,77,reviewed,us,us
 2023-12-04T06:08:30.394Z,8.4763,126.7692,56.741,5,mww,82,82,1.829,0.86,us,us7000lg28,2023-12-04T06:26:29.040Z,"49 km ENE of Hinatuan, Philippines",earthquake,5.84,6.962,0.086,13,reviewed,us,us
+2023-12-04T05:56:39.620Z,37.0645,-118.5381667,8.01,1.63,md,29,51,0.2467,0.06,nc,nc73971571,2023-12-04T18:30:58.928Z,"25 km WSW of Big Pine, CA",earthquake,0.53,2.36,0.284,26,reviewed,nc,nc
 2023-12-04T05:47:02.880Z,37.0655,-118.5315,10.46,3.49,ml,53,42,0.2414,0.08,nc,nc73971566,2023-12-04T15:28:59.796Z,"24 km WSW of Big Pine, CA",earthquake,0.22,0.91,0.177,128,reviewed,nc,nc
 2023-12-04T05:45:30.839Z,62.9336,-150.4334,99.4,1.4,ml,,,,0.17,ak,ak023fj2w6jf,2023-12-04T05:47:54.732Z,"51 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-04T05:38:29.499Z,60.2779,-152.3667,81.9,1.7,ml,,,,0.42,ak,ak023fj2uof9,2023-12-04T05:40:01.479Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -117,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-04T05:15:42.521Z,8.3449,126.792,57.694,5.4,mb,68,45,1.746,0.76,us,us7000lg1v,2023-12-04T07:19:14.683Z,"44 km ENE of Barcelona, Philippines",earthquake,8.74,6.806,0.047,151,reviewed,us,us
 2023-12-04T05:15:09.440Z,38.8421669,-122.8785019,2.43,0.89,md,8,144,0.008014,0.02,nc,nc73971561,2023-12-04T05:36:19.743Z,"13 km ENE of Cloverdale, CA",earthquake,0.53,0.68,0.29,9,automatic,nc,nc
 2023-12-04T05:12:42.310Z,33.484,-116.5568333,7.49,0.68,ml,41,70,0.03939,0.15,ci,ci39722410,2023-12-04T14:47:38.065Z,"13 km SE of Anza, CA",earthquake,0.17,0.34,0.163,17,reviewed,ci,ci
-2023-12-04T05:08:40.890Z,37.0815,-118.5131667,17.91,1.83,md,24,144,0.2281,0.04,nc,nc73971556,2023-12-04T18:21:56.346Z,"22 km WSW of Big Pine, CA",earthquake,0.97,2.97,0.262,24,reviewed,nc,nc
+2023-12-04T05:08:40.890Z,37.0815,-118.5131667,17.91,1.83,md,24,144,0.2281,0.04,nc,nc73971556,2023-12-04T18:27:11.222Z,"22 km WSW of Big Pine, CA",earthquake,0.97,2.97,0.262,24,reviewed,nc,nc
 2023-12-04T05:08:35.387Z,8.8312,126.6907,25.203,5.7,mww,104,45,2.068,0.74,us,us7000lg1q,2023-12-04T07:13:01.036Z,"Mindanao, Philippines",earthquake,9.02,4.566,0.062,25,reviewed,us,us
 2023-12-04T05:07:14.870Z,34,-116.3218333,8.1,0.75,ml,33,44,0.08932,0.14,ci,ci39722402,2023-12-04T05:13:20.756Z,"15 km S of Joshua Tree, CA",earthquake,0.17,0.47,0.187,12,automatic,ci,ci
 2023-12-04T05:06:40.940Z,37.0791664,-118.5374985,3.36,1.57,md,10,130,0.2471,0.15,nc,nc73971551,2023-12-04T07:35:11.305Z,"24 km WSW of Big Pine, CA",earthquake,1.73,14.7,0.41,2,automatic,nc,nc
@@ -236,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-03T18:59:22.198Z,9.022,126.5246,54.253,4.9,mb,74,95,2.154,0.91,us,us7000lfxn,2023-12-03T21:39:45.040Z,"27 km ENE of Bacolod, Philippines",earthquake,9.72,7.095,0.057,96,reviewed,us,us
 2023-12-03T18:45:57.640Z,19.201000213623,-155.487503051758,34.4900016784668,2.01999998,md,39,89,,0.100000001,hv,hv73672127,2023-12-03T18:49:15.660Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.51,0.850000024,0.870000005,7,automatic,hv,hv
 2023-12-03T18:34:51.910Z,48.0833333333333,-114.003833333333,4.96,0.75,ml,6,183,0.2202,0.06,mb,mb90034883,2023-12-04T16:26:42.970Z,"Western Montana",earthquake,0.85,5.67,0.256283077563925,2,reviewed,mb,mb
-2023-12-03T18:32:03.420Z,37.5071667,-118.7786667,4.58,0.94,md,20,246,0.0656,0.02,nc,nc73971271,2023-12-03T22:11:10.773Z,"11 km SW of Toms Place, CA",earthquake,0.96,0.77,0.149,17,reviewed,nc,nc
-2023-12-03T18:29:44.065Z,8.502,126.7671,47.98,4.8,mb,62,90,1.847,0.6,us,us7000lfxj,2023-12-03T21:49:47.040Z,"Mindanao, Philippines",earthquake,9.84,7.024,0.065,72,reviewed,us,us
-2023-12-03T18:25:28.780Z,62.2131,-153.3042,0,1.8,ml,,,,0.76,ak,ak023fhmz6fi,2023-12-03T18:28:23.771Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-12-03T18:25:06.466Z,37.1716,-117.3828,0,1.3,ml,21,168.53,0.161,0.2919,nn,nn00869622,2023-12-03T18:27:35.616Z,"60 km SSW of Goldfield, Nevada",earthquake,,12.3,0.27,10,automatic,nn,nn
