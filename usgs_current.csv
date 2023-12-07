@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-07T11:07:10.480Z,38.8311653,-122.8108368,1.92,1.07,md,17,68,0.007782,0.01,nc,nc73972766,2023-12-07T11:08:46.058Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.53,0.25,17,automatic,nc,nc
-2023-12-07T11:05:16.290Z,34.8025017,-118.9148331,14.39,1.56,ml,17,98,0.0525,0.1,ci,ci40617136,2023-12-07T11:07:42.911Z,"4 km SE of Frazier Park, CA",earthquake,0.37,0.59,0.272,7,automatic,ci,ci
+2023-12-07T11:07:10.480Z,38.8311653,-122.8108368,1.92,1.07,md,17,68,0.007782,0.01,nc,nc73972766,2023-12-07T11:17:11.553Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.53,0.25,17,automatic,nc,nc
+2023-12-07T11:05:16.310Z,34.8028333,-118.9128333,13.89,1.32,ml,33,67,0.0374,0.17,ci,ci40617136,2023-12-07T11:11:50.794Z,"4 km SE of Frazier Park, CA",earthquake,0.21,0.36,0.204,15,automatic,ci,ci
 2023-12-07T11:01:04.155Z,64.1418,-148.2461,12.1,1.7,ml,,,,0.46,ak,ak023fo4tc34,2023-12-07T11:07:26.234Z,"44 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-12-07T10:59:29.850Z,38.828167,-122.7898331,1.64,0.68,md,10,78,0.01023,0.01,nc,nc73972761,2023-12-07T11:01:05.719Z,"6 km W of Cobb, CA",earthquake,0.37,1.16,0.15,10,automatic,nc,nc
+2023-12-07T10:59:29.850Z,38.828167,-122.7898331,1.64,0.68,md,10,78,0.01023,0.01,nc,nc73972761,2023-12-07T11:16:10.545Z,"6 km W of Cobb, CA",earthquake,0.37,1.16,0.15,10,automatic,nc,nc
 2023-12-07T10:54:01.155Z,61.4211,-150.0939,32.8,1.4,ml,,,,0.73,ak,ak023fo4j977,2023-12-07T10:55:57.353Z,"9 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-07T10:47:09.381Z,64.2512,-148.2702,13.5,1.5,ml,,,,0.48,ak,ak023fo4hrtm,2023-12-07T10:49:21.848Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-07T10:30:28.800Z,38.8165016,-122.7941666,2.12,0.77,md,12,52,0.008567,0.01,nc,nc73972756,2023-12-07T10:47:13.105Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.73,0.18,13,automatic,nc,nc
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T03:59:01.600Z,19.1868324279785,-155.500671386719,35.439998626709,2.48000002,md,46,132,,0.129999995,hv,hv73675112,2023-12-07T07:40:48.677Z,"2 km SW of Pāhala, Hawaii",earthquake,0.56,0.720000029,0.239999995,23,automatic,hv,hv
 2023-12-07T03:57:26.040Z,18.0036666666667,-66.8055,17.19,2.39,md,14,161,0.02099,0.23,pr,pr71433428,2023-12-07T04:10:43.000Z,"Puerto Rico",earthquake,0.72,0.49,0.0441454167778601,7,reviewed,pr,pr
 2023-12-07T03:47:58.980Z,38.7948341,-122.8018341,3.25,1.13,md,23,46,0.00657,0.02,nc,nc73972636,2023-12-07T04:46:10.815Z,"4 km WNW of The Geysers, CA",earthquake,0.27,0.5,0.17,22,automatic,nc,nc
-2023-12-07T03:16:37.230Z,19.4363333333333,-155.216833333333,23.02,4.37,ml,58,45,,0.12,hv,hv73675087,2023-12-07T09:10:22.746Z,"Hawaii region, Hawaii",earthquake,0.26,0.39,0.183386149276084,44,reviewed,hv,hv
+2023-12-07T03:16:37.230Z,19.4363333333333,-155.216833333333,23.02,4.37,ml,58,45,,0.12,hv,hv73675087,2023-12-07T11:15:17.684Z,"Hawaii region, Hawaii",earthquake,0.26,0.39,0.183386149276084,44,reviewed,hv,hv
 2023-12-07T03:12:30.337Z,33.812,136.3309,387.884,4.4,mb,107,68,1.639,0.74,us,us7000lgu2,2023-12-07T04:11:15.040Z,"21 km ESE of Kumano, Japan",earthquake,7.71,6.683,0.062,76,reviewed,us,us
 2023-12-07T02:57:27.065Z,58.9166,-154.3726,122.5,4.1,ml,,,,0.5,ak,ak023fnzshe1,2023-12-07T03:57:18.812Z,"Alaska Peninsula",earthquake,,0.4,,,reviewed,ak,ak
 2023-12-07T02:51:52.485Z,31.62,-104.101,4.9277,1.7,ml,19,65,0,0.3,tx,tx2023xxkt,2023-12-07T03:31:52.777Z,"western Texas",earthquake,0,1.228712688,0.3,15,automatic,tx,tx
@@ -181,4 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T11:42:16.964Z,62.9869,-149.578,72.3,2.3,ml,,,,0.59,ak,ak023fmhisvh,2023-12-06T11:44:15.607Z,"55 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-12-06T11:31:56.901Z,38.6297,-119.3753,0,0.1,ml,4,119.21,0.121,0.1234,nn,nn00869757,2023-12-06T22:01:53.939Z,"California-Nevada border region",earthquake,,0,0,1,reviewed,nn,nn
 2023-12-06T11:25:59.390Z,37.533,-118.83,6.25,0.68,md,16,160,0.05693,0.03,nc,nc73972461,2023-12-07T00:37:11.352Z,"14 km WSW of Toms Place, CA",earthquake,0.79,0.77,0.212,14,reviewed,nc,nc
-2023-12-06T11:17:59.678Z,-5.5963,147.1711,167.974,5.1,mww,90,32,3.784,0.69,us,us7000lgmk,2023-12-06T20:24:10.898Z,"eastern New Guinea region, Papua New Guinea",earthquake,8.8,6.498,0.086,13,reviewed,us,us
