@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-07T03:16:37.230Z,19.4363333333333,-155.216833333333,23.02,4.37,ml,58,45,,0.12,hv,hv73675087,2023-12-07T03:36:35.301Z,"Hawaii region, Hawaii",earthquake,0.26,0.39,0.183386149276084,44,reviewed,hv,hv
+2023-12-07T03:16:37.230Z,19.4363333333333,-155.216833333333,23.02,4.37,ml,58,45,,0.12,hv,hv73675087,2023-12-07T03:43:49.848Z,"Hawaii region, Hawaii",earthquake,0.26,0.39,0.183386149276084,44,reviewed,hv,hv
 2023-12-07T02:57:27.065Z,58.9166,-154.3726,122.5,4.1,ml,,,,0.5,ak,ak023fnzshe1,2023-12-07T03:27:56.407Z,"62 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-12-07T02:51:52.485Z,31.62,-104.101,4.9277,1.7,ml,19,65,0,0.3,tx,tx2023xxkt,2023-12-07T03:31:52.777Z,"44 km NW of Toyah, Texas",earthquake,0,1.228712688,0.3,15,automatic,tx,tx
 2023-12-07T02:41:38.040Z,35.4508333,-118.2788333,2.53,1.16,ml,22,73,0.1418,0.17,ci,ci40617040,2023-12-07T02:47:51.540Z,"25 km SE of Bodfish, CA",earthquake,0.24,1.02,0.109,12,automatic,ci,ci
@@ -99,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T14:46:55.200Z,61.0744,-152.1654,103.9,2.2,ml,,,,0.35,ak,ak023fmjc1kg,2023-12-06T14:48:55.070Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-06T14:15:21.800Z,60.6129,-151.981,76.7,2.1,ml,,,,0.75,ak,ak023fmj5bsk,2023-12-06T14:17:28.443Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-06T14:06:22.273Z,36.7635,-116.2549,8.6,0,ml,18,69.01,0.029,0.0827,nn,nn00869720,2023-12-06T15:58:53.470Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.37,8,reviewed,nn,nn
-2023-12-06T13:58:55.390Z,44.4253333333333,-115.2055,4.64,1.99,ml,10,72,0.4102,0.09,mb,mb90035263,2023-12-06T16:19:37.910Z,"31 km NW of Stanley, Idaho",earthquake,0.31,1.55,0.173658072946126,12,reviewed,mb,mb
+2023-12-06T13:58:55.390Z,44.4253333333333,-115.2055,4.64,1.99,ml,10,72,0.4102,0.09,mb,mb90035263,2023-12-06T16:19:37.910Z,"southern Idaho",earthquake,0.31,1.55,0.173658072946126,12,reviewed,mb,mb
 2023-12-06T13:47:13.099Z,35.11166667,-97.5615,6.52,1.88,ml,90,41,0.05039011174,0.33,ok,ok2023xwkv,2023-12-06T15:13:12.435Z,"Oklahoma",earthquake,,0.5,0.21,38,reviewed,ok,ok
 2023-12-06T13:36:01.530Z,19.2986660003662,-155.385162353516,1.12000000476837,1.71000004,md,21,166,,0.129999995,hv,hv73674622,2023-12-06T13:39:02.520Z,"Hawaii region, Hawaii",earthquake,0.42,0.589999974,0.850000024,3,automatic,hv,hv
 2023-12-06T13:23:05.670Z,17.8818333333333,-66.8466666666667,16.87,2.02,md,14,220,0.09777,0.16,pr,pr71433313,2023-12-06T13:36:22.170Z,"Puerto Rico region",earthquake,0.73,0.58,0.0263226264787773,3,reviewed,pr,pr
@@ -148,6 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T07:59:21.230Z,17.9338333333333,-66.2753333333333,14.8,2.16,md,5,218,0.1022,0.25,pr,pr71433283,2023-12-06T08:11:45.110Z,"5 km SSE of Salinas, Puerto Rico",earthquake,1.32,2.06,0.088946298988505,4,reviewed,pr,pr
 2023-12-06T07:35:39.360Z,36.0915,-117.9185,0.88,1.18,ml,24,75,0.05774,0.18,ci,ci40616824,2023-12-06T15:45:29.460Z,"6 km NNE of Coso Junction, CA",earthquake,0.22,0.36,0.221,11,reviewed,ci,ci
 2023-12-06T07:31:10.059Z,66.0736,-153.9495,0,2.2,ml,,,,0.96,ak,ak023fmf2p40,2023-12-06T07:36:31.199Z,"14 km E of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-12-06T07:22:43.240Z,58.4995,-154.428833333333,4.94,0.9,ml,10,216,,0.25,av,av92145931,2023-12-07T03:44:18.190Z,"Alaska Peninsula",earthquake,0.93,1.25,0.230039520582003,10,reviewed,av,av
 2023-12-06T07:20:06.040Z,18.1668333333333,-66.7676666666667,26.99,2.42,md,10,152,0.09666,0.11,pr,pr71433278,2023-12-06T07:33:17.910Z,"Puerto Rico region",earthquake,0.49,0.75,0.0818890499610747,5,reviewed,pr,pr
 2023-12-06T07:16:06.540Z,37.4564,-115.5915,6.8,0.9,ml,7,129.7,0.225,0.0988,nn,nn00869745,2023-12-06T19:32:59.471Z,"24 km SSE of Rachel, Nevada",earthquake,,26.3,0,1,reviewed,nn,nn
 2023-12-06T07:05:15.684Z,31.652,-104.317,8.7024,2.7,ml,50,69,0,0.2,tx,tx2023xvxo,2023-12-06T16:09:02.262Z,"58 km S of Whites City, New Mexico",earthquake,0.8336048653,0.8260265501,0.1,28,reviewed,tx,tx
