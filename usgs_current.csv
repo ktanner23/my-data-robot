@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T07:25:07.570Z,34.131,-117.4903333,4.94,0.99,ml,39,51,0.04182,0.18,ci,ci40617480,2023-12-08T07:31:34.484Z,"5 km NW of Fontana, CA",earthquake,0.22,0.36,0.227,18,automatic,ci,ci
 2023-12-08T07:24:29.132Z,61.8256,-149.4906,38.7,1.4,ml,,,,0.24,ak,ak023fpq3xk1,2023-12-08T07:25:45.697Z,"16 km NW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-08T07:20:08.810Z,19.1476669311523,-155.468673706055,30.9599990844727,2.1400001,md,39,173,,0.109999999,hv,hv73677592,2023-12-08T07:23:15.700Z,"6 km S of Pāhala, Hawaii",earthquake,0.57,1.01999998,1.04999995,16,automatic,hv,hv
-2023-12-08T07:19:56.860Z,38.7859993,-122.7393341,-0.23,1.54,md,22,84,0.00343,0.06,nc,nc73973111,2023-12-08T07:36:13.492Z,"2 km ENE of The Geysers, CA",earthquake,0.23,0.6,0.17,22,automatic,nc,nc
+2023-12-08T07:19:56.860Z,38.7859993,-122.7393341,-0.23,1.54,md,22,84,0.00343,0.06,nc,nc73973111,2023-12-08T09:01:11.022Z,"2 km ENE of The Geysers, CA",earthquake,0.23,0.6,0.17,22,automatic,nc,nc
 2023-12-08T07:19:56.304Z,-20.3873,169.4892,46.215,5.6,mww,103,47,2.919,0.88,us,us7000lh9a,2023-12-08T08:31:00.501Z,"96 km SSE of Isangel, Vanuatu",earthquake,8.91,5.578,0.06,27,reviewed,us,us
 2023-12-08T07:19:05.185Z,62.8766,-146.6365,250,1.9,ml,,,,1.14,ak,ak023fpq2t4m,2023-12-08T07:21:35.192Z,"57 km WSW of Paxson, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-12-08T06:59:54.954Z,-59.6896,-26.0824,44.355,5.2,mb,69,74,15.204,0.93,us,us7000lh96,2023-12-08T07:14:55.040Z,"South Sandwich Islands region",earthquake,12.29,7.288,0.074,60,reviewed,us,us
@@ -203,7 +203,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T15:38:05.751Z,4.1846,127.8335,116.281,4.5,mb,31,83,3.422,0.49,us,us7000lgxv,2023-12-07T18:02:07.040Z,"272 km N of Tobelo, Indonesia",earthquake,9.53,8.907,0.108,29,reviewed,us,us
 2023-12-07T15:23:35.923Z,10.6797,-65.0735,10,4.6,mb,46,64,5.591,0.73,us,us7000lgxw,2023-12-07T21:07:48.401Z,"68 km NW of Lecherías, Venezuela",earthquake,9.28,1.92,0.097,36,reviewed,us,us
 2023-12-07T15:20:40.315Z,31.646,-104.333,4.4392,1.6,ml,19,70,0.1,0.2,tx,tx2023xyjk,2023-12-07T15:44:43.017Z,"western Texas",earthquake,0,1.233561429,0.2,15,automatic,tx,tx
-2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"109 km ENE of Angoram, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
+2023-12-07T15:10:12.494Z,-3.6366,144.9565,10,5,mb,75,69,4.391,0.7,us,us7000lgxs,2023-12-07T16:09:52.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,7.31,1.359,0.072,68,reviewed,us,us
 2023-12-07T15:08:38.582Z,8.5387,126.7696,52.726,4.9,mb,123,81,1.877,0.88,us,us7000lgxq,2023-12-07T15:56:37.040Z,"51 km ENE of Hinatuan, Philippines",earthquake,8.59,6.574,0.047,147,reviewed,us,us
 2023-12-07T15:07:16.810Z,19.2905,-155.384833333333,2.2,2.3,ml,12,108,,0.09,hv,hv73675837,2023-12-07T17:39:00.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.3,0.6,0.265732610999115,11,reviewed,hv,hv
 2023-12-07T15:06:58.620Z,19.2875,-155.385833333333,1.61,1.63,ml,10,129,,0.09,hv,hv73675832,2023-12-07T17:47:13.070Z,"13 km NE of Pāhala, Hawaii",earthquake,0.38,0.65,0.00638374230567051,1,reviewed,hv,hv
@@ -272,5 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-07T09:14:30.260Z,58.2558333333333,-155.151833333333,31.87,-0.01,ml,11,147,,0.14,av,av92147126,2023-12-08T01:59:32.960Z,"86 km NNW of Karluk, Alaska",earthquake,0.6,0.63,0.361150810533973,10,reviewed,av,av
 2023-12-07T09:12:42.450Z,19.1525001525879,-155.466827392578,31.8600006103516,2.1500001,md,39,165,,0.100000001,hv,hv73675372,2023-12-07T17:31:13.141Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.51,0.74000001,1.85000002,18,automatic,hv,hv
 2023-12-07T09:12:40.440Z,58.2495,-155.129666666667,31.38,-0.62,ml,6,204,,0.06,av,av91123728,2023-12-08T01:58:01.220Z,"85 km NNW of Karluk, Alaska",earthquake,1.26,0.72,0.205222412648094,6,reviewed,av,av
-2023-12-07T09:04:27.560Z,19.1538333892822,-155.469833374023,31.1599998474121,1.88,md,36,170,,0.140000001,hv,hv73675362,2023-12-07T09:07:35.400Z,"Hawaii region, Hawaii",earthquake,0.87,0.930000007,1.25,3,automatic,hv,hv
-2023-12-07T09:00:38.060Z,33.713,-117.446,11.21,0.64,ml,21,87,0.05515,0.17,ci,ci40617096,2023-12-07T19:00:08.930Z,"12 km WNW of Lake Elsinore, CA",earthquake,0.28,0.44,0.099,6,reviewed,ci,ci
