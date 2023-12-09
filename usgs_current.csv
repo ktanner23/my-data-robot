@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-09T09:07:15.390Z,38.8209991,-122.7624969,1.65,1.25,md,23,122,0.01109,0.03,nc,nc73973681,2023-12-09T09:08:50.635Z,"3 km W of Cobb, CA",earthquake,0.24,0.37,0.17,23,automatic,nc,nc
 2023-12-09T09:06:18.240Z,38.8201675,-122.7653351,2.28,1.02,md,15,113,0.01089,0.02,nc,nc73973676,2023-12-09T09:07:55.556Z,"4 km W of Cobb, CA",earthquake,0.3,0.55,0.22,16,automatic,nc,nc
-2023-12-09T09:04:56.020Z,38.8216667,-122.7634964,1.9,1.03,md,15,121,0.01012,0.02,nc,nc73973671,2023-12-09T09:06:30.414Z,"4 km W of Cobb, CA",earthquake,0.27,0.5,0.17,17,automatic,nc,nc
-2023-12-09T09:01:59.160Z,38.7584991,-122.7333298,2.25,0.78,md,8,132,0.007306,0.02,nc,nc73973666,2023-12-09T09:03:35.402Z,"3 km SE of The Geysers, CA",earthquake,0.46,0.94,0.16,7,automatic,nc,nc
+2023-12-09T09:04:56.020Z,38.8216667,-122.7634964,1.9,1.03,md,15,121,0.01012,0.02,nc,nc73973671,2023-12-09T09:18:10.575Z,"4 km W of Cobb, CA",earthquake,0.27,0.5,0.17,17,automatic,nc,nc
+2023-12-09T09:01:59.160Z,38.7584991,-122.7333298,2.25,0.78,md,8,132,0.007306,0.02,nc,nc73973666,2023-12-09T09:17:19.570Z,"3 km SE of The Geysers, CA",earthquake,0.46,0.94,0.16,7,automatic,nc,nc
 2023-12-09T08:57:52.449Z,63.0479,-149.6842,84.5,1.7,ml,,,,0.43,ak,ak023frefu30,2023-12-09T08:59:47.988Z,"53 km SW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-09T08:54:46.073Z,56.5956,-34.428,10,4.9,mb,82,47,7.302,0.64,us,us7000lhq1,2023-12-09T09:10:08.040Z,"Reykjanes Ridge",earthquake,9.71,1.854,0.032,310,reviewed,us,us
 2023-12-09T08:52:09.590Z,19.2593326568604,-155.396331787109,29.5400009155273,2.18,ml,40,128,,0.140000001,hv,hv73679487,2023-12-09T08:57:40.230Z,"10 km NE of Pāhala, Hawaii",earthquake,0.59,0.800000012,3.6,4,automatic,hv,hv
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:55:11.880Z,36.5644989,-121.1610031,5.93,1.75,md,18,127,0.02092,0.1,nc,nc73973531,2023-12-09T08:52:11.401Z,"4 km NNW of Pinnacles, CA",earthquake,0.38,0.79,0.29,16,automatic,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.190Z,36.5438347,-121.1231689,6.93,1.12,md,6,122,0.05731,0.12,nc,nc73973526,2023-12-09T08:24:10.236Z,"2 km NE of Pinnacles, CA",earthquake,0.74,2.23,0.13,5,automatic,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T09:01:18.801Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T09:17:54.181Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -268,6 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T09:30:54.200Z,38.8409996,-122.8259964,1.72,0.63,md,12,115,0.007793,0.01,nc,nc73973151,2023-12-08T11:33:10.982Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.76,0.4,11,automatic,nc,nc
 2023-12-08T09:24:57.230Z,19.3425,-155.309333333333,2.92,0.73,md,18,86,,0.1,hv,hv73677892,2023-12-08T09:40:58.690Z,"13 km SW of Volcano, Hawaii",earthquake,0.26,0.45,0.0544778586685212,3,reviewed,hv,hv
 2023-12-08T09:23:51.200Z,33.0121667,-116.4321667,5.38,1.43,ml,70,30,0.04413,0.21,ci,ci40617504,2023-12-08T16:19:36.810Z,"18 km ESE of Julian, CA",earthquake,0.15,0.51,0.16,27,reviewed,ci,ci
-2023-12-08T09:18:26.577Z,38.1696,-117.8346,11.7,2.6,ml,12,77.09,0.122,0.1253,nn,nn00869877,2023-12-08T18:11:49.656Z,"34 km SE of Mina, Nevada",earthquake,,1.4,0.25,7,reviewed,nn,nn
-2023-12-08T09:16:09.400Z,19.3818333333333,-155.238666666667,1.15,0.54,md,18,84,,0.07,hv,hv73677867,2023-12-08T09:32:35.360Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.19,0.084574583217651,4,reviewed,hv,hv
-2023-12-08T09:13:51.420Z,31.61,-104.121,3.7799,1.6,mlv,19,58,0,0.5,tx,tx2023xzsv,2023-12-08T09:47:34.735Z,"45 km NW of Toyah, Texas",earthquake,0,1.255135715,0.3,13,automatic,tx,tx
