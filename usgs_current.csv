@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-09T10:30:41.840Z,33.1669998,-115.979332,6.86,1.27,ml,33,60,0.006608,0.22,ci,ci40617944,2023-12-09T10:32:59.810Z,"14 km E of Ocotillo Wells, CA",earthquake,0.31,0.72,0.063,3,automatic,ci,ci
+2023-12-09T10:30:41.860Z,33.1653333,-115.9853333,6.5,1.26,ml,52,52,0.01033,0.19,ci,ci40617944,2023-12-09T10:36:57.606Z,"14 km E of Ocotillo Wells, CA",earthquake,0.17,0.41,0.158,24,automatic,ci,ci
 2023-12-09T10:14:16.920Z,19.1909999847412,-155.493499755859,32.0499992370605,2.18000007,md,42,146,,0.150000006,hv,hv73679567,2023-12-09T10:17:36.100Z,"2 km SW of Pāhala, Hawaii",earthquake,0.53,0.889999986,0.200000003,17,automatic,hv,hv
 2023-12-09T10:12:30.050Z,38.8196678,-122.7648315,1.49,0.87,md,9,113,0.01149,0.02,nc,nc73973701,2023-12-09T10:29:18.028Z,"4 km W of Cobb, CA",earthquake,0.4,0.66,0.21,11,automatic,nc,nc
 2023-12-09T10:11:57.560Z,19.173999786377,-155.475173950195,31.6000003814697,1.72000003,md,30,164,,0.0700000003,hv,hv73679557,2023-12-09T10:15:12.990Z,"3 km S of Pāhala, Hawaii",earthquake,0.76,1.16999996,0.569999993,3,automatic,hv,hv
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T05:55:11.880Z,36.5644989,-121.1610031,5.93,1.75,md,18,127,0.02092,0.1,nc,nc73973531,2023-12-09T08:52:11.401Z,"4 km NNW of Pinnacles, CA",earthquake,0.38,0.79,0.29,16,automatic,nc,nc
 2023-12-09T05:54:13.686Z,-29.7112,-176.5571,10,5,mb,25,163,1.27,0.67,us,us7000lhp0,2023-12-09T06:15:25.040Z,"Kermadec Islands region",earthquake,7.7,1.927,0.126,20,reviewed,us,us
 2023-12-09T05:50:03.190Z,36.5438347,-121.1231689,6.93,1.12,md,6,122,0.05731,0.12,nc,nc73973526,2023-12-09T08:24:10.236Z,"2 km NE of Pinnacles, CA",earthquake,0.74,2.23,0.13,5,automatic,nc,nc
-2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T10:28:33.288Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
+2023-12-09T05:27:26.499Z,40.4354,-84.1067,6.622,3,mb_lg,14,53,0.303,0.21,us,us7000lhnz,2023-12-09T10:33:36.341Z,"5 km W of Jackson Center, Ohio",earthquake,0.74,4.068,0.069,55,reviewed,us,us
 2023-12-09T05:26:43.339Z,31.596,-103.975,5.2888,1.9,ml,16,63,0,0.3,tx,tx2023ybgs,2023-12-09T05:54:42.469Z,"35 km NNW of Toyah, Texas",earthquake,0,2.292405951,0.2,12,automatic,tx,tx
 2023-12-09T05:21:07.109Z,31.677,-104.478,6.8551,1.8,ml,7,88,0,0.2,tx,tx2023ybgq,2023-12-09T05:31:34.222Z,"56 km S of Whites City, New Mexico",earthquake,0,3.134132621,0.2,7,automatic,tx,tx
 2023-12-09T05:04:55.966Z,-45.7937,-75.9473,14.53,4.5,mb,27,150,1.83,0.78,us,us7000lhny,2023-12-09T05:20:55.040Z,"246 km W of Puerto Chacabuco, Chile",earthquake,9.1,5.084,0.156,13,reviewed,us,us
@@ -253,6 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-08T10:49:09.250Z,38.8231659,-122.8105011,2.57,0.68,md,7,117,0.0004045,0.01,nc,nc73973176,2023-12-08T11:20:14.782Z,"7 km NW of The Geysers, CA",earthquake,0.59,1.19,0.26,8,automatic,nc,nc
 2023-12-08T10:46:58.158Z,63.2697,-148.8683,2.1,1.4,ml,,,,0.5,ak,ak023fps10d3,2023-12-08T10:48:49.411Z,"14 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-08T10:41:48.390Z,39.5275,-111.995,1.62,2.9,ml,32,63,0.1411,0.18,uu,uu60556002,2023-12-08T15:27:55.350Z,"11 km WSW of Levan, Utah",earthquake,0.27,0.66,0.131,23,reviewed,uu,uu
-2023-12-08T10:38:48.590Z,19.3781661987305,-155.281005859375,1.35000002384186,1.94,ml,16,135,,0.119999997,hv,hv73678097,2023-12-08T10:44:18.840Z,"8 km SW of Volcano, Hawaii",earthquake,0.2,0.209999993,0.22,6,automatic,hv,hv
-2023-12-08T10:38:13.700Z,19.2508335113525,-155.389007568359,32.7799987792969,2.44,ml,22,216,,0.109999999,hv,hv73678092,2023-12-08T10:43:44.190Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.82,0.99000001,0.25,6,automatic,hv,hv
-2023-12-08T10:37:24.460Z,38.8028336,-122.8093338,1.9,0.46,md,10,84,0.0121,0.02,nc,nc73973171,2023-12-08T11:09:16.716Z,"5 km WNW of The Geysers, CA",earthquake,0.36,0.89,0.22,10,automatic,nc,nc
