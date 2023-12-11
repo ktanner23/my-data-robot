@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-11T13:47:25.950Z,38.8321648,-122.817337,1.57,0.8,md,8,110,0.01043,0.04,nc,nc73974561,2023-12-11T13:58:11.051Z,"8 km NW of The Geysers, CA",earthquake,0.54,1.14,0.28,8,automatic,nc,nc
+2023-12-11T13:47:25.950Z,38.8321648,-122.817337,1.57,0.8,md,8,110,0.01043,0.04,nc,nc73974561,2023-12-11T14:04:13.083Z,"8 km NW of The Geysers, CA",earthquake,0.54,1.14,0.28,8,automatic,nc,nc
 2023-12-11T13:46:43.259Z,59.9306,-153.0025,122.3,2.4,ml,,,,0.49,ak,ak023fusfbid,2023-12-11T13:49:38.737Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-11T13:46:34.670Z,19.1655006408691,-155.494506835938,31,1.85000002,md,34,106,,0.129999995,hv,hv73681227,2023-12-11T13:49:45.800Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.58,1.04999995,1.46000004,6,automatic,hv,hv
-2023-12-11T13:39:42.582Z,-60.274,-33.0033,10,5.7,mww,55,59,12.474,0.56,us,us7000li3g,2023-12-11T13:58:14.942Z,"Scotia Sea",earthquake,10.53,1.872,0.086,13,reviewed,us,us
+2023-12-11T13:39:42.582Z,-60.274,-33.0033,10,5.7,mww,55,59,12.474,0.56,us,us7000li3g,2023-12-11T14:00:15.049Z,"Scotia Sea",earthquake,10.53,1.872,0.086,13,reviewed,us,us
 2023-12-11T13:38:46.698Z,62.155,-152.8059,0,1.9,ml,,,,1.19,ak,ak023fusdm1p,2023-12-11T13:41:00.853Z,"75 km WNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-12-11T13:14:11.000Z,38.793499,-122.758667,1.92,1.36,md,25,76,0.007162,0.03,nc,nc73974541,2023-12-11T13:29:18.031Z,"2 km N of The Geysers, CA",earthquake,0.23,0.39,0.14,25,automatic,nc,nc
 2023-12-11T13:02:38.519Z,31.725,-104.129,3.1713,1.6,ml,12,172,0,0.5,tx,tx2023yfmw,2023-12-11T13:25:27.029Z,"50 km W of Mentone, Texas",earthquake,0,1.609694144,0.2,8,automatic,tx,tx
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T21:55:58.350Z,33.3273333,-116.7906667,13.65,1.01,ml,53,25,0.06571,0.16,ci,ci40618832,2023-12-10T22:02:59.184Z,"8 km ESE of Palomar Observatory, CA",earthquake,0.15,0.41,0.133,24,automatic,ci,ci
 2023-12-10T21:54:14.690Z,35.7015,-121.0925,9.12,2.63,md,68,79,0.05336,0.09,nc,nc73974346,2023-12-11T06:16:45.040Z,"11 km NE of San Simeon, CA",earthquake,0.12,0.28,0.114,90,reviewed,nc,nc
 2023-12-10T21:44:20.880Z,38.567,-122.4415,5.04,1.33,md,50,62,0.07033,0.11,nc,nc73974341,2023-12-11T13:58:13.050Z,"1 km SE of Angwin, CA",earthquake,0.13,0.57,0.158,40,reviewed,nc,nc
-2023-12-10T21:08:12.240Z,37.1966666666667,-89.046,8.09,2.11,md,13,133,0.3672,0.27,nm,nm60562401,2023-12-11T06:23:07.040Z,"4 km ENE of Olmsted, Illinois",earthquake,0.58,7.5,0.101392039644408,13,reviewed,nm,nm
+2023-12-10T21:08:11.960Z,37.1968333333333,-89.0415,17.22,2.21,md,28,78,0.2505,0.14,nm,nm60562401,2023-12-11T14:00:28.380Z,"4 km ENE of Olmsted, Illinois",earthquake,0.2,0.55,0.106537923720796,23,reviewed,nm,nm
 2023-12-10T21:03:58.190Z,32.4323333,-115.5038333,3.7,2.26,ml,33,63,0.1686,0.27,ci,ci40618776,2023-12-10T21:44:13.090Z,"18 km SSE of Progreso, B.C., MX",earthquake,0.3,1.35,0.123,38,reviewed,ci,ci
 2023-12-10T21:02:38.820Z,32.4365,-115.561,-0.06,1.66,ml,20,171,0.2179,0.31,ci,ci40618768,2023-12-10T21:08:54.750Z,"16 km S of Progreso, B.C., MX",earthquake,0.76,1.03,0.153,19,automatic,ci,ci
 2023-12-10T21:00:48.790Z,19.1761665344238,-155.484161376953,31.5499992370605,2.37,ml,48,150,,0.119999997,hv,hv73680712,2023-12-10T21:35:07.040Z,"3 km S of Pāhala, Hawaii",earthquake,0.47,0.699999988,3.35,7,automatic,hv,hv
@@ -171,4 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-10T14:34:53.888Z,39.5264,-118.4426,11.2,1.2,ml,5,120.47,0.33,0.0609,nn,nn00869961,2023-12-10T19:20:34.866Z,"26 km ENE of Fallon Station, Nevada",earthquake,,2.1,0.42,3,reviewed,nn,nn
 2023-12-10T14:17:44.770Z,38.7901649,-122.7614975,2.02,1.04,md,15,63,0.01054,0.02,nc,nc73974206,2023-12-10T14:33:15.587Z,"2 km NNW of The Geysers, CA",earthquake,0.28,0.59,0.24,15,automatic,nc,nc
 2023-12-10T14:11:39.826Z,18.7808,146.085,119.159,5.7,mww,73,58,3.532,0.75,us,us7000lhxd,2023-12-11T08:21:45.098Z,"Pagan region, Northern Mariana Islands",earthquake,9.64,6.911,0.08,15,reviewed,us,us
-2023-12-10T14:00:35.271Z,60.627,-151.668,69.2,1.3,ml,,,,0.24,ak,ak023ft57hva,2023-12-10T22:02:09.463Z,"19 km W of Salamatof, Alaska",earthquake,,1.6,,,reviewed,ak,ak
