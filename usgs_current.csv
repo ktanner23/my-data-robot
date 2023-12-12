@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T16:21:27.020Z,38.8236656,-122.8056641,0.89,0.72,md,6,130,0.003455,0.02,nc,nc73975151,2023-12-12T17:35:11.114Z,"7 km NW of The Geysers, CA",earthquake,0.5,1.11,0.37,6,automatic,nc,nc
 2023-12-12T16:12:50.870Z,38.8126678,-122.8190002,2.72,0.8,md,16,59,0.00881,0.02,nc,nc73975146,2023-12-12T17:05:10.892Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.67,0.17,17,automatic,nc,nc
 2023-12-12T16:07:14.124Z,9.7058,126.4709,51.29,4.7,mb,69,118,2.764,0.7,us,us7000lig5,2023-12-12T17:20:53.040Z,"39 km E of Union, Philippines",earthquake,10.95,6.589,0.073,56,reviewed,us,us
-2023-12-12T16:06:55.654Z,31.735,-104.103,7.1856,2.3,ml,22,65,0,0.2,tx,tx2023yhol,2023-12-12T18:23:06.601Z,"47 km W of Mentone, Texas",earthquake,0.6330682187,0.773352206,0.2,12,reviewed,tx,tx
+2023-12-12T16:06:55.715Z,31.734,-104.106,6.4401,2.3,ml,24,65,0,0.2,tx,tx2023yhol,2023-12-12T18:39:08.006Z,"48 km W of Mentone, Texas",earthquake,0.5591248377,0.8124138591,0.2,12,reviewed,tx,tx
 2023-12-12T15:51:44.859Z,36.8777,-116.1305,5.9,0.4,ml,29,44.54,0.074,0.1187,nn,nn00870042,2023-12-12T18:17:35.082Z,"53 km NW of Indian Springs, Nevada",earthquake,,1.1,0.18,14,reviewed,nn,nn
 2023-12-12T15:45:23.018Z,58.2839,-152.7985,53.4,2.1,ml,,,,0.25,ak,ak023fwh59xp,2023-12-12T16:27:31.040Z,"25 km NNE of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-12-12T15:44:48.050Z,38.7941666,-122.7396698,1.36,1.01,md,9,98,0.01115,0.05,nc,nc73975141,2023-12-12T16:37:10.728Z,"2 km NE of The Geysers, CA",earthquake,0.34,0.83,0.23,10,automatic,nc,nc
@@ -146,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T03:16:47.920Z,36.7678337,-121.4073334,5.3,1.31,md,8,108,0.05885,0.12,nc,nc73974881,2023-12-12T06:34:13.069Z,"6 km SW of Ridgemark, CA",earthquake,0.48,1.56,0.2,7,automatic,nc,nc
 2023-12-12T03:10:42.683Z,31.738,-104.11,6.6971,2,ml,23,58,0,0.1,tx,tx2023ygox,2023-12-12T15:19:15.986Z,"48 km W of Mentone, Texas",earthquake,0.5849024324,0.7796147366,0.2,15,reviewed,tx,tx
 2023-12-12T03:07:25.698Z,31.737,-104.112,6.7614,3.1,ml,43,52,0,0.2,tx,tx2023ygot,2023-12-12T18:11:05.276Z,"48 km W of Mentone, Texas",earthquake,0.4160326395,0.6654855487,0.2,14,reviewed,tx,tx
-2023-12-12T03:07:09.900Z,31.649,-104.029,5.2423,2.8,ml,6,166,0,0.1,tx,tx2023ygos,2023-12-12T03:30:12.322Z,"41 km W of Mentone, Texas",earthquake,0,4.911135628,0.4,5,automatic,tx,tx
+2023-12-12T03:07:09.874Z,31.651,-104.027,5.1032,0.3,ml,6,170,0,0.1,tx,tx2023ygos,2023-12-12T18:41:12.982Z,"40 km W of Mentone, Texas",earthquake,1.405536844,1.06871275,0.2,6,reviewed,tx,tx
 2023-12-12T03:06:41.427Z,8.792,126.7663,46.541,5,mb,36,129,2.076,0.86,us,us7000lias,2023-12-12T03:25:54.040Z,"51 km ESE of Aras-asan, Philippines",earthquake,11.31,5.185,0.09,39,reviewed,us,us
 2023-12-12T02:46:02.740Z,33.6361667,-116.693,13.99,0.06,ml,16,79,0.03637,0.07,ci,ci40619728,2023-12-12T16:54:25.123Z,"9 km NNW of Anza, CA",earthquake,0.22,0.47,0.104,8,reviewed,ci,ci
 2023-12-12T02:32:08.616Z,60.0614,-153.0013,105.9,2.3,ml,,,,0.36,ak,ak023fw9btnh,2023-12-12T02:34:20.185Z,"68 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -238,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-11T19:09:49.280Z,48.8005,-122.4455,12.47,1.47,ml,20,73,0.02277,0.18,uw,uw61976111,2023-12-12T00:43:58.700Z,"5 km NE of Bellingham, Washington",earthquake,0.38,0.56,0.1635358371162755,15,reviewed,uw,uw
 2023-12-11T18:58:23.289Z,-5.3337,151.5258,64.225,5,mb,45,85,1.301,0.88,us,us7000li7a,2023-12-11T20:06:01.040Z,"137 km SW of Kokopo, Papua New Guinea",earthquake,10.31,6.611,0.073,59,reviewed,us,us
 2023-12-11T18:48:48.210Z,32.9181667,-116.2495,9.14,0.87,ml,27,49,0.05808,0.22,ci,ci40619272,2023-12-11T21:33:45.389Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.3,0.87,0.143,7,reviewed,ci,ci
-2023-12-11T18:36:00.375Z,-24.1126,-66.8382,194.632,5.5,mww,97,51,1.688,1.42,us,usd001097k,2023-12-12T17:16:29.194Z,"54 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.12,0.79,0.046,46,reviewed,us,us
