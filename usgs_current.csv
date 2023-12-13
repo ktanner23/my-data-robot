@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-13T12:04:38.600Z,45.360166666666665,-121.70633333333333,1.47,0.92,ml,9,87,0.02461,0.03,uw,uw61976461,2023-12-13T16:48:19.730Z,"7 km NNE of Government Camp, Oregon",earthquake,0.32,0.17,0.2495055246082235,6,reviewed,uw,uw
 2023-12-13T11:52:04.000Z,34.5835,-116.2793333,2.37,2.05,ml,29,48,0.1448,0.16,ci,ci40442039,2023-12-13T14:29:37.210Z,"19 km SW of Ludlow, CA",earthquake,0.19,0.78,0.142,27,reviewed,ci,ci
 2023-12-13T11:51:08.820Z,38.8306656,-122.8106689,1.47,0.76,md,10,87,0.007275,0.02,nc,nc73975586,2023-12-13T13:16:14.502Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.82,0.31,11,automatic,nc,nc
-2023-12-13T11:41:02.834Z,31.622,-104.481,3.8878,2.3,ml,18,129,0,0.2,tx,tx2023yjbf,2023-12-13T12:27:44.259Z,"62 km S of Whites City, New Mexico",earthquake,0,1.562004011,0.1,13,automatic,tx,tx
+2023-12-13T11:41:02.862Z,31.649,-104.472,7.0571,2.3,ml,30,67,0,0.2,tx,tx2023yjbf,2023-12-13T20:30:37.248Z,"59 km S of Whites City, New Mexico",earthquake,1.22914055,0.7502930834,0.1,19,reviewed,tx,tx
 2023-12-13T11:36:22.610Z,47.779,-122.8385,19.95,1.1400000000000001,ml,16,69,0.05717,0.18,uw,uw61976451,2023-12-13T19:31:31.860Z,"5 km SSE of Quilcene, Washington",earthquake,0.51,0.5,0.1490189751119183,8,reviewed,uw,uw
 2023-12-13T11:20:02.509Z,35.1205,-97.545,5.86,1.03,ml,22,71,0.05128993517,0.49,ok,ok2023yjam,2023-12-13T15:14:38.382Z,"3 km NE of Cole, Oklahoma",earthquake,,1.4,0.25,13,reviewed,ok,ok
 2023-12-13T11:04:57.184Z,31.67,-104.186,6.1316,1.8,ml,24,67,0.1,0.2,tx,tx2023yizz,2023-12-13T16:16:35.265Z,"54 km NW of Toyah, Texas",earthquake,0.7317993789,1.25264297,0.1,6,reviewed,tx,tx
@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-13T09:36:20.370Z,34.0456667,-117.1266667,9.16,0.86,ml,37,44,0.06508,0.16,ci,ci40441879,2023-12-13T17:15:35.787Z,"3 km SSE of Mentone, CA",earthquake,0.19,0.54,0.08,12,reviewed,ci,ci
 2023-12-13T09:25:45.450Z,47.26883333333333,-122.1205,22.88,1.29,ml,40,78,0.1208,0.15,uw,uw61976446,2023-12-13T18:25:38.610Z,"7 km S of Lake Morton-Berrydale, Washington",earthquake,0.27,0.56,0.12699585445052664,18,reviewed,uw,uw
 2023-12-13T09:24:51.767Z,36.6465,-116.2763,6,-0.3,ml,7,201.28,0.05,0.0518,nn,nn00870080,2023-12-13T13:38:36.905Z,"52 km SE of Beatty, Nevada",earthquake,,2.5,0.06,3,reviewed,nn,nn
+2023-12-13T09:19:57.270Z,37.8343333,-122.0328333,5.11,0.53,md,11,106,0.02982,0.06,nc,nc73975566,2023-12-13T20:28:07.850Z,"2 km S of Alamo, CA",earthquake,0.23,0.47,0.105,9,reviewed,nc,nc
 2023-12-13T09:02:47.720Z,38.8276672,-122.7891693,1.67,1.07,md,13,84,0.01077,0.02,nc,nc73975561,2023-12-13T09:19:11.020Z,"6 km W of Cobb, CA",earthquake,0.29,0.75,0.13,16,automatic,nc,nc
 2023-12-13T08:57:32.384Z,61.9471,-148.7321,17.9,1.8,ml,,,,0.58,ak,ak023fy0l6ie,2023-12-13T08:59:20.280Z,"18 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-13T08:40:13.150Z,35.6488333,-117.4435,4.68,1.29,ml,24,70,0.02288,0.1,ci,ci40441871,2023-12-13T16:59:04.181Z,"14 km SSW of Searles Valley, CA",earthquake,0.15,0.21,0.095,9,reviewed,ci,ci
@@ -221,8 +222,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-12T20:54:16.200Z,33.2931667,-116.2076667,8.43,0.6,ml,18,162,0.1098,0.13,ci,ci40620360,2023-12-13T19:31:55.536Z,"16 km ENE of Borrego Springs, CA",earthquake,0.38,0.91,0.106,6,reviewed,ci,ci
 2023-12-12T20:52:19.390Z,19.3924999237061,-155.247833251953,0.970000028610229,1.85000002,md,12,72,,0.0900000036,hv,hv73682222,2023-12-12T20:55:08.070Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.219999999,0.600000024,11,automatic,hv,hv
 2023-12-12T20:51:31.950Z,33.8733333,-117.5063333,-0.44,0.85,ml,23,45,0.0456,0.27,ci,ci40620352,2023-12-13T19:29:08.491Z,"1 km ESE of Home Gardens, CA",quarry blast,0.55,31.61,0.141,8,reviewed,ci,ci
+2023-12-12T20:46:06.500Z,36.0795,-120.1426667,7.86,1.47,md,33,159,0.1381,0.07,nc,nc73975281,2023-12-13T20:34:38.596Z,"8 km N of Avenal, CA",earthquake,0.57,0.47,0.244,24,reviewed,nc,nc
 2023-12-12T20:41:12.568Z,59.7724,-151.7311,51.5,1.9,ml,,,,0.49,ak,ak023fwk3kag,2023-12-12T20:42:49.191Z,"5 km E of Anchor Point, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-12-12T20:32:01.315Z,51.7447,-175.2407,44.495,4.3,mwr,164,138,0.489,0.82,us,us7000lihh,2023-12-12T23:22:49.040Z,"87 km SW of Atka, Alaska",earthquake,4.25,2.819,0.086,13,reviewed,us,us
-2023-12-12T20:31:11.587Z,31.675,-104.388,7.0571,3.4,ml,44,57,0,0.2,tx,tx2023yhxe,2023-12-13T15:07:10.894Z,"55 km S of Whites City, New Mexico",earthquake,0.7664937551,0.9834142164,0.2,26,reviewed,tx,tx
-2023-12-12T20:30:30.620Z,32.7693333,-116.9015,-0.35,1.46,ml,30,130,0.09322,0.27,ci,ci40620328,2023-12-13T19:21:22.454Z,"4 km NE of Rancho San Diego, CA",quarry blast,0.43,31.61,0.122,19,reviewed,ci,ci
-2023-12-12T20:30:19.418Z,31.675,-104.193,5.7717,1.9,ml,20,68,0.1,0.2,tx,tx2023yhxd,2023-12-13T16:41:45.412Z,"55 km NW of Toyah, Texas",earthquake,0.7719993888,1.616410593,0.1,7,reviewed,tx,tx
