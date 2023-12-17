@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-17T04:01:27.820Z,17.9318333333333,-66.848,6.71,2.76,md,8,195,0.1905,0.23,pr,pr71434198,2023-12-17T04:14:45.370Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.8,1.06,0.0832893925805671,6,reviewed,pr,pr
 2023-12-17T03:53:34.596Z,61.4585,-147.1575,31,1.5,ml,,,,0.42,ak,ak023g4jqjrn,2023-12-17T03:55:35.722Z,"46 km SE of Glacier View, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-12-17T03:40:47.090Z,37.4713326,-118.8190002,0.95,1.13,md,12,233,0.1188,0.02,nc,nc73977311,2023-12-17T03:58:14.112Z,"16 km SW of Toms Place, CA",earthquake,1.3,3.43,0.2,11,automatic,nc,nc
+2023-12-17T03:40:47.090Z,37.4713326,-118.8190002,0.95,1.13,md,12,233,0.1188,0.02,nc,nc73977311,2023-12-17T04:19:10.221Z,"16 km SW of Toms Place, CA",earthquake,1.3,3.43,0.2,11,automatic,nc,nc
 2023-12-17T03:28:52.790Z,17.9268333333333,-66.8631666666667,7.57,2.61,md,10,220,0.05034,0.46,pr,pr71434188,2023-12-17T03:46:49.700Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,2.05,0.94,0.103303929058576,5,reviewed,pr,pr
 2023-12-17T03:19:00.480Z,32.9316667,-116.248,9.32,1.14,ml,56,47,0.05188,0.23,ci,ci40446183,2023-12-17T03:25:52.560Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.52,0.113,20,automatic,ci,ci
 2023-12-17T03:17:10.140Z,38.8341675,-122.7908325,1.63,0.69,md,10,85,0.004252,0.02,nc,nc73977301,2023-12-17T03:54:11.086Z,"6 km WNW of Cobb, CA",earthquake,0.44,0.61,0.47,11,automatic,nc,nc
@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-17T02:32:53.218Z,62.4538,-147.4182,250,2.1,ml,,,,0.67,ak,ak023g4j0nn0,2023-12-17T02:36:29.046Z,"48 km WNW of Lake Louise, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-17T02:30:18.350Z,33.0411667,-116.4301667,6.15,0.8,ml,37,53,0.03666,0.21,ci,ci40446175,2023-12-17T02:36:46.182Z,"16 km ESE of Julian, CA",earthquake,0.23,0.48,0.197,6,automatic,ci,ci
 2023-12-17T02:26:50.240Z,33.3243333,-116.3471667,10.96,1.09,ml,57,34,0.01689,0.19,ci,ci40446167,2023-12-17T02:37:45.410Z,"8 km NNE of Borrego Springs, CA",earthquake,0.17,0.27,0.151,27,automatic,ci,ci
+2023-12-17T02:14:06.969Z,-22.7375,-63.7641,537.334,4.4,mb,56,57,4.078,0.62,us,us7000ljm1,2023-12-17T04:24:18.040Z,"16 km SSE of General Mosconi, Argentina",earthquake,11.92,8.618,0.105,26,reviewed,us,us
 2023-12-17T01:49:43.149Z,19.9254,145.4759,91.746,4.5,mb,61,97,4.668,1,us,us7000ljly,2023-12-17T02:24:01.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,12.17,7.563,0.056,97,reviewed,us,us
 2023-12-17T01:40:38.540Z,32.9415,-116.2693333,10.17,1.22,ml,56,44,0.03147,0.22,ci,ci40446159,2023-12-17T01:46:52.804Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.47,0.13,27,automatic,ci,ci
 2023-12-17T01:39:54.159Z,61.1442,-151.1587,55.2,1.4,ml,,,,0.32,ak,ak023g4igq1j,2023-12-17T01:43:07.733Z,"4 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -176,6 +177,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-16T06:10:54.131Z,-24.2603,179.194,530.711,5.4,mb,71,45,5.609,0.89,us,us7000ljg9,2023-12-16T08:13:53.124Z,"south of the Fiji Islands",earthquake,8.32,6.253,0.079,55,reviewed,us,us
 2023-12-16T05:49:38.550Z,34.0146667,-116.346,4.09,1.04,ml,41,37,0.06559,0.15,ci,ci40445791,2023-12-16T05:55:45.490Z,"14 km SE of Yucca Valley, CA",earthquake,0.16,0.4,0.185,18,automatic,ci,ci
 2023-12-16T05:44:26.750Z,34.03,-117.1745,13.51,1.32,ml,63,34,0.08242,0.16,ci,ci40445783,2023-12-16T05:55:15.810Z,"3 km SSE of Redlands, CA",earthquake,0.15,0.32,0.256,30,automatic,ci,ci
+2023-12-16T05:39:42.460Z,48.47883224487305,-121.84950256347656,-0.519999980926514,1.6934243440628052,ml,12,104,0.1537,0.25,uw,uw61976771,2023-12-17T04:24:13.970Z,"10 km SW of Concrete, Washington",earthquake,0.76,1.55999994,0.31163936853408813,10,reviewed,uw,uw
+2023-12-16T05:39:11.490Z,54.7226666666667,-164.104,8.48,1.5,ml,4,292,,0.22,av,av92155316,2023-12-17T04:21:30.570Z,"46 km WSW of False Pass, Alaska",earthquake,1.36,1.65,0.46335983220941,4,reviewed,av,av
 2023-12-16T05:19:55.773Z,41.951,-119.5816,3.7,1.3,ml,3,209.98,0.539,0.0001,nn,nn00870227,2023-12-16T16:05:23.322Z,"48 km ENE of Fort Bidwell, California",earthquake,,11.4,0.69,3,reviewed,nn,nn
 2023-12-16T05:09:41.810Z,33.6165,-116.792,11.66,1.44,ml,56,27,0.03255,0.16,ci,ci40445775,2023-12-16T05:20:04.340Z,"13 km WNW of Anza, CA",earthquake,0.15,0.3,0.3,13,automatic,ci,ci
 2023-12-16T05:08:04.510Z,38.7714996,-122.7061691,3.84,1.29,md,13,98,0.006325,0.02,nc,nc73976921,2023-12-16T07:34:10.772Z,"1 km WSW of Anderson Springs, CA",earthquake,0.41,0.66,0.2,11,automatic,nc,nc
