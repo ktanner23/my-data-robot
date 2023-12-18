@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-18T13:05:13.120Z,38.8358345,-122.8028336,2.7,0.81,md,8,111,0.01009,0.01,nc,nc73977766,2023-12-18T13:06:49.848Z,"7 km WNW of Cobb, CA",earthquake,0.47,1,0.27,7,automatic,nc,nc
+2023-12-18T13:05:13.120Z,38.8358345,-122.8028336,2.7,0.81,md,8,111,0.01009,0.01,nc,nc73977766,2023-12-18T13:25:13.340Z,"7 km WNW of Cobb, CA",earthquake,0.47,1,0.27,7,automatic,nc,nc
 2023-12-18T13:05:08.970Z,19.3838329315186,-155.236999511719,2.02999997138977,1.72,ml,22,76,,0.150000006,hv,hv73690262,2023-12-18T13:10:39.980Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.209999993,0.23,7,automatic,hv,hv
 2023-12-18T12:57:15.090Z,38.8288345,-122.8150024,2.1,1.18,md,11,138,0.006657,0.02,nc,nc73977761,2023-12-18T13:14:14.270Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.47,0.29,13,automatic,nc,nc
 2023-12-18T12:39:07.892Z,61.5538,-149.8207,57,1.3,ml,,,,0.33,ak,ak023g6cjqmd,2023-12-18T12:41:11.450Z,"7 km ENE of Big Lake, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -75,9 +75,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-18T04:35:27.687Z,31.551,-104.007,6.0945,1.9,ml,16,55,0,0.3,tx,tx2023yrqr,2023-12-18T05:17:18.807Z,"33 km NW of Toyah, Texas",earthquake,0,2.642105861,0.1,12,automatic,tx,tx
 2023-12-18T04:29:10.425Z,56.4555,-160.1605,61.5,2.3,ml,,,,1.18,ak,ak023g67q4te,2023-12-18T04:32:36.307Z,"74 km NW of Ivanof Bay, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2023-12-18T04:26:52.073Z,63.1845,-151.3279,0,1.6,ml,,,,0.65,ak,ak023g67pkvr,2023-12-18T04:29:05.134Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-12-18T04:24:38.369Z,31.549,-104.011,4.7997,1.7,mlv,15,56,0,0.4,tx,tx2023yrqh,2023-12-18T04:45:13.770Z,"33 km NW of Toyah, Texas",earthquake,0,1.308267262,0.2,13,automatic,tx,tx
+2023-12-18T04:24:38.369Z,31.549,-104.011,4.7997,1.6,ml,15,56,0,0.4,tx,tx2023yrqh,2023-12-18T13:25:02.629Z,"33 km NW of Toyah, Texas",earthquake,0,1.308267262,0.2,11,automatic,tx,tx
 2023-12-18T04:21:21.650Z,34.0546667,-116.947,12.87,0.93,ml,39,50,0.03987,0.16,ci,ci40446607,2023-12-18T04:27:37.859Z,"9 km ENE of Yucaipa, CA",earthquake,0.16,0.48,0.14,14,automatic,ci,ci
-2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T13:14:46.880Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
+2023-12-18T04:10:33.390Z,38.2323333333333,-89.0985,16.64,3.05,md,48,51,0.5252,0.26,nm,nm60562761,2023-12-18T13:20:00.073Z,"5 km WNW of Waltonville, Illinois",earthquake,0.35,0.56,0.255242742002364,26,reviewed,nm,nm
 2023-12-18T04:08:22.197Z,65.3821,-144.7945,0,1.7,ml,,,,0.56,ak,ak023g67lnor,2023-12-18T04:10:10.633Z,"21 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-12-18T04:03:26.777Z,35.09981155,-97.53089142,3.086587191,1.5,ml,10,92.91085815,0.0276574064,1.066821892,ok,ok2023yrpp,2023-12-18T04:07:42.954Z,"3 km E of Cole, Oklahoma",earthquake,3.555313284,2.959929229,0.26,4,automatic,ok,ok
 2023-12-18T03:55:19.809Z,-53.7877,-47.4071,10,4.9,mb,22,157,6.454,1,us,us7000ljsg,2023-12-18T04:26:11.040Z,"South Atlantic Ocean",earthquake,8.04,1.944,0.116,23,reviewed,us,us
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-17T14:01:29.080Z,35.9251667,-117.6845,2.15,2.02,ml,31,63,0.1108,0.17,ci,ci40446407,2023-12-17T14:12:13.970Z,"20 km E of Little Lake, CA",earthquake,0.21,0.36,0.166,24,automatic,ci,ci
 2023-12-17T13:48:31.300Z,36.9711685,-121.3786697,8.36,1.09,md,10,161,0.09362,0.11,nc,nc73977456,2023-12-17T16:09:10.819Z,"14 km N of Hollister, CA",earthquake,0.69,1.92,0.16,6,automatic,nc,nc
 2023-12-17T13:35:23.854Z,31.686,-104.503,8.9711,1.7,ml,15,121,0,0.4,tx,tx2023yqmz,2023-12-17T13:48:53.442Z,"55 km SSW of Whites City, New Mexico",earthquake,0,2.571393096,0.2,13,automatic,tx,tx
-2023-12-17T13:23:07.940Z,46.80116666666667,-121.954,8.62,0.71,ml,22,143,0.02811,0.11,uw,uw61976931,2023-12-17T22:10:06.820Z,"7 km NE of Ashford, Washington",earthquake,0.71,0.44,0.15802981623409518,14,reviewed,uw,uw
