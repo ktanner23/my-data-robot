@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T20:54:01.660Z,35.7648333,-117.5865,6.79,1.02,ml,19,91,0.1515,0.15,ci,ci40449295,2023-12-21T23:55:16.330Z,"16 km W of Searles Valley, CA",earthquake,0.33,0.75,0.144,5,reviewed,ci,ci
 2023-12-21T20:50:43.948Z,40.0816,-119.693,13,0.3,ml,3,166.12,0.094,0.03,nn,nn00870455,2023-12-21T22:39:23.575Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,6.6,0.16,2,reviewed,nn,nn
 2023-12-21T20:45:22.448Z,35.1529,140.9124,10,5.1,mww,37,137,2.227,0.84,us,us7000lkqm,2023-12-21T21:09:46.040Z,"48 km ESE of Ōhara, Japan",earthquake,7.99,1.898,0.098,10,reviewed,us,us
-2023-12-21T20:35:36.110Z,33.8451667,-117.4968333,2.32,1.9,ml,67,43,0.05125,0.2,ci,ci40449287,2023-12-21T20:42:34.826Z,"4 km SSE of Home Gardens, CA",earthquake,0.18,0.28,0.123,31,automatic,ci,ci
+2023-12-21T20:35:35.960Z,33.8456667,-117.4946667,-0.44,1.96,ml,54,43,0.05002,0.26,ci,ci40449287,2023-12-22T00:11:46.094Z,"4 km SE of Home Gardens, CA",quarry blast,0.22,31.61,0.138,20,reviewed,ci,ci
 2023-12-21T20:33:07.310Z,17.9278333333333,-66.28,14.78,1.83,md,9,184,0.1094,0.1,pr,pr71434728,2023-12-21T20:58:07.520Z,"5 km SSE of Salinas, Puerto Rico",earthquake,0.56,0.84,0.170623547302068,10,reviewed,pr,pr
 2023-12-21T20:32:07.488Z,63,-151.5736,9.6,1.6,ml,,,,0.55,ak,ak023gbfvqwc,2023-12-21T20:41:30.691Z,"60 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-21T20:09:25.960Z,38.8241653,-122.8048325,2.37,0.86,md,15,56,0.004166,0.02,nc,nc73979121,2023-12-21T20:26:15.426Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.56,0.22,17,automatic,nc,nc
@@ -162,6 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T06:06:11.152Z,31.579,-104.536,4.3461,1.6,ml,16,157,0.1,0.4,tx,tx2023yxge,2023-12-21T06:46:31.991Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.066890782,0.2,12,automatic,tx,tx
 2023-12-21T06:03:28.483Z,39.6054,-119.637,6,0.5,ml,5,140.65,0.221,0.0757,nn,nn00870401,2023-12-21T07:22:50.806Z,"7 km SE of Spanish Springs, Nevada",earthquake,,12,0.78,2,reviewed,nn,nn
 2023-12-21T05:59:44.280Z,17.9628333333333,-66.2936666666667,15.87,2.31,md,8,163,0.08651,0.33,pr,pr71434638,2023-12-21T06:29:57.440Z,"1 km SSE of Salinas, Puerto Rico",earthquake,1.18,2.1,0.0806465444115874,4,reviewed,pr,pr
+2023-12-21T05:58:35.410Z,56.1908333333333,-159.446333333333,18.26,0.03,ml,6,110,,0.3,av,av92160466,2023-12-22T00:11:54.360Z,"32 km N of Ivanof Bay, Alaska",earthquake,1.01,1.8,0.314047684767701,6,reviewed,av,av
 2023-12-21T05:55:46.950Z,56.196,-159.452,23.24,0.25,ml,6,122,,0.33,av,av91125263,2023-12-21T23:57:34.830Z,"32 km N of Ivanof Bay, Alaska",earthquake,1.49,2.05,0.256960532648782,6,reviewed,av,av
 2023-12-21T05:54:18.390Z,56.1823333333333,-159.385666666667,18.93,0.02,ml,7,107,,0.29,av,av92160461,2023-12-21T23:58:07.000Z,"31 km N of Ivanof Bay, Alaska",earthquake,1.18,1.59,0.197544845451962,7,reviewed,av,av
 2023-12-21T05:47:58.960Z,58.2521666666667,-155.1535,35.26,-0.2,ml,10,102,,0.33,av,av91125248,2023-12-21T23:19:54.770Z,"86 km NNW of Karluk, Alaska",earthquake,1.17,1.56,0.25255027216804,9,reviewed,av,av
@@ -223,8 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T00:44:28.150Z,44.7616667,-111.202,9.3,0.97,md,11,190,0.01163,0.22,uu,uu60556832,2023-12-21T14:42:49.310Z,"1 km SW of Hebgen Lake Estates, Montana",earthquake,0.81,0.98,0.334,9,reviewed,uu,uu
 2023-12-21T00:33:56.670Z,56.2221666666667,-159.4955,25.42,-0.03,ml,6,213,,0.16,av,av91125188,2023-12-21T20:44:34.970Z,"35 km N of Ivanof Bay, Alaska",earthquake,1.12,0.93,0.315927594301334,6,reviewed,av,av
 2023-12-21T00:30:06.920Z,35.033,-117.672,-0.79,1.49,ml,34,51,0.1004,0.16,ci,ci40448903,2023-12-21T01:04:59.731Z,"4 km NNW of Boron, CA",quarry blast,0.31,31.61,0.1,23,reviewed,ci,ci
-2023-12-21T00:25:53.049Z,31.695,-104.131,6.4915,1.9,ml,19,53,0.1,0.2,tx,tx2023ywuy,2023-12-21T15:33:57.799Z,"50 km W of Mentone, Texas",earthquake,0.6395398048,1.143692312,0.1,7,reviewed,tx,tx
-2023-12-21T00:25:36.850Z,38.8260002,-122.8011703,1.65,0.75,md,8,83,0.007425,0.01,nc,nc73978776,2023-12-21T00:42:14.710Z,"7 km NW of The Geysers, CA",earthquake,0.36,0.98,0.17,8,automatic,nc,nc
-2023-12-21T00:16:39.920Z,32.9621667,-115.5315,8.37,1.24,ml,19,62,0.06532,0.24,ci,ci40448879,2023-12-21T01:00:41.658Z,"2 km S of Brawley, CA",earthquake,0.33,0.9,0.154,9,reviewed,ci,ci
-2023-12-21T00:14:04.610Z,32.6333333,-115.7423333,11.33,1.64,ml,33,56,0.02087,0.25,ci,ci40448871,2023-12-21T00:56:53.060Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.33,0.55,0.126,18,reviewed,ci,ci
-2023-12-21T00:11:54.970Z,45.8885,-111.559666666667,11.75,1.69,ml,25,64,0.2281,0.12,mb,mb90036743,2023-12-21T14:59:50.940Z,"0 km SW of Three Forks, Montana",earthquake,0.26,0.69,0.163037337275031,21,reviewed,mb,mb
