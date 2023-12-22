@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-22T20:37:50.531Z,58.1035,-155.5457,21.3,0.9,ml,,,,0.95,ak,ak023gd3g9al,2023-12-22T20:39:26.411Z,"87 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-12-22T20:35:31.910Z,38.8370018,-122.807663,1.82,1.11,md,14,52,0.0136,0.01,nc,nc73979631,2023-12-22T20:37:06.683Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.78,0.14,17,automatic,nc,nc
+2023-12-22T20:35:31.910Z,38.8370018,-122.807663,1.82,1.11,md,14,52,0.0136,0.01,nc,nc73979631,2023-12-22T20:46:10.746Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.78,0.14,17,automatic,nc,nc
 2023-12-22T20:28:16.950Z,38.3983333,-112.9148333,8.44,0.04,md,10,179,0.07353,0.06,uu,uu60556967,2023-12-22T20:43:30.030Z,"8 km E of Milford, Utah",earthquake,0.75,0.66,0.627,3,reviewed,uu,uu
 2023-12-22T20:27:46.779Z,38.0137,-117.7579,2.5,1,ml,8,240.72,0.074,0.2253,nn,nn00870498,2023-12-22T20:30:26.184Z,"30 km NNW of Silver Peak, Nevada",earthquake,,5.6,0.83,5,automatic,nn,nn
 2023-12-22T19:55:40.910Z,34.9886667,-118.1948333,0.34,1.69,ml,36,36,0.113,0.24,ci,ci40449655,2023-12-22T20:02:29.026Z,"7 km SSW of Mojave, CA",earthquake,0.33,0.69,0.2,24,automatic,ci,ci
@@ -115,6 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-22T08:33:48.963Z,62.7535,-151.3818,6.6,2,ml,,,,0.68,ak,ak023gcwa71s,2023-12-22T08:36:42.700Z,"42 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-22T08:31:14.340Z,19.121166229248,-155.377670288086,30.7999992370605,1.95000005,md,44,188,,0.109999999,hv,hv73693397,2023-12-22T08:34:14.600Z,"13 km SE of Pāhala, Hawaii",earthquake,0.7,0.819999993,0.939999998,15,automatic,hv,hv
 2023-12-22T08:16:43.600Z,34.1695,-80.7185,2.43,2.19,md,13,62,0.03767,0.34,se,se60501453,2023-12-22T16:21:34.671Z,"6 km SSW of Lugoff, South Carolina",earthquake,0.93,1.25,0.112032741928308,11,reviewed,se,se
+2023-12-22T08:14:15.045Z,39.3796,-119.7211,7,1,ml,8,195.13,0.055,0.137,nn,nn00870500,2023-12-22T20:50:46.627Z,"9 km NW of Virginia City, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
 2023-12-22T08:11:29.120Z,60.0615,-153.082666666667,4.56,-0.61,ml,5,207,,0.14,av,av92161676,2023-12-22T20:41:05.060Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.89,1.07,0.219492278259495,5,reviewed,av,av
 2023-12-22T08:00:00.367Z,64.6146,-147.0066,15.6,0.9,ml,,,,0.28,ak,ak023gcw30o4,2023-12-22T08:02:21.052Z,"5 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-12-22T07:50:27.098Z,40.6266,-115.937,8.7,2.6,ml,7,110.96,0.543,0.147,nn,nn00870466,2023-12-22T14:10:01.040Z,"17 km SE of Carlin, Nevada",earthquake,,8.4,0.27,4,reviewed,nn,nn
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T21:00:20.750Z,38.8238335,-122.7643356,2.15,0.24,md,8,124,0.007931,0.01,nc,nc73979126,2023-12-21T21:16:13.710Z,"4 km W of Cobb, CA",earthquake,0.53,0.7,0.13,9,automatic,nc,nc
 2023-12-21T20:55:29.750Z,58.2266666666667,-155.4775,3.78,0.14,ml,12,128,,0.16,av,av92161116,2023-12-22T04:44:06.110Z,"86 km SE of King Salmon, Alaska",earthquake,0.33,0.49,0.232020990963856,12,reviewed,av,av
 2023-12-21T20:54:01.660Z,35.7648333,-117.5865,6.79,1.02,ml,19,91,0.1515,0.15,ci,ci40449295,2023-12-21T23:55:16.330Z,"16 km W of Searles Valley, CA",earthquake,0.33,0.75,0.144,5,reviewed,ci,ci
-2023-12-21T20:50:43.948Z,40.0816,-119.693,13,0.3,ml,3,166.12,0.094,0.03,nn,nn00870455,2023-12-21T22:39:23.575Z,"16 km NNW of Sutcliffe, Nevada",earthquake,,6.6,0.16,2,reviewed,nn,nn
-2023-12-21T20:45:22.448Z,35.1529,140.9124,10,5.1,mww,37,137,2.227,0.84,us,us7000lkqm,2023-12-21T21:09:46.040Z,"48 km ESE of Ōhara, Japan",earthquake,7.99,1.898,0.098,10,reviewed,us,us
