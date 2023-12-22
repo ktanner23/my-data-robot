@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-22T15:38:26.370Z,38.8356667,-122.7733307,2.41,0.99,md,17,124,0.005835,0.03,nc,nc73979546,2023-12-22T15:40:01.203Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.52,0.23,18,automatic,nc,nc
-2023-12-22T15:33:11.590Z,38.8358345,-122.7731705,2.18,1.64,md,32,57,0.005929,0.02,nc,nc73979541,2023-12-22T15:43:10.616Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.31,0.13,33,automatic,nc,nc
+2023-12-22T15:38:26.370Z,38.8356667,-122.7733307,2.41,0.99,md,17,124,0.005835,0.03,nc,nc73979546,2023-12-22T15:52:10.665Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.52,0.23,18,automatic,nc,nc
+2023-12-22T15:33:11.590Z,38.8358345,-122.7731705,2.18,1.64,md,32,57,0.005929,0.02,nc,nc73979541,2023-12-22T15:49:13.648Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.31,0.13,33,automatic,nc,nc
 2023-12-22T15:23:39.120Z,19.2313327789307,-155.382171630859,32.7000007629395,1.99000001,md,36,154,,0.140000001,hv,hv73693672,2023-12-22T15:26:44.600Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.6,0.5,1.99000001,4,automatic,hv,hv
 2023-12-22T15:23:18.240Z,17.999,-66.8341666666667,15.96,2.24,md,7,164,0.04908,0.1,pr,pr71434813,2023-12-22T15:33:15.140Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.5,0.78,0.131838389510399,5,reviewed,pr,pr
 2023-12-22T15:19:12.525Z,-16.9801,-172.4824,10,5,mb,27,84,3.128,1.77,us,us7000lkwj,2023-12-22T15:42:07.040Z,"180 km SE of Hihifo, Tonga",earthquake,7.75,1.859,0.113,26,reviewed,us,us
@@ -202,6 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T18:57:29.330Z,53.8736666666667,-166.7595,4.11,-0.45,ml,6,99,,0.12,av,av91125373,2023-12-22T04:13:21.120Z,"14 km W of Dutch Harbor, Alaska",earthquake,0.38,0.98,0.14505029078016,5,reviewed,av,av
 2023-12-21T18:56:39.770Z,61.0479,-149.9252,41,1.2,ml,,,,0.33,ak,ak023gbeu34s,2023-12-21T19:41:45.451Z,"19 km S of Anchorage, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-12-21T18:55:49.010Z,56.2486666666667,-159.4785,20.55,0.62,ml,5,222,,0.16,av,av92161001,2023-12-22T04:33:36.800Z,"38 km N of Ivanof Bay, Alaska",earthquake,0.84,1.06,0.294750625436895,5,reviewed,av,av
+2023-12-21T18:42:35.700Z,46.5366666666667,-111.980166666667,-2,1.31,ml,10,94,0.06749,0.09,mb,mb90036883,2023-12-22T15:52:59.890Z,"2 km SSE of South Hills, Montana",quarry blast,0.8,31.61,0.262757248775576,9,reviewed,mb,mb
 2023-12-21T18:39:39.470Z,35.7093333,-117.5528333,6.83,1.49,ml,27,59,0.1072,0.12,ci,ci40449183,2023-12-21T19:39:37.564Z,"15 km NE of Ridgecrest, CA",earthquake,0.2,0.51,0.164,15,reviewed,ci,ci
 2023-12-21T18:38:15.461Z,61.9362,-150.2847,16.2,1.7,ml,,,,0.23,ak,ak023gbeq6lm,2023-12-21T18:41:01.595Z,"24 km NNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-21T18:37:55.550Z,38.8219986,-122.8014984,2.94,1.75,md,35,31,0.006842,0.03,nc,nc73979086,2023-12-21T22:12:15.033Z,"6 km NW of The Geysers, CA",earthquake,0.2,0.34,0.12,33,automatic,nc,nc
@@ -233,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T16:14:30.143Z,60.1923,-153.6267,186.8,2.5,ml,,,,0.41,ak,ak023gbde7b2,2023-12-21T23:01:35.040Z,"38 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-21T16:11:57.262Z,35.194,141.1741,27.383,4.9,mb,74,132,2.36,0.8,us,us7000lkpf,2023-12-21T16:35:14.040Z,"67 km SSE of Hasaki, Japan",earthquake,7.17,5.294,0.061,84,reviewed,us,us
 2023-12-21T15:57:42.460Z,41.8303333,-112.326,0.58,0.74,md,11,74,0.09893,0.16,uu,uu60556877,2023-12-21T16:25:30.850Z,"10 km ENE of Howell, Utah",earthquake,0.43,8.92,0.125,4,reviewed,uu,uu
-2023-12-21T15:52:13.637Z,45.3811,-114.0644,15.852,2.8,ml,50,31,0.622,0.69,us,us7000lknv,2023-12-22T04:09:39.964Z,"26 km NNW of Salmon, Idaho",earthquake,2.05,7.253,0.032,126,reviewed,us,us
-2023-12-21T15:50:40.456Z,44.3237,-115.1585,14.929,2.6,ml,28,40,0.312,0.68,us,us7000lknk,2023-12-21T20:29:26.040Z,"21 km NW of Stanley, Idaho",earthquake,0.86,7.134,0.041,80,reviewed,us,us
