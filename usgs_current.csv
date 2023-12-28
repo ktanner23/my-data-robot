@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-12-28T23:08:20.440Z,59.7187,-152.6328,103.5,1.8,ml,,,,0.3,ak,ak023gn2aczg,2023-12-28T23:10:06.275Z,"45 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-12-28T23:07:59.690Z,35.5408325,-118.472168,10.34,1.09,ml,12,116,0.1217,0.05,ci,ci40452215,2023-12-28T23:10:05.011Z,"6 km SSE of Bodfish, CA",earthquake,0.44,0.84,0.123,5,automatic,ci,ci
+2023-12-28T23:07:59.810Z,35.5328333,-118.4675,4.44,1.02,ml,22,75,0.1298,0.16,ci,ci40452215,2023-12-28T23:13:57.602Z,"6 km SSE of Bodfish, CA",earthquake,0.23,0.76,0.078,10,automatic,ci,ci
 2023-12-28T23:05:54.530Z,19.3848323822021,-155.278671264648,1.22000002861023,1.73,ml,14,72,,0.129999995,hv,hv73699827,2023-12-28T23:11:24.980Z,"7 km SW of Volcano, Hawaii",earthquake,0.23,0.289999992,2.37,7,automatic,hv,hv
 2023-12-28T22:56:52.190Z,19.246000289917,-155.440994262695,32.4300003051758,1.98,ml,42,111,,0.150000006,hv,hv73699817,2023-12-28T23:02:23.190Z,"6 km NE of Pāhala, Hawaii",earthquake,0.58,0.720000029,3.95,3,automatic,hv,hv
 2023-12-28T22:56:01.304Z,62.8693,-151.1027,116.9,1.7,ml,,,,0.81,ak,ak023gn1z69u,2023-12-28T22:58:01.530Z,"45 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2023-12-28T22:48:26.852Z,1.1713,126.3557,54.266,4.3,mb,29,105,1.086,0.6,us,us6000m0a0,2023-12-28T23:14:12.040Z,"121 km WNW of Ternate, Indonesia",earthquake,4.84,10.371,0.138,15,reviewed,us,us
 2023-12-28T22:44:58.687Z,-1.758,-78.0803,165.053,4.2,mb,20,113,0.269,0.53,us,us6000m09z,2023-12-28T23:04:06.040Z,"14 km WSW of Palora, Ecuador",earthquake,10.49,8.036,0.215,6,reviewed,us,us
 2023-12-28T22:41:44.260Z,19.3894996643066,-155.280502319336,0.670000016689301,1.77,ml,15,64,,0.129999995,hv,hv73699797,2023-12-28T22:47:16.100Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.230000004,2.78,5,automatic,hv,hv
 2023-12-28T22:41:34.040Z,19.4151668548584,-155.272994995117,0.28999999165535,1.86,ml,8,235,,0.150000006,hv,hv73699792,2023-12-28T22:47:05.140Z,"5 km SW of Volcano, Hawaii",earthquake,0.67,0.370000005,2.87,5,automatic,hv,hv
@@ -80,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T15:03:16.900Z,31.601,-103.953,5.2327,2.1,ml,16,73,0,0.3,tx,tx2023zksk,2023-12-28T15:45:54.488Z,"35 km NNW of Toyah, Texas",earthquake,0,2.136017456,0.3,12,automatic,tx,tx
 2023-12-28T15:00:00.428Z,66.3617,-150.1392,17.8,2.8,ml,,,,0.96,ak,ak023gmxh4ve,2023-12-28T15:25:46.040Z,"61 km NW of Stevens Village, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-28T14:58:39.483Z,31.6,-103.958,5.7414,1.8,ml,15,89,0,0.3,tx,tx2023zksg,2023-12-28T15:45:50.489Z,"35 km NNW of Toyah, Texas",earthquake,0,2.056463366,0.3,13,automatic,tx,tx
+2023-12-28T14:53:04.730Z,51.9485,-177.290833333333,5.72,1.06,ml,4,333,,0.04,av,av91125943,2023-12-28T23:13:01.090Z,"45 km W of Adak, Alaska",earthquake,1.27,0.98,0.171903506272871,3,reviewed,av,av
 2023-12-28T14:49:23.634Z,27.8244,129.0247,55.429,4.5,mb,40,94,1.19,1.12,us,us6000m07x,2023-12-28T16:21:15.322Z,"12 km E of Amagi, Japan",earthquake,7.17,8.193,0.108,25,reviewed,us,us
 2023-12-28T14:46:34.440Z,31.601,-103.953,5.3045,1.9,ml,16,73,0,0.3,tx,tx2023zkru,2023-12-28T15:08:59.263Z,"35 km NNW of Toyah, Texas",earthquake,0,2.136727007,0.2,12,automatic,tx,tx
 2023-12-28T14:42:57.740Z,33.964,-116.3461667,4.13,2.06,ml,75,38,0.05699,0.16,ci,ci40452087,2023-12-28T16:57:07.980Z,"14 km E of Desert Hot Springs, CA",earthquake,0.11,0.36,0.176,25,reviewed,ci,ci
@@ -247,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-27T23:36:51.828Z,31.66,-104.472,3.6136,1.8,ml,15,83,0,0.6,tx,tx2023zjnv,2023-12-27T23:53:32.185Z,"57 km S of Whites City, New Mexico",earthquake,0,1.602103165,0.2,13,automatic,tx,tx
 2023-12-27T23:33:37.683Z,56.3922,-34.1338,10,5.2,mb,120,47,7.561,0.91,us,us6000m03g,2023-12-27T23:49:51.040Z,"Reykjanes Ridge",earthquake,9.69,1.854,0.028,404,reviewed,us,us
 2023-12-27T23:26:37.990Z,38.939167,-122.6200027,4.08,1.24,md,7,234,0.1776,0.16,nc,nc73981926,2023-12-28T02:15:11.795Z,"2 km SSE of Clearlake, CA",earthquake,3.84,12.36,0.2,5,automatic,nc,nc
-2023-12-27T23:15:04.010Z,49.374,-120.51333333333334,-0.51,2.05,ml,10,217,0.583,0.33,uw,uw61978151,2023-12-28T18:07:31.100Z,"9 km S of Princeton, Canada",explosion,2.53,31.61,0.13094428115068046,8,reviewed,uw,uw
-2023-12-27T23:12:22.710Z,38.8349991,-122.8170013,1.61,0.29,md,7,94,0.01279,0.01,nc,nc73981921,2023-12-27T23:41:17.530Z,"8 km W of Cobb, CA",earthquake,0.48,0.94,0.16,9,automatic,nc,nc
