@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-29T03:28:52.120Z,38.8328323,-122.8141632,1.54,1.16,md,18,52,0.00995,0.02,nc,nc73982266,2023-12-29T03:30:26.085Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.46,0.2,19,automatic,nc,nc
+2023-12-29T03:28:52.120Z,38.8328323,-122.8141632,1.54,1.16,md,18,52,0.00995,0.02,nc,nc73982266,2023-12-29T03:40:10.700Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.46,0.2,19,automatic,nc,nc
 2023-12-29T03:18:40.610Z,19.1453342437744,-155.391494750977,32.1800003051758,1.84000003,md,35,189,,0.109999999,hv,hv73700112,2023-12-29T03:21:43.800Z,"11 km SE of Pāhala, Hawaii",earthquake,0.66,0.959999979,,4,automatic,hv,hv
 2023-12-29T03:09:16.440Z,33.4868333,-116.7555,5.52,0.6,ml,36,34,0.04531,0.16,ci,ci40452279,2023-12-29T03:15:17.153Z,"11 km SW of Anza, CA",earthquake,0.17,0.49,0.127,16,automatic,ci,ci
 2023-12-29T02:51:20.560Z,18.2173333333333,-66.3626666666667,33.34,2.45,md,13,154,0.1873,0.21,pr,pr71435633,2023-12-29T03:12:36.790Z,"3 km ESE of Orocovis, Puerto Rico",earthquake,0.79,1.19,0.0540707050201656,5,reviewed,pr,pr
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-29T01:37:22.860Z,38.8180008,-122.8193359,2.82,0.29,md,9,121,0.00902,0.02,nc,nc73982241,2023-12-29T02:05:13.114Z,"7 km NW of The Geysers, CA",earthquake,0.66,1.21,0.11,10,automatic,nc,nc
 2023-12-29T01:25:51.038Z,64.9841,-147.3885,0.6,1.4,ml,,,,0.78,ak,ak023goctvpb,2023-12-29T01:27:50.756Z,"11 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-29T01:18:49.917Z,-7.1346,67.9112,7.739,5.8,mww,101,40,12.605,0.87,us,us6000m0b4,2023-12-29T03:22:23.316Z,"Mid-Indian Ridge",earthquake,9.64,4.142,0.083,14,reviewed,us,us
-2023-12-29T01:16:31.220Z,19.1663333333333,-155.421333333333,12.33,4.36,ml,43,220,,0.13,hv,hv73699997,2023-12-29T03:32:47.102Z,"7 km SE of Pāhala, Hawaii",earthquake,0.7,0.46,0.166234414960689,46,reviewed,hv,hv
+2023-12-29T01:16:31.220Z,19.1663333333333,-155.421333333333,12.33,4.36,ml,43,220,,0.13,hv,hv73699997,2023-12-29T03:40:36.544Z,"7 km SE of Pāhala, Hawaii",earthquake,0.7,0.46,0.166234414960689,46,reviewed,hv,hv
 2023-12-29T01:15:40.910Z,19.3781666666667,-155.281166666667,1.28,0.71,md,16,86,,0.06,hv,hv73699992,2023-12-29T02:18:26.160Z,"8 km SW of Volcano, Hawaii",earthquake,0.23,0.17,0.217454531529458,3,reviewed,hv,hv
 2023-12-29T00:56:59.910Z,33.6886667,-116.7388333,16.73,0.74,ml,30,66,0.03044,0.11,ci,ci40452223,2023-12-29T01:03:11.664Z,"6 km SSW of Idyllwild, CA",earthquake,0.21,0.32,0.185,15,automatic,ci,ci
 2023-12-29T00:50:05.820Z,60.1504,-140.9367,15.6,2.1,ml,,,,1.02,ak,ak023gocdpie,2023-12-29T00:51:56.716Z,"95 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -267,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-28T03:46:49.649Z,61.3822,-150.792,70.5,2,ml,,,,0.85,ak,ak023gmqlwck,2023-12-28T03:48:33.058Z,"23 km SW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-12-28T03:46:09.630Z,38.823,-122.81,1.14,0.44,md,21,50,0.0003986,0.03,nc,nc73981951,2023-12-28T11:42:12.916Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.36,0.069,19,reviewed,nc,nc
 2023-12-28T03:42:05.970Z,17.8963333333333,-66.9043333333333,9.14,2.68,md,8,237,0.07557,0.09,pr,pr71435513,2023-12-28T03:53:22.550Z,"8 km S of Guánica, Puerto Rico",earthquake,0.65,0.91,0.0798389296228974,5,reviewed,pr,pr
-2023-12-28T03:38:33.460Z,36.7166,-115.9547,3.1,0.2,ml,8,243.67,0.028,0.0968,nn,nn00870820,2023-12-28T21:22:33.828Z,"30 km WNW of Indian Springs, Nevada",earthquake,,1.9,0,1,reviewed,nn,nn
-2023-12-28T03:36:31.219Z,36.7168,-115.955,2.9,0.2,ml,6,243.47,0.027,0.1199,nn,nn00870819,2023-12-28T21:19:19.743Z,"30 km WNW of Indian Springs, Nevada",earthquake,,2.5,0,1,reviewed,nn,nn
