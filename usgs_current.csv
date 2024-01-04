@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T19:31:29.327Z,31.594,-104.247,8.4196,2.6,ml,17,71,0.1,0.2,tx,tx2024agzd,2024-01-04T19:49:18.339Z,"53 km NW of Toyah, Texas",earthquake,1.269379314,1.482372045,0.2,6,reviewed,tx,tx
 2024-01-04T19:17:28.220Z,33.4231667,-116.3806667,12.03,0.84,ml,39,94,0.08492,0.17,ci,ci40455231,2024-01-04T19:23:38.949Z,"19 km N of Borrego Springs, CA",earthquake,0.21,0.54,0.115,17,automatic,ci,ci
 2024-01-04T19:15:13.790Z,33.4345,-116.3801667,13.81,0.9,ml,21,196,0.09649,0.13,ci,ci40455223,2024-01-04T19:21:32.937Z,"20 km N of Borrego Springs, CA",earthquake,0.4,0.68,0.087,14,automatic,ci,ci
-2024-01-04T19:14:28.780Z,19.8511657714844,-155.683502197266,32.5299987792969,3.05,ml,54,108,,0.200000003,hv,hv73709867,2024-01-04T19:51:39.081Z,"14 km SE of Waikoloa, Hawaii",earthquake,0.56,0.949999988,3.38,19,automatic,hv,hv
+2024-01-04T19:14:28.780Z,19.8511657714844,-155.683502197266,32.5299987792969,3.05,ml,54,108,,0.200000003,hv,hv73709867,2024-01-04T20:02:09.399Z,"14 km SE of Waikoloa, Hawaii",earthquake,0.56,0.949999988,3.38,19,automatic,hv,hv
 2024-01-04T18:34:40.298Z,61.6468,-149.8417,35.3,2,ml,,,,0.88,ak,ak0246x2kbh,2024-01-04T18:37:03.631Z,"2 km NW of Houston, Alaska",earthquake,,6.8,,,automatic,ak,ak
 2024-01-04T18:14:48.140Z,35.0016667,-119.1316667,15.62,2.28,ml,61,30,0.06906,0.25,ci,ci40455199,2024-01-04T18:25:21.780Z,"17 km N of Pine Mountain Club, CA",earthquake,0.22,0.72,0.131,27,automatic,ci,ci
 2024-01-04T18:09:08.890Z,31.713,-104.279,4.3098,2.2,ml,16,53,0,0.2,tx,tx2024agwl,2024-01-04T18:34:29.958Z,"52 km S of Whites City, New Mexico",earthquake,0,1.253252186,0.2,12,automatic,tx,tx
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T17:37:28.950Z,31.958,-103.781,1.1983,2.7,ml,28,181,0.2,0.4,tx,tx2024agvj,2024-01-04T17:54:29.752Z,"32 km NNW of Mentone, Texas",earthquake,2.648554953,1.163961138,0.2,19,reviewed,tx,tx
 2024-01-04T17:28:27.590Z,33.2066667,-116.701,8.13,0.92,ml,38,38,0.04567,0.19,ci,ci40455183,2024-01-04T17:34:35.940Z,"7 km SE of Lake Henshaw, CA",earthquake,0.2,0.46,0.076,15,automatic,ci,ci
 2024-01-04T17:24:05.820Z,39.0138321,-123.3083344,3.05,2.1,md,14,67,0.04096,0.05,nc,nc73985106,2024-01-04T17:31:10.851Z,"5 km E of Boonville, CA",earthquake,0.24,0.89,0.08,13,automatic,nc,nc
-2024-01-04T17:11:21.600Z,38.7876663,-122.7679977,0.6,1.16,md,22,81,0.01447,0.05,nc,nc73985101,2024-01-04T17:28:11.709Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.47,0.27,21,automatic,nc,nc
+2024-01-04T17:11:21.600Z,38.7876663,-122.7679977,0.6,1.16,md,22,81,0.01447,0.05,nc,nc73985101,2024-01-04T20:05:11.574Z,"2 km NW of The Geysers, CA",earthquake,0.21,0.47,0.27,21,automatic,nc,nc
 2024-01-04T17:10:20.512Z,61.8479,-149.2018,38.6,2,ml,,,,0.16,ak,ak0246wby03,2024-01-04T17:11:28.150Z,"11 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-04T17:03:22.420Z,31.591,-104.542,4.3513,1.8,ml,7,160,0.1,0.3,tx,tx2024agug,2024-01-04T17:29:31.617Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.329536676,0.1,7,automatic,tx,tx
 2024-01-04T16:33:06.308Z,61.5867,-148.2515,19.5,1.1,ml,,,,0.28,ak,ak0246vverq,2024-01-04T16:35:56.667Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -108,6 +108,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T07:39:45.450Z,18.0913333333333,-66.8315,21.19,2.25,md,7,149,0.1243,0.22,pr,pr71436213,2024-01-04T07:48:57.400Z,"6 km NNE of Yauco, Puerto Rico",earthquake,0.93,1.79,0.088967175822662,5,reviewed,pr,pr
 2024-01-04T07:36:57.050Z,38.822834,-122.7570038,0.32,1.14,md,6,145,0.01264,0.03,nc,nc73984976,2024-01-04T19:11:39.755Z,"3 km W of Cobb, CA",earthquake,0.43,1.06,0.39,9,automatic,nc,nc
 2024-01-04T07:32:21.227Z,8.3817,126.5792,72.528,4.7,mb,61,81,1.637,0.81,us,us6000m1lx,2024-01-04T08:27:41.040Z,"27 km E of Hinatuan, Philippines",earthquake,9.71,7.373,0.065,76,reviewed,us,us
+2024-01-04T07:20:58.190Z,44.5768333333333,-110.755166666667,6.4,0.49,md,7,97,0.08494,0.23,uu,uu80000093,2024-01-04T20:03:40.530Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.66,4.26,0.122526409224684,6,reviewed,uu,uu
+2024-01-04T07:20:51.980Z,44.579,-110.754166666667,5.98,0.17,md,9,74,0.08356,0.2,uu,uu80034291,2024-01-04T20:00:48.470Z,"29 km ESE of West Yellowstone, Montana",earthquake,0.54,3.71,0.285101051808503,4,reviewed,uu,uu
 2024-01-04T07:15:43.012Z,60.7115,-152.2296,123.3,1.6,ml,,,,0.94,ak,ak0246qeq9p,2024-01-04T07:18:15.521Z,"50 km WNW of Salamatof, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-01-04T07:11:12.190Z,33.6863333,-116.7875,16.85,0.84,ml,41,60,0.06596,0.15,ci,ci40454991,2024-01-04T15:08:58.026Z,"9 km SW of Idyllwild, CA",earthquake,0.19,0.34,0.161,13,reviewed,ci,ci
 2024-01-04T07:10:54.040Z,33.0943333,-115.5773333,7.77,1.5,ml,25,85,0.03936,0.2,ci,ci40454983,2024-01-04T07:17:10.312Z,"7 km WSW of Calipatria, CA",earthquake,0.26,0.42,0.221,20,automatic,ci,ci
