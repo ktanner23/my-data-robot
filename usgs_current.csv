@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-05T18:55:54.930Z,34.2649994,-117.5100021,8.76,4.38,mlr,87,40,0.1258,0.24,ci,ci40455759,2024-01-05T18:59:00.328Z,"1 km WNW of Lytle Creek, CA",earthquake,0.29,0.99,0.216,18,reviewed,ci,ci
+2024-01-05T18:55:54.930Z,34.2649994,-117.5100021,8.76,4.13,mw,87,40,0.1258,0.24,ci,ci40455759,2024-01-05T19:08:07.639Z,"1 km WNW of Lytle Creek, CA",earthquake,0.29,0.99,,6,reviewed,ci,ci
 2024-01-05T18:38:35.670Z,37.2898331,-119.8860016,15.96,2.86,md,11,110,0.1721,0.37,nc,nc73985486,2024-01-05T18:51:11.130Z,"15 km NW of Yosemite Lakes, CA",earthquake,1.03,1.83,0.15,8,automatic,nc,nc
 2024-01-05T18:35:57.330Z,38.8359985,-122.8003311,2.13,0.75,md,7,73,0.008163,0.01,nc,nc73985476,2024-01-05T18:51:10.996Z,"7 km WNW of Cobb, CA",earthquake,0.54,1.98,0.32,11,automatic,nc,nc
 2024-01-05T18:13:30.380Z,38.8334999,-122.8108368,2.01,0.32,md,9,66,0.01011,0.01,nc,nc73985466,2024-01-05T18:52:15.001Z,"8 km W of Cobb, CA",earthquake,0.47,1.35,0.26,9,automatic,nc,nc
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T17:32:57.389Z,60.0051,-141.696,17.5,2.6,ml,,,,0.28,ak,ak0248k033e,2024-01-05T17:39:22.040Z,"121 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-05T17:27:49.780Z,44.5835,-111.283166666667,11.87,2.05,ml,20,103,0.1322,0.17,uu,uu80034486,2024-01-05T17:46:20.240Z,"16 km WSW of West Yellowstone, Montana",earthquake,0.46,0.58,0.439058677241846,5,reviewed,uu,uu
 2024-01-05T17:15:24.298Z,62.0674,-151.8839,98,2.1,ml,,,,0.56,ak,ak0248jwdd9,2024-01-05T17:17:18.906Z,"26 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-01-05T17:13:44.390Z,39.1965,-120.3826667,-1,2.13,md,13,85,0.185,0.1,nc,nc73985451,2024-01-05T18:55:19.288Z,"20 km WNW of Sunnyside-Tahoe City, CA",earthquake,0.58,4.08,0.207,17,reviewed,nc,nc
+2024-01-05T17:13:44.390Z,39.1965,-120.3826667,-1,2.13,md,13,85,0.185,0.1,nc,nc73985451,2024-01-05T18:59:11.041Z,"20 km WNW of Sunnyside-Tahoe City, CA",earthquake,0.58,4.08,0.207,17,reviewed,nc,nc
 2024-01-05T16:59:08.474Z,37.1709,136.6903,10,4.9,mb,60,62,1.365,0.59,us,us6000m21w,2024-01-05T17:13:27.040Z,"19 km WSW of Anamizu, Japan",earthquake,4.21,1.844,0.051,120,reviewed,us,us
 2024-01-05T16:59:01.944Z,-24.7113,179.7585,484.142,4.9,mb,53,68,4.965,1.23,us,us6000m21v,2024-01-05T17:13:41.040Z,"south of the Fiji Islands",earthquake,7.59,7.042,0.1,31,reviewed,us,us
 2024-01-05T16:58:07.166Z,24.6377,122.8559,89.029,4.5,mb,38,42,0.221,0.83,us,us6000m21u,2024-01-05T17:54:03.040Z,"23 km NW of Yonakuni, Japan",earthquake,4.64,6.824,0.122,20,reviewed,us,us
@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T14:08:39.720Z,19.1978340148926,-155.493667602539,34.4900016784668,2.55,ml,51,73,,0.140000001,hv,hv73710367,2024-01-05T16:33:37.040Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.5,0.579999983,3.72,11,automatic,hv,hv
 2024-01-05T14:07:56.880Z,19.219165802002,-155.49333190918,32.189998626709,2.48,ml,18,218,,0.100000001,hv,hv73710362,2024-01-05T14:13:26.830Z,"2 km NW of Pāhala, Hawaii",earthquake,1.06,1.08000004,3.7,13,automatic,hv,hv
 2024-01-05T14:03:18.083Z,61.4217,-150.0179,31.1,2,ml,,,,0.72,ak,ak0248i1hhc,2024-01-05T14:05:10.315Z,"7 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-01-05T13:51:24.580Z,46.85216666666667,-121.99366666666667,7.45,1.04,ml,25,81,0.03142,0.12,uw,uw61978961,2024-01-05T19:05:03.460Z,"10 km NNE of Ashford, Washington",earthquake,0.24,0.51,0.17701356287500458,13,reviewed,uw,uw
 2024-01-05T13:45:43.780Z,37.6248333,-118.8758333,6.74,0.36,md,14,116,0.01177,0.03,nc,nc73985356,2024-01-05T18:42:11.063Z,"9 km E of Mammoth Lakes, CA",earthquake,0.46,0.69,0.128,13,reviewed,nc,nc
 2024-01-05T13:34:17.618Z,36.7082,-116.3322,8.9,0.7,ml,33,85.62,0.02,0.1723,nn,nn00871333,2024-01-05T16:07:01.895Z,"44 km ESE of Beatty, Nevada",earthquake,,0.7,0.33,19,reviewed,nn,nn
 2024-01-05T13:29:43.395Z,31.577,-104.017,7.0118,1.8,ml,13,51,0,0.3,tx,tx2024aiis,2024-01-05T13:48:55.721Z,"36 km NW of Toyah, Texas",earthquake,0,2.365186091,0.2,10,automatic,tx,tx
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T13:03:33.670Z,44.2718333333333,-114.8085,2.72,1.65,ml,10,69,0.1678,0.1,mb,mb90038073,2024-01-05T17:47:43.270Z,"12 km ENE of Stanley, Idaho",earthquake,0.3,1.2,0.249930363596959,11,reviewed,mb,mb
 2024-01-05T12:51:24.700Z,35.956,-117.6558333,2.1,1.01,ml,23,67,0.1269,0.15,ci,ci40455607,2024-01-05T12:57:07.262Z,"23 km E of Little Lake, CA",earthquake,0.26,0.37,0.124,10,automatic,ci,ci
 2024-01-05T12:40:45.950Z,38.036335,-122.401001,0.35,1.22,md,9,152,0.03814,0.05,nc,nc73985346,2024-01-05T15:31:10.786Z,"8 km WNW of Bayview-Montalvin, CA",earthquake,0.31,0.87,0.24,7,automatic,nc,nc
-2024-01-05T12:37:08.960Z,36.782,-121.3061667,8.57,0.62,md,11,151,0.009305,0.07,nc,nc73985341,2024-01-05T18:42:10.947Z,"2 km SE of Tres Pinos, CA",earthquake,0.37,0.88,0.234,8,reviewed,nc,nc
+2024-01-05T12:37:08.960Z,36.782,-121.3061667,8.57,0.62,md,11,151,0.009305,0.07,nc,nc73985341,2024-01-05T19:05:17.071Z,"2 km SE of Tres Pinos, CA",earthquake,0.37,0.88,0.234,8,reviewed,nc,nc
 2024-01-05T12:21:10.050Z,38.8126678,-122.7943344,1.33,1.1,md,23,39,0.004754,0.03,nc,nc73985331,2024-01-05T15:03:10.604Z,"5 km NW of The Geysers, CA",earthquake,0.18,0.39,0.22,23,automatic,nc,nc
 2024-01-05T12:20:37.540Z,44.8011666666667,-111.879333333333,10.82,1.19,ml,20,91,0.1681,0.1,mb,mb90038048,2024-01-05T16:24:59.810Z,"54 km W of Hebgen Lake Estates, Montana",earthquake,0.34,0.84,0.196456710127123,12,reviewed,mb,mb
 2024-01-05T12:16:05.110Z,38.7896652,-122.7618332,0.29,1.86,md,29,63,0.01107,0.07,nc,nc73985321,2024-01-05T14:10:10.239Z,"2 km NNW of The Geysers, CA",earthquake,0.2,0.34,0.16,31,automatic,nc,nc
@@ -90,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-05T08:22:54.120Z,38.478,-112.847333333333,-0.19,0.21,md,12,110,0.02216,0.08,uu,uu80034461,2024-01-05T15:55:30.420Z,"16 km ENE of Milford, Utah",earthquake,0.26,0.12,0.469439033796944,5,reviewed,uu,uu
 2024-01-05T08:01:33.349Z,31.65,-104.284,7.0056,1.9,ml,22,68,0.1,0.2,tx,tx2024ahxy,2024-01-05T18:15:42.141Z,"58 km S of Whites City, New Mexico",earthquake,0.8819509668,1.264644747,0.2,19,reviewed,tx,tx
 2024-01-05T07:55:12.860Z,32.8163333,-116.0715,9.65,0.64,ml,26,83,0.03262,0.22,ci,ci40455527,2024-01-05T08:00:57.515Z,"12 km NW of Ocotillo, CA",earthquake,0.28,0.54,0.059,2,automatic,ci,ci
-2024-01-05T07:48:37.910Z,38.7996,-119.2588,7.7,1.2,ml,11,64.83,0.289,0.1089,nn,nn00871327,2024-01-05T18:57:48.265Z,"5 km E of Smith, Nevada",earthquake,,5,0.16,3,reviewed,nn,nn
+2024-01-05T07:48:37.906Z,38.8003,-119.2565,7.7,1.2,ml,12,64.9,0.291,0.1272,nn,nn00871327,2024-01-05T19:01:00.259Z,"6 km E of Smith, Nevada",earthquake,,2.8,0.16,3,reviewed,nn,nn
 2024-01-05T07:45:39.210Z,44.5783333333333,-110.743833333333,8.72,0.15,md,11,92,0.07682,0.14,uu,uu80034456,2024-01-05T15:47:49.430Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.48,1.55,0.293130161729023,7,reviewed,uu,uu
 2024-01-05T07:45:06.235Z,31.598,-104.534,4.808,2.2,ml,14,235,0.1,0.4,tx,tx2024ahxi,2024-01-05T08:19:47.895Z,"65 km SSW of Whites City, New Mexico",earthquake,0,3.420939418,0.1,12,automatic,tx,tx
 2024-01-05T07:43:21.230Z,17.999,-66.9876666666667,8.81,2.84,md,18,133,0.06134,0.18,pr,pr71436298,2024-01-05T08:17:02.090Z,"6 km ENE of La Parguera, Puerto Rico",earthquake,0.39,0.68,0.118485501580929,13,reviewed,pr,pr
@@ -215,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-04T19:14:28.730Z,19.8541666666667,-155.681666666667,33.83,3.19,ml,49,91,,0.13,hv,hv73709867,2024-01-05T08:50:21.647Z,"14 km SE of Waikoloa, Hawaii",earthquake,0.44,0.62,0.216367185496596,39,reviewed,hv,hv
 2024-01-04T19:11:32.670Z,34.39516667,-96.84666667,0,1.24,ml,40,158,0.3419329011,0.49,ok,ok2024agym,2024-01-05T18:58:41.331Z,"2 km WSW of Mill Creek, Oklahoma",quarry blast,,0.7,0.25,16,reviewed,ok,ok
 2024-01-04T19:11:24.370Z,60.0471666666667,-153.0825,-2.26,-0.63,ml,5,109,,0.07,av,av92172906,2024-01-04T22:48:47.200Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.28,2.13,0.181794239036516,5,reviewed,av,av
-2024-01-04T19:00:06.360Z,44.7501666666667,-110.893166666667,7.19,0.52,ml,9,101,0.04878,0.14,uu,uu80034386,2024-01-04T20:32:14.620Z,"19 km ENE of West Yellowstone, Montana",earthquake,0.43,1.15,0.428445421207899,2,reviewed,uu,uu
