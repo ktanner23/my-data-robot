@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-08T14:34:52.780Z,32.7861671,-115.8126678,3.08,1.46,ml,15,104,0.09568,0.25,ci,ci40456823,2024-01-08T14:37:22.020Z,"18 km ENE of Ocotillo, CA",earthquake,0.76,1.82,0.379,6,automatic,ci,ci
+2024-01-08T14:34:52.730Z,32.782,-115.821,1.83,1.39,ml,28,59,0.1037,0.25,ci,ci40456823,2024-01-08T14:41:00.399Z,"17 km ENE of Ocotillo, CA",earthquake,0.22,0.44,0.142,14,automatic,ci,ci
 2024-01-08T14:13:40.251Z,61.4958,-146.4244,17.5,1.9,ml,,,,0.74,ak,ak024dgppu1,2024-01-08T14:16:40.569Z,"40 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-08T14:12:21.696Z,60.3529,-141.2768,7.3,2,ml,,,,0.44,ak,ak024dgpgop,2024-01-08T14:14:13.661Z,"124 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-08T14:08:00.620Z,19.359167098999,-155.041839599609,-0.579999983310699,2.25,ml,43,202,,0.330000013,hv,hv73712862,2024-01-08T14:13:31.570Z,"15 km SE of Fern Forest, Hawaii",earthquake,0.7,0.270000011,0.36,10,automatic,hv,hv
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T11:41:42.220Z,38.7804985,-122.7574997,1.49,0.74,md,7,88,0.0117,0.02,nc,nc73986511,2024-01-08T12:40:13.869Z,"0 km NNW of The Geysers, CA",earthquake,0.41,0.73,0.36,7,automatic,nc,nc
 2024-01-08T11:41:10.430Z,38.8375015,-122.8348312,1.02,1.09,md,13,108,0.01934,0.02,nc,nc73986506,2024-01-08T12:28:13.792Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.82,0.18,14,automatic,nc,nc
 2024-01-08T11:39:20.510Z,38.8373337,-122.8343353,0.94,0.78,md,19,55,0.001543,0.02,nc,nc73986501,2024-01-08T12:17:18.732Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.42,0.19,19,automatic,nc,nc
-2024-01-08T11:38:35.760Z,38.8363342,-122.8336639,1.05,1.81,md,31,53,0.002664,0.03,nc,nc73986496,2024-01-08T12:05:17.658Z,"9 km NW of The Geysers, CA",earthquake,0.16,0.25,0.14,34,automatic,nc,nc
+2024-01-08T11:38:35.760Z,38.8363342,-122.8336639,1.05,1.81,md,31,53,0.002664,0.03,nc,nc73986496,2024-01-08T14:42:12.604Z,"9 km NW of The Geysers, CA",earthquake,0.16,0.25,0.14,34,automatic,nc,nc
 2024-01-08T11:34:18.522Z,31.612,-104.123,3.4055,1.5,ml,14,57,0,0.4,tx,tx2024anrl,2024-01-08T14:03:40.855Z,"45 km NW of Toyah, Texas",earthquake,0,1.379982245,0.2,11,automatic,tx,tx
 2024-01-08T11:20:56.285Z,31.61,-104.082,7.4357,1.6,ml,15,144,0,0.6,tx,tx2024anqz,2024-01-08T11:51:56.129Z,"42 km NW of Toyah, Texas",earthquake,0,3.412171283,0.2,13,automatic,tx,tx
 2024-01-08T11:13:12.990Z,38.8218346,-122.8119965,1.77,1.34,md,28,39,0.002164,0.02,nc,nc73986491,2024-01-08T14:21:10.487Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.31,0.15,29,automatic,nc,nc
@@ -72,7 +72,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-08T05:13:47.430Z,38.7576675,-122.7340012,2.42,1.59,md,23,65,0.00815,0.04,nc,nc73986346,2024-01-08T07:07:11.073Z,"3 km SE of The Geysers, CA",earthquake,0.24,0.45,0.18,23,automatic,nc,nc
 2024-01-08T05:05:32.644Z,11.8069,92.7976,58.168,4.6,mb,39,82,6.676,0.7,us,us6000m2f9,2024-01-08T06:22:54.040Z,"14 km NE of Bamboo Flat, India",earthquake,9.7,7.891,0.11,25,reviewed,us,us
 2024-01-08T04:45:16.580Z,46.206,-122.34033333333333,11.84,1.28,ml,23,159,0.01248,0.13,uw,uw61979171,2024-01-08T04:54:57.790Z,"33 km NNE of Amboy, Washington",earthquake,0.55,0.64,0.11086498950107027,15,reviewed,uw,uw
-2024-01-08T04:40:26.729Z,31.661,-104.322,5.6341,1.5,mlv,13,87,0,0.4,tx,tx2024andu,2024-01-08T05:03:40.810Z,"57 km S of Whites City, New Mexico",earthquake,0,3.096282539,0.2,10,automatic,tx,tx
 2024-01-08T04:29:55.920Z,35.9826667,-118.3365,2.54,2.1,ml,33,44,0.1701,0.18,ci,ci40456735,2024-01-08T04:40:42.980Z,"27 km NNE of Kernville, CA",earthquake,0.17,0.73,0.201,22,automatic,ci,ci
 2024-01-08T04:27:07.831Z,39.385,-119.8955,5.6,1.5,ml,14,93.75,0.101,0.1501,nn,nn00871427,2024-01-08T04:29:07.929Z,"10 km E of Floriston, California",earthquake,,0.8,0.15,7,automatic,nn,nn
 2024-01-08T04:25:24.070Z,33.6421667,-116.722,13.97,1.25,ml,61,36,0.04824,0.18,ci,ci40456727,2024-01-08T14:12:58.580Z,"11 km NNW of Anza, CA",earthquake,0.15,0.26,0.172,27,reviewed,ci,ci
@@ -169,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-07T15:46:06.020Z,17.8838333333333,-65.9148333333333,14.85,3.25,md,16,179,0.2,0.55,pr,pr71436508,2024-01-08T03:52:21.781Z,"13 km SE of Lamboglia, Puerto Rico",earthquake,1.74,31.61,0.185435728010817,12,reviewed,pr,pr
 2024-01-07T15:43:33.031Z,61.6653,-149.7177,27.2,1.6,ml,,,,0.72,ak,ak024bty7vb,2024-01-07T15:46:08.309Z,"6 km NE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-07T15:37:27.350Z,38.8353348,-122.7910004,2.05,0.7,md,10,82,0.003112,0.01,nc,nc73986086,2024-01-07T16:10:10.343Z,"6 km WNW of Cobb, CA",earthquake,0.37,0.43,0.14,11,automatic,nc,nc
-2024-01-07T14:43:47.439Z,31.677,-104.412,5.8441,1.6,ml,15,69,0,0.4,tx,tx2024amce,2024-01-07T15:32:18.483Z,"55 km S of Whites City, New Mexico",earthquake,0,2.476741074,0.2,12,automatic,tx,tx
