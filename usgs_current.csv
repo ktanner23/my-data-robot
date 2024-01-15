@@ -13,8 +13,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T05:37:20.950Z,62.1884,-150.6099,1,2.6,ml,,,,0.8,ak,ak024ow9cjj,2024-01-15T05:39:41.621Z,"24 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-15T05:34:13.000Z,33.218,-116.0685,9.76,0.94,ml,54,54,0.0881,0.19,ci,ci40459927,2024-01-15T05:40:31.418Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.16,0.47,0.186,19,automatic,ci,ci
 2024-01-15T05:17:38.140Z,-22.8972,-68.1462,105.785,5,mww,56,97,0.062,0.98,us,us6000m3pm,2024-01-15T05:51:46.035Z,"5 km ENE of San Pedro de Atacama, Chile",earthquake,5.6,5.942,0.06,27,reviewed,us,us
-2024-01-15T05:13:16.680Z,38.8404999,-122.8373337,1.53,1.02,md,22,87,0.002392,0.03,nc,nc73989381,2024-01-15T05:31:11.280Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.37,0.24,22,automatic,nc,nc
-2024-01-15T05:10:45.440Z,38.0265007,-118.7843323,5.84,2.29,md,30,103,0.2598,0.05,nc,nc73989376,2024-01-15T06:25:11.069Z,"29 km SE of Bodie, CA",earthquake,0.28,3.68,0.15,25,automatic,nc,nc
+2024-01-15T05:13:16.680Z,38.8404999,-122.8373337,1.53,1.02,md,22,87,0.002392,0.03,nc,nc73989381,2024-01-15T06:53:11.697Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.37,0.24,22,automatic,nc,nc
+2024-01-15T05:10:45.440Z,38.0265007,-118.7843323,5.84,2.29,md,30,103,0.2598,0.05,nc,nc73989376,2024-01-15T06:46:12.660Z,"29 km SE of Bodie, CA",earthquake,0.28,3.68,0.15,25,automatic,nc,nc
 2024-01-15T05:03:16.508Z,63.103,-150.8316,122.7,3.2,ml,,,,0.51,ak,ak024ow21rv,2024-01-15T05:05:35.137Z,"66 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-15T05:00:03.540Z,34.1526667,-117.4543333,7.18,0.87,ml,35,36,0.07686,0.19,ci,ci40459919,2024-01-15T05:06:11.792Z,"6 km N of Fontana, CA",earthquake,0.2,0.55,0.11,17,automatic,ci,ci
 2024-01-15T04:32:02.251Z,60.3985,-151.7401,65.8,1.4,ml,,,,0.57,ak,ak024ovmswx,2024-01-15T04:34:05.719Z,"24 km W of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-14T21:09:23.240Z,38.7936668,-122.7613297,2.62,1.13,md,7,118,0.02078,0.01,nc,nc73989221,2024-01-14T23:56:13.192Z,"2 km NNW of The Geysers, CA",earthquake,0.53,1.88,0.15,3,automatic,nc,nc
 2024-01-14T21:09:06.028Z,60.8838,-149.0569,8.1,1.6,ml,,,,0.4,ak,ak024ni2wiy,2024-01-14T21:11:02.873Z,"8 km SE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-14T21:06:16.300Z,33.0291667,-116.0113333,2.46,1.97,ml,75,22,0.1463,0.23,ci,ci40459815,2024-01-14T21:17:32.030Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.15,0.43,0.19,27,automatic,ci,ci
+2024-01-14T21:02:41.510Z,46.215666666666664,-122.17966666666666,6.71,0.31,ml,11,88,0.006808,0.14,uw,uw61979936,2024-01-15T06:46:15.070Z,"38 km S of Morton, Washington",earthquake,0.42,0.83,0.09268108021197395,6,reviewed,uw,uw
 2024-01-14T20:52:16.750Z,34.5201667,-118.1025,9.61,1.14,ml,19,44,0.03598,0.1,ci,ci40459799,2024-01-15T01:22:35.865Z,"2 km NNE of Vincent, CA",earthquake,0.17,0.28,0.258,21,reviewed,ci,ci
 2024-01-14T20:45:46.000Z,19.3926658630371,-155.277496337891,0.910000026226044,2.2,ml,15,94,,0.119999997,hv,hv73717202,2024-01-14T20:51:17.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.150000006,1.94,10,automatic,hv,hv
 2024-01-14T20:43:50.850Z,38.8378334,-122.7900009,2.05,0.72,md,13,83,0.0006342,0.01,nc,nc73989206,2024-01-14T21:11:18.247Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.52,0.1,13,automatic,nc,nc
@@ -179,5 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-14T07:08:12.290Z,33.7108333,-116.7493333,15.69,1.2,ml,20,179,0.02932,0.09,ci,ci40459615,2024-01-14T07:14:27.552Z,"4 km SW of Idyllwild, CA",earthquake,0.24,0.25,0.32,6,automatic,ci,ci
 2024-01-14T07:01:28.766Z,37.1251,-116.1578,0.4,0.6,ml,8,211.54,0.154,0.3525,nn,nn00871686,2024-01-14T07:06:59.060Z,"58 km ENE of Beatty, Nevada",earthquake,,10,0.43,3,automatic,nn,nn
 2024-01-14T07:00:52.067Z,62.9147,-149.2969,60.3,1.9,ml,,,,0.49,ak,ak024n9p05y,2024-01-14T07:03:18.282Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-14T06:47:42.855Z,60.7911,-141.1044,3.9,2,ml,,,,0.88,ak,ak024n9dmi5,2024-01-14T06:50:17.241Z,"121 km SE of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-14T06:45:50.546Z,36.6001,-116.4349,7.6,0.2,ml,11,126.03,0.09,0.1239,nn,nn00871699,2024-01-14T17:47:20.347Z,"41 km ENE of Furnace Creek, California",earthquake,,2.2,0.31,6,reviewed,nn,nn
