@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-15T20:40:22.691Z,35.1025238,-97.82463837,8.366065025,1.7,ml,10,142.6807251,0.08197045326,0.8893378972,ok,ok2024bbdy,2024-01-15T20:43:43.478Z,"8 km SE of Amber, Oklahoma",earthquake,5.395785249,4.627444147,0.22,7,automatic,ok,ok
+2024-01-15T20:40:22.691Z,35.1025238,-97.82463837,8.366065025,1.7,ml,10,142.6807251,0.08197045326,0.8893378972,ok,ok2024bbdy,2024-01-15T20:44:06.178Z,"8 km SE of Amber, Oklahoma",earthquake,5.395785249,4.627444147,0.22,7,automatic,ok,ok
 2024-01-15T20:22:15.420Z,33.9925,-116.8068333,17.25,0.75,ml,25,77,0.04255,0.14,ci,ci40460279,2024-01-15T20:28:34.316Z,"8 km NNW of Cabazon, CA",earthquake,0.22,0.48,0.104,15,automatic,ci,ci
 2024-01-15T20:17:22.286Z,61.2338,-151.4147,71.4,1.5,ml,,,,0.58,ak,ak024p52kec,2024-01-15T20:19:43.347Z,"20 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-15T20:11:37.267Z,38.1484,-118.2416,10.7,2.9,ml,26,57.69,0.208,0.3083,nn,nn00871734,2024-01-15T20:14:37.367Z,"29 km SSW of Mina, Nevada",earthquake,,0.5,0.27,18,automatic,nn,nn
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T19:32:59.680Z,33.5548333,-116.6335,16.46,0.75,ml,27,56,0.01206,0.13,ci,ci40460255,2024-01-15T20:10:36.357Z,"4 km E of Anza, CA",earthquake,0.25,0.4,0.111,16,reviewed,ci,ci
 2024-01-15T19:23:10.550Z,38.8333321,-122.8181686,1.5,0.71,md,14,59,0.01177,0.01,nc,nc73989706,2024-01-15T19:55:13.442Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.74,0.29,14,automatic,nc,nc
 2024-01-15T19:20:27.240Z,38.7311668,-122.9151688,5.81,1.09,md,12,181,0.06552,0.02,nc,nc73989701,2024-01-15T19:43:13.367Z,"12 km SE of Cloverdale, CA",earthquake,1.06,1.47,0.16,13,automatic,nc,nc
-2024-01-15T19:14:11.970Z,38.8380013,-122.8066635,0.95,0.72,md,6,131,0.01275,0.02,nc,nc73989696,2024-01-15T19:32:14.298Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.44,0.52,8,automatic,nc,nc
+2024-01-15T19:14:11.970Z,38.8380013,-122.8066635,0.95,0.72,md,6,131,0.01275,0.02,nc,nc73989696,2024-01-15T20:45:10.774Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.44,0.52,8,automatic,nc,nc
 2024-01-15T19:07:04.980Z,33.8195,-117.485,2.25,1.71,ml,65,49,0.03336,0.2,ci,ci40460247,2024-01-15T19:14:23.490Z,"7 km SSE of Home Gardens, CA",earthquake,0.17,0.26,0.237,31,automatic,ci,ci
 2024-01-15T18:56:09.970Z,33.9603333,-116.9603333,8.54,1.18,ml,47,33,0.1344,0.14,ci,ci40460231,2024-01-15T20:10:50.340Z,"4 km NNE of Beaumont, CA",earthquake,0.12,0.53,0.16,28,reviewed,ci,ci
 2024-01-15T18:02:10.280Z,47.794,-123.185,46.45,2.32,ml,23,71,0.1631,0.18,uw,uw61979991,2024-01-15T18:25:32.370Z,"23 km W of Quilcene, Washington",earthquake,0.45,0.79,0.1608852447795961,14,reviewed,uw,uw
@@ -211,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-14T21:06:16.300Z,33.0291667,-116.0113333,2.46,1.97,ml,75,22,0.1463,0.23,ci,ci40459815,2024-01-14T21:17:32.030Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.15,0.43,0.19,27,automatic,ci,ci
 2024-01-14T21:02:41.510Z,46.215666666666664,-122.17966666666666,6.71,0.31,ml,11,88,0.006808,0.14,uw,uw61979936,2024-01-15T06:46:15.070Z,"38 km S of Morton, Washington",earthquake,0.42,0.83,0.09268108021197395,6,reviewed,uw,uw
 2024-01-14T20:52:16.750Z,34.5201667,-118.1025,9.61,1.14,ml,19,44,0.03598,0.1,ci,ci40459799,2024-01-15T01:22:35.865Z,"2 km NNE of Vincent, CA",earthquake,0.17,0.28,0.258,21,reviewed,ci,ci
-2024-01-14T20:45:46.000Z,19.3926658630371,-155.277496337891,0.910000026226044,2.2,ml,15,94,,0.119999997,hv,hv73717202,2024-01-14T20:51:17.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.150000006,1.94,10,automatic,hv,hv
-2024-01-14T20:43:50.850Z,38.8378334,-122.7900009,2.05,0.72,md,13,83,0.0006342,0.01,nc,nc73989206,2024-01-14T21:11:18.247Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.52,0.1,13,automatic,nc,nc
