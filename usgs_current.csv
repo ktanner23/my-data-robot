@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-16T03:40:47.490Z,34.2976667,-118.4636667,10.06,1.2,ml,17,246,0.07293,0.14,ci,ci40460447,2024-01-16T03:47:05.496Z,"2 km SW of Sylmar, CA",earthquake,0.49,0.4,0.402,14,automatic,ci,ci
 2024-01-16T03:38:16.509Z,61.1161,-148.3155,3.6,0.8,ml,,,,0.66,ak,ak024qim17f,2024-01-16T03:41:04.404Z,"43 km NNE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-16T03:22:45.540Z,34.254,-116.6686667,1.18,1.43,ml,49,44,0.1212,0.12,ci,ci40460431,2024-01-16T03:33:40.620Z,"16 km E of Big Bear City, CA",earthquake,0.11,0.35,0.108,27,automatic,ci,ci
-2024-01-16T03:02:09.968Z,31.6934,-104.2964,8.695,2.8,ml,34,48,0.176,0.54,us,us6000m3va,2024-01-16T03:14:04.040Z,"54 km S of Whites City, New Mexico",earthquake,2.04,8.415,0.083,87,reviewed,us,us
+2024-01-16T03:02:09.583Z,31.6965,-104.2818,4.352,2.8,ml,23,114,0.189,0.39,us,us6000m3va,2024-01-16T07:01:05.040Z,"53 km S of Whites City, New Mexico",earthquake,1.26,2.455,0.085,90,reviewed,us,us
 2024-01-16T02:51:24.685Z,62.1124,-150.9215,59.5,1.7,ml,,,,0.32,ak,ak024qi3ej8,2024-01-16T02:54:22.426Z,"28 km ENE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-01-16T02:34:24.904Z,-36.0913,-71.3985,118.635,4.2,mb,27,110,0.328,0.45,us,us6000m3v7,2024-01-16T06:52:57.040Z,"29 km ESE of Longaví, Chile",earthquake,7.9,6.869,0.214,6,reviewed,us,us
 2024-01-16T02:20:52.928Z,62.2862,-149.6889,43.4,1.7,ml,,,,0.45,ak,ak024qhwtik,2024-01-16T02:23:52.213Z,"16 km NNE of Susitna North, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -193,11 +193,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T07:35:27.712Z,-6.2929,128.7112,252.003,4.6,mb,64,51,2.123,0.65,us,us6000m3q5,2024-01-15T11:18:00.040Z,"293 km SSE of Ambon, Indonesia",earthquake,7.94,7.565,0.073,56,reviewed,us,us
 2024-01-15T07:27:54.110Z,19.2035007476807,-155.482833862305,32.6800003051758,2.1400001,md,46,81,,0.109999999,hv,hv73717967,2024-01-15T07:31:18.130Z,"0 km W of Pāhala, Hawaii",earthquake,0.46,0.550000012,1.48000002,22,automatic,hv,hv
 2024-01-15T07:26:10.027Z,36.9695,-117.7797,1.9,1.2,ml,17,237.29,0.427,0.2785,nn,nn00871719,2024-01-15T07:28:45.493Z,"41 km ENE of Independence, California",earthquake,,14.7,0.26,9,automatic,nn,nn
-2024-01-15T07:25:05.920Z,48.00416666666667,-123.16666666666667,43.52,3.48,ml,82,27,0.04556,0.21,uw,uw61979966,2024-01-16T06:45:13.539Z,"7 km SSW of River Road, Washington",earthquake,0.29,0.51,0.1768289140934991,63,reviewed,uw,uw
+2024-01-15T07:25:05.920Z,48.00416666666667,-123.16666666666667,43.52,3.48,ml,82,27,0.04556,0.21,uw,uw61979966,2024-01-16T07:04:43.250Z,"7 km SSW of River Road, Washington",earthquake,0.29,0.51,0.1768289140934991,63,reviewed,uw,uw
 2024-01-15T07:23:46.551Z,36.688,-116.0685,5.4,-0.5,ml,10,211.12,0.025,0.0417,nn,nn00871730,2024-01-15T14:39:47.356Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.12,3,reviewed,nn,nn
 2024-01-15T07:22:51.860Z,33.702,-116.7635,15.72,0.63,ml,33,73,0.04213,0.14,ci,ci40459959,2024-01-15T07:29:01.759Z,"6 km SW of Idyllwild, CA",earthquake,0.22,0.36,0.105,7,automatic,ci,ci
 2024-01-15T07:22:13.050Z,32.7591667,-116.0293333,11.01,0.79,ml,32,43,0.01434,0.2,ci,ci40459951,2024-01-15T07:28:27.355Z,"4 km NW of Ocotillo, CA",earthquake,0.24,0.37,0.115,6,automatic,ci,ci
 2024-01-15T07:18:30.937Z,63.9109,-151.8988,6.9,1.6,ml,,,,0.47,ak,ak024oxc5x1,2024-01-15T07:30:22.185Z,"20 km E of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-01-15T07:16:51.360Z,38.7928352,-122.7608337,2,0.86,md,7,121,0.02114,0.01,nc,nc73989401,2024-01-15T08:35:13.266Z,"2 km NNW of The Geysers, CA",earthquake,0.79,1.49,0.14,7,automatic,nc,nc
-2024-01-15T07:02:54.333Z,30.989,-103.608,3.642,2.5,ml,13,71,0.1,0.5,tx,tx2024bada,2024-01-15T07:37:57.024Z,"13 km E of Balmorhea, Texas",earthquake,0,1.620793841,0.2,11,automatic,tx,tx
-2024-01-15T06:55:55.730Z,19.1655006408691,-155.518661499023,29.4200000762939,1.80999994,md,16,187,,0.100000001,hv,hv73717952,2024-01-15T06:59:10.320Z,"5 km SW of Pāhala, Hawaii",earthquake,0.96,1.23000002,0.779999971,3,automatic,hv,hv
