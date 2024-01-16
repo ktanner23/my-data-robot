@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-16T20:56:55.110Z,34.1501656,-117.3893356,0.94,1.42,ml,40,40,0.05855,0.16,ci,ci40461095,2024-01-16T20:59:18.261Z,"4 km W of Muscoy, CA",earthquake,0.26,0.41,0.183,13,automatic,ci,ci
+2024-01-16T20:56:55.160Z,34.1503333,-117.3893333,1.69,1.49,ml,55,33,0.05839,0.2,ci,ci40461095,2024-01-16T21:03:38.822Z,"4 km W of Muscoy, CA",earthquake,0.15,0.26,0.171,28,automatic,ci,ci
 2024-01-16T20:43:24.170Z,38.8255005,-122.7975006,2.77,0.57,md,8,98,0.01004,0.01,nc,nc73990306,2024-01-16T20:57:11.397Z,"6 km NNW of The Geysers, CA",earthquake,0.53,1.29,0.35,8,automatic,nc,nc
 2024-01-16T20:30:42.200Z,38.8203316,-122.7639999,2.21,1.04,md,15,118,0.01113,0.02,nc,nc73990296,2024-01-16T20:42:11.248Z,"4 km W of Cobb, CA",earthquake,0.3,0.55,0.1,15,automatic,nc,nc
 2024-01-16T20:15:23.810Z,33.8545,-117.5086667,0.23,1.25,ml,31,52,0.06461,0.28,ci,ci40461063,2024-01-16T20:22:01.967Z,"3 km SSE of Home Gardens, CA",earthquake,0.31,0.51,0.473,21,automatic,ci,ci
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-16T19:19:16.800Z,38.8248329,-122.7659988,2.13,0.73,md,9,123,0.006406,0.02,nc,nc73990236,2024-01-16T20:02:15.165Z,"4 km W of Cobb, CA",earthquake,0.42,0.71,0.12,9,automatic,nc,nc
 2024-01-16T18:48:55.962Z,63.1277,-150.1535,83.5,1.2,ml,,,,0.18,ak,ak024qrlrh8,2024-01-16T18:50:47.792Z,"67 km WSW of Cantwell, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-01-16T18:40:23.150Z,36.9363327,-121.6861649,10.96,2.06,md,50,56,0.0202,0.13,nc,nc73990221,2024-01-16T20:41:50.047Z,"4 km ESE of Interlaken, CA",earthquake,0.24,0.42,0.18,48,automatic,nc,nc
-2024-01-16T18:38:37.800Z,36.9324989,-121.6806641,11.14,3.41,ml,77,56,0.01514,0.15,nc,nc73990216,2024-01-16T20:57:13.913Z,"5 km ESE of Interlaken, CA",earthquake,0.22,0.41,0.213,32,automatic,nc,nc
+2024-01-16T18:38:37.800Z,36.9324989,-121.6806641,11.14,3.41,ml,77,56,0.01514,0.15,nc,nc73990216,2024-01-16T21:07:35.146Z,"5 km ESE of Interlaken, CA",earthquake,0.22,0.41,0.213,32,automatic,nc,nc
 2024-01-16T18:26:10.780Z,32.8973333,-115.5225,7.65,1.65,ml,32,71,0.03241,0.23,ci,ci40460959,2024-01-16T18:32:39.941Z,"7 km NE of Imperial, CA",earthquake,0.31,0.48,0.232,20,automatic,ci,ci
 2024-01-16T18:24:33.310Z,33.8289986,-117.2161636,24.74,1.42,ml,11,105,0.2812,0.1,ci,ci40460943,2024-01-16T18:31:26.098Z,"5 km NNE of Perris, CA",earthquake,0.44,1.27,0.259,17,automatic,ci,ci
 2024-01-16T18:13:31.576Z,51.7384,-176.532,69.486,4.1,mb,71,180,1.517,0.61,us,us6000m42l,2024-01-16T18:58:54.203Z,"16 km SSE of Adak, Alaska",earthquake,11.26,11.78,0.067,62,reviewed,us,us
@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T23:40:03.610Z,38.8279991,-122.8531647,1.96,0.73,md,11,69,0.002932,0.02,nc,nc73989841,2024-01-15T23:55:13.878Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.62,0.24,12,automatic,nc,nc
 2024-01-15T23:37:26.410Z,18.0083333333333,-66.7431666666667,14.78,1.85,md,7,181,0.1337,0.08,pr,pr71436953,2024-01-15T23:53:21.560Z,"2 km ESE of Magas Arriba, Puerto Rico",earthquake,0.39,0.93,0.147314038431356,6,reviewed,pr,pr
 2024-01-15T23:31:07.470Z,38.3291664,-121.9499969,20.85,2.03,md,19,96,0.1151,0.24,nc,nc73989831,2024-01-16T02:13:10.695Z,"4 km WSW of Elmira, CA",earthquake,0.67,1.1,0.18,16,automatic,nc,nc
-2024-01-15T23:26:36.700Z,34.112,-117.1736667,4.76,2.02,ml,98,17,0.03871,0.17,ci,ci40460375,2024-01-16T02:41:51.999Z,"4 km ESE of Highland, CA",earthquake,0.1,0.24,0.175,25,automatic,ci,ci
+2024-01-15T23:26:36.650Z,34.1118333,-117.175,5.21,2.02,ml,82,16,0.03768,0.15,ci,ci40460375,2024-01-16T21:12:28.120Z,"4 km ESE of Highland, CA",earthquake,0.1,0.27,0.187,23,reviewed,ci,ci
 2024-01-15T23:21:28.646Z,38.6801,-117.0266,0.1,1.6,ml,10,218.2,0.806,0.2817,nn,nn00871737,2024-01-15T23:24:19.898Z,"58 km S of Kingston, Nevada",earthquake,,8.8,0.5,6,automatic,nn,nn
 2024-01-15T23:19:06.553Z,61.5118,-148.2235,8.4,1.1,ml,,,,0.86,ak,ak024p6v9fj,2024-01-15T23:21:38.176Z,"34 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-15T23:18:15.360Z,37.1423333,-121.5408333,2.75,0.8,md,23,50,0.07158,0.15,nc,nc73989816,2024-01-16T19:08:09.711Z,"9 km NE of San Martin, CA",earthquake,0.27,0.89,0.203,18,reviewed,nc,nc
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-15T21:50:54.390Z,60.9738,-151.3005,57.8,2,ml,,,,0.32,ak,ak024p5v53z,2024-01-15T21:53:11.932Z,"13 km SW of Tyonek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-01-15T21:47:53.370Z,37.137,-121.558,6.91,0.45,md,11,66,0.06073,0.08,nc,nc73989751,2024-01-16T19:00:10.661Z,"7 km NE of San Martin, CA",earthquake,0.3,1.19,0.142,11,reviewed,nc,nc
 2024-01-15T21:37:22.130Z,-24.953,-68.3183,95.739,4.8,mb,49,45,1.172,0.85,us,us6000m3u4,2024-01-15T22:07:00.040Z,"153 km NW of Antofagasta de la Sierra, Argentina",earthquake,6.65,6.056,0.046,148,reviewed,us,us
-2024-01-15T21:11:30.240Z,33.629,-116.7096667,16.13,0.72,ml,17,83,0.04979,0.07,ci,ci40460327,2024-01-16T15:14:33.531Z,"9 km NNW of Anza, CA",earthquake,0.2,0.36,0.206,8,reviewed,ci,ci
