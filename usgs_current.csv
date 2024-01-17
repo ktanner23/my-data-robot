@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-17T05:48:04.744Z,65.3083,-148.9148,0.3,1.4,ml,,,,0.33,ak,ak024s7ed5m,2024-01-17T05:49:46.061Z,"26 km NE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-17T05:41:58.690Z,38.8358345,-122.8799973,2.46,0.79,md,12,123,0.003602,0.02,nc,nc73990491,2024-01-17T05:43:33.083Z,"12 km ENE of Cloverdale, CA",earthquake,0.43,0.54,0.24,13,automatic,nc,nc
-2024-01-17T05:39:47.050Z,38.8321648,-122.81633,1.21,1.07,md,16,53,0.01628,0.01,nc,nc73990486,2024-01-17T05:41:24.395Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.8,0.05,17,automatic,nc,nc
+2024-01-17T05:41:58.690Z,38.8358345,-122.8799973,2.46,0.79,md,12,123,0.003602,0.02,nc,nc73990491,2024-01-17T05:58:10.748Z,"12 km ENE of Cloverdale, CA",earthquake,0.43,0.54,0.24,13,automatic,nc,nc
+2024-01-17T05:39:47.050Z,38.8321648,-122.81633,1.21,1.07,md,16,53,0.01628,0.01,nc,nc73990486,2024-01-17T05:53:11.586Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.8,0.05,17,automatic,nc,nc
 2024-01-17T05:38:28.623Z,61.1527,-151.1666,60.8,1.5,ml,,,,0.49,ak,ak024s7c9u6,2024-01-17T05:40:36.015Z,"4 km WNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-17T05:34:07.785Z,60.5961,-141.7342,9.3,1.5,ml,,,,0.5,ak,ak024s7bdd6,2024-01-17T05:36:05.081Z,"113 km SE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-17T05:32:34.732Z,63.532,-147.3509,0,2.5,ml,,,,0.53,ak,ak024s7b00h,2024-01-17T05:34:25.645Z,"80 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-17T02:39:14.420Z,19.2201671600342,-155.471664428711,33.060001373291,2.04999995,md,33,94,,0.119999997,hv,hv73719842,2024-01-17T02:42:24.870Z,"2 km NNE of Pāhala, Hawaii",earthquake,0.55,0.649999976,1.13,17,automatic,hv,hv
 2024-01-17T02:15:36.620Z,38.0470009,-122.2070007,9.26,1.87,md,20,85,0.04991,0.12,nc,nc73990426,2024-01-17T02:37:15.431Z,"1 km SE of Crockett, CA",earthquake,0.3,0.62,0.15,16,automatic,nc,nc
 2024-01-17T02:13:41.830Z,40.5514984,-123.307663,29.27,2.9,md,15,84,0.06446,0.09,nc,nc73990421,2024-01-17T03:13:24.730Z,"10 km W of Hayfork, CA",earthquake,0.47,0.92,0.08,19,automatic,nc,nc
-2024-01-17T02:08:11.660Z,38.8363342,-122.7965012,1.72,1.54,md,27,44,0.005236,0.05,nc,nc73990416,2024-01-17T02:26:15.371Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.33,0.14,28,automatic,nc,nc
+2024-01-17T02:08:11.660Z,38.8363342,-122.7965012,1.72,1.54,md,27,44,0.005236,0.05,nc,nc73990416,2024-01-17T05:58:10.615Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.33,0.14,28,automatic,nc,nc
 2024-01-17T01:49:34.072Z,65.9337,-149.3957,12.7,1.5,ml,,,,0.82,ak,ak024s50wpr,2024-01-17T01:51:09.377Z,"16 km WSW of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-17T01:20:11.450Z,38.8383331,-122.796669,2.15,1.07,md,17,75,0.00494,0.02,nc,nc73990411,2024-01-17T02:12:14.281Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.48,0.17,17,automatic,nc,nc
 2024-01-17T01:17:18.952Z,59.7849,-153.1917,113.5,1.3,ml,,,,0.28,ak,ak024s4u0mv,2024-01-17T01:19:19.293Z,"51 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -198,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-16T06:03:33.000Z,38.8286667,-122.8519974,1.76,0.71,md,11,81,0.00397,0.02,nc,nc73989981,2024-01-16T08:34:10.940Z,"10 km NW of The Geysers, CA",earthquake,0.32,0.5,0.3,13,automatic,nc,nc
 2024-01-16T06:02:11.408Z,38.6839,-119.493,5.1,1.3,ml,12,108.56,0.229,0.1855,nn,nn00871742,2024-01-16T17:17:01.989Z,"4 km ESE of Topaz Lake, Nevada",earthquake,,2.8,0.26,6,reviewed,nn,nn
 2024-01-16T06:01:11.201Z,31.721,-104.469,2.6353,1.7,ml,14,75,0.1,0.1,tx,tx2024bbwl,2024-01-16T17:57:00.320Z,"51 km S of Whites City, New Mexico",earthquake,0.7051448554,1.044521773,0.2,10,reviewed,tx,tx
-2024-01-16T05:57:05.345Z,61.1253,-147.4451,0,1.4,ml,,,,0.71,ak,ak024qjwy5i,2024-01-16T05:59:05.401Z,"50 km NW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-16T05:56:13.610Z,65.5162,-165.5356,15.371,3.4,ml,23,107,0.958,0.61,us,us6000m3w0,2024-01-16T06:07:43.040Z,"47 km NE of Teller, Alaska",earthquake,5.96,7.398,0.073,25,reviewed,us,us
-2024-01-16T05:56:03.790Z,36.3803333,-117.8605,2.52,1.5,mh,21,128,0.2424,0.15,ci,ci40460511,2024-01-16T23:43:23.763Z,"17 km NE of Olancha, CA",earthquake,0.46,1.14,,0,reviewed,ci,ci
-2024-01-16T05:51:31.071Z,61.22,-146.5673,35.6,1.8,ml,,,,0.85,ak,ak024qjvpub,2024-01-16T05:53:34.885Z,"15 km NW of Valdez, Alaska",earthquake,,8.4,,,automatic,ak,ak
