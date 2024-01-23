@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T17:45:06.960Z,38.8376656,-122.7853317,1.67,0.26,md,9,114,0.003984,0.02,nc,nc73992936,2024-01-23T18:39:12.129Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.65,0.16,9,automatic,nc,nc
 2024-01-23T17:38:19.140Z,38.784668,-122.7555008,2.29,0.52,md,8,106,0.01474,0.01,nc,nc73992931,2024-01-23T18:27:13.044Z,"1 km N of The Geysers, CA",earthquake,0.5,0.87,0.27,7,automatic,nc,nc
 2024-01-23T17:35:37.730Z,38.8221664,-122.8509979,2.14,0.58,md,9,120,0.007064,0.01,nc,nc73992926,2024-01-23T18:16:10.983Z,"10 km WNW of The Geysers, CA",earthquake,0.37,1.01,0.34,9,automatic,nc,nc
-2024-01-23T17:35:05.948Z,31.72,-104.35,3.7521,1.6,ml,18,72,0.1,0.3,tx,tx2024bpnw,2024-01-23T18:06:34.443Z,"50 km S of Whites City, New Mexico",earthquake,0,1.136201721,0.2,14,automatic,tx,tx
+2024-01-23T17:35:05.753Z,31.727,-104.35,5.8231,1.7,ml,18,74,0.1,0.1,tx,tx2024bpnw,2024-01-23T19:44:58.184Z,"49 km S of Whites City, New Mexico",earthquake,0.654166208,1.102291054,0.2,12,reviewed,tx,tx
 2024-01-23T17:30:19.660Z,35.67166667,-97.412,6.73,1.38,ml,87,25,0.03869240723,0.17,ok,ok2024bpns,2024-01-23T18:36:26.937Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.23,39,reviewed,ok,ok
 2024-01-23T17:27:47.159Z,62.4541,-151.2012,88.9,1.6,ml,,,,0.59,ak,ak02412bn8lu,2024-01-23T17:31:40.459Z,"22 km WSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-01-23T17:23:42.670Z,32.9053333,-115.9788333,3.45,1.21,ml,21,38,0.02017,0.23,ci,ci39755426,2024-01-23T17:29:42.381Z,"19 km N of Ocotillo, CA",earthquake,0.26,0.67,0.396,8,automatic,ci,ci
@@ -185,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T00:54:50.221Z,31.671,-104.19,6.1316,2,ml,26,61,0.1,0.2,tx,tx2024bogy,2024-01-23T16:02:40.793Z,"54 km NW of Toyah, Texas",earthquake,0.5881411674,0.7895677465,0.2,18,reviewed,tx,tx
 2024-01-23T00:53:56.918Z,31.692,-104.462,2.9695,2.1,ml,15,62,0,0.2,tx,tx2024bogw,2024-01-23T16:01:58.763Z,"54 km S of Whites City, New Mexico",earthquake,2.181456841,1.740693633,0.2,21,reviewed,tx,tx
 2024-01-23T00:52:13.060Z,35.66383333,-97.39833333,6.72,1.15,ml,73,52,0.02519505587,0.18,ok,ok2024bogu,2024-01-23T13:47:26.321Z,"6 km W of Arcadia, Oklahoma",earthquake,,0.3,0.16,27,reviewed,ok,ok
-2024-01-23T00:51:59.180Z,33.1565,-115.6983333,0.08,1.5,mh,3,287,0.06887,0.1,ci,ci40464255,2024-01-23T01:47:46.507Z,"15 km NNW of Westmorland, CA",earthquake,1.01,31.61,,0,reviewed,ci,ci
+2024-01-23T00:52:00.170Z,33.181,-115.6045,2.93,1.29,ml,15,88,0.009984,0.2,ci,ci40464255,2024-01-23T19:41:07.867Z,"10 km SW of Niland, CA",earthquake,0.33,0.28,0.348,13,reviewed,ci,ci
 2024-01-23T00:51:34.348Z,31.67,-104.192,6.3886,2.3,ml,28,61,0.1,0.2,tx,tx2024bogu,2024-01-23T15:29:38.573Z,"54 km NW of Toyah, Texas",earthquake,0.6296906837,0.7890521399,0.2,22,reviewed,tx,tx
 2024-01-23T00:51:11.240Z,31.567,-104.148,6.7743,1.2,ml,11,223,0,0.1,tx,tx2024bogt,2024-01-23T15:17:22.481Z,"43 km NW of Toyah, Texas",earthquake,2.094109302,1.24893736,0.2,9,reviewed,tx,tx
 2024-01-23T00:37:12.280Z,18.8151,-64.5286,4,3.72,md,14,290,0.6302,0.33,pr,pr2024023000,2024-01-23T00:52:43.184Z,"60 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.029,2.15,0.11,12,reviewed,pr,pr
@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-22T19:50:49.940Z,45.9335,-111.466166666667,-2,0.89,ml,6,160,0.2807,0.05,mb,mb90039118,2024-01-23T15:08:57.020Z,"6 km NNW of Logan, Montana",quarry blast,0.58,31.61,0.167601759211681,2,reviewed,mb,mb
 2024-01-22T19:47:33.710Z,58.2963333333333,-154.993833333333,2.58,0.41,ml,12,127,,0.16,av,av92186306,2024-01-23T04:08:45.590Z,"87 km NNW of Karluk, Alaska",earthquake,0.31,0.42,0.271256133257365,12,reviewed,av,av
 2024-01-22T19:47:09.120Z,37.2616653,-121.6403351,15.55,1.56,md,6,157,0.09865,0.12,nc,nc73992556,2024-01-22T22:49:14.225Z,"15 km N of Morgan Hill, CA",earthquake,1.28,3.12,0.12,2,automatic,nc,nc
-2024-01-22T19:40:54.082Z,37.2638,-114.9285,11.2,1,ml,9,110.92,0.173,0.1162,nn,nn00872099,2024-01-22T20:53:04.126Z,"23 km ESE of Alamo, Nevada",earthquake,,8.3,0.78,4,reviewed,nn,nn
