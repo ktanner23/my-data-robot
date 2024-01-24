@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-24T03:44:47.490Z,33.7330017,-116.0299988,3.76,1.16,ml,27,143,0.08448,0.14,ci,ci39755730,2024-01-24T03:46:54.824Z,"14 km NE of Thermal, CA",earthquake,0.32,1.16,0.245,7,automatic,ci,ci
+2024-01-24T03:44:47.410Z,33.7368333,-116.0245,3.16,1.05,ml,38,55,0.08637,0.15,ci,ci39755730,2024-01-24T03:51:05.252Z,"15 km NE of Thermal, CA",earthquake,0.16,0.31,0.172,19,automatic,ci,ci
 2024-01-24T03:42:34.280Z,61.1829,-146.8523,1.1,1.5,ml,,,,0.3,ak,ak02413qxpdw,2024-01-24T03:44:17.795Z,"27 km WNW of Valdez, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-01-24T03:22:16.110Z,40.3378334,-124.4253311,19.11,1.82,md,13,303,0.08023,0.1,nc,nc73993146,2024-01-24T03:39:13.463Z,"12 km W of Petrolia, CA",earthquake,2.34,0.84,0.08,8,automatic,nc,nc
 2024-01-24T03:04:26.393Z,61.0948,-146.7325,5.1,1.1,ml,,,,0.41,ak,ak02413qpjkh,2024-01-24T03:07:05.211Z,"21 km W of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -78,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T20:59:02.040Z,33.4841667,-116.4156667,3.55,0.62,ml,10,83,0.121,0.09,ci,ci39755498,2024-01-23T23:59:09.070Z,"22 km SSW of La Quinta, CA",earthquake,0.2,2.11,0.018,4,reviewed,ci,ci
 2024-01-23T20:55:43.950Z,54.7603333333333,-164.116333333333,10.38,1.12,ml,4,287,,0.33,av,av91128043,2024-01-24T01:53:40.430Z,"46 km WSW of False Pass, Alaska",earthquake,2.55,2.04,0.214063899194611,4,reviewed,av,av
 2024-01-23T20:41:08.319Z,64.7358,-149.0401,30.2,1.4,ml,,,,0.56,ak,ak02412diggf,2024-01-23T20:43:06.864Z,"15 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-23T20:38:13.184Z,41.1354,78.5548,10,5.2,mww,100,59,1.368,0.92,us,us7000ltaj,2024-01-24T03:06:00.865Z,"134 km W of Aykol, China",earthquake,6.12,1.838,0.089,12,reviewed,us,us
+2024-01-23T20:38:13.184Z,41.1354,78.5548,10,5.2,mww,100,59,1.368,0.92,us,us7000ltaj,2024-01-24T03:50:12.210Z,"134 km W of Aykol, China",earthquake,6.12,1.838,0.089,12,reviewed,us,us
 2024-01-23T20:22:54.050Z,47.648,-120.13583333333334,2.54,0.05,ml,5,129,0.03132,0.03,uw,uw61980816,2024-01-23T23:19:49.200Z,"4 km W of Waterville, Washington",earthquake,0.34,1.2,0.0440031199299894,2,reviewed,uw,uw
 2024-01-23T20:15:05.430Z,60.7064,-151.9105,69.4,1.4,ml,,,,0.19,ak,ak02412dcvm7,2024-01-23T20:36:05.549Z,"33 km WNW of Salamatof, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-01-23T20:14:31.910Z,36.2256666666667,-89.2351666666667,3.5,2.75,md,60,75,0.06078,0.2,nm,nm60566096,2024-01-24T03:19:06.053Z,"4 km WNW of Trimble, Tennessee",earthquake,0.44,0.44,0.0728111037895693,22,reviewed,nm,nm
@@ -267,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-23T04:02:42.352Z,-36.1062,-100.7962,10,5.4,mww,57,110,22.197,0.72,us,us7000lt48,2024-01-23T06:06:23.603Z,"southeast of Easter Island",earthquake,14.09,1.9,0.098,10,reviewed,us,us
 2024-01-23T04:01:23.966Z,41.4896,78.7188,10,4.8,mb,49,69,1.037,0.93,us,us7000lt3t,2024-01-23T04:17:30.040Z,"111 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,5.64,1.908,0.07,63,reviewed,us,us
 2024-01-23T03:59:43.270Z,35.3381667,-118.5068333,8.07,1.36,ml,37,64,0.08449,0.15,ci,ci40464287,2024-01-23T14:52:13.590Z,"24 km NNW of Tehachapi, CA",earthquake,0.15,0.45,0.146,15,reviewed,ci,ci
-2024-01-23T03:52:23.483Z,41.5065,78.7353,10,4.5,mb,27,69,1.024,0.9,us,us7000lt3s,2024-01-23T04:10:23.040Z,"110 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,4.04,1.912,0.131,17,reviewed,us,us
-2024-01-23T03:48:39.697Z,64.3716,-146.7083,20.8,1.1,ml,,,,1.01,ak,ak024123fnre,2024-01-23T03:52:09.223Z,"5 km W of Harding-Birch Lakes, Alaska",earthquake,,0.8,,,automatic,ak,ak
