@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-01-25T13:24:24.170Z,35.6801667,-117.547,8.41,1.11,ml,27,57,0.09855,0.13,ci,ci39756762,2024-01-25T13:30:30.152Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.51,0.091,8,automatic,ci,ci
-2024-01-25T13:23:22.500Z,38.8251648,-122.7853317,1.07,1.32,md,21,75,0.01379,0.03,nc,nc73993746,2024-01-25T13:40:10.058Z,"5 km W of Cobb, CA",earthquake,0.19,0.38,0.16,22,automatic,nc,nc
+2024-01-25T13:23:22.500Z,38.8251648,-122.7853317,1.07,1.32,md,21,75,0.01379,0.03,nc,nc73993746,2024-01-25T13:49:12.235Z,"5 km W of Cobb, CA",earthquake,0.19,0.38,0.16,22,automatic,nc,nc
 2024-01-25T13:21:58.062Z,31.672,-104.337,6.4658,2.2,ml,28,68,0.1,0.1,tx,tx2024bswo,2024-01-25T13:43:28.573Z,"55 km S of Whites City, New Mexico",earthquake,0.6215093085,0.6577058163,0.1,19,reviewed,tx,tx
 2024-01-25T13:04:05.890Z,38.1143,38.4508,10,5,mww,91,29,0.734,1.28,us,us7000ltqd,2024-01-25T13:27:12.428Z,"16 km WNW of Sincik, Turkey",earthquake,5.18,1.87,0.062,25,reviewed,us,us
 2024-01-25T12:54:04.080Z,35.151,-118.6698333,9.31,1.67,ml,46,31,0.08138,0.19,ci,ci39756754,2024-01-25T13:05:04.090Z,"16 km ESE of Arvin, CA",earthquake,0.18,0.51,0.12,26,automatic,ci,ci
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T03:52:21.590Z,32.9193333,-116.2383333,8.76,0.82,ml,34,45,0.06503,0.14,ci,ci39756426,2024-01-25T03:58:21.723Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.142,8,automatic,ci,ci
 2024-01-25T03:49:42.630Z,38.821167,-122.8058319,1.71,0.94,md,19,64,0.003991,0.01,nc,nc73993601,2024-01-25T04:53:16.210Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.54,0.17,19,automatic,nc,nc
 2024-01-25T03:46:35.400Z,38.8343315,-122.7963333,2.04,1.35,md,28,44,0.006201,0.02,nc,nc73993596,2024-01-25T06:23:11.296Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.35,0.16,29,automatic,nc,nc
-2024-01-25T03:43:19.980Z,34.1110001,-117.3101654,15.49,4.24,mw,81,22,0.02333,0.24,ci,ci39756418,2024-01-25T13:39:39.212Z,"3 km SW of San Bernardino, CA",earthquake,0.32,0.48,,6,reviewed,ci,ci
+2024-01-25T03:43:19.980Z,34.1110001,-117.3101654,15.49,4.24,mw,81,22,0.02333,0.24,ci,ci39756418,2024-01-25T13:50:12.106Z,"3 km SW of San Bernardino, CA",earthquake,0.32,0.48,,6,reviewed,ci,ci
 2024-01-25T03:14:35.510Z,38.8413315,-122.82267,1.79,0.58,md,11,90,0.01038,0.01,nc,nc73993581,2024-01-25T05:39:15.035Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.81,0.39,11,automatic,nc,nc
 2024-01-25T03:04:53.357Z,62.8497,-144.8851,11.7,1.3,ml,,,,0.59,ak,ak02415e8y2p,2024-01-25T03:08:06.592Z,"33 km NNW of Chistochina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-25T03:01:19.834Z,60.1664,-140.9709,12.1,1.6,ml,,,,0.57,ak,ak02415e88en,2024-01-25T03:03:58.656Z,"98 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -280,5 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T13:58:23.538Z,39.6123,-119.6429,11.3,0.5,ml,5,136.46,0.221,0.1808,nn,nn00872252,2024-01-24T19:34:00.727Z,"6 km SE of Spanish Springs, Nevada",earthquake,,7.5,0.37,2,reviewed,nn,nn
 2024-01-24T13:52:04.784Z,61.6998,-151.3522,11.8,1.6,ml,,,,0.28,ak,ak02413wy4bi,2024-01-24T13:53:37.538Z,"32 km S of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-24T13:52:02.420Z,38.821167,-122.8018341,1.36,0.63,md,8,93,0.00681,0.01,nc,nc73993281,2024-01-24T16:29:13.186Z,"6 km NW of The Geysers, CA",earthquake,0.49,0.9,0.36,9,automatic,nc,nc
-2024-01-24T13:49:50.298Z,41.926,-119.5724,0,1.6,ml,4,214.31,0.544,0.1645,nn,nn00872250,2024-01-24T19:12:16.499Z,"48 km E of Fort Bidwell, California",earthquake,,0,0,1,reviewed,nn,nn
-2024-01-24T13:49:23.352Z,-9.0466,107.1888,23.819,4.9,mb,48,62,1.639,0.74,us,us7000ltgs,2024-01-24T14:08:28.040Z,"206 km S of Banjar, Indonesia",earthquake,5.61,4.747,0.088,40,reviewed,us,us
