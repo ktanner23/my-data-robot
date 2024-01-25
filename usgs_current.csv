@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-01-25T12:54:04.080Z,35.151,-118.6698333,9.31,1.67,ml,46,31,0.08138,0.19,ci,ci39756754,2024-01-25T13:00:53.755Z,"16 km ESE of Arvin, CA",earthquake,0.18,0.51,0.12,26,automatic,ci,ci
+2024-01-25T12:54:04.080Z,35.151,-118.6698333,9.31,1.67,ml,46,31,0.08138,0.19,ci,ci39756754,2024-01-25T13:05:04.090Z,"16 km ESE of Arvin, CA",earthquake,0.18,0.51,0.12,26,automatic,ci,ci
 2024-01-25T12:24:13.958Z,-8.2505,121.0978,27.25,5.6,mww,58,66,3.335,1.11,us,us7000ltpz,2024-01-25T13:01:02.207Z,"80 km ENE of Ruteng, Indonesia",earthquake,7.05,4.982,0.06,27,reviewed,us,us
 2024-01-25T12:19:38.468Z,64.4431,-146.726,13.4,1.1,ml,,,,0.84,ak,ak02415jp166,2024-01-25T12:31:18.087Z,"10 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-01-25T12:14:49.321Z,57.6609,-156.3612,114.1,1.8,ml,,,,0.5,ak,ak02415jnzfo,2024-01-25T12:16:45.982Z,"64 km ENE of Ugashik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -96,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-25T03:52:21.590Z,32.9193333,-116.2383333,8.76,0.82,ml,34,45,0.06503,0.14,ci,ci39756426,2024-01-25T03:58:21.723Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.142,8,automatic,ci,ci
 2024-01-25T03:49:42.630Z,38.821167,-122.8058319,1.71,0.94,md,19,64,0.003991,0.01,nc,nc73993601,2024-01-25T04:53:16.210Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.54,0.17,19,automatic,nc,nc
 2024-01-25T03:46:35.400Z,38.8343315,-122.7963333,2.04,1.35,md,28,44,0.006201,0.02,nc,nc73993596,2024-01-25T06:23:11.296Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.35,0.16,29,automatic,nc,nc
-2024-01-25T03:43:19.980Z,34.1110001,-117.3101654,15.49,4.24,mw,81,22,0.02333,0.24,ci,ci39756418,2024-01-25T13:02:00.596Z,"3 km SW of San Bernardino, CA",earthquake,0.32,0.48,,6,reviewed,ci,ci
+2024-01-25T03:43:19.980Z,34.1110001,-117.3101654,15.49,4.24,mw,81,22,0.02333,0.24,ci,ci39756418,2024-01-25T13:12:30.385Z,"3 km SW of San Bernardino, CA",earthquake,0.32,0.48,,6,reviewed,ci,ci
 2024-01-25T03:14:35.510Z,38.8413315,-122.82267,1.79,0.58,md,11,90,0.01038,0.01,nc,nc73993581,2024-01-25T05:39:15.035Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.81,0.39,11,automatic,nc,nc
 2024-01-25T03:04:53.357Z,62.8497,-144.8851,11.7,1.3,ml,,,,0.59,ak,ak02415e8y2p,2024-01-25T03:08:06.592Z,"33 km NNW of Chistochina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-01-25T03:01:19.834Z,60.1664,-140.9709,12.1,1.6,ml,,,,0.57,ak,ak02415e88en,2024-01-25T03:03:58.656Z,"98 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -280,8 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-24T13:49:23.352Z,-9.0466,107.1888,23.819,4.9,mb,48,62,1.639,0.74,us,us7000ltgs,2024-01-24T14:08:28.040Z,"206 km S of Banjar, Indonesia",earthquake,5.61,4.747,0.088,40,reviewed,us,us
 2024-01-24T13:36:24.096Z,13.9197,144.6844,151.317,4.8,mb,70,73,0.374,0.6,us,us7000ltgp,2024-01-24T20:50:06.267Z,"47 km NNW of Dededo Village, Guam",earthquake,9.19,5.315,0.047,138,reviewed,us,us
 2024-01-24T13:20:50.561Z,64.4821,-146.9335,1.1,1.9,ml,,,,0.5,ak,ak02413wrcq8,2024-01-24T14:44:17.448Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-01-24T13:16:01.751Z,31.726,-104.649,7.0828,1.3,ml,19,90,0.1,0.2,tx,tx2024brav,2024-01-24T15:52:11.441Z,"56 km SSW of Whites City, New Mexico",earthquake,2.176778164,1.559078551,0.2,15,reviewed,tx,tx
-2024-01-24T13:15:46.556Z,38.0504,-118.0294,11.6,1.1,ml,10,122.22,0.153,0.2143,nn,nn00872236,2024-01-24T17:05:23.083Z,"38 km S of Mina, Nevada",earthquake,,2.3,0.4,5,reviewed,nn,nn
-2024-01-24T13:14:10.839Z,64.831,-147.3169,17.1,0.8,ml,,,,0.65,ak,ak02413wpzkr,2024-01-24T13:16:21.920Z,"9 km N of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-24T13:06:30.552Z,39.099,-116.1142,0,1.4,ml,6,85.18,1.139,0.2462,nn,nn00872246,2024-01-24T22:27:35.872Z,"47 km SSW of Eureka, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2024-01-24T13:05:19.640Z,32.9186667,-116.2391667,8.46,0.79,ml,27,45,0.1536,0.16,ci,ci39755898,2024-01-25T00:57:33.866Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.2,0.025,6,reviewed,ci,ci
