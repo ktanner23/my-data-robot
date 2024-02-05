@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-05T19:26:40.280Z,33.7478333,-116.7063333,10.18,1.16,ml,50,42,0.007652,0.15,ci,ci40663256,2024-02-05T19:33:08.402Z,"2 km NE of Idyllwild, CA",earthquake,0.16,0.23,0.221,30,automatic,ci,ci
 2024-02-05T19:21:45.840Z,38.8120003,-122.8266678,1.61,1.03,md,11,79,0.003692,0.02,nc,nc73998741,2024-02-05T21:14:13.131Z,"7 km WNW of The Geysers, CA",earthquake,0.29,0.55,0.23,11,automatic,nc,nc
 2024-02-05T19:21:07.918Z,43.4202,146.1221,91.599,4.4,mb,36,134,2.597,0.72,us,us7000lx5i,2024-02-05T19:46:39.040Z,"45 km ENE of Nemuro, Japan",earthquake,9.4,7.86,0.107,25,reviewed,us,us
-2024-02-05T19:04:09.056Z,22.2003,143.3799,185.712,5.1,mww,111,32,8.681,0.62,us,us7000lx5e,2024-02-05T21:14:19.242Z,"Volcano Islands, Japan region",earthquake,9.31,4.606,0.075,17,reviewed,us,us
+2024-02-05T19:04:09.056Z,22.2003,143.3799,185.712,5.1,mww,111,32,8.681,0.62,us,us7000lx5e,2024-02-05T23:14:23.155Z,"Volcano Islands, Japan region",earthquake,9.31,4.606,0.075,17,reviewed,us,us
 2024-02-05T19:03:27.927Z,60.491,-145.2819,15.5,1.6,ml,,,,0.35,ak,ak0241nuofkl,2024-02-05T19:06:12.426Z,"26 km ESE of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-05T18:40:03.437Z,55.4981,-35.1837,10,4.6,mb,65,130,7.819,0.38,us,us7000lx5a,2024-02-05T19:07:12.040Z,"Reykjanes Ridge",earthquake,5.91,1.916,0.064,72,reviewed,us,us
 2024-02-05T18:37:13.013Z,64.0352,-147.7756,17.7,1.3,ml,,,,0.77,ak,ak0241nua8n5,2024-02-05T20:08:38.363Z,"61 km ENE of Healy, Alaska",earthquake,,0.2,,,reviewed,ak,ak
@@ -148,6 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-05T06:32:58.510Z,33.2715,-116.7851667,10.56,1.42,ml,80,17,0.04177,0.2,ci,ci40663072,2024-02-05T14:28:28.445Z,"4 km NNW of Lake Henshaw, CA",earthquake,0.14,0.33,0.128,26,reviewed,ci,ci
 2024-02-05T05:57:29.840Z,19.2024993896484,-155.480331420898,34.560001373291,2.32,ml,50,84,0.04892,0.109999999,hv,hv74095791,2024-02-05T06:02:09.380Z,"0 km WSW of Pāhala, Hawaii",earthquake,0.39,0.620000005,0.11,3,automatic,hv,hv
 2024-02-05T05:43:44.070Z,19.3460006713867,-155.310668945312,2.27999997138977,2.03999996,md,18,84,0.01369,0.140000001,hv,hv74095771,2024-02-05T05:45:16.760Z,"13 km SW of Volcano, Hawaii",earthquake,0.25,0.569999993,0.419999987,13,automatic,hv,hv
+2024-02-05T05:36:22.480Z,60.0563333333333,-153.044833333333,3.42,-0.58,ml,4,244,,0.17,av,av92197486,2024-02-05T23:12:48.410Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.78,0.92,0.106360534465941,4,reviewed,av,av
 2024-02-05T05:20:06.360Z,33.5816667,-116.7475,13.33,0.49,ml,18,65,0.01832,0.11,ci,ci40663008,2024-02-05T16:08:05.384Z,"8 km WNW of Anza, CA",earthquake,0.29,0.42,0.054,4,reviewed,ci,ci
 2024-02-05T05:03:48.865Z,64.4687,-146.9747,9.6,1.2,ml,,,,0.12,ak,ak0241nmcepy,2024-02-05T05:04:54.852Z,"7 km SSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-05T05:02:16.650Z,36.5584984,-121.1545029,7.5,1.55,md,8,123,0.02815,0.03,nc,nc73998661,2024-02-05T06:51:12.020Z,"3 km NNW of Pinnacles, CA",earthquake,0.43,0.69,0.11,6,automatic,nc,nc
@@ -167,10 +168,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-05T03:28:10.790Z,36.4098333333333,-89.5075,9.36,1.4,md,25,53,0.0396,0.06,nm,nm60567916,2024-02-05T18:45:33.830Z,"4 km NW of Tiptonville, Tennessee",earthquake,0.39,0.7,0.100328171919462,21,reviewed,nm,nm
 2024-02-05T03:23:38.349Z,62.0229,-151.1318,83.2,1.6,ml,,,,0.09,ak,ak0241nl9t0q,2024-02-05T03:25:26.021Z,"14 km ENE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-05T03:23:32.610Z,45.30766666666667,-121.651,6.56,1.22,ml,14,107,0.0146,0.11,uw,uw61981831,2024-02-05T22:54:54.810Z,"7 km NE of Wapanitia, Oregon",earthquake,0.34,0.3,0.15134766398763844,8,reviewed,uw,uw
-2024-02-05T03:17:56.030Z,45.30916666666667,-121.6445,6.38,2.23,ml,15,88,0.01386,0.11,uw,uw61981826,2024-02-05T03:38:29.200Z,"8 km NE of Wapanitia, Oregon",earthquake,0.33,0.37,0.19251508654343064,11,reviewed,uw,uw
+2024-02-05T03:17:56.030Z,45.310833333333335,-121.64833333333333,6.37,2.23,ml,24,88,0.01158,0.12,uw,uw61981826,2024-02-05T23:12:08.410Z,"8 km NE of Wapanitia, Oregon",earthquake,0.28,0.33,0.2219866926628009,15,reviewed,uw,uw
 2024-02-05T03:03:37.780Z,33.3338333,-116.8876667,8.37,1.43,ml,70,22,0.02877,0.18,ci,ci40662976,2024-02-05T18:15:43.960Z,"3 km SW of Palomar Observatory, CA",earthquake,0.14,0.39,0.164,24,reviewed,ci,ci
 2024-02-05T03:02:36.510Z,44.7736666666667,-111.089833333333,10.19,0.12,md,11,111,0.02544,0.11,uu,uu80036611,2024-02-05T14:20:36.320Z,"7 km E of Hebgen Lake Estates, Montana",earthquake,0.52,1.01,0.254530705663295,7,reviewed,uu,uu
-2024-02-05T02:59:56.010Z,58.243,-154.8757,1.2,0.8,ml,,,,0.19,ak,ak0241nkw4k1,2024-02-05T03:01:31.933Z,"79 km NNW of Karluk, Alaska",earthquake,,4.3,,,automatic,ak,ak
+2024-02-05T02:59:56.010Z,58.243,-154.8757,1.2,0.8,ml,,,,0.19,ak,ak0241nkw4k1,2024-02-05T23:06:59.490Z,"79 km NNW of Karluk, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-02-05T02:57:38.770Z,33.3775,-116.8731667,4.81,1.38,ml,73,23,0.0254,0.23,ci,ci40662968,2024-02-05T17:19:12.306Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.17,0.44,0.115,23,reviewed,ci,ci
 2024-02-05T02:42:07.240Z,35.3953333,-118.2296667,5.98,1.92,ml,46,32,0.1587,0.16,ci,ci40662960,2024-02-05T16:37:30.063Z,"32 km SE of Bodfish, CA",earthquake,0.15,0.7,0.226,26,reviewed,ci,ci
 2024-02-05T02:30:26.800Z,46.19383333333333,-122.1955,2.19,0.51,ml,10,158,0.006766,0.08,uw,uw61981821,2024-02-05T22:38:42.720Z,"37 km NNE of Amboy, Washington",earthquake,0.49,0.28,0.15198162144617988,7,reviewed,uw,uw
