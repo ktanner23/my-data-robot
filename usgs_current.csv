@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-13T11:00:14.770Z,38.7970009,-122.7990036,0.34,0.8,md,13,87,0.009227,0.03,nc,nc74002161,2024-02-13T11:01:50.598Z,"4 km WNW of The Geysers, CA",earthquake,0.26,0.6,0.14,14,automatic,nc,nc
+2024-02-13T11:00:14.770Z,38.7970009,-122.7990036,0.34,0.8,md,13,87,0.009227,0.03,nc,nc74002161,2024-02-13T11:16:11.862Z,"4 km WNW of The Geysers, CA",earthquake,0.26,0.6,0.14,14,automatic,nc,nc
 2024-02-13T10:50:51.373Z,63.2595,-145.2026,0,1.9,ml,,,,1.07,ak,ak02420xwfjl,2024-02-13T10:53:06.252Z,"28 km NE of Paxson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-13T10:48:26.280Z,19.2134990692139,-155.512329101562,36.5999984741211,2.02999997,md,33,118,0.03692,0.159999996,hv,hv74108552,2024-02-13T10:50:08.760Z,"3 km WNW of Pāhala, Hawaii",earthquake,0.62,0.850000024,0.189999998,4,automatic,hv,hv
 2024-02-13T10:32:58.500Z,32.831,-115.5871667,13.24,1.34,ml,28,71,0.07143,0.28,ci,ci40668880,2024-02-13T10:38:56.588Z,"2 km SW of Imperial, CA",earthquake,0.41,0.63,0.397,20,automatic,ci,ci
@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T06:34:46.090Z,33.2683333,-116.433,4.26,1.25,ml,71,17,0.01327,0.2,ci,ci40668792,2024-02-13T06:45:25.520Z,"6 km WNW of Borrego Springs, CA",earthquake,0.14,0.35,0.129,27,automatic,ci,ci
 2024-02-13T06:31:49.479Z,-27.9123,-66.7933,163.848,4.4,mb,33,101,3.208,0.99,us,us7000lyv4,2024-02-13T07:04:25.040Z,"40 km ESE of Londres, Argentina",earthquake,8.3,11.777,0.179,9,reviewed,us,us
 2024-02-13T06:19:42.120Z,19.2794990539551,-155.406005859375,31.8199996948242,1.84000003,md,18,241,0.05696,0.230000004,hv,hv74108307,2024-02-13T06:21:26.350Z,"11 km NE of Pāhala, Hawaii",earthquake,2.81,1.30999994,0.579999983,3,automatic,hv,hv
-2024-02-13T05:58:29.597Z,56.0423,-150.0559,10,2.9,ml,,,,0.42,ak,ak02420uyz3a,2024-02-13T09:02:11.800Z,"221 km SE of Chiniak, Alaska",earthquake,,5.2,,,reviewed,ak,ak
+2024-02-13T05:58:28.848Z,56.1079,-149.9526,14.087,2.6,ml,19,256,2.213,0.43,us,us7000lyvi,2024-02-13T11:10:00.040Z,"219 km SE of Chiniak, Alaska",earthquake,10.27,8.164,0.128,8,reviewed,us,us
 2024-02-13T05:49:28.420Z,33.6916667,-116.7288333,17.79,0.75,ml,39,61,0.02297,0.13,ci,ci40668784,2024-02-13T05:55:38.679Z,"6 km S of Idyllwild, CA",earthquake,0.19,0.34,0.133,16,automatic,ci,ci
 2024-02-13T05:37:18.620Z,38.8221664,-122.7878342,1.88,0.77,md,12,56,0.0105,0.01,nc,nc74002106,2024-02-13T05:48:09.962Z,"6 km W of Cobb, CA",earthquake,0.34,0.53,0.15,13,automatic,nc,nc
 2024-02-13T05:27:27.880Z,38.7958336,-122.8030014,1.56,1.31,md,24,53,0.007497,0.03,nc,nc74002101,2024-02-13T08:40:10.950Z,"4 km WNW of The Geysers, CA",earthquake,0.21,0.32,0.24,25,automatic,nc,nc
@@ -309,6 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T11:22:56.160Z,43.0613333333333,-110.759666666667,8.11,1.54,ml,11,210,0.3875,0.23,mb,mb90040488,2024-02-12T15:28:12.510Z,"18 km ENE of Star Valley Ranch, Wyoming",earthquake,1.44,4.21,0.217683373673853,10,reviewed,mb,mb
 2024-02-12T11:20:42.370Z,32.8121667,-115.5936667,10.71,1.1,ml,27,65,0.05208,0.21,ci,ci40667272,2024-02-12T12:35:23.647Z,"4 km NW of El Centro, CA",earthquake,0.3,0.51,0.223,16,automatic,ci,ci
 2024-02-12T11:19:36.539Z,22.0302,142.7452,249.85,6.1,mww,135,34,7.343,0.98,us,us7000lym6,2024-02-13T05:29:41.088Z,"Volcano Islands, Japan region",earthquake,9.09,4.126,0.044,49,reviewed,us,us
-2024-02-12T11:17:54.800Z,32.7991667,-115.5766667,11.06,1.53,ml,40,63,0.04981,0.29,ci,ci40667264,2024-02-12T12:34:30.260Z,"2 km NW of El Centro, CA",earthquake,0.27,0.48,0.229,29,automatic,ci,ci
-2024-02-12T11:11:50.800Z,32.7848333,-115.5766667,3.38,1.48,ml,33,94,0.03651,0.26,ci,ci40667256,2024-02-12T12:33:23.008Z,"2 km WSW of El Centro, CA",earthquake,0.3,0.53,0.24,28,automatic,ci,ci
-2024-02-12T11:11:28.250Z,32.7975,-115.5686667,10.82,1.2,ml,29,63,0.05082,0.24,ci,ci40667240,2024-02-12T12:31:22.271Z,"1 km NW of El Centro, CA",earthquake,0.35,0.5,0.191,15,automatic,ci,ci
