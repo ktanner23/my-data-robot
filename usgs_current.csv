@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-13T23:11:25.540Z,32.7088333,-115.4468333,4.02,1.48,ml,21,81,0.09622,0.19,ci,ci40669336,2024-02-13T23:17:52.689Z,"6 km NE of Calexico, CA",earthquake,0.31,0.91,0.321,22,automatic,ci,ci
 2024-02-13T22:58:34.550Z,38.8191681,-122.80867,1.82,0.43,md,15,60,0.004361,0.03,nc,nc74002421,2024-02-13T23:09:10.462Z,"6 km NW of The Geysers, CA",earthquake,0.26,0.59,0.3,16,automatic,nc,nc
+2024-02-13T22:57:18.780Z,19.579,-64.4395,39.66,3.41,md,8,312,1.315,0.27,pr,pr71439828,2024-02-13T23:24:48.640Z,"143 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.1,17.03,0.156973189425951,4,reviewed,pr,pr
 2024-02-13T22:49:00.505Z,31.548,-103.951,4.5222,1.5,ml,15,72,0,0.4,tx,tx2024dcht,2024-02-13T23:18:41.487Z,"29 km NNW of Toyah, Texas",earthquake,0,1.276254125,0.2,13,automatic,tx,tx
 2024-02-13T22:45:50.811Z,64.4893,-146.9246,11.9,1.6,ml,,,,0.29,ak,ak0242150k6h,2024-02-13T22:50:23.155Z,"4 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-13T22:32:43.179Z,31.68,-104.403,4.0195,2.4,ml,18,69,0,0.5,tx,tx2024dchg,2024-02-13T23:11:15.445Z,"55 km S of Whites City, New Mexico",earthquake,0,1.303267706,0.1,12,automatic,tx,tx
@@ -37,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T20:11:56.030Z,33.0408333,-116.1753333,5.41,1.45,ml,51,55,0.1147,0.2,ci,ci40669208,2024-02-13T20:23:02.720Z,"12 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.61,0.218,28,automatic,ci,ci
 2024-02-13T20:10:10.987Z,65.425,-148.4204,3.5,1.5,ml,,,,0.15,ak,ak024213m3u2,2024-02-13T20:12:16.032Z,"12 km SSE of Livengood, Alaska",earthquake,,7.9,,,automatic,ak,ak
 2024-02-13T20:09:53.010Z,19.2503337860107,-155.397171020508,27.9400005340576,2.21000004,md,36,132,0.08334,0.119999997,hv,hv74109107,2024-02-13T20:11:26.600Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.49,0.670000017,0.439999998,6,automatic,hv,hv
-2024-02-13T20:08:28.424Z,31.68,-104.416,6.1316,3.9,ml,66,69,0,0.2,tx,tx2024dccm,2024-02-13T20:45:40.700Z,"55 km S of Whites City, New Mexico",earthquake,0.7157695851,0.7346273152,0,42,reviewed,tx,tx
+2024-02-13T20:08:28.424Z,31.68,-104.416,6.1316,3.9,ml,66,69,0,0.2,tx,tx2024dccm,2024-02-13T22:15:38.290Z,"55 km S of Whites City, New Mexico",earthquake,0.7157695851,0.7346273152,0,42,reviewed,tx,tx
 2024-02-13T20:05:42.130Z,34.9896667,-118.1896667,0.34,1.14,ml,16,100,0.1151,0.15,ci,ci40669192,2024-02-13T20:12:04.959Z,"7 km SSW of Mojave, CA",earthquake,0.42,0.67,0.075,15,automatic,ci,ci
 2024-02-13T20:05:38.760Z,38.7876663,-122.7718353,4.53,0.71,md,9,113,0.01372,0.12,nc,nc74002341,2024-02-13T22:10:11.110Z,"2 km NW of The Geysers, CA",earthquake,0.99,1.06,0.09,8,automatic,nc,nc
 2024-02-13T20:02:18.300Z,46.0116666666667,-112.454666666667,-2,1.75,ml,10,87,0.07109,0.1,mb,mb90040658,2024-02-13T21:09:57.130Z,"6 km E of Butte, Montana",quarry blast,0.39,31.61,0.33138805544407,16,reviewed,mb,mb
@@ -261,7 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-12T23:39:44.977Z,31.627,-104.298,6.9799,2.5,ml,17,69,0.1,0.2,tx,tx2024danz,2024-02-13T09:50:05.835Z,"59 km NW of Toyah, Texas",earthquake,1.166185654,1.613234687,0.1,29,reviewed,tx,tx
 2024-02-12T23:36:51.880Z,38.8356667,-122.8095016,2.12,0.98,md,8,84,0.01226,0.01,nc,nc74001936,2024-02-12T23:56:10.756Z,"8 km WNW of Cobb, CA",earthquake,0.38,1.23,0.27,9,automatic,nc,nc
 2024-02-12T23:33:20.879Z,35.53516667,-96.761,5.13,1.4,ml,81,35,0.0188962919,0.23,ok,ok2024dant,2024-02-13T13:10:46.226Z,"8 km NW of Prague, Oklahoma",earthquake,,0.4,0.2,36,reviewed,ok,ok
-2024-02-12T23:30:32.910Z,19.1776666666667,-155.4955,35.74,1.81,md,27,142,0.03855,0.08,hv,hv74109151,2024-02-13T02:01:53.350Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.82,0.67,0.0561088468294446,24,reviewed,hv,hv
-2024-02-12T23:26:58.420Z,32.9173333,-116.2368333,8.24,1.09,ml,36,85,0.06718,0.18,ci,ci40668576,2024-02-12T23:33:00.395Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.22,0.56,0.176,21,automatic,ci,ci
-2024-02-12T23:25:58.723Z,-18.3933,-71.4026,27.164,4,mwr,20,172,1.008,0.75,us,us7000lytf,2024-02-12T23:47:41.040Z,"82 km S of Pacocha, Peru",earthquake,7,5.779,0.071,19,reviewed,us,us
-2024-02-12T23:24:28.608Z,61.7595,-150.3841,32.4,1.8,ml,,,,0.51,ak,ak0241zhy3jg,2024-02-12T23:26:16.397Z,"18 km W of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
