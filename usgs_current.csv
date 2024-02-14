@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-14T19:25:56.380Z,19.5343341827393,-155.953826904297,5.53000020980835,1.95000005,md,25,171,0.1327,0.370000005,hv,hv74110497,2024-02-14T19:27:39.570Z,"2 km WSW of Honalo, Hawaii",earthquake,0.87,1.00999999,0.270000011,3,automatic,hv,hv
 2024-02-14T19:23:55.930Z,35.0296667,-117.6858333,-0.85,1.47,ml,34,45,0.09544,0.22,ci,ci40670128,2024-02-14T19:30:36.056Z,"5 km NW of Boron, CA",earthquake,0.37,0.58,0.167,26,automatic,ci,ci
-2024-02-14T19:23:07.910Z,39.3398323,-123.1611633,5.55,2.28,md,18,71,0.04238,0.06,nc,nc74002811,2024-02-14T19:29:12.317Z,"9 km NNE of Redwood Valley, CA",earthquake,0.23,0.72,0.09,18,automatic,nc,nc
+2024-02-14T19:23:07.910Z,39.3398323,-123.1611633,5.55,2.28,md,18,71,0.04238,0.06,nc,nc74002811,2024-02-14T19:44:11.404Z,"9 km NNE of Redwood Valley, CA",earthquake,0.23,0.72,0.09,18,automatic,nc,nc
 2024-02-14T19:15:27.870Z,47.444833333333335,-122.81783333333334,27.91,1.8,ml,15,193,0.1102,0.15,uw,uw61983111,2024-02-14T19:32:26.260Z,"0 km SE of Belfair, Washington",earthquake,0.55,0.75,0.1355815196115122,10,reviewed,uw,uw
 2024-02-14T19:11:49.680Z,33.136,-115.6111667,9.04,1.69,ml,40,83,0.02995,0.21,ci,ci40670112,2024-02-14T19:23:24.280Z,"9 km W of Calipatria, CA",earthquake,0.21,0.43,0.241,28,automatic,ci,ci
 2024-02-14T19:05:51.823Z,60.2682,-141.1877,17.5,1.4,ml,,,,0.25,ak,ak02422qj1am,2024-02-14T19:08:59.876Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -185,7 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T04:04:42.640Z,35.522,-118.3213333,0.89,1.26,ml,31,61,0.1483,0.16,ci,ci40669504,2024-02-14T14:22:45.830Z,"17 km ESE of Bodfish, CA",earthquake,0.17,0.34,0.157,20,reviewed,ci,ci
 2024-02-14T04:03:48.800Z,35.5256667,-118.3183333,1.06,1.47,ml,28,84,0.1456,0.15,ci,ci40669496,2024-02-14T14:23:07.832Z,"17 km ESE of Bodfish, CA",earthquake,0.17,0.29,0.166,15,reviewed,ci,ci
 2024-02-14T04:03:12.780Z,35.5238333,-118.3213333,1.13,2.13,ml,45,42,0.1482,0.15,ci,ci40669480,2024-02-14T14:24:23.970Z,"17 km ESE of Bodfish, CA",earthquake,0.13,0.31,0.236,26,reviewed,ci,ci
-2024-02-14T04:00:07.431Z,39.4012,-119.7214,7.3,1.1,ml,11,123.31,0.035,0.1719,nn,nn00873415,2024-02-14T04:01:49.819Z,"11 km NNW of Virginia City, Nevada",earthquake,,0.7,0.47,6,automatic,nn,nn
+2024-02-14T04:00:08.020Z,39.3927,-119.7123,6.7,1.1,ml,13,125.64,0.041,0.14,nn,nn00873415,2024-02-14T19:39:06.966Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.4,0.42,6,reviewed,nn,nn
 2024-02-14T03:54:43.940Z,34.0158333,-117.226,5.29,1.1,ml,59,21,0.08135,0.24,ci,ci40669472,2024-02-14T04:01:57.004Z,"5 km SE of Loma Linda, CA",earthquake,0.19,0.59,0.197,25,automatic,ci,ci
 2024-02-14T03:50:55.700Z,32.7645,-115.544,7.84,1.48,ml,27,78,0.06479,0.25,ci,ci40669464,2024-02-14T03:58:38.932Z,"3 km SSE of El Centro, CA",earthquake,0.34,0.98,0.167,20,automatic,ci,ci
 2024-02-14T03:49:37.010Z,32.7771667,-115.542,12.37,1.95,ml,36,67,0.05148,0.24,ci,ci40669456,2024-02-14T18:14:11.000Z,"2 km SE of El Centro, CA",earthquake,0.28,0.57,0.262,22,reviewed,ci,ci
@@ -291,5 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-13T19:50:34.400Z,36.888,-117.4359,0,1.3,ml,18,200.13,0.384,0.1988,nn,nn00873387,2024-02-13T22:38:06.950Z,"59 km NE of Keeler, California",earthquake,,0,0.18,8,reviewed,nn,nn
 2024-02-13T19:50:09.900Z,38.8136673,-122.8101654,0.71,1.07,md,18,51,0.009714,0.03,nc,nc74002336,2024-02-13T21:52:12.010Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.52,0.12,19,automatic,nc,nc
 2024-02-13T19:48:45.010Z,19.174165725708,-155.487670898438,36.0999984741211,2.24000001,md,33,141,0.03052,0.140000001,hv,hv74109097,2024-02-13T19:50:26.990Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.81,0.939999998,0.270000011,3,automatic,hv,hv
-2024-02-13T19:45:44.400Z,19.1628341674805,-155.480163574219,29.3600006103516,2.23000002,md,35,112,0.01859,0.100000001,hv,hv74109087,2024-02-13T19:48:02.160Z,"4 km S of Pāhala, Hawaii",earthquake,0.55,0.839999974,0.189999998,4,automatic,hv,hv
-2024-02-13T19:45:15.476Z,62.3572,-148.1745,20.9,1.9,ml,,,,0.71,ak,ak02421386mz,2024-02-13T19:47:26.957Z,"64 km NNE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
