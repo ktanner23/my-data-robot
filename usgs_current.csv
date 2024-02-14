@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-14T23:30:47.930Z,19.1648330688477,-155.481506347656,33.310001373291,2.1099999,md,22,153,0.02059,0.0900000036,hv,hv74110712,2024-02-14T23:32:43.670Z,"4 km S of Pāhala, Hawaii",earthquake,0.74,0.850000024,0.400000006,3,automatic,hv,hv
-2024-02-14T23:29:16.920Z,38.8146667,-122.8061676,1.48,2.28,md,43,41,0.009234,0.08,nc,nc74002906,2024-02-14T23:32:16.936Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.24,0.19,48,automatic,nc,nc
-2024-02-14T23:28:05.620Z,38.795166,-122.7021637,29.34,1.58,md,11,171,0.05537,0.12,nc,nc74002901,2024-02-14T23:29:41.752Z,"2 km NNW of Anderson Springs, CA",earthquake,5.74,7.84,0.03,3,automatic,nc,nc
+2024-02-14T23:29:16.920Z,38.8146667,-122.8061676,1.48,2.28,md,43,41,0.009234,0.08,nc,nc74002906,2024-02-14T23:40:10.900Z,"6 km NW of The Geysers, CA",earthquake,0.17,0.24,0.19,48,automatic,nc,nc
+2024-02-14T23:28:05.620Z,38.795166,-122.7021637,29.34,1.58,md,11,171,0.05537,0.12,nc,nc74002901,2024-02-14T23:40:11.069Z,"2 km NNW of Anderson Springs, CA",earthquake,5.74,7.84,0.03,3,automatic,nc,nc
 2024-02-14T23:19:52.340Z,38.779335,-122.758667,0.86,1.69,md,18,83,0.01759,0.05,nc,nc74002891,2024-02-14T23:35:11.870Z,"0 km NW of The Geysers, CA",earthquake,0.26,0.46,0.32,17,automatic,nc,nc
 2024-02-14T23:04:49.736Z,-28.0528,-177.5738,95.538,5.1,mb,57,66,1.228,1.03,us,us7000lz9l,2024-02-14T23:21:48.040Z,"Kermadec Islands region",earthquake,10.53,6.638,0.05,133,reviewed,us,us
 2024-02-14T23:02:58.750Z,38.8154984,-122.8178329,2.46,0.74,md,11,93,0.009945,0.01,nc,nc74002876,2024-02-14T23:13:10.882Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.94,0.17,12,automatic,nc,nc
@@ -49,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T17:24:09.740Z,37.247,-116.0974,1,1.2,ml,9,179.8,0.047,0.2449,nn,nn00873483,2024-02-14T17:26:19.999Z,"54 km SW of Rachel, Nevada",earthquake,,2.9,0.18,7,automatic,nn,nn
 2024-02-14T17:22:18.250Z,37.4020004,-118.5441666,6.33,1.86,md,13,125,0.05107,0.05,nc,nc74000615,2024-02-14T17:24:21.491Z,"5 km ESE of Round Valley, CA",earthquake,1.24,2.48,0.12,10,automatic,nc,nc
 2024-02-14T17:20:18.680Z,38.8390007,-122.836998,1.74,0.72,md,13,84,0.00125,0.01,nc,nc74000610,2024-02-14T17:22:21.443Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.56,0.22,13,automatic,nc,nc
+2024-02-14T17:17:08.510Z,43.718666666666664,-121.23,-0.84,0.03,ml,4,304,0.004067,0.17,uw,uw61983101,2024-02-14T23:41:15.400Z,"22 km ESE of Three Rivers, Oregon",earthquake,6.79,2.13,0.030195257553843835,2,reviewed,uw,uw
 2024-02-14T17:14:47.210Z,32.7796667,-115.8321667,2.93,0.72,ml,16,94,0.1124,0.23,ci,ci40670016,2024-02-14T17:21:25.590Z,"16 km ENE of Ocotillo, CA",earthquake,0.28,0.8,0.075,8,automatic,ci,ci
 2024-02-14T17:11:29.580Z,38.8388329,-122.8373337,1.56,1.07,md,14,112,0.0158,0.03,nc,nc74000605,2024-02-14T17:13:36.336Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.41,0.28,15,automatic,nc,nc
 2024-02-14T16:58:26.460Z,33.0816667,-115.748,0.06,1.28,ml,9,264,0.146,0.24,ci,ci40669984,2024-02-14T17:04:52.522Z,"13 km WNW of Westmorland, CA",earthquake,3.2,1.82,0.443,19,automatic,ci,ci
@@ -65,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T15:25:15.950Z,32.8171667,-115.5726667,11.12,1.21,ml,21,112,0.06578,0.21,ci,ci40669888,2024-02-14T15:31:24.273Z,"3 km S of Imperial, CA",earthquake,0.41,0.73,0.249,9,automatic,ci,ci
 2024-02-14T15:18:09.380Z,33.6246667,-116.695,12.43,1.13,ml,51,34,0.04753,0.16,ci,ci40669880,2024-02-14T17:53:31.170Z,"8 km NNW of Anza, CA",earthquake,0.15,0.28,0.226,27,reviewed,ci,ci
 2024-02-14T15:16:50.310Z,19.3080005645752,-155.341171264648,1.28999996185303,2.07,ml,48,108,0.0339,0.25,hv,hv74110187,2024-02-14T15:19:24.910Z,"18 km NE of Pāhala, Hawaii",earthquake,0.26,0.389999986,0.28,16,automatic,hv,hv
-2024-02-14T15:16:14.869Z,37.3089,-115.4153,0,1,ml,7,142.93,0.306,0.1309,nn,nn00873468,2024-02-14T23:34:07.200Z,"23 km WSW of Alamo, Nevada",earthquake,,0,0.04,4,reviewed,nn,nn
+2024-02-14T15:16:14.887Z,37.3132,-115.4178,0,1,ml,14,141.76,0.306,0.1472,nn,nn00873468,2024-02-14T23:37:25.421Z,"23 km WSW of Alamo, Nevada",earthquake,,0,0.21,6,reviewed,nn,nn
 2024-02-14T15:09:48.050Z,48.4235,-123.46516666666666,9.94,1.43,ml,11,97,0.09389,0.43,uw,uw61983086,2024-02-14T20:46:49.790Z,"1 km SE of Colwood, Canada",earthquake,0.78,2.53,0.13629026903159724,5,reviewed,uw,uw
 2024-02-14T15:07:17.780Z,19.13,-65.723,37.54,3.34,md,6,278,0.8852,0.15,pr,pr71439883,2024-02-14T15:36:52.830Z,"78 km N of Suárez, Puerto Rico",earthquake,1.74,8.34,0.0673689376172404,5,reviewed,pr,pr
 2024-02-14T14:36:43.350Z,19.1875,-155.497161865234,36.189998626709,2,md,44,133,0.046,0.109999999,hv,hv74110172,2024-02-14T15:46:42.963Z,"2 km SW of Pāhala, Hawaii",earthquake,0.58,0.730000019,0.360000014,6,automatic,hv,hv
@@ -268,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T00:11:09.619Z,35.54966667,-96.74516667,5.68,2.07,ml,88,34,0.01529699821,0.19,ok,ok2024dckn,2024-02-14T13:06:30.765Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.21,38,reviewed,ok,ok
 2024-02-14T00:10:53.920Z,17.9298333333333,-66.9668333333333,14.72,2.06,md,5,231,0.08353,0.08,pr,pr71439838,2024-02-14T00:22:54.020Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.87,0.55,0.211679700394308,5,reviewed,pr,pr
 2024-02-13T23:50:42.480Z,33.1676667,-116.571,14.41,1.31,ml,65,25,0.07125,0.2,ci,ci40669352,2024-02-14T14:24:27.550Z,"10 km NNE of Julian, CA",earthquake,0.16,0.43,0.223,29,reviewed,ci,ci
-2024-02-13T23:39:18.910Z,38.8258324,-122.7969971,7.94,0.62,md,7,143,0.0105,0.04,nc,nc74002456,2024-02-14T00:18:11.845Z,"6 km W of Cobb, CA",earthquake,1,6.48,0.3,8,automatic,nc,nc
