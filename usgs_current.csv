@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-15T03:41:35.639Z,37.0712,-116.9964,0,1.1,ml,12,298.35,0.231,0.279,nn,nn00873517,2024-02-15T03:43:39.758Z,"27 km NW of Beatty, Nevada",earthquake,,40.3,0.09,7,automatic,nn,nn
-2024-02-15T03:37:03.560Z,38.8305016,-122.8188324,1.58,1.33,md,19,68,0.009857,0.02,nc,nc74002986,2024-02-15T03:38:38.189Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.55,0.19,22,automatic,nc,nc
+2024-02-15T03:37:03.560Z,38.8305016,-122.8188324,1.58,1.33,md,19,68,0.009857,0.02,nc,nc74002986,2024-02-15T03:48:11.321Z,"8 km NW of The Geysers, CA",earthquake,0.2,0.55,0.19,22,automatic,nc,nc
 2024-02-15T03:16:52.700Z,38.8149986,-122.8184967,2.53,0.81,md,14,69,0.01035,0.02,nc,nc74002981,2024-02-15T03:41:17.279Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.66,0.25,18,automatic,nc,nc
 2024-02-15T03:09:34.407Z,52.4046,159.4911,63.668,4.2,mb,35,165,0.805,0.68,us,us7000lzb9,2024-02-15T03:30:37.040Z,"93 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.81,8.136,0.107,24,reviewed,us,us
 2024-02-15T02:56:49.520Z,46.9245,-121.91566666666667,13.75,1.06,ml,24,134,0.02912,0.14,uw,uw61983146,2024-02-15T03:29:31.380Z,"20 km SSE of Carbonado, Washington",earthquake,0.54,0.39,0.1999934155755847,16,reviewed,uw,uw
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T19:11:49.680Z,33.136,-115.6111667,9.04,1.69,ml,40,83,0.02995,0.21,ci,ci40670112,2024-02-14T19:23:24.280Z,"9 km W of Calipatria, CA",earthquake,0.21,0.43,0.241,28,automatic,ci,ci
 2024-02-14T19:05:51.823Z,60.2682,-141.1877,17.5,1.4,ml,,,,0.25,ak,ak02422qj1am,2024-02-14T19:08:59.876Z,"114 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-14T19:04:55.350Z,46.3148333333333,-111.617333333333,-2,2,ml,12,94,0.3283,0.16,mb,mb90040743,2024-02-14T19:29:02.420Z,"7 km W of Townsend, Montana",quarry blast,0.51,31.61,0.313022358438502,10,reviewed,mb,mb
-2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T19:53:36.040Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
+2024-02-14T18:58:37.209Z,-16.6622,172.8697,27.931,5.8,mww,150,27,5.069,0.59,us,us7000lz8a,2024-02-14T21:02:17.822Z,"Vanuatu region",earthquake,8.84,3.256,0.04,60,reviewed,us,us
 2024-02-14T18:33:23.490Z,19.1774997711182,-155.511337280273,34.7900009155273,2.17000008,md,37,102,0.05146,0.159999996,hv,hv74110407,2024-02-14T18:35:09.070Z,"4 km SW of Pāhala, Hawaii",earthquake,0.9,1.05999994,0.119999997,10,automatic,hv,hv
 2024-02-14T18:14:42.820Z,19.1763324737549,-155.509826660156,33.9000015258789,2.32999992,md,34,104,0.04967,0.119999997,hv,hv74110377,2024-02-14T18:17:27.750Z,"4 km SW of Pāhala, Hawaii",earthquake,0.62,1.25999999,0.819999993,4,automatic,hv,hv
 2024-02-14T18:13:56.742Z,62.5484,-148.4172,56.6,2.5,ml,,,,0.55,ak,ak02422pzbsq,2024-02-14T18:33:52.040Z,"83 km N of Chickaloon, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T17:53:50.520Z,33.1966667,-116.0186667,6.24,1.21,ml,53,58,0.04138,0.22,ci,ci40670056,2024-02-14T18:05:05.190Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.6,0.161,26,automatic,ci,ci
 2024-02-14T17:40:01.590Z,38.850666,-122.7963333,6.49,0.7,md,7,228,0.0131,0.03,nc,nc74000625,2024-02-14T17:42:06.671Z,"7 km WNW of Cobb, CA",earthquake,2.6,6.56,0.07,3,automatic,nc,nc
 2024-02-14T17:32:38.769Z,61.3981,-146.2402,17.8,1.9,ml,,,,0.86,ak,ak02422phxes,2024-02-14T17:34:32.477Z,"30 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-02-14T17:28:12.560Z,51.9481666666667,-177.207333333333,7.3,-0.26,ml,4,316,,0.07,av,av91132113,2024-02-15T03:46:00.140Z,"40 km WNW of Adak, Alaska",earthquake,0.8,0.65,0.229074877893935,4,reviewed,av,av
 2024-02-14T17:25:48.692Z,39.8452,141.1201,99.971,4.4,mb,103,91,0.944,0.98,us,us7000lz80,2024-02-14T19:48:52.046Z,"4 km NNW of Takizawa, Japan",earthquake,5.71,5.472,0.06,80,reviewed,us,us
 2024-02-14T17:24:50.920Z,33.6891667,-116.7691667,16.09,0.68,ml,13,209,0.08823,0.05,ci,ci40670032,2024-02-14T17:31:00.859Z,"7 km SW of Idyllwild, CA",earthquake,0.51,0.4,0.28,16,automatic,ci,ci
 2024-02-14T17:24:09.860Z,37.2254,-116.0473,5.4,1.2,ml,22,170.45,0.036,0.141,nn,nn00873483,2024-02-15T00:15:16.138Z,"53 km SSW of Rachel, Nevada",earthquake,,1,0.21,14,reviewed,nn,nn
@@ -286,6 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-14T04:00:08.020Z,39.3927,-119.7123,6.7,1.1,ml,13,125.64,0.041,0.14,nn,nn00873415,2024-02-14T19:39:06.966Z,"10 km NNW of Virginia City, Nevada",earthquake,,1.4,0.42,6,reviewed,nn,nn
 2024-02-14T03:56:55.500Z,39.3939,-119.7122,3.3,0.7,ml,5,125.6,0.041,0.1924,nn,nn00873496,2024-02-15T00:49:35.632Z,"10 km NNW of Virginia City, Nevada",earthquake,,3.7,0.16,3,reviewed,nn,nn
 2024-02-14T03:54:43.940Z,34.0158333,-117.226,5.29,1.1,ml,59,21,0.08135,0.24,ci,ci40669472,2024-02-14T04:01:57.004Z,"5 km SE of Loma Linda, CA",earthquake,0.19,0.59,0.197,25,automatic,ci,ci
-2024-02-14T03:50:55.700Z,32.7645,-115.544,7.84,1.48,ml,27,78,0.06479,0.25,ci,ci40669464,2024-02-14T03:58:38.932Z,"3 km SSE of El Centro, CA",earthquake,0.34,0.98,0.167,20,automatic,ci,ci
-2024-02-14T03:49:37.010Z,32.7771667,-115.542,12.37,1.95,ml,36,67,0.05148,0.24,ci,ci40669456,2024-02-14T18:14:11.000Z,"2 km SE of El Centro, CA",earthquake,0.28,0.57,0.262,22,reviewed,ci,ci
-2024-02-14T03:48:32.300Z,37.4366684,-119.071167,5.25,1.35,md,6,224,0.1055,0.04,nc,nc74002556,2024-02-14T06:00:14.364Z,"24 km SSW of Mammoth Lakes, CA",earthquake,4.88,5.67,0.12,5,automatic,nc,nc
