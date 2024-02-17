@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-17T23:35:13.960Z,64.8465,-147.7907,12.5,1,ml,,,,0.89,ak,ak02427rp5r8,2024-02-17T23:37:30.549Z,"1 km SSE of College, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-17T23:33:51.430Z,38.8193321,-122.7618332,1.54,1.26,md,12,131,0.01875,0.21,nc,nc74004096,2024-02-17T23:35:25.662Z,"3 km W of Cobb, CA",earthquake,0.64,1.03,0.37,13,automatic,nc,nc
+2024-02-17T23:33:51.430Z,38.8193321,-122.7618332,1.54,1.26,md,12,131,0.01875,0.21,nc,nc74004096,2024-02-17T23:45:11.331Z,"3 km W of Cobb, CA",earthquake,0.64,1.03,0.37,13,automatic,nc,nc
 2024-02-17T23:32:58.376Z,60.8168,-149.1283,28.2,1.9,ml,,,,0.59,ak,ak02427rom19,2024-02-17T23:35:16.972Z,"14 km S of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-17T23:25:04.030Z,33.0731667,-115.5846667,10.41,2.55,ml,52,40,0.03489,0.25,ci,ci40672248,2024-02-17T23:35:40.830Z,"5 km NE of Westmorland, CA",earthquake,0.21,0.36,0.278,26,automatic,ci,ci
 2024-02-17T23:15:21.450Z,19.2746658325195,-155.458831787109,31.1499996185303,2.13000011,md,39,94,0.04607,0.140000001,hv,hv74115076,2024-02-17T23:17:07.990Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.42,0.709999979,0.409999996,8,automatic,hv,hv
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T22:53:24.810Z,17.9778333333333,-66.3403333333333,9.45,2.49,md,10,150,0.1128,0.3,pr,pr71440293,2024-02-17T23:05:27.050Z,"2 km S of Parcelas Peñuelas, Puerto Rico",earthquake,0.93,1.45,0.209221186262169,6,reviewed,pr,pr
 2024-02-17T22:51:37.550Z,31.592,-104.552,3.2838,1.5,ml,14,164,0.1,0.2,tx,tx2024djpx,2024-02-17T23:30:44.130Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.82395694659268,0.1,12,automatic,tx,tx
 2024-02-17T22:45:09.140Z,35.711,-117.5465,1.39,0.74,ml,20,133,0.1099,0.16,ci,ci40672240,2024-02-17T22:50:56.740Z,"14 km WSW of Searles Valley, CA",earthquake,0.26,0.35,0.139,6,automatic,ci,ci
-2024-02-17T22:44:24.030Z,38.8196678,-122.7878342,1.32,1.79,md,21,45,0.008494,0.03,nc,nc74004086,2024-02-17T23:05:12.266Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.4,0.42,21,automatic,nc,nc
+2024-02-17T22:44:24.030Z,38.8196678,-122.7878342,1.32,1.79,md,21,45,0.008494,0.03,nc,nc74004086,2024-02-17T23:38:12.287Z,"5 km NNW of The Geysers, CA",earthquake,0.2,0.4,0.42,21,automatic,nc,nc
 2024-02-17T22:42:10.900Z,38.8294983,-122.8143311,2.2,0.66,md,9,86,0.006943,0.02,nc,nc74004081,2024-02-17T23:16:13.174Z,"8 km NW of The Geysers, CA",earthquake,0.37,1.03,0.19,11,automatic,nc,nc
 2024-02-17T22:38:18.156Z,31.599,-104.565,2.8266,1.5,ml,7,171,0.1,0.3,tx,tx2024djpl,2024-02-17T22:55:10.899Z,"66 km SSW of Whites City, New Mexico",earthquake,0,3.15539282310508,0.1,7,automatic,tx,tx
 2024-02-17T22:36:47.779Z,31.589,-104.564,1.9323,1.8,ml,15,169,0.1,0.4,tx,tx2024djpk,2024-02-17T22:57:32.913Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.28794213696652,0.1,12,automatic,tx,tx
@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-17T00:23:30.862Z,44.6749,10.3948,35.1,4,mb,27,97,0.527,0.82,us,us7000lzs8,2024-02-17T00:37:45.040Z,"2 km SW of Montechiarugolo, Italy",earthquake,3.94,13.33,0.195,7,reviewed,us,us
 2024-02-17T00:12:11.040Z,40.2470016,-124.1865005,12.26,2.15,md,13,118,0.01308,0.09,nc,nc74003741,2024-02-17T03:10:11.616Z,"12 km SE of Petrolia, CA",earthquake,0.54,0.89,0.1,8,automatic,nc,nc
 2024-02-16T23:48:42.412Z,37.1606,-116.9757,7.7,1,ml,9,285.2,0.203,0.1593,nn,nn00873621,2024-02-17T00:50:39.042Z,"33 km NW of Beatty, Nevada",earthquake,,3.6,0.46,3,reviewed,nn,nn
-2024-02-16T23:43:05.750Z,17.9221666666667,-66.9426666666667,7.47,2.01,md,5,230,0.08006,0.17,pr,pr71440213,2024-02-16T23:52:24.230Z,"6 km SW of Guánica, Puerto Rico",earthquake,1.24,0.45,0.111608379443548,4,reviewed,pr,pr
