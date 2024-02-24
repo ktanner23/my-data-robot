@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-24T21:22:18.764Z,65.9052,-149.0009,14.8,1.3,ml,,,,0.61,ak,ak0242jb6y2c,2024-02-24T21:24:40.141Z,"12 km SSE of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-24T21:00:49.886Z,38.1517,-117.9139,8.2,1.7,ml,11,119.33,0.073,0.1112,nn,nn00873870,2024-02-24T21:03:38.102Z,"31 km SSE of Mina, Nevada",earthquake,,0.4,0.32,7,automatic,nn,nn
-2024-02-24T20:54:44.790Z,38.8293343,-122.8150024,2.29,0.76,md,16,62,0.00707,0.01,nc,nc74007251,2024-02-24T21:05:11.219Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.5,0.14,15,automatic,nc,nc
+2024-02-24T20:54:44.790Z,38.8293343,-122.8150024,2.29,0.76,md,16,62,0.00707,0.01,nc,nc74007251,2024-02-24T21:32:13.362Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.5,0.14,15,automatic,nc,nc
 2024-02-24T20:30:43.200Z,38.8349991,-122.8180008,1.72,0.9,md,19,62,0.01314,0.01,nc,nc74007236,2024-02-24T21:21:14.302Z,"8 km W of Cobb, CA",earthquake,0.23,0.53,0.19,19,automatic,nc,nc
 2024-02-24T20:26:10.760Z,18.8365,-68.0495,94,3.64,md,10,197,0.4628,0.49,pr,pr2024055002,2024-02-24T20:46:53.281Z,"46 km NE of Punta Cana, Dominican Republic",earthquake,7.04,5.49,0.05,6,reviewed,pr,pr
 2024-02-24T20:23:26.047Z,65.0064,-147.4949,0,1.6,ml,,,,0.97,ak,ak0242jalqqk,2024-02-24T20:25:37.306Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T19:40:12.790Z,38.8323326,-122.8186646,2,0.4,md,8,81,0.01117,0.01,nc,nc74007171,2024-02-24T20:07:14.915Z,"8 km NW of The Geysers, CA",earthquake,0.52,1.54,0.28,9,automatic,nc,nc
 2024-02-24T19:38:11.632Z,59.4456,-139.3769,41.5,2.4,ml,,,,1.25,ak,ak0242ja3i02,2024-02-24T19:43:21.425Z,"22 km ESE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-24T19:36:30.770Z,35.0463333,-118.318,0.46,1.35,ml,41,36,0.05887,0.17,ci,ci40675752,2024-02-24T19:43:41.123Z,"13 km W of Mojave, CA",earthquake,0.19,0.46,0.133,27,automatic,ci,ci
-2024-02-24T19:16:16.780Z,37.574501,-118.6853333,8.58,1.59,md,15,122,0.1153,0.02,nc,nc74007166,2024-02-24T19:54:13.826Z,"2 km NNW of Toms Place, CA",earthquake,0.59,1.7,0.11,15,automatic,nc,nc
+2024-02-24T19:16:16.780Z,37.574501,-118.6853333,8.58,1.59,md,15,122,0.1153,0.02,nc,nc74007166,2024-02-24T21:32:14.361Z,"2 km NNW of Toms Place, CA",earthquake,0.59,1.7,0.11,15,automatic,nc,nc
 2024-02-24T19:14:19.240Z,19.1751670837402,-155.472671508789,31.5,2.08999991,md,42,88,0.02204,0.129999995,hv,hv74120461,2024-02-24T19:16:19.140Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.47,0.620000005,0.340000004,11,automatic,hv,hv
 2024-02-24T19:12:48.993Z,-0.6204,-81.6878,10,4.6,mb,39,152,1.863,0.63,us,us7000m1dh,2024-02-24T20:20:17.841Z,"114 km WNW of Manta, Ecuador",earthquake,5.01,1.916,0.112,24,reviewed,us,us
 2024-02-24T19:11:23.626Z,39.0986,-119.6545,11,1.1,ml,10,146.28,0.044,0.0842,nn,nn00873868,2024-02-24T19:13:47.040Z,"8 km NE of Johnson Lane, Nevada",earthquake,,0.6,0.11,8,automatic,nn,nn
@@ -185,6 +185,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T23:48:56.536Z,57.6603,-155.2517,54.4,2.3,ml,,,,0.33,ak,ak0242hp04b9,2024-02-23T23:51:26.345Z,"48 km WNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-02-23T23:45:56.255Z,64.1022,-152.6903,0.1,1.4,ml,,,,0.96,ak,ak0242hozh3x,2024-02-23T23:54:54.243Z,"30 km NW of Lake Minchumina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-02-23T23:41:04.120Z,59.846,-153.2199,121.3,1.3,ml,,,,0.14,ak,ak0242hoyi98,2024-02-23T23:43:36.671Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-02-23T23:37:55.020Z,46.55166666666667,-119.87733333333334,6.74,0.9,ml,11,148,0.01699,0.06,uw,uw61984226,2024-02-24T21:32:27.900Z,"14 km SSE of Desert Aire, Washington",earthquake,0.31,0.13,0.1983121259723607,11,reviewed,uw,uw
 2024-02-23T23:36:40.942Z,59.8325,-152.9907,97.7,1.4,ml,,,,0.32,ak,ak0242hoxiim,2024-02-23T23:39:09.780Z,"62 km E of Pedro Bay, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-02-23T23:29:41.962Z,39.4931,-119.4851,4.5,1.8,ml,12,74.54,0.231,0.1956,nn,nn00873835,2024-02-23T23:31:44.485Z,"16 km NW of Stagecoach, Nevada",earthquake,,1.7,0.22,8,automatic,nn,nn
 2024-02-23T23:22:35.752Z,59.9692,-147.288,59,2,ml,,,,1.15,ak,ak0242houi3b,2024-02-23T23:26:49.898Z,"41 km ESE of Chenega, Alaska",earthquake,,2.4,,,automatic,ak,ak
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T21:54:05.130Z,60.0475,-153.0965,-1.18,-0.74,ml,4,218,,0.05,av,av92213106,2024-02-24T00:07:52.550Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.43,2.8,0.386727383411658,4,reviewed,av,av
 2024-02-23T21:39:32.190Z,38.833168,-122.8041687,1.3,0.4,md,7,107,0.01079,0.01,nc,nc74006671,2024-02-23T22:44:11.157Z,"7 km W of Cobb, CA",earthquake,0.37,1.27,0.26,8,automatic,nc,nc
 2024-02-23T21:36:32.720Z,60.0465,-153.094666666667,-1.34,-0.73,ml,4,214,,0.05,av,av92213101,2024-02-24T00:06:09.200Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.5,4,0.420498741959467,4,reviewed,av,av
-2024-02-23T21:31:33.780Z,44.7626666666667,-114.420833333333,3.68,2.09,ml,18,69,0.457,0.22,mb,mb90041443,2024-02-24T14:54:31.520Z,"32 km NNW of Challis, Idaho",earthquake,0.54,2.91,0.270760155670979,24,reviewed,mb,mb
-2024-02-23T21:27:32.680Z,58.306,-154.996666666667,2.64,-0.23,ml,6,155,,0.09,av,av91133463,2024-02-24T00:11:15.780Z,"88 km NNW of Karluk, Alaska",earthquake,0.6,0.35,0.312756123182014,6,reviewed,av,av
