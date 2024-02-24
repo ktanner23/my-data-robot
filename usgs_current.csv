@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T11:49:09.520Z,62.2481,-148.9509,17.9,1.2,ml,,,,0.32,ak,ak0242j5edmw,2024-02-24T11:53:17.810Z,"47 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-24T11:41:57.798Z,-5.813,128.8268,317.484,4.3,mb,45,81,1.672,0.7,us,us7000m1bg,2024-02-24T12:02:51.040Z,"244 km SSE of Ambon, Indonesia",earthquake,7.45,7.255,0.088,38,reviewed,us,us
 2024-02-24T11:41:35.679Z,65.367,-147.9857,13.3,1.1,ml,,,,0.48,ak,ak0242j5cpxb,2024-02-24T11:43:27.117Z,"31 km SE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-02-24T11:30:13.680Z,39.1213341,-122.9543304,1.92,2.03,md,16,82,0.09543,0.05,nc,nc74007006,2024-02-24T12:07:12.145Z,"6 km NW of North Lakeport, CA",earthquake,0.25,1.71,0.15,14,automatic,nc,nc
+2024-02-24T11:30:13.680Z,39.1213341,-122.9543304,1.92,2.03,md,16,82,0.09543,0.05,nc,nc74007006,2024-02-24T14:44:12.049Z,"6 km NW of North Lakeport, CA",earthquake,0.25,1.71,0.15,14,automatic,nc,nc
 2024-02-24T11:23:09.730Z,19.4496669769287,-155.584503173828,15.1199998855591,1.87,ml,47,42,0.01713,0.140000001,hv,hv74120196,2024-02-24T11:32:43.347Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.35,0.610000014,0.66,3,automatic,hv,hv
 2024-02-24T11:10:23.630Z,38.8061676,-122.7771683,1.86,0.53,md,8,98,0.007595,0.03,nc,nc74007001,2024-02-24T12:07:12.266Z,"4 km NNW of The Geysers, CA",earthquake,0.47,1.12,0.25,10,automatic,nc,nc
 2024-02-24T11:04:29.350Z,38.8406677,-122.8108368,1.98,1.07,md,24,48,0.01616,0.01,nc,nc74006996,2024-02-24T11:54:12.071Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.42,0.1,24,automatic,nc,nc
@@ -157,6 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T21:12:43.807Z,60.7076,-147.4064,16.1,1.4,ml,,,,0.49,ak,ak0242hnlicc,2024-02-23T21:14:47.817Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-23T21:06:29.695Z,51.8408,-177.3674,88.5,2.5,ml,,,,0.49,ak,ak0242hnk7ki,2024-02-23T21:40:06.206Z,"50 km W of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-02-23T21:00:37.100Z,32.9678345,-117.1750031,8.52,1.31,ml,8,214,0.04688,0.36,ci,ci40675248,2024-02-24T01:44:15.117Z,"6 km SSE of Rancho Santa Fe, CA",earthquake,1.8,2.2,0.441,10,automatic,ci,ci
+2024-02-23T21:00:11.550Z,46.0023333333333,-112.468833333333,-2,1.42,ml,17,61,0.06043,0.08,mb,mb90041438,2024-02-24T14:42:45.120Z,"5 km E of Butte, Montana",quarry blast,0.25,31.61,0.189031893511208,12,reviewed,mb,mb
 2024-02-23T20:35:44.600Z,38.8354988,-122.7900009,1.45,0.63,md,8,111,0.002918,0.02,nc,nc74006641,2024-02-23T21:34:14.727Z,"6 km WNW of Cobb, CA",earthquake,0.43,1.14,0.43,9,automatic,nc,nc
 2024-02-23T20:30:16.130Z,33.8686667,-117.4975,-0.44,1.24,ml,34,46,0.05335,0.25,ci,ci40675232,2024-02-24T01:44:35.379Z,"2 km ESE of Home Gardens, CA",quarry blast,0.35,31.61,0.191,22,reviewed,ci,ci
 2024-02-23T20:13:16.300Z,60.045,-153.087833333333,-2.27,-0.89,ml,5,105,,0.06,av,av92213036,2024-02-23T23:57:03.790Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.21,2.18,0.270556606221534,5,reviewed,av,av
@@ -225,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T15:05:40.661Z,64.6668,-149.1699,10.8,1.1,ml,,,,0.43,ak,ak0242hjzegi,2024-02-23T15:08:40.050Z,"7 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-23T14:56:49.054Z,54.6738,-161.2183,49.473,3.4,ml,28,195,0.801,0.56,us,us7000m136,2024-02-23T16:20:50.040Z,"82 km ESE of King Cove, Alaska",earthquake,7.73,27.556,0.081,20,reviewed,us,us
 2024-02-23T14:51:52.240Z,40.2971649,-124.4899979,20.12,2.11,md,13,273,0.1131,0.06,nc,nc74006506,2024-02-23T16:59:13.025Z,"18 km W of Petrolia, CA",earthquake,1.7,0.5,0.15,9,automatic,nc,nc
-2024-02-23T14:46:24.310Z,38.8148346,-122.7884979,1.79,0.76,md,10,61,0.006303,0.02,nc,nc74006496,2024-02-23T16:17:13.769Z,"5 km NNW of The Geysers, CA",earthquake,0.51,0.74,0.48,10,automatic,nc,nc
-2024-02-23T14:43:33.130Z,33.8376667,-117.7088333,7.83,1.86,ml,63,39,0.03106,0.19,ci,ci40674928,2024-02-23T23:46:09.760Z,"10 km ENE of Villa Park, CA",earthquake,0.17,0.47,0.14,22,reviewed,ci,ci
