@@ -8,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-24T17:01:19.135Z,64.8015,-149.1048,15.6,1.4,ml,,,,0.89,ak,ak0242j8ooy8,2024-02-24T17:36:02.703Z,"22 km N of Four Mile Road, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-02-24T17:01:01.447Z,64.8905,-149.3668,21.4,1.6,ml,,,,1.58,ak,ak0242j8oo9s,2024-02-24T17:02:59.619Z,"28 km S of Minto, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-24T17:00:20.272Z,37.6249,-118.0255,4.4,1.1,ml,8,158.38,0.26,0.3773,nn,nn00873866,2024-02-24T17:03:04.947Z,"5 km SE of Dyer, Nevada",earthquake,,1.2,0.24,5,automatic,nn,nn
+2024-02-24T16:50:47.700Z,46.285333333333334,-122.22083333333333,5.54,0.34,ml,17,95,0.01022,0.13,uw,uw61984346,2024-02-24T17:56:26.680Z,"30 km S of Morton, Washington",earthquake,0.34,0.56,0.09331149371151748,10,reviewed,uw,uw
 2024-02-24T16:35:41.430Z,33.6518333,-116.7356667,13.97,0.72,ml,42,59,0.05434,0.12,ci,ci40675608,2024-02-24T16:41:38.273Z,"10 km S of Idyllwild, CA",earthquake,0.16,0.26,0.176,23,automatic,ci,ci
 2024-02-24T16:29:01.620Z,36.0308342,-121.043335,8.71,1.26,md,14,79,0.1138,0.09,nc,nc74007091,2024-02-24T17:43:10.081Z,"11 km S of San Lucas, CA",earthquake,0.38,1.2,0.24,9,automatic,nc,nc
 2024-02-24T16:23:55.499Z,59.7524,-152.2837,50.4,1.3,ml,,,,0.5,ak,ak0242j882l9,2024-02-24T16:25:55.969Z,"25 km W of Anchor Point, Alaska",earthquake,,3.7,,,automatic,ak,ak
@@ -186,7 +187,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T21:13:10.990Z,38.7960014,-122.7453308,0.93,0.71,md,9,96,0.01215,0.07,nc,nc74006651,2024-02-23T21:56:12.862Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.89,0.23,9,automatic,nc,nc
 2024-02-23T21:12:43.807Z,60.7076,-147.4064,16.1,1.4,ml,,,,0.49,ak,ak0242hnlicc,2024-02-23T21:14:47.817Z,"43 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-23T21:06:29.695Z,51.8408,-177.3674,88.5,2.5,ml,,,,0.49,ak,ak0242hnk7ki,2024-02-23T21:40:06.206Z,"50 km W of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2024-02-23T21:00:37.100Z,32.9678345,-117.1750031,8.52,1.31,ml,8,214,0.04688,0.36,ci,ci40675248,2024-02-24T15:58:11.278Z,"6 km SSE of Rancho Santa Fe, CA",earthquake,1.8,2.2,0.441,10,automatic,ci,ci
 2024-02-23T21:00:11.550Z,46.0023333333333,-112.468833333333,-2,1.42,ml,17,61,0.06043,0.08,mb,mb90041438,2024-02-24T14:42:45.120Z,"5 km E of Butte, Montana",quarry blast,0.25,31.61,0.189031893511208,12,reviewed,mb,mb
 2024-02-23T20:35:44.600Z,38.8354988,-122.7900009,1.45,0.63,md,8,111,0.002918,0.02,nc,nc74006641,2024-02-23T21:34:14.727Z,"6 km WNW of Cobb, CA",earthquake,0.43,1.14,0.43,9,automatic,nc,nc
 2024-02-23T20:30:16.130Z,33.8686667,-117.4975,-0.44,1.24,ml,34,46,0.05335,0.25,ci,ci40675232,2024-02-24T01:44:35.379Z,"2 km ESE of Home Gardens, CA",quarry blast,0.35,31.61,0.191,22,reviewed,ci,ci
@@ -217,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-23T18:40:48.100Z,33.474,-116.4668333,13.03,0.25,ml,11,151,0.09904,0.11,ci,ci40675136,2024-02-24T07:22:08.609Z,"21 km ESE of Anza, CA",earthquake,0.36,0.9,0.238,5,reviewed,ci,ci
 2024-02-23T18:37:32.229Z,57.7731,-155.2275,66.9,1.4,ml,,,,0.45,ak,ak0242hlyjja,2024-02-23T18:55:49.324Z,"51 km WNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-02-23T18:34:18.870Z,60.0448333333333,-153.0875,-2.21,-0.95,ml,5,103,,0.06,av,av92212946,2024-02-23T23:35:54.820Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.2,2.33,0.396360198705222,5,reviewed,av,av
-2024-02-23T17:59:34.400Z,60.0466666666667,-153.089666666667,-0.13,-0.95,ml,5,113,,0.08,av,av92212926,2024-02-23T23:21:59.850Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.38,1.18,0.420086329437371,5,reviewed,av,av
-2024-02-23T17:55:32.300Z,38.8354988,-122.7913361,2.03,1.02,md,14,64,0.003007,0.02,nc,nc74006561,2024-02-23T18:49:11.705Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.46,0.14,14,automatic,nc,nc
