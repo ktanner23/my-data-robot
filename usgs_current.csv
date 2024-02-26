@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-26T12:57:52.893Z,64.4897,-146.9145,9.4,1.6,ml,,,,0.44,ak,ak0242mh4bax,2024-02-26T13:00:27.420Z,"3 km S of Salcha, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-02-26T12:54:09.760Z,19.3563327789307,-155.287506103516,-0.529999971389771,1.73,ml,16,123,0.02729,0.109999999,hv,hv74121861,2024-02-26T12:56:47.350Z,"11 km SSW of Volcano, Hawaii",earthquake,0.19,0.289999992,0.31,5,automatic,hv,hv
-2024-02-26T12:44:31.770Z,40.3176651,-124.7109985,15.59,2.74,md,15,277,0.2833,0.15,nc,nc74008141,2024-02-26T13:06:10.385Z,"36 km W of Petrolia, CA",earthquake,3.58,1.19,0.09,14,automatic,nc,nc
+2024-02-26T12:44:31.770Z,40.3176651,-124.7109985,15.59,2.74,md,15,277,0.2833,0.15,nc,nc74008141,2024-02-26T13:18:13.616Z,"36 km W of Petrolia, CA",earthquake,3.58,1.19,0.09,14,automatic,nc,nc
 2024-02-26T12:12:14.137Z,60.3365,-150.9816,34,1.5,ml,,,,0.72,ak,ak0242mgul39,2024-02-26T12:14:31.293Z,"16 km E of Kasilof, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-26T12:11:24.940Z,33.649,-116.7051667,16.1,0.5,ml,34,54,0.03284,0.11,ci,ci40676552,2024-02-26T12:17:23.543Z,"10 km S of Idyllwild, CA",earthquake,0.17,0.29,0.131,11,automatic,ci,ci
 2024-02-26T12:09:58.812Z,58.8663,-153.9221,20.6,1,ml,,,,0.67,ak,ak0242mgu4vf,2024-02-26T12:12:36.700Z,"80 km SE of Kokhanok, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -9,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T12:04:22.364Z,31.548,-104.212,3.9693,1.6,ml,16,79,0.1,0.2,tx,tx2024dzgb,2024-02-26T12:43:26.181Z,"47 km WNW of Toyah, Texas",earthquake,0,1.49728879684245,0.3,13,automatic,tx,tx
 2024-02-26T11:50:51.150Z,35.3195,-118.5638333,2.94,1.8,ml,52,33,0.1203,0.17,ci,ci40676528,2024-02-26T12:01:52.210Z,"23 km NNW of Tehachapi, CA",earthquake,0.16,0.46,0.194,27,automatic,ci,ci
 2024-02-26T11:45:06.852Z,64.932,-152.0715,33.4,1.8,ml,,,,1,ak,ak0242mgg7jx,2024-02-26T11:47:36.904Z,"26 km S of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-02-26T11:29:23.049Z,29.5534,88.0462,10,4.5,mb,40,90,2.686,1.22,us,us7000m1ln,2024-02-26T13:20:15.040Z,"87 km WNW of Rikaze, China",earthquake,5.76,1.908,0.102,28,reviewed,us,us
 2024-02-26T11:26:56.060Z,34.2241667,-116.8733333,4.34,1.02,ml,44,97,0.05468,0.14,ci,ci40676520,2024-02-26T11:33:27.196Z,"4 km ESE of Big Bear Lake, CA",earthquake,0.16,0.48,0.155,21,automatic,ci,ci
 2024-02-26T11:26:29.779Z,58.4337,-154.7782,6.5,1.2,ml,,,,0.48,ak,ak0242mgc6pt,2024-02-26T11:28:37.792Z,"98 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-26T11:16:48.622Z,39.4158,-119.9544,7.1,1,ml,8,185.61,0.114,0.0808,nn,nn00873915,2024-02-26T11:19:13.915Z,"6 km ENE of Floriston, California",earthquake,,1.9,0.19,2,automatic,nn,nn
@@ -125,7 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-25T22:11:53.470Z,38.8219986,-122.8436661,1.7,0.76,md,11,85,0.006838,0.02,nc,nc74007846,2024-02-25T23:40:10.571Z,"9 km WNW of The Geysers, CA",earthquake,0.3,0.76,0.24,12,automatic,nc,nc
 2024-02-25T22:10:03.235Z,4.8683,127.4505,67.856,4.3,mb,22,157,2.872,0.82,us,us7000m1jt,2024-02-25T22:37:50.040Z,"217 km SE of Pondaguitan, Philippines",earthquake,8.37,8.439,0.129,17,reviewed,us,us
 2024-02-25T22:09:37.860Z,40.6616669,-121.7014999,0.46,2.47,md,9,112,0.1582,0.1,nc,nc74007841,2024-02-25T23:31:11.967Z,"16 km N of Viola, CA",earthquake,0.5,8.58,0.14,9,automatic,nc,nc
-2024-02-25T21:53:12.210Z,40.1653328,-121.0536652,-1.58,2.76,md,24,46,0.1747,0.3,nc,nc74007836,2024-02-25T23:16:11.444Z,"2 km ESE of Canyondam, CA",earthquake,0.68,3.46,0.12,22,automatic,nc,nc
+2024-02-25T21:53:12.090Z,40.1311667,-121.0488333,-0.25,2.75,md,24,74,0.1379,0.11,nc,nc74007836,2024-02-26T13:18:13.471Z,"5 km SSE of Canyondam, CA",earthquake,0.25,2.6,0.122,39,reviewed,nc,nc
 2024-02-25T21:46:48.149Z,60.5314,-143.1946,0,1.7,ml,,,,0.83,ak,ak0242kyvi0e,2024-02-25T21:48:34.068Z,"101 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-02-25T21:44:04.760Z,64.6548,-148.7235,17.6,1.4,ml,,,,0.38,ak,ak0242kyuz8c,2024-02-25T21:46:01.625Z,"19 km ENE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-02-25T21:28:29.600Z,38.8113327,-122.8293304,1.57,0.96,md,16,61,0.002464,0.02,nc,nc74007821,2024-02-25T21:47:19.026Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.22,18,automatic,nc,nc
@@ -193,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-25T13:32:49.670Z,33.1978333,-115.58,2.82,1.36,ml,13,99,0.03613,0.16,ci,ci40676088,2024-02-25T13:46:43.244Z,"7 km SW of Niland, CA",earthquake,0.5,0.61,0.271,27,automatic,ci,ci
 2024-02-25T13:29:39.995Z,64.4285,-146.6284,21.5,0.6,ml,,,,0.94,ak,ak0242ku0dfr,2024-02-25T13:31:49.845Z,"6 km NNW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-25T13:24:03.030Z,38.8333321,-122.8181686,1.94,0.76,md,14,71,0.01177,0.01,nc,nc74007636,2024-02-25T15:41:17.625Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.67,0.17,14,automatic,nc,nc
-2024-02-25T13:16:08.890Z,37.0683333,-121.49,8.28,0.65,md,17,87,0.04301,0.08,nc,nc74007631,2024-02-26T04:08:11.087Z,"10 km NE of Gilroy, CA",earthquake,0.33,0.58,0.155,15,reviewed,nc,nc
-2024-02-25T13:15:06.480Z,37.0926667,-118.3601667,12.26,1.91,md,23,86,0.1109,0.06,nc,nc74007626,2024-02-26T07:23:14.396Z,"10 km SW of Big Pine, CA",earthquake,0.44,0.7,0.207,24,reviewed,nc,nc
-2024-02-25T13:13:29.083Z,-21.4224,-70.657,26.345,4.5,mb,27,137,0.717,1.19,us,us7000m1h9,2024-02-25T16:08:57.040Z,"88 km NNW of Tocopilla, Chile",earthquake,5.39,5.542,0.089,37,reviewed,us,us
