@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-02-26T17:25:45.306Z,44.3608,-116.1999,8,4.9,mw,6,,,,ew,ew1708968370,2024-02-26T17:29:54.605Z,"11 km NW of Smiths Ferry, Idaho",earthquake,15.714,5,0.3,6,automatic,ew,ew
-2024-02-26T17:15:32.916Z,11.512,57.6497,10,5,mb,69,69,13.431,0.51,us,us7000m1ng,2024-02-26T17:30:54.040Z,"Owen Fracture Zone region",earthquake,9.86,1.871,0.054,111,reviewed,us,us
+2024-02-26T17:25:43.069Z,44.3923,-116.1088,8.879,4.9,mww,89,41,0.377,0.77,us,us7000m1pd,2024-02-26T17:41:28.275Z,"10 km N of Smiths Ferry, Idaho",earthquake,5.3,4.284,0.045,47,reviewed,us,us
+2024-02-26T17:15:32.906Z,11.495,57.646,10,5,mww,72,69,13.448,0.43,us,us7000m1ng,2024-02-26T17:34:07.040Z,"Owen Fracture Zone region",earthquake,9.91,1.874,0.098,10,reviewed,us,us
 2024-02-26T17:14:28.340Z,38.8139992,-122.8008347,2.96,0.81,md,23,52,0.007413,0.02,nc,nc74008231,2024-02-26T17:16:03.045Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.51,0.24,24,automatic,nc,nc
 2024-02-26T16:51:56.323Z,37.2546,-117.6235,8.7,1.3,ml,9,102.8,0.028,0.3065,nn,nn00873916,2024-02-26T16:54:25.733Z,"55 km S of Silver Peak, Nevada",earthquake,,0.8,0.48,6,automatic,nn,nn
 2024-02-26T16:46:28.063Z,63.3857,-149.8542,78.5,1.6,ml,,,,1.94,ak,ak0242mjfmxi,2024-02-26T16:49:15.821Z,"45 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-26T04:32:18.860Z,38.117,-113.137666666667,-0.25,1.86,ml,15,85,0.1112,0.26,uu,uu80048976,2024-02-26T16:41:30.520Z,"21 km WSW of Minersville, Utah",earthquake,0.58,1.6,0.155561059975528,7,reviewed,uu,uu
 2024-02-26T04:10:10.833Z,65.8964,-145.8811,16.2,1.6,ml,,,,0.84,ak,ak0242mc2okb,2024-02-26T04:18:46.787Z,"40 km S of Birch Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-02-26T04:02:55.597Z,65.1633,-148.7812,16.1,1.1,ml,,,,0.59,ak,ak0242mc12af,2024-02-26T04:05:23.234Z,"26 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-26T03:58:01.230Z,33.0638333,-115.5815,8.87,1.11,ml,27,56,0.02551,0.26,ci,ci40676408,2024-02-26T04:05:57.937Z,"5 km NE of Westmorland, CA",earthquake,0.31,0.58,0.274,17,automatic,ci,ci
+2024-02-26T03:58:01.230Z,33.0618333,-115.584,8.63,1.2,ml,28,56,0.02357,0.25,ci,ci40676408,2024-02-26T17:41:33.395Z,"4 km NE of Westmorland, CA",earthquake,0.28,0.53,0.373,13,reviewed,ci,ci
 2024-02-26T03:57:38.668Z,60.2543,-154.0202,206,2.6,ml,,,,0.72,ak,ak0242mbrdqd,2024-02-26T04:00:28.623Z,"17 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-02-26T03:56:45.570Z,36.0093333,-117.8053333,1.42,1.08,ml,23,53,0.03615,0.15,ci,ci40676400,2024-02-26T17:17:30.490Z,"12 km NE of Little Lake, CA",earthquake,0.17,0.25,0.084,11,reviewed,ci,ci
 2024-02-26T03:56:27.560Z,36.0071667,-117.8045,0.59,0.83,ml,16,80,0.03655,0.24,ci,ci37627348,2024-02-26T17:21:22.219Z,"12 km NE of Little Lake, CA",earthquake,0.3,0.5,0.156,7,reviewed,ci,ci
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-25T18:06:11.203Z,31.592,-104.535,11.0135,2.3,ml,8,157,0.1,0.7,tx,tx2024dxwm,2024-02-25T18:23:37.477Z,"66 km SSW of Whites City, New Mexico",earthquake,0,7.82515381488201,0.2,7,automatic,tx,tx
 2024-02-25T18:05:29.270Z,38.7801666,-122.7441635,0.3,1.2,md,13,75,0.006573,0.06,nc,nc74007721,2024-02-25T20:23:11.484Z,"1 km ENE of The Geysers, CA",earthquake,0.29,0.52,0.16,13,automatic,nc,nc
 2024-02-25T17:59:19.337Z,31.697,-104.167,6.4716,1.9,ml,18,61,0.1,0.2,tx,tx2024dxwg,2024-02-26T14:33:36.804Z,"53 km W of Mentone, Texas",earthquake,0.6343384477049183,0.6208406689099236,0.2,6,reviewed,tx,tx
-2024-02-25T17:35:03.440Z,38.786499,-122.7200012,2.08,0.88,md,7,92,0.01347,0.01,nc,nc74007716,2024-02-25T18:10:14.532Z,"3 km WNW of Anderson Springs, CA",earthquake,0.39,1.18,0.15,7,automatic,nc,nc
