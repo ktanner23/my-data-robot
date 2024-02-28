@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-02-28T16:26:05.600Z,33.5115,-116.4623333,5.37,0.84,ml,36,67,0.03282,0.16,ci,ci40678096,2024-02-28T16:32:19.388Z,"20 km ESE of Anza, CA",earthquake,0.2,0.39,0.192,20,automatic,ci,ci
+2024-02-28T16:15:15.356Z,31.694,-104.171,4.6808,1.5,ml,12,93,0.1,0.2,tx,tx2024edfj,2024-02-28T16:30:07.923Z,"54 km W of Mentone, Texas",earthquake,0,1.61031343820945,0.2,10,automatic,tx,tx
 2024-02-28T15:55:57.810Z,19.2763328552246,-155.484161376953,31.6900005340576,1.88999999,md,28,82,0.03113,0.150000006,hv,hv74123746,2024-02-28T15:57:29.230Z,"8 km N of Pāhala, Hawaii",earthquake,0.65,1.00999999,0.150000006,4,automatic,hv,hv
-2024-02-28T15:50:21.839Z,51.9458,179.6031,118.965,5.5,mww,118,33,0.053,0.79,us,us6000mflq,2024-02-28T16:14:13.566Z,"259 km W of Adak, Alaska",earthquake,4,2.989,0.043,51,reviewed,us,us
+2024-02-28T15:50:21.839Z,51.9458,179.6031,118.965,5.5,mww,118,33,0.053,0.79,us,us6000mflq,2024-02-28T16:30:35.896Z,"259 km W of Adak, Alaska",earthquake,4,2.989,0.043,51,reviewed,us,us
 2024-02-28T15:42:46.720Z,33.2226667,-116.0693333,8.74,0.97,ml,47,59,0.09041,0.24,ci,ci40678032,2024-02-28T15:49:29.912Z,"11 km NNE of Ocotillo Wells, CA",earthquake,0.22,0.69,0.153,21,automatic,ci,ci
 2024-02-28T15:36:11.980Z,19.2533340454102,-155.387496948242,31.1399993896484,1.86000001,md,23,153,0.07966,0.150000006,hv,hv74123736,2024-02-28T15:37:35.980Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.67,0.779999971,0.170000002,7,automatic,hv,hv
 2024-02-28T15:18:20.090Z,37.5330009,-118.8343353,3.74,1.52,md,16,210,0.05708,0.02,nc,nc74009301,2024-02-28T15:19:56.014Z,"14 km WSW of Toms Place, CA",earthquake,0.91,0.74,0.08,16,automatic,nc,nc
@@ -119,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T01:30:47.580Z,31.739,-104.119,5.741,1.6,ml,16,69,0,0.1,tx,tx2024ecce,2024-02-28T15:00:45.237Z,"49 km W of Mentone, Texas",earthquake,0.4712165085314462,0.5961140899546593,0.2,13,reviewed,tx,tx
 2024-02-28T01:19:07.270Z,40.3238335,-124.4304962,16.76,2.17,md,13,297,0.07595,0.09,nc,nc74009066,2024-02-28T01:20:43.123Z,"12 km W of Petrolia, CA",earthquake,2.59,0.88,0.14,6,automatic,nc,nc
 2024-02-28T00:55:16.390Z,44.3708333333333,-116.145166666667,5.9,1.73,ml,8,93,0.3456,0.17,mb,mb90042078,2024-02-28T15:03:06.100Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.57,4.53,0.247272406097103,9,reviewed,mb,mb
-2024-02-28T00:36:37.540Z,35.032,-117.6776667,-0.81,1.59,ml,39,38,0.09858,0.22,ci,ci40677712,2024-02-28T00:43:14.240Z,"4 km NW of Boron, CA",earthquake,0.27,0.56,0.115,29,automatic,ci,ci
+2024-02-28T00:36:37.430Z,35.034,-117.6706667,-0.79,1.83,ml,32,45,0.1016,0.16,ci,ci40677712,2024-02-28T16:31:51.384Z,"4 km NNW of Boron, CA",quarry blast,0.31,31.61,0.171,22,reviewed,ci,ci
 2024-02-28T00:02:25.832Z,60.1315,-152.0993,69,1.6,ml,,,,0.23,ak,ak0242pkpy0m,2024-02-28T04:57:28.209Z,"25 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-02-27T23:59:45.150Z,38.498,-112.8955,2.29,0.66,md,16,46,0.007816,0.1,uu,uu80050856,2024-02-28T14:22:14.460Z,"15 km NE of Milford, Utah",earthquake,0.27,0.36,0.37996318948306,6,reviewed,uu,uu
 2024-02-27T23:50:34.090Z,33.9325,-116.9701667,13.09,1.17,ml,45,33,0.1631,0.14,ci,ci40677672,2024-02-28T14:34:55.778Z,"1 km ENE of Beaumont, CA",earthquake,0.16,0.51,0.159,29,reviewed,ci,ci
@@ -137,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T22:56:29.580Z,38.8173332,-122.8216629,2.36,1.62,md,30,48,0.01029,0.04,nc,nc74009026,2024-02-27T22:59:41.312Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.33,0.11,33,automatic,nc,nc
 2024-02-27T22:54:41.310Z,38.4905,-112.893,2.22,0.79,md,14,52,0.005697,0.1,uu,uu80050736,2024-02-27T23:11:53.950Z,"14 km NE of Milford, Utah",earthquake,0.29,0.46,0.496342484514905,5,reviewed,uu,uu
 2024-02-27T22:53:50.690Z,33.4313333,-116.3708333,12.79,0.65,ml,18,226,0.1026,0.15,ci,ci40677632,2024-02-28T14:35:08.517Z,"20 km N of Borrego Springs, CA",earthquake,0.52,0.72,0.115,16,reviewed,ci,ci
-2024-02-27T22:50:52.000Z,33.4143333,-116.3783333,12.63,2.88,ml,110,17,0.07741,0.18,ci,ci40677624,2024-02-28T16:24:07.030Z,"18 km N of Borrego Springs, CA",earthquake,0.11,0.32,0.168,167,reviewed,ci,ci
+2024-02-27T22:50:52.000Z,33.4143333,-116.3783333,12.63,2.88,ml,110,17,0.07741,0.18,ci,ci40677624,2024-02-28T16:28:41.258Z,"18 km N of Borrego Springs, CA",earthquake,0.11,0.32,0.168,167,reviewed,ci,ci
 2024-02-27T22:48:37.650Z,44.3705,-116.129333333333,-0.54,2.18,ml,8,91,0.3507,0.11,mb,mb90042053,2024-02-28T15:09:21.620Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.46,1.96,0.148089688882924,11,reviewed,mb,mb
 2024-02-27T22:43:47.845Z,59.7114,-153.3895,110.4,2.5,ml,,,,0.62,ak,ak0242oaizdw,2024-02-27T23:34:14.040Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-02-27T22:41:52.127Z,6.3247,-76.7048,45.198,4.5,mb,12,143,1.176,0.55,us,us6000mfie,2024-02-28T07:55:55.849Z,"32 km SE of Bellavista, Colombia",earthquake,7.48,10.322,0.22,6,reviewed,us,us
@@ -198,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-27T17:04:23.750Z,44.3758333333333,-116.094833333333,6.75,2.43,ml,12,87,0.368,0.14,mb,mb90042013,2024-02-28T15:27:47.920Z,"8 km N of Smiths Ferry, Idaho",earthquake,0.39,1.03,0.259471597204092,17,reviewed,mb,mb
 2024-02-27T16:55:18.570Z,38.4975,-112.895666666667,1.99,0.81,md,14,82,0.00817,0.07,uu,uu80050376,2024-02-27T17:43:02.080Z,"15 km NE of Milford, Utah",earthquake,0.25,0.37,0.221308333360549,5,reviewed,uu,uu
 2024-02-27T16:42:35.320Z,38.4973333333333,-112.895666666667,1.9,0.5,md,11,82,0.008254,0.05,uu,uu80050366,2024-02-27T17:45:39.910Z,"15 km NE of Milford, Utah",earthquake,0.26,0.36,0.463308138355429,4,reviewed,uu,uu
-2024-02-27T16:29:10.669Z,57.0192,-154.6083,1.1,2.5,ml,,,,0.35,ak,ak0242o6vawq,2024-02-27T18:52:59.040Z,"27 km WNW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
