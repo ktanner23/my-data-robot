@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-29T14:46:54.552Z,-6.7737,132.6559,32.435,4.6,mb,21,98,3.535,0.42,us,us6000mftw,2024-02-29T15:21:55.040Z,"127 km S of Tual, Indonesia",earthquake,5.69,6.527,0.116,22,reviewed,us,us
 2024-02-29T14:39:10.530Z,38.4923333333333,-112.894,2.99,0.65,md,12,70,0.007665,0.07,uu,uu80054671,2024-02-29T15:16:29.990Z,"14 km NE of Milford, Utah",earthquake,0.28,0.52,0.351077799805868,4,reviewed,uu,uu
-2024-02-29T14:21:19.140Z,44.353,-115.1885,8.2,2.72,ml,14,72,0.3483,0.17,mb,mb90042248,2024-02-29T15:06:39.991Z,"24 km NW of Stanley, Idaho",earthquake,0.37,0.87,0.19596457876395,24,reviewed,mb,mb
+2024-02-29T14:21:18.978Z,44.3498,-115.1843,10,2.5,ml,16,71,0.344,0.7,us,us6000mftp,2024-02-29T15:31:11.784Z,"24 km NW of Stanley, Idaho",earthquake,1.64,2.011,0.079,21,reviewed,us,us
 2024-02-29T14:13:56.250Z,38.4881666666667,-112.8955,2.06,1.92,ml,27,53,0.004574,0.15,uu,uu80054631,2024-02-29T15:08:49.290Z,"14 km NE of Milford, Utah",earthquake,0.27,0.46,0.152302153350433,6,reviewed,uu,uu
 2024-02-29T14:11:45.170Z,34.0128333,-116.3418333,3.15,1.13,ml,53,36,0.06906,0.17,ci,ci40678800,2024-02-29T14:32:16.930Z,"14 km S of Joshua Tree, CA",earthquake,0.16,0.58,0.163,26,reviewed,ci,ci
 2024-02-29T14:04:44.650Z,33.5258333,-116.9343333,11.47,0.77,ml,41,41,0.04792,0.18,ci,ci40678792,2024-02-29T14:31:44.933Z,"11 km NW of Aguanga, CA",earthquake,0.18,0.53,0.168,22,reviewed,ci,ci
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T09:45:16.310Z,35.5276666666667,-85.138,13.52,2.53,md,15,88,0.05241,0.12,se,se60571421,2024-02-29T14:49:40.552Z,"9 km SSE of Pikeville, Tennessee",earthquake,0.41,0.39,0.0619386136380538,12,reviewed,se,se
 2024-02-29T09:35:40.772Z,35.4013,140.4262,19.788,5.1,mb,85,94,2.128,0.85,us,us6000mfsp,2024-02-29T12:32:50.773Z,"5 km NE of Ichinomiya, Japan",earthquake,3.96,3.503,0.034,276,reviewed,us,us
 2024-02-29T09:34:38.790Z,33.246,-116.0783333,2.69,0.97,ml,48,61,0.08462,0.24,ci,ci40678712,2024-02-29T09:43:48.722Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.2,0.4,0.129,27,automatic,ci,ci
-2024-02-29T09:22:20.920Z,51.0518,-177.3172,35,5,mww,185,120,0.713,0.76,us,us6000mfsl,2024-02-29T13:32:31.349Z,"103 km SSW of Adak, Alaska",earthquake,2.42,1.888,0.069,20,reviewed,us,us
+2024-02-29T09:22:20.920Z,51.0518,-177.3172,35,5,mww,185,120,0.713,0.76,us,us6000mfsl,2024-02-29T15:32:36.450Z,"103 km SSW of Adak, Alaska",earthquake,2.42,1.888,0.069,20,reviewed,us,us
 2024-02-29T09:14:13.257Z,41.3351,-127.3458,10,3.4,ml,32,263,2.56,0.57,us,us6000mfsk,2024-02-29T09:28:09.040Z,"266 km W of Crescent City, California",earthquake,10.13,2.022,0.044,68,reviewed,us,us
 2024-02-29T09:08:44.560Z,19.363000869751,-155.288330078125,0.639999985694885,1.71000004,md,16,115,0.02423,0.200000003,hv,hv74124656,2024-02-29T09:10:20.910Z,"10 km SSW of Volcano, Hawaii",earthquake,0.24,0.449999988,0.560000002,15,automatic,hv,hv
 2024-02-29T09:03:16.820Z,33.2421667,-116.0831667,2.58,1.82,ml,82,30,0.08989,0.21,ci,ci40678704,2024-02-29T09:14:22.580Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.14,0.34,0.117,26,automatic,ci,ci
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T15:43:16.140Z,37.5205,-118.8358333,2.74,0.5,md,13,162,0.06961,0.03,nc,nc74009321,2024-02-28T17:42:04.209Z,"14 km WSW of Toms Place, CA",earthquake,0.94,0.9,0.285,13,reviewed,nc,nc
 2024-02-28T15:42:46.610Z,33.2206667,-116.0723333,10.09,1.07,ml,34,57,0.09222,0.19,ci,ci40678032,2024-02-28T19:05:11.372Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.21,0.55,0.098,14,reviewed,ci,ci
 2024-02-28T15:36:11.980Z,19.2533340454102,-155.387496948242,31.1399993896484,1.86000001,md,23,153,0.07966,0.150000006,hv,hv74123736,2024-02-28T15:37:35.980Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.67,0.779999971,0.170000002,7,automatic,hv,hv
-2024-02-28T15:29:34.910Z,38.4921666666667,-112.8865,1.3,0.66,md,15,58,0.00816,0.13,uu,uu80052151,2024-02-28T18:21:09.230Z,"15 km NE of Milford, Utah",earthquake,0.31,0.46,0.415846662724153,6,reviewed,uu,uu
