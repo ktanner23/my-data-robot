@@ -38,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T17:01:47.561Z,60.1317,-152.5911,87.6,1.7,ml,,,,0.27,ak,ak0242ridgvo,2024-02-29T18:14:14.761Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2024-02-29T16:47:29.150Z,33.244,-116.0625,6.69,0.98,ml,41,69,0.07362,0.2,ci,ci40678896,2024-02-29T20:20:10.629Z,"12 km WSW of Salton City, CA",earthquake,0.19,0.75,0.125,23,reviewed,ci,ci
 2024-02-29T16:29:11.982Z,64.4754,-146.9607,6.2,1.9,ml,,,,0.59,ak,ak0242rhxzzy,2024-02-29T16:31:13.465Z,"6 km SSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-02-29T16:01:55.060Z,36.0166,140.0192,78.029,4.5,mb,24,158,1.554,0.77,us,us6000mfuz,2024-02-29T17:32:45.040Z,"3 km E of Mitsukaidō, Japan",earthquake,9.21,4.338,0.145,14,reviewed,us,us
+2024-02-29T16:01:55.060Z,36.0166,140.0192,78.029,4.5,mb,24,158,1.554,0.77,us,us6000mfuz,2024-02-29T20:51:58.223Z,"3 km E of Mitsukaidō, Japan",earthquake,9.21,4.338,0.145,14,reviewed,us,us
 2024-02-29T15:54:45.010Z,19.1888332366943,-155.507659912109,35.5,2.12,ml,54,75,0.05439,0.119999997,hv,hv74124876,2024-02-29T15:57:23.780Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.39,0.540000021,0.18,5,automatic,hv,hv
 2024-02-29T15:46:49.350Z,46.8943333333333,-112.514333333333,13.4,1.48,ml,10,120,0.05275,0.12,mb,mb90042263,2024-02-29T16:06:11.690Z,"14 km ESE of Lincoln, Montana",earthquake,0.46,0.65,0.0655273606542357,6,reviewed,mb,mb
 2024-02-29T14:46:54.552Z,-6.7737,132.6559,32.435,4.6,mb,21,98,3.535,0.42,us,us6000mftw,2024-02-29T15:21:55.040Z,"127 km S of Tual, Indonesia",earthquake,5.69,6.527,0.116,22,reviewed,us,us
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T09:55:55.951Z,60.5936,-152.1082,82.1,1.6,ml,,,,0.49,ak,ak0242rdxmjj,2024-02-29T15:54:51.767Z,"43 km W of Salamatof, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-02-29T09:54:54.970Z,52.6591,-170.9457,0.8,2.6,ml,,,,0.82,ak,ak0242rdxixp,2024-02-29T10:08:44.631Z,"143 km WSW of Nikolski, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-02-29T09:52:52.440Z,19.2598333333333,-155.396333333333,30.53,2.74,md,57,99,0.02224,0.12,hv,hv74124686,2024-02-29T19:28:39.873Z,"10 km NE of Pāhala, Hawaii",earthquake,0.38,0.41,0.109107706947194,15,reviewed,hv,hv
-2024-02-29T09:45:47.430Z,39.5435,-89.2333333333333,5.38,2.03,md,10,68,0.2428,0.05,nm,nm60501693,2024-02-29T19:29:30.859Z,"5 km E of Taylorville, Illinois",earthquake,0.48,1.04,0.0990720028387537,7,reviewed,nm,nm
+2024-02-29T09:45:47.430Z,39.5435,-89.2333333333333,5.38,2.03,md,10,68,0.2428,0.05,nm,nm60501693,2024-02-29T20:49:41.544Z,"5 km E of Taylorville, Illinois",earthquake,0.48,1.04,0.0990720028387537,7,reviewed,nm,nm
 2024-02-29T09:45:16.310Z,35.5276666666667,-85.138,13.52,2.53,md,15,88,0.05241,0.12,se,se60571421,2024-02-29T18:03:18.889Z,"9 km SSE of Pikeville, Tennessee",earthquake,0.41,0.39,0.0619386136380538,12,reviewed,se,se
 2024-02-29T09:35:40.772Z,35.4013,140.4262,19.788,5.1,mb,85,94,2.128,0.85,us,us6000mfsp,2024-02-29T12:32:50.773Z,"5 km NE of Ichinomiya, Japan",earthquake,3.96,3.503,0.034,276,reviewed,us,us
 2024-02-29T09:34:38.810Z,33.2453333,-116.079,3.27,1.03,ml,40,72,0.1111,0.2,ci,ci40678712,2024-02-29T18:19:39.434Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.23,0.44,0.103,28,reviewed,ci,ci
@@ -229,4 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-28T21:21:27.780Z,52.0715,-174.346,7.1,0.51,ml,5,335,,0.07,av,av91134463,2024-02-29T01:22:08.710Z,"17 km SW of Atka, Alaska",earthquake,1.03,2.21,0.135477541079031,5,reviewed,av,av
 2024-02-28T21:20:47.610Z,52.2553333333333,-174.381,6.2,0.48,ml,6,280,,0.15,av,av91134458,2024-02-29T01:20:29.060Z,"13 km WNW of Atka, Alaska",earthquake,0.92,2.89,0.556441330108369,6,reviewed,av,av
 2024-02-28T21:18:39.760Z,38.8373333,-122.7896667,2.38,-0.09,md,13,80,0.001197,0.03,nc,nc74009481,2024-02-28T22:43:28.991Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.41,0.292,12,reviewed,nc,nc
-2024-02-28T20:53:04.290Z,40.1341667,-121.052,-1.61,2.23,md,22,64,0.1341,0.13,nc,nc74009466,2024-02-28T21:55:25.221Z,"4 km SSE of Canyondam, CA",earthquake,0.36,4.75,0.182,32,reviewed,nc,nc
