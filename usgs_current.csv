@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-29T15:54:45.010Z,19.1888332366943,-155.507659912109,35.5,2.12,ml,54,75,0.05439,0.119999997,hv,hv74124876,2024-02-29T15:57:23.780Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.39,0.540000021,0.18,5,automatic,hv,hv
+2024-02-29T15:46:49.350Z,46.8943333333333,-112.514333333333,13.4,1.48,ml,10,120,0.05275,0.12,mb,mb90042263,2024-02-29T16:06:11.690Z,"14 km ESE of Lincoln, Montana",earthquake,0.46,0.65,0.0655273606542357,6,reviewed,mb,mb
+2024-02-29T15:32:36.310Z,31.556,-104.126,4.6225,1.7,ml,18,67,0,0.3,tx,tx2024eezl,2024-02-29T16:05:02.541Z,"41 km NW of Toyah, Texas",earthquake,0,1.39105860775766,0.2,14,automatic,tx,tx
 2024-02-29T14:46:54.552Z,-6.7737,132.6559,32.435,4.6,mb,21,98,3.535,0.42,us,us6000mftw,2024-02-29T15:21:55.040Z,"127 km S of Tual, Indonesia",earthquake,5.69,6.527,0.116,22,reviewed,us,us
 2024-02-29T14:39:10.530Z,38.4923333333333,-112.894,2.99,0.65,md,12,70,0.007665,0.07,uu,uu80054671,2024-02-29T15:16:29.990Z,"14 km NE of Milford, Utah",earthquake,0.28,0.52,0.351077799805868,4,reviewed,uu,uu
 2024-02-29T14:21:18.978Z,44.3498,-115.1843,10,2.5,ml,16,71,0.344,0.7,us,us6000mftp,2024-02-29T15:31:11.784Z,"24 km NW of Stanley, Idaho",earthquake,1.64,2.011,0.079,21,reviewed,us,us
@@ -11,7 +13,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T13:44:27.142Z,63.4038,-151.5798,0,1.9,ml,,,,0.97,ak,ak0242rg8y3e,2024-02-29T13:46:19.996Z,"16 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-29T13:33:49.210Z,38.496,-112.894666666667,2.29,0.63,md,11,79,0.008408,0.1,uu,uu80054571,2024-02-29T15:59:16.380Z,"14 km NE of Milford, Utah",earthquake,0.35,0.55,0.347176172967253,4,reviewed,uu,uu
 2024-02-29T13:25:36.657Z,-23.1587,171.1161,28.135,4.4,mb,18,239,3.427,1.14,us,us6000mftq,2024-02-29T15:37:22.040Z,"southeast of the Loyalty Islands",earthquake,14.11,10.214,0.162,13,reviewed,us,us
+2024-02-29T13:22:51.300Z,38.4936666666667,-112.901166666667,2.76,0.61,md,13,93,0.01162,0.05,uu,uu80054546,2024-02-29T16:02:18.470Z,"14 km NE of Milford, Utah",earthquake,0.25,0.42,0.605747793225422,5,reviewed,uu,uu
 2024-02-29T13:16:15.848Z,60.4269,-152.2832,77.3,2.7,ml,,,,0.74,ak,ak0242rg2x5x,2024-02-29T15:26:25.040Z,"53 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-02-29T13:09:47.010Z,38.4951666666667,-112.898833333333,1.92,-0.23,md,10,82,0.01151,0.06,uu,uu80054511,2024-02-29T16:04:26.300Z,"14 km NE of Milford, Utah",earthquake,0.27,0.37,0.51671935140856,3,reviewed,uu,uu
+2024-02-29T13:08:26.660Z,38.4938333333333,-112.902833333333,2.05,0.45,md,9,148,0.01264,0.05,uu,uu80054506,2024-02-29T16:06:53.040Z,"14 km NE of Milford, Utah",earthquake,0.36,0.62,0.347957236671864,4,reviewed,uu,uu
 2024-02-29T13:05:46.470Z,36.5984993,-121.24617,4.63,2.47,md,50,114,0.05575,0.13,nc,nc74009846,2024-02-29T14:58:04.388Z,"12 km NW of Pinnacles, CA",earthquake,0.25,0.72,0.17,56,automatic,nc,nc
 2024-02-29T12:55:23.940Z,33.2453333,-116.0786667,2.66,1.34,ml,57,61,0.08515,0.24,ci,ci40678768,2024-02-29T13:02:11.644Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.18,0.37,0.133,27,automatic,ci,ci
 2024-02-29T12:45:33.858Z,62.012,-150.4839,34.6,2.2,ml,,,,0.96,ak,ak0242rfnqpa,2024-02-29T12:47:20.580Z,"36 km SSW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -125,11 +130,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T01:06:52.780Z,19.1866664886475,-155.37516784668,30.4300003051758,2.18000007,md,38,168,0.08787,0.129999995,hv,hv74124326,2024-02-29T01:09:43.920Z,"11 km E of Pāhala, Hawaii",earthquake,0.84,0.709999979,0.25999999,8,automatic,hv,hv
 2024-02-29T01:05:48.800Z,38.8348351,-122.8098297,2.33,1.07,md,18,51,0.01143,0.01,nc,nc74009596,2024-02-29T01:07:23.544Z,"8 km W of Cobb, CA",earthquake,0.26,0.54,0.22,19,automatic,nc,nc
 2024-02-29T01:05:37.181Z,8.8402,126.388,67.165,4.8,mb,47,108,1.933,1.13,us,us6000mfqq,2024-02-29T01:22:04.040Z,"9 km ESE of Aras-asan, Philippines",earthquake,9.78,7.546,0.077,52,reviewed,us,us
-2024-02-29T01:03:34.530Z,34.0433333,-116.738,12.7,0.68,ml,31,156,0.05852,0.15,ci,ci40678544,2024-02-29T01:09:50.760Z,"14 km W of Morongo Valley, CA",earthquake,0.19,0.42,0.21,14,automatic,ci,ci
+2024-02-29T01:03:34.450Z,34.0413333,-116.7391667,13.62,0.64,ml,30,156,0.05731,0.11,ci,ci40678544,2024-02-29T16:06:42.330Z,"14 km NNE of Cabazon, CA",earthquake,0.15,0.31,0.238,12,reviewed,ci,ci
 2024-02-29T00:53:43.988Z,44.3578,-116.1169,5,3,ml,47,42,0.344,0.86,us,us6000mfql,2024-02-29T15:23:55.250Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,1.02,1.914,0.034,112,reviewed,us,us
 2024-02-29T00:52:50.120Z,33.7065,-116.711,17.26,0.82,ml,15,106,0.005351,0.09,ci,ci40678536,2024-02-29T14:39:41.928Z,"4 km S of Idyllwild, CA",earthquake,0.33,0.47,0.189,7,reviewed,ci,ci
 2024-02-29T00:48:03.680Z,18.042,-66.5505,19.31,2.58,md,12,91,0.04256,0.17,pr,pr71441493,2024-02-29T01:17:29.260Z,"0 km S of Coto Laurel, Puerto Rico",earthquake,0.48,0.32,0.201179808204009,7,reviewed,pr,pr
-2024-02-29T00:44:49.560Z,40.697834,-122.3983307,24.69,2.75,ml,20,53,0.1033,0.15,nc,nc74009576,2024-02-29T15:13:53.992Z,"3 km NW of Shasta Lake, CA",earthquake,0.5,1.15,0.377,9,automatic,nc,nc
+2024-02-29T00:44:49.560Z,40.697834,-122.3983307,24.69,2.75,ml,20,53,0.1033,0.15,nc,nc74009576,2024-02-29T16:00:59.604Z,"3 km NW of Shasta Lake, CA",earthquake,0.5,1.15,0.377,9,automatic,nc,nc
 2024-02-29T00:39:03.180Z,38.8223343,-122.7651672,1.89,1.1,md,20,120,0.008931,0.03,nc,nc74009566,2024-02-29T00:40:38.268Z,"4 km W of Cobb, CA",earthquake,0.28,0.41,0.15,21,automatic,nc,nc
 2024-02-29T00:37:12.540Z,37.8693333,-121.6341667,7.65,1.6,md,14,140,0.05177,0.19,nc,nc74009571,2024-02-29T07:08:39.407Z,"0 km NE of Byron, CA",earthquake,0.67,0.74,0.126,12,reviewed,nc,nc
 2024-02-29T00:26:37.134Z,61.3039,-146.2445,34.2,2,ml,,,,0.35,ak,ak0242r8eh41,2024-02-29T00:28:28.389Z,"20 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
