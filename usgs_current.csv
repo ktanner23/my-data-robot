@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T21:02:55.360Z,19.201000213623,-155.505172729492,35.7799987792969,2.56,ml,57,125,0.04749,0.140000001,hv,hv74125076,2024-02-29T22:03:46.039Z,"2 km W of Pāhala, Hawaii",earthquake,0.38,0.600000024,0.26,29,automatic,hv,hv
 2024-02-29T21:02:13.240Z,19.2548332214355,-155.391494750977,29.3600006103516,2.45,ml,31,151,0.07834,0.109999999,hv,hv74125071,2024-02-29T21:04:51.010Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.8,0.639999986,0.32,26,automatic,hv,hv
 2024-02-29T20:44:05.909Z,63.4382,-149.4145,91.2,2,ml,,,,0.43,ak,ak0242rkexou,2024-02-29T20:46:31.557Z,"23 km WNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-02-29T20:43:15.621Z,35.3687,140.7715,23.627,5.2,mww,86,131,2.384,0.93,us,us6000mfxd,2024-02-29T22:19:02.667Z,"35 km E of Ichinomiya, Japan",earthquake,6.93,4.742,0.089,12,reviewed,us,us
+2024-02-29T20:43:15.621Z,35.3687,140.7715,23.627,5.2,mww,86,131,2.384,0.93,us,us6000mfxd,2024-02-29T22:32:05.898Z,"35 km E of Ichinomiya, Japan",earthquake,6.93,4.742,0.089,12,reviewed,us,us
 2024-02-29T20:22:43.056Z,61.4631,-149.3241,31.5,2,ml,,,,0.53,ak,ak0242rkaasx,2024-02-29T20:24:43.651Z,"13 km SSW of Gateway, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-02-29T20:22:22.888Z,65.0162,-150.426,16.1,1.7,ml,,,,0.33,ak,ak0242rka98y,2024-02-29T20:24:41.247Z,"9 km E of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-02-29T20:19:43.148Z,-10.4822,113.5942,10,5,mb,52,64,2.074,0.58,us,us6000mfx9,2024-02-29T20:45:22.040Z,"238 km SSW of Gambiran Satu, Indonesia",earthquake,3.55,1.878,0.075,56,reviewed,us,us
@@ -81,6 +81,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T13:09:47.010Z,38.4951666666667,-112.898833333333,1.92,-0.23,md,10,82,0.01151,0.06,uu,uu80054511,2024-02-29T16:04:26.300Z,"14 km NE of Milford, Utah",earthquake,0.27,0.37,0.51671935140856,3,reviewed,uu,uu
 2024-02-29T13:08:26.660Z,38.4938333333333,-112.902833333333,2.05,0.45,md,9,148,0.01264,0.05,uu,uu80054506,2024-02-29T16:06:53.040Z,"14 km NE of Milford, Utah",earthquake,0.36,0.62,0.347957236671864,4,reviewed,uu,uu
 2024-02-29T13:05:46.470Z,36.5984993,-121.24617,4.63,2.47,md,50,114,0.05575,0.13,nc,nc74009846,2024-02-29T14:58:04.388Z,"12 km NW of Pinnacles, CA",earthquake,0.25,0.72,0.17,56,automatic,nc,nc
+2024-02-29T13:04:40.490Z,53.8401666666667,-166.899166666667,5.1,-0.47,ml,6,183,,0.13,av,av91134608,2024-02-29T22:31:25.280Z,"24 km WSW of Dutch Harbor, Alaska",earthquake,0.6,1.18,0.138557377107659,6,reviewed,av,av
+2024-02-29T13:04:23.850Z,53.8516666666667,-166.922166666667,2.86,-0.77,ml,4,216,,0.03,av,av91134613,2024-02-29T22:34:10.890Z,"25 km W of Dutch Harbor, Alaska",earthquake,0.45,1.39,0.131737984797992,4,reviewed,av,av
 2024-02-29T13:03:39.600Z,53.8405,-166.9055,5.31,0.26,ml,8,150,,0.18,av,av92219246,2024-02-29T22:21:03.660Z,"24 km WSW of Dutch Harbor, Alaska",earthquake,0.59,1.19,0.147615491508781,8,reviewed,av,av
 2024-02-29T13:00:43.740Z,38.4998333333333,-112.8955,2.66,0.82,md,13,89,0.007166,0.07,uu,uu80054481,2024-02-29T16:20:37.620Z,"15 km NE of Milford, Utah",earthquake,0.25,0.36,0.17721909562035,5,reviewed,uu,uu
 2024-02-29T12:57:51.830Z,53.8413333333333,-166.906833333333,4.3,0.89,ml,7,151,,0.14,av,av92219241,2024-02-29T21:52:43.570Z,"24 km WSW of Dutch Harbor, Alaska",earthquake,0.4,1.24,0.221338352546422,7,reviewed,av,av
@@ -100,6 +102,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T11:16:04.200Z,38.8204994,-122.7843323,1.46,0.82,md,10,87,0.007771,0.03,nc,nc74009821,2024-02-29T11:17:39.465Z,"5 km W of Cobb, CA",earthquake,0.52,1.1,0.23,11,automatic,nc,nc
 2024-02-29T11:11:30.593Z,62.6212,-151.3433,77.1,1.8,ml,,,,0.73,ak,ak0242rev0f8,2024-02-29T11:13:52.850Z,"32 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-29T11:09:12.070Z,33.6601667,-116.7023333,15.96,0.5,ml,20,76,0.02534,0.09,ci,ci40678744,2024-02-29T21:59:53.626Z,"9 km S of Idyllwild, CA",earthquake,0.26,0.4,0.129,4,reviewed,ci,ci
+2024-02-29T11:08:34.910Z,38.8166667,-122.819,2.35,0.44,md,12,75,0.009683,0.04,nc,nc74009811,2024-02-29T22:30:50.275Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.33,0.453,12,reviewed,nc,nc
 2024-02-29T10:49:19.037Z,41.1041,-127.4145,10,4.5,mb,69,177,2.579,0.87,us,us6000mft2,2024-02-29T11:37:58.040Z,"272 km W of Indianola, California",earthquake,8.99,1.956,0.085,40,reviewed,us,us
 2024-02-29T10:34:40.650Z,34.0328333,-117.2696667,17.85,1.09,ml,60,44,0.0732,0.15,ci,ci40678736,2024-02-29T18:32:57.460Z,"2 km SSW of Loma Linda, CA",earthquake,0.17,0.28,0.123,36,reviewed,ci,ci
 2024-02-29T10:30:16.340Z,38.8328323,-122.7965012,2.11,0.87,md,9,83,0.007358,0.03,nc,nc74009801,2024-02-29T10:31:50.064Z,"6 km W of Cobb, CA",earthquake,0.53,1.13,0.23,12,automatic,nc,nc
@@ -112,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T09:55:55.951Z,60.5936,-152.1082,82.1,1.6,ml,,,,0.49,ak,ak0242rdxmjj,2024-02-29T15:54:51.767Z,"43 km W of Salamatof, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-02-29T09:54:54.970Z,52.6591,-170.9457,0.8,2.6,ml,,,,0.82,ak,ak0242rdxixp,2024-02-29T10:08:44.631Z,"143 km WSW of Nikolski, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-02-29T09:52:52.440Z,19.2598333333333,-155.396333333333,30.53,2.74,md,57,99,0.02224,0.12,hv,hv74124686,2024-02-29T19:28:39.873Z,"10 km NE of Pāhala, Hawaii",earthquake,0.38,0.41,0.109107706947194,15,reviewed,hv,hv
-2024-02-29T09:45:47.430Z,39.5435,-89.2333333333333,5.38,2.03,md,10,68,0.2428,0.05,nm,nm60501693,2024-02-29T21:42:49.299Z,"5 km E of Taylorville, Illinois",earthquake,0.48,1.04,0.0990720028387537,7,reviewed,nm,nm
+2024-02-29T09:45:47.430Z,39.5435,-89.2333333333333,5.38,2.03,md,10,68,0.2428,0.05,nm,nm60501693,2024-02-29T22:29:45.485Z,"5 km E of Taylorville, Illinois",earthquake,0.48,1.04,0.0990720028387537,7,reviewed,nm,nm
 2024-02-29T09:45:16.310Z,35.5276666666667,-85.138,13.52,2.53,md,15,88,0.05241,0.12,se,se60571421,2024-02-29T18:03:18.889Z,"9 km SSE of Pikeville, Tennessee",earthquake,0.41,0.39,0.0619386136380538,12,reviewed,se,se
 2024-02-29T09:43:03.436Z,38.4701,-116.1695,0.1,1.6,ml,9,210.78,0.744,0.1216,nn,nn00874074,2024-02-29T22:10:19.129Z,"98 km NNW of Rachel, Nevada",earthquake,,2.3,0.24,5,reviewed,nn,nn
 2024-02-29T09:35:40.772Z,35.4013,140.4262,19.788,5.1,mb,85,94,2.128,0.85,us,us6000mfsp,2024-02-29T21:18:27.213Z,"5 km NE of Ichinomiya, Japan",earthquake,3.96,3.503,0.034,276,reviewed,us,us
