@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T18:37:32.120Z,38.8325005,-122.856163,2.13,0.77,md,11,134,0.01228,0.03,nc,nc74010381,2024-03-01T18:39:08.826Z,"11 km NW of The Geysers, CA",earthquake,0.37,0.63,0.34,10,automatic,nc,nc
 2024-03-01T18:30:58.210Z,37.6020012,-118.8481674,5.4,1.2,md,8,153,0.01929,0.02,nc,nc74010376,2024-03-01T18:32:33.742Z,"12 km ESE of Mammoth Lakes, CA",earthquake,0.85,1.96,0.04,9,automatic,nc,nc
 2024-03-01T18:06:12.732Z,-28.6271,-63.0012,614.791,4.4,mb,73,43,5.532,0.73,us,us6000mg5h,2024-03-01T18:47:33.040Z,"5 km WSW of Colonia Dora, Argentina",earthquake,10.34,6.771,0.091,39,reviewed,us,us
-2024-03-01T18:05:21.280Z,33.8166667,-116.9905,12.84,1.89,ml,80,32,0.02071,0.19,ci,ci40679688,2024-03-01T18:16:25.930Z,"5 km NW of San Jacinto, CA",earthquake,0.13,0.37,0.192,26,automatic,ci,ci
+2024-03-01T18:05:21.210Z,33.8165,-116.9905,13.63,1.9,ml,73,35,0.02064,0.16,ci,ci40679688,2024-03-01T20:41:33.250Z,"5 km NW of San Jacinto, CA",earthquake,0.13,0.37,0.195,26,reviewed,ci,ci
 2024-03-01T18:03:46.780Z,38.8255005,-122.8544998,2.23,0.76,md,13,119,0.002758,0.03,nc,nc74010361,2024-03-01T18:05:22.487Z,"10 km WNW of The Geysers, CA",earthquake,0.38,0.64,0.44,13,automatic,nc,nc
 2024-03-01T18:01:47.000Z,19.1973323822021,-155.505004882812,31.9899997711182,2.37,ml,27,67,0.05816,0.140000001,hv,hv74125566,2024-03-01T18:52:53.040Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.46,0.779999971,0.18,7,automatic,hv,hv
 2024-03-01T18:00:48.620Z,38.7994995,-122.80867,2.08,1.05,md,16,67,0.01198,0.02,nc,nc74010356,2024-03-01T18:02:22.543Z,"5 km WNW of The Geysers, CA",earthquake,0.28,0.58,0.25,16,automatic,nc,nc
@@ -178,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-01T02:34:57.690Z,38.7680016,-122.7020035,1.84,1.29,md,7,145,0.002136,0.02,nc,nc74010091,2024-03-01T02:36:30.048Z,"1 km SW of Anderson Springs, CA",earthquake,0.51,0.37,0.14,7,automatic,nc,nc
 2024-03-01T02:34:09.641Z,40.9416,-119.1282,10.8,2.3,ml,7,96.38,0.898,0.1367,nn,nn00874090,2024-03-01T17:07:56.669Z,"20 km NNE of Black Rock City, Nevada",earthquake,,4.6,0.23,6,reviewed,nn,nn
 2024-03-01T02:29:56.760Z,19.1978333333333,-155.369166666667,30.36,1.93,md,30,170,0.04769,0.1,hv,hv74125286,2024-03-01T20:32:03.900Z,"11 km E of Pāhala, Hawaii",earthquake,0.56,0.55,0.165252171771877,25,reviewed,hv,hv
+2024-03-01T02:11:15.200Z,60.0606666666667,-153.042166666667,1.35,-0.23,ml,4,272,,0.03,av,av92219871,2024-03-01T20:36:45.020Z,"66 km ENE of Pedro Bay, Alaska",earthquake,1.45,0.23,0.412028706776205,4,reviewed,av,av
 2024-03-01T02:00:59.692Z,1.3924,99.0459,117.855,4.4,mb,40,88,1.298,0.83,us,us6000mfyy,2024-03-01T02:44:20.040Z,"25 km W of Padangsidempuan, Indonesia",earthquake,6.4,5.477,0.104,28,reviewed,us,us
 2024-03-01T02:00:34.200Z,38.8308334,-122.8144989,0.88,0.37,md,9,84,0.008192,0.02,nc,nc74010081,2024-03-01T02:02:08.683Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.59,0.2,9,automatic,nc,nc
 2024-03-01T01:57:24.790Z,46.94133333333333,-121.94516666666667,8.81,0.73,ml,27,101,0.03621,0.14,uw,uw61986676,2024-03-01T16:52:18.440Z,"17 km SSE of Carbonado, Washington",earthquake,0.34,0.39,0.12384575810935544,16,reviewed,uw,uw
@@ -236,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-29T21:02:13.170Z,19.2545,-155.3915,30.52,1.71,md,32,117,0.01783,0.11,hv,hv74125071,2024-03-01T00:04:46.740Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.68,0.123702097126807,22,reviewed,hv,hv
 2024-02-29T20:44:05.909Z,63.4382,-149.4145,91.2,2,ml,,,,0.43,ak,ak0242rkexou,2024-02-29T20:46:31.557Z,"23 km WNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-02-29T20:43:15.621Z,35.3687,140.7715,23.627,5.2,mww,86,131,2.384,0.93,us,us6000mfxd,2024-03-01T14:06:57.041Z,"35 km E of Ichinomiya, Japan",earthquake,6.93,4.742,0.089,12,reviewed,us,us
-2024-02-29T20:36:39.870Z,53.8821666666667,-166.904333333333,3.28,-0.42,ml,6,168,,0.15,av,av91134728,2024-03-01T01:12:07.400Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.51,2,0.187880881186603,6,reviewed,av,av
-2024-02-29T20:35:55.090Z,51.4985,-178.779166666667,13.13,2.31,ml,15,220,,0.18,av,av92219656,2024-03-01T01:04:05.690Z,"154 km WSW of Adak, Alaska",earthquake,0.89,0.67,0.280407740929714,15,reviewed,av,av
