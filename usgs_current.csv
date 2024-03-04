@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-04T14:18:32.120Z,38.8213348,-122.7653351,1.85,1.11,md,21,155,0.009799,0.04,nc,nc74011686,2024-03-04T14:20:05.751Z,"4 km W of Cobb, CA",earthquake,0.29,0.41,0.16,19,automatic,nc,nc
 2024-03-04T14:03:02.800Z,33.804,-116.1858333,5.74,1.25,ml,47,56,0.03058,0.15,ci,ci40680664,2024-03-04T14:09:30.782Z,"10 km NNE of Indio, CA",earthquake,0.16,0.45,0.149,27,automatic,ci,ci
 2024-03-04T13:53:24.804Z,64.4799,-146.9141,6.4,0.7,ml,,,,0.74,ak,ak0242y2g9as,2024-03-04T13:55:35.490Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-04T13:51:00.150Z,19.4130001068115,-155.265502929688,11.1499996185303,2.20000005,md,14,155,0.02548,0.129999995,hv,hv74128191,2024-03-04T13:52:27.730Z,"4 km SW of Volcano, Hawaii",earthquake,1.04,0.589999974,0.0599999987,4,automatic,hv,hv
@@ -23,7 +24,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T11:23:25.350Z,44.7596666666667,-110.855166666667,5.87,-0.15,md,6,103,0.02885,0.06,uu,uu80060026,2024-03-04T14:05:59.660Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.62,1.38,0.220116509111563,5,reviewed,uu,uu
 2024-03-04T11:21:12.304Z,36.6101,-115.5371,7.1,0.6,ml,11,315.51,0.345,0.127,nn,nn00874144,2024-03-04T11:23:20.582Z,"12 km ENE of Indian Springs, Nevada",earthquake,,141.7,0.28,3,automatic,nn,nn
 2024-03-04T11:14:56.560Z,18.0353333333333,-66.7603333333333,15.96,2.78,md,16,120,0.03337,0.17,pr,pr71441918,2024-03-04T11:30:01.390Z,"2 km NNE of Magas Arriba, Puerto Rico",earthquake,0.4,0.61,0.0398953935931132,9,reviewed,pr,pr
-2024-03-04T11:04:39.232Z,31.95,-103.406,7.5682,2.2,ml,8,127,0,0.2,tx,tx2024elyq,2024-03-04T11:26:37.931Z,"27 km SW of Jal, New Mexico",earthquake,0,4.43925527323913,0.4,7,automatic,tx,tx
 2024-03-04T11:03:49.640Z,32.759,-115.5086667,11.56,1.55,ml,19,70,0.06965,0.23,ci,ci40680592,2024-03-04T11:10:44.225Z,"4 km NNE of Heber, CA",earthquake,0.42,0.59,0.136,19,automatic,ci,ci
 2024-03-04T11:03:23.130Z,36.3768333,-117.8646667,0.6,1.55,ml,26,46,0.1802,0.14,ci,ci40680584,2024-03-04T11:09:38.219Z,"16 km NE of Olancha, CA",earthquake,0.2,0.62,0.113,19,automatic,ci,ci
 2024-03-04T11:02:06.655Z,-21.092,-68.9758,119.054,4.5,mb,28,56,0.48,1.12,us,us6000mgmp,2024-03-04T12:30:17.040Z,"76 km W of Ollagüe, Chile",earthquake,4.38,6.945,0.145,14,reviewed,us,us
@@ -56,8 +56,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T08:09:43.028Z,38.1464,-117.8382,7.1,1.3,ml,10,110.94,0.124,0.1523,nn,nn00874139,2024-03-04T08:12:27.348Z,"35 km SE of Mina, Nevada",earthquake,,0.7,0.53,6,automatic,nn,nn
 2024-03-04T08:03:36.805Z,38.1952,-117.7467,0,2.8,ml,25,72.53,0.122,0.3586,nn,nn00874134,2024-03-04T08:07:42.504Z,"38 km SE of Mina, Nevada",earthquake,,2.8,0.28,19,automatic,nn,nn
 2024-03-04T08:01:06.186Z,60.6211,-152.5016,108.3,1.9,ml,,,,0.74,ak,ak0242xz5wjh,2024-03-04T08:04:17.153Z,"64 km W of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-03-04T07:54:31.964Z,41.2128,78.6226,10,4.5,mwr,100,102,0.448,0.83,us,us6000mgm0,2024-03-04T14:18:38.040Z,"130 km WNW of Aykol, China",earthquake,5.69,1.857,0.071,19,reviewed,us,us
 2024-03-04T07:41:09.320Z,38.8373337,-122.8219986,1.84,1.47,md,24,80,0.01061,0.02,nc,nc74011576,2024-03-04T07:42:43.568Z,"9 km W of Cobb, CA",earthquake,0.19,0.42,0.24,25,automatic,nc,nc
 2024-03-04T07:33:26.380Z,38.8263321,-122.8130035,1.11,1.1,md,18,64,0.00372,0.04,nc,nc74011571,2024-03-04T07:34:59.443Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.5,0.29,19,automatic,nc,nc
+2024-03-04T07:24:25.850Z,38.417,-112.3185,1.85,1.52,ml,14,104,0.1462,0.11,uu,uu80059776,2024-03-04T14:19:28.460Z,"8 km WSW of Marysvale, Utah",earthquake,0.43,31.61,0.178653583551767,2,reviewed,uu,uu
 2024-03-04T07:18:24.057Z,31.61,-103.994,5.7258,2.7,ml,16,41,0,0.3,tx,tx2024elrd,2024-03-04T07:56:28.720Z,"37 km NNW of Toyah, Texas",earthquake,0,2.49740246296872,0.2,13,automatic,tx,tx
 2024-03-04T07:02:20.710Z,31.684,-104.492,9.0277,1.5,ml,14,111,0,0.4,tx,tx2024elqq,2024-03-04T07:39:20.609Z,"55 km SSW of Whites City, New Mexico",earthquake,0,2.57993322596525,0.2,12,automatic,tx,tx
 2024-03-04T06:55:13.629Z,-4.9067,102.8424,61.571,4.9,mb,79,160,0.554,0.51,us,us6000mglu,2024-03-04T09:06:09.040Z,"107 km SSW of Pagar Alam, Indonesia",earthquake,6.7,5.618,0.063,79,reviewed,us,us
