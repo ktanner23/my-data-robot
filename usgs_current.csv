@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-05T21:17:52.590Z,19.2501659393311,-155.379669189453,31.8500003814697,2.68,ml,57,144,0.08217,0.109999999,hv,hv74129286,2024-03-05T21:20:31.570Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.39,0.469999999,0.35,28,automatic,hv,hv
 2024-03-05T21:10:04.719Z,-23.6362,179.1651,535.584,5.1,mb,63,56,5.759,1.02,us,us7000m3kb,2024-03-05T21:27:33.040Z,"south of the Fiji Islands",earthquake,3.84,8.464,0.055,107,reviewed,us,us
-2024-03-05T21:07:48.910Z,33.8721667,-117.4998333,2.7,0.83,ml,16,90,0.07115,0.12,ci,ci40681664,2024-03-05T21:14:42.673Z,"2 km ESE of Home Gardens, CA",earthquake,0.26,0.32,0.176,14,automatic,ci,ci
+2024-03-05T21:07:48.750Z,33.8723333,-117.4971667,-0.53,0.83,ml,20,67,0.06988,0.18,ci,ci40681664,2024-03-05T21:31:48.773Z,"2 km ESE of Home Gardens, CA",quarry blast,0.43,31.61,0.144,7,reviewed,ci,ci
 2024-03-05T21:03:03.610Z,38.8148346,-122.8188324,2.6,1.1,md,23,51,0.01004,0.02,nc,nc74012226,2024-03-05T21:04:39.424Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.45,0.16,22,automatic,nc,nc
 2024-03-05T20:59:16.254Z,64.4629,-146.8948,8.6,0.9,ml,,,,0.39,ak,ak0242zu6wp0,2024-03-05T21:02:46.706Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-05T20:51:38.160Z,38.7946663,-122.7539978,0.23,0.99,md,9,157,0.007439,0.02,nc,nc74012216,2024-03-05T20:53:14.247Z,"2 km N of The Geysers, CA",earthquake,0.31,0.6,0.1,9,automatic,nc,nc
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T16:45:42.080Z,38.8343315,-122.7996674,1.83,1.83,md,31,56,0.008343,0.06,nc,nc74012141,2024-03-05T16:48:49.517Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.29,0.16,33,automatic,nc,nc
 2024-03-05T16:38:53.460Z,38.7928352,-122.7555008,0.87,0.59,md,7,183,0.008446,0.03,nc,nc74012136,2024-03-05T16:40:28.696Z,"2 km N of The Geysers, CA",earthquake,0.55,0.77,0.19,11,automatic,nc,nc
 2024-03-05T16:37:42.913Z,37.1408,-116.2982,9.1,0.7,ml,16,75.57,0.041,0.1193,nn,nn00874202,2024-03-05T18:07:48.662Z,"48 km ENE of Beatty, Nevada",earthquake,,1,0.32,9,reviewed,nn,nn
-2024-03-05T16:34:45.280Z,38.0921666666667,-89.3145,16.92,2.53,md,21,103,0.3845,0.26,nm,nm60501713,2024-03-05T18:13:35.701Z,"6 km ENE of Pinckneyville, Illinois",earthquake,0.37,0.68,0.0213424472567558,10,reviewed,nm,nm
+2024-03-05T16:34:45.280Z,38.0921666666667,-89.3145,16.92,2.53,md,21,103,0.3845,0.26,nm,nm60501713,2024-03-05T21:35:24.738Z,"6 km ENE of Pinckneyville, Illinois",earthquake,0.37,0.68,0.0213424472567558,10,reviewed,nm,nm
 2024-03-05T16:31:19.420Z,38.492,-112.897333333333,2.63,-0.06,md,13,67,0.008464,0.08,uu,uu80061511,2024-03-05T16:47:27.030Z,"14 km NE of Milford, Utah",earthquake,0.27,0.39,0.280328638848907,3,reviewed,uu,uu
 2024-03-05T16:22:40.840Z,36.226,-118.3228333,6.17,1.62,ml,24,103,0.07419,0.17,ci,ci40681224,2024-03-05T17:18:25.170Z,"29 km WSW of Olancha, CA",earthquake,0.29,0.56,0.216,15,reviewed,ci,ci
 2024-03-05T16:20:37.880Z,19.2613334655762,-155.410003662109,31.6100006103516,2.02999997,md,42,122,0.07528,0.119999997,hv,hv74128966,2024-03-05T16:22:28.630Z,"9 km NE of Pāhala, Hawaii",earthquake,0.54,0.839999974,0.0799999982,8,automatic,hv,hv
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T21:46:07.688Z,63.3387,-145.3353,7.2,1.6,ml,,,,0.25,ak,ak0242y766nu,2024-03-04T22:11:38.707Z,"31 km NNE of Paxson, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-03-04T21:45:45.340Z,38.8256683,-122.814003,1.47,0.93,md,16,39,0.003817,0.02,nc,nc74011806,2024-03-04T21:47:19.664Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.6,0.18,18,automatic,nc,nc
 2024-03-04T21:42:57.200Z,38.7989998,-122.7446671,0.24,0.76,md,7,158,0.01187,0.02,nc,nc74011801,2024-03-04T21:44:29.645Z,"3 km NNE of The Geysers, CA",earthquake,0.51,0.65,0.19,6,automatic,nc,nc
-2024-03-04T21:33:17.060Z,18.8095,-67.4431666666667,8.32,3.34,md,15,218,0.4242,0.27,pr,pr71441988,2024-03-04T22:17:03.040Z,"50 km NW of San Antonio, Puerto Rico",earthquake,0.81,1.28,0.0934219824904381,9,reviewed,pr,pr
