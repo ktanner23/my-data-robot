@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T19:12:54.200Z,35.8043333,-117.537,0.08,1.33,ml,25,75,0.1667,0.17,ci,ci40681480,2024-03-05T19:19:15.284Z,"13 km WNW of Searles Valley, CA",earthquake,0.35,0.57,0.097,18,automatic,ci,ci
 2024-03-05T18:56:51.810Z,36.142,-117.8646667,3.2,0.94,ml,24,91,0.02563,0.24,ci,ci40681472,2024-03-05T19:03:48.330Z,"13 km NE of Coso Junction, CA",earthquake,0.35,0.58,0.266,10,automatic,ci,ci
 2024-03-05T18:55:18.800Z,38.8110008,-122.8184967,2.92,1.08,md,27,54,0.008613,0.05,nc,nc74012176,2024-03-05T18:56:54.186Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.48,0.12,27,automatic,nc,nc
-2024-03-05T18:54:50.530Z,19.1908340454102,-155.499328613281,31.9500007629395,2.52,ml,50,71,0.04979,0.109999999,hv,hv74129071,2024-03-05T19:17:36.865Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.38,0.649999976,0.26,8,automatic,hv,hv
+2024-03-05T18:54:50.650Z,19.2001666666667,-155.490833333333,31.89,2.08,md,45,76,0.04857,0.11,hv,hv74129071,2024-03-05T19:31:15.143Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.49,0.57,0.234071757441731,18,reviewed,hv,hv
 2024-03-05T18:46:09.100Z,19.4306666666667,-155.383833333333,8.95,1.25,md,38,75,0.06221,0.12,hv,hv74129066,2024-03-05T19:22:48.430Z,"15 km W of Volcano, Hawaii",earthquake,0.3,0.53,0.161842453864072,20,reviewed,hv,hv
 2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T18:29:18.420Z,38.8443336,-122.8208313,9.12,0.72,md,9,106,0.0105,0.06,nc,nc74012171,2024-03-05T18:30:53.836Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.48,0.12,10,automatic,nc,nc
@@ -139,6 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T03:28:01.070Z,46.2095,-122.17633333333333,7.23,0.26,ml,14,61,0.01013,0.1,uw,uw61987466,2024-03-05T17:57:38.190Z,"39 km NNE of Amboy, Washington",earthquake,0.42,0.32,0.11956103568314469,6,reviewed,uw,uw
 2024-03-05T03:22:29.450Z,46.195,-122.19183333333334,0.14,0.47000000000000003,ml,13,109,0.004829,0.15,uw,uw61987461,2024-03-05T17:52:36.570Z,"37 km NNE of Amboy, Washington",earthquake,0.4,0.19,0.20464768304739045,5,reviewed,uw,uw
 2024-03-05T03:19:59.300Z,18.0275,-66.7498333333333,16.64,2.72,md,26,125,0.04037,0.24,pr,pr71442058,2024-03-05T03:33:09.250Z,"2 km ENE of Magas Arriba, Puerto Rico",earthquake,0.44,0.53,0.0220017971205133,6,reviewed,pr,pr
+2024-03-05T03:17:10.477Z,39.254,-120.1391,10.9,0.6,ml,5,197.69,0.089,0.0916,nn,nn00874213,2024-03-05T19:25:32.125Z,"5 km WNW of Carnelian Bay, California",earthquake,,2.6,0.1,2,reviewed,nn,nn
 2024-03-05T03:16:26.740Z,44.757,-110.854333333333,5.89,0.09,md,7,104,0.03145,0.11,uu,uu80061096,2024-03-05T14:51:16.580Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.49,1.36,0.153472353214741,5,reviewed,uu,uu
 2024-03-05T03:15:17.522Z,53.8583,-166.8419,5.5,1.2,ml,,,,0.55,ak,ak0242zjt3vs,2024-03-05T09:24:24.450Z,"20 km W of Dutch Harbor, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-03-05T03:10:35.070Z,17.9576666666667,-66.2545,10.47,2.34,md,14,186,0.07336,0.07,pr,pr71442048,2024-03-05T03:27:41.690Z,"3 km W of Central Aguirre, Puerto Rico",earthquake,0.31,0.43,0.162810450924857,6,reviewed,pr,pr
@@ -222,5 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-04T20:05:44.890Z,18.111,-66.773,8.1,1.89,md,5,207,0.1688,0.17,pr,pr71441958,2024-03-04T20:13:42.800Z,"5 km NNW of Santo Domingo, Puerto Rico",earthquake,1.18,15.81,0.036095697436048,4,reviewed,pr,pr
 2024-03-04T20:03:28.610Z,46.0046666666667,-112.461833333333,-2,1.86,ml,14,88,0.0649,0.09,mb,mb90042463,2024-03-04T23:15:06.660Z,"5 km E of Butte, Montana",quarry blast,0.44,31.61,0.20477212201952,21,reviewed,mb,mb
 2024-03-04T20:01:48.407Z,64.4719,-146.9332,6.2,0.5,ml,,,,0.16,ak,ak0242y6b4yo,2024-03-04T20:16:53.014Z,"5 km SSW of Salcha, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2024-03-04T19:27:35.560Z,33.3251667,-116.2998333,9.28,1.08,ml,43,55,0.03799,0.21,ci,ci40680848,2024-03-04T21:36:10.820Z,"10 km NE of Borrego Springs, CA",earthquake,0.25,0.47,0.132,19,reviewed,ci,ci
-2024-03-04T19:26:04.920Z,36.8684998,-121.520668,10.28,1.33,md,12,104,0.02839,0.25,nc,nc74011766,2024-03-04T19:27:40.246Z,"3 km NNE of San Juan Bautista, CA",earthquake,1.01,1.32,0.2,11,automatic,nc,nc
