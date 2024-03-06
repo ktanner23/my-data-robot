@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-06T18:18:56.610Z,33.1688347,-116.0911636,9.48,1.32,ml,39,53,0.09524,0.24,ci,ci40682344,2024-03-06T18:21:19.308Z,"5 km NE of Ocotillo Wells, CA",earthquake,0.32,0.84,0.289,5,automatic,ci,ci
+2024-03-06T18:28:48.468Z,36.37440491,-96.64704132,3.344790697,2.01,ml,15,216.8672791,0.1357303262,0.1360885105,ok,ok2024eqeh,2024-03-06T18:31:35.139Z,"4 km W of Blackburn, Oklahoma",earthquake,6.165008362,2.969510078,0.22,8,automatic,ok,ok
+2024-03-06T18:18:56.550Z,33.1635,-116.0915,9.83,1.16,ml,49,47,0.06456,0.19,ci,ci40682344,2024-03-06T18:29:30.620Z,"4 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.44,0.229,28,automatic,ci,ci
 2024-03-06T18:07:35.150Z,36.0216675,-120.5923309,1.76,1.54,md,10,107,0.04269,0.09,nc,nc74012716,2024-03-06T18:09:09.036Z,"20 km NW of Parkfield, CA",earthquake,0.44,2.09,0.01,5,automatic,nc,nc
 2024-03-06T18:02:54.920Z,18.022,-66.9505,10.94,2.3,md,3,219,0.08232,0.01,pr,pr71442218,2024-03-06T18:15:52.780Z,"2 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,2.23,1.98,0.106816014008309,3,reviewed,pr,pr
+2024-03-06T18:02:54.640Z,44.7643333333333,-110.852,6,0.3,md,7,109,0.02402,0.11,uu,uu80061941,2024-03-06T18:25:10.690Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.52,1.11,0.237690881224582,5,reviewed,uu,uu
+2024-03-06T17:57:29.340Z,44.7591666666667,-110.854666666667,5.2,-0.04,md,6,104,0.02931,0.09,uu,uu80061936,2024-03-06T18:26:36.750Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.63,1.2,0.228021037643605,5,reviewed,uu,uu
 2024-03-06T17:49:01.520Z,38.7631683,-122.7350006,1.5,1.05,md,9,99,0.008082,0.02,nc,nc74012711,2024-03-06T17:50:37.792Z,"2 km SE of The Geysers, CA",earthquake,0.55,0.33,0.35,9,automatic,nc,nc
 2024-03-06T17:33:50.480Z,33.5235,-116.5633333,14.42,0.85,ml,30,44,0.04313,0.14,ci,ci40682288,2024-03-06T17:39:52.171Z,"11 km ESE of Anza, CA",earthquake,0.22,0.31,0.189,18,automatic,ci,ci
 2024-03-06T17:32:47.890Z,38.8308334,-122.8306656,8.58,0.66,md,8,131,0.008427,0.07,nc,nc74012701,2024-03-06T17:34:22.824Z,"9 km NW of The Geysers, CA",earthquake,1.56,7.24,0.33,10,automatic,nc,nc
@@ -47,6 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T14:52:08.729Z,58.2584,-155.1142,0,1.5,ml,,,,0.36,ak,ak02431e44zm,2024-03-06T14:54:12.153Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-06T14:44:01.280Z,38.7514992,-122.7128296,1.42,0.89,md,8,128,0.01379,0.01,nc,nc74012581,2024-03-06T14:45:38.990Z,"3 km SW of Anderson Springs, CA",earthquake,0.35,0.5,0.17,8,automatic,nc,nc
 2024-03-06T14:38:16.490Z,38.5268326,-122.6151657,8.28,1.23,md,9,194,0.08672,0.03,nc,nc74012576,2024-03-06T14:39:52.982Z,"7 km SSW of Calistoga, CA",earthquake,0.92,1.48,0.07,5,automatic,nc,nc
+2024-03-06T14:34:35.980Z,45.872,-111.3465,5,0.75,ml,7,187,0.2937,0.08,mb,mb90042653,2024-03-06T18:30:19.090Z,"2 km NNW of Manhattan, Montana",earthquake,0.8,7.23,0.101706322789172,3,reviewed,mb,mb
 2024-03-06T14:32:20.990Z,44.3651666666667,-116.123166666667,5.01,1.82,ml,7,90,0.3483,0.1,mb,mb90042598,2024-03-06T16:36:50.570Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.45,8.64,0.133024337005833,10,reviewed,mb,mb
 2024-03-06T14:22:58.300Z,38.8144989,-122.8251648,1.99,0.76,md,15,55,0.006438,0.02,nc,nc74012566,2024-03-06T14:24:32.818Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.6,0.5,16,automatic,nc,nc
 2024-03-06T14:13:24.320Z,44.337,-114.815833333333,9.16,1.81,ml,9,85,0.2318,0.16,mb,mb90042593,2024-03-06T14:51:49.570Z,"16 km NE of Stanley, Idaho",earthquake,0.43,1.26,0.30212221919759,13,reviewed,mb,mb
@@ -230,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-05T18:39:43.050Z,44.3613333333333,-116.117333333333,8.32,2.41,ml,11,62,0.3472,0.16,mb,mb90042538,2024-03-05T22:29:56.930Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.43,1.08,0.310612116152744,22,reviewed,mb,mb
 2024-03-05T18:38:16.936Z,60.0333,-152.9309,114,1.4,ml,,,,0.37,ak,ak0242zsvji5,2024-03-05T18:39:59.361Z,"67 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-05T18:37:46.630Z,46.123333333333335,-122.04083333333334,7.08,0.88,ml,10,253,0.007268,0.43,uw,uw61987581,2024-03-05T22:46:24.700Z,"39 km NE of Amboy, Washington",earthquake,1.8,1.22,0.1481311557008227,5,reviewed,uw,uw
-2024-03-05T18:29:18.420Z,38.8443336,-122.8208313,9.12,0.72,md,9,106,0.0105,0.06,nc,nc74012171,2024-03-05T18:30:53.836Z,"9 km WNW of Cobb, CA",earthquake,1.39,7.48,0.12,10,automatic,nc,nc
-2024-03-05T18:23:49.480Z,44.781,-110.571,2.1,0.56,md,7,235,0.0804,0.14,uu,uu80061551,2024-03-05T22:22:56.790Z,"24 km SSE of Mammoth, Wyoming",earthquake,0.92,31.61,0.261091387231759,5,reviewed,uu,uu
