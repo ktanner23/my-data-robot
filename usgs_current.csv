@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T16:13:04.229Z,62.9196,-148.3987,45.5,2,ml,,,,0.6,ak,ak024332lzee,2024-03-07T16:15:09.971Z,"59 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-07T16:12:35.225Z,31.612,-104.379,4.1535,2,ml,17,86,0.1,0.2,tx,tx2024ervh,2024-03-07T16:23:25.539Z,"62 km S of Whites City, New Mexico",earthquake,0,1.69180469356995,0.1,13,automatic,tx,tx
 2024-03-07T16:07:53.000Z,38.8296661,-122.8128357,2.12,0.76,md,12,81,0.006623,0.01,nc,nc74013221,2024-03-07T16:09:29.330Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.73,0.18,12,automatic,nc,nc
-2024-03-07T16:01:14.990Z,36.0771667,-117.9125,7.24,1.34,ml,27,69,0.06169,0.13,ci,ci40682984,2024-03-07T16:07:16.877Z,"5 km NE of Coso Junction, CA",earthquake,0.17,0.42,0.152,18,automatic,ci,ci
+2024-03-07T16:01:15.000Z,36.0786667,-117.9125,7.11,1.34,ml,27,70,0.06072,0.14,ci,ci40682984,2024-03-07T18:19:16.944Z,"5 km NE of Coso Junction, CA",earthquake,0.19,0.47,0.139,15,reviewed,ci,ci
 2024-03-07T15:56:49.849Z,36.3538,-114.9598,0,1.7,ml,20,156.74,0.219,0.3924,nn,nn00874317,2024-03-07T16:00:53.864Z,"14 km NE of Nellis Air Force Base, Nevada",earthquake,,25.3,0.37,16,automatic,nn,nn
 2024-03-07T15:47:42.069Z,16.4516,94.6606,32.34,4.6,mb,27,106,4.735,0.91,us,us7000m3w7,2024-03-07T16:27:17.040Z,"37 km SSW of Pathein, Myanmar",earthquake,10.29,5.495,0.116,22,reviewed,us,us
 2024-03-07T15:45:26.552Z,61.9654,-143.4853,0,1.8,ml,,,,0.95,ak,ak0243327gfj,2024-03-07T15:47:22.348Z,"51 km SSW of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T08:55:47.970Z,19.3110008239746,-155.463500976562,2.53999996185303,2.41,ml,48,112,0.06103,0.289999992,hv,hv74130726,2024-03-07T08:58:25.450Z,"12 km N of Pāhala, Hawaii",earthquake,0.42,1.46000004,0.39,7,automatic,hv,hv
 2024-03-07T08:53:08.060Z,38.8120003,-122.8198318,2.75,1.08,md,18,56,0.007944,0.02,nc,nc74013081,2024-03-07T08:54:41.222Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.61,0.33,21,automatic,nc,nc
 2024-03-07T08:39:46.160Z,39.786335,-123.5859985,3.61,2.42,md,25,96,0.08365,0.14,nc,nc74013071,2024-03-07T08:41:21.113Z,"14 km NW of Laytonville, CA",earthquake,0.38,0.94,0.07,15,automatic,nc,nc
-2024-03-07T08:35:01.610Z,34.5395012,-119.1011658,9.87,1.34,ml,13,66,0.1066,0.22,ci,ci40682824,2024-03-07T08:38:36.436Z,"16 km NE of Ojai, CA",earthquake,0.55,2.39,0.22,27,automatic,ci,ci
+2024-03-07T08:35:01.100Z,34.5268333,-119.1035,16.36,1.28,ml,27,42,0.09399,0.29,ci,ci40682824,2024-03-07T18:20:38.453Z,"16 km NE of Ojai, CA",earthquake,0.39,1.1,0.132,18,reviewed,ci,ci
 2024-03-07T08:20:11.159Z,9.7781,-86.3237,11.148,5.7,mww,113,144,1.443,0.71,us,us7000m3ud,2024-03-07T17:31:24.040Z,"78 km SW of Tamarindo, Costa Rica",earthquake,6.84,4.678,0.038,66,reviewed,us,us
 2024-03-07T08:14:07.461Z,32.7724,131.7876,57.352,4.4,mb,35,110,1.694,1.15,us,us7000m3uc,2024-03-07T09:11:00.172Z,"22 km SSW of Saiki, Japan",earthquake,5.85,8.689,0.123,19,reviewed,us,us
 2024-03-07T08:13:45.280Z,34.5276667,-118.1101667,9.91,0.41,ml,17,50,0.02842,0.15,ci,ci40682816,2024-03-07T14:22:17.846Z,"3 km N of Vincent, CA",earthquake,0.22,0.41,0.147,8,reviewed,ci,ci
@@ -222,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-06T18:50:14.150Z,44.7638333333333,-110.8555,6.27,1.22,md,9,100,0.02475,0.09,uu,uu80061961,2024-03-06T19:28:36.380Z,"22 km ENE of West Yellowstone, Montana",earthquake,0.39,0.79,0.270966182221377,6,reviewed,uu,uu
 2024-03-06T18:37:44.340Z,38.8433342,-122.8251648,1.93,0.77,md,15,94,0.009351,0.02,nc,nc74012721,2024-03-06T18:39:18.478Z,"9 km WNW of Cobb, CA",earthquake,0.26,0.6,0.33,15,automatic,nc,nc
 2024-03-06T18:28:48.399Z,36.36966667,-96.65566667,3.52,1.73,ml,81,111,0.129574573,0.32,ok,ok2024eqeh,2024-03-06T20:24:40.780Z,"4 km ESE of Skedee, Oklahoma",earthquake,,0.7,0.21,29,reviewed,ok,ok
-2024-03-06T18:18:56.590Z,33.1621667,-116.0916667,9.59,1.16,ml,49,48,0.06427,0.22,ci,ci40682344,2024-03-07T17:05:24.500Z,"4 km ENE of Ocotillo Wells, CA",earthquake,0.22,0.57,0.18,19,reviewed,ci,ci
