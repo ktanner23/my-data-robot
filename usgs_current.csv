@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-16T20:12:17.350Z,33.8110008,-116.6019974,14.8,1.09,ml,28,60,0.1143,0.17,ci,ci40688136,2024-03-16T20:14:37.127Z,"7 km WSW of Palm Springs, CA",earthquake,0.31,0.78,0.128,6,automatic,ci,ci
+2024-03-16T20:12:17.440Z,33.8105,-116.5993333,13.98,0.83,ml,36,29,0.1264,0.11,ci,ci40688136,2024-03-16T20:19:19.998Z,"7 km WSW of Palm Springs, CA",earthquake,0.13,0.4,0.176,21,automatic,ci,ci
 2024-03-16T19:52:10.829Z,61.1737,-146.5544,47.5,1.6,ml,,,,1.42,ak,ak0243i0gs3e,2024-03-16T19:54:50.071Z,"12 km WNW of Valdez, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2024-03-16T19:44:55.700Z,19.1743335723877,-155.482666015625,32.9599990844727,2.32999992,md,45,83,0.02705,0.140000001,hv,hv74138797,2024-03-16T19:47:11.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.54,0.839999974,0.189999998,12,automatic,hv,hv
 2024-03-16T19:38:54.660Z,38.8230019,-122.8436661,2.05,0.4,md,7,170,0.006747,0.01,nc,nc74018486,2024-03-16T19:40:29.570Z,"9 km NW of The Geysers, CA",earthquake,0.6,1.09,0.27,8,automatic,nc,nc
@@ -37,10 +37,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T15:53:52.430Z,19.1903324127197,-155.384002685547,27.7099990844727,1.88,md,26,175,0.08159,0.159999996,hv,hv74138622,2024-03-16T15:55:47.600Z,"10 km E of Pāhala, Hawaii",earthquake,0.71,0.980000019,0.709999979,3,automatic,hv,hv
 2024-03-16T15:50:58.780Z,33.273,-116.4325,4.68,0.88,ml,45,32,0.01371,0.2,ci,ci40688040,2024-03-16T15:57:03.824Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.4,0.2,20,automatic,ci,ci
 2024-03-16T15:24:13.310Z,37.4708333,-118.8305,1.54,1.4,md,19,149,0.1163,0.04,nc,nc74018396,2024-03-16T18:24:07.480Z,"17 km SW of Toms Place, CA",earthquake,0.34,1.46,0.139,21,reviewed,nc,nc
-2024-03-16T15:23:08.295Z,57.2542,-156.0546,4,3.2,ml,,,,0.51,ak,ak0243hxwtwx,2024-03-16T16:19:14.040Z,"85 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-16T15:23:09.685Z,57.3191,-156.1234,-0.8,3.3,ml,,,,0.94,ak,ak0243hxwtwx,2024-03-16T20:21:11.248Z,"79 km ESE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2024-03-16T15:12:07.568Z,31.586,-104.531,4.05,2.1,ml,17,155,0.1,0.2,tx,tx2024fiev,2024-03-16T15:26:17.880Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.68734019900377,0.1,12,automatic,tx,tx
 2024-03-16T15:06:46.000Z,39.1445,-122.8408333,9.19,1.59,md,26,79,0.02173,0.11,nc,nc74018391,2024-03-16T19:02:37.454Z,"2 km NNE of Nice, CA",earthquake,0.26,0.32,0.193,27,reviewed,nc,nc
-2024-03-16T14:36:33.110Z,56.3144,-148.6015,17.577,3,ml,39,224,2.627,0.7,us,us6000mjad,2024-03-16T15:15:21.040Z,"266 km SE of Chiniak, Alaska",earthquake,9.8,8.739,0.053,46,reviewed,us,us
+2024-03-16T14:36:33.110Z,56.3144,-148.6015,17.577,3,ml,39,224,2.627,0.7,us,us6000mjad,2024-03-16T20:18:34.383Z,"266 km SE of Chiniak, Alaska",earthquake,9.8,8.739,0.053,46,reviewed,us,us
 2024-03-16T14:31:14.930Z,38.8176651,-122.7959976,2.22,0.77,md,9,74,0.009698,0.01,nc,nc74018376,2024-03-16T14:32:47.122Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.41,0.06,10,automatic,nc,nc
 2024-03-16T14:23:21.610Z,38.8286667,-122.8191681,3.99,0.74,md,10,197,0.008841,0.04,nc,nc74018371,2024-03-16T14:24:58.015Z,"8 km NW of The Geysers, CA",earthquake,0.78,1.81,0.17,10,automatic,nc,nc
 2024-03-16T14:21:43.773Z,64.4361,-146.7135,16.8,0.9,ml,,,,1.04,ak,ak0243hxb1ex,2024-03-16T14:24:44.202Z,"9 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -205,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-15T20:36:20.935Z,1.628,122.231,477.671,4.3,mb,54,65,1.537,0.67,us,us6000mj69,2024-03-15T22:06:47.040Z,"152 km NW of Gorontalo, Indonesia",earthquake,11.48,8.065,0.082,42,reviewed,us,us
 2024-03-15T20:34:48.470Z,33.8258333,-118.6383333,13.84,2.28,ml,54,158,0.2117,0.21,ci,ci40687736,2024-03-15T22:57:06.379Z,"22 km WSW of Manhattan Beach, CA",earthquake,0.36,0.66,0.086,25,reviewed,ci,ci
 2024-03-15T20:29:23.546Z,61.0071,-146.9712,23.7,1.1,ml,,,,0.35,ak,ak0243gddype,2024-03-15T20:31:59.612Z,"22 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-15T20:17:46.911Z,35.458,-3.5294,10.337,4.5,mww,89,63,2.392,0.65,us,us6000mj5v,2024-03-16T01:36:02.536Z,"43 km ENE of Al Hoceïma, Morocco",earthquake,7.06,4.76,0.089,12,reviewed,us,us
