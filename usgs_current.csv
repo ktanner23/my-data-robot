@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T15:38:15.810Z,38.8370018,-122.7829971,1.87,1.1,md,11,73,0.005907,0.02,nc,nc74018956,2024-03-17T15:39:50.284Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.53,0.14,14,automatic,nc,nc
 2024-03-17T15:34:10.770Z,38.847168,-122.8143311,1.54,0.24,md,7,99,0.01027,0.02,nc,nc74018951,2024-03-17T15:35:45.076Z,"8 km WNW of Cobb, CA",earthquake,0.37,0.73,0.09,7,automatic,nc,nc
 2024-03-17T15:09:25.740Z,19.1673336029053,-155.483001708984,31.3400001525879,2.02999997,md,38,98,0.02303,0.129999995,hv,hv74139522,2024-03-17T18:15:35.950Z,"3 km S of Pāhala, Hawaii",earthquake,0.53,0.670000017,0.140000001,9,automatic,hv,hv
-2024-03-17T14:53:53.490Z,40.5569992,-123.6735001,33.03,3.89,mw,38,82,0.1094,0.09,nc,nc74018946,2024-03-17T18:07:37.786Z,"36 km E of Hydesville, CA",earthquake,0.32,0.83,,3,reviewed,nc,nc
+2024-03-17T14:53:53.380Z,40.5575,-123.6748333,35.06,3.89,mw,53,33,0.1105,0.13,nc,nc74018946,2024-03-17T18:45:41.222Z,"36 km E of Hydesville, CA",earthquake,0.25,0.58,,3,reviewed,nc,nc
 2024-03-17T14:36:02.400Z,38.8175011,-122.7961655,2.31,0.75,md,12,66,0.009543,0.01,nc,nc74018936,2024-03-17T14:37:39.180Z,"6 km NW of The Geysers, CA",earthquake,0.34,0.98,0.41,13,automatic,nc,nc
 2024-03-17T14:34:32.706Z,60.4692,-150.7899,53.7,1.5,ml,,,,0.13,ak,ak0243jkx5d2,2024-03-17T14:36:11.470Z,"3 km SSW of Funny River, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-03-17T14:30:45.433Z,60.4296,-153.2242,160.2,2.4,ml,,,,0.4,ak,ak0243jkwbhb,2024-03-17T16:05:11.040Z,"65 km ENE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -137,7 +137,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T05:20:33.570Z,38.8308334,-122.8186646,1.79,1.27,md,13,51,0.01001,0.02,nc,nc74018701,2024-03-17T05:22:05.423Z,"8 km NW of The Geysers, CA",earthquake,0.28,0.71,0.2,13,automatic,nc,nc
 2024-03-17T05:16:45.779Z,61.601,-146.3208,37.1,1.6,ml,,,,0.9,ak,ak0243jfgf1d,2024-03-17T05:19:28.515Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-17T05:04:14.305Z,63.5715,-147.3105,0,1.8,ml,,,,0.63,ak,ak0243jfds0m,2024-03-17T05:05:59.437Z,"81 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-03-17T04:55:24.960Z,32.7623333,-115.4256667,8.35,1.5,ml,30,76,0.04641,0.31,ci,ci40688288,2024-03-17T05:02:14.776Z,"7 km SW of Holtville, CA",earthquake,0.47,0.86,0.203,27,automatic,ci,ci
+2024-03-17T04:55:24.780Z,32.7653333,-115.429,10.69,1.46,ml,28,67,0.0426,0.26,ci,ci40688288,2024-03-17T18:39:13.676Z,"7 km SW of Holtville, CA",earthquake,0.37,0.58,0.182,24,reviewed,ci,ci
+2024-03-17T04:55:13.880Z,32.7731667,-115.4338333,9.5,0.8,ml,11,172,0.03387,0.25,ci,ci37633412,2024-03-17T18:44:14.009Z,"7 km SW of Holtville, CA",earthquake,0.89,1.17,0.132,15,reviewed,ci,ci
 2024-03-17T04:24:41.450Z,38.7928352,-122.7486649,1.34,1.29,md,16,90,0.01162,0.05,nc,nc74018686,2024-03-17T04:26:15.692Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.43,0.24,16,automatic,nc,nc
 2024-03-17T04:03:19.945Z,12.3072,-87.6806,59.086,4.9,mb,61,143,0.752,1.01,us,us6000mje0,2024-03-17T05:50:09.163Z,"54 km SSW of Jiquilillo, Nicaragua",earthquake,6.14,6.329,0.024,574,reviewed,us,us
 2024-03-17T03:41:40.158Z,35.67471695,-97.39685822,4.156924725,1.68,ml,25,113.6259003,0.1220624149,0.3505397655,ok,ok2024fjdo,2024-03-17T13:51:14.457Z,"6 km W of Arcadia, Oklahoma",earthquake,2.373995184,1.998909727,0.17,8,automatic,ok,ok
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T19:24:47.186Z,39.3879,-120.194,11.2,0.5,ml,7,118.13,0.099,0.105,nn,nn00874902,2024-03-17T02:35:03.434Z,"6 km N of Truckee, California",earthquake,,3,0.12,2,reviewed,nn,nn
 2024-03-16T19:10:08.109Z,34.27241898,-97.57058716,0.8977819681,2.18,ml,22,55.96784973,0.1213826612,1.075229503,ok,ok2024fimr,2024-03-16T21:56:06.934Z,"8 km WNW of Healdton, Oklahoma",earthquake,2.704158803,1.743558046,0.23,10,automatic,ok,ok
 2024-03-16T18:57:09.642Z,63.0279,-151.074,105.2,1.7,ml,,,,3.19,ak,ak0243hzwez8,2024-03-16T18:59:19.526Z,"61 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-03-16T18:39:17.150Z,19.2000007629395,-155.398666381836,30.1800003051758,1.71000004,md,38,159,0.07459,0.140000001,hv,hv74138667,2024-03-16T18:40:54.870Z,"8 km E of Pāhala, Hawaii",earthquake,0.62,0.680000007,0.200000003,7,automatic,hv,hv
