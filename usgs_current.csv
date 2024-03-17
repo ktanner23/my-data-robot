@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-17T14:02:52.291Z,61.7378,-150.7337,3.7,1.8,ml,,,,0.76,ak,ak0243jkqbyl,2024-03-17T14:05:00.274Z,"24 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-03-17T13:53:44.800Z,35.909,-117.7436667,6.33,1.05,ml,27,44,0.07235,0.11,ci,ci40688432,2024-03-17T13:59:34.902Z,"15 km ESE of Little Lake, CA",earthquake,0.15,0.34,0.232,16,automatic,ci,ci
+2024-03-17T13:53:44.800Z,35.909,-117.7436667,6.33,1.05,ml,27,44,0.07235,0.11,ci,ci40688432,2024-03-17T14:16:37.400Z,"15 km ESE of Little Lake, CA",earthquake,0.15,0.34,0.232,16,reviewed,ci,ci
 2024-03-17T13:43:06.880Z,19.3026676177979,-155.347839355469,1.37000000476837,2,ml,36,117,0.03865,0.330000013,hv,hv74139452,2024-03-17T13:45:55.190Z,"17 km NE of Pāhala, Hawaii",earthquake,0.59,0.660000026,0.24,3,automatic,hv,hv
 2024-03-17T13:37:21.540Z,33.527,-118.3383333,-0.11,1.95,ml,33,117,0.1403,0.3,ci,ci40688424,2024-03-17T13:44:07.802Z,"20 km N of Avalon, CA",earthquake,0.62,1.76,0.115,33,automatic,ci,ci
 2024-03-17T13:36:29.096Z,14.2912,144.1008,10,4.9,mb,21,73,1.021,0.53,us,us6000mjft,2024-03-17T13:51:34.040Z,"111 km NW of Piti Village, Guam",earthquake,7.33,1.862,0.162,12,reviewed,us,us
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T12:34:30.452Z,31.569,-103.938,5.1944,1.6,ml,16,71,0,0.2,tx,tx2024fjvd,2024-03-17T13:12:23.983Z,"31 km NNW of Toyah, Texas",earthquake,0,2.549215540181,0.2,12,automatic,tx,tx
 2024-03-17T12:29:49.530Z,35.4345,-118.2681667,9.06,0.85,ml,30,52,0.1458,0.18,ci,ci40688416,2024-03-17T12:35:40.470Z,"26 km SE of Bodfish, CA",earthquake,0.22,0.7,0.105,10,automatic,ci,ci
 2024-03-17T12:25:16.572Z,31.595,-103.956,7.4285,2.1,ml,16,71,0,0.4,tx,tx2024fjuu,2024-03-17T12:40:06.402Z,"34 km NNW of Toyah, Texas",earthquake,0,2.2445719199075995,0.2,12,automatic,tx,tx
-2024-03-17T12:20:22.760Z,33.7168333,-116.8345,15.5,0.47,ml,34,92,0.08016,0.11,ci,ci40688408,2024-03-17T12:26:27.300Z,"6 km ESE of Valle Vista, CA",earthquake,0.19,0.29,0.126,7,automatic,ci,ci
+2024-03-17T12:20:22.760Z,33.7168333,-116.8345,15.5,0.47,ml,34,92,0.08016,0.11,ci,ci40688408,2024-03-17T14:16:42.251Z,"6 km ESE of Valle Vista, CA",earthquake,0.19,0.29,0.126,7,reviewed,ci,ci
 2024-03-17T12:12:47.690Z,35.6248333,-117.436,2.68,0.95,ml,29,59,0.04142,0.14,ci,ci40688400,2024-03-17T12:18:36.348Z,"16 km S of Searles Valley, CA",earthquake,0.15,0.2,0.187,10,automatic,ci,ci
 2024-03-17T12:10:39.990Z,38.8269997,-122.8533325,1.17,1.09,md,15,140,0.01481,0.02,nc,nc74018896,2024-03-17T12:12:13.423Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.5,0.16,16,automatic,nc,nc
 2024-03-17T12:07:10.380Z,33.4441667,-116.6873333,10.97,0.32,ml,30,35,0.0872,0.15,ci,ci40688392,2024-03-17T12:13:58.204Z,"12 km S of Anza, CA",earthquake,0.17,0.43,0.058,3,automatic,ci,ci
@@ -55,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T08:58:54.611Z,14.2785,144.2275,10.144,4.7,mb,37,79,0.925,0.5,us,us6000mjet,2024-03-17T09:13:27.040Z,"103 km NNW of Piti Village, Guam",earthquake,7.4,4.451,0.097,32,reviewed,us,us
 2024-03-17T08:55:13.410Z,19.3978328704834,-155.274673461914,0.720000028610229,1.94,ml,17,44,0.002638,0.170000002,hv,hv74139277,2024-03-17T08:57:51.770Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.150000006,0.21,7,automatic,hv,hv
 2024-03-17T08:48:25.800Z,38.7858315,-122.7668304,1.56,0.77,md,9,156,0.01511,0.05,nc,nc74018851,2024-03-17T08:49:58.394Z,"1 km NW of The Geysers, CA",earthquake,1.63,1.48,0.2,9,automatic,nc,nc
+2024-03-17T08:42:21.596Z,39.3563,-119.9731,7.5,-0.1,ml,4,144.42,0.08,0.0282,nn,nn00874925,2024-03-17T14:19:54.231Z,"5 km SE of Floriston, California",earthquake,,3.1,0.32,3,reviewed,nn,nn
 2024-03-17T08:27:41.549Z,34.27951431,-97.54042053,0.2890284359,2.54,ml,68,39.13342285,0.1005183756,0.957313768,ok,ok2024fjmz,2024-03-17T08:33:57.370Z,"7 km NW of Healdton, Oklahoma",earthquake,1.935492615,1.372604723,0.26,30,automatic,ok,ok
 2024-03-17T08:23:51.151Z,0.7274,-27.9261,10,4.7,mb,29,100,10.286,0.58,us,us6000mjep,2024-03-17T08:40:06.040Z,"central Mid-Atlantic Ridge",earthquake,13.9,1.915,0.11,25,reviewed,us,us
 2024-03-17T08:16:08.210Z,38.8110008,-122.8078308,1.37,1.08,md,16,61,0.01025,0.02,nc,nc74018841,2024-03-17T08:17:42.880Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.51,0.16,19,automatic,nc,nc
@@ -64,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T08:08:57.790Z,38.7915001,-122.7808304,1.22,1.09,md,18,93,0.005787,0.02,nc,nc74018826,2024-03-17T08:10:32.818Z,"3 km NW of The Geysers, CA",earthquake,0.21,0.38,0.18,18,automatic,nc,nc
 2024-03-17T08:02:28.050Z,35.6361667,-117.4688333,5.82,0.88,ml,33,56,0.04674,0.12,ci,ci40688344,2024-03-17T08:08:13.814Z,"16 km SSW of Searles Valley, CA",earthquake,0.14,0.36,0.15,10,automatic,ci,ci
 2024-03-17T07:57:32.090Z,35.636,-117.4705,5.08,0.82,ml,30,55,0.04792,0.14,ci,ci40688336,2024-03-17T08:03:32.515Z,"16 km SSW of Searles Valley, CA",earthquake,0.16,0.33,0.109,7,automatic,ci,ci
+2024-03-17T07:56:59.442Z,39.6684,-119.6005,9.7,0.6,ml,7,104.31,0.171,0.0791,nn,nn00874924,2024-03-17T14:16:47.207Z,"9 km ENE of Spanish Springs, Nevada",earthquake,,3.9,0.6,5,reviewed,nn,nn
 2024-03-17T07:56:59.020Z,38.7876663,-122.7791672,-0.12,2.07,md,8,157,0.01991,0.05,nc,nc74018816,2024-03-17T07:58:33.579Z,"2 km WNW of The Geysers, CA",earthquake,0.41,1.25,0.05,5,automatic,nc,nc
 2024-03-17T07:56:52.810Z,38.7916679,-122.7799988,1.2,2.09,md,31,80,0.0182,0.06,nc,nc74018811,2024-03-17T07:59:53.200Z,"3 km NW of The Geysers, CA",earthquake,0.19,0.33,0.13,29,automatic,nc,nc
 2024-03-17T07:56:17.700Z,38.7923317,-122.7818298,1.71,2.18,md,18,108,0.004832,0.03,nc,nc74018801,2024-03-17T07:57:53.625Z,"3 km NW of The Geysers, CA",earthquake,0.22,0.44,0.3,18,automatic,nc,nc
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-16T14:23:21.610Z,38.8286667,-122.8191681,3.99,0.74,md,10,197,0.008841,0.04,nc,nc74018371,2024-03-16T14:24:58.015Z,"8 km NW of The Geysers, CA",earthquake,0.78,1.81,0.17,10,automatic,nc,nc
 2024-03-16T14:21:43.773Z,64.4361,-146.7135,16.8,0.9,ml,,,,1.04,ak,ak0243hxb1ex,2024-03-16T14:24:44.202Z,"9 km NW of Harding-Birch Lakes, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-16T14:21:40.060Z,33.2586667,-115.9988333,4.56,1.12,ml,50,66,0.02398,0.18,ci,ci40688016,2024-03-16T15:00:38.569Z,"6 km SW of Salton City, CA",earthquake,0.15,0.35,0.198,28,reviewed,ci,ci
-2024-03-16T14:17:43.240Z,55.8329,-158.7935,60.2,3,ml,,,,0.29,ak,ak0243hxa6ic,2024-03-16T15:07:25.040Z,"23 km ESE of Perryville, Alaska",earthquake,,0.9,,,automatic,ak,ak
