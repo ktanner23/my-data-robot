@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-18T16:14:37.760Z,38.7783318,-122.7416687,0.52,0.89,md,5,141,0.006239,0.04,nc,nc74019406,2024-03-18T16:16:14.600Z,"1 km E of The Geysers, CA",earthquake,0.56,0.68,0.33,6,automatic,nc,nc
 2024-03-18T15:43:24.210Z,38.7828331,-122.7389984,-0.83,1.08,md,7,133,0.001822,0.16,nc,nc74019396,2024-03-18T15:44:59.218Z,"2 km ENE of The Geysers, CA",earthquake,0.57,3.82,0.21,7,automatic,nc,nc
 2024-03-18T15:41:35.340Z,38.8441658,-122.8164978,1.97,0.39,md,7,118,0.01177,0.01,nc,nc74019391,2024-03-18T15:43:09.177Z,"8 km WNW of Cobb, CA",earthquake,0.44,1.38,0.27,8,automatic,nc,nc
 2024-03-18T15:32:01.210Z,33.5953333,-116.6396667,12.02,0.53,ml,26,50,0.02958,0.11,ci,ci40689040,2024-03-18T15:38:11.728Z,"6 km NE of Anza, CA",earthquake,0.2,0.28,0.082,11,automatic,ci,ci
@@ -17,7 +18,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-18T13:14:23.939Z,-7.22,38.7315,10,4.4,mb,15,95,4.877,1.45,us,us6000mjkm,2024-03-18T14:26:47.040Z,"6 km WSW of Maneromango, Tanzania",earthquake,7.07,1.938,0.22,6,reviewed,us,us
 2024-03-18T13:09:10.280Z,37.6469994,-119.0218353,-0.29,0.78,md,9,112,0.007078,0.02,nc,nc74019336,2024-03-18T13:10:44.447Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.37,0.43,0.11,9,automatic,nc,nc
 2024-03-18T13:03:07.783Z,61.3582,-150.6596,45.6,2.2,ml,,,,0.72,ak,ak0243l7od4l,2024-03-18T13:06:49.029Z,"22 km SSW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-03-18T13:01:55.668Z,61.2325,-146.8947,0,2.1,ml,,,,1.53,ak,ak0243l7o1e6,2024-03-18T13:04:15.134Z,"31 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-18T12:51:20.420Z,44.35,-116.100833333333,3.67,1.5,ml,8,64,0.3441,0.45,mb,mb90043318,2024-03-18T14:11:21.080Z,"5 km N of Smiths Ferry, Idaho",earthquake,1.2,8,0.203762987852217,8,reviewed,mb,mb
 2024-03-18T12:43:40.368Z,62.793,-150.752,97.6,1.5,ml,,,,0.37,ak,ak0243l7bkok,2024-03-18T12:46:31.514Z,"33 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-03-18T12:35:18.370Z,38.8236656,-122.8059998,1.61,1.08,md,19,41,0.003194,0.01,nc,nc74019326,2024-03-18T12:36:54.130Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.46,0.23,20,automatic,nc,nc
@@ -35,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-18T10:38:05.073Z,37.2572,-116.174,5.2,0.2,ml,11,245.67,0.053,0.1176,nn,nn00874963,2024-03-18T12:02:45.641Z,"57 km SW of Rachel, Nevada",earthquake,,2.1,0.22,9,reviewed,nn,nn
 2024-03-18T10:37:43.020Z,38.8373337,-122.8353348,2.06,1.2,md,21,53,0.001259,0.01,nc,nc74019286,2024-03-18T10:39:18.886Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.48,0.17,22,automatic,nc,nc
 2024-03-18T10:35:16.700Z,38.8258324,-122.8059998,1.55,0.76,md,10,71,0.004006,0.01,nc,nc74019281,2024-03-18T10:36:53.824Z,"7 km NW of The Geysers, CA",earthquake,0.34,1.32,0.23,12,automatic,nc,nc
+2024-03-18T10:33:19.815Z,36.7531,-116.2745,8.9,-0.3,ml,7,133.36,0.015,0.036,nn,nn00874979,2024-03-18T16:14:29.178Z,"46 km ESE of Beatty, Nevada",earthquake,,2,0.13,4,reviewed,nn,nn
 2024-03-18T10:31:36.820Z,35.6443333,-117.4608333,6.6,0.62,ml,22,64,0.03666,0.15,ci,ci40688832,2024-03-18T10:37:27.503Z,"15 km SSW of Searles Valley, CA",earthquake,0.25,0.43,0.19,4,automatic,ci,ci
 2024-03-18T10:23:29.610Z,32.8323333,-116.0366667,8.22,1.22,ml,52,33,0.06502,0.23,ci,ci40688824,2024-03-18T10:34:42.610Z,"12 km NNW of Ocotillo, CA",earthquake,0.18,0.56,0.146,28,automatic,ci,ci
 2024-03-18T10:21:27.260Z,32.8348333,-116.0348333,8.71,0.96,ml,35,39,0.06778,0.23,ci,ci40688816,2024-03-18T10:27:33.441Z,"12 km NNW of Ocotillo, CA",earthquake,0.23,0.53,0.171,10,automatic,ci,ci
@@ -203,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-17T16:40:23.689Z,36.796,-116.0233,8.3,-0.1,ml,5,147.62,0.038,0.0514,nn,nn00874934,2024-03-17T22:59:45.116Z,"40 km NW of Indian Springs, Nevada",earthquake,,5.2,0,1,reviewed,nn,nn
 2024-03-17T16:35:42.300Z,18.6643333333333,-66.345,72.28,3.09,md,26,207,0.2556,0.22,pr,pr71443183,2024-03-17T17:11:13.420Z,"21 km N of Brenas, Puerto Rico",earthquake,1.04,1.09,0.131539457510458,15,reviewed,pr,pr
 2024-03-17T16:33:28.830Z,18.5843333333333,-66.7575,88.16,3.12,md,34,201,0.2023,0.19,pr,pr71443178,2024-03-17T16:56:45.850Z,"11 km NNE of Carrizales, Puerto Rico",earthquake,0.75,0.51,0.0735674001412669,16,reviewed,pr,pr
-2024-03-17T16:22:06.209Z,31.515,-104.004,5.4796,1.6,ml,14,67,0,0.2,tx,tx2024fkcq,2024-03-17T16:55:23.680Z,"29 km NW of Toyah, Texas",earthquake,0,2.4635142566105,0.1,12,automatic,tx,tx
-2024-03-17T16:16:58.018Z,-9.4791,113.1841,46.033,4.5,mb,17,90,1.385,0.64,us,us6000mjgi,2024-03-17T17:13:51.040Z,"133 km S of Kencong, Indonesia",earthquake,7.99,13.423,0.156,12,reviewed,us,us
-2024-03-17T16:16:38.562Z,47.7492,156.4658,10,4.8,mb,59,136,5.423,0.69,us,us6000mjgj,2024-03-17T17:06:53.040Z,"east of the Kuril Islands",earthquake,7.84,1.893,0.044,161,reviewed,us,us
