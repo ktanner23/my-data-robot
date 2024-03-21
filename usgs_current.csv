@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-03-21T22:20:03.220Z,33.6393333,-116.7083333,12.65,1.01,ml,41,37,0.04122,0.16,ci,ci40521311,2024-03-21T22:26:18.104Z,"10 km NNW of Anza, CA",earthquake,0.18,0.32,0.22,32,automatic,ci,ci
-2024-03-21T22:14:00.706Z,31.642,-104.015,5.275,2,ml,14,106,0,0.3,tx,tx2024frwg,2024-03-21T22:24:20.171Z,"40 km W of Mentone, Texas",earthquake,0,2.33251958235752,0.2,10,automatic,tx,tx
+2024-03-21T22:14:00.498Z,31.647,-104.023,5.9076,1.9,ml,25,40,0,0.1,tx,tx2024frwg,2024-03-21T22:34:26.261Z,"40 km W of Mentone, Texas",earthquake,0.4154515194375269,0.4055642450259506,0.1,15,reviewed,tx,tx
 2024-03-21T21:54:38.746Z,60.0027,-152.7881,94.1,1.1,ml,,,,0.16,ak,ak0243qbcvcy,2024-03-21T21:56:19.898Z,"59 km WNW of Anchor Point, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-03-21T21:52:25.338Z,31.669,-104.204,4.2175,1.6,ml,11,153,0.1,0.2,tx,tx2024frvo,2024-03-21T22:25:21.188Z,"55 km NW of Toyah, Texas",earthquake,0,1.5004712000482,0.2,9,automatic,tx,tx
 2024-03-21T21:42:29.582Z,64.5879,-148.9046,0,0.8,ml,,,,0.91,ak,ak0243qbaa26,2024-03-21T21:44:02.016Z,"9 km ENE of Nenana, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-03-21T21:40:51.130Z,33.314,-116.8963333,16.63,1.79,ml,71,24,0.04854,0.2,ci,ci40521279,2024-03-21T21:51:55.390Z,"6 km SSW of Palomar Observatory, CA",earthquake,0.16,0.41,0.181,26,automatic,ci,ci
+2024-03-21T21:40:51.040Z,33.3146667,-116.8971667,17.37,1.8,ml,63,24,0.04841,0.18,ci,ci40521279,2024-03-21T22:37:56.381Z,"6 km SW of Palomar Observatory, CA",earthquake,0.16,0.4,0.174,24,reviewed,ci,ci
 2024-03-21T21:36:33.226Z,63.1451,-150.4125,102.8,2.4,ml,,,,0.47,ak,ak0243qb900p,2024-03-21T21:50:00.040Z,"74 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-21T21:31:19.231Z,61.5567,-146.403,30,1.4,ml,,,,0.86,ak,ak0243qb7wdv,2024-03-21T21:33:40.266Z,"47 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-21T21:22:03.015Z,31.631,-104.369,6.1255,1.8,ml,22,63,0.1,0.2,tx,tx2024fruo,2024-03-21T22:03:29.084Z,"60 km S of Whites City, New Mexico",earthquake,0.9154190458339484,0.9335086262707731,0.1,12,reviewed,tx,tx
@@ -88,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T12:23:24.200Z,35.68,-118.2016667,8.6,1.2,ml,29,61,0.03669,0.12,ci,ci40520703,2024-03-21T13:19:56.380Z,"22 km ESE of Kernville, CA",earthquake,0.15,0.37,0.178,20,reviewed,ci,ci
 2024-03-21T12:18:37.490Z,64.4801,-146.9146,0.3,1.5,ml,,,,0.56,ak,ak0243q5s91h,2024-03-21T12:20:32.100Z,"4 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-21T12:10:06.445Z,36.7991,-116.1089,6.6,0.1,ml,7,181.25,0.018,0.0318,nn,nn00875144,2024-03-21T15:38:54.235Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.46,2,reviewed,nn,nn
+2024-03-21T11:59:52.840Z,60.0261666666667,-153.065,-2.19,-0.63,ml,5,111,,0.09,av,av92237741,2024-03-21T22:31:41.660Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.28,2.28,0.366728342997682,5,reviewed,av,av
 2024-03-21T11:56:38.790Z,38.7931671,-122.7304993,1.37,2.34,md,45,52,0.01104,0.1,nc,nc74021371,2024-03-21T11:59:45.240Z,"3 km NE of The Geysers, CA",earthquake,0.18,0.4,0.15,46,automatic,nc,nc
 2024-03-21T11:47:11.230Z,19.2323341369629,-155.470993041992,30.5400009155273,1.98000002,md,43,95,0.03089,0.119999997,hv,hv74144017,2024-03-21T12:04:40.218Z,"3 km NNE of Pāhala, Hawaii",earthquake,0.46,0.610000014,0.189999998,8,automatic,hv,hv
 2024-03-21T11:33:39.390Z,34.3766667,-118.6315,10.07,0.81,ml,20,94,0.03588,0.2,ci,ci40520679,2024-03-21T17:33:25.321Z,"10 km SSW of Valencia, CA",earthquake,0.34,0.84,0.134,12,reviewed,ci,ci
@@ -102,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T11:06:58.121Z,36.8021,-116.1104,6.7,-0.2,ml,7,193.16,0.017,0.0232,nn,nn00875142,2024-03-21T15:35:40.298Z,"47 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.33,2,reviewed,nn,nn
 2024-03-21T11:06:17.760Z,19.1299991607666,-155.378326416016,28.9799995422363,1.70000005,md,38,185,0.08315,0.129999995,hv,hv74143992,2024-03-21T11:07:54.840Z,"13 km SE of Pāhala, Hawaii",earthquake,0.65,0.779999971,0.180000007,4,automatic,hv,hv
 2024-03-21T11:05:10.171Z,36.8009,-116.1097,6.5,-0.1,ml,7,188.18,0.017,0.0234,nn,nn00875140,2024-03-21T15:29:21.119Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.3,0.25,2,reviewed,nn,nn
+2024-03-21T11:05:04.050Z,60.0568333333333,-153.072166666667,0.59,-0.73,ml,5,167,,0.04,av,av92237701,2024-03-21T22:34:27.350Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.65,0.29,0.212918737140372,5,reviewed,av,av
 2024-03-21T11:04:57.050Z,38.8465004,-122.81633,1.28,0.61,md,10,84,0.00982,0.02,nc,nc74021301,2024-03-21T11:06:31.879Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.93,0.39,11,automatic,nc,nc
 2024-03-21T11:04:32.660Z,33.5146667,-116.7576667,4.32,0.29,ml,28,40,0.03573,0.13,ci,ci40520631,2024-03-21T20:38:00.423Z,"9 km WSW of Anza, CA",earthquake,0.17,0.27,0.163,8,reviewed,ci,ci
 2024-03-21T11:03:48.179Z,36.7975,-116.1101,6.6,0,ml,9,179.05,0.02,0.0529,nn,nn00875139,2024-03-21T15:29:16.317Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.1,0.11,3,reviewed,nn,nn
