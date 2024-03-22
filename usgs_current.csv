@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T09:00:21.420Z,36.0651667,-117.4338333,1.39,0.78,ml,17,109,0.211,0.16,ci,ci40521815,2024-03-22T09:06:08.910Z,"33 km N of Searles Valley, CA",earthquake,0.28,1.25,0.235,6,automatic,ci,ci
 2024-03-22T08:57:49.782Z,64.4931,-146.9102,3.4,1.7,ml,,,,0.6,ak,ak0243rr68zm,2024-03-22T08:59:37.645Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-22T08:57:35.730Z,44.3718333333333,-116.104666666667,8.96,1.6,ml,9,88,0.1811,0.1,mb,mb90043843,2024-03-22T14:04:08.490Z,"7 km N of Smiths Ferry, Idaho",earthquake,0.42,1.42,0.259762999569881,11,reviewed,mb,mb
-2024-03-22T08:52:58.702Z,-5.8668,112.3622,8.498,6.4,mww,80,39,2.242,0.87,us,us6000mkfz,2024-03-22T14:22:03.124Z,"111 km N of Paciran, Indonesia",earthquake,6.82,3.866,0.047,44,reviewed,us,us
+2024-03-22T08:52:58.702Z,-5.8668,112.3622,8.498,6.4,mww,80,39,2.242,0.87,us,us6000mkfz,2024-03-22T14:32:23.105Z,"111 km N of Paciran, Indonesia",earthquake,6.82,3.866,0.047,44,reviewed,us,us
 2024-03-22T08:51:59.900Z,19.4728336334229,-155.442840576172,0.939999997615814,1.75,md,35,72,0.0573,0.209999993,hv,hv74145202,2024-03-22T08:53:32.860Z,"22 km W of Volcano, Hawaii",earthquake,0.4,1.20000005,0.289999992,8,automatic,hv,hv
 2024-03-22T08:50:28.700Z,61.7418,-150.8211,50.7,2.4,ml,,,,0.69,ak,ak0243rr4pcm,2024-03-22T09:27:13.040Z,"27 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-22T08:48:53.338Z,61.3673,-151.623,61.8,2.2,ml,,,,0.33,ak,ak0243rr4bth,2024-03-22T09:25:08.040Z,"38 km NW of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -142,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-22T00:06:02.650Z,57.025,-135.637833333333,4.18,-0.3,ml,4,194,,0.09,av,av91137328,2024-03-22T00:20:13.100Z,"18 km W of Sitka, Alaska",earthquake,1.12,1.68,0.235014103445649,4,reviewed,av,av
 2024-03-22T00:05:50.310Z,57.0361666666667,-135.634166666667,5.48,-0.08,ml,4,183,,0.04,av,av92238186,2024-03-22T00:17:36.500Z,"18 km W of Sitka, Alaska",earthquake,0.89,1.04,0.0815741398272986,4,reviewed,av,av
 2024-03-21T23:38:55.726Z,59.9666,-152.5824,95.8,1.3,ml,,,,0.86,ak,ak0243qcgc6d,2024-03-21T23:41:00.550Z,"47 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-03-21T23:22:25.750Z,44.702,-113.723166666667,7.25,0.91,ml,7,164,0.3906,0.1,mb,mb90043863,2024-03-22T14:32:20.520Z,"29 km W of Leadore, Idaho",earthquake,0.62,3.5,0.119482110645981,5,reviewed,mb,mb
 2024-03-21T23:18:08.620Z,33.5651667,-116.6036667,14.55,0.7,ml,27,56,0.0225,0.12,ci,ci40521383,2024-03-22T00:08:00.979Z,"7 km E of Anza, CA",earthquake,0.18,0.27,0.096,9,reviewed,ci,ci
 2024-03-21T23:15:48.430Z,53.871,-166.586333333333,4.09,0.37,ml,7,147,,0.1,av,av92238161,2024-03-21T23:49:46.080Z,"3 km W of Unalaska, Alaska",earthquake,0.34,0.9,0.319590360798314,7,reviewed,av,av
 2024-03-21T23:01:14.810Z,38.7688332,-122.7314987,1.15,1.14,md,14,71,0.008899,0.03,nc,nc74021751,2024-03-21T23:02:50.327Z,"2 km ESE of The Geysers, CA",earthquake,0.27,0.33,0.11,14,automatic,nc,nc
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-21T14:49:26.821Z,63.5324,-150.1687,25.3,1.7,ml,,,,1.22,ak,ak0243q75qmi,2024-03-21T14:51:51.159Z,"62 km WNW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-21T14:45:55.660Z,35.9968333,-117.9513333,1.33,1.12,ml,30,67,0.05059,0.13,ci,ci40520791,2024-03-21T20:49:31.450Z,"5 km S of Coso Junction, CA",earthquake,0.16,0.24,0.153,16,reviewed,ci,ci
 2024-03-21T14:41:54.070Z,19.2373333333333,-155.388333333333,32.3,2.13,md,49,143,0.008669,0.12,hv,hv74144157,2024-03-21T18:44:35.860Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.5,0.6,0.176746351371053,24,reviewed,hv,hv
-2024-03-21T14:38:00.578Z,36.799,-116.1104,6.7,0.1,ml,6,183.55,0.019,0.024,nn,nn00875152,2024-03-22T02:04:37.699Z,"46 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.23,2,reviewed,nn,nn
