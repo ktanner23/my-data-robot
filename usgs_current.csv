@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-03-27T13:58:16.518Z,62.3031,-149.0736,32.9,1.2,ml,,,,0.58,ak,ak024403uamr,2024-03-27T14:01:07.085Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T13:51:44.070Z,60.4261,-141.3332,9.4,1.4,ml,,,,0.47,ak,ak024403suqv,2024-03-27T13:53:19.350Z,"132 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-03-27T13:49:18.102Z,-20.7415,173.8249,8.144,5.4,mww,78,74,4.983,0.72,us,us7000m8an,2024-03-27T14:07:22.040Z,"Vanuatu region",earthquake,8.68,4.142,0.065,23,reviewed,us,us
 2024-03-27T13:48:20.206Z,61.1519,-146.6661,38.3,1.3,ml,,,,0.73,ak,ak024403s5r8,2024-03-27T13:50:18.808Z,"17 km W of Valdez, Alaska",earthquake,,6.4,,,automatic,ak,ak
 2024-03-27T13:41:13.700Z,60.4193,-141.3332,7.1,1.5,ml,,,,0.52,ak,ak024403qn8q,2024-03-27T13:43:18.772Z,"132 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-03-27T13:36:04.930Z,32.5128333,-116.925,12.89,1.43,ml,28,120,0.09471,0.18,ci,ci40700080,2024-03-27T13:43:07.678Z,"9 km ESE of Tijuana, B.C., MX",earthquake,0.35,0.55,0.239,22,automatic,ci,ci
@@ -104,10 +106,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T03:14:25.623Z,42.362,-126.4759,10,3.9,mb,50,194,1.578,0.99,us,us7000m872,2024-03-27T04:27:32.040Z,"167 km WSW of Port Orford, Oregon",earthquake,8.8,2.002,0.23,5,reviewed,us,us
 2024-03-27T03:03:54.964Z,-4.085,143.2728,10,4.9,mb,51,82,11.064,0.91,us,us7000m870,2024-03-27T03:59:18.040Z,"52 km ENE of Ambunti, Papua New Guinea",earthquake,7.25,1.728,0.068,68,reviewed,us,us
 2024-03-27T03:02:31.200Z,19.2385005950928,-155.421829223633,32.3199996948242,2.28999996,md,43,128,0.07355,0.129999995,hv,hv74150877,2024-03-27T03:04:23.000Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.45,0.620000005,0.349999994,14,automatic,hv,hv
-2024-03-27T02:49:59.707Z,59.7719,-151.0577,44.4,1.4,ml,,,,0.26,ak,ak0243zx8ov6,2024-03-27T02:52:02.832Z,"11 km SSW of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-03-27T02:39:43.260Z,19.1806659698486,-155.482330322266,29.2299995422363,1.72000003,md,25,125,0.03156,0.200000003,hv,hv74150862,2024-03-27T02:41:37.550Z,"2 km S of Pāhala, Hawaii",earthquake,0.9,1.19000006,0.0799999982,3,automatic,hv,hv
 2024-03-27T02:38:05.970Z,47.431333333333335,-121.80916666666667,19.98,1.79,ml,38,87,0.007399,0.16,uw,uw61992646,2024-03-27T03:49:48.950Z,"3 km WSW of Wilderness Rim, Washington",earthquake,0.45,0.35,0.10077874121368513,28,reviewed,uw,uw
-2024-03-27T02:33:03.869Z,60.9766,-151.4015,79.6,1.9,ml,,,,0.27,ak,ak0243zx553m,2024-03-27T02:35:17.831Z,"17 km SW of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-03-27T02:29:19.814Z,62.2796,-150.4035,8,1.5,ml,,,,0.74,ak,ak0243zx4bgt,2024-03-27T02:32:11.420Z,"9 km WSW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-27T02:03:29.301Z,46.1843,153.3697,10,4.9,mb,47,180,7.354,0.69,us,us7000m86q,2024-03-27T02:23:57.040Z,"Kuril Islands",earthquake,9.66,1.923,0.038,223,reviewed,us,us
 2024-03-27T01:58:55.790Z,19.3486671447754,-155.142837524414,3.61999988555908,1.73,ml,39,110,0.03958,0.25999999,hv,hv74150817,2024-03-27T02:01:34.150Z,"12 km S of Fern Forest, Hawaii",earthquake,0.5,1.73000002,0.39,6,automatic,hv,hv
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-26T14:18:23.009Z,61.5919,-148.2586,20,0.9,ml,,,,0.38,ak,ak0243ygntlo,2024-03-26T14:20:40.564Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-26T14:14:38.960Z,38.8300018,-122.8153305,2.23,0.77,md,11,60,0.00777,0.01,nc,nc74024351,2024-03-26T14:16:13.643Z,"8 km NW of The Geysers, CA",earthquake,0.38,1.33,0.31,12,automatic,nc,nc
 2024-03-26T14:08:43.990Z,19.3955,-155.275166666667,1.54,1.93,ml,33,41,0.001444,0.11,hv,hv74150217,2024-03-26T23:25:37.310Z,"6 km SW of Volcano, Hawaii",earthquake,0.18,0.15,0.18023499643944,15,reviewed,hv,hv
-2024-03-26T14:07:46.360Z,19.3931674957275,-155.269332885742,1.02999997138977,1.86,ml,21,40,0.00462,0.349999994,hv,hv74150212,2024-03-26T14:10:30.190Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.230000004,0.31,12,automatic,hv,hv
-2024-03-26T13:58:19.660Z,33.9543333,-116.3966667,3.04,1.5,ml,49,53,0.01693,0.18,ci,ci40524775,2024-03-26T14:09:22.990Z,"10 km E of Desert Hot Springs, CA",earthquake,0.17,0.26,0.157,27,automatic,ci,ci
