@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T15:28:34.130Z,38.8148346,-122.8168335,0.29,0.78,md,13,60,0.01005,0.02,nc,nc74025506,2024-03-28T15:30:08.943Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.66,0.42,13,automatic,nc,nc
 2024-03-28T15:09:43.380Z,38.8358345,-122.8208313,2.7,1.1,md,23,70,0.01177,0.05,nc,nc74025486,2024-03-28T15:11:17.787Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.54,0.18,25,automatic,nc,nc
 2024-03-28T15:08:44.590Z,19.0516662597656,-155.367660522461,32.2799987792969,1.89999998,md,44,207,0.1365,0.140000001,hv,hv74152587,2024-03-28T15:10:43.030Z,"20 km SE of Pāhala, Hawaii",earthquake,0.74,0.860000014,0.140000001,8,automatic,hv,hv
-2024-03-28T15:07:55.210Z,35.66583333,-97.3895,6.82,3.06,ml,96,39,0,0.13,ok,ok2024gecs,2024-03-28T15:47:45.069Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.2,38,reviewed,ok,ok
+2024-03-28T15:07:55.210Z,35.66583333,-97.3895,6.82,3.06,ml,96,39,0,0.13,ok,ok2024gecs,2024-03-28T15:57:01.979Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.2,0.2,38,reviewed,ok,ok
 2024-03-28T15:03:47.824Z,57.5613,-155.627,15.2,1.6,ml,,,,0.36,ak,ak02441s8sda,2024-03-28T15:05:17.665Z,"70 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-28T14:53:23.500Z,38.8076668,-122.8221664,2.38,0.76,md,9,70,0.005608,0.01,nc,nc74025481,2024-03-28T14:54:58.496Z,"7 km WNW of The Geysers, CA",earthquake,0.43,0.93,0.17,11,automatic,nc,nc
 2024-03-28T14:50:20.060Z,19.0628337860107,-155.400833129883,32.9599990844727,2.49000001,md,35,233,0.1088,0.129999995,hv,hv74152567,2024-03-28T14:52:06.000Z,"17 km SSE of Pāhala, Hawaii",earthquake,1.06,0.74000001,0.310000002,4,automatic,hv,hv
@@ -29,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T12:50:45.180Z,19.1544990539551,-155.47883605957,30.9200000762939,2.20000005,md,40,139,0.01584,0.129999995,hv,hv74152487,2024-03-28T12:52:27.590Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,0.839999974,0.189999998,8,automatic,hv,hv
 2024-03-28T12:46:15.190Z,38.8363342,-122.8121643,1.76,0.7,md,10,72,0.01302,0,nc,nc74025436,2024-03-28T12:47:52.110Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.06,0.35,12,automatic,nc,nc
 2024-03-28T12:21:15.860Z,35.977,-117.3395,0.69,1.98,ml,28,71,0.2539,0.18,ci,ci40700928,2024-03-28T12:32:28.400Z,"24 km N of Trona, CA",earthquake,0.28,0.91,0.115,25,automatic,ci,ci
-2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T15:48:41.352Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
+2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T15:56:42.699Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
 2024-03-28T12:08:04.137Z,63.1431,-150.9086,129.3,2.4,ml,,,,0.31,ak,ak02441qhgqd,2024-03-28T12:10:18.459Z,"60 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-28T11:55:57.670Z,58.1781666666667,-155.335,1.58,-0.74,ml,5,168,0.03214,0.04,av,av93000199,2024-03-28T15:38:50.130Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.39,0.0919102377451807,5,reviewed,av,av
 2024-03-28T11:55:33.540Z,58.1775,-155.336833333333,1.33,-0.5,ml,6,170,0.03292,0.06,av,av93070336,2024-03-28T15:34:52.850Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.79,0.135054023749135,6,reviewed,av,av
@@ -120,7 +120,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T02:07:29.186Z,56.9501,-154.9314,6.1,1.9,ml,,,,0.51,ak,ak02441kiyxi,2024-03-28T02:09:26.350Z,"46 km W of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-03-28T02:05:40.700Z,34.93516667,-96.0095,5,1.51,ml,53,85,0.3536306056,0.27,ok,ok2024gdcx,2024-03-28T12:18:23.032Z,"4 km W of Arpelar, Oklahoma",earthquake,,0.9,0.29,18,reviewed,ok,ok
 2024-03-28T02:04:32.280Z,38.8084984,-122.8098297,15.98,0.68,md,8,229,0.01136,0.13,nc,nc74025251,2024-03-28T02:06:05.789Z,"6 km NW of The Geysers, CA",earthquake,2.48,1.7,0.17,6,automatic,nc,nc
-2024-03-28T02:01:47.042Z,31.65,-104.3,4.2752,1.5,ml,18,68,0,0.2,tx,tx2024gdcu,2024-03-28T02:22:28.061Z,"58 km S of Whites City, New Mexico",earthquake,0,1.28684376593949,0.2,13,automatic,tx,tx
 2024-03-28T01:50:45.350Z,33.7808333,-116.122,5.33,0.99,ml,35,39,0.1351,0.14,ci,ci40700776,2024-03-28T01:56:59.936Z,"11 km NE of Indio, CA",earthquake,0.15,1.09,0.143,22,automatic,ci,ci
 2024-03-28T01:49:09.040Z,38.8163338,-122.8143311,7.73,1.1,md,20,45,0.007796,0.14,nc,nc74025246,2024-03-28T01:50:46.647Z,"7 km NW of The Geysers, CA",earthquake,0.73,1.83,0.12,19,automatic,nc,nc
 2024-03-28T01:45:07.200Z,44.3673333333333,-116.130333333333,9.01,1.68,ml,8,91,0.1896,0.1,mb,mb90044303,2024-03-28T15:06:21.060Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.48,1.19,0.28700757616211,7,reviewed,mb,mb
@@ -228,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T16:43:03.603Z,62.5505,-152.2048,0,1.8,ml,,,,0.75,ak,ak024405jcpk,2024-03-27T16:45:11.048Z,"74 km W of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-27T16:27:05.205Z,61.7628,-150.8327,47.4,1.4,ml,,,,0.42,ak,ak024405fxdk,2024-03-27T16:29:06.902Z,"29 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-03-27T16:25:05.290Z,33.884,-116.8825,14.03,1.25,ml,47,34,0.08687,0.12,ci,ci40700224,2024-03-27T17:14:29.000Z,"5 km S of Banning, CA",earthquake,0.12,0.31,0.133,28,reviewed,ci,ci
-2024-03-27T15:55:27.440Z,38.8370018,-122.814003,15.87,0.81,md,8,135,0.01393,0.06,nc,nc74024996,2024-03-27T15:57:00.633Z,"8 km WNW of Cobb, CA",earthquake,3.13,2.63,0.31,9,automatic,nc,nc
-2024-03-27T15:54:54.582Z,66.2923,-157.2674,5.1,2.6,ml,,,,0.88,ak,ak0244050j9r,2024-03-28T06:29:27.455Z,"66 km S of Shungnak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
