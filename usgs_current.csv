@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T12:50:45.180Z,19.1544990539551,-155.47883605957,30.9200000762939,2.20000005,md,40,139,0.01584,0.129999995,hv,hv74152487,2024-03-28T12:52:27.590Z,"5 km S of Pāhala, Hawaii",earthquake,0.6,0.839999974,0.189999998,8,automatic,hv,hv
 2024-03-28T12:46:15.190Z,38.8363342,-122.8121643,1.76,0.7,md,10,72,0.01302,0,nc,nc74025436,2024-03-28T12:47:52.110Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.06,0.35,12,automatic,nc,nc
 2024-03-28T12:21:15.860Z,35.977,-117.3395,0.69,1.98,ml,28,71,0.2539,0.18,ci,ci40700928,2024-03-28T12:32:28.400Z,"24 km N of Trona, CA",earthquake,0.28,0.91,0.115,25,automatic,ci,ci
-2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T19:53:36.016Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
+2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-03-28T20:02:43.500Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
 2024-03-28T12:08:04.137Z,63.1431,-150.9086,129.3,2.4,ml,,,,0.31,ak,ak02441qhgqd,2024-03-28T12:10:18.459Z,"60 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-03-28T11:55:57.670Z,58.1781666666667,-155.335,1.58,-0.74,ml,5,168,0.03214,0.04,av,av93000199,2024-03-28T15:38:50.130Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.39,0.0919102377451807,5,reviewed,av,av
 2024-03-28T11:55:33.540Z,58.1775,-155.336833333333,1.33,-0.5,ml,6,170,0.03292,0.06,av,av93070336,2024-03-28T15:34:52.850Z,"85 km NW of Karluk, Alaska",earthquake,0.24,0.79,0.135054023749135,6,reviewed,av,av
@@ -115,7 +115,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T07:11:45.910Z,33.6323333,-116.7186667,12.5,1.5,ml,78,28,0.05226,0.2,ci,ci40700856,2024-03-28T16:34:24.509Z,"10 km NNW of Anza, CA",earthquake,0.13,0.29,0.196,26,reviewed,ci,ci
 2024-03-28T07:08:24.130Z,46.874833333333335,-122.0205,6.28,0.7000000000000001,ml,28,82,0.02981,0.09,uw,uw61992861,2024-03-28T17:35:24.700Z,"12 km N of Ashford, Washington",earthquake,0.19,0.39,0.1951677621648148,17,reviewed,uw,uw
 2024-03-28T07:08:17.021Z,61.2696,-150.3098,47.5,1.1,ml,,,,0.6,ak,ak02441nibqe,2024-03-28T07:10:18.744Z,"20 km WSW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-03-28T07:07:30.830Z,34.009,-117.0145,12.73,0.88,ml,41,43,0.1066,0.16,ci,ci40700848,2024-03-28T07:13:43.286Z,"4 km SE of Yucaipa, CA",earthquake,0.18,0.61,0.23,24,automatic,ci,ci
+2024-03-28T07:07:30.840Z,34.0108333,-117.0141667,13.07,0.87,ml,37,43,0.105,0.16,ci,ci40700848,2024-03-28T20:02:22.949Z,"4 km SE of Yucaipa, CA",earthquake,0.2,0.59,0.202,14,reviewed,ci,ci
 2024-03-28T06:57:13.089Z,31.607,-103.982,6.7279,1.5,ml,26,43,0,0.1,tx,tx2024gdmn,2024-03-28T17:59:05.399Z,"37 km NNW of Toyah, Texas",earthquake,0.3984173917272842,0.4007986994406106,0.1,18,reviewed,tx,tx
 2024-03-28T06:49:03.932Z,63.0957,-151.4731,10.4,1.3,ml,,,,0.44,ak,ak02441n5nh5,2024-03-28T06:50:48.059Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-28T06:48:59.630Z,61.6451,-148.041,10,1,ml,,,,0.84,ak,ak02441n5k23,2024-03-28T06:50:53.182Z,"27 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -124,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T06:30:31.530Z,35.12266667,-95.559,7.19,1.59,ml,65,54,0.1079788109,0.26,ok,ok2024gdlq,2024-03-28T12:48:46.339Z,"10 km E of Crowder, Oklahoma",earthquake,,0.7,0.25,14,reviewed,ok,ok
 2024-03-28T06:25:22.652Z,-18.5126,-175.5114,206.332,4.4,mb,27,85,2.659,0.93,us,us7000m8gw,2024-03-28T06:43:05.040Z,"161 km W of Neiafu, Tonga",earthquake,9.53,6.47,0.112,23,reviewed,us,us
 2024-03-28T06:10:08.850Z,38.8190002,-122.8248367,1.88,0.31,md,9,68,0.01067,0.01,nc,nc74025291,2024-03-28T06:11:42.076Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.93,0.14,9,automatic,nc,nc
+2024-03-28T06:08:36.230Z,46.884,-121.89116666666666,11.14,-0.11,md,13,92,0.04118,0.1,uw,uw61992856,2024-03-28T20:00:56.390Z,"17 km NE of Ashford, Washington",earthquake,0.29,0.53,0.13609821545831036,13,reviewed,uw,uw
 2024-03-28T06:06:19.270Z,32.9415,-116.4611667,4.57,0.7,ml,24,38,0.05214,0.18,ci,ci40700824,2024-03-28T19:07:16.030Z,"15 km NNE of Pine Valley, CA",earthquake,0.23,0.56,0.149,10,reviewed,ci,ci
 2024-03-28T05:59:13.281Z,62.4935,-150.001,12.3,1.3,ml,,,,0.65,ak,ak02441mmdr4,2024-03-28T06:01:33.921Z,"7 km NE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-28T05:57:47.930Z,19.1973323822021,-155.494995117188,29.4799995422363,2.02999997,md,33,120,0.05092,0.150000006,hv,hv74152172,2024-03-28T05:59:37.680Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.56,1.02999997,0.100000001,6,automatic,hv,hv
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-27T20:17:36.520Z,34.8316667,-120.4545,1.82,1.42,ml,22,136,0.03384,0.3,ci,ci40700464,2024-03-27T20:23:33.814Z,"4 km SSW of Orcutt, CA",earthquake,0.51,0.5,0.12,18,automatic,ci,ci
 2024-03-27T20:07:52.388Z,64.4736,-146.9024,0,1.2,ml,,,,0.64,ak,ak024407ph46,2024-03-27T20:09:48.779Z,"5 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-27T20:05:24.403Z,31.624,-104.521,8.5864,1.4,ml,16,76,0,0.2,tx,tx2024gcrb,2024-03-27T20:25:37.803Z,"62 km SSW of Whites City, New Mexico",earthquake,1.8662360193764027,1.0334565906517883,0.1,10,reviewed,tx,tx
-2024-03-27T20:03:59.290Z,38.841835,-122.8811646,2.48,0.84,md,8,145,0.009966,0.02,nc,nc74025146,2024-03-27T20:05:35.951Z,"12 km ENE of Cloverdale, CA",earthquake,0.51,0.78,0.67,9,automatic,nc,nc
