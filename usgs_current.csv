@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-03-29T12:58:39.970Z,34.1168327,-117.4639969,6.11,1.12,ml,15,129,0.06318,0.13,ci,ci40701800,2024-03-29T13:00:46.351Z,"2 km NNW of Fontana, CA",earthquake,0.68,1.17,0.116,4,automatic,ci,ci
+2024-03-29T12:58:40.000Z,34.1118333,-117.4678333,6.29,0.87,ml,32,58,0.02705,0.15,ci,ci40701800,2024-03-29T13:05:05.099Z,"2 km NNW of Fontana, CA",earthquake,0.24,0.42,0.189,19,automatic,ci,ci
 2024-03-29T12:44:18.990Z,17.9473333333333,-66.8818333333333,14.97,2.26,md,4,220,0.02768,0.14,pr,pr71444153,2024-03-29T12:57:32.290Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,1.3,0.67,0.168856005955062,3,reviewed,pr,pr
 2024-03-29T12:35:38.953Z,61.5241,-141.0676,0,1.4,ml,,,,0.68,ak,ak02443e6o9z,2024-03-29T12:38:39.111Z,"99 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-03-29T12:33:23.550Z,35.66416667,-97.38833333,6.63,1.99,ml,92,26,0.0188962919,0.2,ok,ok2024gftd,2024-03-29T12:52:27.820Z,"5 km W of Arcadia, Oklahoma",earthquake,,0.3,0.24,45,reviewed,ok,ok
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-29T00:07:39.474Z,62.01,-148.4476,21.5,1.6,ml,,,,0.83,ak,ak024436vh0b,2024-03-29T00:09:44.095Z,"23 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-03-29T00:05:31.590Z,47.410333333333334,-122.04416666666667,18.13,1.37,ml,22,75,0.02053,0.16,uw,uw61992981,2024-03-29T03:57:06.170Z,"1 km N of Maple Valley, Washington",earthquake,0.4,0.73,0.06470338159357336,10,reviewed,uw,uw
 2024-03-29T00:02:49.515Z,60.8493,-151.5231,71.8,1.1,ml,,,,0.31,ak,ak024436uf7b,2024-03-29T00:04:21.016Z,"21 km NW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-03-28T23:55:12.470Z,38.5703333333333,-89.5333333333333,23.6,2.81,md,19,58,0.3115,0.21,nm,nm60575426,2024-03-29T12:50:59.313Z,"1 km NNE of Germantown, Illinois",earthquake,0.34,1.11,0.0884475661589095,13,reviewed,nm,nm
+2024-03-28T23:55:12.470Z,38.5703333333333,-89.5333333333333,23.6,2.81,md,19,58,0.3115,0.21,nm,nm60575426,2024-03-29T13:07:25.248Z,"1 km NNE of Germantown, Illinois",earthquake,0.34,1.11,0.0884475661589095,13,reviewed,nm,nm
 2024-03-28T23:54:53.840Z,38.8139992,-122.8255005,2.1,0.76,md,11,68,0.005874,0.02,nc,nc74025706,2024-03-28T23:56:30.295Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.95,0.17,12,automatic,nc,nc
 2024-03-28T23:54:04.260Z,38.793499,-122.7838364,3.29,1.74,md,34,79,0.003206,0.04,nc,nc74025701,2024-03-28T23:57:12.550Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.38,0.14,35,automatic,nc,nc
 2024-03-28T23:50:42.790Z,47.412166666666664,-122.07183333333333,16.41,1.28,ml,29,134,0.01679,0.15,uw,uw61992976,2024-03-29T05:05:41.950Z,"2 km NW of Maple Valley, Washington",earthquake,0.43,0.35,0.13768138370959515,12,reviewed,uw,uw
@@ -131,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T21:07:51.854Z,31.638,-104.488,7.7917,1.8,ml,22,87,0,0.2,tx,tx2024geop,2024-03-28T23:12:26.149Z,"60 km S of Whites City, New Mexico",earthquake,0.8713263606780592,0.6114914398052302,0.1,14,reviewed,tx,tx
 2024-03-28T21:02:07.862Z,62.9284,-151.268,131,2,ml,,,,0.17,ak,ak02441vt376,2024-03-28T21:04:20.747Z,"54 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-03-28T20:56:19.538Z,-7.6968,127.5967,196.381,4.1,mb,27,101,3.875,0.78,us,us7000m8mt,2024-03-29T12:46:22.040Z,"112 km NE of Lospalos, Timor Leste",earthquake,8.9,8.18,0.127,17,reviewed,us,us
-2024-03-28T20:54:40.536Z,31.604,-103.962,9.74,2.6,ml,16,56,0,0.1,tx,tx2024geoe,2024-03-28T21:22:06.586Z,"35 km NNW of Toyah, Texas",earthquake,0.7845555889854907,0.805997093559815,0.1,12,reviewed,tx,tx
+2024-03-28T20:54:40.536Z,31.604,-103.962,9.74,2.6,ml,16,56,0,0.1,tx,tx2024geoe,2024-03-29T13:05:02.040Z,"35 km NNW of Toyah, Texas",earthquake,0.7845555889854907,0.805997093559815,0.1,12,reviewed,tx,tx
 2024-03-28T20:53:40.870Z,31.562,-104.018,6.9202,1.7,ml,21,64,0,0.1,tx,tx2024geod,2024-03-28T23:32:32.312Z,"34 km NW of Toyah, Texas",earthquake,0.4222861934823233,0.3930460670874836,0.1,19,reviewed,tx,tx
 2024-03-28T20:51:59.570Z,38.8266678,-122.8535004,2.33,0.8,md,13,92,0.002776,0.01,nc,nc74025606,2024-03-28T20:53:34.412Z,"10 km WNW of The Geysers, CA",earthquake,0.29,0.67,0.18,13,automatic,nc,nc
 2024-03-28T20:45:21.287Z,61.3578,-151.0359,70.2,1.6,ml,,,,0.16,ak,ak02441vgwf4,2024-03-28T20:46:51.864Z,"24 km N of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-28T13:36:21.050Z,37.2863333,-121.6543333,6.4,1.59,md,56,41,0.03114,0.07,nc,nc74025466,2024-03-28T21:11:39.730Z,"16 km E of Seven Trees, CA",earthquake,0.11,0.22,0.238,54,reviewed,nc,nc
 2024-03-28T13:21:16.855Z,15.2305,-45.3265,10,4.8,mb,28,128,12.365,0.54,us,us7000m8j0,2024-03-28T13:37:35.040Z,"northern Mid-Atlantic Ridge",earthquake,13.4,1.933,0.089,39,reviewed,us,us
 2024-03-28T13:14:18.270Z,38.8120003,-122.8293304,1,0.95,md,7,110,0.00313,0.01,nc,nc74025461,2024-03-28T13:15:53.412Z,"7 km WNW of The Geysers, CA",earthquake,0.4,1.06,0.2,7,automatic,nc,nc
-2024-03-28T13:04:55.330Z,38.8143349,-122.8293304,1.75,1.08,md,13,70,0.00546,0.02,nc,nc74025456,2024-03-28T13:06:32.330Z,"8 km WNW of The Geysers, CA",earthquake,0.28,0.49,0.18,14,automatic,nc,nc
-2024-03-28T13:03:36.770Z,38.8424988,-122.8314972,7.39,0.7,md,8,167,0.004995,0.06,nc,nc74025451,2024-03-28T13:05:12.308Z,"10 km WNW of Cobb, CA",earthquake,1.81,6.58,0.35,10,automatic,nc,nc
