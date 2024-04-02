@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-02T17:37:33.357Z,62.0569,-151.1848,83.6,2.2,ml,,,,0.16,ak,ak0244a3bn9z,2024-04-02T17:39:31.950Z,"13 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T17:24:05.762Z,31.68,-104.423,6.0999,1.7,ml,23,63,0,0.2,tx,tx2024gnkt,2024-04-02T17:40:07.877Z,"55 km S of Whites City, New Mexico",earthquake,0.8807915790155122,0.7080784048670914,0.1,16,reviewed,tx,tx
-2024-04-02T17:13:02.590Z,36.0865,-117.9658333,7.66,1.8,ml,31,46,0.09507,0.13,ci,ci40703760,2024-04-02T17:23:38.270Z,"5 km NNW of Coso Junction, CA",earthquake,0.17,0.47,0.189,26,automatic,ci,ci
+2024-04-02T17:13:02.590Z,36.0865,-117.9658333,7.66,1.8,ml,31,46,0.09507,0.13,ci,ci40703760,2024-04-02T17:54:19.760Z,"5 km NNW of Coso Junction, CA",earthquake,0.17,0.47,0.189,26,reviewed,ci,ci
 2024-04-02T16:56:33.810Z,33.1826667,-115.6131667,2,1.42,ml,29,84,0.005582,0.19,ci,ci40703752,2024-04-02T17:02:53.600Z,"11 km SW of Niland, CA",earthquake,0.24,0.15,0.254,29,automatic,ci,ci
 2024-04-02T16:35:58.140Z,38.8126678,-122.7539978,0.29,0.85,md,9,118,0.01283,0.03,nc,nc74027996,2024-04-02T16:37:30.669Z,"3 km WSW of Cobb, CA",earthquake,0.29,1.28,0.26,11,automatic,nc,nc
 2024-04-02T16:22:40.250Z,19.3449993133545,-155.259674072266,38.4000015258789,2.42000008,md,45,77,0.02667,0.159999996,hv,hv74158987,2024-04-02T16:24:23.300Z,"11 km SSW of Volcano, Hawaii",earthquake,0.55,0.409999996,0.349999994,7,automatic,hv,hv
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T15:48:56.610Z,19.3078327178955,-155.378494262695,6.67000007629395,1.95000005,md,27,143,0.02631,0.159999996,hv,hv74158967,2024-04-02T15:50:30.420Z,"15 km NE of Pāhala, Hawaii",earthquake,0.49,0.720000029,0.109999999,6,automatic,hv,hv
 2024-04-02T15:48:43.030Z,38.8073349,-122.8098297,1.21,0.75,md,8,84,0.01137,0.02,nc,nc74027976,2024-04-02T15:50:17.034Z,"6 km NW of The Geysers, CA",earthquake,0.39,0.95,0.32,10,automatic,nc,nc
 2024-04-02T15:48:13.130Z,38.5196648,-119.5264969,-0.96,2.51,md,4,160,0.06637,0,nc,nc74027971,2024-04-02T16:28:49.128Z,"4 km W of Walker, CA",earthquake,1,4.14,0.13,3,automatic,nc,nc
-2024-04-02T15:22:15.380Z,32.9135,-116.24,7.97,1.07,ml,38,46,0.06724,0.17,ci,ci40703664,2024-04-02T15:28:14.426Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.58,0.149,25,automatic,ci,ci
+2024-04-02T15:22:15.360Z,32.914,-116.2413333,8.2,1.07,ml,39,45,0.06604,0.15,ci,ci40703664,2024-04-02T17:54:22.804Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.15,0.48,0.114,18,reviewed,ci,ci
 2024-04-02T15:07:25.046Z,60.1722,-151.0753,54.9,2.5,ml,,,,0.63,ak,ak0244a1ybyr,2024-04-02T15:09:29.767Z,"18 km ESE of Clam Gulch, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-04-02T15:06:21.880Z,19.5128326416016,-155.602493286133,3.6800000667572,1.70000005,md,32,99,0.03365,0.180000007,hv,hv74158922,2024-04-02T15:09:03.340Z,"28 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.670000017,0.159999996,6,automatic,hv,hv
 2024-04-02T15:01:19.701Z,28.957,-98.016,6.2369,1.5,ml,7,101,0,0.5,tx,tx2024gnga,2024-04-02T15:29:03.276Z,"2 km S of Falls City, Texas",earthquake,0,7.34756305803807,0.2,7,automatic,tx,tx
@@ -52,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T10:08:12.100Z,33.6785,-116.7415,15.51,0.72,ml,33,49,0.03976,0.12,ci,ci40703528,2024-04-02T16:48:12.611Z,"7 km SSW of Idyllwild, CA",earthquake,0.17,0.31,0.125,21,reviewed,ci,ci
 2024-04-02T10:06:27.607Z,61.3404,-150.6448,18.1,2.3,ml,,,,0.39,ak,ak02449yyyeg,2024-04-02T11:28:52.040Z,"23 km SSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-02T09:54:09.025Z,15.8161,146.8662,10,6.2,mww,151,27,1.185,0.63,us,us7000m9bq,2024-04-02T16:04:22.686Z,"136 km ENE of Saipan, Northern Mariana Islands",earthquake,7.44,1.791,0.056,31,reviewed,us,us
+2024-04-02T09:41:48.240Z,38.6456667,-122.5268333,6.64,1.1,md,28,54,0.06943,0.07,nc,nc74027861,2024-04-02T17:55:52.617Z,"9 km NNE of Calistoga, CA",earthquake,0.15,0.39,0.192,22,reviewed,nc,nc
 2024-04-02T09:38:57.031Z,62.2942,-148.688,31.7,1.4,ml,,,,0.76,ak,ak02449ykfzb,2024-04-02T09:41:55.983Z,"56 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-02T09:37:43.720Z,38.8250008,-122.8044968,2.49,0.77,md,14,52,0.004642,0.01,nc,nc74027856,2024-04-02T09:39:20.419Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.66,0.34,14,automatic,nc,nc
 2024-04-02T09:35:50.420Z,46.86233333333333,-121.93233333333333,6.66,0.14,ml,19,79,0.01502,0.09,uw,uw61985797,2024-04-02T16:09:08.790Z,"13 km NNE of Ashford, Washington",earthquake,0.31,0.41,0.04715193108048074,6,reviewed,uw,uw
@@ -211,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T18:12:39.486Z,62.8401,-149.7921,68.2,2,ml,,,,0.25,ak,ak02448g8dyk,2024-04-01T18:14:36.163Z,"46 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-01T17:58:57.190Z,46.8805,-112.618,2.95,0.74,ml,6,149,0.04312,0.06,mb,mb90044708,2024-04-01T21:42:54.160Z,"9 km SSE of Lincoln, Montana",earthquake,0.53,0.58,0.181392844730268,4,reviewed,mb,mb
 2024-04-01T17:58:33.030Z,33.6715,-116.7138333,16.08,0.67,ml,25,81,0.03349,0.1,ci,ci40703072,2024-04-01T20:13:04.551Z,"8 km S of Idyllwild, CA",earthquake,0.24,0.34,0.104,11,reviewed,ci,ci
-2024-04-01T17:54:29.590Z,48.307833333333335,-121.70566666666667,-0.51,1.1300000000000001,ml,9,100,0.09364,0.19,uw,uw61985592,2024-04-02T04:14:01.680Z,"3 km NNE of Swede Heaven, Washington",explosion,0.41,31.61,0.1016121767260938,4,reviewed,uw,uw
-2024-04-01T17:52:30.770Z,32.913,-116.24,8.51,2.93,ml,108,46,0.06754,0.21,ci,ci40703056,2024-04-01T19:34:01.460Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.12,0.41,0.179,206,reviewed,ci,ci
-2024-04-01T17:51:25.440Z,46.9041666666667,-112.4965,3.34,0.65,ml,5,129,0.05251,0.02,mb,mb90044713,2024-04-01T21:46:50.170Z,"15 km ESE of Lincoln, Montana",earthquake,0.35,0.43,0.0656487450662482,3,reviewed,mb,mb
-2024-04-01T17:50:59.020Z,19.1245,-155.467,37.92,1.91,md,29,224,0.0311,0.09,hv,hv74157962,2024-04-01T19:29:20.310Z,"8 km S of Pāhala, Hawaii",earthquake,0.79,0.58,0.115147227107788,23,reviewed,hv,hv
