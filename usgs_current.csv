@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T14:40:54.060Z,48.25333333333333,-123.077,18.95,1.29,ml,18,72,0.2134,0.15,uw,uw61985847,2024-04-02T15:29:04.750Z,"13 km N of Jamestown, Washington",earthquake,0.26,1.13,0.1458208433381849,9,reviewed,uw,uw
 2024-04-02T14:36:39.799Z,31.631,-104.509,6.9202,1.4,ml,15,74,0,0.1,tx,tx2024gnff,2024-04-02T14:50:59.042Z,"61 km SSW of Whites City, New Mexico",earthquake,1.0407205950557017,0.5737376654727525,0.1,11,reviewed,tx,tx
 2024-04-02T14:17:56.450Z,35.882,-119.8921661,23.92,2.13,md,11,149,0.2139,0.25,nc,nc74027941,2024-04-02T14:19:29.878Z,"15 km SSE of Kettleman City, CA",earthquake,1.18,1.67,,1,automatic,nc,nc
-2024-04-02T14:13:14.158Z,39.4082,-119.7108,11.3,1.8,ml,15,61.59,0.045,0.1312,nn,nn00875715,2024-04-02T14:15:45.706Z,"12 km NNW of Virginia City, Nevada",earthquake,,0.5,0.33,8,automatic,nn,nn
+2024-04-02T14:13:14.797Z,39.4115,-119.6984,9.6,2,ml,26,40.73,0.053,0.14,nn,nn00875715,2024-04-02T17:12:31.792Z,"12 km NNW of Virginia City, Nevada",earthquake,,0.8,0.33,8,reviewed,nn,nn
 2024-04-02T14:13:06.468Z,60.2314,-151.0963,57.3,2,ml,,,,0.57,ak,ak0244a1e57a,2024-04-02T14:15:01.982Z,"15 km SE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-02T14:08:09.719Z,59.9016,-150.8428,52,1.7,ml,,,,0.43,ak,ak0244a1d2vf,2024-04-02T14:10:22.026Z,"8 km NE of Fox River, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-02T13:46:57.430Z,19.2770004272461,-155.380828857422,28.9099998474121,1.88999999,md,37,125,0.05628,0.189999998,hv,hv74158857,2024-04-02T13:48:40.250Z,"13 km NE of Pāhala, Hawaii",earthquake,0.58,0.699999988,0.370000005,4,automatic,hv,hv
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T12:54:15.080Z,31.633,-104.512,6.9202,1.7,ml,20,75,0,0.2,tx,tx2024gnbv,2024-04-02T13:04:43.140Z,"61 km SSW of Whites City, New Mexico",earthquake,0.986450608661118,0.5569241986045071,0.2,16,reviewed,tx,tx
 2024-04-02T12:35:12.110Z,62.1468,-149.8287,26.4,1.2,ml,,,,0.17,ak,ak0244a0c06j,2024-04-02T12:36:33.516Z,"1 km SE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T12:09:24.220Z,32.4108333,-115.2,11.59,2.54,ml,29,52,0.08546,0.26,ci,ci40703568,2024-04-02T12:15:59.073Z,"6 km N of Delta, B.C., MX",earthquake,0.33,0.66,0.194,26,automatic,ci,ci
-2024-04-02T11:46:12.930Z,34.5381667,-118.9643333,-0.6,1.23,ml,15,214,0.1335,0.27,ci,ci40703560,2024-04-02T11:52:11.933Z,"16 km NNW of Fillmore, CA",earthquake,1.54,1.62,0.175,26,automatic,ci,ci
+2024-04-02T11:46:13.140Z,34.5335,-118.936,-0.63,1.18,ml,29,92,0.05635,0.31,ci,ci40703560,2024-04-02T17:06:03.277Z,"15 km N of Fillmore, CA",earthquake,0.39,1.15,0.133,16,reviewed,ci,ci
 2024-04-02T11:34:54.660Z,38.8139992,-122.8274994,1.76,0.98,md,11,87,0.005289,0.01,nc,nc74027896,2024-04-02T11:36:29.772Z,"7 km WNW of The Geysers, CA",earthquake,0.3,0.64,0.2,12,automatic,nc,nc
 2024-04-02T11:24:16.970Z,36.1035,-89.7665,9.07,2.47,md,42,33,0.05476,0.08,nm,nm60575811,2024-04-02T13:37:37.630Z,"6 km ENE of Steele, Missouri",earthquake,0.19,0.41,0.102384602537359,35,reviewed,nm,nm
 2024-04-02T11:13:00.992Z,57.5011,-153.8928,35.1,2.8,ml,,,,0.48,ak,ak02449zltyr,2024-04-02T11:59:44.037Z,"6 km SE of Larsen Bay, Alaska",earthquake,,29.1,,,automatic,ak,ak
@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-02T04:28:28.696Z,61.4841,-147.0519,49.1,1.4,ml,,,,0.71,ak,ak02449vj1ll,2024-04-02T05:55:04.698Z,"48 km SE of Glacier View, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-04-02T04:21:16.590Z,36.5011,-115.8068,14.4,0.8,ml,23,173.5,0.204,0.1258,nn,nn00875700,2024-04-02T07:27:39.160Z,"14 km WSW of Indian Springs, Nevada",earthquake,,1.8,0.27,11,reviewed,nn,nn
 2024-04-02T04:13:35.100Z,38.7788315,-122.7188339,1.37,1.29,md,15,75,0.01785,0.04,nc,nc74027786,2024-04-02T04:15:10.612Z,"2 km W of Anderson Springs, CA",earthquake,0.35,0.62,0.18,14,automatic,nc,nc
+2024-04-02T04:11:48.455Z,31.326,-103.322,7.8174,1.6,ml,8,78,0.1,0.2,tx,tx2024gmkp,2024-04-02T17:12:05.632Z,"16 km SSE of Barstow, Texas",earthquake,1.2873123412626015,2.0442553732203863,0.1,15,reviewed,tx,tx
 2024-04-02T04:06:52.640Z,19.2576666666667,-155.410333333333,32,2.65,ml,40,65,0.02343,0.12,hv,hv74158447,2024-04-02T05:10:13.040Z,"9 km NE of Pāhala, Hawaii",earthquake,0.43,0.63,0.198526357199515,18,reviewed,hv,hv
 2024-04-02T04:06:37.564Z,64.3147,-150.3417,7.8,1.6,ml,,,,1.28,ak,ak02449vedjg,2024-04-02T04:56:58.162Z,"55 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-02T04:06:12.198Z,63.2311,-152.8066,7.9,2.1,ml,,,,0.3,ak,ak02449vebkz,2024-04-02T04:07:54.593Z,"64 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -211,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-01T17:25:01.430Z,19.0075,-155.429166666667,37.32,2.29,md,52,214,0.139,0.13,hv,hv74157937,2024-04-01T19:45:44.600Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.6,0.58,0.122933119821167,23,reviewed,hv,hv
 2024-04-01T17:23:55.150Z,33.5825,-116.807,8.13,0.79,ml,23,59,0.03751,0.12,ci,ci40703008,2024-04-01T22:53:05.371Z,"13 km WNW of Anza, CA",earthquake,0.23,0.45,0.069,14,reviewed,ci,ci
 2024-04-01T17:16:29.790Z,44.8376666666667,-111.489333333333,14.1,1.12,ml,16,86,0.04279,0.19,mb,mb90044703,2024-04-01T21:36:47.590Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.73,0.99,0.174570303274016,11,reviewed,mb,mb
-2024-04-01T17:08:56.140Z,38.8408318,-122.8753357,1.68,0.99,md,16,85,0.005309,0.07,nc,nc74027426,2024-04-01T17:10:32.327Z,"12 km NW of The Geysers, CA",earthquake,0.31,0.42,0.19,17,automatic,nc,nc
-2024-04-01T17:06:05.600Z,32.793,-100.655,7.4951,1.9,ml,14,58,0.1,0.1,tx,tx2024gloq,2024-04-02T14:51:11.015Z,"18 km WSW of Rotan, Texas",earthquake,0.7247904494315744,1.276671590315551,0.1,11,reviewed,tx,tx
