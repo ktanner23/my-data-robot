@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-04T23:04:11.018Z,58.2714,-154.6383,19.6,0.8,ml,,,,0.78,ak,ak0244dhrtpc,2024-04-04T23:08:01.568Z,"78 km N of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-04-04T23:03:27.850Z,38.8101654,-122.819664,2.07,1.07,md,17,67,0.007545,0.02,nc,nc74029466,2024-04-04T23:05:03.347Z,"7 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.16,18,automatic,nc,nc
 2024-04-04T22:43:18.770Z,38.8236656,-122.7648315,1.94,1.1,md,20,123,0.00787,0.03,nc,nc74029456,2024-04-04T22:44:53.096Z,"4 km W of Cobb, CA",earthquake,0.26,0.42,0.1,22,automatic,nc,nc
 2024-04-04T22:40:51.310Z,33.5785,-116.8043333,8.87,0.85,ml,14,95,0.03684,0.07,ci,ci40705808,2024-04-04T22:47:30.901Z,"12 km WNW of Anza, CA",earthquake,0.28,0.56,0.134,23,automatic,ci,ci
 2024-04-04T22:37:47.710Z,36.5553322,-121.1558304,0.47,1.77,md,7,142,0.09641,0.05,nc,nc74029446,2024-04-04T22:39:23.004Z,"3 km NNW of Pinnacles, CA",earthquake,0.74,7.17,0.47,5,automatic,nc,nc
@@ -41,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T18:54:16.905Z,62.1124,-153.7327,8.5,1.2,ml,,,,0.48,ak,ak0244df3dru,2024-04-04T18:56:43.275Z,"105 km SSE of Nikolai, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-04T18:50:43.350Z,38.810833,-122.8191681,2.99,0.75,md,8,83,0.008063,0.01,nc,nc74029346,2024-04-04T18:52:18.253Z,"7 km NW of The Geysers, CA",earthquake,0.42,0.94,0.12,8,automatic,nc,nc
 2024-04-04T18:42:36.877Z,24.2815,121.9331,21.022,4.5,mb,42,70,0.638,0.32,us,us7000m9yf,2024-04-04T19:31:13.040Z,"47 km NE of Hualien City, Taiwan",earthquake,3.47,5.849,0.102,28,reviewed,us,us
-2024-04-04T18:35:02.089Z,24.1565,121.6902,36.662,4.9,mww,61,73,0.586,0.75,us,us7000m9yb,2024-04-04T19:32:04.245Z,"21 km NNE of Hualien City, Taiwan",earthquake,4.3,1.852,0.089,12,reviewed,us,us
+2024-04-04T18:35:02.089Z,24.1565,121.6902,36.662,4.9,mww,61,73,0.586,0.75,us,us7000m9yb,2024-04-04T23:02:52.301Z,"21 km NNE of Hualien City, Taiwan",earthquake,4.3,1.852,0.089,12,reviewed,us,us
 2024-04-04T18:31:53.820Z,38.8426666,-122.8811646,2.63,0.99,md,12,143,0.004784,0.03,nc,nc74029331,2024-04-04T18:33:28.038Z,"12 km ENE of Cloverdale, CA",earthquake,0.69,0.76,0.19,12,automatic,nc,nc
 2024-04-04T18:29:27.849Z,1.5168,126.4129,54.481,4.7,mb,46,79,1.207,0.87,us,us7000m9y8,2024-04-04T18:50:49.040Z,"134 km NW of Ternate, Indonesia",earthquake,6.12,6.807,0.069,64,reviewed,us,us
 2024-04-04T17:57:14.721Z,66.7193,-150.611,19.2,1.4,ml,,,,1.04,ak,ak0244deil5c,2024-04-04T17:59:49.292Z,"45 km ESE of Evansville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -285,8 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T23:42:28.430Z,19.3840007781982,-155.27766418457,1.32000005245209,1.87,md,12,159,0.004579,0.0900000036,hv,hv74160107,2024-04-03T23:43:55.640Z,"7 km SW of Volcano, Hawaii",earthquake,0.34,0.239999995,0.0599999987,11,automatic,hv,hv
 2024-04-03T23:12:24.860Z,19.2280006408691,-155.427337646484,29.8400001525879,1.98000002,md,25,181,0.112,0.109999999,hv,hv74160092,2024-04-03T23:14:11.450Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.91,0.620000005,0.409999996,4,automatic,hv,hv
 2024-04-03T23:11:01.510Z,19.2768325805664,-155.447006225586,29.9899997711182,1.90999997,md,32,168,0.08077,0.129999995,hv,hv74160087,2024-04-03T23:12:45.560Z,"8 km NNE of Pāhala, Hawaii",earthquake,0.57,0.790000021,0.300000012,5,automatic,hv,hv
-2024-04-03T23:06:55.341Z,14.0052,-90.2221,132.429,4.5,mb,29,164,0.441,0.76,us,us7000m9rf,2024-04-04T00:16:51.040Z,"3 km NNW of Pasaco, Guatemala",earthquake,6.46,5.968,0.066,66,reviewed,us,us
-2024-04-03T23:06:19.320Z,38.8364983,-122.8106689,2.21,0.75,md,12,72,0.01309,0.01,nc,nc74028771,2024-04-03T23:07:55.122Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.82,0.18,14,automatic,nc,nc
-2024-04-03T23:05:09.780Z,41.2805,-111.717333333333,11.02,0.79,md,14,111,0.147,0.15,uu,uu80063831,2024-04-04T13:18:36.890Z,"4 km ENE of Huntsville, Utah",earthquake,0.5,1.57,0.161427714505228,11,reviewed,uu,uu
-2024-04-03T23:01:18.270Z,38.8253326,-122.7938309,3.06,0.5,md,11,76,0.01283,0.02,nc,nc74028761,2024-04-03T23:02:55.023Z,"6 km W of Cobb, CA",earthquake,0.45,1.37,0.22,12,automatic,nc,nc
-2024-04-03T22:59:41.490Z,37.3913333,-121.5033333,9.04,0.86,md,8,145,0.04952,0.07,nc,nc74028766,2024-04-04T22:49:22.295Z,"29 km E of Alum Rock, CA",earthquake,0.36,0.58,0.205,10,reviewed,nc,nc
