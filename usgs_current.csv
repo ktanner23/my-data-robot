@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-04T09:58:01.270Z,34.1080017,-116.9844971,5.28,1.2,ml,23,51,0.04284,0.12,ci,ci40705144,2024-04-04T10:00:19.822Z,"10 km NNE of Yucaipa, CA",earthquake,0.29,0.63,0.214,8,automatic,ci,ci
 2024-04-04T09:40:50.050Z,33.5833333,-116.8058333,8.6,0.71,ml,33,44,0.03634,0.11,ci,ci40705136,2024-04-04T09:46:59.691Z,"13 km WNW of Anza, CA",earthquake,0.15,0.3,0.076,14,automatic,ci,ci
 2024-04-04T09:37:13.430Z,19.281665802002,-155.383666992188,29.8400001525879,2.03999996,md,37,162,0.05149,0.109999999,hv,hv74160482,2024-04-04T09:38:54.790Z,"13 km NE of Pāhala, Hawaii",earthquake,0.71,0.579999983,0.140000001,3,automatic,hv,hv
 2024-04-04T09:27:14.309Z,31.58,-104.551,2.6982,1.6,ml,15,163,0.1,0.2,tx,tx2024gqmb,2024-04-04T09:46:17.801Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.72103750420091,0.1,13,automatic,tx,tx
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T05:16:48.900Z,38.8323326,-122.8088303,2.18,1.07,md,17,61,0.008977,0.01,nc,nc74028916,2024-04-04T05:18:21.319Z,"8 km W of Cobb, CA",earthquake,0.24,0.6,0.16,17,automatic,nc,nc
 2024-04-04T05:15:45.337Z,62.0174,-151.3064,74.7,1.9,ml,,,,0.43,ak,ak0244d74g6d,2024-04-04T05:18:03.888Z,"5 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-04T05:00:30.724Z,24.2058,121.7805,27.542,4.5,mwr,73,120,0.591,0.58,us,us7000m9tg,2024-04-04T05:21:51.040Z,"31 km NE of Hualien City, Taiwan",earthquake,3.84,5.599,0.062,25,reviewed,us,us
-2024-04-04T04:59:34.967Z,31.439,-103.879,6.7218,1.9,ml,5,154,0.1,0.3,tx,tx2024gqde,2024-04-04T05:16:07.314Z,"16 km NNW of Toyah, Texas",earthquake,0,5.62193723583707,0.2,5,automatic,tx,tx
+2024-04-04T04:59:35.306Z,31.44,-103.872,2.5366,1.7,ml,16,65,0.1,0.1,tx,tx2024gqde,2024-04-04T10:00:18.944Z,"15 km NNW of Toyah, Texas",earthquake,1.0926528956890944,1.8933558860914816,0.1,15,reviewed,tx,tx
 2024-04-04T04:54:08.660Z,36.6595001,-121.3099976,4.04,1.69,md,18,69,0.04868,0.2,nc,nc74028911,2024-04-04T04:55:41.122Z,"14 km S of Tres Pinos, CA",earthquake,0.51,2.42,0.12,15,automatic,nc,nc
 2024-04-04T04:52:17.100Z,19.1586666107178,-155.357330322266,27.1200008392334,2.51999998,md,46,188,0.0991,0.140000001,hv,hv74160312,2024-04-04T04:54:08.900Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.5,0.74000001,0.0799999982,5,automatic,hv,hv
 2024-04-04T04:40:37.500Z,38.8333321,-122.8113327,2.29,0.76,md,14,69,0.009971,0.02,nc,nc74028906,2024-04-04T04:42:10.990Z,"8 km W of Cobb, CA",earthquake,0.29,0.76,0.13,15,automatic,nc,nc
@@ -294,8 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-03T10:01:25.320Z,34.89916667,-97.31233333,2,1.92,ml,91,47,0.118776692,0.31,ok,ok2024gorq,2024-04-03T12:49:18.880Z,"2 km S of Wayne, Oklahoma",earthquake,,0.7,0.23,45,reviewed,ok,ok
 2024-04-03T10:01:08.130Z,38.7574997,-122.7310028,1.8,1.51,md,21,74,0.006306,0.05,nc,nc74028376,2024-04-03T10:02:42.476Z,"3 km SE of The Geysers, CA",earthquake,0.29,0.42,0.12,23,automatic,nc,nc
 2024-04-03T10:01:02.030Z,38.793499,-122.8028336,3.15,0.64,md,10,71,0.005169,0.02,nc,nc74028371,2024-04-03T10:02:37.475Z,"4 km WNW of The Geysers, CA",earthquake,0.43,1.07,0.3,10,automatic,nc,nc
-2024-04-03T10:00:56.700Z,32.889,-116.5933333,8.94,1.07,ml,41,39,0.03323,0.2,ci,ci40704336,2024-04-03T13:59:44.550Z,"10 km NW of Pine Valley, CA",earthquake,0.19,0.48,0.265,19,reviewed,ci,ci
-2024-04-03T10:00:44.661Z,28.694,-99.308,6.9667,1.6,ml,4,179,0.4,0.6,tx,tx2024gosa,2024-04-03T10:30:33.549Z,"12 km W of Hilltop, Texas",earthquake,0,12.792001991143,0.3,4,automatic,tx,tx
-2024-04-03T10:00:15.710Z,38.7546654,-122.7289963,1.95,2.64,md,52,31,0.007636,0.11,nc,nc74028366,2024-04-03T10:03:13.180Z,"4 km SE of The Geysers, CA",earthquake,0.19,0.34,0.14,62,automatic,nc,nc
-2024-04-03T09:59:21.660Z,38.7581667,-122.7313333,1.46,0.72,md,7,91,0.006108,0.01,nc,nc74028361,2024-04-04T00:33:34.776Z,"3 km SE of The Geysers, CA",earthquake,0.35,0.93,0.251,6,reviewed,nc,nc
-2024-04-03T09:53:27.552Z,28.743,-99.305,1.6357,2,ml,11,79,0.4,0.2,tx,tx2024gorm,2024-04-03T19:15:11.722Z,"13 km WNW of Hilltop, Texas",earthquake,3.017714629784213,5.265621622669092,0.1,7,reviewed,tx,tx
