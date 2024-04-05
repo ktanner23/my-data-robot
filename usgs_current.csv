@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-05T20:22:56.910Z,38.8256683,-122.7623367,4.93,0.76,md,7,228,0.02509,0.07,nc,nc74029871,2024-04-05T20:24:33.151Z,"3 km W of Cobb, CA",earthquake,1.73,1.25,0.05,7,automatic,nc,nc
+2024-04-05T20:18:37.574Z,38.1377,-116.4315,3.5,1.5,ml,9,216.48,0.93,0.1854,nn,nn00875872,2024-04-05T20:21:32.404Z,"70 km E of Tonopah, Nevada",earthquake,,13.8,1.18,5,automatic,nn,nn
 2024-04-05T20:14:24.700Z,38.8030014,-122.8123322,1.02,1.08,md,15,65,0.0142,0.02,nc,nc74029866,2024-04-05T20:15:58.207Z,"6 km WNW of The Geysers, CA",earthquake,0.24,0.46,0.19,17,automatic,nc,nc
 2024-04-05T20:10:08.400Z,19.3680000305176,-155.292831420898,0.720000028610229,2.41000009,md,12,164,0.02121,0.180000007,hv,hv74161962,2024-04-05T20:11:31.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.400000006,0.119999997,11,automatic,hv,hv
 2024-04-05T20:00:20.690Z,35.6788333,-117.5526667,7.61,2.2,ml,35,100,0.09376,0.14,ci,ci40706200,2024-04-05T20:07:45.735Z,"13 km ENE of Ridgecrest, CA",earthquake,0.17,0.55,0.105,25,automatic,ci,ci
@@ -6,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T19:31:48.130Z,38.7550011,-122.8148346,26.42,1.82,md,4,212,0.05505,0.01,nc,nc74029846,2024-04-05T19:33:22.619Z,"6 km WSW of The Geysers, CA",earthquake,4.71,5.44,0.84,4,automatic,nc,nc
 2024-04-05T19:28:38.050Z,38.8336678,-122.8043365,1.83,0.88,md,9,106,0.01119,0.01,nc,nc74029841,2024-04-05T19:30:12.600Z,"7 km W of Cobb, CA",earthquake,0.43,1.13,0.23,10,automatic,nc,nc
 2024-04-05T19:19:39.583Z,62.9068,-148.3321,0,1.8,ml,,,,1,ak,ak0244f30pk6,2024-04-05T19:22:31.557Z,"62 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-04-05T19:10:25.637Z,52.5326,-167.8112,25.9,2.1,ml,,,,0.33,ak,ak0244f2yqtl,2024-04-05T20:20:04.345Z,"84 km ESE of Nikolski, Alaska",earthquake,,639.8,,,reviewed,ak,ak
 2024-04-05T19:09:48.900Z,47.16,-121.83516666666667,-0.88,1.26,ml,12,148,0.1085,0.05,uw,uw61994531,2024-04-05T19:42:52.960Z,"12 km ESE of Enumclaw, Washington",explosion,0.47,31.61,0.09821577112625057,5,reviewed,uw,uw
 2024-04-05T19:06:22.380Z,38.8170013,-122.7943344,10.55,0.76,md,12,103,0.009052,0.12,nc,nc74029831,2024-04-05T19:07:56.359Z,"6 km NW of The Geysers, CA",earthquake,1.1,1.89,0.1,11,automatic,nc,nc
 2024-04-05T18:57:24.832Z,-11.0088,161.4377,10,4.7,mb,24,129,2.141,0.5,us,us7000ma9y,2024-04-05T19:45:02.040Z,"80 km SW of Kirakira, Solomon Islands",earthquake,7.38,1.84,0.087,40,reviewed,us,us
@@ -42,13 +45,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T15:33:15.420Z,44.1771666666667,-113.9895,7.39,1.94,ml,10,83,0.2089,0.03,mb,mb90045088,2024-04-05T16:23:20.400Z,"34 km ESE of Clayton, Idaho",earthquake,0.27,0.78,0.198732444683743,12,reviewed,mb,mb
 2024-04-05T15:33:13.952Z,40.6803,-74.7672,5,1.9,ml,11,117,0.647,0.44,us,us7000maa5,2024-04-05T20:14:41.044Z,"7 km N of Whitehouse Station, New Jersey",earthquake,2.01,1.983,0.105,12,reviewed,us,us
 2024-04-05T15:30:07.810Z,39.2938347,-123.2306671,7.34,1.5,md,7,99,0.1036,0.04,nc,nc74029781,2024-04-05T15:31:40.474Z,"4 km NW of Redwood Valley, CA",earthquake,0.37,1.56,0.12,7,automatic,nc,nc
-2024-04-05T15:20:20.203Z,40.6721,-74.7437,5,2,ml,23,141,0.661,0.35,us,us7000ma7c,2024-04-05T19:15:02.043Z,"6 km NNE of Whitehouse Station, New Jersey",earthquake,1.61,1.894,0.085,18,reviewed,us,us
+2024-04-05T15:20:20.203Z,40.6721,-74.7437,5,2,ml,23,141,0.661,0.35,us,us7000ma7c,2024-04-05T20:20:38.699Z,"6 km NNE of Whitehouse Station, New Jersey",earthquake,1.61,1.894,0.085,18,reviewed,us,us
 2024-04-05T15:12:39.491Z,61.8998,-150.3119,5.3,1.8,ml,,,,0.55,ak,ak0244f0lh4d,2024-04-05T15:14:28.955Z,"22 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-05T15:00:38.592Z,24.2445,121.7856,17.101,4.9,mb,22,79,0.564,0.61,us,us7000ma78,2024-04-05T15:37:02.040Z,"34 km NNE of Hualien City, Taiwan",earthquake,3.15,5.544,0.122,21,reviewed,us,us
 2024-04-05T14:46:03.170Z,31.68,-104.385,5.5615,1.7,ml,14,68,0.1,0.2,tx,tx2024gssa,2024-04-05T18:56:03.335Z,"54 km S of Whites City, New Mexico",earthquake,0.6157486073368174,1.117523093697112,0.2,12,reviewed,tx,tx
 2024-04-05T14:45:41.020Z,38.7879982,-122.7678299,0.77,0.79,md,11,79,0.01653,0.04,nc,nc74029756,2024-04-05T14:47:15.073Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.62,0.08,12,automatic,nc,nc
 2024-04-05T14:24:25.602Z,62.4187,-151.1212,15.4,1.2,ml,,,,0.29,ak,ak0244f02l1c,2024-04-05T14:26:38.479Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T20:17:06.314Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,5.33,1.881,0.027,130,reviewed,us,us
+2024-04-05T14:23:20.490Z,40.7033,-74.7581,4.7,4.8,mwr,112,69,0.628,0.94,us,us7000ma74,2024-04-05T20:24:52.969Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,5.33,1.881,0.027,130,reviewed,us,us
 2024-04-05T14:05:16.900Z,38.8306656,-122.8170013,1.78,1.08,md,21,66,0.009055,0.02,nc,nc74029746,2024-04-05T19:50:51.247Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.38,0.16,21,automatic,nc,nc
 2024-04-05T13:50:52.128Z,63.1512,-150.4409,112.7,1.6,ml,,,,0.19,ak,ak0244ezms3g,2024-04-05T13:53:15.383Z,"74 km NNE of Petersville, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-04-05T13:48:02.333Z,62.4181,-151.1267,14,1.4,ml,,,,0.66,ak,ak0244ezm8tl,2024-04-05T13:50:12.715Z,"20 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -119,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T06:15:30.450Z,35.4935,-118.4023333,4.82,0.88,ml,27,68,0.1787,0.13,ci,ci40705952,2024-04-05T06:22:19.357Z,"13 km SE of Bodfish, CA",earthquake,0.17,1.24,0.143,9,automatic,ci,ci
 2024-04-05T06:12:47.459Z,23.8085,121.5836,10.206,4.7,mwr,57,79,0.49,0.64,us,us7000ma1q,2024-04-05T06:31:46.040Z,"18 km S of Hualien City, Taiwan",earthquake,3.21,4.078,0.065,23,reviewed,us,us
 2024-04-05T06:10:40.725Z,60.4273,-152.371,93.8,1.1,ml,,,,0.44,ak,ak0244ev852u,2024-04-05T06:12:59.595Z,"57 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-04-05T05:39:54.331Z,61.2598,-152.2031,0,1.1,ml,,,,0.74,ak,ak0244eusyjt,2024-04-05T05:42:21.444Z,"61 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-04-05T05:39:54.331Z,61.2598,-152.2031,0,1.1,ml,,,,0.74,ak,ak0244eusyjt,2024-04-05T20:20:27.690Z,"61 km WNW of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-05T05:25:41.330Z,46.194833333333335,-122.18366666666667,6.73,0.38,ml,19,61,0.005517,0.1,uw,uw61994471,2024-04-05T19:51:01.650Z,"37 km NNE of Amboy, Washington",earthquake,0.33,0.46,0.1627856463708302,11,reviewed,uw,uw
 2024-04-05T05:06:06.879Z,60.0277,-151.5857,33.6,1.7,ml,,,,0.93,ak,ak0244euls9b,2024-04-05T05:08:13.365Z,"5 km ESE of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-05T05:05:41.100Z,46.9535,-121.96983333333333,14.22,1.12,ml,43,80,0.01585,0.1,uw,uw61994466,2024-04-05T17:14:33.300Z,"15 km SSE of Carbonado, Washington",earthquake,0.2,0.28,0.15005068791894116,23,reviewed,uw,uw
@@ -174,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-05T01:20:21.720Z,38.841835,-122.8779984,2.34,0.69,md,6,142,0.007549,0.01,nc,nc74029536,2024-04-05T01:21:59.037Z,"13 km ENE of Cloverdale, CA",earthquake,0.56,0.79,0.19,7,automatic,nc,nc
 2024-04-05T00:45:44.870Z,38.8351669,-122.807663,2.2,0.96,md,15,52,0.0119,0.01,nc,nc74029531,2024-04-05T00:47:18.671Z,"8 km W of Cobb, CA",earthquake,0.28,0.59,0.24,15,automatic,nc,nc
 2024-04-05T00:43:00.460Z,38.7939987,-122.7563324,0.37,0.93,md,13,86,0.007124,0.02,nc,nc74029526,2024-04-05T00:44:33.629Z,"2 km N of The Geysers, CA",earthquake,0.23,0.6,0.21,14,automatic,nc,nc
-2024-04-05T00:41:21.410Z,33.4515,-116.5855,11.91,0.77,ml,24,74,0.04617,0.14,ci,ci40705848,2024-04-05T00:47:29.885Z,"14 km SE of Anza, CA",earthquake,0.25,0.51,0.248,16,automatic,ci,ci
+2024-04-05T00:41:21.370Z,33.455,-116.587,12.45,0.69,ml,21,73,0.04158,0.1,ci,ci40705848,2024-04-05T20:26:12.861Z,"14 km SE of Anza, CA",earthquake,0.22,0.32,0.143,9,reviewed,ci,ci
 2024-04-05T00:33:22.861Z,58.633,-153.6316,74.6,2.5,ml,,,,0.28,ak,ak0244ersfsu,2024-04-05T00:34:44.218Z,"76 km NW of Aleneva, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-04-05T00:31:18.190Z,17.9551666666667,-66.9591666666667,6.69,3.06,md,7,314,0.347,0.11,pr,pr71444628,2024-04-05T01:03:47.704Z,"5 km WSW of Guánica, Puerto Rico",earthquake,1.82,2.62,0.0997852373192278,4,reviewed,pr,pr
 2024-04-05T00:27:07.040Z,19.8876,-64.4555,63,3.66,md,11,290,1.4815,0.18,pr,pr2024096000,2024-04-05T00:55:30.560Z,"175 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.9,14.6,0.13,4,reviewed,pr,pr
@@ -233,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-04T20:39:26.320Z,38.8310013,-122.8171692,1.57,1.09,md,6,81,0.009402,0,nc,nc74029381,2024-04-04T20:40:58.427Z,"8 km NW of The Geysers, CA",earthquake,0.42,1.25,0.16,10,automatic,nc,nc
 2024-04-04T20:31:49.135Z,41.9425,142.4691,62.988,5,mww,91,95,0.518,0.71,us,us7000m9z0,2024-04-05T14:11:00.637Z,"35 km SW of Urakawa, Japan",earthquake,5,5.009,0.089,12,reviewed,us,us
 2024-04-04T20:27:10.488Z,58.296,-154.6834,8.1,1.6,ml,,,,0.89,ak,ak0244dg4g5k,2024-04-04T23:32:20.340Z,"82 km N of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-04T20:24:04.760Z,19.195499420166,-155.356338500977,27.4799995422363,1.96000004,md,43,185,0.1076,0.129999995,hv,hv74160917,2024-04-04T20:25:56.970Z,"12 km E of Pāhala, Hawaii",earthquake,0.52,0.680000007,0.0900000036,8,automatic,hv,hv
-2024-04-04T20:22:19.171Z,37.7156,-117.3169,8.5,1.9,ml,12,106.54,0.367,0.1096,nn,nn00875824,2024-04-04T20:56:32.138Z,"7 km W of Goldfield, Nevada",earthquake,,2.4,0.39,7,reviewed,nn,nn
