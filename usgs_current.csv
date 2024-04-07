@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T00:57:13.228Z,31.584,-104.549,3.767,1.5,ml,14,162,0.1,0.2,tx,tx2024gvhr,2024-04-07T01:11:47.088Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.59651266753781,0.1,9,automatic,tx,tx
 2024-04-07T00:48:41.560Z,19.3784999847412,-155.296173095703,1.52999997138977,2.25,md,11,110,0.01163,0.360000014,hv,hv74163427,2024-04-07T01:16:11.089Z,"9 km SW of Volcano, Hawaii",earthquake,0.59,0.579999983,0.239999995,10,automatic,hv,hv
 2024-04-07T00:35:07.510Z,40.3798333,-125.2696667,10,3.39,ml,103,237,0.7145,0.29,nc,nc74030516,2024-04-07T01:39:32.196Z,"84 km W of Petrolia, CA",earthquake,1.23,31.61,0.196,46,reviewed,nc,nc
-2024-04-07T00:28:45.520Z,36.9544983,-121.5868301,7.05,2.49,md,68,33,0.003914,0.22,nc,nc74030511,2024-04-07T02:37:40.370Z,"6 km SSW of Gilroy, CA",earthquake,0.26,0.56,0.12,72,automatic,nc,nc
+2024-04-07T00:28:45.520Z,36.9544983,-121.5868301,7.05,2.49,md,68,33,0.003914,0.22,nc,nc74030511,2024-04-07T04:27:28.680Z,"6 km SSW of Gilroy, CA",earthquake,0.26,0.56,0.12,72,automatic,nc,nc
 2024-04-07T00:23:02.130Z,33.577,-116.8098333,8.45,1.94,ml,84,26,0.04165,0.21,ci,ci40706592,2024-04-07T00:33:52.160Z,"13 km W of Anza, CA",earthquake,0.13,0.39,0.132,26,automatic,ci,ci
 2024-04-06T23:54:47.680Z,38.7851677,-122.7356644,1.38,1.23,md,14,82,0.02432,0.02,nc,nc74030506,2024-04-06T23:56:19.897Z,"2 km ENE of The Geysers, CA",earthquake,0.24,0.85,0.13,14,automatic,nc,nc
 2024-04-06T23:27:58.339Z,57.5124,-155.5636,2.7,2.1,ml,,,,0.27,ak,ak0244gszjnd,2024-04-06T23:29:47.029Z,"66 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -172,7 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T08:10:24.977Z,23.7672,121.6069,10.513,4.1,mwr,36,81,0.469,0.57,us,us7000maej,2024-04-06T08:46:31.040Z,"23 km S of Hualien City, Taiwan",earthquake,4.61,5.11,0.073,18,reviewed,us,us
 2024-04-06T08:09:18.260Z,40.6946,-74.7667,5,1.7,ml,10,148,0.634,0.91,us,us7000maei,2024-04-06T16:39:58.568Z,"6 km ESE of Califon, New Jersey",earthquake,2.38,1.612,0.115,10,reviewed,us,us
 2024-04-06T08:07:55.752Z,61.4219,-149.923,34.1,2.4,ml,,,,0.36,ak,ak0244gjxr1z,2024-04-06T08:09:35.448Z,"7 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-06T08:02:47.554Z,55.5251,-156.0799,39.8,2.6,ml,,,,0.63,ak,ak0244gjws3s,2024-04-06T17:21:01.353Z,"168 km ESE of Chignik, Alaska",earthquake,,1.7,,,reviewed,ak,ak
+2024-04-06T08:02:47.554Z,55.5251,-156.0799,39.8,2.6,ml,,,,0.63,ak,ak0244gjws3s,2024-04-07T04:28:52.040Z,"168 km ESE of Chignik, Alaska",earthquake,,1.7,,,reviewed,ak,ak
 2024-04-06T08:02:18.770Z,34.3538333333333,-81.2436666666667,5.08,1.23,md,4,126,0.07307,0.04,se,se60501833,2024-04-06T20:26:42.345Z,"10 km NNE of Jenkinsville, South Carolina",earthquake,3.33,5.88,0.0278155362740957,3,reviewed,se,se
 2024-04-06T07:56:38.233Z,36.7708,-116.2553,9.2,0.5,ml,31,64.98,0.05,0.107,nn,nn00875883,2024-04-06T19:53:01.422Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.29,14,reviewed,nn,nn
 2024-04-06T07:50:04.800Z,19.3946666717529,-155.273498535156,0.439999997615814,2.94,ml,47,42,0.0007109,0.370000005,hv,hv74162637,2024-04-06T07:58:15.040Z,"6 km SW of Volcano, Hawaii",earthquake,0.34,0.270000011,0.44,35,automatic,hv,hv
@@ -220,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-06T04:51:03.320Z,52.7991666666667,-169.889833333333,7.32,1.4,ml,5,161,0.02392,0.3,av,av93001559,2024-04-06T21:58:49.430Z,"70 km WSW of Nikolski, Alaska",earthquake,1.65,1.24,0.31603599117985,5,reviewed,av,av
 2024-04-06T04:41:54.132Z,60.7335,-148.9698,12.6,2.6,ml,,,,0.79,ak,ak0244ghraut,2024-04-06T05:01:43.040Z,"16 km WSW of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-06T04:39:58.300Z,38.7991676,-122.8106689,3,1.21,md,23,69,0.01235,0.03,nc,nc74030031,2024-04-06T04:41:34.842Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.4,0.15,25,automatic,nc,nc
-2024-04-06T04:28:03.300Z,38.8266678,-122.8050003,2.59,0.79,md,11,94,0.005137,0.01,nc,nc74030026,2024-04-06T04:29:38.641Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.94,0.17,12,automatic,nc,nc
