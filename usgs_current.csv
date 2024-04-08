@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T22:44:45.344Z,31.641,-104.293,4.3759,1.8,ml,18,69,0,0.3,tx,tx2024gyui,2024-04-08T22:55:05.094Z,"59 km NW of Toyah, Texas",earthquake,0,1.30293215232619,0.1,14,automatic,tx,tx
 2024-04-08T22:37:07.039Z,64.4752,-146.8908,4.8,1.6,ml,,,,0.66,ak,ak0244k3iu8f,2024-04-08T22:38:56.743Z,"5 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-08T22:35:40.053Z,60.267,-151.7563,64,1.1,ml,,,,0.34,ak,ak0244k3ihcl,2024-04-08T22:37:34.631Z,"20 km W of Clam Gulch, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-04-08T22:32:45.470Z,33.5816667,-116.8055,7.91,0.52,ml,23,54,0.03658,0.1,ci,ci40708040,2024-04-08T22:38:46.294Z,"13 km WNW of Anza, CA",earthquake,0.17,0.33,0.109,12,automatic,ci,ci
+2024-04-08T22:32:45.470Z,33.5816667,-116.8055,7.91,0.52,ml,23,54,0.03658,0.1,ci,ci40708040,2024-04-08T23:23:01.438Z,"13 km WNW of Anza, CA",earthquake,0.17,0.33,0.109,12,reviewed,ci,ci
 2024-04-08T22:14:06.575Z,23.9504,121.7238,19.092,4.5,mb,45,78,0.679,0.63,us,us7000mavj,2024-04-08T23:11:38.040Z,"12 km ESE of Hualien City, Taiwan",earthquake,3.72,4.911,0.083,44,reviewed,us,us
 2024-04-08T22:04:06.551Z,61.4008,-146.8244,23.3,1.6,ml,,,,0.72,ak,ak0244k3brkf,2024-04-08T22:06:10.255Z,"39 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-08T21:59:24.016Z,38.841,21.1294,33.592,4.4,mb,37,90,0.958,0.74,us,us7000mavg,2024-04-08T22:59:19.040Z,"3 km WSW of Amfilochía, Greece",earthquake,5.79,6.431,0.089,36,reviewed,us,us
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T10:12:27.290Z,34.0938333,-117.3071667,15.13,0.78,ml,33,77,0.115,0.16,ci,ci40707344,2024-04-08T14:08:08.290Z,"2 km NNE of Colton, CA",earthquake,0.17,0.41,0.164,13,reviewed,ci,ci
 2024-04-08T10:07:39.448Z,40.6614,-74.7326,5.565,1.6,ml,18,144,0.673,0.35,us,us7000mau7,2024-04-08T22:22:47.832Z,"6 km NNE of Whitehouse Station, New Jersey",earthquake,1.7,4.988,0.097,14,reviewed,us,us
 2024-04-08T09:53:32.920Z,33.9365,-116.7081667,9.16,0.69,ml,32,58,0.1134,0.13,ci,ci40707336,2024-04-08T14:08:13.849Z,"8 km ENE of Cabazon, CA",earthquake,0.16,0.49,0.14,15,reviewed,ci,ci
-2024-04-08T09:53:29.180Z,19.3383331298828,-155.153503417969,2.10999989509583,2.29,ml,46,81,0.05334,0.219999999,hv,hv74164947,2024-04-08T09:56:09.010Z,"14 km S of Fern Forest, Hawaii",earthquake,0.32,0.550000012,0.29,14,automatic,hv,hv
+2024-04-08T09:53:29.160Z,19.338,-155.150333333333,2.2,1.62,md,43,84,0.05221,0.16,hv,hv74164947,2024-04-08T23:20:41.750Z,"14 km S of Fern Forest, Hawaii",earthquake,0.28,0.53,0.204505587589231,20,reviewed,hv,hv
 2024-04-08T09:52:15.736Z,11.257,-87.2909,10,4.3,mb,55,190,1.352,0.71,us,us7000marb,2024-04-08T11:26:41.040Z,"103 km SW of Masachapa, Nicaragua",earthquake,4.12,1.982,0.068,62,reviewed,us,us
 2024-04-08T09:49:55.810Z,47.4653333333333,-115.961666666667,0.02,1.35,ml,7,106,0.5026,0.06,mb,mb90045748,2024-04-08T19:40:34.570Z,"2 km WSW of Wallace, Idaho",earthquake,0.4,31.61,0.177401785589523,8,reviewed,mb,mb
 2024-04-08T09:49:13.838Z,65.045,-148.7451,5.9,1.1,ml,,,,0.94,ak,ak0244jvushj,2024-04-08T09:50:55.033Z,"30 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-07T23:56:03.950Z,38.8221664,-122.8111649,2.91,1.14,md,17,58,0.001494,0.01,nc,nc74031016,2024-04-07T23:57:39.033Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.56,0.18,20,automatic,nc,nc
 2024-04-07T23:31:47.399Z,40.7124,-74.7535,5,1.3,ml,6,149,0.705,0.38,us,us7000mapc,2024-04-08T17:04:55.547Z,"6 km E of Califon, New Jersey",earthquake,1.97,1.951,0.148,6,reviewed,us,us
 2024-04-07T23:29:12.020Z,38.8151665,-122.8180008,2.91,0.77,md,6,151,0.01029,0.01,nc,nc74031011,2024-04-07T23:30:48.681Z,"7 km NW of The Geysers, CA",earthquake,0.87,2.17,0.25,7,automatic,nc,nc
-2024-04-07T23:28:01.660Z,38.8396683,-122.8356705,2.22,0.66,md,9,115,0.0178,0.01,nc,nc74031006,2024-04-07T23:29:33.695Z,"10 km NW of The Geysers, CA",earthquake,0.34,1.01,0.44,9,automatic,nc,nc
