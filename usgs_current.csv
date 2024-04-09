@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T11:10:53.570Z,35.4503333,-118.3528333,2.73,0.67,ml,22,63,0.1681,0.14,ci,ci40708344,2024-04-09T13:40:43.823Z,"20 km SE of Bodfish, CA",earthquake,0.19,0.93,0.207,7,reviewed,ci,ci
 2024-04-09T11:02:20.760Z,19.208833694458,-155.381500244141,31.3400001525879,1.99000001,md,38,178,0.09289,0.100000001,hv,hv74165867,2024-04-09T11:04:09.500Z,"10 km E of Pāhala, Hawaii",earthquake,0.44,0.550000012,0.0299999993,4,automatic,hv,hv
 2024-04-09T11:02:14.870Z,38.8261681,-122.8581696,2.38,1.3,md,20,100,0.01604,0.02,nc,nc74031736,2024-04-09T11:03:51.571Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.55,0.18,20,automatic,nc,nc
-2024-04-09T10:59:15.855Z,40.4572,-119.6377,15.3,2.6,ml,16,80.62,0.296,0.3704,nn,nn00875947,2024-04-09T11:01:56.344Z,"28 km WSW of Empire, Nevada",earthquake,,0.7,0.19,7,automatic,nn,nn
+2024-04-09T10:59:16.003Z,40.4703,-119.7872,9.1,2.6,ml,10,66.98,0.303,0.2865,nn,nn00875947,2024-04-09T16:30:36.234Z,"39 km WSW of Empire, Nevada",earthquake,,2.5,0.21,6,reviewed,nn,nn
 2024-04-09T10:47:03.284Z,36.727,-116.121,7.8,-0.1,ml,11,93.99,0.009,0.037,nn,nn00875956,2024-04-09T15:40:19.869Z,"43 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.21,4,reviewed,nn,nn
 2024-04-09T10:45:27.435Z,-22.2971,179.5116,572.458,4.9,mb,71,83,5.039,0.81,us,us7000mayy,2024-04-09T11:04:41.040Z,"south of the Fiji Islands",earthquake,9.92,9.198,0.07,63,reviewed,us,us
 2024-04-09T10:42:46.800Z,38.8364983,-122.8073349,2.07,0.93,md,12,57,0.01326,0.01,nc,nc74031721,2024-04-09T10:44:21.291Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.73,0.23,13,automatic,nc,nc
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T03:09:53.700Z,35.4005,-118.644,4.42,2.23,ml,44,35,0.1251,0.19,ci,ci40708216,2024-04-09T16:19:12.360Z,"25 km SSW of Bodfish, CA",earthquake,0.16,0.63,0.196,62,reviewed,ci,ci
 2024-04-09T03:04:04.910Z,33.6928333,-116.712,18.16,0.75,ml,23,60,0.01838,0.12,ci,ci40708208,2024-04-09T13:42:34.429Z,"5 km S of Idyllwild, CA",earthquake,0.27,0.44,0.297,12,reviewed,ci,ci
 2024-04-09T02:50:14.340Z,38.7796669,-122.7248306,1,0.72,md,7,154,0.009957,0.04,nc,nc74031591,2024-04-09T02:51:50.734Z,"3 km E of The Geysers, CA",earthquake,0.56,1.81,0.58,7,automatic,nc,nc
-2024-04-09T02:46:40.391Z,37.7124,-77.5039,5,2.1,mb_lg,10,113,0.389,0.63,us,us7000mawq,2024-04-09T16:18:47.546Z,"5 km N of Glen Allen, Virginia",earthquake,1.19,1.947,0.255,4,reviewed,us,us
+2024-04-09T02:46:40.391Z,37.7124,-77.5039,5,2.1,mb_lg,10,113,0.389,0.63,us,us7000mawq,2024-04-09T16:29:52.393Z,"5 km N of Glen Allen, Virginia",earthquake,1.19,1.947,0.255,4,reviewed,us,us
 2024-04-09T02:43:36.110Z,33.3081667,-116.2843333,10.3,0.63,ml,19,206,0.05805,0.15,ci,ci37643012,2024-04-09T16:07:17.658Z,"10 km NE of Borrego Springs, CA",earthquake,0.46,0.39,0.12,6,reviewed,ci,ci
 2024-04-09T02:43:32.880Z,32.636,-115.792,8.22,1.25,ml,27,77,0.05694,0.17,ci,ci40708200,2024-04-09T15:39:24.309Z,"20 km WNW of Progreso, B.C., MX",earthquake,0.23,0.54,0.206,16,reviewed,ci,ci
 2024-04-09T02:26:26.890Z,32.4033333,-115.2061667,11.02,3.03,ml,34,51,0.08514,0.34,ci,ci40708192,2024-04-09T14:32:33.241Z,"6 km NNW of Delta, B.C., MX",earthquake,0.43,0.95,0.146,64,reviewed,ci,ci
@@ -180,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-08T17:11:37.582Z,57.0593,-157.3565,0,2.4,ml,,,,0.99,ak,ak0244k0e5w0,2024-04-08T17:13:53.305Z,"50 km S of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-08T16:52:49.780Z,35.814167,-120.3518295,4.13,0.98,md,11,131,0.01664,0.02,nc,nc74031406,2024-04-08T16:54:24.144Z,"11 km NNW of Cholame, CA",earthquake,0.74,0.67,0.09,5,automatic,nc,nc
 2024-04-08T16:35:23.910Z,38.4923333333333,-112.833,0.16,0.83,md,14,100,0.02896,0.22,uu,uu80066346,2024-04-08T17:22:31.360Z,"18 km NE of Milford, Utah",earthquake,0.58,10.11,0.188008765379967,6,reviewed,uu,uu
-2024-04-08T16:24:52.595Z,63.3479,-150.8277,69.9,1.8,ml,,,,1.68,ak,ak0244jzvjt7,2024-04-08T16:26:31.250Z,"49 km ESE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-04-08T16:24:18.095Z,61.2788,-145.9197,23.8,1.7,ml,,,,0.73,ak,ak0244jzvh5b,2024-04-08T16:26:27.113Z,"28 km NE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-08T16:23:09.430Z,46.742,-121.93133333333333,7.08,0.48,ml,26,91,0.01019,0.12,uw,uw61995201,2024-04-08T19:53:59.940Z,"7 km ESE of Ashford, Washington",earthquake,0.25,0.39,0.1423524105984093,7,reviewed,uw,uw
