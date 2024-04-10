@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-10T13:31:55.862Z,61.439,-150.4194,16.3,1.4,ml,,,,0.49,ak,ak0244n97g8y,2024-04-10T13:33:37.494Z,"12 km SSE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-10T13:30:45.870Z,33.8364983,-118.5828323,7.42,1.87,ml,25,154,0.175,0.22,ci,ci40709616,2024-04-10T13:32:54.326Z,"17 km WSW of Manhattan Beach, CA",earthquake,0.63,1.6,0.31,29,automatic,ci,ci
+2024-04-10T13:30:45.730Z,33.8353333,-118.5771667,3.22,1.84,ml,40,133,0.1672,0.24,ci,ci40709616,2024-04-10T13:37:33.022Z,"16 km WSW of Manhattan Beach, CA",earthquake,0.32,1.25,0.131,28,automatic,ci,ci
 2024-04-10T13:29:46.270Z,38.8276672,-122.8150024,2.03,0.81,md,13,116,0.005746,0.02,nc,nc74032251,2024-04-10T13:31:19.675Z,"8 km NW of The Geysers, CA",earthquake,0.29,0.68,0.29,14,automatic,nc,nc
 2024-04-10T13:11:01.700Z,33.6943333,-116.7126667,17.62,0.73,ml,33,37,0.01684,0.11,ci,ci40709592,2024-04-10T13:17:06.881Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.27,0.304,17,automatic,ci,ci
 2024-04-10T12:20:56.449Z,58.2781,-155.0255,1.1,1.7,ml,,,,0.92,ak,ak0244n8jnt8,2024-04-10T12:21:50.028Z,"85 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T09:18:20.790Z,33.1908333,-116.0336667,4.21,0.75,ml,42,55,0.09763,0.26,ci,ci40709456,2024-04-10T09:24:26.798Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.26,1.04,0.095,10,automatic,ci,ci
 2024-04-10T09:13:55.250Z,19.1935005187988,-155.492340087891,30.8299999237061,1.88,md,45,73,0.04745,0.150000006,hv,hv74166682,2024-04-10T09:15:51.050Z,"1 km SW of Pāhala, Hawaii",earthquake,0.55,0.709999979,0.25,13,automatic,hv,hv
 2024-04-10T09:11:10.109Z,61.2745,-145.8141,37.5,1.9,ml,,,,0.69,ak,ak0244n6pbz1,2024-04-10T09:14:07.072Z,"32 km ENE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-10T09:09:44.079Z,23.8862,121.668,25.373,4.6,mb,33,55,0.598,0.81,us,us7000mb67,2024-04-10T12:52:10.040Z,"11 km SSE of Hualien City, Taiwan",earthquake,3.53,5.95,0.093,34,reviewed,us,us
+2024-04-10T09:09:44.079Z,23.8862,121.668,25.373,4.6,mb,33,55,0.598,0.81,us,us7000mb67,2024-04-10T13:43:44.572Z,"11 km SSE of Hualien City, Taiwan",earthquake,3.53,5.95,0.093,34,reviewed,us,us
 2024-04-10T09:03:28.417Z,39.6199,-119.8235,10.6,1.1,ml,13,75,0.056,0.1227,nn,nn00875990,2024-04-10T09:05:19.023Z,"0 km NNE of Golden Valley, Nevada",earthquake,,0.6,0.22,6,automatic,nn,nn
 2024-04-10T08:48:51.360Z,38.8516655,-122.80867,2.68,1.26,md,18,74,0.009549,0.08,nc,nc74032186,2024-04-10T08:50:24.226Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.63,0.21,20,automatic,nc,nc
 2024-04-10T08:35:48.660Z,18.02,-66.8528333333333,16.66,2.55,md,5,132,0.05129,0.07,pr,pr71445308,2024-04-10T08:51:21.900Z,"1 km S of Yauco, Puerto Rico",earthquake,0.62,0.79,0.057309063835975,4,reviewed,pr,pr
@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-09T14:24:54.640Z,38.8354988,-122.7990036,2.24,1.09,md,16,63,0.007361,0.02,nc,nc74031786,2024-04-09T14:26:27.858Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.53,0.06,17,automatic,nc,nc
 2024-04-09T14:17:49.710Z,35.6821667,-117.5048333,6.54,0.99,ml,15,128,0.06821,0.12,ci,ci40708448,2024-04-09T17:14:20.997Z,"13 km SW of Searles Valley, CA",earthquake,0.33,0.75,0.125,4,reviewed,ci,ci
 2024-04-09T14:07:03.740Z,28.0599,100.2997,16.05,5,mb,125,35,8.397,0.75,us,us7000mazk,2024-04-10T02:44:43.365Z,"43 km NW of Yongning, China",earthquake,9.25,4.309,0.046,158,reviewed,us,us
-2024-04-09T13:37:36.353Z,63.111,-150.4014,107.4,1.1,ml,,,,0.56,ak,ak0244llpcjn,2024-04-09T13:40:32.443Z,"70 km NNE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
