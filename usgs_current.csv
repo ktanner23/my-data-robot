@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-11T22:12:46.890Z,37.2161,-117.5682,3.3,1.4,ml,23,152.55,0.064,0.2917,nn,nn00876074,2024-04-11T22:15:15.564Z,"60 km S of Silver Peak, Nevada",earthquake,,1.1,0.21,9,automatic,nn,nn
-2024-04-11T22:11:18.354Z,36.2278,-115.2554,2.4,1.9,ml,13,279.94,0.288,0.4095,nn,nn00876072,2024-04-11T22:13:54.531Z,"12 km WNW of Las Vegas, Nevada",earthquake,,27.6,0.67,12,automatic,nn,nn
 2024-04-11T22:08:06.960Z,19.1748332977295,-155.479827880859,34.9500007629395,2.0999999,md,30,161,0.02557,0.109999999,hv,hv74168807,2024-04-11T22:09:51.380Z,"3 km S of Pāhala, Hawaii",earthquake,0.78,0.699999988,0.170000002,7,automatic,hv,hv
+2024-04-11T21:51:34.952Z,31.676,-104.426,6.7198,1.8,ml,17,56,0,0.3,tx,tx2024hefc,2024-04-11T22:22:12.315Z,"55 km S of Whites City, New Mexico",earthquake,0,2.46647751916353,0.2,13,automatic,tx,tx
 2024-04-11T21:17:03.869Z,37.7121,-117.3141,5,1.3,ml,18,98.05,0.056,0.1405,nn,nn00876067,2024-04-11T21:45:45.930Z,"6 km W of Goldfield, Nevada",earthquake,,1.4,0.36,6,reviewed,nn,nn
 2024-04-11T21:08:52.170Z,19.383,-155.278333333333,1.49,1.5,ml,23,45,0.004747,0.1,hv,hv74168762,2024-04-11T22:18:53.250Z,"8 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.0970721727927661,7,reviewed,hv,hv
 2024-04-11T21:07:22.810Z,33.9281667,-116.7846667,14.1,1.79,ml,67,24,0.01439,0.16,ci,ci40711224,2024-04-11T21:18:02.160Z,"1 km N of Cabazon, CA",earthquake,0.12,0.26,0.092,28,automatic,ci,ci
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-11T20:31:23.311Z,38.3136,-119.241,3.7,1.5,ml,6,221.7,0.581,0.1629,nn,nn00876071,2024-04-11T21:33:17.727Z,"6 km N of Bridgeport, California",earthquake,,2.6,0,1,reviewed,nn,nn
 2024-04-11T20:29:09.970Z,38.8268318,-122.8873367,3.45,0.25,md,8,232,0.01177,0.02,nc,nc74032881,2024-04-11T20:30:44.527Z,"12 km ENE of Cloverdale, CA",earthquake,1.26,1.74,0.13,8,automatic,nc,nc
 2024-04-11T20:15:47.550Z,19.3703327178955,-155.292663574219,0.889999985694885,1.76999998,md,7,263,0.01914,0.109999999,hv,hv74168712,2024-04-11T20:17:00.420Z,"10 km SW of Volcano, Hawaii",earthquake,0.63,0.49000001,0.209999993,6,automatic,hv,hv
-2024-04-11T19:40:47.530Z,33.1998333,-116.031,6.5,1.12,ml,37,84,0.08854,0.18,ci,ci40711160,2024-04-11T19:47:24.530Z,"11 km NE of Ocotillo Wells, CA",earthquake,0.19,0.76,0.136,24,automatic,ci,ci
+2024-04-11T19:40:47.470Z,33.1986667,-116.0325,7.24,1.12,ml,40,60,0.05233,0.17,ci,ci40711160,2024-04-11T22:23:10.083Z,"11 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.42,0.113,22,reviewed,ci,ci
 2024-04-11T19:39:51.129Z,64.9969,-147.0425,3.6,1.7,ml,,,,0.77,ak,ak0244p0d3qg,2024-04-11T19:41:39.187Z,"13 km N of Two Rivers, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-11T19:32:51.670Z,38.8338318,-122.8051682,1.64,0.77,md,10,103,0.0111,0.02,nc,nc74032876,2024-04-11T19:34:24.942Z,"7 km W of Cobb, CA",earthquake,0.35,0.96,0.2,13,automatic,nc,nc
 2024-04-11T18:57:12.660Z,19.390832901001,-155.275497436523,1.3400000333786,1.96,ml,19,49,0.004839,0.109999999,hv,hv74168512,2024-04-11T18:59:50.280Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.159999996,0.29,9,automatic,hv,hv
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-10T22:46:09.830Z,38.8274994,-122.7948303,1.14,1.1,md,20,38,0.01144,0.02,nc,nc74032461,2024-04-10T22:47:42.387Z,"6 km W of Cobb, CA",earthquake,0.19,0.4,0.17,21,automatic,nc,nc
 2024-04-10T22:45:36.970Z,38.8268318,-122.8068314,1.86,0.94,md,6,178,0.004265,0.03,nc,nc74032456,2024-04-10T22:47:12.366Z,"7 km NW of The Geysers, CA",earthquake,0.69,1.1,0.15,8,automatic,nc,nc
 2024-04-10T22:44:03.863Z,64.9245,-147.7684,0,1.3,ml,,,,1.1,ak,ak0244nen0zt,2024-04-10T22:46:40.884Z,"3 km WNW of Farmers Loop, Alaska",earthquake,,29.4,,,automatic,ak,ak
-2024-04-10T22:24:37.990Z,35.6558333,-117.5116667,2.89,1.29,ml,21,103,0.07222,0.13,ci,ci40710376,2024-04-11T00:57:25.647Z,"15 km ENE of Ridgecrest, CA",earthquake,0.22,0.35,0.208,14,reviewed,ci,ci
-2024-04-10T22:21:49.464Z,40.7078,-74.7676,8.35,1.4,ml,4,215,0.009,0.24,us,us7000mbdi,2024-04-11T20:59:31.643Z,"5 km ESE of Califon, New Jersey",earthquake,2.64,5.623,0.148,6,reviewed,us,us
