@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-20T14:31:35.110Z,19.3646659851074,-155.276992797852,-0.519999980926514,1.77999997,md,12,179,0.0145,0.109999999,hv,hv74179552,2024-04-20T14:33:04.500Z,"9 km SSW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.239999995,8,automatic,hv,hv
-2024-04-20T14:29:16.770Z,33.6343346,-116.7630005,15.12,1.5,ml,51,51,0.04055,0.17,ci,ci40552319,2024-04-20T14:31:36.464Z,"12 km NW of Anza, CA",earthquake,0.24,0.46,0.289,13,automatic,ci,ci
+2024-04-20T14:29:16.790Z,33.632,-116.7645,15.23,1.34,ml,61,40,0.03821,0.17,ci,ci40552319,2024-04-20T14:39:53.950Z,"12 km NW of Anza, CA",earthquake,0.14,0.29,0.212,27,automatic,ci,ci
 2024-04-20T14:23:06.443Z,34.58878326,-96.8217926,2.615445852,2.27,ml,31,83.83789062,0.1720887423,0.7640240374,ok,ok2024hubv,2024-04-20T14:29:57.879Z,"4 km SSE of Roff, Oklahoma",earthquake,2.301676861,1.784326359,0.19,23,automatic,ok,ok
-2024-04-20T14:09:11.966Z,15.1927,-92.5467,111.556,4.9,mb,59,151,1.145,0.94,us,us7000mdh8,2024-04-20T14:34:17.733Z,"2 km NNE of Lázaro Cárdenas, Mexico",earthquake,4.32,6.175,0.024,543,reviewed,us,us
+2024-04-20T14:09:11.966Z,15.1927,-92.5467,111.556,4.9,mb,59,151,1.145,0.94,us,us7000mdh8,2024-04-20T14:41:56.934Z,"2 km NNE of Lázaro Cárdenas, Mexico",earthquake,4.32,6.175,0.024,543,reviewed,us,us
 2024-04-20T13:58:45.970Z,34.4181667,-116.483,6.81,1.05,ml,28,60,0.1191,0.1,ci,ci40552303,2024-04-20T14:06:45.916Z,"34 km N of Yucca Valley, CA",earthquake,0.14,0.45,0.155,19,automatic,ci,ci
 2024-04-20T13:58:34.710Z,34.583,-119.1173333,1.99,1.84,ml,46,38,0.1467,0.26,ci,ci40552295,2024-04-20T14:09:43.780Z,"19 km NE of Ojai, CA",earthquake,0.21,1.39,0.117,27,automatic,ci,ci
 2024-04-20T13:29:41.186Z,60.9115,-153.2333,14.9,1.2,ml,,,,0.2,ak,ak02453skgme,2024-04-20T13:30:59.133Z,"98 km NE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -95,6 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T04:52:35.027Z,37.2179,-117.6147,9.7,1,ml,12,179.92000000000002,0.029,0.154,nn,nn00876539,2024-04-20T04:55:00.722Z,"59 km S of Silver Peak, Nevada",earthquake,,0.6,0.39,9,reviewed,nn,nn
 2024-04-20T04:52:09.510Z,38.8426666,-122.8291702,1.66,0.76,md,10,144,0.006396,0.02,nc,nc74037731,2024-04-20T04:53:42.571Z,"10 km WNW of Cobb, CA",earthquake,0.35,0.79,0.16,10,automatic,nc,nc
 2024-04-20T04:51:35.634Z,36.5966,-116.2514,12.4,0,ml,14,230.58999999999997,0.085,0.1725,nn,nn00876536,2024-04-20T04:53:09.910Z,"49 km NNW of Pahrump, Nevada",earthquake,,0.8,0.42,6,reviewed,nn,nn
+2024-04-20T04:47:08.300Z,36.6243,-116.2435,6.7,-0.4,ml,11,227.07999999999998,0.08,0.0576,nn,nn00876586,2024-04-20T14:40:38.720Z,"51 km W of Indian Springs, Nevada",earthquake,,1.7,0.21,5,reviewed,nn,nn
 2024-04-20T04:46:36.376Z,36.6257,-116.2449,7.1,-0.1,ml,17,203.76,0.078,0.0609,nn,nn00876534,2024-04-20T13:33:29.222Z,"51 km W of Indian Springs, Nevada",earthquake,,1.3,0.83,6,reviewed,nn,nn
 2024-04-20T04:45:35.409Z,36.628,-116.2403,5.9,-0.4,ml,8,223.29999999999998,0.078,0.0192,nn,nn00876583,2024-04-20T13:27:20.267Z,"51 km W of Indian Springs, Nevada",earthquake,,2.4,0.06,4,reviewed,nn,nn
 2024-04-20T04:45:25.095Z,36.626,-116.2434,5.8,-0.5,ml,11,225.29,0.079,0.0475,nn,nn00876582,2024-04-20T13:24:15.496Z,"51 km W of Indian Springs, Nevada",earthquake,,1.9,0.15,5,reviewed,nn,nn
@@ -103,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T04:23:20.430Z,38.8396683,-122.8379974,1.32,0.36,md,11,126,0.002237,0.01,nc,nc74037721,2024-04-20T04:24:53.286Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.63,0.26,13,automatic,nc,nc
 2024-04-20T04:21:07.246Z,37.2604,-117.6088,10.1,1.2,ml,12,169.28999999999996,0.28,0.2951,nn,nn00876529,2024-04-20T04:23:29.942Z,"54 km S of Silver Peak, Nevada",earthquake,,1.3,0.54,6,reviewed,nn,nn
 2024-04-20T04:19:10.500Z,37.2648,-117.6031,8,0.8,ml,9,162.99,0.047,0.2071,nn,nn00876527,2024-04-20T04:21:39.605Z,"54 km S of Silver Peak, Nevada",earthquake,,1,0.45,5,reviewed,nn,nn
-2024-04-20T04:18:57.970Z,46.24583333333333,-119.2795,8.03,2.83,ml,39,68,0.1174,0.12,uw,uw61998221,2024-04-20T14:31:32.983Z,"4 km S of Richland, Washington",earthquake,0.19,0.21,0.18140400635826737,42,reviewed,uw,uw
+2024-04-20T04:18:57.970Z,46.24583333333333,-119.2795,8.03,2.83,ml,39,68,0.1174,0.12,uw,uw61998221,2024-04-20T14:38:30.736Z,"4 km S of Richland, Washington",earthquake,0.19,0.21,0.18140400635826737,42,reviewed,uw,uw
 2024-04-20T04:12:40.796Z,37.2391,-117.5961,8.3,1.2,ml,22,128.31999999999996,0.04,0.2373,nn,nn00876525,2024-04-20T04:15:21.886Z,"57 km S of Silver Peak, Nevada",earthquake,,0.7,0.25,15,reviewed,nn,nn
 2024-04-20T04:04:57.580Z,38.7451668,-122.867836,-0.65,0.57,md,7,189,0.05494,0.25,nc,nc74037711,2024-04-20T04:06:32.057Z,"10 km WSW of The Geysers, CA",earthquake,4.76,4.67,0.18,4,automatic,nc,nc
 2024-04-20T04:01:08.880Z,37.2934,-117.588,3.4,1,ml,9,170.07,0.076,0.282,nn,nn00876523,2024-04-20T04:03:29.355Z,"51 km S of Silver Peak, Nevada",earthquake,,2.2,0.39,4,reviewed,nn,nn
@@ -237,8 +238,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T18:24:31.300Z,33.4506667,-116.4065,11.53,0.97,ml,42,52,0.07429,0.17,ci,ci40551167,2024-04-19T18:31:16.301Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.45,0.154,19,automatic,ci,ci
 2024-04-19T18:22:15.050Z,17.995,-66.9963333333333,8.77,2.27,md,8,136,0.0522,0.1,pr,pr71445988,2024-04-19T18:59:16.490Z,"5 km ENE of La Parguera, Puerto Rico",earthquake,0.61,1.08,0.0973188475254569,5,reviewed,pr,pr
 2024-04-19T18:19:33.050Z,33.4481667,-116.4096667,11.76,1.45,ml,71,28,0.07622,0.17,ci,ci40551159,2024-04-19T18:30:49.100Z,"22 km N of Borrego Springs, CA",earthquake,0.13,0.35,0.154,27,automatic,ci,ci
-2024-04-19T18:17:38.984Z,51.7607,-177.4672,4.8,3.5,ml,,,,1.05,ak,ak024527xpe6,2024-04-20T05:15:12.581Z,"58 km WSW of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-04-19T18:17:38.963Z,51.648,-177.4409,7.649,3.8,mb,50,190,0.273,0.43,us,us7000mdeq,2024-04-20T14:39:56.040Z,"61 km WSW of Adak, Alaska",earthquake,1.88,6.278,0.114,21,reviewed,us,us
+2024-04-19T18:06:05.560Z,51.7883333333333,-177.4885,-1.76,0.28,ml,8,164,0.1597,0.12,av,av93096161,2024-04-20T14:41:56.080Z,"59 km W of Adak, Alaska",earthquake,0.77,0.57,0.177813030430116,8,reviewed,av,av
 2024-04-19T18:04:09.500Z,33.9571667,-117.927,5.99,0.99,ml,13,162,0.01206,0.24,ci,ci40551143,2024-04-19T23:32:20.959Z,"2 km E of La Habra Heights, CA",earthquake,0.82,0.74,0.095,12,reviewed,ci,ci
+2024-04-19T17:57:10.620Z,52.2906666666667,-174.109833333333,8.69,0.36,ml,4,125,0.01793,0.07,av,av93003259,2024-04-20T14:35:18.100Z,"12 km NNE of Atka, Alaska",earthquake,0.55,0.68,0.448868366112948,4,reviewed,av,av
 2024-04-19T17:44:30.210Z,51.863,-177.907333333333,5.7,0.33,ml,5,183,0.06036,0.06,av,av93096146,2024-04-20T14:14:59.980Z,"87 km W of Adak, Alaska",earthquake,0.39,0.86,0.16397995402433,5,reviewed,av,av
 2024-04-19T17:44:17.750Z,51.8636666666667,-177.913833333333,6.53,-0.44,ml,4,179,0.05677,0.08,av,av93003244,2024-04-20T14:19:37.610Z,"88 km W of Adak, Alaska",earthquake,0.48,1.03,0.294513204695048,5,reviewed,av,av
 2024-04-19T17:42:59.370Z,60.49,-152.774333333333,-0.5,0.17,ml,7,104,0.03446,0.17,av,av93096141,2024-04-20T14:11:53.090Z,"78 km NW of Ninilchik, Alaska",earthquake,0.29,0.67,0.240753475171856,6,reviewed,av,av
@@ -292,6 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T14:50:18.880Z,33.1656667,-116.4558333,14.95,1.08,ml,24,49,0.08936,0.17,ci,ci40550759,2024-04-19T22:16:40.535Z,"12 km SW of Borrego Springs, CA",earthquake,0.27,0.49,0.064,8,reviewed,ci,ci
 2024-04-19T14:50:03.480Z,33.1676667,-116.4535,13.84,1.08,ml,33,50,0.09103,0.18,ci,ci40550743,2024-04-19T22:03:25.509Z,"12 km SW of Borrego Springs, CA",earthquake,0.2,0.5,0.137,18,reviewed,ci,ci
 2024-04-19T14:49:17.030Z,51.859,-177.8025,7.32,0.12,ml,4,260,0.0454,0.02,av,av93095911,2024-04-20T04:55:06.210Z,"80 km W of Adak, Alaska",earthquake,0.53,0.67,0.152763022697524,4,reviewed,av,av
-2024-04-19T14:41:41.810Z,51.735,-177.476333333333,5.89,1.82,ml,13,195,0.1522,0.25,av,av93095886,2024-04-20T04:51:48.330Z,"60 km WSW of Adak, Alaska",earthquake,1.21,2.44,0.218606391705973,13,reviewed,av,av
-2024-04-19T14:38:54.761Z,61.4277,-146.5621,28.3,1.6,ml,,,,1.07,ak,ak024525oi84,2024-04-19T14:40:54.107Z,"35 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-19T14:37:35.510Z,35.2166667,-118.6761667,8.69,0.98,ml,20,83,0.0177,0.16,ci,ci40550735,2024-04-19T21:50:44.891Z,"14 km E of Arvin, CA",earthquake,0.29,0.44,0.032,4,reviewed,ci,ci
