@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-20T14:55:09.285Z,62.4488,-151.6853,94.3,1.3,ml,,,,0.23,ak,ak02453tbeds,2024-04-20T14:56:51.517Z,"47 km W of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-04-20T14:53:42.730Z,33.2671661,-116.4311676,6.88,1.07,ml,32,40,0.01178,0.19,ci,ci40552343,2024-04-20T14:55:47.115Z,"5 km WNW of Borrego Springs, CA",earthquake,0.33,0.72,0.469,6,automatic,ci,ci
+2024-04-20T14:53:42.700Z,33.2686667,-116.4316667,4.19,0.87,ml,43,43,0.01216,0.2,ci,ci40552343,2024-04-20T14:59:54.639Z,"6 km WNW of Borrego Springs, CA",earthquake,0.18,0.33,0.142,19,automatic,ci,ci
 2024-04-20T14:49:36.030Z,38.8238335,-122.7666702,1.88,0.89,md,9,199,0.007095,0.02,nc,nc74037946,2024-04-20T14:51:13.113Z,"4 km W of Cobb, CA",earthquake,0.86,0.79,0.23,11,automatic,nc,nc
 2024-04-20T14:49:07.003Z,37.4291,-117.0913,0.4,1.6,ml,27,115.06,0.186,0.3027,nn,nn00876591,2024-04-20T14:51:39.478Z,"33 km SSE of Goldfield, Nevada",earthquake,,11,0.26,21,reviewed,nn,nn
 2024-04-20T14:48:08.983Z,37.4278,-117.0953,3.7,1.6,ml,29,114.62,0.183,0.2222,nn,nn00876588,2024-04-20T14:50:39.727Z,"33 km SSE of Goldfield, Nevada",earthquake,,6.4,0.26,20,reviewed,nn,nn
@@ -10,8 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T14:29:16.790Z,33.632,-116.7645,15.23,1.34,ml,61,40,0.03821,0.17,ci,ci40552319,2024-04-20T14:39:53.950Z,"12 km NW of Anza, CA",earthquake,0.14,0.29,0.212,27,automatic,ci,ci
 2024-04-20T14:23:06.443Z,34.58878326,-96.8217926,2.615445852,2.27,ml,31,83.83789062,0.1720887423,0.7640240374,ok,ok2024hubv,2024-04-20T14:29:57.879Z,"4 km SSE of Roff, Oklahoma",earthquake,2.301676861,1.784326359,0.19,23,automatic,ok,ok
 2024-04-20T14:09:11.966Z,15.1927,-92.5467,111.556,4.9,mb,59,151,1.145,0.94,us,us7000mdh8,2024-04-20T14:41:56.934Z,"2 km NNE of Lázaro Cárdenas, Mexico",earthquake,4.32,6.175,0.024,543,reviewed,us,us
+2024-04-20T14:00:38.988Z,-20.8787,-178.5619,588.555,4.3,mb,38,87,3.151,0.76,us,us7000mdh6,2024-04-20T15:02:45.040Z,"Fiji region",earthquake,14.52,9.904,0.082,42,reviewed,us,us
 2024-04-20T13:58:45.970Z,34.4181667,-116.483,6.81,1.05,ml,28,60,0.1191,0.1,ci,ci40552303,2024-04-20T14:06:45.916Z,"34 km N of Yucca Valley, CA",earthquake,0.14,0.45,0.155,19,automatic,ci,ci
-2024-04-20T13:58:34.710Z,34.583,-119.1173333,1.99,1.84,ml,46,38,0.1467,0.26,ci,ci40552295,2024-04-20T14:09:43.780Z,"19 km NE of Ojai, CA",earthquake,0.21,1.39,0.117,27,automatic,ci,ci
+2024-04-20T13:58:34.710Z,34.583,-119.1173333,1.99,1.84,ml,46,38,0.1467,0.26,ci,ci40552295,2024-04-20T15:06:31.391Z,"19 km NE of Ojai, CA",earthquake,0.21,1.39,0.117,27,automatic,ci,ci
 2024-04-20T13:29:41.186Z,60.9115,-153.2333,14.9,1.2,ml,,,,0.2,ak,ak02453skgme,2024-04-20T13:30:59.133Z,"98 km NE of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-04-20T13:16:29.608Z,59.6464,-152.2087,67.4,1.8,ml,,,,0.56,ak,ak02453shndg,2024-04-20T13:19:54.121Z,"25 km SW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-04-20T13:13:07.932Z,61.6108,-150.3059,35.3,1.8,ml,,,,0.74,ak,ak02453sgyll,2024-04-20T13:15:43.821Z,"13 km NE of Susitna, Alaska",earthquake,,4.2,,,automatic,ak,ak
@@ -112,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-20T04:23:20.430Z,38.8396683,-122.8379974,1.32,0.36,md,11,126,0.002237,0.01,nc,nc74037721,2024-04-20T04:24:53.286Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.63,0.26,13,automatic,nc,nc
 2024-04-20T04:21:07.246Z,37.2604,-117.6088,10.1,1.2,ml,12,169.28999999999996,0.28,0.2951,nn,nn00876529,2024-04-20T04:23:29.942Z,"54 km S of Silver Peak, Nevada",earthquake,,1.3,0.54,6,reviewed,nn,nn
 2024-04-20T04:19:10.500Z,37.2648,-117.6031,8,0.8,ml,9,162.99,0.047,0.2071,nn,nn00876527,2024-04-20T04:21:39.605Z,"54 km S of Silver Peak, Nevada",earthquake,,1,0.45,5,reviewed,nn,nn
-2024-04-20T04:18:57.970Z,46.24583333333333,-119.2795,8.03,2.83,ml,39,68,0.1174,0.12,uw,uw61998221,2024-04-20T14:54:00.177Z,"4 km S of Richland, Washington",earthquake,0.19,0.21,0.18140400635826737,42,reviewed,uw,uw
+2024-04-20T04:18:57.970Z,46.24583333333333,-119.2795,8.03,2.83,ml,39,68,0.1174,0.12,uw,uw61998221,2024-04-20T15:04:24.740Z,"4 km S of Richland, Washington",earthquake,0.19,0.21,0.18140400635826737,42,reviewed,uw,uw
 2024-04-20T04:12:40.796Z,37.2391,-117.5961,8.3,1.2,ml,22,128.31999999999996,0.04,0.2373,nn,nn00876525,2024-04-20T04:15:21.886Z,"57 km S of Silver Peak, Nevada",earthquake,,0.7,0.25,15,reviewed,nn,nn
 2024-04-20T04:04:57.580Z,38.7451668,-122.867836,-0.65,0.57,md,7,189,0.05494,0.25,nc,nc74037711,2024-04-20T04:06:32.057Z,"10 km WSW of The Geysers, CA",earthquake,4.76,4.67,0.18,4,automatic,nc,nc
 2024-04-20T04:01:08.880Z,37.2934,-117.588,3.4,1,ml,9,170.07,0.076,0.282,nn,nn00876523,2024-04-20T04:03:29.355Z,"51 km S of Silver Peak, Nevada",earthquake,,2.2,0.39,4,reviewed,nn,nn
@@ -293,5 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-19T15:16:42.630Z,38.8214989,-122.7653351,1.8,1.77,md,26,81,0.01454,0.04,nc,nc74037291,2024-04-19T15:18:15.151Z,"4 km W of Cobb, CA",earthquake,0.25,0.37,0.12,29,automatic,nc,nc
 2024-04-19T15:15:18.542Z,29.044,-97.813,5.5664,2.5,ml,15,45,0,0.1,tx,tx2024hsib,2024-04-19T21:52:50.103Z,"19 km NNE of Karnes City, Texas",earthquake,0.698672656362513,0.9842824638526284,0.2,9,reviewed,tx,tx
 2024-04-19T15:14:13.170Z,44.82,-110.702166666667,1.99,0.56,md,11,147,0.07978,0.29,uu,uu80066851,2024-04-19T16:21:12.980Z,"17 km S of Mammoth, Wyoming",earthquake,0.75,6.56,0.198756785788486,7,reviewed,uu,uu
-2024-04-19T15:04:55.660Z,51.7721666666667,-177.485666666667,-1.77,0.72,ml,10,174,0.156,0.23,av,av93095931,2024-04-20T05:42:55.930Z,"59 km WSW of Adak, Alaska",earthquake,1.25,0.85,0.271879826759581,10,reviewed,av,av
-2024-04-19T15:01:48.440Z,51.7238333333333,-177.452333333333,15.3,0.96,ml,9,203,0.1402,0.18,av,av93095926,2024-04-20T05:15:28.140Z,"58 km WSW of Adak, Alaska",earthquake,1.18,1.83,0.349976316097222,9,reviewed,av,av
