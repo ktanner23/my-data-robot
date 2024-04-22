@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-22T10:56:50.627Z,31.514,-104.011,4.8498,1.7,ml,14,70,0,0.2,tx,tx2024hxmb,2024-04-22T11:07:44.096Z,"30 km NW of Toyah, Texas",earthquake,0,1.46783418713686,0.2,11,automatic,tx,tx
 2024-04-22T10:56:27.155Z,31.518,-104.011,4.9637,1.6,ml,12,65,0,0.2,tx,tx2024hxma,2024-04-22T11:07:39.100Z,"30 km NW of Toyah, Texas",earthquake,0,1.61540308005571,0.1,10,automatic,tx,tx
-2024-04-22T10:46:22.449Z,23.7074,121.595,10,5.2,mb,66,75,0.974,0.8,us,us7000mdtc,2024-04-22T11:01:09.040Z,"29 km S of Hualien City, Taiwan",earthquake,5.94,1.88,0.075,59,reviewed,us,us
+2024-04-22T10:50:31.016Z,23.7158,121.63,10,5.6,mb,77,74,0.444,0.88,us,us7000mdti,2024-04-22T11:15:18.617Z,"29 km S of Hualien City, Taiwan",earthquake,5.33,1.856,0.037,264,reviewed,us,us
+2024-04-22T10:46:22.449Z,23.7074,121.595,10,5.2,mb,66,75,0.974,0.8,us,us7000mdtc,2024-04-22T11:09:18.041Z,"29 km S of Hualien City, Taiwan",earthquake,5.94,1.88,0.075,59,reviewed,us,us
 2024-04-22T10:40:50.570Z,19.1668338775635,-155.523162841797,30.5,2.63000011,md,32,116,0.05882,0.170000002,hv,hv74181012,2024-04-22T10:42:42.480Z,"6 km SW of Pāhala, Hawaii",earthquake,0.5,1,0.430000007,3,automatic,hv,hv
 2024-04-22T10:35:43.830Z,33.5853333,-116.8023333,7.81,0.2,ml,20,68,0.03298,0.11,ci,ci40554639,2024-04-22T10:41:37.051Z,"12 km WNW of Anza, CA",earthquake,0.2,0.42,0.1,2,automatic,ci,ci
 2024-04-22T10:28:33.410Z,34.0153333,-117.1936667,13.57,0.78,ml,44,37,0.06997,0.19,ci,ci40554623,2024-04-22T10:34:56.706Z,"5 km SSW of Redlands, CA",earthquake,0.2,0.44,0.154,18,automatic,ci,ci
@@ -20,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T09:10:58.060Z,33.9981667,-116.8435,17.83,0.6,ml,30,51,0.04734,0.12,ci,ci40554567,2024-04-22T09:17:03.996Z,"9 km NNE of Banning, CA",earthquake,0.15,0.33,0.155,10,automatic,ci,ci
 2024-04-22T09:10:32.979Z,62.0359,-159.0682,-10,4.1,ml,,,,1.73,ak,ak0245715c1d,2024-04-22T10:03:17.040Z,"40 km ESE of Holy Cross, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2024-04-22T09:09:30.316Z,63.5415,-149.9642,0.7,2.6,ml,,,,0.72,ak,ak0245715413,2024-04-22T09:30:57.770Z,"53 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-04-22T09:08:39.073Z,23.7004,121.6098,8.892,5.3,mww,62,57,0.42,1.1,us,us7000mdsw,2024-04-22T11:06:05.082Z,"30 km S of Hualien City, Taiwan",earthquake,4.22,4.404,0.083,14,reviewed,us,us
+2024-04-22T09:08:39.073Z,23.7004,121.6098,8.892,5.3,mww,62,57,0.42,1.1,us,us7000mdsw,2024-04-22T11:11:12.086Z,"30 km S of Hualien City, Taiwan",earthquake,4.22,4.404,0.083,14,reviewed,us,us
 2024-04-22T08:57:09.380Z,19.4148330688477,-155.25016784668,36.5900001525879,1.88,ml,45,56,0.01119,0.119999997,hv,hv74180957,2024-04-22T08:59:45.390Z,"3 km SSW of Volcano, Hawaii",earthquake,0.39,0.449999988,0.38,6,automatic,hv,hv
 2024-04-22T08:53:49.820Z,33.9548333,-117.731,13.18,1.03,ml,45,64,0.05893,0.21,ci,ci40554551,2024-04-22T09:00:07.329Z,"5 km SSE of Chino Hills, CA",earthquake,0.31,0.46,0.224,29,automatic,ci,ci
 2024-04-22T08:52:44.210Z,17.9348333333333,-66.9365,5.41,1.96,md,5,236,0.04566,0.08,pr,pr71446158,2024-04-22T09:04:12.300Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.05,0.42,0.120565617802367,4,reviewed,pr,pr
@@ -263,5 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-21T11:30:36.050Z,51.7805,-177.480666666667,0.6,1.55,ml,9,168,0.1537,0.16,av,av93099236,2024-04-21T15:12:01.960Z,"59 km W of Adak, Alaska",earthquake,0.78,1.68,0.235830045656083,10,reviewed,av,av
 2024-04-21T11:30:13.160Z,38.5701667,-122.7901667,5.92,1.28,md,28,42,0.07001,0.1,nc,nc74038616,2024-04-22T07:40:43.607Z,"3 km NE of Windsor, CA",earthquake,0.19,0.53,0.091,26,reviewed,nc,nc
 2024-04-21T11:28:40.350Z,51.8016666666667,-177.483833333333,1.94,1.5,ml,7,157,0.1596,0.25,av,av93099231,2024-04-21T15:09:44.060Z,"59 km W of Adak, Alaska",earthquake,1.14,1.79,0.269315727433768,7,reviewed,av,av
-2024-04-21T11:15:28.108Z,64.6526,-146.928,17.4,0.7,ml,,,,0.32,ak,ak02455etwve,2024-04-21T11:17:45.603Z,"6 km E of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-21T11:12:26.790Z,33.0111667,-116.3936667,10.5,0.89,ml,47,32,0.04176,0.19,ci,ci40553583,2024-04-21T14:26:13.470Z,"21 km ESE of Julian, CA",earthquake,0.18,0.39,0.178,18,reviewed,ci,ci
