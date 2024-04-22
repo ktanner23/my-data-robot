@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-22T15:44:35.120Z,19.4511661529541,-155.505172729492,2.08999991416931,1.79999995,md,25,46,0.05547,0.330000013,hv,hv74181152,2024-04-22T15:46:16.840Z,"27 km N of Pāhala, Hawaii",earthquake,0.51,3.61999989,0.230000004,6,automatic,hv,hv
 2024-04-22T15:41:11.580Z,19.0361671447754,-155.384994506836,33.2999992370605,2.37,ml,54,211,0.1392,0.129999995,hv,hv74181147,2024-04-22T15:43:48.420Z,"20 km E of Naalehu, Hawaii",earthquake,0.56,0.74000001,0.33,4,automatic,hv,hv
 2024-04-22T15:28:05.850Z,38.7991676,-122.7511673,1.38,1.5,md,30,98,0.006833,0.04,nc,nc74039231,2024-04-22T15:29:38.882Z,"2 km N of The Geysers, CA",earthquake,0.22,0.38,0.15,30,automatic,nc,nc
 2024-04-22T15:14:59.140Z,38.7986679,-122.7521667,1.22,1.78,md,28,96,0.006211,0.04,nc,nc74039211,2024-04-22T15:16:34.759Z,"2 km N of The Geysers, CA",earthquake,0.21,0.36,0.11,29,automatic,nc,nc
@@ -84,7 +85,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T08:52:44.210Z,17.9348333333333,-66.9365,5.41,1.96,md,5,236,0.04566,0.08,pr,pr71446158,2024-04-22T09:04:12.300Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.05,0.42,0.120565617802367,4,reviewed,pr,pr
 2024-04-22T08:52:33.100Z,37.3356666666667,-89.267,12.7,2.1,md,31,89,0.1886,0.16,nm,nm60578696,2024-04-22T14:07:58.760Z,"1 km WSW of Mill Creek, Illinois",earthquake,0.28,0.79,0.0364526398503116,22,reviewed,nm,nm
 2024-04-22T08:46:36.480Z,33.4683333,-116.5741667,9.88,0.5,ml,37,46,0.03522,0.16,ci,ci40554543,2024-04-22T14:10:05.563Z,"13 km SE of Anza, CA",earthquake,0.18,0.34,0.246,8,reviewed,ci,ci
-2024-04-22T08:43:15.464Z,61.323,-147.2172,11.1,1.6,ml,,,,0.75,ak,ak024570qxmi,2024-04-22T08:45:10.120Z,"51 km WNW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-22T08:42:47.800Z,32.915,-116.2371667,7.79,1.25,ml,52,46,0.1565,0.18,ci,ci40554535,2024-04-22T14:10:50.480Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.16,1.39,0.144,27,reviewed,ci,ci
 2024-04-22T08:37:26.410Z,38.8235016,-122.8431702,2.01,0.34,md,9,90,0.00637,0.01,nc,nc74039116,2024-04-22T08:39:02.299Z,"9 km NW of The Geysers, CA",earthquake,0.44,1.13,0.17,11,automatic,nc,nc
 2024-04-22T08:35:11.478Z,60.2709,-151.1632,33.4,1.1,ml,,,,0.78,ak,ak024570p7i6,2024-04-22T08:38:12.839Z,"9 km SE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -182,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T01:11:57.801Z,27.6748,56.0539,10,4,mb,31,131,2.722,0.73,us,us7000mdr9,2024-04-22T04:56:09.040Z,"58 km NNW of Bandar Abbas, Iran",earthquake,5.22,1.94,0.122,18,reviewed,us,us
 2024-04-22T01:02:43.980Z,33.4906667,-116.4935,12.94,0.85,ml,53,30,0.06538,0.18,ci,ci40554279,2024-04-22T14:18:23.700Z,"18 km ESE of Anza, CA",earthquake,0.17,0.34,0.128,23,reviewed,ci,ci
 2024-04-22T00:48:01.600Z,-8.1427,109.1455,97.296,4.5,mb,43,49,1.629,0.94,us,us7000mdr4,2024-04-22T04:50:41.987Z,"48 km SSE of Cilacap, Indonesia",earthquake,6.7,6.922,0.086,41,reviewed,us,us
+2024-04-22T00:30:05.048Z,38.1681,-118.1611,13,1.6,ml,7,143.74,0.142,0.1387,nn,nn00876683,2024-04-22T15:51:17.062Z,"25 km S of Mina, Nevada",earthquake,,2.6,0.35,4,reviewed,nn,nn
 2024-04-22T00:24:27.929Z,34.935,-97.72866667,17.29,0.96,ml,53,42,0.09898057663,0.43,ok,ok2024hwrd,2024-04-22T15:21:06.679Z,"5 km ENE of Alex, Oklahoma",earthquake,,1.3,0.21,22,reviewed,ok,ok
 2024-04-22T00:19:40.183Z,64.8896,-150.1642,13.7,1.6,ml,,,,1.13,ak,ak02456vudia,2024-04-22T00:22:00.659Z,"25 km ESE of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-22T00:12:15.408Z,41.5537,-83.4798,8.918,2.3,mb_lg,19,62,0.241,0.57,us,us7000mdr0,2024-04-22T15:42:11.988Z,"3 km SSE of Walbridge, Ohio",earthquake,1.16,3.779,0.147,12,reviewed,us,us
@@ -281,5 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-21T16:08:34.870Z,44.3665,-116.121166666667,1.97,1.96,ml,8,90,0.3502,0.28,mb,mb90047163,2024-04-22T13:50:53.560Z,"7 km NNW of Smiths Ferry, Idaho",earthquake,0.79,4.64,0.308648104979779,8,reviewed,mb,mb
 2024-04-21T16:04:57.860Z,35.7643333,-117.5855,3.03,0.81,ml,23,137,0.1523,0.15,ci,ci40553879,2024-04-21T16:10:47.858Z,"16 km W of Searles Valley, CA",earthquake,0.26,0.88,0.094,6,automatic,ci,ci
 2024-04-21T16:02:21.150Z,33.7656667,-117.5331667,3.72,1.28,ml,43,56,0.06978,0.2,ci,ci40553871,2024-04-22T14:20:07.974Z,"12 km SSE of Corona, CA",earthquake,0.19,0.54,0.198,33,reviewed,ci,ci
-2024-04-21T15:52:20.665Z,62.3267,-151.2503,11.2,2.3,ml,,,,0.68,ak,ak02455hfk7m,2024-04-21T15:54:17.059Z,"31 km SW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-21T15:49:37.810Z,33.1658333,-116.47,8.2,0.87,ml,24,47,0.09224,0.18,ci,ci40553855,2024-04-21T15:55:42.012Z,"13 km SW of Borrego Springs, CA",earthquake,0.24,0.89,0.192,15,automatic,ci,ci
