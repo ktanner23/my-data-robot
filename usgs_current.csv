@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-25T10:05:12.470Z,33.3079987,-116.2444992,5.96,1.23,ml,36,64,0.07688,0.22,ci,ci40557783,2024-04-25T10:07:14.896Z,"13 km ENE of Borrego Springs, CA",earthquake,0.32,1.34,0.223,4,automatic,ci,ci
+2024-04-25T10:05:12.490Z,33.3071667,-116.2463333,5.79,1.11,ml,47,38,0.0764,0.22,ci,ci40557783,2024-04-25T10:15:54.340Z,"13 km ENE of Borrego Springs, CA",earthquake,0.21,0.86,0.176,24,automatic,ci,ci
 2024-04-25T09:57:00.800Z,45.441165924072266,-122.81616973876953,27.6499996185303,1.9634858965873718,ml,18,133,,0.0900000036,uw,uw61999691,2024-04-25T09:59:39.000Z,"3 km WNW of Tigard, Oregon",earthquake,0.32,0.589999974,0.2921271026134491,21,automatic,uw,uw
 2024-04-25T09:55:31.494Z,60.7075,-151.7755,72.2,1.1,ml,,,,0.18,ak,ak0245c010jh,2024-04-25T09:57:31.961Z,"26 km W of Nikiski, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-04-25T09:52:17.930Z,33.6791667,-116.783,13.55,0.95,ml,34,71,0.06567,0.14,ci,ci40557775,2024-04-25T09:58:22.429Z,"9 km SW of Idyllwild, CA",earthquake,0.18,0.32,0.264,19,automatic,ci,ci
@@ -8,10 +8,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T09:36:25.700Z,38.815834,-122.814003,2.95,1.08,md,21,47,0.00815,0.02,nc,nc74040711,2024-04-25T09:37:59.413Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.51,0.14,21,automatic,nc,nc
 2024-04-25T09:30:36.730Z,63.1795,-150.4451,120.5,1.6,ml,,,,0.26,ak,ak0245bzvo1l,2024-04-25T09:32:43.625Z,"75 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-25T09:26:21.290Z,19.0913333333333,-66.4576666666667,20.03,3.22,md,18,263,0.6147,0.13,pr,pr71446533,2024-04-25T10:01:49.540Z,"69 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.59,13.78,0.0582318617500617,11,reviewed,pr,pr
+2024-04-25T09:24:44.986Z,41.3015,78.4633,10,4.4,mb,33,110,0.577,1.22,us,us6000mtn4,2024-04-25T10:09:16.040Z,"121 km SSE of Kyzyl-Suu, Kyrgyzstan",earthquake,2.73,1.7,0.126,18,reviewed,us,us
 2024-04-25T09:15:33.070Z,19.1459999084473,-155.487670898438,33.1500015258789,2.41,ml,56,157,0.02591,0.140000001,hv,hv74185127,2024-04-25T09:18:10.980Z,"6 km S of Pāhala, Hawaii",earthquake,0.44,0.600000024,0.25,20,automatic,hv,hv
 2024-04-25T09:12:54.720Z,17.935,-67.0968333333333,7.02,2.49,md,7,272,0.06067,0.13,pr,pr71446518,2024-04-25T09:25:23.020Z,"6 km SW of La Parguera, Puerto Rico",earthquake,0.95,0.23,0.0603724432246857,4,reviewed,pr,pr
 2024-04-25T09:11:52.950Z,33.5095,-116.757,4.4,0.75,ml,40,34,0.04338,0.17,ci,ci40557767,2024-04-25T09:18:18.132Z,"9 km WSW of Anza, CA",earthquake,0.15,0.35,0.171,14,automatic,ci,ci
-2024-04-25T09:09:03.048Z,14.5582,146.8974,10,5.1,mb,62,71,1.263,1.05,us,us6000mtmz,2024-04-25T09:49:16.943Z,"142 km ESE of Saipan, Northern Mariana Islands",earthquake,8.12,1.874,0.052,120,reviewed,us,us
+2024-04-25T09:09:03.048Z,14.5582,146.8974,10,5.1,mb,62,71,1.263,1.05,us,us6000mtmz,2024-04-25T10:09:07.220Z,"142 km ESE of Saipan, Northern Mariana Islands",earthquake,8.12,1.874,0.052,120,reviewed,us,us
 2024-04-25T09:07:29.066Z,37.3017,-104.5033,4.45,2.4,ml,14,64,0.179,0.54,us,us6000mtmx,2024-04-25T09:20:36.040Z,"9 km NNW of El Moro, Colorado",earthquake,1.57,2.147,0.128,8,reviewed,us,us
 2024-04-25T09:07:11.990Z,38.8171654,-122.8228302,1.89,0.76,md,9,75,0.009656,0.03,nc,nc74040706,2024-04-25T09:08:44.057Z,"7 km NW of The Geysers, CA",earthquake,0.37,1.14,0.18,11,automatic,nc,nc
 2024-04-25T09:00:42.190Z,34.201,-117.0393333,5.75,0.87,ml,22,91,0.07203,0.12,ci,ci40557759,2024-04-25T09:06:51.678Z,"6 km E of Running Springs, CA",earthquake,0.18,0.4,0.225,19,automatic,ci,ci
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T10:28:18.150Z,33.272,-116.4225,5.36,0.47,ml,29,73,0.005863,0.18,ci,ci40556815,2024-04-24T10:34:56.487Z,"5 km WNW of Borrego Springs, CA",earthquake,0.21,0.32,0.112,6,automatic,ci,ci
 2024-04-24T10:26:43.190Z,46.84616666666667,-121.76516666666667,0.76,0.52,ml,23,65,0.02448,0.06,uw,uw61999361,2024-04-24T16:37:10.400Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.56,0.11721355827415642,5,reviewed,uw,uw
 2024-04-24T10:23:02.946Z,60.5918,-149.0876,7.5,1.5,ml,,,,0.33,ak,ak0245acw6ja,2024-04-24T10:24:59.573Z,"19 km NE of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-24T10:21:33.560Z,38.8268318,-122.8113327,1.22,0.76,md,7,112,0.00357,0.02,nc,nc74040231,2024-04-24T10:23:08.333Z,"7 km NW of The Geysers, CA",earthquake,0.45,1.16,0.17,8,automatic,nc,nc
-2024-04-24T10:13:01.546Z,61.6715,-146.6458,50.7,1.6,ml,,,,1.65,ak,ak0245acu19m,2024-04-24T10:15:01.521Z,"36 km S of Nelchina, Alaska",earthquake,,1.2,,,automatic,ak,ak
