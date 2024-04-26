@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-26T16:04:36.300Z,19.3854999542236,-155.241333007812,1.75999999046326,2.27,ml,30,56,0.009418,0.200000003,hv,hv74186962,2024-04-26T16:07:14.400Z,"6 km S of Volcano, Hawaii",earthquake,0.31,0.170000002,0.37,14,automatic,hv,hv
+2024-04-26T16:00:44.410Z,33.6986667,-116.8,17.36,0.86,ml,13,128,0.07263,0.09,ci,ci40559183,2024-04-26T16:06:50.580Z,"9 km WSW of Idyllwild, CA",earthquake,0.34,0.5,0.282,17,automatic,ci,ci
 2024-04-26T15:52:45.140Z,38.8338318,-122.8103333,2.31,0.66,md,12,71,0.01042,0.02,nc,nc74041446,2024-04-26T15:54:19.139Z,"8 km W of Cobb, CA",earthquake,0.32,0.86,0.38,13,automatic,nc,nc
 2024-04-26T15:44:12.575Z,61.2612,-147.7417,29.8,1.4,ml,,,,0.71,ak,ak0245dr2kbt,2024-04-26T15:45:55.237Z,"61 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-26T15:42:45.720Z,38.8136673,-122.7973328,2.55,1.26,md,23,39,0.005908,0.01,nc,nc74041441,2024-04-26T15:44:19.099Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.45,0.22,23,automatic,nc,nc
@@ -140,8 +142,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-26T02:42:41.291Z,31.594,-103.975,4.8526,1.5,ml,11,66,0,0.4,tx,tx2024ieea,2024-04-26T03:07:49.329Z,"35 km NNW of Toyah, Texas",earthquake,0,2.74192169727066,0.2,8,automatic,tx,tx
 2024-04-26T02:42:14.762Z,31.597,-103.953,5.2137,1.7,ml,15,73,0,0.6,tx,tx2024iedu,2024-04-26T03:07:18.716Z,"34 km NNW of Toyah, Texas",earthquake,0,2.38701232003723,0.2,12,automatic,tx,tx
 2024-04-26T02:41:27.190Z,38.8390007,-122.8771667,2.29,0.57,md,10,132,0.00497,0.02,nc,nc74041136,2024-04-26T02:43:00.053Z,"12 km WNW of The Geysers, CA",earthquake,0.42,0.57,0.35,10,automatic,nc,nc
-2024-04-26T02:40:51.287Z,61.2809,-152.2221,0,1.8,ml,,,,0.9,ak,ak0245djb5l4,2024-04-26T02:43:13.292Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-26T02:36:49.343Z,59.8304,-151.5335,31.5,1.1,ml,,,,0.4,ak,ak0245djaakm,2024-04-26T02:39:26.176Z,"4 km ENE of Nikolaevsk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-04-26T02:34:19.640Z,38.8185005,-122.8246689,1.96,0.78,md,7,90,0.009314,0,nc,nc74041131,2024-04-26T02:35:54.975Z,"8 km NW of The Geysers, CA",earthquake,0.52,0.99,0.19,8,automatic,nc,nc
 2024-04-26T02:32:18.670Z,36.0475006,-120.1816635,9.2,1.68,md,10,223,0.09639,0.08,nc,nc74041126,2024-04-26T02:33:54.945Z,"7 km NW of Avenal, CA",earthquake,1.03,0.59,0.12,7,automatic,nc,nc
 2024-04-26T02:29:47.860Z,38.7910004,-122.7283325,0.63,1.07,md,11,195,0.01015,0.03,nc,nc74041121,2024-04-26T02:31:19.955Z,"3 km ENE of The Geysers, CA",earthquake,0.44,0.47,0.13,13,automatic,nc,nc
@@ -189,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T21:45:42.400Z,38.8266678,-122.7584991,0.46,0.93,md,8,142,0.00969,0.02,nc,nc74041021,2024-04-25T21:47:19.087Z,"3 km W of Cobb, CA",earthquake,0.36,0.63,0.21,9,automatic,nc,nc
 2024-04-25T21:45:24.849Z,28.3521,142.5741,10,4.6,mb,46,119,1.298,0.7,us,us6000mtv0,2024-04-26T05:18:06.040Z,"Bonin Islands, Japan region",earthquake,4.88,1.888,0.074,54,reviewed,us,us
 2024-04-25T21:45:19.790Z,19.2543334960938,-155.392669677734,31.1399993896484,2.43000007,md,31,151,0.07893,0.150000006,hv,hv74185807,2024-04-25T22:07:43.818Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.62,0.75,0.189999998,3,automatic,hv,hv
-2024-04-25T21:43:22.335Z,60.6133,-143.0431,0,1,ml,,,,0.84,ak,ak0245c73mi1,2024-04-25T21:45:45.426Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-04-25T21:43:22.335Z,60.6133,-143.0431,0,1,ml,,,,0.84,ak,ak0245c73mi1,2024-04-25T21:45:45.426Z,"91 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-25T21:39:13.103Z,62.4642,-151.4387,92.1,1.4,ml,,,,0.45,ak,ak0245c72qxa,2024-04-25T21:42:13.077Z,"34 km W of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-04-25T21:34:40.490Z,45.0818333333333,-111.745166666667,-2,0.86,ml,9,167,0.2581,0.11,mb,mb90048158,2024-04-26T14:26:58.410Z,"28 km SE of Virginia City, Montana",quarry blast,0.77,31.61,0.165717487735982,7,reviewed,mb,mb
 2024-04-25T21:33:31.930Z,38.8081665,-122.8180008,2.88,1.03,md,11,73,0.008761,0.01,nc,nc74041016,2024-04-25T21:35:03.966Z,"6 km WNW of The Geysers, CA",earthquake,0.41,0.72,0.22,14,automatic,nc,nc
@@ -269,7 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-25T16:37:53.284Z,61.6672,-150.0324,30.7,1.4,ml,,,,0.54,ak,ak0245c438kg,2024-04-25T16:39:31.643Z,"8 km S of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-25T16:35:53.490Z,32.9821667,-115.544,6.91,1.74,ml,28,40,0.06437,0.27,ci,ci40558159,2024-04-25T16:42:19.673Z,"1 km WNW of Brawley, CA",earthquake,0.28,0.78,0.157,29,automatic,ci,ci
 2024-04-25T16:35:23.463Z,60.2091,-141.2225,19.2,1.1,ml,,,,0.3,ak,ak0245c42qu2,2024-04-25T16:36:41.469Z,"111 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-04-25T16:07:25.570Z,46.7763333333333,-112.607166666667,3.26,1.15,ml,13,64,0.1323,0.13,mb,mb90048058,2024-04-25T17:03:27.910Z,"19 km N of Avon, Montana",earthquake,0.36,0.97,0.0910820712187199,7,reviewed,mb,mb
-2024-04-25T16:06:27.029Z,64.9029,-149.1524,17.3,0.7,ml,,,,1.16,ak,ak0245c3wjce,2024-04-25T16:08:47.746Z,"29 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-25T16:02:45.362Z,64.9012,-149.1776,20.3,2.5,ml,,,,0.28,ak,ak0245c3vpw8,2024-04-25T17:58:09.040Z,"28 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-04-25T16:00:58.608Z,62.168,-152.0898,110.6,1.5,ml,,,,0.42,ak,ak0245c3vbhg,2024-04-25T16:03:12.975Z,"41 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
