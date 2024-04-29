@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-29T15:58:09.990Z,19.3708324432373,-155.103500366211,5.40999984741211,2.11,ml,11,223,0.01327,0.330000013,hv,hv74196527,2024-04-29T16:00:46.820Z,"11 km SSE of Fern Forest, Hawaii",earthquake,2.49,1.22000003,0.13,5,automatic,hv,hv
 2024-04-29T15:47:46.100Z,19.3929996490479,-155.242004394531,2.53999996185303,1.75999999,md,18,69,0.01152,0.140000001,hv,hv74196507,2024-04-29T15:49:26.540Z,"5 km S of Volcano, Hawaii",earthquake,0.27,0.25999999,0.439999998,15,automatic,hv,hv
 2024-04-29T15:44:39.538Z,61.5833,-146.2419,32.7,1.8,ml,,,,0.63,ak,ak0245iponw1,2024-04-29T15:46:36.220Z,"50 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-29T15:42:00.183Z,64.8728,-147.2448,12.5,0.9,ml,,,,0.48,ak,ak0245ipo5f6,2024-04-29T15:44:10.576Z,"9 km W of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -24,7 +25,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T13:52:51.910Z,33.584,-116.806,7.47,0.14,ml,14,74,0.03629,0.09,ci,ci40561279,2024-04-29T13:58:52.227Z,"13 km WNW of Anza, CA",earthquake,0.21,0.46,0.003,2,automatic,ci,ci
 2024-04-29T13:40:39.550Z,33.573,-116.8135,8.31,2.7,ml,116,15,0.04611,0.21,ci,ci40561271,2024-04-29T14:54:21.126Z,"13 km W of Anza, CA",earthquake,0.11,0.33,0.177,26,automatic,ci,ci
 2024-04-29T13:33:38.737Z,-14.1205,170.6327,10,5.2,mww,42,50,7.995,0.53,us,us6000muw0,2024-04-29T14:36:53.554Z,"Vanuatu region",earthquake,9.54,1.864,0.098,10,reviewed,us,us
-2024-04-29T13:31:24.135Z,58.0988,-155.5638,17.4,0.4,ml,,,,0.54,ak,ak0245ioez6l,2024-04-29T13:33:23.294Z,"88 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-04-29T13:29:47.739Z,1.6805,97.036,31.287,4.6,mb,52,171,0.656,0.57,us,us6000muvz,2024-04-29T14:22:13.040Z,"77 km NW of Gunungsitoli, Indonesia",earthquake,4.29,5.634,0.09,37,reviewed,us,us
 2024-04-29T13:27:43.304Z,31.687,-104.292,8.2433,1.6,ml,18,65,0,0.4,tx,tx2024ikln,2024-04-29T13:58:52.946Z,"54 km S of Whites City, New Mexico",earthquake,0,2.53855970833093,0.1,14,automatic,tx,tx
 2024-04-29T13:22:44.950Z,33.909,-116.7111667,16.43,1.01,ml,43,48,0.1039,0.13,ci,ci40561263,2024-04-29T13:29:11.211Z,"7 km E of Cabazon, CA",earthquake,0.15,0.34,0.174,22,automatic,ci,ci
@@ -41,6 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T12:33:37.560Z,40.3953323,-125.1595001,5.32,2.12,md,21,323,0.6325,0.32,nc,nc74042891,2024-04-29T12:35:22.781Z,"74 km W of Petrolia, CA",earthquake,13.01,11.7,0.11,11,automatic,nc,nc
 2024-04-29T12:32:55.650Z,33.5806667,-116.8061667,7.88,0.37,ml,17,72,0.03744,0.08,ci,ci40561231,2024-04-29T12:38:56.292Z,"13 km WNW of Anza, CA",earthquake,0.18,0.41,0.1,5,automatic,ci,ci
 2024-04-29T12:24:13.432Z,54.5864,-163.5642,15,1.6,ml,,,,0.53,ak,ak0245inrzv3,2024-04-29T15:52:23.742Z,"31 km SSW of False Pass, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2024-04-29T12:23:34.470Z,47.464,-115.77,4.99,1.38,ml,9,95,0.5107,0.13,mb,mb90048448,2024-04-29T16:00:35.900Z,"2 km ESE of Mullan, Idaho",earthquake,0.58,31.61,0.252269992571094,9,reviewed,mb,mb
 2024-04-29T12:21:53.155Z,31.794,-104.328,9.1195,1.7,ml,7,253,0.1,0.4,tx,tx2024ikji,2024-04-29T12:40:50.346Z,"42 km S of Whites City, New Mexico",earthquake,0,6.77086269274484,0.3,7,automatic,tx,tx
 2024-04-29T12:21:52.469Z,31.719,-104.358,3.8696,1.7,ml,12,79,0.1,0.1,tx,tx2024ikjg,2024-04-29T14:16:16.135Z,"50 km S of Whites City, New Mexico",earthquake,0.7335773120645094,1.195032105022696,0.2,11,reviewed,tx,tx
 2024-04-29T12:18:14.974Z,59.9445,-151.973,79.7,1.3,ml,,,,0.25,ak,ak0245inqqk9,2024-04-29T12:20:15.020Z,"13 km W of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -91,7 +92,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T08:21:03.243Z,65.4499,-153.4091,13.7,0.8,ml,,,,0.9,ak,ak0245ildmdw,2024-04-29T08:23:29.630Z,"69 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-29T08:19:22.640Z,19.3834991455078,-155.240005493164,0.759999990463257,2.37,ml,28,59,0.009896,0.189999998,hv,hv74195172,2024-04-29T08:22:00.630Z,"6 km S of Volcano, Hawaii",earthquake,0.24,0.150000006,0.36,16,automatic,hv,hv
 2024-04-29T08:13:27.440Z,19.3843326568604,-155.240173339844,0.569999992847443,2.34,ml,20,82,0.01058,0.180000007,hv,hv74195157,2024-04-29T08:16:08.150Z,"6 km S of Volcano, Hawaii",earthquake,0.19,0.119999997,0.18,9,automatic,hv,hv
-2024-04-29T08:13:22.850Z,19.3818340301514,-155.238327026367,0.920000016689301,2.34,ml,11,110,0.0085,0.129999995,hv,hv74195152,2024-04-29T08:16:04.100Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.270000011,0.18,9,automatic,hv,hv
+2024-04-29T08:13:22.950Z,19.3823333333333,-155.238333333333,0.6,1.39,md,13,88,0.00898,0.09,hv,hv74195152,2024-04-29T15:59:44.600Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.23,0.182908418098716,19,reviewed,hv,hv
 2024-04-29T08:13:13.680Z,19.3811666666667,-155.234166666667,1.04,1.47,md,10,118,0.009701,0.08,hv,hv74195147,2024-04-29T15:46:27.090Z,"6 km S of Volcano, Hawaii",earthquake,0.33,0.34,0.103931957205678,9,reviewed,hv,hv
 2024-04-29T08:11:10.758Z,62.4371,-149.4204,14.5,1.2,ml,,,,0.45,ak,ak0245ilbhsz,2024-04-29T08:13:05.177Z,"35 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-29T08:09:26.150Z,60.8532,-151.7191,67,1.1,ml,,,,0.45,ak,ak0245ilb3k7,2024-04-29T08:11:48.947Z,"29 km NW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
