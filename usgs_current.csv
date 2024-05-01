@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-01T17:39:58.820Z,33.0856667,-116.1366653,8.24,1.18,ml,28,60,0.07459,0.15,ci,ci40735072,2024-05-01T17:42:19.275Z,"6 km S of Ocotillo Wells, CA",earthquake,0.34,1.06,0.222,7,automatic,ci,ci
+2024-05-01T17:39:58.840Z,33.0821667,-116.1345,7.74,1.18,ml,48,60,0.0785,0.21,ci,ci40735072,2024-05-01T17:46:09.746Z,"7 km S of Ocotillo Wells, CA",earthquake,0.19,0.54,0.196,28,automatic,ci,ci
 2024-05-01T17:27:54.840Z,33.8166667,-117.6386667,4.84,1.52,ml,44,59,0.03259,0.19,ci,ci40735048,2024-05-01T17:35:37.092Z,"9 km SW of Corona, CA",earthquake,0.2,0.35,0.22,31,automatic,ci,ci
 2024-05-01T17:27:29.898Z,60.093,-150.6933,43.1,1.4,ml,,,,0.67,ak,ak0245m1uk65,2024-05-01T17:29:36.031Z,"30 km NNE of Fox River, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-05-01T17:22:58.375Z,59.5832,-153.1267,27.5,1.3,ml,,,,0.87,ak,ak0245m1tjsb,2024-05-01T17:25:39.109Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-05-01T17:03:52.232Z,44.9763,15.6409,15.585,4.3,mb,51,33,1.121,0.68,us,us6000mvhh,2024-05-01T17:36:54.040Z,"2 km SSW of Rakovica, Croatia",earthquake,5.16,4.653,0.142,14,reviewed,us,us
+2024-05-01T17:03:52.232Z,44.9763,15.6409,15.585,4.3,mb,51,33,1.121,0.68,us,us6000mvhh,2024-05-01T17:45:47.974Z,"2 km SSW of Rakovica, Croatia",earthquake,5.16,4.653,0.142,14,reviewed,us,us
 2024-05-01T16:59:45.440Z,38.8154984,-122.8193359,2.54,1.08,md,14,60,0.01015,0.01,nc,nc74043851,2024-05-01T17:01:18.590Z,"7 km NW of The Geysers, CA",earthquake,0.29,0.59,0.09,15,automatic,nc,nc
 2024-05-01T16:58:18.759Z,60.2449,-141.9266,34,1,ml,,,,0.55,ak,ak0245m1fqwj,2024-05-01T17:00:15.337Z,"143 km SSE of McCarthy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-05-01T16:14:08.510Z,62.5896,-149.7791,49.2,1.3,ml,,,,0.74,ak,ak0245m16alv,2024-05-01T16:16:26.579Z,"22 km NE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -179,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T01:24:50.558Z,-21.4553,-69.0143,102.471,5,mww,97,32,0.4,0.6,us,us6000mvda,2024-05-01T12:56:47.040Z,"82 km WSW of Ollagüe, Chile",earthquake,5.18,3.695,0.066,22,reviewed,us,us
 2024-05-01T01:24:47.208Z,60.1876,-148.2205,0,1.5,ml,,,,0.99,ak,ak0245lsb0og,2024-05-01T01:26:49.107Z,"17 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-01T01:20:58.840Z,38.8311653,-122.8144989,1.35,0.96,md,17,62,0.008494,0.01,nc,nc74043571,2024-05-01T01:22:34.938Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.47,0.25,17,automatic,nc,nc
-2024-05-01T01:18:40.140Z,33.259,-116.2626667,11.34,1.14,ml,62,25,0.06653,0.24,ci,ci40734376,2024-05-01T01:29:03.470Z,"10 km E of Borrego Springs, CA",earthquake,0.18,0.36,0.166,28,automatic,ci,ci
+2024-05-01T01:18:40.180Z,33.2596667,-116.2615,11.36,1.13,ml,60,25,0.06709,0.23,ci,ci40734376,2024-05-01T17:49:54.720Z,"11 km E of Borrego Springs, CA",earthquake,0.18,0.37,0.142,23,reviewed,ci,ci
 2024-05-01T01:12:58.630Z,44.7616666666667,-111.020666666667,10.72,0.9,ml,11,129,0.0106,0.11,uu,uu80068006,2024-05-01T13:12:56.550Z,"12 km NNE of West Yellowstone, Montana",earthquake,0.52,0.89,0.169075051199569,2,reviewed,uu,uu
 2024-05-01T01:02:21.630Z,19.3906669616699,-155.257659912109,0.270000010728836,1.93,ml,23,50,0.00789,0.270000011,hv,hv74202102,2024-05-01T01:05:00.740Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.219999999,0.21,12,automatic,hv,hv
 2024-05-01T01:00:53.180Z,33.2251667,-116.6201667,13.84,1.32,ml,68,26,0.03449,0.21,ci,ci40734368,2024-05-01T16:27:36.550Z,"6 km S of Warner Springs, CA",earthquake,0.17,0.39,0.168,46,reviewed,ci,ci
@@ -253,5 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T18:11:47.490Z,38.8479996,-122.8130035,1.66,0.76,md,9,95,0.01046,0.01,nc,nc74043466,2024-04-30T18:13:23.421Z,"8 km WNW of Cobb, CA",earthquake,0.39,0.95,0.18,11,automatic,nc,nc
 2024-04-30T17:59:02.419Z,63.2737,-150.0047,59.4,1.5,ml,,,,0.45,ak,ak0245kei0gx,2024-04-30T18:01:31.841Z,"54 km WSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-04-30T17:57:01.750Z,33.8151667,-117.6426667,5.57,1.52,ml,37,60,0.03429,0.17,ci,ci40733864,2024-04-30T21:57:34.003Z,"9 km SW of Corona, CA",earthquake,0.21,0.31,0.209,19,reviewed,ci,ci
-2024-04-30T17:51:10.786Z,13.7728,-58.4088,10.999,5.1,mww,139,59,1.282,0.67,us,us6000mva0,2024-04-30T19:23:43.791Z,"134 km ENE of Crane, Barbados",earthquake,8.33,4.125,0.069,20,reviewed,us,us
-2024-04-30T17:46:03.041Z,59.6752,-152.9331,92.6,1.9,ml,,,,0.36,ak,ak0245kef87k,2024-04-30T17:47:56.809Z,"63 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
