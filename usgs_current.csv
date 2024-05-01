@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-01T18:09:33.889Z,32.4987,-97.1777,5,3.2,mb_lg,27,42,0.558,0.64,us,us6000mvhs,2024-05-01T18:20:36.090Z,"7 km SSW of Mansfield, Texas",earthquake,1.19,1.971,0.046,122,reviewed,us,us
+2024-05-01T18:09:33.889Z,32.4987,-97.1777,5,3.2,mb_lg,27,42,0.558,0.64,us,us6000mvhs,2024-05-01T18:31:29.187Z,"7 km SSW of Mansfield, Texas",earthquake,1.19,1.971,0.046,122,reviewed,us,us
 2024-05-01T18:08:56.200Z,38.7929993,-122.7973328,0.09,0.98,md,7,92,0.006471,0.03,nc,nc74043861,2024-05-01T18:10:33.403Z,"4 km WNW of The Geysers, CA",earthquake,0.3,0.64,0.14,8,automatic,nc,nc
 2024-05-01T18:08:31.070Z,35.488,-118.5136667,2.9,1.26,ml,28,53,0.1774,0.13,ci,ci40735128,2024-05-01T18:14:40.078Z,"11 km S of Bodfish, CA",earthquake,0.18,0.7,0.107,14,automatic,ci,ci
 2024-05-01T18:05:05.812Z,60.8988,-150.5416,32,1.4,ml,,,,0.58,ak,ak0245m2b85x,2024-05-01T18:07:13.908Z,"8 km ESE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-01T18:03:23.736Z,32.5016,-97.1622,5,3,mb_lg,28,65,0.566,0.51,us,us6000mvhq,2024-05-01T18:21:13.991Z,"7 km SSW of Mansfield, Texas",earthquake,1.42,1.961,0.05,107,reviewed,us,us
+2024-05-01T18:03:23.736Z,32.5016,-97.1622,5,3,mb_lg,28,65,0.566,0.51,us,us6000mvhq,2024-05-01T18:32:13.202Z,"7 km SSW of Mansfield, Texas",earthquake,1.42,1.961,0.05,107,reviewed,us,us
 2024-05-01T18:00:49.391Z,60.1808,-151.1163,63,1.1,ml,,,,0.52,ak,ak0245m2a8y3,2024-05-01T18:02:51.738Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-05-01T17:39:58.840Z,33.0821667,-116.1345,7.74,1.18,ml,48,60,0.0785,0.21,ci,ci40735072,2024-05-01T17:46:09.746Z,"7 km S of Ocotillo Wells, CA",earthquake,0.19,0.54,0.196,28,automatic,ci,ci
 2024-05-01T17:27:54.840Z,33.8166667,-117.6386667,4.84,1.52,ml,44,59,0.03259,0.19,ci,ci40735048,2024-05-01T17:35:37.092Z,"9 km SW of Corona, CA",earthquake,0.2,0.35,0.22,31,automatic,ci,ci
@@ -44,12 +44,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T12:36:32.380Z,38.8434982,-122.8148346,1.87,0.8,md,18,98,0.01788,0.02,nc,nc74043781,2024-05-01T12:38:06.278Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.54,0.14,20,automatic,nc,nc
 2024-05-01T12:34:40.610Z,33.5775,-116.811,7.46,1.32,ml,62,22,0.04235,0.19,ci,ci40734792,2024-05-01T12:45:33.550Z,"13 km W of Anza, CA",earthquake,0.14,0.46,0.134,27,automatic,ci,ci
 2024-05-01T12:23:31.770Z,19.3968334197998,-155.251831054688,0.870000004768372,1.78,ml,21,44,0.01127,0.280000001,hv,hv74203757,2024-05-01T12:26:09.270Z,"5 km SSW of Volcano, Hawaii",earthquake,0.21,0.270000011,0.29,10,automatic,hv,hv
+2024-05-01T12:19:56.960Z,38.4618333333333,-112.802166666667,5.33,0.77,md,12,137,0.03022,0.1,uu,uu80068036,2024-05-01T18:29:17.690Z,"19 km ENE of Milford, Utah",earthquake,0.52,0.77,0.5706987748061,5,reviewed,uu,uu
 2024-05-01T12:18:27.140Z,38.8199997,-122.8436661,2.01,0.94,md,12,101,0.007429,0.03,nc,nc74043776,2024-05-01T12:20:01.035Z,"9 km WNW of The Geysers, CA",earthquake,0.35,0.69,0.2,12,automatic,nc,nc
 2024-05-01T12:16:12.530Z,38.7471657,-122.7126694,1.1,0.88,md,9,76,0.01727,0.05,nc,nc74043771,2024-05-01T12:17:46.966Z,"4 km SSW of Anderson Springs, CA",earthquake,0.39,0.6,0.46,7,automatic,nc,nc
 2024-05-01T12:15:33.440Z,33.689,-116.715,17.62,0.79,ml,35,60,0.02212,0.13,ci,ci40734784,2024-05-01T13:28:31.780Z,"6 km S of Idyllwild, CA",earthquake,0.17,0.33,0.147,18,reviewed,ci,ci
 2024-05-01T12:07:09.173Z,62.2431,-148.3019,36.4,0.8,ml,,,,0.17,ak,ak0245lyr285,2024-05-01T12:08:32.017Z,"50 km N of Chickaloon, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2024-05-01T12:04:09.180Z,19.2571659088135,-155.399673461914,30.9699993133545,1.96000004,md,41,130,0.07698,0.129999995,hv,hv74203717,2024-05-01T12:05:57.510Z,"10 km NE of Pāhala, Hawaii",earthquake,0.48,0.629999995,0.109999999,4,automatic,hv,hv
 2024-05-01T12:02:16.600Z,18.0816666666667,-66.8401666666667,7.64,2.15,md,6,168,0.1119,0.26,pr,pr71447413,2024-05-01T12:28:04.620Z,"5 km NNE of Yauco, Puerto Rico",earthquake,1.75,1.06,0.0605499040192328,3,reviewed,pr,pr
+2024-05-01T11:56:45.416Z,36.4805,-115.8075,5,0.8,ml,5,334.90999999999997,0.286,0.0375,nn,nn00877067,2024-05-01T18:31:09.261Z,"15 km SW of Indian Springs, Nevada",earthquake,,46.3,0,1,reviewed,nn,nn
 2024-05-01T11:54:08.720Z,38.8001671,-122.8008347,1.47,0.76,md,13,52,0.008908,0.04,nc,nc74043756,2024-05-01T11:55:40.813Z,"5 km WNW of The Geysers, CA",earthquake,0.3,0.6,0.09,15,automatic,nc,nc
 2024-05-01T11:52:37.980Z,19.3939990997314,-155.257659912109,0.600000023841858,2.16000009,md,15,58,0.01036,0.230000004,hv,hv74203697,2024-05-01T11:54:00.360Z,"5 km SSW of Volcano, Hawaii",earthquake,0.2,0.439999998,0.419999987,10,automatic,hv,hv
 2024-05-01T11:42:41.603Z,61.6497,-151.0461,73.1,1.3,ml,,,,0.89,ak,ak0245lyd76o,2024-05-01T11:46:21.218Z,"30 km WNW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -184,7 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T01:37:53.660Z,39.4231,71.7478,10,4.3,mb,25,111,0.068,0.79,us,us6000mvde,2024-05-01T04:54:40.040Z,"28 km NE of Karakenja, Tajikistan",earthquake,5.71,1.832,0.154,12,reviewed,us,us
 2024-05-01T01:33:37.153Z,61.3965,-151.1468,65.8,1.2,ml,,,,0.46,ak,ak0245lscxcj,2024-05-01T01:36:00.088Z,"28 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-05-01T01:31:59.190Z,38.8321648,-122.8190002,1.48,0.75,md,9,114,0.01119,0.01,nc,nc74043576,2024-05-01T01:33:34.025Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.92,0.23,9,automatic,nc,nc
-2024-05-01T01:24:58.170Z,36.4716667,-117.5166667,-1.71,1.86,ml,21,84,0.2089,0.13,ci,ci40734384,2024-05-01T01:31:19.952Z,"36 km WSW of Stovepipe Wells, CA",earthquake,0.26,0.46,0.106,21,automatic,ci,ci
+2024-05-01T01:24:58.060Z,36.4761667,-117.5141667,-1.71,1.89,ml,24,84,0.2137,0.16,ci,ci40734384,2024-05-01T18:26:42.127Z,"36 km WSW of Stovepipe Wells, CA",earthquake,0.28,0.46,0.135,12,reviewed,ci,ci
 2024-05-01T01:24:50.558Z,-21.4553,-69.0143,102.471,5,mww,97,32,0.4,0.6,us,us6000mvda,2024-05-01T12:56:47.040Z,"82 km WSW of Ollagüe, Chile",earthquake,5.18,3.695,0.066,22,reviewed,us,us
 2024-05-01T01:24:47.208Z,60.1876,-148.2205,0,1.5,ml,,,,0.99,ak,ak0245lsb0og,2024-05-01T01:26:49.107Z,"17 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-01T01:20:58.840Z,38.8311653,-122.8144989,1.35,0.96,md,17,62,0.008494,0.01,nc,nc74043571,2024-05-01T01:22:34.938Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.47,0.25,17,automatic,nc,nc
@@ -205,7 +207,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-30T23:59:25.750Z,39.4628333,-122.9906667,4.9,2.18,md,49,51,0.1388,0.1,nc,nc74043561,2024-05-01T17:20:49.904Z,"7 km NNW of Lake Pillsbury, CA",earthquake,0.14,0.72,0.187,56,reviewed,nc,nc
 2024-04-30T23:56:28.264Z,63.0755,-150.4949,35.4,1.2,ml,,,,1.18,ak,ak0245ki20y2,2024-04-30T23:59:15.638Z,"66 km NNE of Petersville, Alaska",earthquake,,22.9,,,automatic,ak,ak
 2024-04-30T23:52:55.126Z,31.645,-104.588,3.1685,1.6,ml,18,189,0.1,0.3,tx,tx2024inbq,2024-05-01T00:26:56.461Z,"62 km SSW of Whites City, New Mexico",earthquake,0,1.72305666882471,0.1,14,automatic,tx,tx
-2024-04-30T23:42:39.323Z,40.7003,-74.7597,6.804,1.9,ml,14,66,0.005,0.21,us,us6000mvcr,2024-05-01T14:55:52.610Z,"6 km ESE of Califon, New Jersey",earthquake,1.21,1.739,0.091,16,reviewed,us,us
+2024-04-30T23:42:39.323Z,40.7003,-74.7597,6.804,1.9,ml,14,66,0.005,0.21,us,us6000mvcr,2024-05-01T18:32:58.078Z,"6 km ESE of Califon, New Jersey",earthquake,1.21,1.739,0.091,16,reviewed,us,us
 2024-04-30T23:41:32.410Z,33.1815,-115.6066667,2.69,1.96,ml,48,43,0.008531,0.22,ci,ci40734336,2024-04-30T23:48:01.263Z,"10 km SW of Niland, CA",earthquake,0.2,0.29,0.179,27,automatic,ci,ci
 2024-04-30T23:36:27.270Z,19.2113342285156,-155.49983215332,29.5,2.23,ml,27,112,0.06607,0.189999998,hv,hv74201882,2024-04-30T23:39:05.180Z,"2 km WNW of Pāhala, Hawaii",earthquake,0.78,1.12,0.2,5,automatic,hv,hv
 2024-04-30T23:35:58.145Z,60.4855,-149.4716,26.5,1.3,ml,,,,0.44,ak,ak0245khxl7q,2024-04-30T23:37:48.830Z,"5 km W of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
