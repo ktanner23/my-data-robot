@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-02T21:09:17.170Z,35.6941681,-117.5241699,8.71,1.13,ml,16,114,0.08678,0.12,ci,ci40736616,2024-05-02T21:11:21.560Z,"14 km SW of Searles Valley, CA",earthquake,0.52,1.41,0.25,3,automatic,ci,ci
+2024-05-02T21:09:17.140Z,35.6941667,-117.5245,6.99,0.94,ml,19,114,0.08703,0.12,ci,ci40736616,2024-05-02T21:15:07.944Z,"14 km SW of Searles Valley, CA",earthquake,0.23,0.53,0.26,9,automatic,ci,ci
 2024-05-02T21:02:14.030Z,36.1591667,-118.212,2.8,1.47,ml,28,91,0.0822,0.19,ci,ci40736608,2024-05-02T21:08:19.739Z,"23 km SW of Olancha, CA",earthquake,0.26,1.51,0.123,21,automatic,ci,ci
-2024-05-02T20:50:03.306Z,32.6059,-104.6909,5,2.6,mb_lg,37,80,0.71,0.47,us,us6000mvul,2024-05-02T21:00:34.040Z,"23 km S of Hope, New Mexico",earthquake,2.31,1.945,0.106,38,reviewed,us,us
+2024-05-02T20:50:03.306Z,32.6059,-104.6909,5,2.6,mb_lg,37,80,0.71,0.47,us,us6000mvul,2024-05-02T21:13:19.024Z,"23 km S of Hope, New Mexico",earthquake,2.31,1.945,0.106,38,reviewed,us,us
 2024-05-02T20:46:36.640Z,19.1875,-155.499664306641,32.8400001525879,2.08999991,md,35,86,0.04774,0.150000006,hv,hv74208577,2024-05-02T20:48:17.690Z,"2 km SW of Pāhala, Hawaii",earthquake,0.6,0.819999993,0.180000007,5,automatic,hv,hv
 2024-05-02T20:46:02.460Z,38.7729988098145,-122.743667602539,1.75,1.09,md,11,89,0.01157,0.03,nc,nc75000126,2024-05-02T20:47:40.534Z,"1 km SE of The Geysers, CA",earthquake,0.3,0.839999974,0.21,13,automatic,nc,nc
 2024-05-02T20:43:41.430Z,33.8163333,-117.6348333,4.75,1.04,ml,18,61,0.03001,0.15,ci,ci40736584,2024-05-02T21:02:36.781Z,"9 km SW of Corona, CA",earthquake,0.22,0.38,0.213,24,reviewed,ci,ci
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T17:20:42.738Z,67.8825,-160.8647,21.3,2.6,ml,,,,0.92,ak,ak0245npcfp1,2024-05-02T17:35:51.040Z,"86 km ESE of Red Dog Mine, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-05-02T17:18:40.190Z,35.0461667,-118.3211667,0.72,1.31,ml,40,36,0.05791,0.2,ci,ci40736240,2024-05-02T17:33:20.144Z,"13 km W of Mojave, CA",earthquake,0.23,0.5,0.161,32,automatic,ci,ci
 2024-05-02T17:11:00.310Z,34.2583333,-116.3501667,10.35,2.17,ml,54,53,0.04258,0.15,ci,ci40736232,2024-05-02T17:21:57.730Z,"14 km NNW of Joshua Tree, CA",earthquake,0.13,0.27,0.114,26,automatic,ci,ci
-2024-05-02T17:08:11.190Z,19.3810005187988,-155.244827270508,1.22000002861023,2.09,ml,13,91,0.007588,0.280000001,hv,hv74207857,2024-05-02T17:10:48.160Z,"6 km S of Volcano, Hawaii",earthquake,0.43,0.230000004,0.32,17,automatic,hv,hv
+2024-05-02T17:08:11.250Z,19.3823333333333,-155.241166666667,1.47,1.36,md,12,105,0.008735,0.09,hv,hv74207857,2024-05-02T21:14:11.430Z,"6 km S of Volcano, Hawaii",earthquake,0.25,0.25,0.201661291695741,20,reviewed,hv,hv
 2024-05-02T17:03:00.030Z,33.983,-116.7363333,13.12,1.15,ml,41,55,0.07892,0.15,ci,ci40736216,2024-05-02T17:09:07.511Z,"9 km NNE of Cabazon, CA",earthquake,0.18,0.42,0.174,26,automatic,ci,ci
 2024-05-02T16:51:07.740Z,38.8236656188965,-122.797836303711,2.72000002861023,1.26,md,23,41,0.009563,0.01,nc,nc75000031,2024-05-02T16:52:44.793Z,"6 km NNW of The Geysers, CA",earthquake,0.22,0.460000008,0.19,24,automatic,nc,nc
 2024-05-02T16:50:19.790Z,37.9606666564941,-122.097503662109,7.8600001335144,1.25,md,8,121,0.06006,0.05,nc,nc75000026,2024-05-02T16:51:54.830Z,"3 km SW of Pacheco, CA",earthquake,0.48,1.13,0.24,5,automatic,nc,nc
@@ -153,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-02T08:55:56.312Z,60.8117,-151.5343,72.2,1.5,ml,,,,0.28,ak,ak0245nk72b3,2024-05-02T08:58:13.507Z,"19 km NW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-02T08:51:01.190Z,38.8336678,-122.8184967,1.61,0.25,md,8,119,0.01219,0.04,nc,nc74044161,2024-05-02T08:52:34.247Z,"8 km NW of The Geysers, CA",earthquake,0.37,1.25,0.16,8,automatic,nc,nc
 2024-05-02T08:27:53.550Z,38.8356667,-122.8066635,1.81,0.74,md,8,112,0.01254,0.02,nc,nc74044156,2024-05-02T08:29:29.042Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.14,0.07,8,automatic,nc,nc
-2024-05-02T08:27:09.571Z,-4.8678,29.4937,10,4.8,mb,65,54,16.27,0.6,us,us6000mvnr,2024-05-02T13:06:51.072Z,"14 km W of Kigoma, Tanzania",earthquake,11.63,1.87,0.077,51,reviewed,us,us
+2024-05-02T08:27:09.571Z,-4.8678,29.4937,10,4.8,mb,65,54,16.27,0.6,us,us6000mvnr,2024-05-02T21:15:47.471Z,"14 km W of Kigoma, Tanzania",earthquake,11.63,1.87,0.077,51,reviewed,us,us
 2024-05-02T08:26:38.270Z,17.9836666666667,-66.9966666666667,10.88,2.34,md,19,156,0.04743,0.11,pr,pr71447483,2024-05-02T08:36:02.190Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.28,0.46,0.211920810138823,5,reviewed,pr,pr
 2024-05-02T08:26:24.690Z,38.4916666666667,-112.8405,-1.26,1.66,ml,22,73,0.02517,0.16,uu,uu80068141,2024-05-02T18:29:37.750Z,"18 km NE of Milford, Utah",earthquake,0.24,0.2,0.179374696119091,7,reviewed,uu,uu
 2024-05-02T08:19:55.869Z,39.6779,-120.1228,12.3,0.4,ml,6,145.97,0.143,0.0951,nn,nn00877109,2024-05-02T18:09:40.732Z,"8 km ENE of Sierra Brooks, California",earthquake,,2.7,0.32,4,reviewed,nn,nn
@@ -293,4 +293,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-01T21:28:08.713Z,65.4455,-148.27,6.8,1.2,ml,,,,0.22,ak,ak0245m48go7,2024-05-01T21:30:02.352Z,"15 km SE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-01T21:22:39.260Z,49.355333333333334,-120.5015,-0.37,2.23,ml,11,178,0.574,0.31,uw,uw62001311,2024-05-02T16:34:44.860Z,"11 km S of Princeton, Canada",explosion,1.17,31.61,0.1348197437445091,7,reviewed,uw,uw
 2024-05-01T21:21:21.209Z,13.9026,56.9399,10,4.6,mb,49,137,11.007,0.91,us,us6000mvjm,2024-05-01T21:36:57.040Z,"Socotra region",earthquake,11.09,1.93,0.083,44,reviewed,us,us
-2024-05-01T21:13:52.082Z,37.0981,-115.2918,0,2.1,ml,21,137.85999999999999,0.363,0.1436,nn,nn00877084,2024-05-01T22:33:34.579Z,"31 km SSW of Alamo, Nevada",earthquake,,0,0.32,12,reviewed,nn,nn
