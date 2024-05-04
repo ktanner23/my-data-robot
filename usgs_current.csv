@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-04T08:50:33.390Z,35.6185,-117.4266667,6.24,0.85,ml,24,102,0.0431,0.12,ci,ci40738280,2024-05-04T08:57:28.004Z,"17 km S of Searles Valley, CA",earthquake,0.19,0.3,0.032,6,automatic,ci,ci
 2024-05-04T08:47:33.360Z,33.969,-116.6743333,17.85,0.66,ml,32,65,0.07273,0.13,ci,ci40738272,2024-05-04T08:55:11.611Z,"12 km ENE of Cabazon, CA",earthquake,0.18,0.38,0.154,11,automatic,ci,ci
 2024-05-04T08:40:31.340Z,38.841667175293,-122.841003417969,2.09999990463257,1.13,md,21,119,0.005292,0.02,nc,nc75000916,2024-05-04T08:42:09.050Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.439999998,0.15,23,automatic,nc,nc
-2024-05-04T08:36:47.250Z,41.576,-112.418833333333,4.8,3.93,ml,44,92,0.1297,0.19,uu,uu80068266,2024-05-04T13:46:03.591Z,"16 km SW of Thatcher, Utah",earthquake,0.34,0.47,0.164389620152213,37,reviewed,uu,uu
+2024-05-04T08:36:47.250Z,41.576,-112.418833333333,4.8,3.93,ml,44,92,0.1297,0.19,uu,uu80068266,2024-05-04T13:51:20.029Z,"16 km SW of Thatcher, Utah",earthquake,0.34,0.47,0.164389620152213,37,reviewed,uu,uu
 2024-05-04T08:29:08.421Z,-15.7253,-70.3746,208.926,4.6,mb,18,116,2.042,1.28,us,us6000mwad,2024-05-04T09:19:51.040Z,"10 km SW of Cabana, Peru",earthquake,8.01,9.039,0.107,26,reviewed,us,us
 2024-05-04T08:21:19.540Z,18.0236666666667,-66.9678333333333,14.5,2.51,md,14,102,0.07611,0.24,pr,pr71447683,2024-05-04T08:43:24.670Z,"3 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.55,1.03,0.0437408314455485,5,reviewed,pr,pr
 2024-05-04T08:19:49.750Z,35.3073333,-118.558,5.18,1.64,ml,43,38,0.1134,0.18,ci,ci40738256,2024-05-04T08:30:29.690Z,"22 km NNW of Tehachapi, CA",earthquake,0.18,0.56,0.206,27,automatic,ci,ci
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T17:57:49.660Z,19.376,-155.237833333333,1.69,1.26,ml,21,77,0.003566,0.1,hv,hv74211882,2024-05-03T21:35:37.510Z,"7 km S of Volcano, Hawaii",earthquake,0.29,0.2,0.106983116273784,9,reviewed,hv,hv
 2024-05-03T17:54:01.360Z,19.3681659698486,-155.216171264648,1.41999995708466,1.86000001,md,14,108,0.005625,0.109999999,hv,hv74211872,2024-05-03T17:55:30.240Z,"8 km SSE of Volcano, Hawaii",earthquake,0.36,0.180000007,0.150000006,9,automatic,hv,hv
 2024-05-03T17:52:48.808Z,63.5619,-150.6426,9.3,1.2,ml,,,,0.91,ak,ak0245pd2nio,2024-05-03T17:55:15.915Z,"53 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-05-03T17:49:05.848Z,-55.5098,-26.8148,10,5.1,mb,88,42,5.716,0.61,us,us6000mw61,2024-05-03T18:08:42.040Z,"South Sandwich Islands region",earthquake,3.42,1.851,0.061,87,reviewed,us,us
+2024-05-03T17:49:05.758Z,-55.5224,-26.8189,10,5.1,mb,117,42,5.715,0.57,us,us6000mw61,2024-05-04T13:54:37.040Z,"South Sandwich Islands region",earthquake,9.8,1.704,0.061,89,reviewed,us,us
 2024-05-03T17:43:26.289Z,57.5096,-155.9524,77.9,1.7,ml,,,,0.15,ak,ak0245pd0oc4,2024-05-03T17:44:45.035Z,"86 km E of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-05-03T17:42:29.455Z,31.733,-104.107,7.7917,2.8,ml,18,85,0,0.1,tx,tx2024isbw,2024-05-03T21:48:55.973Z,"48 km W of Mentone, Texas",earthquake,0.7185642385693924,0.815802504831527,0.2,14,reviewed,tx,tx
 2024-05-03T17:41:37.180Z,61.2191,-147.6434,0,1.7,ml,,,,1.15,ak,ak0245pd09qu,2024-05-03T17:43:39.786Z,"65 km NW of Tatitlek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -230,4 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-03T14:00:53.180Z,31.672,-104.396,5.5743,1.6,ml,20,69,0,0.1,tx,tx2024iruq,2024-05-03T16:06:12.466Z,"55 km S of Whites City, New Mexico",earthquake,0.6064832342958588,0.4073971682690304,0.1,18,reviewed,tx,tx
 2024-05-03T13:59:49.250Z,37.6418333333333,-118.913833333333,4.12,0.38,md,17,124,0.01373,0.06,nc,nc75000401,2024-05-03T21:51:41.763Z,"6 km E of Mammoth Lakes, CA",earthquake,0.34,0.36,0.198,13,reviewed,nc,nc
 2024-05-03T13:59:40.713Z,28.472,-98.656,0.0244,1.9,ml,13,153,0.2,0.4,tx,tx2024iruo,2024-05-03T20:07:42.761Z,"10 km W of Tilden, Texas",earthquake,3.264546694331396,2.1973455905163637,0.1,7,reviewed,tx,tx
-2024-05-03T13:57:51.435Z,61.4302,-146.6049,7.5,1.4,ml,,,,0.56,ak,ak0245papzvr,2024-05-03T14:00:20.225Z,"36 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
