@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T08:10:15.413Z,-21.7251,169.7008,53.458,4.7,mb,34,118,2.269,0.57,us,us6000mwxc,2024-05-07T10:08:44.040Z,"189 km E of Tadine, New Caledonia",earthquake,11.29,7.684,0.12,25,reviewed,us,us
 2024-05-07T08:03:03.016Z,11.3205,125.6988,61.986,5.1,mb,67,53,4.225,0.86,us,us6000mwwl,2024-05-07T12:00:30.032Z,"8 km E of Hernani, Philippines",earthquake,9.36,7.189,0.052,118,reviewed,us,us
 2024-05-07T07:55:58.085Z,-57.5798,-26.0694,89.8,5.1,mb,36,80,6.72,0.93,us,us6000mwwk,2024-05-07T08:13:08.040Z,"South Sandwich Islands region",earthquake,12.15,7.908,0.081,50,reviewed,us,us
-2024-05-07T07:47:39.980Z,35.3263333,-118.5425,3,2.72,ml,58,20,0.1055,0.17,ci,ci40741832,2024-05-07T11:29:27.945Z,"23 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,25,automatic,ci,ci
+2024-05-07T07:47:39.980Z,35.3263333,-118.5425,3,2.72,ml,58,20,0.1055,0.17,ci,ci40741832,2024-05-07T15:37:28.445Z,"23 km NNW of Tehachapi, CA",earthquake,0.14,0.82,0.191,25,automatic,ci,ci
 2024-05-07T07:37:03.691Z,59.9925,-152.9603,106.8,0.9,ml,,,,0.37,ak,ak0245vt6e81,2024-05-07T07:38:37.279Z,"67 km WNW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-07T07:22:16.750Z,33.5638333,-117.0203333,12.41,1.55,ml,74,26,0.05112,0.22,ci,ci40741816,2024-05-07T13:26:06.770Z,"13 km E of Murrieta Hot Springs, CA",earthquake,0.14,0.41,0.191,26,reviewed,ci,ci
 2024-05-07T07:20:36.568Z,61.2421,-152.0848,29.9,1.2,ml,,,,0.35,ak,ak0245vt2tl4,2024-05-07T07:23:13.433Z,"54 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-07T05:20:24.450Z,41.5891666666667,-112.421166666667,6.13,3.09,ml,43,91,0.08554,0.18,uu,uu80068896,2024-05-07T14:56:26.573Z,"15 km SW of Thatcher, Utah",earthquake,0.28,0.44,0.167115029082775,24,reviewed,uu,uu
 2024-05-07T05:14:49.220Z,33.8165,-117.6271667,3.99,0.82,ml,21,58,0.02597,0.16,ci,ci40741720,2024-05-07T13:26:31.891Z,"8 km SW of Corona, CA",earthquake,0.24,0.4,0.185,19,reviewed,ci,ci
 2024-05-07T05:05:44.807Z,31.661,-104.316,6.7151,2.1,ml,18,68,0,0.3,tx,tx2024iykz,2024-05-07T12:19:01.220Z,"57 km S of Whites City, New Mexico",earthquake,0.728068983060661,0.715669698067798,0.1,14,reviewed,tx,tx
-2024-05-07T04:52:24.255Z,28.991,-97.986,5.1901,1.7,ml,19,97,0,0.9,tx,tx2024iyko,2024-05-07T05:12:41.534Z,"3 km ENE of Falls City, Texas",earthquake,0,2.5931372780554,0.2,15,automatic,tx,tx
+2024-05-07T04:52:23.711Z,28.99,-97.983,6.5147,1.5,ml,16,68,0,0.8,tx,tx2024iyko,2024-05-07T15:38:29.519Z,"3 km ENE of Falls City, Texas",earthquake,0,2.942768096923828,0.2,14,reviewed,tx,tx
 2024-05-07T04:44:11.497Z,61.4298,-147.6184,33.6,2.1,ml,,,,0.51,ak,ak0245vrfm0t,2024-05-07T04:45:23.359Z,"42 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-07T04:42:40.340Z,19.3961658477783,-155.244506835938,1.10000002384186,2.21,ml,29,42,0.01239,0.219999999,hv,hv74217112,2024-05-07T04:45:18.570Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.239999995,0.41,14,automatic,hv,hv
 2024-05-07T04:37:06.908Z,52.0029,-172.3051,40.2,3.5,ml,,,,0.66,ak,ak0245vrdz4j,2024-05-07T05:34:47.745Z,"131 km E of Atka, Alaska",earthquake,,0.7,,,reviewed,ak,ak
@@ -268,5 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-06T15:46:24.800Z,38.8131675720215,-122.817497253418,2.77999997138977,0.78,md,11,60,0.01009,0.01,nc,nc75002306,2024-05-06T15:48:02.909Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.10000002,0.34,12,automatic,nc,nc
 2024-05-06T15:45:18.860Z,38.7131666666667,-122.8595,6.89,0.99,md,37,127,0.05644,0.06,nc,nc75002301,2024-05-07T08:03:57.353Z,"11 km WSW of The Geysers, CA",earthquake,0.2,0.44,0.15,31,reviewed,nc,nc
 2024-05-06T15:40:02.140Z,33.584,-116.8051667,8.07,1.82,ml,12,82,0.03562,0.11,ci,ci40740992,2024-05-06T15:46:40.514Z,"13 km WNW of Anza, CA",earthquake,0.27,0.48,0.433,22,automatic,ci,ci
-2024-05-06T15:34:52.560Z,38.8266677856445,-122.783668518066,1.4099999666214,0.29,md,8,100,0.0114,0.01,nc,nc75002296,2024-05-06T15:36:28.066Z,"5 km WNW of Cobb, CA",earthquake,0.55,1.14999998,0.16,8,automatic,nc,nc
-2024-05-06T15:32:32.157Z,0.4867,-77.6664,10,4.8,mww,110,55,0.258,0.95,us,us6000mwq2,2024-05-06T15:51:18.040Z,"21 km ESE of San Gabriel, Ecuador",earthquake,5.58,1.875,0.098,10,reviewed,us,us
