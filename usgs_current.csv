@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-10T20:26:02.127Z,57.5977,-153.843,33.6,2.1,ml,,,,0.25,ak,ak02460zgpkk,2024-05-10T20:27:41.371Z,"10 km NE of Larsen Bay, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2024-05-10T20:15:47.490Z,34.3125,-117.6463333,5.9,1.52,ml,42,71,0.07418,0.18,ci,ci40744816,2024-05-10T20:22:27.769Z,"6 km SSW of Wrightwood, CA",earthquake,0.19,0.6,0.283,32,automatic,ci,ci
+2024-05-10T20:15:47.490Z,34.3125,-117.6463333,5.9,1.52,ml,42,71,0.07418,0.18,ci,ci40744816,2024-05-10T20:35:48.068Z,"6 km SSW of Wrightwood, CA",earthquake,0.19,0.6,0.283,32,automatic,ci,ci
 2024-05-10T20:06:06.850Z,18.0036666666667,-66.8191666666667,15.7,2.34,md,6,165,0.06388,0.1,pr,pr71448308,2024-05-10T20:13:56.730Z,"1 km N of Indios, Puerto Rico",earthquake,0.69,1.76,0.0413460819369538,4,reviewed,pr,pr
 2024-05-10T20:00:03.470Z,33.89,-116.9268333,13.66,0.91,ml,28,71,0.1215,0.11,ci,ci40744800,2024-05-10T20:07:02.097Z,"6 km SW of Banning, CA",earthquake,0.17,0.48,0.134,23,automatic,ci,ci
 2024-05-10T19:59:18.680Z,33.8906667,-116.9273333,14.24,0.78,ml,20,108,0.1222,0.09,ci,ci40744784,2024-05-10T20:05:37.682Z,"6 km SW of Banning, CA",earthquake,0.2,0.58,0.359,17,automatic,ci,ci
@@ -130,6 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-10T04:39:53.500Z,46.18566666666667,-122.176,-0.18,-0.04,md,5,281,0.01596,0.02,uw,uw61996267,2024-05-10T19:40:31.020Z,"37 km NE of Amboy, Washington",earthquake,0.87,0.73,0.017536556472712794,3,reviewed,uw,uw
 2024-05-10T04:29:45.950Z,38.7963333129883,-122.805168151855,1.63999998569489,0.36,md,6,121,0.008162,0.03,nc,nc75004111,2024-05-10T04:31:23.809Z,"5 km NW of The Geysers, CA",earthquake,0.82,0.839999974,0.11,8,automatic,nc,nc
 2024-05-10T04:06:38.010Z,38.8223342895508,-122.807334899902,2.55999994277954,1.12,md,24,81,0.002387,0.02,nc,nc75004101,2024-05-10T04:08:14.638Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.439999998,0.23,25,automatic,nc,nc
+2024-05-10T04:05:23.300Z,58.1813333333333,-155.335,2.02,-0.77,ml,6,165,0.02898,0.04,av,av93006824,2024-05-10T20:29:33.300Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.38,0.269176812791358,6,reviewed,av,av
 2024-05-10T04:03:28.886Z,63.488,-148.8809,7.4,1.5,ml,,,,0.6,ak,ak02460pswhk,2024-05-10T04:05:29.644Z,"11 km NNE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-10T04:01:07.149Z,67.8656,-160.8065,8.7,2.5,ml,,,,0.85,ak,ak02460psfdm,2024-05-10T04:04:06.022Z,"89 km ESE of Red Dog Mine, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-10T03:57:51.020Z,38.8238334655762,-122.808502197266,2.46000003814697,0.77,md,6,112,0.001304,0.02,nc,nc75004096,2024-05-10T03:59:28.790Z,"7 km NNW of The Geysers, CA",earthquake,0.45,2.22000003,0.15,8,automatic,nc,nc
@@ -220,5 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-09T21:01:04.470Z,61.2798333333333,-152.278666666667,9.07,-0.86,ml,5,110,0.07259,0.04,av,av93006804,2024-05-10T01:21:30.880Z,"65 km WNW of Tyonek, Alaska",earthquake,0.66,1.21,0.127206934952561,3,reviewed,av,av
 2024-05-09T21:00:20.653Z,63.0276,-150.7859,109.9,1.5,ml,,,,0.39,ak,ak0245zcd9ht,2024-05-09T21:02:41.479Z,"59 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-09T20:50:05.720Z,19.2363338470459,-155.371994018555,29.0900001525879,1.90999997,md,34,150,0.09741,0.150000006,hv,hv74225142,2024-05-09T20:51:58.490Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.65,0.800000012,0.349999994,9,automatic,hv,hv
-2024-05-09T20:31:20.603Z,63.3236,-145.3347,0,1.9,ml,,,,0.79,ak,ak0245zbyh30,2024-05-09T20:33:31.730Z,"29 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-09T20:29:53.063Z,32.644,-118.7275,9.215,2.7,ml,27,246,1.482,0.58,us,us6000mxjv,2024-05-10T12:45:32.040Z,"86 km SSW of Avalon, California",earthquake,3.55,8.346,0.049,54,reviewed,us,us
