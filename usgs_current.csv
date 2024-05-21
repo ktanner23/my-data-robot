@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-21T02:16:37.460Z,33.6679993,-116.7164993,15.14,1.33,ml,44,47,0.03562,0.12,ci,ci40594407,2024-05-21T02:18:39.894Z,"8 km S of Idyllwild, CA",earthquake,0.21,0.38,0.158,13,automatic,ci,ci
+2024-05-21T02:16:37.470Z,33.6613333,-116.7246667,15.1,1.18,ml,56,25,0.04309,0.16,ci,ci40594407,2024-05-21T02:27:12.490Z,"9 km S of Idyllwild, CA",earthquake,0.16,0.26,0.176,28,automatic,ci,ci
 2024-05-21T02:02:14.418Z,62.5634,-149.7042,53.3,1.9,ml,,,,0.65,ak,ak0246ivilvl,2024-05-21T02:04:19.202Z,"24 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-21T01:42:51.640Z,33.6686667,-116.7105,14.38,0.52,ml,13,104,0.03061,0.07,ci,ci40594391,2024-05-21T01:48:51.427Z,"8 km S of Idyllwild, CA",earthquake,0.24,0.48,0.153,11,automatic,ci,ci
 2024-05-21T01:05:51.145Z,62.2924,-149.2032,0,1.6,ml,,,,0.86,ak,ak0246iuxw96,2024-05-21T01:07:52.252Z,"36 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -135,7 +135,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T14:24:30.670Z,35.8731667,-117.6896667,8.61,1.79,ml,28,107,0.08111,0.14,ci,ci40593647,2024-05-20T14:36:52.641Z,"21 km ESE of Little Lake, CA",earthquake,0.2,0.5,0.16,27,reviewed,ci,ci
 2024-05-20T14:06:32.070Z,36.1653327941895,-120.012001037598,7.40000009536743,1.77,md,6,176,0.1899,0.19,nc,nc75009686,2024-05-20T14:08:09.750Z,"9 km SE of Huron, CA",earthquake,2.4,3.66000009,0.16,3,automatic,nc,nc
 2024-05-20T14:05:10.027Z,62.3593,-149.0161,0,1.6,ml,,,,1.11,ak,ak0246hf53ga,2024-05-20T14:07:54.677Z,"48 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-05-20T13:49:38.360Z,60.061,-153.074833333333,1.27,-0.97,ml,5,215,0.00672,0.27,av,av93133471,2024-05-21T02:21:20.990Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.84,0.7,0.224381106555162,5,reviewed,av,av
 2024-05-20T13:45:44.711Z,63.1527,-151.0891,16.8,1.8,ml,,,,1.1,ak,ak0246hesb5z,2024-05-20T13:48:26.015Z,"53 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-05-20T13:43:02.810Z,61.2691666666667,-152.198166666667,21.76,-0.05,ml,5,134,0.04616,0.21,av,av93133461,2024-05-21T02:30:12.400Z,"61 km WNW of Tyonek, Alaska",earthquake,0.84,1.4,0.238844502254607,5,reviewed,av,av
 2024-05-20T13:33:42.840Z,19.324333190918,-155.220001220703,1.60000002384186,1.76999998,md,39,72,0.0431,0.239999995,hv,hv74241902,2024-05-20T13:35:39.160Z,"13 km S of Volcano, Hawaii",earthquake,0.32,0.529999971,0.200000003,16,automatic,hv,hv
 2024-05-20T13:22:42.300Z,36.7251663208008,-121.435668945312,6.03000020980835,1.65,md,16,72,0.03602,0.14,nc,nc75009666,2024-05-20T13:24:20.523Z,"12 km SW of Ridgemark, CA",earthquake,0.52,0.709999979,0.14,8,automatic,nc,nc
 2024-05-20T13:15:56.529Z,59.891,-139.35,0,2.2,ml,,,,0.63,ak,ak0246helwlg,2024-05-20T13:17:46.373Z,"43 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -150,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T12:19:30.670Z,44.8006666666667,-111.051333333333,7.93,0.79,ml,13,155,0.03953,0.11,uu,uu80070001,2024-05-20T16:25:09.410Z,"11 km ENE of Hebgen Lake Estates, Montana",earthquake,0.48,0.57,0.488835952773287,3,reviewed,uu,uu
 2024-05-20T12:18:40.504Z,64.8148,-149.1242,19.7,1.1,ml,,,,0.41,ak,ak0246he12wi,2024-05-20T12:20:20.859Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-20T12:18:06.630Z,19.3478333333333,-155.024833333333,-0.15,1.62,md,48,194,0.07212,0.2,hv,hv74241837,2024-05-20T23:20:12.110Z,"17 km SE of Fern Forest, Hawaii",earthquake,0.62,0.2,0.0689789132031668,14,reviewed,hv,hv
-2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-21T02:09:07.053Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
+2024-05-20T12:17:36.030Z,33.028,-116.0046667,11.18,4.05,mw,83,20,0.1439,0.25,ci,ci40593503,2024-05-21T02:31:02.914Z,"17 km SE of Ocotillo Wells, CA",earthquake,0.17,0.56,,6,reviewed,ci,ci
 2024-05-20T12:10:52.320Z,19.378999710083,-155.220840454102,2.00999999046326,1.84,ml,23,95,0.007234,0.200000003,hv,hv74241827,2024-05-20T12:13:31.530Z,"7 km S of Volcano, Hawaii",earthquake,0.41,0.289999992,0.1,7,automatic,hv,hv
 2024-05-20T12:07:41.196Z,64.8732,-150.4265,9.4,1.1,ml,,,,0.79,ak,ak0246hdyq2v,2024-05-20T12:09:47.234Z,"17 km SE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-20T12:00:07.102Z,31.742,-104.116,7.7405,1.8,ml,25,52,0,0.1,tx,tx2024jwse,2024-05-20T17:29:12.880Z,"49 km W of Mentone, Texas",earthquake,0.5826154529055322,0.7513106005245658,0.2,15,reviewed,tx,tx
@@ -248,4 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-20T02:48:35.680Z,38.7895011901855,-122.785835266113,2.84999990463257,0.59,md,8,126,0.01352,0.02,nc,nc75009536,2024-05-20T02:50:13.229Z,"3 km NW of The Geysers, CA",earthquake,0.54,1.13,0.16,7,automatic,nc,nc
 2024-05-20T02:42:23.890Z,61.2481666666667,-152.259666666667,8.62,-0.34,ml,5,99,0.04408,0.14,av,av93133011,2024-05-20T21:37:57.270Z,"63 km WNW of Tyonek, Alaska",earthquake,0.85,1.39,0.331890765885093,5,reviewed,av,av
 2024-05-20T02:33:16.630Z,33.9748333,-117.2246667,13.77,1,ml,46,71,0.05108,0.17,ci,ci40593119,2024-05-20T02:39:56.366Z,"5 km N of Moreno Valley, CA",earthquake,0.19,0.34,0.161,26,automatic,ci,ci
-2024-05-20T02:29:54.320Z,33.629,-116.7566667,16,1.43,ml,63,26,0.03576,0.18,ci,ci40593111,2024-05-20T13:24:36.070Z,"11 km NW of Anza, CA",earthquake,0.16,0.29,0.218,25,reviewed,ci,ci
