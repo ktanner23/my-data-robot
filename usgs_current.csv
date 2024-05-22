@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-05-22T16:42:07.126Z,61.0265,-152.4247,100.2,1,ml,,,,0.31,ak,ak0246krmkx4,2024-05-22T16:43:48.468Z,"69 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-05-22T16:40:12.780Z,34.3371658,-118.5276642,8.76,1.34,ml,19,116,0.04567,0.21,ci,ci40596111,2024-05-22T16:42:28.941Z,"8 km NNW of Granada Hills, CA",earthquake,0.55,1.19,0.042,6,automatic,ci,ci
+2024-05-22T16:40:12.880Z,34.3366667,-118.5143333,5.26,1.37,ml,38,38,0.03812,0.25,ci,ci40596111,2024-05-22T16:46:39.684Z,"7 km WNW of Sylmar, CA",earthquake,0.26,0.6,0.159,31,automatic,ci,ci
 2024-05-22T16:24:41.530Z,34.3375,-118.5236667,6.85,1.12,ml,17,97,0.0436,0.16,ci,ci40596087,2024-05-22T16:30:52.190Z,"8 km NNW of Granada Hills, CA",earthquake,0.3,0.55,0.178,27,automatic,ci,ci
 2024-05-22T16:22:39.960Z,34.3228333,-118.5041667,2.9,1.19,ml,26,42,0.022,0.28,ci,ci40596079,2024-05-22T16:29:03.054Z,"5 km WNW of Sylmar, CA",earthquake,0.36,0.55,0.276,32,automatic,ci,ci
 2024-05-22T16:19:03.020Z,34.332,-118.5136667,1.99,1,ml,16,69,0.06467,0.19,ci,ci40596071,2024-05-22T16:25:15.147Z,"7 km WNW of Sylmar, CA",earthquake,0.32,0.56,0.14,22,automatic,ci,ci
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-21T22:33:28.260Z,34.119,-116.9133333,13.18,0.97,ml,6,125,0.03153,0.15,ci,ci40595255,2024-05-22T00:41:46.759Z,"14 km S of Big Bear Lake, CA",earthquake,1.23,31.61,0.099,1,reviewed,ci,ci
 2024-05-21T22:12:03.670Z,35.6475,-117.4986667,7.16,0.88,ml,20,95,0.06352,0.14,ci,ci40595239,2024-05-22T13:26:18.621Z,"16 km SSW of Searles Valley, CA",earthquake,0.27,0.44,0.146,7,reviewed,ci,ci
 2024-05-21T21:47:12.720Z,57.7451666666667,-155.874333333333,5.74,1.19,ml,8,204,0.2197,0.08,av,av93135011,2024-05-22T05:28:34.750Z,"86 km WNW of Karluk, Alaska",earthquake,0.68,1.6,0.295692789650247,8,reviewed,av,av
-2024-05-21T21:38:55.095Z,31.653,-104.321,4.5688,1.7,ml,17,69,0.1,0.2,tx,tx2024jzgu,2024-05-21T22:06:29.213Z,"58 km S of Whites City, New Mexico",earthquake,0,1.37921186739945,0.2,13,automatic,tx,tx
+2024-05-21T21:38:55.206Z,31.662,-104.321,5.8948,1.8,ml,25,68,0,0.1,tx,tx2024jzgu,2024-05-22T16:53:15.270Z,"57 km S of Whites City, New Mexico",earthquake,0.8253963402651394,1.0335412415592677,0.1,13,reviewed,tx,tx
 2024-05-21T21:38:25.960Z,33.9811667,-116.3731667,8.35,0.93,ml,36,48,0.05006,0.13,ci,ci40595191,2024-05-22T13:26:25.276Z,"12 km E of Desert Hot Springs, CA",earthquake,0.16,0.36,0.154,24,reviewed,ci,ci
 2024-05-21T21:35:40.368Z,60.4341,-152.0589,88.9,1.3,ml,,,,0.24,ak,ak0246j70z04,2024-05-21T21:37:37.293Z,"42 km W of Cohoe, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-05-21T21:30:42.230Z,19.1516666412354,-155.370162963867,28.1100006103516,1.75,md,17,223,0.087,0.129999995,hv,hv74243587,2024-05-21T21:32:24.290Z,"12 km ESE of Pāhala, Hawaii",earthquake,1.09,0.949999988,0.219999999,3,automatic,hv,hv
@@ -193,7 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-21T17:21:20.063Z,28.46,-98.688,7.4707,2,ml,10,78,0.2,0.2,tx,tx2024jyyi,2024-05-22T13:51:46.769Z,"12 km E of Fowlerton, Texas",earthquake,1.8774039635673587,3.561589442175662,0.1,13,reviewed,tx,tx
 2024-05-21T17:20:46.610Z,35.9631667,-117.3868333,1.01,2.93,ml,32,54,0.2144,0.16,ci,ci40594887,2024-05-22T16:14:56.040Z,"22 km N of Searles Valley, CA",earthquake,0.23,0.77,0.143,132,reviewed,ci,ci
 2024-05-21T17:16:40.943Z,63.0654,-151.0846,15,1.4,ml,,,,0.93,ak,ak0246j4j60u,2024-05-21T17:18:54.519Z,"61 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-05-21T16:51:58.645Z,64.4756,-146.9194,0,1.1,ml,,,,0.69,ak,ak0246j459ug,2024-05-21T19:27:45.045Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-21T16:49:30.210Z,41.5695,-112.4185,7.91,2.16,ml,34,73,0.01785,0.15,uu,uu80070096,2024-05-21T17:11:16.300Z,"17 km SW of Thatcher, Utah",earthquake,0.24,0.42,0.188384274572778,9,reviewed,uu,uu
-2024-05-21T16:48:11.766Z,64.5043,-146.9086,4.3,1.8,ml,,,,0.57,ak,ak0246j44j2w,2024-05-21T17:57:55.195Z,"2 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-05-21T16:47:16.740Z,38.8361663818359,-122.799667358398,1.76999998092651,0.44,md,9,72,0.007618,0.01,nc,nc75010196,2024-05-21T16:48:51.764Z,"7 km WNW of Cobb, CA",earthquake,0.55,1.34000003,0.25,11,automatic,nc,nc
