@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-22T19:52:00.240Z,33.4799995,-116.4656677,9.77,1.54,ml,58,30,0.05467,0.2,ci,ci40596543,2024-05-22T19:54:04.111Z,"21 km ESE of Anza, CA",earthquake,0.26,0.5,0.264,26,automatic,ci,ci
+2024-05-22T19:52:00.250Z,33.4781667,-116.47,9.58,1.55,ml,73,31,0.05836,0.21,ci,ci40596543,2024-05-22T20:03:04.650Z,"21 km ESE of Anza, CA",earthquake,0.14,0.31,0.19,27,automatic,ci,ci
 2024-05-22T19:37:15.020Z,33.4763333,-116.9355,8.88,0.74,ml,14,62,0.1096,0.15,ci,ci40596511,2024-05-22T19:43:12.051Z,"8 km WNW of Aguanga, CA",earthquake,0.3,1.13,0.161,5,automatic,ci,ci
 2024-05-22T19:30:10.350Z,32.6065,-116.9825,3.45,1.37,ml,30,107,0.04417,0.18,ci,ci40596487,2024-05-22T19:36:29.851Z,"7 km ESE of Chula Vista, CA",earthquake,0.33,0.37,0.145,18,automatic,ci,ci
 2024-05-22T19:10:26.043Z,36.7776,-116.2509,8,0.1,ml,9,98.92000000000002,0.059,0.0722,nn,nn00878028,2024-05-22T19:12:30.422Z,"47 km ESE of Beatty, Nevada",earthquake,,2.2,0.99,5,automatic,nn,nn
@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-22T14:16:38.660Z,38.7883338928223,-122.767669677734,1.79999995231628,0.52,md,8,96,0.01376,0.02,nc,nc75010561,2024-05-22T14:18:16.320Z,"2 km NNW of The Geysers, CA",earthquake,0.42,0.879999995,0.29,8,automatic,nc,nc
 2024-05-22T14:13:17.383Z,65.1444,-149.0876,13.1,1.1,ml,,,,0.67,ak,ak0246kq9iqi,2024-05-22T14:15:20.175Z,"12 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-22T13:19:38.942Z,36.4044,71.0795,226.191,4.6,mb,135,38,2.464,0.67,us,us6000n099,2024-05-22T14:21:16.040Z,"51 km SW of Ashkāsham, Afghanistan",earthquake,6.39,5.866,0.039,197,reviewed,us,us
+2024-05-22T13:13:31.341Z,38.7327,-118.6735,8.2,1.1,ml,9,118.13,0.499,0.152,nn,nn00878032,2024-05-22T20:01:28.739Z,"11 km NE of Walker Lake, Nevada",earthquake,,2.6,0.15,6,reviewed,nn,nn
 2024-05-22T13:10:46.624Z,64.8085,-149.0496,20.3,1.2,ml,,,,0.53,ak,ak0246kpni8m,2024-05-22T13:12:47.528Z,"23 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-22T12:46:11.554Z,-33.0714,-179.9502,112.184,4.4,mb,11,153,4.177,0.58,us,us6000n094,2024-05-22T13:02:15.040Z,"south of the Kermadec Islands",earthquake,13.89,12.347,0.203,7,reviewed,us,us
 2024-05-22T12:45:32.251Z,64.471,-149.3357,3.9,1.4,ml,,,,0.5,ak,ak0246kp9jl5,2024-05-22T12:47:50.208Z,"15 km SW of Nenana, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -141,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-22T01:17:25.025Z,31.608,-103.984,6.6254,1.7,ml,19,60,0,0.1,tx,tx2024jznz,2024-05-22T15:33:50.662Z,"37 km NNW of Toyah, Texas",earthquake,0.439587740418316,0.4014378023144184,0.1,13,reviewed,tx,tx
 2024-05-22T01:16:28.680Z,33.502,-116.4961667,14.38,0.56,ml,18,72,0.06254,0.13,ci,ci40595455,2024-05-22T01:22:23.631Z,"18 km ESE of Anza, CA",earthquake,0.29,0.46,0.104,8,automatic,ci,ci
 2024-05-22T01:10:01.220Z,38.8211669921875,-122.823997497559,1.9099999666214,0.42,md,5,219,0.0111,0,nc,nc75010376,2024-05-22T01:11:40.165Z,"8 km NW of The Geysers, CA",earthquake,0.81,1.79999995,0.29,6,automatic,nc,nc
-2024-05-22T01:09:08.047Z,31.602,-103.97,6.9519,1.6,ml,14,65,0,0.5,tx,tx2024jzns,2024-05-22T01:33:02.746Z,"35 km NNW of Toyah, Texas",earthquake,0,2.23133141291642,0.2,12,automatic,tx,tx
+2024-05-22T01:09:08.473Z,31.606,-103.979,7.4713,1.6,ml,21,45,0,0.2,tx,tx2024jzns,2024-05-22T19:56:56.008Z,"36 km NNW of Toyah, Texas",earthquake,0.5277398012943901,0.6153837008069656,0.2,14,reviewed,tx,tx
 2024-05-22T01:06:06.683Z,31.605,-103.992,9.6375,1.5,ml,25,71,0,0.2,tx,tx2024jznp,2024-05-22T07:41:25.689Z,"37 km NNW of Toyah, Texas",earthquake,0.8486007759041032,0.9429240416809648,0.1,14,reviewed,tx,tx
 2024-05-22T01:05:37.742Z,38.5486,-118.4367,6.4,1.3,ml,9,100.83000000000001,0.302,0.1523,nn,nn00878029,2024-05-22T19:27:38.802Z,"16 km E of Hawthorne, Nevada",earthquake,,3.4,0.27,5,reviewed,nn,nn
 2024-05-22T01:01:50.670Z,33.5013333,-116.4961667,14.35,0.64,ml,17,72,0.06285,0.11,ci,ci40595447,2024-05-22T13:24:53.868Z,"18 km ESE of Anza, CA",earthquake,0.29,0.42,0.101,6,reviewed,ci,ci
@@ -195,4 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-21T20:18:42.910Z,58.263,-154.971,8.45,-0.26,ml,6,146,0.07101,0.13,av,av93008344,2024-05-22T04:57:27.380Z,"83 km NNW of Karluk, Alaska",earthquake,0.51,1.17,0.363111010250414,6,reviewed,av,av
 2024-05-21T20:14:43.587Z,39.6022,-119.0606,7.2,0.9,ml,4,323.53,0.273,0.1214,nn,nn00877999,2024-05-21T21:28:18.501Z,"16 km E of Fernley, Nevada",earthquake,,8.7,0.22,3,reviewed,nn,nn
 2024-05-21T20:13:20.636Z,60.0246,-144.4874,35.3,1.7,ml,,,,0.89,ak,ak0246j6arwl,2024-05-21T20:15:57.837Z,"91 km SE of Cordova, Alaska",earthquake,,20.7,,,automatic,ak,ak
-2024-05-21T20:01:12.650Z,60.039,-153.052666666667,-0.06,-0.39,ml,6,91,0.01921,0.08,av,av93134921,2024-05-22T04:46:07.220Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.21,0.77,0.289737771345091,6,reviewed,av,av
