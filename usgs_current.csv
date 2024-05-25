@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-05-25T10:14:29.890Z,33.4748344,-116.57267,10.68,1.04,ml,21,73,0.03165,0.08,ci,ci40599815,2024-05-25T10:16:36.242Z,"13 km SE of Anza, CA",earthquake,0.41,0.5,0.577,11,automatic,ci,ci
+2024-05-25T10:14:29.900Z,33.4718333,-116.5723333,10.27,0.55,ml,24,115,0.03381,0.11,ci,ci40599815,2024-05-25T10:20:45.866Z,"13 km SE of Anza, CA",earthquake,0.18,0.28,0.1,10,automatic,ci,ci
 2024-05-25T10:06:02.025Z,60.0765,-148.3991,24,1.9,ml,,,,0.61,ak,ak0246pmgalm,2024-05-25T10:08:11.219Z,"21 km W of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-25T09:57:55.797Z,64.3488,-149.6161,19.1,0.9,ml,,,,0.32,ak,ak0246pm5wnu,2024-05-25T10:00:27.593Z,"20 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-25T09:57:02.690Z,19.0109996795654,-155.445327758789,33.4900016784668,1.92999995,md,46,214,0.1245,0.150000006,hv,hv74247636,2024-05-25T09:58:53.330Z,"15 km ESE of Naalehu, Hawaii",earthquake,0.64,0.810000002,0.129999995,6,automatic,hv,hv
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T09:02:41.530Z,18.9619998931885,-155.412170410156,13.8299999237061,2.55,ml,53,230,0.1799,0.280000001,hv,hv74247616,2024-05-25T10:06:54.040Z,"21 km ESE of Naalehu, Hawaii",earthquake,1.42,1.94000006,0.71,9,automatic,hv,hv
 2024-05-25T09:00:17.650Z,19.2131671905518,-155.375,31.4899997711182,1.83000004,md,26,191,0.12,0.100000001,hv,hv74247611,2024-05-25T09:02:09.650Z,"10 km E of Pāhala, Hawaii",earthquake,0.8,0.569999993,0.150000006,3,automatic,hv,hv
 2024-05-25T08:46:27.875Z,63.1514,-150.5719,103.7,1.3,ml,,,,0.14,ak,ak0246pli20z,2024-05-25T08:48:47.329Z,"72 km SE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-05-25T08:19:07.860Z,18.9785,-65.4171,55,3.85,md,20,218,0.7731,0.6,pr,pr2024146001,2024-05-25T08:53:54.264Z,"74 km NNE of Luquillo, Puerto Rico",earthquake,3.89,8.79,0.11,16,reviewed,pr,pr
+2024-05-25T08:19:07.860Z,18.9785,-65.4171,55,3.85,md,20,218,0.7731,0.6,pr,pr2024146001,2024-05-25T10:20:54.358Z,"74 km NNE of Luquillo, Puerto Rico",earthquake,3.89,8.79,0.11,16,reviewed,pr,pr
 2024-05-25T08:08:59.196Z,56.1348,163.7209,32.454,5,mb,89,95,4.292,0.92,us,us6000n0x8,2024-05-25T08:23:50.040Z,"77 km E of Ust’-Kamchatsk Staryy, Russia",earthquake,8.73,5.06,0.03,365,reviewed,us,us
 2024-05-25T08:06:22.190Z,33.8181667,-117.6345,4.28,0.64,ml,19,104,0.03113,0.17,ci,ci40599783,2024-05-25T08:18:03.955Z,"8 km SW of Corona, CA",earthquake,0.26,0.42,0.085,9,automatic,ci,ci
 2024-05-25T07:52:08.297Z,-27.6599,-67.8086,140.604,4.5,mb,26,110,2.281,0.7,us,us6000n0x6,2024-05-25T08:30:43.040Z,"18 km W of Fiambalá, Argentina",earthquake,9.57,10.004,0.135,16,reviewed,us,us
@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-24T10:33:19.540Z,32.8106667,-116.1758333,8.41,1.23,ml,35,54,0.06885,0.21,ci,ci40598495,2024-05-24T13:17:48.177Z,"19 km WNW of Ocotillo, CA",earthquake,0.23,0.85,0.269,25,reviewed,ci,ci
 2024-05-24T10:33:17.640Z,19.253833770752,-155.392166137695,30.8400001525879,1.73000002,md,29,135,0.07938,0.140000001,hv,hv74245957,2024-05-24T10:34:48.970Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.58,0.839999974,0.159999996,3,automatic,hv,hv
 2024-05-24T10:32:44.686Z,36.7288,-116.2962,9.1,-0.3,ml,8,89.39000000000004,0.022,0.0608,nn,nn00878108,2024-05-24T13:44:46.242Z,"45 km ESE of Beatty, Nevada",earthquake,,1.5,0.22,5,reviewed,nn,nn
-2024-05-24T10:21:29.110Z,38.8241653442383,-122.790000915527,1.13999998569489,0.31,md,7,109,0.01423,0.01,nc,nc75011601,2024-05-24T10:23:06.512Z,"6 km WNW of Cobb, CA",earthquake,0.56,1.23000002,0.15,7,automatic,nc,nc
