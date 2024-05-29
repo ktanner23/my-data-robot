@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-29T17:22:24.580Z,35.674,-117.524,6.14,1.47,ml,29,101,0.08214,0.13,ci,ci40605895,2024-05-29T17:33:35.724Z,"15 km ENE of Ridgecrest, CA",earthquake,0.18,0.59,0.149,17,automatic,ci,ci
 2024-05-29T17:14:56.880Z,32.2768,137.6099,380.589,5.4,mww,138,40,2.038,0.7,us,us7000mnu8,2024-05-29T17:58:39.231Z,"216 km SE of Kushimoto, Japan",earthquake,8.08,5.43,0.063,24,reviewed,us,us
 2024-05-29T17:09:02.757Z,61.5179,-146.7468,29.7,1.1,ml,,,,0.69,ak,ak0246wcsd0j,2024-05-29T17:11:10.952Z,"48 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-29T16:27:14.322Z,36.7412,-116.0265,1.3,0.2,ml,15,79.44,0.023,0.1451,nn,nn00878340,2024-05-29T17:51:14.793Z,"37 km WNW of Indian Springs, Nevada",earthquake,,3.8,0.54,6,reviewed,nn,nn
+2024-05-29T16:27:13.839Z,36.7695,-116.007,3.3,0.3,ml,14,156.89,0.028,0.1535,nn,nn00878340,2024-05-29T18:40:17.253Z,"37 km NW of Indian Springs, Nevada",earthquake,,1.7,0.49,5,reviewed,nn,nn
 2024-05-29T16:12:29.360Z,61.1826,-150.232,54.5,1.4,ml,,,,0.31,ak,ak0246wc7mm0,2024-05-29T16:14:43.506Z,"18 km WSW of Anchorage, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-05-29T16:05:50.927Z,63.103,-151.5283,0,1.8,ml,,,,0.84,ak,ak0246wc669g,2024-05-29T16:08:11.193Z,"49 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-29T16:02:09.109Z,36.2155,-95.87383333,0,1.19,ml,57,116,0.3122387281,0.99,ok,ok2024knls,2024-05-29T16:19:18.531Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,1,0.26,24,reviewed,ok,ok
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-29T05:45:44.320Z,19.3048324584961,-155.369995117188,1.10000002384186,1.82,ml,39,112,0.03203,0.189999998,hv,hv74252256,2024-05-29T05:48:22.490Z,"16 km NE of Pāhala, Hawaii",earthquake,0.32,0.409999996,0.42,3,automatic,hv,hv
 2024-05-29T05:41:39.075Z,62.8345,-148.317,51.7,1.3,ml,,,,0.92,ak,ak0246w5u3gz,2024-05-29T05:43:52.191Z,"69 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-05-29T05:22:23.900Z,17.7745,-68.7211,12,3.78,md,10,246,0.8137,0.44,pr,pr2024150001,2024-05-29T05:50:42.194Z,"67 km S of Boca de Yuma, Dominican Republic",earthquake,4.03,5.23,0.11,4,reviewed,pr,pr
-2024-05-29T05:21:49.989Z,37.9886,-117.8974,9.5,1.1,ml,8,79.34,0.173,0.1174,nn,nn00878334,2024-05-29T15:42:51.770Z,"34 km NW of Silver Peak, Nevada",earthquake,,4.1,0.25,4,reviewed,nn,nn
+2024-05-29T05:21:49.989Z,37.9886,-117.8974,9.5,1.1,ml,8,79.34,0.173,0.1174,nn,nn00878334,2024-05-29T18:36:48.194Z,"34 km NW of Silver Peak, Nevada",earthquake,,4.1,0.25,4,reviewed,nn,nn
 2024-05-29T05:20:00.100Z,19.1998329162598,-155.499328613281,33.3699989318848,2.21000004,md,35,190,0.04829,0.159999996,hv,hv74252241,2024-05-29T05:21:41.520Z,"2 km W of Pāhala, Hawaii",earthquake,0.83,0.920000017,0.159999996,3,automatic,hv,hv
 2024-05-29T05:17:42.770Z,19.146333694458,-155.470001220703,31.5100002288818,2.24000001,md,41,166,0.01171,0.129999995,hv,hv74252236,2024-05-29T05:19:20.530Z,"6 km S of Pāhala, Hawaii",earthquake,0.47,0.610000014,0.460000008,7,automatic,hv,hv
 2024-05-29T05:15:38.721Z,61.0257,-147.4512,10,1.7,ml,,,,0.81,ak,ak0246w5oits,2024-05-29T05:17:28.580Z,"45 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -173,4 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-28T18:54:09.330Z,41.5768333333333,-112.427,6.81,1.51,ml,20,46,0.01069,0.13,uu,uu80070546,2024-05-28T19:43:12.470Z,"17 km SW of Thatcher, Utah",earthquake,0.33,0.72,0.317502405822822,3,reviewed,uu,uu
 2024-05-28T18:53:42.400Z,34.989,-118.1886667,0.9,1.53,ml,17,74,0.1147,0.22,ci,ci40604695,2024-05-28T19:00:13.340Z,"7 km S of Mojave, CA",earthquake,0.3,0.64,0.462,13,automatic,ci,ci
 2024-05-28T18:49:31.966Z,63.4916,-147.7352,14.9,0.8,ml,,,,0.25,ak,ak0246uq330s,2024-05-28T18:51:06.651Z,"61 km E of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-05-28T18:37:01.540Z,36.3715,-95.732,0,1.46,ml,49,136,0.4634090633,0.45,ok,ok2024klvh,2024-05-28T18:53:46.876Z,"6 km NNE of Limestone, Oklahoma",quarry blast,,0.4,0.2,23,reviewed,ok,ok
