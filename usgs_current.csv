@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-05T17:40:02.850Z,33.838501,-117.0651703,0.99,1.37,ml,18,185,0.1189,0.33,ci,ci40615271,2024-06-05T17:42:14.476Z,"8 km ENE of Nuevo, CA",earthquake,2.14,1.39,0.096,6,automatic,ci,ci
+2024-06-05T17:40:04.190Z,33.7543333,-117.1026667,1.66,1.04,ml,27,188,0.04841,0.24,ci,ci40615271,2024-06-05T17:46:34.505Z,"3 km NW of Green Acres, CA",earthquake,0.65,0.43,0.216,31,automatic,ci,ci
 2024-06-05T17:37:33.980Z,38.8110008239746,-122.828330993652,1.61000001430511,0.84,md,9,72,0.00223,0.01,nc,nc75016807,2024-06-05T17:39:10.918Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.870000005,0.34,10,automatic,nc,nc
 2024-06-05T17:21:27.620Z,32.9788333,-116.3183333,9.13,0.6,ml,12,179,0.02724,0.11,ci,ci40615247,2024-06-05T17:27:25.080Z,"25 km SW of Ocotillo Wells, CA",earthquake,1.03,0.51,0.102,6,automatic,ci,ci
 2024-06-05T17:08:22.984Z,62.1557,-149.4261,52.6,1.1,ml,,,,0.39,ak,ak02477xjmbe,2024-06-05T17:11:07.188Z,"22 km E of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -118,6 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T09:09:28.334Z,62.1806,-145.7025,12.9,1.5,ml,,,,0.92,ak,ak02477ssdlt,2024-06-05T09:11:45.522Z,"11 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-05T09:06:09.350Z,35.6603333,-117.5278333,1.55,1.16,ml,28,90,0.08492,0.16,ci,ci40614655,2024-06-05T09:12:09.324Z,"14 km ENE of Ridgecrest, CA",earthquake,0.19,0.29,0.127,15,automatic,ci,ci
 2024-06-05T08:50:13.180Z,45.99766666666667,-122.72283333333333,15.16,1.11,ml,19,82,0.07173,0.13,uw,uw62004467,2024-06-05T15:43:16.300Z,"9 km E of Kalama, Washington",earthquake,0.33,0.59,0.4259851617172749,5,reviewed,uw,uw
+2024-06-05T08:48:29.840Z,32.3741667,-115.1671667,18.71,2.41,ml,19,212,0.3389,0.3,ci,ci37665420,2024-06-05T17:50:47.358Z,"3 km NE of Delta, B.C., MX",earthquake,1.09,1.72,0.259,11,reviewed,ci,ci
 2024-06-05T08:47:09.330Z,32.351,-115.1341667,20.97,2.76,ml,11,225,0.3578,0.22,ci,ci37665404,2024-06-05T17:40:51.465Z,"6 km E of Delta, B.C., MX",earthquake,1.31,3.14,0.157,8,reviewed,ci,ci
 2024-06-05T08:46:35.110Z,32.3728333,-115.1498333,23.72,3.01,ml,23,212,0.3378,0.27,ci,ci37665252,2024-06-05T16:32:53.076Z,"4 km ENE of Delta, B.C., MX",earthquake,0.86,2.11,0.205,18,reviewed,ci,ci
 2024-06-05T08:45:42.640Z,32.3173333,-115.1156667,20.42,3.07,ml,21,260,0.3901,0.33,ci,ci37665244,2024-06-05T16:31:31.067Z,"4 km NNW of Guadalupe Victoria, B.C., MX",earthquake,1.25,4.09,0.266,21,reviewed,ci,ci
@@ -252,6 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T20:29:12.110Z,33.3351667,-116.3573333,11.46,0.99,ml,50,61,0.01176,0.19,ci,ci40614063,2024-06-04T20:58:02.249Z,"9 km N of Borrego Springs, CA",earthquake,0.19,0.42,0.114,24,reviewed,ci,ci
 2024-06-04T20:25:34.725Z,61.0675,-148.7612,21,1,ml,,,,0.41,ak,ak02476bw8ps,2024-06-04T20:27:35.339Z,"25 km ENE of Girdwood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-04T20:20:08.030Z,52.0253333333333,178.415333333333,5.68,1.15,ml,4,343,0.08326,0.14,av,av93150461,2024-06-05T01:01:28.020Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.2,2.5,0.221928070358498,4,reviewed,av,av
+2024-06-04T20:10:37.929Z,36.40783333,-96.92866667,5.55,1.29,ml,40,74,0.006298763968,0.19,ok,ok2024kysu,2024-06-05T17:54:13.188Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.23,16,reviewed,ok,ok
 2024-06-04T20:09:55.280Z,33.8513333,-117.496,-0.51,1.8,ml,48,42,0.05427,0.25,ci,ci40614031,2024-06-04T22:18:36.841Z,"4 km SE of Home Gardens, CA",quarry blast,0.36,31.61,0.155,60,reviewed,ci,ci
 2024-06-04T20:06:42.727Z,60.8904,-152.6177,15.2,1.2,ml,,,,0.32,ak,ak02476bs6q8,2024-06-05T00:58:02.030Z,"75 km WNW of Nikiski, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-04T20:05:06.890Z,40.3051681518555,-124.023170471191,28.7800006866455,1.82,md,19,63,0.03459,0.08,nc,nc75016292,2024-06-04T20:06:41.189Z,"22 km ESE of Petrolia, CA",earthquake,0.56,1.35000002,0.14,10,automatic,nc,nc
@@ -278,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-04T17:54:24.620Z,37.548999786377,-121.848335266113,15.3800001144409,2.52,md,57,32,0.07506,0.15,nc,nc75016237,2024-06-05T03:58:57.881Z,"7 km SSE of Sunol, CA",earthquake,0.21,0.540000021,0.12,60,automatic,nc,nc
 2024-06-04T17:53:30.860Z,33.8048333,-116.1016667,1.55,1.06,ml,22,82,0.1001,0.15,ci,ci40613815,2024-06-04T18:23:54.354Z,"14 km NE of Indio, CA",earthquake,0.18,0.33,0.111,16,reviewed,ci,ci
 2024-06-04T17:53:28.054Z,57.5514,120.6258,10,4.3,mb,64,77,4.772,0.94,us,us7000mqb1,2024-06-04T20:55:50.040Z,"159 km ENE of Chara, Russia",earthquake,9.05,1.928,0.07,58,reviewed,us,us
-2024-06-04T17:48:11.649Z,36.9436,-116.0837,9.2,0.5,ml,33,53.190000000000005,0.003,0.1325,nn,nn00878596,2024-06-04T20:21:11.949Z,"55 km NW of Indian Springs, Nevada",earthquake,,0.8,0.3,13,reviewed,nn,nn
