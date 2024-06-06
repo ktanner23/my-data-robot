@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-06T14:41:54.799Z,65.2538,-148.9856,0.2,0.8,ml,,,,0.28,ak,ak02479jht2v,2024-06-06T14:43:49.607Z,"20 km NE of Minto, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-06-06T14:16:42.370Z,32.4296667,-115.1681667,15.79,2.71,ml,28,58,0.0533,0.33,ci,ci40615959,2024-06-06T14:28:50.588Z,"9 km NNE of Delta, B.C., MX",earthquake,0.41,0.86,0.229,26,automatic,ci,ci
 2024-06-06T14:12:44.710Z,38.7863349914551,-122.766830444336,2.90000009536743,0.57,md,12,98,0.01561,0.03,nc,nc75017097,2024-06-06T14:14:22.623Z,"1 km NNW of The Geysers, CA",earthquake,0.6,1.29999995,0.14,11,automatic,nc,nc
 2024-06-06T14:07:58.901Z,31.674,-104.419,6.6841,1.7,ml,17,70,0,0.3,tx,tx2024lbxy,2024-06-06T14:35:06.413Z,"55 km S of Whites City, New Mexico",earthquake,0,2.36280603596369,0.2,13,automatic,tx,tx
@@ -113,7 +114,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-06T00:10:53.390Z,19.386999130249,-155.283660888672,0.569999992847443,1.92999995,md,7,148,0.001895,0.140000001,hv,hv74263541,2024-06-06T00:12:07.010Z,"8 km SW of Volcano, Hawaii",earthquake,0.25,0.379999995,0.180000007,6,automatic,hv,hv
 2024-06-06T00:09:31.145Z,19.6368,-70.9676,24.242,3.8,mwr,35,106,0.192,0.71,us,us7000mqlj,2024-06-06T03:28:55.012Z,"2 km SW of Jicomé, Dominican Republic",earthquake,4.15,7.711,0.071,19,reviewed,us,us
 2024-06-06T00:03:26.259Z,35.5546,140.7552,45.522,4.7,mwr,59,138,2.286,1.17,us,us7000mqlh,2024-06-06T00:16:21.040Z,"20 km SSE of Asahi, Japan",earthquake,7.98,6.475,0.073,18,reviewed,us,us
-2024-06-06T00:01:05.158Z,31.597,-104.588,2.5993,1.6,ml,15,179,0.1,0.3,tx,tx2024lawb,2024-06-06T00:16:39.574Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.83641812141117,0.1,13,automatic,tx,tx
 2024-06-05T23:58:53.749Z,65.983,-147.9785,9.9,1,ml,,,,0.58,ak,ak024781f05m,2024-06-06T00:02:14.401Z,"49 km SSW of Beaver, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-05T23:51:26.151Z,57.7639,-156.6179,124.8,2.6,ml,,,,0.39,ak,ak024781dfyt,2024-06-05T23:56:07.000Z,"54 km ENE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-05T23:50:32.850Z,38.8348350524902,-122.791999816895,1.79999995231628,0.28,md,7,118,0.003796,0.01,nc,nc75016922,2024-06-05T23:52:10.055Z,"6 km WNW of Cobb, CA",earthquake,0.57,1.39999998,0.16,8,automatic,nc,nc
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T20:10:54.465Z,60.52,-152.0461,78.4,1.2,ml,,,,0.32,ak,ak02477zcezq,2024-06-05T20:12:37.715Z,"41 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-05T20:04:38.039Z,58.6685,-155.0456,13.8,1.1,ml,,,,0.2,ak,ak02477zb3ff,2024-06-06T03:49:05.440Z,"87 km S of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-05T19:57:26.370Z,31.536,-104.009,6.9202,2.6,ml,22,57,0,0.1,tx,tx2024laoa,2024-06-05T20:41:27.040Z,"31 km NW of Toyah, Texas",earthquake,0.7881867246674544,0.7741765610000818,0.1,12,reviewed,tx,tx
-2024-06-05T19:55:07.310Z,35.6748333,-117.5281667,3.23,0.86,ml,23,115,0.0856,0.12,ci,ci40615415,2024-06-05T20:01:00.794Z,"15 km ENE of Ridgecrest, CA",earthquake,0.18,0.38,0.162,8,automatic,ci,ci
+2024-06-05T19:55:07.340Z,35.6728333,-117.5243333,5.54,0.86,ml,22,115,0.08229,0.1,ci,ci40615415,2024-06-06T14:45:46.544Z,"15 km ENE of Ridgecrest, CA",earthquake,0.2,0.8,0.154,7,reviewed,ci,ci
 2024-06-05T19:52:06.805Z,64.5649,-153.8416,0,1.6,ml,,,,0.79,ak,ak02477yzvs8,2024-06-05T19:54:16.068Z,"80 km ESE of Ruby, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-05T19:48:32.180Z,55.0471666666667,-162.238166666667,0.52,0.96,ml,6,150,0.06464,0.12,av,av93010499,2024-06-06T03:36:21.920Z,"5 km ESE of King Cove, Alaska",earthquake,0.35,2.52,0.17593740320877,6,reviewed,av,av
 2024-06-05T19:44:54.390Z,38.7983322143555,-122.75,1.46000003814697,0.25,md,9,97,0.007927,0.02,nc,nc75016847,2024-06-05T19:46:31.993Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.689999998,0.04,8,automatic,nc,nc
