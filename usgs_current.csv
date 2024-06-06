@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-06T09:26:08.133Z,62.0677,-151.8442,96.2,1.7,ml,,,,0.58,ak,ak02479gfbpp,2024-06-06T09:28:16.059Z,"24 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-06-06T09:24:50.000Z,33.2803345,-115.7034988,6.25,1.85,ml,49,144,0.08689,0.21,ci,ci40615847,2024-06-06T09:26:54.259Z,"8 km SSE of Bombay Beach, CA",earthquake,0.34,1.09,0.227,28,automatic,ci,ci
+2024-06-06T09:24:49.640Z,33.2803333,-115.7,2.43,1.78,ml,52,39,0.08767,0.22,ci,ci40615847,2024-06-06T09:32:24.281Z,"8 km SSE of Bombay Beach, CA",earthquake,0.24,0.57,0.097,27,automatic,ci,ci
 2024-06-06T09:20:40.830Z,36.7234992980957,-121.119667053223,2.64000010490417,1.87,md,18,133,0.1135,0.1,nc,nc75017002,2024-06-06T09:23:06.397Z,"19 km ESE of Tres Pinos, CA",earthquake,0.41,10.8800001,0.15,17,automatic,nc,nc
 2024-06-06T09:11:47.365Z,65.5532,-145.9759,0.1,1.3,ml,,,,1.43,ak,ak02479gc70v,2024-06-06T09:14:22.152Z,"54 km W of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-06T09:10:41.670Z,33.2705,-116.4353333,4.3,1,ml,58,33,0.0154,0.18,ci,ci40615831,2024-06-06T09:24:01.507Z,"6 km WNW of Borrego Springs, CA",earthquake,0.14,0.33,0.123,28,automatic,ci,ci
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T21:09:05.710Z,38.8041648864746,-122.782333374023,1.37000000476837,0.53,md,7,138,0.009172,0.01,nc,nc75016882,2024-06-05T21:10:43.644Z,"4 km NNW of The Geysers, CA",earthquake,0.48,0.930000007,0.22,8,automatic,nc,nc
 2024-06-05T21:03:01.170Z,38.7789993286133,-122.758499145508,1.1599999666214,1.4,md,19,61,0.01002,0.03,nc,nc75016877,2024-06-05T21:04:38.874Z,"0 km NNW of The Geysers, CA",earthquake,0.24,0.409999996,0.12,19,automatic,nc,nc
 2024-06-05T21:02:08.270Z,36.7464981079102,-121.483833312988,5.65999984741211,1.69,md,18,75,0.009433,0.21,nc,nc75016872,2024-06-06T03:12:39.583Z,"12 km SSE of San Juan Bautista, CA",earthquake,0.59,0.99000001,0.09,10,automatic,nc,nc
-2024-06-05T20:46:00.860Z,33.6321667,-117.903,12.54,2.55,ml,111,70,0.04002,0.22,ci,ci40615495,2024-06-06T08:37:15.256Z,"3 km ENE of Newport Beach, CA",earthquake,0.18,0.31,0.155,26,automatic,ci,ci
+2024-06-05T20:46:00.860Z,33.6321667,-117.903,12.54,2.55,ml,111,70,0.04002,0.22,ci,ci40615495,2024-06-06T09:29:56.070Z,"3 km ENE of Newport Beach, CA",earthquake,0.18,0.31,0.155,26,automatic,ci,ci
 2024-06-05T20:44:32.820Z,61.2851666666667,-152.334833333333,1.29,-0.43,ml,6,195,0.03179,0.09,av,av93010509,2024-06-06T03:56:37.440Z,"68 km WNW of Tyonek, Alaska",earthquake,0.75,1.56,0.248811373899207,6,reviewed,av,av
 2024-06-05T20:44:06.200Z,55.0481666666667,-162.235166666667,1.24,0.61,ml,6,150,0.06444,0.17,av,av93010514,2024-06-06T04:03:53.240Z,"5 km ESE of King Cove, Alaska",earthquake,0.43,1.32,0.192300648313779,6,reviewed,av,av
 2024-06-05T20:35:38.199Z,-17.4565,-178.8373,523.813,4.6,mb,118,70,1.972,0.7,us,us7000mqkj,2024-06-05T20:55:11.040Z,"207 km ENE of Levuka, Fiji",earthquake,11.16,8.025,0.046,138,reviewed,us,us
@@ -263,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-05T09:44:42.399Z,36.53316667,-98.97283333,7.67,1.14,ml,29,79,0.04679081805,0.13,ok,ok2024kztt,2024-06-05T12:36:26.426Z,"9 km WSW of Waynoka, Oklahoma",earthquake,,0.3,0.26,10,reviewed,ok,ok
 2024-06-05T09:39:27.690Z,36.961498260498,-121.688163757324,5.84999990463257,1,md,6,109,0.03711,0.1,nc,nc75016582,2024-06-05T09:41:05.325Z,"4 km E of Interlaken, CA",earthquake,0.77,1.19000006,0.23,7,automatic,nc,nc
 2024-06-05T09:37:28.450Z,38.8328323364258,-122.818168640137,1.83000004291534,0.31,md,9,103,0.01135,0.01,nc,nc75016577,2024-06-05T09:39:05.270Z,"8 km NNW of The Geysers, CA",earthquake,0.36,0.769999981,0.23,10,automatic,nc,nc
-2024-06-05T09:31:56.352Z,36.9426,-116.0855,8.2,0.3,ml,33,52.39999999999999,0.003,0.1345,nn,nn00878633,2024-06-05T17:34:42.606Z,"55 km NW of Indian Springs, Nevada",earthquake,,0.6,0.36,11,reviewed,nn,nn
-2024-06-05T09:29:23.150Z,32.3626667,-115.1661667,15,1.94,ml,19,220,0.35,0.32,ci,ci40614679,2024-06-05T20:22:20.605Z,"3 km ENE of Delta, B.C., MX",earthquake,1.29,31.61,0.218,21,reviewed,ci,ci
