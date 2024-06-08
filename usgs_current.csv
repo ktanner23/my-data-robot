@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-08T19:06:03.390Z,38.8385009765625,-122.838996887207,1.78999996185303,1.09,md,17,83,0.002743,0.03,nc,nc75017937,2024-06-08T19:07:40.490Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.409999996,0.22,19,automatic,nc,nc
+2024-06-08T19:04:19.326Z,61.5596,-151.2923,18.2,2,ml,,,,0.18,ak,ak0247cxbnv0,2024-06-08T19:05:44.396Z,"41 km W of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-08T18:59:46.830Z,38.8148345947266,-122.795997619629,2.61999988555908,0.8,md,20,55,0.006878,0.04,nc,nc75017927,2024-06-08T19:01:25.591Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.540000021,0.19,21,automatic,nc,nc
 2024-06-08T18:51:50.810Z,38.8305015563965,-122.811164855957,1.5,0.3,md,9,175,0.007147,0.01,nc,nc75017922,2024-06-08T18:53:25.438Z,"8 km NNW of The Geysers, CA",earthquake,0.53,1.04999995,0.13,10,automatic,nc,nc
 2024-06-08T18:20:45.640Z,34.6063333,-116.6273333,3.24,1.39,ml,25,63,0.0375,0.14,ci,ci40617551,2024-06-08T18:32:50.572Z,"36 km ENE of Lucerne Valley, CA",earthquake,0.22,0.42,0.113,23,automatic,ci,ci
@@ -33,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-08T16:08:41.959Z,31.663,-104.196,4.0404,1.6,ml,17,66,0.1,0.3,tx,tx2024lfsy,2024-06-08T16:39:38.567Z,"54 km NW of Toyah, Texas",earthquake,0,1.25872807321704,0.3,13,automatic,tx,tx
 2024-06-08T16:05:13.687Z,64.4697,-146.9766,9.7,0.8,ml,,,,0.29,ak,ak0247cvjkbs,2024-06-08T16:12:08.208Z,"7 km SSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-08T16:01:39.700Z,31.649,-104.373,4.5709,1.9,ml,16,71,0.1,0.3,tx,tx2024lfss,2024-06-08T16:39:32.621Z,"58 km S of Whites City, New Mexico",earthquake,0,1.31207831738651,0.1,12,automatic,tx,tx
-2024-06-08T15:55:05.056Z,31.647,-104.371,4.802,2.5,ml,18,71,0.1,0.4,tx,tx2024lfsn,2024-06-08T16:39:28.606Z,"58 km S of Whites City, New Mexico",earthquake,0,1.28321873206833,0.2,14,automatic,tx,tx
+2024-06-08T15:55:05.056Z,31.647,-104.371,4.802,2.5,ml,18,71,0.1,0.4,tx,tx2024lfsn,2024-06-08T19:07:34.040Z,"58 km S of Whites City, New Mexico",earthquake,0,1.28321873206833,0.2,14,automatic,tx,tx
 2024-06-08T15:47:25.396Z,31.652,-104.377,6.8408,2.4,ml,16,71,0,0.3,tx,tx2024lfsg,2024-06-08T18:47:59.040Z,"58 km S of Whites City, New Mexico",earthquake,0,3.40906499332634,0.1,12,automatic,tx,tx
 2024-06-08T15:42:33.310Z,38.8160018920898,-122.826835632324,1.60000002384186,0.77,md,11,73,0.007355,0.01,nc,nc75017807,2024-06-08T15:44:08.861Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.730000019,0.14,12,automatic,nc,nc
 2024-06-08T15:36:08.220Z,38.8178329467773,-122.820663452148,2.02999997138977,2.08,md,43,45,0.009964,0.07,nc,nc75017802,2024-06-08T15:39:28.180Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.270000011,0.16,44,automatic,nc,nc
@@ -248,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-07T19:22:24.300Z,37.0251,-116.2189,4.4,1.1,ml,54,39.129999999999995,0.046,0.0883,nn,nn00878816,2024-06-07T21:40:36.212Z,"49 km ENE of Beatty, Nevada",earthquake,,0.7,0.32,23,reviewed,nn,nn
 2024-06-07T19:20:59.184Z,64.7853,-149.0222,16.9,1.2,ml,,,,0.42,ak,ak0247b9vtwe,2024-06-07T19:22:43.784Z,"20 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-07T19:12:22.164Z,13.2953,-90.3715,35.762,4.1,mb,48,178,0.834,0.9,us,us7000mr25,2024-06-08T17:46:58.040Z,"67 km WSW of Acajutla, El Salvador",earthquake,5.59,6.087,0.097,34,reviewed,us,us
-2024-06-07T19:10:07.783Z,64.9798,-147.3785,2.4,1.2,ml,,,,0.95,ak,ak0247b9tkru,2024-06-07T19:12:38.763Z,"11 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-06-07T19:04:04.050Z,55.0458333333333,-162.232666666667,2.78,0.65,ml,5,153,0.06717,0.07,av,av93011004,2024-06-08T02:50:37.240Z,"5 km ESE of King Cove, Alaska",earthquake,0.35,1.05,0.233846784132194,5,reviewed,av,av
