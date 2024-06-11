@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-11T14:25:38.110Z,38.832332611084,-122.819999694824,1.82000005245209,0.76,md,8,122,0.01182,0.03,nc,nc75020787,2024-06-11T14:27:17.044Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.519999981,0.28,8,automatic,nc,nc
-2024-06-11T14:25:22.141Z,35.64506149,-98.1019516,3.409912348,2.2,ml,48,33.27154541,0.100184232,0.7553219875,ok,ok2024llcb,2024-06-11T14:34:41.681Z,"5 km NNE of Calumet, Oklahoma",earthquake,1.668593706,1.352451831,0.3,33,automatic,ok,ok
+2024-06-11T14:25:21.989Z,35.6365,-98.10133333,7.72,1.66,ml,89,41,0.1034796938,0.34,ok,ok2024llcb,2024-06-11T14:40:16.256Z,"4 km NNE of Calumet, Oklahoma",earthquake,,0.7,0.23,39,reviewed,ok,ok
 2024-06-11T14:21:30.226Z,61.7096,-150.6583,34.4,1.9,ml,,,,0.47,ak,ak0247ht27by,2024-06-11T14:23:47.349Z,"20 km NNW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-11T14:10:52.130Z,35.6616668701172,-121.080001831055,6.23000001907349,1.86,md,19,117,0.06341,0.07,nc,nc75020782,2024-06-11T14:12:27.253Z,"10 km E of San Simeon, CA",earthquake,0.29,0.779999971,0.15,18,automatic,nc,nc
 2024-06-11T14:06:03.193Z,62.5051,-150.6197,63.6,1.9,ml,,,,0.6,ak,ak0247hsyxi7,2024-06-11T14:08:16.097Z,"7 km E of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -106,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T00:29:10.526Z,38.22,-117.9388,7.3,2.4,ml,20,108.23000000000002,0.042,0.2984,nn,nn00879033,2024-06-11T00:32:03.091Z,"24 km SE of Mina, Nevada",earthquake,,0.4,0.22,12,automatic,nn,nn
 2024-06-11T00:02:14.870Z,32.9631667,-115.5563333,9.28,1.35,ml,36,50,0.06164,0.25,ci,ci40619215,2024-06-11T14:06:09.032Z,"3 km SW of Brawley, CA",earthquake,0.27,0.66,0.189,29,reviewed,ci,ci
 2024-06-10T23:59:15.360Z,38.3043333333333,-110.598,6.04,1.75,md,10,122,0.3829,0.09,uu,uu80072966,2024-06-11T13:55:41.520Z,"12 km SE of Hanksville, Utah",earthquake,0.55,31.61,0.225386395622821,7,reviewed,uu,uu
-2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-10T23:53:37.020Z,38.8276672363281,-122.796997070312,0.970000028610229,1.48,md,16,72,0.01192,0.05,nc,nc75020542,2024-06-10T23:55:12.627Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.419999987,0.08,18,automatic,nc,nc
 2024-06-10T23:52:09.200Z,19.3926666666667,-155.277166666667,1.78,2.14,ml,32,42,0.004276,0.1,hv,hv74271791,2024-06-11T00:22:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.279714983662326,12,reviewed,hv,hv
 2024-06-10T23:47:11.280Z,35.0455,-117.6678333,-0.79,1.1,ml,27,46,0.1133,0.14,ci,ci40619207,2024-06-11T13:58:51.411Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.08,10,reviewed,ci,ci
@@ -167,6 +167,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-10T18:58:57.520Z,34.9865,-118.1906667,-0.94,1.15,ml,14,58,0.1119,0.28,ci,ci40619015,2024-06-10T23:33:33.227Z,"8 km SSW of Mojave, CA",quarry blast,0.69,31.61,0.147,21,reviewed,ci,ci
 2024-06-10T18:49:53.270Z,39.1946678161621,-123.165168762207,2.5,1.27,md,7,129,0.09447,0.05,nc,nc75020427,2024-06-10T18:51:32.171Z,"6 km NE of Ukiah, CA",earthquake,0.96,6.96000004,0.18,5,automatic,nc,nc
 2024-06-10T18:30:42.560Z,38.8398323059082,-122.795829772949,1.87999999523163,0.74,md,14,82,0.004514,0.04,nc,nc75020422,2024-06-10T18:32:17.085Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.5,0.28,14,automatic,nc,nc
+2024-06-10T18:27:54.929Z,34.72666667,-96.7145,0,1.19,ml,24,86,0.1907625659,0.44,ok,ok2024ljoo,2024-06-11T14:42:24.150Z,"6 km SSW of Ada, Oklahoma",quarry blast,,0.8,0.27,10,reviewed,ok,ok
 2024-06-10T18:27:54.320Z,19.3895,-155.274666666667,1.63,2.48,ml,32,43,0.005917,0.12,hv,hv74271491,2024-06-10T19:38:49.350Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.12,0.12653241684297,10,reviewed,hv,hv
 2024-06-10T18:19:36.560Z,35.6401667,-117.4623333,5.84,0.26,ml,6,142,0.04011,0.1,ci,ci40618951,2024-06-10T23:22:11.393Z,"15 km SSW of Searles Valley, CA",earthquake,0.39,0.53,0.026,1,reviewed,ci,ci
 2024-06-10T18:15:06.519Z,34.7285,-96.72183333,0,1.53,ml,26,65,0.1844638019,0.24,ok,ok2024ljod,2024-06-11T14:35:27.517Z,"6 km SW of Ada, Oklahoma",quarry blast,,0.5,0.19,13,reviewed,ok,ok
