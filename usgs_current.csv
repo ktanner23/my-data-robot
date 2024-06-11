@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-11T23:42:00.904Z,63.1003,-151.4547,10.6,1.2,ml,,,,0.58,ak,ak0247hyjjju,2024-06-11T23:44:03.005Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-11T23:40:07.810Z,38.7873344421387,-122.74683380127,2.28999996185303,1.25,md,13,83,0.008897,0.02,nc,nc75020987,2024-06-11T23:41:45.374Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.629999995,0.16,12,automatic,nc,nc
 2024-06-11T23:33:30.330Z,38.8346672058105,-122.814834594727,1.67999994754791,1.13,md,22,45,0.01185,0.04,nc,nc75020982,2024-06-11T23:35:05.417Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.389999986,0.19,23,automatic,nc,nc
 2024-06-11T23:26:52.870Z,35.0291667,-117.6831667,-0.84,1.56,ml,40,37,0.09517,0.24,ci,ci40620167,2024-06-11T23:33:33.801Z,"4 km NW of Boron, CA",earthquake,0.32,0.66,0.111,31,automatic,ci,ci
 2024-06-11T23:25:37.917Z,36.6483,-116.274,6.2,0.3,ml,15,195.55,0.052,0.13,nn,nn00879079,2024-06-11T23:27:35.032Z,"52 km SE of Beatty, Nevada",earthquake,,0.9,0.37,5,automatic,nn,nn
@@ -131,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T11:38:17.246Z,-5.2494,151.2456,117.704,5.2,mww,64,77,5.013,0.81,us,us7000mrp5,2024-06-11T11:55:18.040Z,"127 km ENE of Kimbe, Papua New Guinea",earthquake,9.64,6.863,0.073,18,reviewed,us,us
 2024-06-11T11:31:12.135Z,36.4605,-115.7834,6.9,0.2,ml,5,304.48,0.247,0.012,nn,nn00879070,2024-06-11T20:34:54.194Z,"15 km SW of Indian Springs, Nevada",earthquake,,23.3,0,1,reviewed,nn,nn
 2024-06-11T11:22:20.270Z,51.707,-178.811833333333,9.71,0.74,ml,5,312,0.05873,0.31,av,av93159496,2024-06-11T19:43:42.810Z,"151 km W of Adak, Alaska",earthquake,2.19,2.09,0.154403020501444,5,reviewed,av,av
+2024-06-11T11:18:50.180Z,58.1696666666667,-155.327166666667,1.03,-0.38,ml,4,277,0.04046,0.02,av,av93159486,2024-06-11T23:41:51.690Z,"84 km NW of Karluk, Alaska",earthquake,0.55,0.97,0.107623894084883,4,reviewed,av,av
 2024-06-11T11:17:06.499Z,39.097,-118.5614,5.2,1.2,ml,9,79.32999999999998,0.361,0.1222,nn,nn00879069,2024-06-11T20:28:46.479Z,"27 km NE of Schurz, Nevada",earthquake,,4.5,0.36,3,reviewed,nn,nn
 2024-06-11T11:14:50.586Z,61.5628,-148.0709,15.8,0.9,ml,,,,0.19,ak,ak0247hr8g2q,2024-06-11T11:17:29.431Z,"33 km SE of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-11T11:09:31.386Z,-5.2709,151.178,120.47,5.1,mww,76,51,4.974,0.99,us,us7000mrp4,2024-06-11T12:04:36.040Z,"119 km ENE of Kimbe, Papua New Guinea",earthquake,8.75,6.821,0.086,13,reviewed,us,us
@@ -239,11 +242,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T00:08:03.960Z,38.4933333333333,-112.906,3.1,1.14,md,10,96,0.01422,0.04,uu,uu80072971,2024-06-11T21:04:57.780Z,"14 km NE of Milford, Utah",earthquake,0.31,0.55,0.177414464155846,3,reviewed,uu,uu
 2024-06-11T00:02:14.870Z,32.9631667,-115.5563333,9.28,1.35,ml,36,50,0.06164,0.25,ci,ci40619215,2024-06-11T14:06:09.032Z,"3 km SW of Brawley, CA",earthquake,0.27,0.66,0.189,29,reviewed,ci,ci
 2024-06-10T23:59:15.360Z,38.3043333333333,-110.598,6.04,1.75,md,10,122,0.3829,0.09,uu,uu80072966,2024-06-11T13:55:41.520Z,"12 km SE of Hanksville, Utah",earthquake,0.55,31.61,0.225386395622821,7,reviewed,uu,uu
-2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2024-06-10T23:57:05.687Z,62.9984,-149.377,68.8,1.8,ml,,,,0.76,ak,ak0247gb3f60,2024-06-10T23:59:01.523Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-10T23:53:37.020Z,38.8276672363281,-122.796997070312,0.970000028610229,1.48,md,16,72,0.01192,0.05,nc,nc75020542,2024-06-10T23:55:12.627Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.419999987,0.08,18,automatic,nc,nc
 2024-06-10T23:52:09.200Z,19.3926666666667,-155.277166666667,1.78,2.14,ml,32,42,0.004276,0.1,hv,hv74271791,2024-06-11T00:22:22.270Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.15,0.279714983662326,12,reviewed,hv,hv
 2024-06-10T23:47:11.280Z,35.0455,-117.6678333,-0.79,1.1,ml,27,46,0.1133,0.14,ci,ci40619207,2024-06-11T13:58:51.411Z,"5 km NNW of Boron, CA",quarry blast,0.27,31.61,0.08,10,reviewed,ci,ci
-2024-06-10T23:46:08.754Z,4.8103,95.8484,103.763,4.7,mb,66,152,1.171,0.73,us,us7000mrlj,2024-06-11T00:08:03.040Z,"64 km S of Sigli, Indonesia",earthquake,8.25,3.524,0.055,101,reviewed,us,us
-2024-06-10T23:45:46.019Z,31.61,-104.519,8.1763,1.7,ml,12,78,0.1,0.3,tx,tx2024ljza,2024-06-11T07:54:43.470Z,"64 km SSW of Whites City, New Mexico",earthquake,3.6135258971786093,1.630147732115166,0.1,24,reviewed,tx,tx
-2024-06-10T23:42:22.473Z,31.001,-103.659,8.6121,1.6,ml,16,63,0.1,0.2,tx,tx2024ljyx,2024-06-11T19:16:45.140Z,"8 km ENE of Balmorhea, Texas",earthquake,0.8511379008227233,1.605523435630662,0.2,12,reviewed,tx,tx
-2024-06-10T23:39:24.507Z,-56.0176,-27.5922,113.896,4.7,mb,34,57,5.389,0.48,us,us7000mrlp,2024-06-11T00:21:18.040Z,"South Sandwich Islands region",earthquake,11.16,6.929,0.11,25,reviewed,us,us
