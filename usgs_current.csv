@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-12T02:40:37.149Z,58.5423,-152.7121,51.3,2.6,ml,,,,0.39,ak,ak0247j9kfpk,2024-06-12T02:42:24.263Z,"54 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T02:30:31.536Z,66.3802,-153.8538,16.5,1,ml,,,,0.6,ak,ak0247j9ia41,2024-06-12T02:32:22.273Z,"41 km NNE of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-12T02:25:56.818Z,8.4109,-103.3157,10,5.7,mww,59,185,13.953,0.96,us,us7000mrv4,2024-06-12T02:53:07.047Z,"northern East Pacific Rise",earthquake,13.15,1.938,0.044,50,reviewed,us,us
+2024-06-12T02:25:56.818Z,8.4109,-103.3157,10,5.7,mww,59,185,13.953,0.96,us,us7000mrv4,2024-06-12T02:57:58.040Z,"northern East Pacific Rise",earthquake,13.15,1.938,0.044,50,reviewed,us,us
 2024-06-12T02:06:29.456Z,67.6312,-162.2382,0,2.2,ml,,,,0.86,ak,ak0247j9d4rl,2024-06-12T02:10:14.494Z,"31 km ENE of Noatak, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-12T02:05:43.430Z,19.151,-67.0275,39.17,3.16,md,16,304,0.6845,0.14,pr,pr71452328,2024-06-12T02:30:29.870Z,"71 km N of Isabela, Puerto Rico",earthquake,0.72,3.22,0.0687777262263045,12,reviewed,pr,pr
 2024-06-12T02:00:08.584Z,60.6615,-148.7047,0,1.4,ml,,,,0.55,ak,ak0247j9bsm6,2024-06-12T02:02:36.866Z,"12 km S of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T21:51:32.594Z,23.7625,121.6299,29.817,4.4,mwr,52,73,0.411,0.58,us,us7000mrtr,2024-06-11T22:36:11.468Z,"23 km S of Hualien City, Taiwan",earthquake,1.72,5.069,0.069,20,reviewed,us,us
 2024-06-11T21:43:10.802Z,-8.3446,158.99,109.369,4.4,mb,37,115,1.441,0.72,us,us7000mrtq,2024-06-11T22:04:37.040Z,"69 km WSW of Buala, Solomon Islands",earthquake,12.11,8.276,0.099,29,reviewed,us,us
 2024-06-11T21:24:33.386Z,64.808,-147.3447,1.4,1.1,ml,,,,0.76,ak,ak0247hx8vyi,2024-06-11T21:26:34.105Z,"6 km N of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-11T21:23:28.380Z,51.9411666666667,178.519166666667,6.01,0.36,ml,4,219,0.008648,0.09,av,av93160176,2024-06-12T02:58:48.120Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.13,0.71,0.240241898695383,4,reviewed,av,av
 2024-06-11T21:22:31.520Z,34.4936667,-118.1453333,15.74,1.37,ml,35,44,0.02481,0.16,ci,ci40620095,2024-06-11T22:51:28.974Z,"3 km WSW of Vincent, CA",earthquake,0.2,0.38,0.186,23,reviewed,ci,ci
 2024-06-11T21:12:50.119Z,61.5211,-149.9347,36.4,1.1,ml,,,,0.27,ak,ak0247hx6cnn,2024-06-11T21:15:16.791Z,"1 km E of Big Lake, Alaska",earthquake,,6,,,automatic,ak,ak
 2024-06-11T21:10:02.820Z,38.8418350219727,-122.879997253418,1.45000004768372,1.05,md,9,141,0.009071,0.01,nc,nc75020942,2024-06-11T21:11:40.046Z,"13 km E of Cloverdale, CA",earthquake,0.35,1.38,0.24,11,automatic,nc,nc
@@ -249,5 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T03:21:44.960Z,38.8084983825684,-122.827835083008,3.84999990463257,0.78,md,13,65,0.001112,0.04,nc,nc75020597,2024-06-11T03:23:22.120Z,"7 km NW of The Geysers, CA",earthquake,0.61,1.78999996,0.15,13,automatic,nc,nc
 2024-06-11T03:12:51.950Z,58.2856666666667,-154.99,2.8,-0.28,ml,5,203,0.1394,0.1,av,av93011339,2024-06-11T21:36:33.980Z,"85 km NNW of Karluk, Alaska",earthquake,1.1,2.75,0.120591745192889,5,reviewed,av,av
 2024-06-11T03:10:14.570Z,38.8191680908203,-122.825332641602,1.87999999523163,0.44,md,7,113,0.01071,0.01,nc,nc75020592,2024-06-11T03:11:52.109Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.24000001,0.19,8,automatic,nc,nc
-2024-06-11T03:04:47.910Z,33.4186667,-116.6591667,3.96,0.98,ml,56,24,0.08955,0.2,ci,ci40619335,2024-06-11T13:36:49.370Z,"15 km S of Anza, CA",earthquake,0.15,0.47,0.173,26,reviewed,ci,ci
-2024-06-11T03:00:52.590Z,38.8233337402344,-122.804496765137,1.62999999523163,1.26,md,22,51,0.004357,0.01,nc,nc75020577,2024-06-11T03:02:27.242Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.370000005,0.17,25,automatic,nc,nc
