@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-12T02:40:37.149Z,58.5423,-152.7121,51.3,2.6,ml,,,,0.39,ak,ak0247j9kfpk,2024-06-12T02:42:24.263Z,"54 km NNE of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T02:30:31.536Z,66.3802,-153.8538,16.5,1,ml,,,,0.6,ak,ak0247j9ia41,2024-06-12T02:32:22.273Z,"41 km NNE of Hughes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-12T02:25:56.818Z,8.4109,-103.3157,10,5.7,mww,59,185,13.953,0.96,us,us7000mrv4,2024-06-12T02:47:04.443Z,"northern East Pacific Rise",earthquake,13.15,1.938,0.044,50,reviewed,us,us
+2024-06-12T02:25:56.818Z,8.4109,-103.3157,10,5.7,mww,59,185,13.953,0.96,us,us7000mrv4,2024-06-12T02:53:07.047Z,"northern East Pacific Rise",earthquake,13.15,1.938,0.044,50,reviewed,us,us
 2024-06-12T02:06:29.456Z,67.6312,-162.2382,0,2.2,ml,,,,0.86,ak,ak0247j9d4rl,2024-06-12T02:10:14.494Z,"31 km ENE of Noatak, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-12T02:05:43.430Z,19.151,-67.0275,39.17,3.16,md,16,304,0.6845,0.14,pr,pr71452328,2024-06-12T02:30:29.870Z,"71 km N of Isabela, Puerto Rico",earthquake,0.72,3.22,0.0687777262263045,12,reviewed,pr,pr
 2024-06-12T02:00:08.584Z,60.6615,-148.7047,0,1.4,ml,,,,0.55,ak,ak0247j9bsm6,2024-06-12T02:02:36.866Z,"12 km S of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T23:40:07.810Z,38.7873344421387,-122.74683380127,2.28999996185303,1.25,md,13,83,0.008897,0.02,nc,nc75020987,2024-06-11T23:41:45.374Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.629999995,0.16,12,automatic,nc,nc
 2024-06-11T23:33:30.330Z,38.8346672058105,-122.814834594727,1.67999994754791,1.13,md,22,45,0.01185,0.04,nc,nc75020982,2024-06-11T23:35:05.417Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.389999986,0.19,23,automatic,nc,nc
 2024-06-11T23:26:52.870Z,35.0291667,-117.6831667,-0.84,1.56,ml,40,37,0.09517,0.24,ci,ci40620167,2024-06-11T23:33:33.801Z,"4 km NW of Boron, CA",earthquake,0.32,0.66,0.111,31,automatic,ci,ci
-2024-06-11T23:26:50.626Z,35.7901,126.6882,10,4.3,mb,34,73,0.803,1,us,us7000mrub,2024-06-12T01:39:05.389Z,"7 km NNW of Puan, South Korea",earthquake,4.27,1.925,0.126,18,reviewed,us,us
+2024-06-11T23:26:50.626Z,35.7901,126.6882,10,4.3,mb,34,73,0.803,1,us,us7000mrub,2024-06-12T02:56:11.540Z,"7 km NNW of Puan, South Korea",earthquake,4.27,1.925,0.126,18,reviewed,us,us
 2024-06-11T23:25:38.174Z,36.632,-116.2852,6.3,0.1,ml,23,108.18,0.045,0.0801,nn,nn00879079,2024-06-11T23:56:52.300Z,"52 km SE of Beatty, Nevada",earthquake,,0.9,0.87,6,reviewed,nn,nn
 2024-06-11T23:22:24.816Z,31.582,-104.545,2.743,1.7,ml,16,161,0.1,0.5,tx,tx2024lltv,2024-06-11T23:37:57.819Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.64513525664755,0.1,12,automatic,tx,tx
 2024-06-11T23:21:46.600Z,38.7881660461426,-122.746002197266,0.319999992847443,0.76,md,8,98,0.008763,0.03,nc,nc75020977,2024-06-11T23:23:25.103Z,"2 km NE of The Geysers, CA",earthquake,0.35,0.699999988,0.06,8,automatic,nc,nc
@@ -251,7 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-11T03:10:14.570Z,38.8191680908203,-122.825332641602,1.87999999523163,0.44,md,7,113,0.01071,0.01,nc,nc75020592,2024-06-11T03:11:52.109Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.24000001,0.19,8,automatic,nc,nc
 2024-06-11T03:04:47.910Z,33.4186667,-116.6591667,3.96,0.98,ml,56,24,0.08955,0.2,ci,ci40619335,2024-06-11T13:36:49.370Z,"15 km S of Anza, CA",earthquake,0.15,0.47,0.173,26,reviewed,ci,ci
 2024-06-11T03:00:52.590Z,38.8233337402344,-122.804496765137,1.62999999523163,1.26,md,22,51,0.004357,0.01,nc,nc75020577,2024-06-11T03:02:27.242Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.370000005,0.17,25,automatic,nc,nc
-2024-06-11T02:56:33.392Z,-20.2012,168.4942,10,5.2,mww,28,83,2.591,0.51,us,us7000mrme,2024-06-11T03:15:46.040Z,"110 km SW of Isangel, Vanuatu",earthquake,4.17,1.872,0.103,9,reviewed,us,us
-2024-06-11T02:52:08.300Z,32.744,-100.64,6.7627,3.3,ml,26,58,0.1,0.1,tx,tx2024lkfe,2024-06-12T02:30:34.040Z,"16 km NE of Hermleigh, Texas",earthquake,1.1132472538150955,1.8556397284796946,0.1,22,reviewed,tx,tx
-2024-06-11T02:51:55.420Z,53.8978333333333,-167.006833333333,5.08,-0.02,ml,5,255,0.08499,0.13,av,av93011314,2024-06-11T20:42:47.440Z,"30 km W of Dutch Harbor, Alaska",earthquake,0.93,1.65,0.105785106077694,4,reviewed,av,av
-2024-06-11T02:51:11.459Z,-20.128,168.6749,10,5.2,mww,54,56,2.725,0.75,us,us7000mrmc,2024-06-11T04:54:51.040Z,"90 km SW of Isangel, Vanuatu",earthquake,7.87,1.77,0.086,13,reviewed,us,us
