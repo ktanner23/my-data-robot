@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T23:24:50.004Z,64.7596,-148.6335,3.7,1,ml,,,,0.58,ak,ak0247jlz4y0,2024-06-12T23:26:19.855Z,"29 km NE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T23:22:11.387Z,61.7231,-150.637,33.2,1,ml,,,,0.31,ak,ak0247jlymj6,2024-06-12T23:23:55.974Z,"21 km NNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T23:10:33.960Z,19.2968330383301,-155.410995483398,29.8799991607666,1.74,ml,42,109,0.04354,0.150000006,hv,hv74274646,2024-06-12T23:13:13.780Z,"12 km NE of Pāhala, Hawaii",earthquake,0.52,0.649999976,0.2,3,automatic,hv,hv
-2024-06-12T22:43:00.498Z,39.4314,-119.7392,1,1.1,ml,10,73.54999999999998,0.102,0.2308,nn,nn00879122,2024-06-12T22:44:58.934Z,"11 km S of Sparks, Nevada",earthquake,,4.9,0.27,7,automatic,nn,nn
+2024-06-12T22:43:01.243Z,39.4186,-119.724,6.8,1.1,ml,14,67.89000000000001,0.032,0.1476,nn,nn00879122,2024-06-12T23:49:52.618Z,"13 km S of Sparks, Nevada",earthquake,,1,0.23,7,reviewed,nn,nn
 2024-06-12T22:39:07.233Z,62.4698,-150.6214,65.3,1.5,ml,,,,0.53,ak,ak0247jlgts3,2024-06-12T22:41:57.249Z,"8 km ESE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T22:39:04.520Z,38.8221664428711,-122.817169189453,3.1800000667572,0.76,md,14,128,0.005676,0.02,nc,nc75021507,2024-06-12T22:40:41.413Z,"7 km NW of The Geysers, CA",earthquake,0.38,1,0.25,14,automatic,nc,nc
 2024-06-12T22:26:58.295Z,-29.9937,-71.3121,49.219,4.5,mb,43,145,0.098,0.73,us,us7000ms1a,2024-06-12T22:41:46.040Z,"5 km SSE of Coquimbo, Chile",earthquake,3.02,8.196,0.093,34,reviewed,us,us
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T19:37:13.260Z,18.6215,-64.6093333333333,2.3,2.86,md,3,304,0.2005,0.01,pr,pr71452438,2024-06-12T19:58:45.220Z,"37 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,1.75,1.4,0.0657181686096497,3,reviewed,pr,pr
 2024-06-12T19:34:10.850Z,19.2078333333333,-155.484833333333,32.73,2.52,ml,49,81,0.04249,0.11,hv,hv74274381,2024-06-12T21:57:31.330Z,"0 km NW of Pāhala, Hawaii",earthquake,0.41,0.54,0.165970148211864,33,reviewed,hv,hv
 2024-06-12T19:28:39.720Z,38.791332244873,-122.885330200195,16.5799999237061,0.88,md,8,165,0.02063,0.07,nc,nc75021432,2024-06-12T19:30:19.926Z,"11 km WNW of The Geysers, CA",earthquake,3.55,3.4000001,0.22,5,automatic,nc,nc
-2024-06-12T19:19:10.647Z,35.9621,27.9471,59.023,4.8,mww,174,67,0.288,0.63,us,us7000ms04,2024-06-12T21:52:04.489Z,"15 km SSW of Lárdos, Greece",earthquake,4.95,5.221,0.075,17,reviewed,us,us
+2024-06-12T19:19:10.647Z,35.9621,27.9471,59.023,4.8,mww,174,67,0.288,0.63,us,us7000ms04,2024-06-12T23:54:41.327Z,"15 km SSW of Lárdos, Greece",earthquake,4.95,5.221,0.075,17,reviewed,us,us
 2024-06-12T19:12:28.640Z,19.3903333333333,-155.2775,1.85,2.11,ml,27,53,0.005489,0.09,hv,hv74274346,2024-06-12T22:22:58.870Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.232801698699317,10,reviewed,hv,hv
 2024-06-12T19:08:42.992Z,62.0877,-149.5058,34.9,1.8,ml,,,,0.46,ak,ak0247jjhyiz,2024-06-12T19:11:08.394Z,"19 km ESE of Susitna North, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-12T18:29:07.720Z,35.0591667,-118.3456667,-0.93,1.06,ml,23,44,0.06849,0.15,ci,ci40621047,2024-06-12T19:20:31.756Z,"12 km SE of Tehachapi, CA",quarry blast,0.31,31.61,0.124,10,reviewed,ci,ci
@@ -209,6 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T05:06:29.080Z,41.9785,-111.6945,2.63,1.67,ml,18,118,0.1529,0.15,uu,uu80073371,2024-06-12T13:44:22.070Z,"9 km E of Cove, Utah",earthquake,0.36,1.76,0.0168710336951619,3,reviewed,uu,uu
 2024-06-12T05:06:01.750Z,38.7919998168945,-122.767333984375,3.46000003814697,1.26,md,21,74,0.01047,0.02,nc,nc75021097,2024-06-12T05:07:36.138Z,"2 km NNW of The Geysers, CA",earthquake,0.29,0.610000014,0.21,23,automatic,nc,nc
 2024-06-12T05:02:45.638Z,63.2171,-151.3934,3,2,ml,,,,0.88,ak,ak0247jb4lyr,2024-06-12T05:04:40.562Z,"39 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-12T04:58:50.600Z,61.2535,-152.1655,28.49,0.04,ml,8,170,0.05756,0.16,av,av93011464,2024-06-12T23:49:48.590Z,"59 km WNW of Tyonek, Alaska",earthquake,0.64,0.79,0.392145696119778,9,reviewed,av,av
 2024-06-12T04:51:46.590Z,46.19716666666667,-122.18033333333334,6.31,0.97,ml,24,57,0.004699,0.09,uw,uw62006432,2024-06-12T15:22:15.380Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.16,0.08848443938950479,15,reviewed,uw,uw
 2024-06-12T04:46:50.538Z,62.1307,-150.8154,64.9,1.7,ml,,,,0.38,ak,ak0247jasm8t,2024-06-12T04:49:11.236Z,"34 km ENE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-12T04:34:25.000Z,52.3333333333333,-174.136333333333,4.42,0.46,ml,4,286,0.03302,0.24,av,av93160736,2024-06-12T23:02:36.170Z,"15 km NNE of Atka, Alaska",earthquake,1.69,1.27,0.300199038165553,4,reviewed,av,av
@@ -286,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T00:02:25.580Z,52.0883333333333,-176.165,2.97,0.37,ml,6,140,0.009331,0.32,av,av93160386,2024-06-12T20:34:27.750Z,"40 km NE of Adak, Alaska",earthquake,1.04,1.91,0.156298471802102,6,reviewed,av,av
 2024-06-12T00:01:47.270Z,35.54,-96.74883333,6.62,1.11,ml,47,43,0.009898057663,0.12,ok,ok2024llvb,2024-06-12T01:15:18.949Z,"8 km NW of Prague, Oklahoma",earthquake,,0.2,0.24,23,reviewed,ok,ok
 2024-06-11T23:57:40.450Z,61.2628333333333,-152.183666666667,29.06,-0.1,ml,5,194,0.0912,0.32,av,av93160376,2024-06-12T03:33:42.700Z,"60 km WNW of Tyonek, Alaska",earthquake,1.6,1.97,0.243467590767195,5,reviewed,av,av
-2024-06-11T23:46:58.607Z,36.7588,-116.2681,4,-0.2,ml,15,83.31,0.02,0.081,nn,nn00879081,2024-06-12T00:15:15.298Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.02,3,reviewed,nn,nn
