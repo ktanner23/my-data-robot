@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-13T14:29:22.215Z,63.0827,-151.3632,0,1.2,ml,,,,0.65,ak,ak0247l46lfh,2024-06-13T14:31:45.192Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-13T14:10:14.170Z,34.921,-119.04,13.7,0.98,ml,17,112,0.0829,0.15,ci,ci40797096,2024-06-13T14:16:33.713Z,"10 km WSW of Grapevine, CA",earthquake,0.38,0.46,0.183,11,automatic,ci,ci
+2024-06-13T14:04:57.903Z,52.7655,-175.6008,235.401,4.6,mb,79,80,0.728,0.81,us,us7000ms55,2024-06-13T14:37:58.040Z,"114 km WNW of Atka, Alaska",earthquake,9.27,7.184,0.032,291,reviewed,us,us
 2024-06-13T14:03:19.270Z,38.8346672058105,-122.789329528809,1.79999995231628,0.7,md,10,64,0.003819,0.01,nc,nc75021812,2024-06-13T14:04:56.991Z,"6 km WNW of Cobb, CA",earthquake,0.35,0.519999981,0.14,11,automatic,nc,nc
 2024-06-13T14:02:08.730Z,38.7960014343262,-122.778335571289,3.38000011444092,1.49,md,27,75,0.008001,0.03,nc,nc75021807,2024-06-13T14:06:00.360Z,"3 km NNW of The Geysers, CA",earthquake,0.28,0.400000006,0.17,29,automatic,nc,nc
 2024-06-13T13:59:20.570Z,38.8096656799316,-122.818168640137,1.86000001430511,0.8,md,14,69,0.0151,0.03,nc,nc75021802,2024-06-13T14:00:57.141Z,"6 km NW of The Geysers, CA",earthquake,0.3,0.5,0.13,16,automatic,nc,nc
@@ -104,7 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-13T03:31:53.037Z,44.3305,149.1329,50.496,4.2,mb,36,199,4.705,0.58,us,us7000ms27,2024-06-13T04:14:55.040Z,"140 km SE of Kuril’sk, Russia",earthquake,14.14,9.253,0.11,23,reviewed,us,us
 2024-06-13T03:29:17.869Z,63.074,-151.3407,0,1.4,ml,,,,0.27,ak,ak0247kxmtfu,2024-06-13T03:31:51.448Z,"55 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-13T03:27:58.682Z,60.26,-151.3603,0.1,2.1,ml,,,,1.04,ak,ak0247kxmh5o,2024-06-13T03:30:17.894Z,"3 km NNE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-06-13T03:19:54.280Z,33.2435,-116.0426667,3.62,0.61,ml,28,76,0.05999,0.19,ci,ci40795728,2024-06-13T03:26:00.456Z,"10 km SW of Salton City, CA",earthquake,0.19,0.38,0.093,9,automatic,ci,ci
+2024-06-13T03:19:54.290Z,33.2426667,-116.0436667,4.59,0.78,ml,27,77,0.06116,0.17,ci,ci40795728,2024-06-13T14:42:17.252Z,"10 km SW of Salton City, CA",earthquake,0.2,0.56,0.183,10,reviewed,ci,ci
 2024-06-13T03:19:39.090Z,38.8181648254395,-122.824501037598,2.33999991416931,1.06,md,19,63,0.009596,0.02,nc,nc75021602,2024-06-13T03:21:15.494Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.439999998,0.31,21,automatic,nc,nc
 2024-06-13T03:15:45.540Z,19.4034996032715,-155.279663085938,0.990000009536743,1.75,md,16,39,0.009886,0.129999995,hv,hv74274881,2024-06-13T03:17:08.200Z,"6 km SW of Volcano, Hawaii",earthquake,0.2,0.25,0.379999995,10,automatic,hv,hv
 2024-06-13T03:13:06.500Z,34.3205,-116.8533333,2.32,1.09,ml,29,77,0.08054,0.17,ci,ci40795720,2024-06-13T13:32:27.294Z,"7 km N of Big Bear City, CA",earthquake,0.21,0.64,0.229,22,reviewed,ci,ci
@@ -244,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-12T14:51:52.079Z,35.6425,-98.0975,7.7,1.52,ml,89,41,0.1043795172,0.35,ok,ok2024lmyk,2024-06-12T15:08:03.414Z,"4 km NNE of Calumet, Oklahoma",earthquake,,0.9,0.24,40,reviewed,ok,ok
 2024-06-12T14:48:18.680Z,38.837833404541,-122.820167541504,2.04999995231628,2.62,md,46,37,0.01199,0.06,nc,nc75021307,2024-06-12T14:52:57.220Z,"9 km WNW of Cobb, CA",earthquake,0.16,0.230000004,0.17,59,automatic,nc,nc
 2024-06-12T14:44:59.360Z,38.7898330688477,-122.769165039062,3.14000010490417,0.75,md,5,159,0.01306,0,nc,nc75021297,2024-06-12T14:46:37.176Z,"2 km NNW of The Geysers, CA",earthquake,1.04,1.79999995,0.04,8,automatic,nc,nc
-2024-06-12T14:37:32.120Z,51.978,178.538166666667,7.71,-0.38,ml,4,258,0.01686,0.29,av,av93161731,2024-06-13T07:21:14.600Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.08,1.49,0.232126772115432,4,reviewed,av,av
-2024-06-12T14:35:18.590Z,51.945,178.521333333333,5.53,-0.08,ml,4,185,0.007029,0.11,av,av93161721,2024-06-13T06:59:23.010Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.08,0.79,0.180449651117477,4,reviewed,av,av
