@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-16T02:15:04.730Z,38.8203315734863,-122.842498779297,2.24000000953674,1.09,md,23,103,0.006463,0.03,nc,nc75022817,2024-06-16T02:16:42.864Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.409999996,0.14,25,automatic,nc,nc
 2024-06-16T01:53:12.330Z,35.6656684875488,-121.072830200195,5.63000011444092,1.6,md,10,109,0.06788,0.05,nc,nc75022812,2024-06-16T01:54:48.279Z,"11 km E of San Simeon, CA",earthquake,0.37,1.47000003,0.23,7,automatic,nc,nc
 2024-06-16T01:52:23.700Z,38.8333320617676,-122.797332763672,2.1800000667572,1.07,md,21,47,0.007449,0.02,nc,nc75022807,2024-06-16T01:53:58.540Z,"7 km WNW of Cobb, CA",earthquake,0.21,0.430000007,0.05,21,automatic,nc,nc
 2024-06-16T01:49:38.560Z,35.7746667,-117.5958333,7.55,0.98,ml,20,140,0.1364,0.16,ci,ci40800072,2024-06-16T01:56:59.202Z,"17 km W of Searles Valley, CA",earthquake,0.31,1.17,0.173,10,automatic,ci,ci
@@ -9,7 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T01:27:52.726Z,60.3366,-151.8685,71.9,1.1,ml,,,,0.25,ak,ak0247pv1myw,2024-06-16T01:29:45.344Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-16T01:24:47.550Z,33.8345,-117.8686667,6.07,1.42,ml,51,83,0.02091,0.23,ci,ci40800048,2024-06-16T01:42:46.513Z,"2 km E of Anaheim, CA",earthquake,0.26,0.42,0.171,29,automatic,ci,ci
 2024-06-16T01:16:51.670Z,38.8211669921875,-122.761665344238,1.99000000953674,0.74,md,9,124,0.01131,0.02,nc,nc75022777,2024-06-16T01:18:28.177Z,"3 km W of Cobb, CA",earthquake,0.46,0.850000024,0.16,8,automatic,nc,nc
-2024-06-16T00:55:44.291Z,45.6108,-75.2243,14.306,2.3,mb_lg,13,143,0.611,0.94,us,us7000msqv,2024-06-16T02:01:00.824Z,"2 km ENE of Thurso, Canada",earthquake,2,11.19,0.17,9,reviewed,us,us
+2024-06-16T01:00:49.997Z,57.2084,-146.683,10,2.6,ml,17,284,2.235,0.43,us,us7000msqw,2024-06-16T02:07:39.040Z,"Gulf of Alaska",earthquake,10.52,2.02,0.062,34,reviewed,us,us
+2024-06-16T00:55:44.291Z,45.6108,-75.2243,14.306,2.3,mb_lg,13,143,0.611,0.94,us,us7000msqv,2024-06-16T02:19:55.575Z,"2 km ENE of Thurso, Canada",earthquake,2,11.19,0.17,9,reviewed,us,us
 2024-06-16T00:53:30.690Z,38.836498260498,-122.794334411621,1.36000001430511,0.85,md,9,67,0.003654,0.03,nc,nc75022772,2024-06-16T00:55:04.022Z,"6 km WNW of Cobb, CA",earthquake,0.38,1.16999996,0.13,3,automatic,nc,nc
 2024-06-16T00:38:18.638Z,63.4676,-148.7063,12.7,0.7,ml,,,,0.2,ak,ak0247puigk7,2024-06-16T00:56:32.658Z,"14 km NE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-16T00:27:56.572Z,-60.9993,154.2552,7.017,6,mww,58,37,6.982,0.99,us,us7000msqt,2024-06-16T01:05:28.408Z,"west of Macquarie Island",earthquake,11.52,3.176,0.049,40,reviewed,us,us
@@ -203,7 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-15T02:58:21.470Z,33.4283333,-116.6186667,8.1,1.02,ml,55,20,0.06761,0.18,ci,ci40799344,2024-06-15T03:04:31.414Z,"15 km SSE of Anza, CA",earthquake,0.15,0.49,0.173,29,automatic,ci,ci
 2024-06-15T02:55:24.122Z,60.3811,-148.7488,15.7,1.7,ml,,,,0.69,ak,ak0247o89nx8,2024-06-15T02:58:36.731Z,"33 km E of Primrose, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-15T02:39:05.277Z,68.5945,-148.1716,0,1.9,ml,,,,0.78,ak,ak0247o8670f,2024-06-15T02:41:04.926Z,"120 km WNW of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-15T02:22:20.778Z,36.7246,-116.1266,1.7,-0.2,ml,11,98.92000000000002,0.004,0.1004,nn,nn00879294,2024-06-15T16:10:29.497Z,"44 km WNW of Indian Springs, Nevada",earthquake,,0.6,0,1,reviewed,nn,nn
-2024-06-15T02:11:31.237Z,63.3336,-147.6021,54.8,1.8,ml,,,,0.53,ak,ak0247o808yr,2024-06-15T02:13:30.942Z,"67 km E of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-06-15T02:05:33.580Z,17.9718333333333,-66.9611666666667,10.87,2.26,md,7,180,0.07803,0.06,pr,pr71452693,2024-06-15T02:39:10.890Z,"5 km WSW of Fuig, Puerto Rico",earthquake,0.67,0.47,0.0996147939425409,5,reviewed,pr,pr
-2024-06-15T02:03:34.770Z,33.2656667,-116.4288333,3.68,0.79,ml,44,41,0.0101,0.21,ci,ci40799320,2024-06-15T02:09:52.883Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.24,0.149,18,automatic,ci,ci
