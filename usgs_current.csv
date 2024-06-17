@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-17T20:18:35.731Z,63.0881,-151.36,0,1.3,ml,,,,0.59,ak,ak0247rtu979,2024-06-17T20:20:42.036Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-06-17T20:14:21.470Z,35.7855,-117.5945,10.03,0.99,ml,17,127,0.1404,0.15,ci,ci40801344,2024-06-17T20:44:40.094Z,"17 km W of Searles Valley, CA",earthquake,0.3,0.71,0.101,8,reviewed,ci,ci
 2024-06-17T20:14:00.568Z,31.679,-104.385,4.2957,1.6,ml,11,116,0,0.1,tx,tx2024lwmq,2024-06-17T20:23:55.235Z,"55 km S of Whites City, New Mexico",earthquake,0,1.66493073499792,0.2,8,automatic,tx,tx
 2024-06-17T20:07:16.020Z,17.9635,-66.951,11.19,2.19,md,4,191,0.06925,0.04,pr,pr71453063,2024-06-17T20:34:38.920Z,"4 km SW of Fuig, Puerto Rico",earthquake,1.96,0.95,0.0480107679562409,3,reviewed,pr,pr
 2024-06-17T20:00:24.738Z,31.681,-104.47,3.743,1.9,ml,13,75,0,0.5,tx,tx2024lwmc,2024-06-17T20:23:46.230Z,"55 km S of Whites City, New Mexico",earthquake,0,1.53183026899432,0.1,10,automatic,tx,tx
@@ -8,7 +9,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T19:46:58.610Z,38.8110008239746,-122.824836730957,3.04999995231628,1.61,md,36,50,0.004005,0.03,nc,nc75023347,2024-06-17T19:50:27.390Z,"7 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.12,35,automatic,nc,nc
 2024-06-17T19:35:30.900Z,19.8101666666667,-155.36,25.12,2.2,ml,54,89,0.1708,0.13,hv,hv74280996,2024-06-17T20:15:16.110Z,"23 km SSW of Laupāhoehoe, Hawaii",earthquake,0.31,0.81,0.089442839330387,7,reviewed,hv,hv
 2024-06-17T19:23:32.600Z,32.7596667,-116.9316667,4.44,1.29,ml,26,59,0.02564,0.14,ci,ci40801264,2024-06-17T20:30:00.604Z,"1 km NNE of Rancho San Diego, CA",earthquake,0.22,0.47,0.222,16,reviewed,ci,ci
-2024-06-17T19:18:55.179Z,36.6726,-116.0552,0,-0.1,ml,8,180.83000000000004,0.042,0.2649,nn,nn00879444,2024-06-17T19:20:33.687Z,"36 km WNW of Indian Springs, Nevada",earthquake,,0.3,0.61,5,automatic,nn,nn
 2024-06-17T19:05:51.140Z,38.4378318786621,-122.481163024902,3.59999990463257,1.19,md,7,189,0.2927,0.19,nc,nc75023327,2024-06-17T19:07:28.262Z,"6 km ENE of Kenwood, CA",earthquake,6.77,14.21,,1,automatic,nc,nc
 2024-06-17T18:42:49.240Z,33.8886667,-116.8973333,13.27,1.3,ml,51,28,0.07654,0.16,ci,ci40801224,2024-06-17T20:39:11.850Z,"4 km SSW of Banning, CA",earthquake,0.15,0.43,0.166,24,reviewed,ci,ci
 2024-06-17T18:39:36.700Z,35.033,-117.6728333,-0.8,1.51,ml,28,51,0.1002,0.2,ci,ci40801216,2024-06-17T20:29:11.440Z,"4 km NNW of Boron, CA",quarry blast,0.41,31.61,0.095,25,reviewed,ci,ci
@@ -213,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T21:02:48.290Z,33.729,-118.0303333,12.15,1.52,ml,43,138,0.007122,0.24,ci,ci40800600,2024-06-17T13:48:59.665Z,"4 km SSW of Westminster, CA",earthquake,0.4,0.58,0.149,41,reviewed,ci,ci
 2024-06-16T21:02:14.165Z,60.0522,-152.408,70.5,1.2,ml,,,,0.36,ak,ak0247q6sv6w,2024-06-16T21:04:36.997Z,"39 km WNW of Happy Valley, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-16T20:56:26.650Z,46.196,-122.187,7.03,0.59,ml,17,62,0.004328,0.06,uw,uw62007937,2024-06-17T04:32:20.370Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.65,0.11768675929825023,9,reviewed,uw,uw
-2024-06-16T20:46:31.550Z,38.8339996337891,-122.765830993652,0.75,1.1,md,13,149,0.004752,0.02,nc,nc75023042,2024-06-16T20:48:09.966Z,"4 km WNW of Cobb, CA",earthquake,0.29,0.409999996,0.26,13,automatic,nc,nc
