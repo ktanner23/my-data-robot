@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-17T13:32:24.610Z,38.8320007324219,-122.818168640137,1.36000001430511,0.4,md,7,171,0.01067,0.01,nc,nc75023252,2024-06-17T13:34:01.573Z,"8 km NNW of The Geysers, CA",earthquake,0.64,0.930000007,0.24,8,automatic,nc,nc
 2024-06-17T13:01:40.740Z,33.7273333,-116.72,-1.27,0.29,ml,9,277,0.06986,0.43,ci,ci40800840,2024-06-17T13:07:35.436Z,"1 km S of Idyllwild, CA",earthquake,3.97,5,0.159,7,automatic,ci,ci
-2024-06-17T12:52:12.608Z,31.652,-104.311,3.5165,1.8,ml,17,69,0,0.3,tx,tx2024lvxz,2024-06-17T13:28:54.237Z,"58 km S of Whites City, New Mexico",earthquake,0,1.27407694483024,0.1,13,automatic,tx,tx
+2024-06-17T12:52:12.420Z,31.67,-104.308,5.8948,1.9,ml,24,67,0,0.1,tx,tx2024lvxz,2024-06-17T13:54:50.435Z,"56 km S of Whites City, New Mexico",earthquake,0.9135096295730257,0.7811714620939189,0.2,14,reviewed,tx,tx
 2024-06-17T12:51:04.730Z,36.131,-97.59433333,5.09,1.42,ml,83,25,0.08188393158,0.32,ok,ok2024lvxy,2024-06-17T13:09:43.995Z,"3 km SE of Marshall, Oklahoma",earthquake,,0.6,0.2,37,reviewed,ok,ok
 2024-06-17T12:49:59.188Z,31.66,-104.302,7.0612,3.1,ml,48,67,0,0.1,tx,tx2024lvxy,2024-06-17T13:20:04.040Z,"57 km S of Whites City, New Mexico",earthquake,0.4927781579504061,0.6071205168318345,0.2,34,reviewed,tx,tx
 2024-06-17T12:39:11.856Z,31.65,-104.315,4.3472,1.8,ml,17,69,0,0.3,tx,tx2024lvxo,2024-06-17T13:28:47.235Z,"58 km S of Whites City, New Mexico",earthquake,0,1.40248965723641,0.2,13,automatic,tx,tx
@@ -127,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T00:08:23.448Z,60.3153,-151.0141,48.5,2,ml,,,,0.27,ak,ak0247rhvezs,2024-06-17T00:09:59.863Z,"14 km E of Kasilof, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-06-17T00:06:46.500Z,65.5674,-150.068,12.9,0.9,ml,,,,0.9,ak,ak0247rhv1ca,2024-06-17T00:08:30.826Z,"8 km NE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-16T23:53:30.010Z,38.8460006713867,-122.814834594727,1.62999999523163,1,md,15,53,0.01091,0.02,nc,nc75023072,2024-06-16T23:55:04.416Z,"8 km WNW of Cobb, CA",earthquake,0.25,0.660000026,0.16,15,automatic,nc,nc
-2024-06-16T23:47:38.170Z,33.3943333,-116.3773333,2.46,1.22,ml,62,27,0.06503,0.21,ci,ci40800656,2024-06-16T23:58:15.900Z,"15 km N of Borrego Springs, CA",earthquake,0.16,0.33,0.144,28,automatic,ci,ci
+2024-06-16T23:47:38.180Z,33.3926667,-116.376,3.29,1.24,ml,54,33,0.06325,0.2,ci,ci40800656,2024-06-17T14:01:22.740Z,"15 km N of Borrego Springs, CA",earthquake,0.16,0.33,0.179,43,reviewed,ci,ci
 2024-06-16T23:41:25.160Z,18,-66.8273333333333,11.06,2.86,md,17,124,0.0477,0.17,pr,pr71452878,2024-06-16T23:57:04.070Z,"1 km NW of Indios, Puerto Rico",earthquake,0.34,0.6,0.186301199226853,8,reviewed,pr,pr
 2024-06-16T23:38:56.942Z,58.9007,-154.3196,118.932,2.5,ml,20,109,1.059,0.33,us,us7000msvz,2024-06-17T00:16:52.040Z,"65 km SSE of Kokhanok, Alaska",earthquake,3.77,11.822,0.057,40,reviewed,us,us
 2024-06-16T23:01:40.240Z,64.9729,-147.2998,0.1,1.4,ml,,,,0.53,ak,ak0247q7zkp4,2024-06-16T23:03:32.584Z,"15 km E of Fox, Alaska",earthquake,,23.9,,,automatic,ak,ak
@@ -145,7 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T22:00:08.695Z,62.2143,-148.677,24.8,2.3,ml,,,,0.64,ak,ak0247q7duxw,2024-06-16T22:12:05.040Z,"47 km NNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-16T21:59:02.674Z,60.9367,-149.8137,35.8,1.1,ml,,,,0.48,ak,ak0247q7524b,2024-06-16T22:00:35.323Z,"9 km WNW of Hope, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-16T21:34:50.950Z,31.679,-104.403,4.1067,1.5,ml,16,69,0,0.4,tx,tx2024luts,2024-06-16T22:12:07.543Z,"55 km S of Whites City, New Mexico",earthquake,0,1.39379106640722,0.1,13,automatic,tx,tx
-2024-06-16T21:29:44.000Z,32.4456667,-116.9105,16.6,2.13,ml,34,98,0.1375,0.16,ci,ci40800616,2024-06-16T21:36:33.067Z,"14 km SE of Tijuana, B.C., MX",earthquake,0.25,0.59,0.242,28,automatic,ci,ci
+2024-06-16T21:29:44.020Z,32.4468333,-116.9091667,16.16,2.11,ml,38,97,0.138,0.16,ci,ci40800616,2024-06-17T13:55:17.350Z,"14 km SE of Tijuana, B.C., MX",earthquake,0.23,0.58,0.175,53,reviewed,ci,ci
 2024-06-16T21:20:40.309Z,64.9498,-148.9255,0,1.2,ml,,,,0.94,ak,ak0247q6ws3i,2024-06-16T21:22:49.860Z,"29 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-16T21:17:18.982Z,18.8345,145.7159,194.39,4.8,mb,93,80,3.574,0.85,us,us7000msvf,2024-06-16T22:17:19.593Z,"Pagan region, Northern Mariana Islands",earthquake,6.57,6.986,0.046,147,reviewed,us,us
 2024-06-16T21:05:07.340Z,33.2651667,-116.432,4.29,1.77,ml,83,16,0.0128,0.19,ci,ci40800608,2024-06-17T13:16:47.720Z,"5 km W of Borrego Springs, CA",earthquake,0.12,0.31,0.195,27,reviewed,ci,ci
@@ -212,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-16T14:33:23.040Z,19.1825008392334,-155.47917175293,31.6700000762939,1.79999995,md,42,82,0.0314,0.109999999,hv,hv74279606,2024-06-16T14:35:02.890Z,"2 km S of Pāhala, Hawaii",earthquake,0.6,0.75999999,0.209999993,5,automatic,hv,hv
 2024-06-16T14:10:28.540Z,51.7886666666667,-178.835333333333,11.39,1.62,ml,5,160,0.0172,0.05,av,av93166606,2024-06-16T18:01:09.680Z,"152 km W of Adak, Alaska",earthquake,0.89,0.61,0.162390786821222,5,reviewed,av,av
 2024-06-16T14:08:13.015Z,-21.683,-179.2145,567.249,5.2,mb,44,79,3.771,0.75,us,us7000mstf,2024-06-16T14:22:33.040Z,"Fiji region",earthquake,11.49,9.787,0.072,64,reviewed,us,us
-2024-06-16T13:58:27.318Z,65.0091,-147.0417,0,0.8,ml,,,,0.92,ak,ak0247q2dfgp,2024-06-16T14:01:06.676Z,"15 km N of Two Rivers, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-06-16T13:57:20.950Z,36.7786,-116.0957,3.6,-0.5,ml,10,230.64999999999998,0.02,0.067,nn,nn00879357,2024-06-16T16:45:02.372Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1.3,0,1,reviewed,nn,nn
-2024-06-16T13:56:59.122Z,29.033,-97.904,5.4682,1.7,ml,13,66,0.1,1.2,tx,tx2024lueq,2024-06-16T14:18:09.261Z,"12 km ENE of Falls City, Texas",earthquake,0,2.51291306549541,0.1,10,automatic,tx,tx
-2024-06-16T13:54:54.760Z,46.210166666666666,-122.1765,6.7,0.45,ml,19,97,0.005386,0.07,uw,uw62007772,2024-06-17T03:43:25.450Z,"39 km NNE of Amboy, Washington",earthquake,0.28,0.45,0.17950324866256606,11,reviewed,uw,uw
