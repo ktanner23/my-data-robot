@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T09:28:18.456Z,30.3511,138.5063,439.431,4.3,mb,80,50,2.972,0.73,us,us7000mt52,2024-06-18T11:33:09.040Z,"Izu Islands, Japan region",earthquake,10.87,6.452,0.034,246,reviewed,us,us
 2024-06-18T09:24:44.180Z,41.5615,-112.4075,5.12,1.33,ml,19,82,0.02865,0.15,uu,uu80074026,2024-06-18T13:37:43.270Z,"17 km SSW of Thatcher, Utah",earthquake,0.34,1.19,0.300730490115918,5,reviewed,uu,uu
 2024-06-18T09:20:57.917Z,60.1129,-140.7773,10.1,1.6,ml,,,,0.92,ak,ak0247taub77,2024-06-18T09:27:54.989Z,"86 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-18T09:16:45.840Z,36.4631666666667,-81.0835,3.25,2.26,md,11,119,0.5769,0.4,se,se60585391,2024-06-18T14:23:32.604Z,"5 km SE of Sparta, North Carolina",earthquake,0.97,8.05,0.102078841382017,12,reviewed,se,se
+2024-06-18T09:16:45.840Z,36.4631666666667,-81.0835,3.25,2.26,md,11,119,0.5769,0.4,se,se60585391,2024-06-18T14:45:32.222Z,"5 km SE of Sparta, North Carolina",earthquake,0.97,8.05,0.102078841382017,12,reviewed,se,se
 2024-06-18T09:00:51.650Z,33.5876667,-116.8105,7.31,0.23,ml,17,69,0.03919,0.15,ci,ci40801608,2024-06-18T13:03:37.073Z,"13 km WNW of Anza, CA",earthquake,0.31,0.54,0.145,6,reviewed,ci,ci
 2024-06-18T08:56:49.490Z,17.8163333333333,-66.8745,13.87,2.61,md,7,233,0.1579,0.09,pr,pr71453173,2024-06-18T09:15:22.020Z,"17 km SSE of Guánica, Puerto Rico",earthquake,0.75,0.45,0.0577780928357754,4,reviewed,pr,pr
 2024-06-18T08:46:12.701Z,60.0377,-152.626,104.6,2,ml,,,,0.46,ak,ak0247taecp8,2024-06-18T08:49:49.429Z,"50 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-18T06:17:18.342Z,36.6328,-116.2835,8.7,0.3,ml,10,202.43,0.046,0.0689,nn,nn00879475,2024-06-18T06:19:16.714Z,"52 km SE of Beatty, Nevada",earthquake,,1.3,0.2,7,automatic,nn,nn
 2024-06-18T06:12:09.116Z,31.683,-104.386,5.8948,2.4,ml,28,68,0,0.1,tx,tx2024lxgh,2024-06-18T14:36:22.012Z,"54 km S of Whites City, New Mexico",earthquake,1.0254498054805892,0.7977938150553338,0.2,36,reviewed,tx,tx
 2024-06-18T06:10:23.292Z,60.3197,-138.0879,0.95,2.9,ml,39,102,0.584,0.7,us,us7000mt4i,2024-06-18T08:32:45.040Z,"125 km NE of Yakutat, Alaska",earthquake,3.85,6.701,0.043,70,reviewed,us,us
-2024-06-18T06:04:53.674Z,31.606,-104.107,5.5272,1.6,ml,16,65,0,0.4,tx,tx2024lxgb,2024-06-18T06:31:43.270Z,"43 km NW of Toyah, Texas",earthquake,0,2.58338871763193,0.3,13,automatic,tx,tx
+2024-06-18T06:04:53.608Z,31.612,-104.091,7.8558,1.6,ml,21,63,0,0.1,tx,tx2024lxgb,2024-06-18T14:49:47.175Z,"43 km NW of Toyah, Texas",earthquake,0.5068925588296748,0.588047973809938,0.2,23,reviewed,tx,tx
 2024-06-18T05:45:37.648Z,62.1248,-147.6201,33.6,1.4,ml,,,,0.36,ak,ak0247t8lw3o,2024-06-18T05:47:08.901Z,"31 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-06-18T05:38:57.386Z,60.9576,-150.5914,34.3,1.2,ml,,,,0.26,ak,ak0247t8kfm2,2024-06-18T05:40:59.993Z,"6 km NE of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-06-18T05:38:15.380Z,33.4326667,-116.9093333,6.62,0.26,ml,22,60,0.04903,0.17,ci,ci40801584,2024-06-18T13:03:39.686Z,"4 km WSW of Aguanga, CA",earthquake,0.24,0.55,0.091,5,reviewed,ci,ci
@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-17T15:22:53.180Z,38.7933349609375,-122.727668762207,1.8400000333786,1.12,md,16,96,0.01232,0.02,nc,nc75023287,2024-06-17T15:24:32.544Z,"3 km ENE of The Geysers, CA",earthquake,0.28,0.699999988,0.15,16,automatic,nc,nc
 2024-06-17T15:20:24.210Z,38.8320007324219,-122.811164855957,1.87999999523163,1.69,md,34,40,0.008635,0.03,nc,nc75023282,2024-06-17T15:23:42.560Z,"8 km WNW of Cobb, CA",earthquake,0.16,0.280000001,0.17,35,automatic,nc,nc
 2024-06-17T15:08:19.527Z,31.664,-104.312,6.4075,2.7,ml,37,58,0,0.2,tx,tx2024lwcm,2024-06-17T17:16:51.109Z,"57 km S of Whites City, New Mexico",earthquake,0.7307838790160135,0.8209826799839554,0.2,29,reviewed,tx,tx
-2024-06-17T14:47:11.737Z,37.3586,-117.1925,3.5,1.3,ml,21,101.44,0.08,0.1209,nn,nn00879435,2024-06-17T18:35:06.656Z,"39 km S of Goldfield, Nevada",earthquake,,2.8,0.2,7,reviewed,nn,nn
