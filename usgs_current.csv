@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-21T12:45:47.402Z,64.3084,-149.8347,13.3,0.9,ml,,,,0.59,ak,ak0247ybdzkk,2024-06-21T12:47:40.458Z,"31 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-06-21T12:42:28.000Z,33.4851685,-116.4813309,7.86,1.18,ml,40,63,0.06012,0.19,ci,ci40805408,2024-06-21T12:44:34.488Z,"19 km ESE of Anza, CA",earthquake,0.27,0.82,0.181,13,automatic,ci,ci
+2024-06-21T12:41:11.090Z,33.485,-116.4835,7.77,0.83,ml,47,41,0.06164,0.18,ci,ci40805400,2024-06-21T12:47:30.044Z,"19 km ESE of Anza, CA",earthquake,0.16,0.46,0.114,24,automatic,ci,ci
+2024-06-21T12:39:31.780Z,38.7931671142578,-122.78099822998,3.36999988555908,1.48,md,29,82,0.005408,0.04,nc,nc75024837,2024-06-21T12:42:42.950Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.439999998,0.19,30,automatic,nc,nc
+2024-06-21T12:37:37.647Z,37.357,-117.2026,0.8,1,ml,14,208.99,0.073,0.2879,nn,nn00879705,2024-06-21T12:40:02.531Z,"39 km S of Goldfield, Nevada",earthquake,,4.6,0.27,9,automatic,nn,nn
 2024-06-21T12:30:45.914Z,61.8735,-151.0638,65.1,1.1,ml,,,,0.46,ak,ak0247ybarpr,2024-06-21T12:32:43.391Z,"21 km SE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-06-21T12:22:37.381Z,37.3432,-117.1979,1.9,1,ml,15,127.57,0.066,0.2652,nn,nn00879703,2024-06-21T12:25:32.694Z,"40 km S of Goldfield, Nevada",earthquake,,7.1,0.31,8,automatic,nn,nn
 2024-06-21T12:20:06.810Z,19.1898326873779,-155.251663208008,40.9000015258789,2.08999991,md,27,207,0.09443,0.150000006,hv,hv74286156,2024-06-21T12:21:49.360Z,"23 km E of Pāhala, Hawaii",earthquake,0.93,0.790000021,0.140000001,3,automatic,hv,hv
@@ -6,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T12:16:47.344Z,37.2808,-115.1212,8.3,1.2,ml,15,203.72,0.137,0.361,nn,nn00879699,2024-06-21T12:19:02.627Z,"10 km SSE of Alamo, Nevada",earthquake,,2.1,0.3,11,automatic,nn,nn
 2024-06-21T12:15:46.875Z,60.9231,-151.7182,83.2,2.6,ml,,,,0.37,ak,ak0247yb7k0v,2024-06-21T12:17:26.295Z,"34 km NW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-21T12:15:27.020Z,33.6933333,-116.7281667,18.79,0.91,ml,47,55,0.02127,0.14,ci,ci40805392,2024-06-21T12:21:48.621Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.26,0.21,27,automatic,ci,ci
-2024-06-21T12:12:36.345Z,50.944,-179.134,10,5,mb,100,81,0.643,1.44,us,us7000mtsd,2024-06-21T12:32:47.038Z,"202 km WSW of Adak, Alaska",earthquake,3.58,1.825,0.027,431,reviewed,us,us
+2024-06-21T12:12:36.345Z,50.944,-179.134,10,5,mb,100,81,0.643,1.44,us,us7000mtsd,2024-06-21T12:42:15.602Z,"202 km WSW of Adak, Alaska",earthquake,3.58,1.825,0.027,431,reviewed,us,us
 2024-06-21T11:49:09.390Z,33.5766667,-116.811,9.23,1.23,ml,68,22,0.04267,0.18,ci,ci40805376,2024-06-21T11:59:47.010Z,"13 km W of Anza, CA",earthquake,0.13,0.3,0.182,25,automatic,ci,ci
 2024-06-21T11:48:00.686Z,37.273,-115.1134,3.7,1.1,ml,14,207.92999999999998,0.142,0.3124,nn,nn00879698,2024-06-21T11:51:12.379Z,"11 km SSE of Alamo, Nevada",earthquake,,416.3,0.23,11,automatic,nn,nn
 2024-06-21T11:40:34.210Z,33.4656667,-116.5643333,9.94,0.54,ml,13,185,0.0429,0.05,ci,ci40805368,2024-06-21T11:46:50.141Z,"14 km SE of Anza, CA",earthquake,0.55,0.51,0.13,9,automatic,ci,ci
@@ -31,13 +36,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T10:07:45.670Z,33.4853333,-116.4786667,8.06,0.62,ml,35,64,0.05831,0.15,ci,ci40805320,2024-06-21T10:14:19.392Z,"20 km ESE of Anza, CA",earthquake,0.16,0.47,0.083,17,automatic,ci,ci
 2024-06-21T10:05:26.006Z,38.1953,-117.8246,5.6,1.4,ml,12,118.19,0.126,0.2357,nn,nn00879686,2024-06-21T10:08:11.189Z,"32 km SE of Mina, Nevada",earthquake,,0.5,0.28,9,automatic,nn,nn
 2024-06-21T10:00:03.945Z,37.3574,-117.1995,2,1.1,ml,20,208.99,0.075,0.2971,nn,nn00879684,2024-06-21T10:02:22.395Z,"39 km S of Goldfield, Nevada",earthquake,,6.8,0.35,11,automatic,nn,nn
+2024-06-21T09:56:21.517Z,-7.4885,129.1438,109.556,4.3,mb,19,114,3.042,0.58,us,us7000mtrv,2024-06-21T12:35:28.040Z,"262 km ENE of Lospalos, Timor Leste",earthquake,9.94,7.888,0.142,14,reviewed,us,us
 2024-06-21T09:52:35.608Z,61.0797,-152.6639,16.6,0.8,ml,,,,1.16,ak,ak0247y9n5vp,2024-06-21T09:55:27.359Z,"82 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-06-21T09:52:09.282Z,37.3454,-117.1981,1.9,1.2,ml,26,127.77999999999997,0.067,0.2136,nn,nn00879682,2024-06-21T09:54:33.452Z,"40 km S of Goldfield, Nevada",earthquake,,6.4,0.24,17,automatic,nn,nn
 2024-06-21T09:48:15.153Z,37.3397,-117.1967,2.1,1.1,ml,22,205.15999999999997,0.064,0.3007,nn,nn00879680,2024-06-21T09:50:32.642Z,"41 km S of Goldfield, Nevada",earthquake,,1.7,0.3,11,automatic,nn,nn
 2024-06-21T09:35:36.500Z,33.4835,-116.4831667,7.68,0.67,ml,39,63,0.06236,0.15,ci,ci40805312,2024-06-21T09:41:36.309Z,"19 km ESE of Anza, CA",earthquake,0.15,0.43,0.088,18,automatic,ci,ci
 2024-06-21T09:34:32.318Z,31.147,-103.304,3.8562,2,ml,15,93,0,0.8,tx,tx2024mczm,2024-06-21T10:03:26.821Z,"25 km WSW of Coyanosa, Texas",earthquake,0,1.2783960330180697,0.1,13,automatic,tx,tx
 2024-06-21T09:30:09.730Z,34.0353333,-117.244,16.47,1.05,ml,52,48,0.07697,0.18,ci,ci40805304,2024-06-21T09:36:33.939Z,"2 km SE of Loma Linda, CA",earthquake,0.19,0.37,0.174,29,automatic,ci,ci
-2024-06-21T09:30:01.189Z,62.3597,-149.1519,0,3.5,ml,,,,0.86,ak,ak0247y9idge,2024-06-21T10:17:12.040Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-21T09:30:01.120Z,62.3625,-149.1446,0,3.4,ml,,,,0.99,ak,ak0247y9idge,2024-06-21T12:44:15.050Z,"42 km ENE of Susitna North, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-06-21T09:26:03.670Z,38.8368339538574,-122.794334411621,1.83000004291534,1.1,md,16,70,0.003491,0.02,nc,nc75024792,2024-06-21T09:27:38.655Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.439999998,0.25,16,automatic,nc,nc
 2024-06-21T09:22:33.080Z,33.6345,-116.709,13.37,0.93,ml,55,30,0.04516,0.19,ci,ci40805296,2024-06-21T09:33:15.830Z,"9 km NNW of Anza, CA",earthquake,0.17,0.32,0.239,26,automatic,ci,ci
 2024-06-21T09:19:03.260Z,45.70100021362305,-122.75650024414062,21.6800003051758,2.0144954919815063,ml,50,43,,0.109999999,uw,uw62017371,2024-06-21T09:21:34.890Z,"3 km WSW of Felida, Washington",earthquake,0.23,0.709999979,0.26178327202796936,48,automatic,uw,uw
@@ -117,6 +123,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-21T02:07:49.920Z,34.0093333,-117.2111667,6.03,0.9,ml,29,63,0.06954,0.2,ci,ci40805160,2024-06-21T02:23:49.951Z,"6 km SSW of Redlands, CA",earthquake,0.28,1.61,0.251,23,automatic,ci,ci
 2024-06-21T02:00:57.349Z,-19.7974,-69.0858,107.314,4.2,mb,16,77,0.164,1.19,us,us7000mtq4,2024-06-21T03:00:36.040Z,"64 km SSE of Camiña, Chile",earthquake,5.66,3.921,0.215,6,reviewed,us,us
 2024-06-21T02:00:06.961Z,60.5593,-151.6666,56.8,1.3,ml,,,,0.67,ak,ak0247y55x6g,2024-06-21T02:01:55.487Z,"20 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-06-21T02:00:05.780Z,36.9235,-97.98783333,1.75,1.32,ml,58,92,0.1259752794,0.38,ok,ok2024mckm,2024-06-21T12:47:49.417Z,"7 km NW of Wakita, Oklahoma",earthquake,,1.2,0.17,23,reviewed,ok,ok
+2024-06-21T01:58:31.480Z,36.915,-97.98816667,3.36,1.3,ml,56,127,0.1214761622,0.37,ok,ok2024mckl,2024-06-21T12:41:31.661Z,"6 km WNW of Wakita, Oklahoma",earthquake,,1,0.19,20,reviewed,ok,ok
 2024-06-21T01:54:02.896Z,57.7403,-155.7918,14.3,1.3,ml,,,,0.32,ak,ak0247y4w1xd,2024-06-21T01:55:36.280Z,"82 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-21T01:49:14.430Z,38.8233337402344,-122.844497680664,2.22000002861023,0.74,md,12,104,0.007399,0.01,nc,nc75024652,2024-06-21T01:50:53.213Z,"9 km NW of The Geysers, CA",earthquake,0.32,0.5,0.42,14,automatic,nc,nc
 2024-06-21T01:42:21.092Z,17.5004,-100.5068,40.218,4.3,mb,31,239,1.852,1.34,us,us7000mtq2,2024-06-21T05:33:23.011Z,"32 km NNW of El Ticui, Mexico",earthquake,10.85,11.516,0.056,92,reviewed,us,us
@@ -168,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T20:28:49.570Z,33.7585,-116.138,5.82,0.73,ml,23,104,0.07935,0.14,ci,ci40804816,2024-06-20T20:36:40.729Z,"8 km ENE of Indio, CA",earthquake,0.22,0.73,0.109,14,automatic,ci,ci
 2024-06-20T20:19:45.067Z,60.2347,-152.8406,99.8,0.5,ml,,,,0.14,ak,ak0247wsgj4a,2024-06-20T20:20:58.518Z,"68 km WNW of Ninilchik, Alaska",earthquake,,3,,,automatic,ak,ak
 2024-06-20T20:19:04.153Z,62.5254,-151.2584,85.2,1.2,ml,,,,0.76,ak,ak0247wsgfyn,2024-06-20T20:21:04.341Z,"25 km W of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-06-20T20:17:03.890Z,-23.3691,-179.9657,536.209,4.4,mb,48,90,6.13,0.64,us,us7000mtnm,2024-06-21T12:37:00.040Z,"south of the Fiji Islands",earthquake,12.47,7.223,0.075,51,reviewed,us,us
 2024-06-20T20:13:31.040Z,36.1571667,-118.051,1.76,1.11,ml,22,81,0.1636,0.15,ci,ci40804784,2024-06-20T20:19:30.588Z,"14 km SSW of Olancha, CA",earthquake,0.22,0.92,0.197,17,automatic,ci,ci
 2024-06-20T20:13:20.550Z,57.0575,-135.729666666667,5.16,-0.59,ml,4,126,0.0177,0.07,av,av93012619,2024-06-21T04:33:26.950Z,"24 km W of Sitka, Alaska",earthquake,0.56,0.62,0.148796735723457,4,reviewed,av,av
 2024-06-20T20:09:55.310Z,51.9276666666667,-177.1985,10.25,-0.49,ml,4,305,0.008905,0.13,av,av93172066,2024-06-21T04:20:48.490Z,"39 km W of Adak, Alaska",earthquake,1.35,0.85,0.279895783271673,3,reviewed,av,av
@@ -280,8 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-20T13:03:40.644Z,37.3488,-117.2067,4.5,0.4,ml,12,123.34999999999997,0.065,0.1448,nn,nn00879604,2024-06-20T18:15:34.267Z,"40 km S of Goldfield, Nevada",earthquake,,3.4,0,1,reviewed,nn,nn
 2024-06-20T12:51:51.280Z,45.347833333333334,-122.98716666666667,16.3,0.79,md,8,104,0.1375,0.06,uw,uw62017121,2024-06-20T23:19:48.370Z,"5 km NNW of Newberg, Oregon",earthquake,0.23,0.82,0.04866036801919016,5,reviewed,uw,uw
 2024-06-20T12:51:41.281Z,36.9185,-104.842,5,2.1,ml,10,83,0.117,0.45,us,us7000mtkv,2024-06-20T13:03:08.040Z,"23 km S of Weston, Colorado",earthquake,1.3,1.847,0.115,10,reviewed,us,us
-2024-06-20T12:47:45.760Z,44.7865,-110.812333333333,4.93,0.57,md,8,212,0.02724,0.1,uu,uu80074201,2024-06-20T18:18:53.080Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.17,0.62,0.36084091874768,7,reviewed,uu,uu
-2024-06-20T12:47:05.280Z,32.9888333,-116.3183333,9.3,0.93,ml,23,52,0.07942,0.17,ci,ci40803992,2024-06-20T18:12:21.983Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.59,0.133,8,reviewed,ci,ci
-2024-06-20T12:45:54.370Z,38.8446655273438,-122.779830932617,0.870000004768372,1.01,md,12,124,0.003381,0.03,nc,nc75024367,2024-06-20T12:47:33.344Z,"6 km NW of Cobb, CA",earthquake,0.31,0.409999996,0.15,12,automatic,nc,nc
-2024-06-20T12:42:32.708Z,31.681,-104.389,7.4329,2,ml,29,68,0,0.1,tx,tx2024mbke,2024-06-20T13:47:51.746Z,"54 km S of Whites City, New Mexico",earthquake,0.5420338010659951,0.816857120378491,0.2,28,reviewed,tx,tx
-2024-06-20T12:40:10.394Z,36.4761,-115.8189,8.8,0.2,ml,14,294.38,0.219,0.0706,nn,nn00879617,2024-06-20T14:07:09.561Z,"16 km SW of Indian Springs, Nevada",earthquake,,8.2,0.15,4,reviewed,nn,nn
