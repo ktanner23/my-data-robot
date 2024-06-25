@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-25T03:11:36.420Z,33.2695,-116.4238333,4.99,0.84,ml,35,30,0.005739,0.23,ci,ci40809808,2024-06-25T03:17:31.509Z,"5 km WNW of Borrego Springs, CA",earthquake,0.23,0.38,0.163,17,automatic,ci,ci
-2024-06-25T03:00:50.660Z,35.1095,-119.0916667,4.31,2.09,ml,39,44,0.05119,0.28,ci,ci40809800,2024-06-25T03:15:23.392Z,"23 km SW of Lamont, CA",earthquake,0.31,2.52,0.15,26,automatic,ci,ci
+2024-06-25T03:00:50.660Z,35.1095,-119.0916667,4.31,2.09,ml,39,44,0.05119,0.28,ci,ci40809800,2024-06-25T03:32:21.800Z,"23 km SW of Lamont, CA",earthquake,0.31,2.52,0.15,26,automatic,ci,ci
 2024-06-25T02:57:40.695Z,62.2782,-154.1858,8.8,1.2,ml,,,,0.61,ak,ak02484rnlkl,2024-06-25T02:59:35.431Z,"82 km S of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-25T02:55:52.100Z,35.1038333,-119.0995,2.73,1.9,ml,37,57,0.04693,0.27,ci,ci40809792,2024-06-25T03:05:39.031Z,"24 km NW of Grapevine, CA",earthquake,0.3,1.23,0.268,26,automatic,ci,ci
 2024-06-25T02:55:13.030Z,35.1143333,-119.1016667,1.82,1.93,ml,48,45,0.0575,0.24,ci,ci40809784,2024-06-25T03:02:36.668Z,"24 km SW of Lamont, CA",earthquake,0.21,1.06,0.131,27,automatic,ci,ci
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T22:39:43.600Z,35.1171667,-119.1076667,1.11,1.61,ml,34,87,0.06162,0.24,ci,ci40809512,2024-06-25T01:17:47.492Z,"24 km SW of Lamont, CA",earthquake,0.29,1.31,0.229,27,automatic,ci,ci
 2024-06-24T22:36:44.513Z,39.3085,27.5549,10.321,4.7,mww,70,31,0.558,0.77,us,us6000n80m,2024-06-24T23:46:11.390Z,"12 km SW of Savaştepe, Turkey",earthquake,4.61,4.114,0.078,16,reviewed,us,us
 2024-06-24T22:34:28.953Z,31.7317,137.8824,396.885,4,mb,63,89,2.138,0.73,us,us6000n80l,2024-06-24T23:52:33.175Z,"275 km SE of Kushimoto, Japan",earthquake,8.71,8.54,0.057,82,reviewed,us,us
-2024-06-24T22:30:59.930Z,35.1131667,-119.1115,12.07,4.09,mw,71,23,0.05899,0.27,ci,ci40809504,2024-06-25T03:29:44.844Z,"24 km SW of Lamont, CA",earthquake,0.19,0.75,,4,reviewed,ci,ci
+2024-06-24T22:30:59.930Z,35.1131667,-119.1115,12.07,4.09,mw,71,23,0.05899,0.27,ci,ci40809504,2024-06-25T03:37:38.313Z,"24 km SW of Lamont, CA",earthquake,0.19,0.75,,4,reviewed,ci,ci
 2024-06-24T22:17:10.670Z,19.4948333333333,-155.481166666667,1.76,1.83,ml,45,41,0.04189,0.15,hv,hv74290961,2024-06-24T23:50:38.940Z,"26 km WNW of Volcano, Hawaii",earthquake,0.27,1.34,0.142397466729149,10,reviewed,hv,hv
 2024-06-24T22:15:36.371Z,37.3553,-117.1915,4.5,1.5,ml,24,119.37,0.078,0.1891,nn,nn00879925,2024-06-24T23:39:30.732Z,"39 km S of Goldfield, Nevada",earthquake,,2.7,0.36,9,reviewed,nn,nn
 2024-06-24T22:14:35.050Z,33.0591667,-115.578,8.27,1.35,ml,29,58,0.02111,0.22,ci,ci40809480,2024-06-24T22:25:33.434Z,"5 km ENE of Westmorland, CA",earthquake,0.27,0.54,0.32,25,automatic,ci,ci
@@ -113,6 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T16:59:20.470Z,33.9825,-116.868,11.37,1.17,ml,44,51,0.07253,0.15,ci,ci40809096,2024-06-24T17:11:41.127Z,"6 km N of Banning, CA",earthquake,0.16,0.5,0.128,26,automatic,ci,ci
 2024-06-24T16:52:09.080Z,33.8908333,-116.869,14.03,0.76,ml,29,61,0.08254,0.12,ci,ci40809072,2024-06-24T17:03:19.942Z,"4 km S of Banning, CA",earthquake,0.2,0.51,0.254,18,automatic,ci,ci
 2024-06-24T16:46:44.210Z,59.3616666666667,-153.440833333333,0.65,-0.17,ml,6,131,0.002191,0.12,av,av93177356,2024-06-25T03:25:44.500Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.36,0.28,0.118861434219975,6,reviewed,av,av
+2024-06-24T16:43:29.320Z,53.7538333333333,-166.7825,6.77,-0.34,ml,8,241,0.05941,0.1,av,av93013029,2024-06-25T03:32:43.320Z,"21 km SW of Unalaska, Alaska",earthquake,0.46,0.71,0.3116475598352,8,reviewed,av,av
 2024-06-24T16:42:14.835Z,37.2899,-117.5887,6.6,1.1,ml,10,94.44999999999999,0.073,0.0611,nn,nn00879911,2024-06-24T18:53:14.877Z,"51 km S of Silver Peak, Nevada",earthquake,,1.7,0.19,3,reviewed,nn,nn
 2024-06-24T16:41:53.770Z,19.3296661376953,-155.184173583984,4.55000019073486,1.82000005,md,37,107,0.05147,0.150000006,hv,hv74290641,2024-06-24T16:43:32.790Z,"13 km SSE of Volcano, Hawaii",earthquake,0.42,1.29999995,0.340000004,17,automatic,hv,hv
 2024-06-24T16:40:48.730Z,53.848,-166.508333333333,9.8,-0.08,ml,11,115,0.00361,0.21,av,av93177351,2024-06-25T03:07:45.220Z,"3 km SSE of Unalaska, Alaska",earthquake,0.68,0.58,0.247774614372145,11,reviewed,av,av
@@ -276,4 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-24T04:19:12.252Z,61.5746,-151.5722,28.5,1,ml,,,,0.82,ak,ak0248352wkj,2024-06-24T04:26:11.523Z,"47 km S of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-06-24T04:10:45.710Z,55.049,-162.244,3.57,0.51,ml,5,146,0.06165,0.12,av,av93012944,2024-06-24T23:24:51.030Z,"4 km ESE of King Cove, Alaska",earthquake,0.31,0.66,0.188152390584051,5,reviewed,av,av
 2024-06-24T04:03:47.109Z,31.598,-104.219,3.075,1.6,ml,13,69,0.1,0.1,tx,tx2024mibc,2024-06-24T19:44:46.394Z,"51 km NW of Toyah, Texas",earthquake,0.838305502663028,1.9902773365580773,0.1,16,reviewed,tx,tx
-2024-06-24T03:31:33.451Z,64.9381,-148.865,16.5,1.7,ml,,,,0.36,ak,ak024834k3i9,2024-06-24T03:32:51.290Z,"32 km SE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
