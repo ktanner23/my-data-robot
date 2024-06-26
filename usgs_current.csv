@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-06-26T21:25:40.958Z,31.668,-104.48,6.6024,1.8,ml,8,71,0,0.3,tx,tx2024mnaq,2024-06-26T21:36:12.826Z,"57 km S of Whites City, New Mexico",earthquake,0,3.76731233267353,0.2,7,automatic,tx,tx
+2024-06-26T21:25:41.555Z,31.672,-104.476,4.3072,1.6,ml,14,124,0,0.2,tx,tx2024mnaq,2024-06-26T21:55:42.959Z,"56 km S of Whites City, New Mexico",earthquake,0,1.51455438298503,0.1,10,automatic,tx,tx
 2024-06-26T21:25:20.062Z,31.674,-104.481,7.5556,1.8,ml,7,93,0,0.3,tx,tx2024mnal,2024-06-26T21:36:08.829Z,"56 km S of Whites City, New Mexico",earthquake,0,3.49991035346619,0.2,6,automatic,tx,tx
 2024-06-26T21:17:38.460Z,41.5948333333333,-112.425333333333,8.88,1.87,ml,16,73,0.02293,0.13,uu,uu80074771,2024-06-26T21:32:33.890Z,"15 km SW of Thatcher, Utah",earthquake,0.34,0.62,0.237232177131384,7,reviewed,uu,uu
 2024-06-26T21:02:54.432Z,31.6,-104.535,3.8047,2.4,ml,18,157,0.1,0.4,tx,tx2024mmzs,2024-06-26T21:22:07.320Z,"65 km SSW of Whites City, New Mexico",earthquake,0,1.67490170033805,0.1,12,automatic,tx,tx
@@ -10,9 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T20:46:12.086Z,-31.0207,-71.6741,65.736,4.6,mb,50,78,0.347,0.67,us,us6000n8hz,2024-06-26T21:04:47.040Z,"65 km SW of Ovalle, Chile",earthquake,5.27,5.695,0.088,39,reviewed,us,us
 2024-06-26T20:44:38.022Z,63.2752,-150.472,78.7,1.2,ml,,,,0.68,ak,ak02486ptyfu,2024-06-26T20:46:26.244Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-26T20:42:19.280Z,19.3834991455078,-155.240661621094,1.49000000953674,1.97,ml,22,69,0.009879,0.230000004,hv,hv74294241,2024-06-26T20:44:57.410Z,"6 km S of Volcano, Hawaii",earthquake,0.32,0.209999993,0.15,12,automatic,hv,hv
-2024-06-26T20:37:14.161Z,36.8621,34.5417,10,4.3,mb,44,79,0.978,0.76,us,us6000n8hv,2024-06-26T21:45:47.334Z,"10 km WNW of Mersin, Turkey",earthquake,4.96,1.758,0.137,15,reviewed,us,us
+2024-06-26T20:37:14.161Z,36.8621,34.5417,10,4.3,mb,44,79,0.978,0.76,us,us6000n8hv,2024-06-26T21:51:07.257Z,"10 km WNW of Mersin, Turkey",earthquake,4.96,1.758,0.137,15,reviewed,us,us
 2024-06-26T20:30:46.270Z,32.9856667,-116.3155,9.03,1.41,ml,48,39,0.03261,0.18,ci,ci40811200,2024-06-26T20:47:14.570Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.15,0.4,0.176,26,reviewed,ci,ci
-2024-06-26T20:21:29.574Z,37.378,-117.5997,4.5,1.2,ml,10,158.79999999999998,0.15,0.2381,nn,nn00880015,2024-06-26T20:23:59.299Z,"41 km S of Silver Peak, Nevada",earthquake,,8.2,0.28,7,automatic,nn,nn
+2024-06-26T20:21:24.005Z,37.542,-117.9478,0,0.7,ml,7,142.03,0.175,0.1539,nn,nn00880015,2024-06-26T21:54:13.730Z,"17 km SE of Dyer, Nevada",earthquake,,0,0.48,4,reviewed,nn,nn
 2024-06-26T20:07:04.811Z,60.6904,-151.0757,17.6,1.5,ml,,,,0.64,ak,ak02486plydt,2024-06-26T20:09:18.742Z,"11 km E of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-26T19:59:22.490Z,32.7823333,-116.0073333,10.13,1.26,ml,30,46,0.03612,0.2,ci,ci40811176,2024-06-26T20:05:23.025Z,"5 km NNW of Ocotillo, CA",earthquake,0.22,0.44,0.154,20,automatic,ci,ci
 2024-06-26T19:50:40.959Z,40.2095,25.1795,5.516,4.1,mwr,71,49,0.973,0.66,us,us6000n8hm,2024-06-26T20:13:56.040Z,"38 km NNE of Mýrina, Greece",earthquake,4.77,3.319,0.089,12,reviewed,us,us
@@ -141,6 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T07:16:02.289Z,-6.6701,-76.4842,10,4.6,mb,45,108,5.295,1.07,us,us6000n889,2024-06-26T08:19:46.040Z,"15 km S of Zapatero, Peru",earthquake,9.73,1.91,0.09,37,reviewed,us,us
 2024-06-26T07:07:44.150Z,33.6346667,-116.6955,16.23,0.4,ml,22,50,0.03865,0.18,ci,ci40810648,2024-06-26T13:18:03.666Z,"9 km NNW of Anza, CA",earthquake,0.32,0.54,0.069,4,reviewed,ci,ci
 2024-06-26T07:02:57.897Z,41.6267,-73.9341,8.299,2.1,mb_lg,22,52,0.202,0.33,us,us6000n888,2024-06-26T21:37:44.836Z,"1 km SSE of Crown Heights, New York",earthquake,1.42,5.117,0.18,8,reviewed,us,us
+2024-06-26T06:45:10.910Z,37.8198333333333,-122.002333333333,5.12,0.65,md,10,81,0.03969,0.07,nc,nc75027441,2024-06-26T21:50:16.149Z,"0 km WSW of Danville, CA",earthquake,0.3,0.64,0.088,8,reviewed,nc,nc
 2024-06-26T06:41:41.832Z,61.8692,-150.1705,32.3,1.2,ml,,,,0.53,ak,ak02486hh947,2024-06-26T06:43:13.527Z,"15 km NNW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-26T06:33:16.760Z,46.840666666666664,-121.92183333333334,9.08,0,ml,13,117,0.01858,0.09,uw,uw62010757,2024-06-26T18:14:14.430Z,"12 km NE of Ashford, Washington",earthquake,0.58,0.38,0.2181758394572907,6,reviewed,uw,uw
 2024-06-26T06:29:44.970Z,46.85916666666667,-121.77933333333333,0.85,0.53,ml,12,85,0.03431,0.19,uw,uw62010752,2024-06-26T17:14:21.490Z,"22 km ENE of Ashford, Washington",earthquake,0.42,1.37,0.23850570787669356,9,reviewed,uw,uw
@@ -157,6 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T05:34:06.740Z,19.3868333333333,-155.278,1.85,2.21,ml,49,60,0.00352,0.1,hv,hv74293121,2024-06-26T17:00:46.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.13,0.20328357174178,14,reviewed,hv,hv
 2024-06-26T05:24:36.780Z,47.54383333333333,-123.3125,42.9,0.68,ml,14,139,0.1304,0.15,uw,uw62010737,2024-06-26T05:58:12.320Z,"20 km NW of Hoodsport, Washington",earthquake,0.61,0.87,0.10642553436811153,6,reviewed,uw,uw
 2024-06-26T05:23:03.106Z,31.606,-103.973,9.3427,1.6,ml,23,58,0,0.1,tx,tx2024mlus,2024-06-26T11:18:17.549Z,"36 km NNW of Toyah, Texas",earthquake,0.4952957483438797,0.4589369716387421,0.2,18,reviewed,tx,tx
+2024-06-26T05:17:30.930Z,37.8163333333333,-122.002666666667,6.59,0.76,md,10,79,0.04317,0.15,nc,nc75027426,2024-06-26T21:55:47.995Z,"1 km SSW of Danville, CA",earthquake,0.42,0.68,0.117,8,reviewed,nc,nc
 2024-06-26T05:03:33.329Z,31.606,-103.968,9.2145,1.7,ml,17,57,0,0.1,tx,tx2024mlub,2024-06-26T13:47:59.701Z,"36 km NNW of Toyah, Texas",earthquake,0.404885288791442,0.43633347343216156,0.2,11,reviewed,tx,tx
 2024-06-26T05:02:46.889Z,37.345,-117.1998,4.5,2,ml,16,182.21000000000004,0.066,0.1797,nn,nn00879988,2024-06-26T16:01:52.922Z,"40 km S of Goldfield, Nevada",earthquake,,2.5,0,1,reviewed,nn,nn
 2024-06-26T05:01:08.890Z,38.8269996643066,-122.787666320801,1.64999997615814,0.76,md,12,61,0.01158,0.01,nc,nc75027421,2024-06-26T05:02:44.732Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.610000014,0.15,14,automatic,nc,nc
