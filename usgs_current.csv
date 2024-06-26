@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-06-26T20:44:38.022Z,63.2752,-150.472,78.7,1.2,ml,,,,0.68,ak,ak02486ptyfu,2024-06-26T20:46:26.244Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-06-26T20:42:19.280Z,19.3834991455078,-155.240661621094,1.49000000953674,1.97,ml,22,69,0.009879,0.230000004,hv,hv74294241,2024-06-26T20:44:57.410Z,"6 km S of Volcano, Hawaii",earthquake,0.32,0.209999993,0.15,12,automatic,hv,hv
-2024-06-26T20:30:46.270Z,32.9856667,-116.3155,9.03,1.41,ml,48,39,0.03261,0.18,ci,ci40811200,2024-06-26T20:41:06.620Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.15,0.4,0.176,26,automatic,ci,ci
+2024-06-26T20:30:46.270Z,32.9856667,-116.3155,9.03,1.41,ml,48,39,0.03261,0.18,ci,ci40811200,2024-06-26T20:47:14.570Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.15,0.4,0.176,26,reviewed,ci,ci
 2024-06-26T20:21:29.574Z,37.378,-117.5997,4.5,1.2,ml,10,158.79999999999998,0.15,0.2381,nn,nn00880015,2024-06-26T20:23:59.299Z,"41 km S of Silver Peak, Nevada",earthquake,,8.2,0.28,7,automatic,nn,nn
 2024-06-26T20:07:04.811Z,60.6904,-151.0757,17.6,1.5,ml,,,,0.64,ak,ak02486plydt,2024-06-26T20:09:18.742Z,"11 km E of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-06-26T19:59:22.490Z,32.7823333,-116.0073333,10.13,1.26,ml,30,46,0.03612,0.2,ci,ci40811176,2024-06-26T20:05:23.025Z,"5 km NNW of Ocotillo, CA",earthquake,0.22,0.44,0.154,20,automatic,ci,ci
@@ -81,6 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T12:15:49.310Z,44.739,-110.8815,5.7,0.47,md,6,101,0.05404,0.04,uu,uu80001423,2024-06-26T13:51:38.620Z,"19 km ENE of West Yellowstone, Montana",earthquake,0.47,1.82,0.0934073751094921,6,reviewed,uu,uu
 2024-06-26T12:15:04.400Z,44.7393333333333,-110.882833333333,5.98,0.29,md,7,102,0.05414,0.06,uu,uu80074726,2024-06-26T13:50:21.510Z,"19 km ENE of West Yellowstone, Montana",earthquake,0.41,1.66,0.0863376670064712,6,reviewed,uu,uu
 2024-06-26T12:06:55.816Z,70.674,-14.1032,10,4.4,mb,63,54,6.551,0.71,us,us6000n88x,2024-06-26T12:27:09.040Z,"199 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.37,1.912,0.079,46,reviewed,us,us
+2024-06-26T12:04:44.554Z,39.4073,-119.6944,6.6,0.7,ml,7,128.95,0.057,0.1737,nn,nn00880017,2024-06-26T20:49:52.292Z,"11 km NNW of Virginia City, Nevada",earthquake,,2.1,0.2,4,reviewed,nn,nn
 2024-06-26T11:56:01.906Z,31.717,-104.332,6.792,1.6,ml,13,66,0.1,0.1,tx,tx2024mmhr,2024-06-26T14:38:41.388Z,"51 km S of Whites City, New Mexico",earthquake,0.9347984479562955,1.3633210214849791,0.1,6,reviewed,tx,tx
 2024-06-26T11:48:00.688Z,31.603,-103.966,8.4967,2.3,ml,12,59,0,0.1,tx,tx2024mmhl,2024-06-26T13:17:48.173Z,"35 km NNW of Toyah, Texas",earthquake,0.4480341485904701,0.4865252640349066,0.2,18,reviewed,tx,tx
 2024-06-26T11:45:06.820Z,36.0093333333333,-91.2738333333333,3.09,1.61,md,4,157,0.1144,0.03,nm,nm60502118,2024-06-26T16:34:08.510Z,"1 km W of Lynn, Arkansas",earthquake,0.77,6.08,0.171106828496907,3,reviewed,nm,nm
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-25T21:13:01.330Z,39.017333984375,-123.377334594727,3.64000010490417,1.38,md,8,125,0.03735,0.02,nc,nc75027246,2024-06-25T21:14:36.982Z,"1 km NW of Boonville, CA",earthquake,0.47,0.74000001,0.16,6,automatic,nc,nc
 2024-06-25T21:06:52.970Z,33.5896667,-116.803,8.13,0.53,ml,16,64,0.03272,0.16,ci,ci40810416,2024-06-25T21:59:52.851Z,"13 km WNW of Anza, CA",earthquake,0.29,0.76,0.256,6,reviewed,ci,ci
 2024-06-25T20:58:32.470Z,58.2675,-155.2097,2.9,1.4,ml,,,,0.67,ak,ak024852dljj,2024-06-26T01:24:00.090Z,"89 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-06-25T20:47:57.990Z,38.7806663513184,-122.755165100098,1.37000000476837,1.16,md,14,68,0.01292,0.03,nc,nc75027241,2024-06-25T20:49:36.249Z,"0 km NNE of The Geysers, CA",earthquake,0.24,0.419999987,0.28,10,automatic,nc,nc
-2024-06-25T20:47:53.070Z,38.8223342895508,-122.787330627441,1.23000001907349,1.53,md,13,73,0.01044,0.01,nc,nc75027236,2024-06-25T20:49:32.374Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.430000007,0.22,14,automatic,nc,nc
