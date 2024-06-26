@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-26T04:17:25.980Z,38.8185005187988,-122.76782989502,2.07999992370605,0.77,md,9,100,0.01132,0.01,nc,nc75027401,2024-06-26T04:19:00.281Z,"4 km W of Cobb, CA",earthquake,0.37,0.829999983,0.32,9,automatic,nc,nc
+2024-06-26T04:17:11.669Z,59.7366,-152.705,76.5,2.2,ml,,,,0.28,ak,ak02486g56e6,2024-06-26T04:19:06.217Z,"49 km W of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-26T04:16:13.570Z,38.8224983215332,-122.80883026123,2.48000001907349,0.78,md,14,58,0.001321,0.03,nc,nc75027396,2024-06-26T04:17:50.077Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.720000029,0.14,15,automatic,nc,nc
 2024-06-26T04:11:50.240Z,38.8359985351562,-122.797668457031,1.57000005245209,0.23,md,8,100,0.006206,0.01,nc,nc75027391,2024-06-26T04:13:25.365Z,"7 km WNW of Cobb, CA",earthquake,0.57,1.45000005,0.09,9,automatic,nc,nc
 2024-06-26T04:01:16.360Z,33.1426667,-115.9641667,4.8,1.37,ml,46,42,0.03278,0.21,ci,ci40810608,2024-06-26T04:14:23.200Z,"16 km E of Ocotillo Wells, CA",earthquake,0.18,0.43,0.163,28,automatic,ci,ci
 2024-06-26T03:59:37.880Z,35.3776667,-118.4831667,2.76,1.5,ml,37,59,0.1001,0.15,ci,ci40810600,2024-06-26T04:14:11.058Z,"23 km S of Bodfish, CA",earthquake,0.15,0.36,0.181,26,automatic,ci,ci
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-26T02:40:42.610Z,38.8333320617676,-122.796501159668,2.11999988555908,1.28,md,25,44,0.006987,0.02,nc,nc75027351,2024-06-26T02:42:19.741Z,"6 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.16,27,automatic,nc,nc
 2024-06-26T02:37:22.030Z,19.5243333333333,-156.0285,44.47,3.21,ml,64,196,0.111,0.12,hv,hv74292931,2024-06-26T02:58:02.540Z,"8 km SW of Kahaluu-Keauhou, Hawaii",earthquake,0.57,0.35,0.113356524557973,18,reviewed,hv,hv
 2024-06-26T02:30:56.271Z,64.6324,-150.9856,10.5,1,ml,,,,0.78,ak,ak02486f16xn,2024-06-26T02:32:55.186Z,"44 km SSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-06-26T01:49:31.160Z,40.3055000305176,-124.581001281738,18.4400005340576,2.95,md,35,250,,0.19,nc,nc75027341,2024-06-26T01:51:03.093Z,"25 km W of Petrolia, CA",earthquake,2.12,0.5,0.07,30,automatic,nc,nc
+2024-06-26T01:49:31.160Z,40.3055000305176,-124.581001281738,18.4400005340576,2.95,md,35,250,,0.19,nc,nc75027341,2024-06-26T04:27:31.040Z,"25 km W of Petrolia, CA",earthquake,2.12,0.5,0.07,30,automatic,nc,nc
 2024-06-26T01:47:34.914Z,70.7809,-14.3145,10,4.1,mb,40,62,6.614,0.88,us,us6000n87a,2024-06-26T02:40:39.040Z,"205 km W of Olonkinbyen, Svalbard and Jan Mayen",earthquake,9.35,1.933,0.094,31,reviewed,us,us
 2024-06-26T01:24:13.670Z,8.0754,90.4097,10,5.6,mww,123,35,7.082,0.57,us,us6000n877,2024-06-26T03:49:08.718Z,"Nicobar Islands, India region",earthquake,7.45,1.721,0.066,22,reviewed,us,us
 2024-06-26T00:56:23.181Z,10.3025,93.8952,10,4.5,mb,34,137,6.171,1.04,us,us6000n874,2024-06-26T01:34:41.040Z,"Andaman Islands, India region",earthquake,5.1,1.913,0.119,21,reviewed,us,us
@@ -254,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-25T04:40:38.452Z,63.4974,-148.7334,12.5,1,ml,,,,0.52,ak,ak02484sqtfp,2024-06-25T04:42:43.318Z,"16 km NE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-06-25T04:35:13.424Z,60.6004,-151.6394,104.4,1.4,ml,,,,0.86,ak,ak02484spoxa,2024-06-25T04:37:09.289Z,"17 km W of Salamatof, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-06-25T04:31:38.849Z,-63.8128,-165.7365,10,5,mb,27,90,16.421,0.75,us,us6000n82c,2024-06-25T23:10:20.040Z,"Pacific-Antarctic Ridge",earthquake,6.77,1.879,0.123,21,reviewed,us,us
-2024-06-25T04:27:59.201Z,-1.5602,126.4342,38.112,4.9,mb,51,76,2.497,0.43,us,us6000n820,2024-06-25T22:52:04.040Z,"74 km NE of Sanana, Indonesia",earthquake,6.78,3.512,0.066,72,reviewed,us,us
-2024-06-25T04:24:17.220Z,38.8363342285156,-122.801002502441,2.09999990463257,1.73,md,29,35,0.008578,0.03,nc,nc75026861,2024-06-25T15:53:01.240Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.340000004,0.2,29,automatic,nc,nc
