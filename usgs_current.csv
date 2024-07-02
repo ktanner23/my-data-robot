@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T12:38:22.730Z,34.0465,-118.7358333,7.29,1.75,ml,48,78,0.03377,0.21,ci,ci40816952,2024-07-02T12:45:15.675Z,"5 km WNW of Malibu Beach, CA",earthquake,0.21,0.37,0.197,32,automatic,ci,ci
 2024-07-02T12:38:20.640Z,38.7680015563965,-122.732498168945,1.21000003814697,1.12,md,9,171,0.02613,0.03,nc,nc75029886,2024-07-02T12:39:56.060Z,"2 km SE of The Geysers, CA",earthquake,0.62,0.75999999,0.08,9,automatic,nc,nc
 2024-07-02T12:25:33.670Z,38.8296661376953,-122.853332519531,1.96000003814697,1.05,md,12,108,0.003483,0.01,nc,nc75029881,2024-07-02T12:27:11.026Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.560000002,0.33,15,automatic,nc,nc
-2024-07-02T12:13:03.120Z,35.6916667,-117.5546667,2.55,1,ml,25,106,0.09709,0.14,ci,ci40816936,2024-07-02T12:19:03.403Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.41,0.182,9,automatic,ci,ci
+2024-07-02T12:13:03.110Z,35.6896667,-117.5565,2.48,0.9,ml,22,104,0.1109,0.1,ci,ci40816936,2024-07-02T18:29:09.634Z,"13 km NE of Ridgecrest, CA",earthquake,0.18,0.33,0.156,16,reviewed,ci,ci
 2024-07-02T12:11:29.695Z,61.2897,-151.8891,83.3,1.5,ml,,,,0.6,ak,ak0248gi3hah,2024-07-02T12:13:13.426Z,"46 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-02T12:01:50.497Z,62.7246,-151.1132,36.1,1.6,ml,,,,1.33,ak,ak0248gi1dkr,2024-07-02T12:04:07.561Z,"31 km NW of Petersville, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2024-07-02T11:53:52.770Z,31.4965,-115.6153333,7.35,2.2,ml,7,110,0.1782,0.13,ci,ci40816904,2024-07-02T12:04:59.565Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.3,1.71,0.242,9,automatic,ci,ci
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-02T06:00:00.424Z,31.644,-104.333,4.7832,1.5,ml,17,70,0.1,0.3,tx,tx2024mwuy,2024-07-02T06:45:11.952Z,"59 km S of Whites City, New Mexico",earthquake,0,1.57776169324715,0.2,13,automatic,tx,tx
 2024-07-02T05:40:51.660Z,35.689,-117.5576667,2.27,0.54,ml,18,114,0.09374,0.12,ci,ci40816688,2024-07-02T05:46:40.863Z,"13 km NE of Ridgecrest, CA",earthquake,0.25,0.35,0.05,3,automatic,ci,ci
 2024-07-02T05:33:24.965Z,37.3926,-117.6824,13.3,0.9,ml,8,153.02999999999997,0.162,0.1559,nn,nn00880255,2024-07-02T05:35:44.295Z,"40 km S of Silver Peak, Nevada",earthquake,,2,0.87,6,automatic,nn,nn
-2024-07-02T05:18:38.879Z,37.5431,-117.9981,7.8,1.9,ml,19,157.41,0.176,0.2995,nn,nn00880253,2024-07-02T05:21:27.302Z,"15 km SSE of Dyer, Nevada",earthquake,,0.4,0.36,13,automatic,nn,nn
+2024-07-02T05:18:39.552Z,37.5484,-117.952,0,1.5,ml,11,91.85,0.181,0.1818,nn,nn00880253,2024-07-02T18:34:22.517Z,"16 km SE of Dyer, Nevada",earthquake,,0,0.58,5,reviewed,nn,nn
 2024-07-02T04:57:42.480Z,33.443,-116.5548333,11.18,0.62,ml,36,47,0.06501,0.17,ci,ci40816680,2024-07-02T13:34:15.530Z,"17 km SE of Anza, CA",earthquake,0.2,0.53,0.147,17,reviewed,ci,ci
 2024-07-02T04:54:25.180Z,44.3285,-115.177166666667,10.32,2.04,ml,17,65,0.3254,0.16,mb,mb90055773,2024-07-02T14:07:09.120Z,"22 km WNW of Stanley, Idaho",earthquake,0.55,0.9,0.190864676786519,22,reviewed,mb,mb
 2024-07-02T04:50:45.188Z,59.1916,-151.8363,52.3,1.3,ml,,,,0.27,ak,ak0248gdkekm,2024-07-02T04:52:56.208Z,"17 km S of Port Graham, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -216,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-01T18:54:06.620Z,45.9071666666667,-113.205166666667,3.89,1.7,ml,25,86,0.2135,0.14,mb,mb90055703,2024-07-01T23:22:18.940Z,"31 km SW of Anaconda, Montana",earthquake,0.38,8.87,0.162329728714641,19,reviewed,mb,mb
 2024-07-01T18:53:12.650Z,35.3993333,-118.2226667,8.02,1.32,ml,35,46,0.1526,0.15,ci,ci40816048,2024-07-02T13:37:18.986Z,"32 km SE of Bodfish, CA",earthquake,0.17,0.69,0.175,26,reviewed,ci,ci
 2024-07-01T18:45:16.028Z,65.5831,-147.9537,6.5,2.5,ml,,,,0.65,ak,ak0248eybzpu,2024-07-01T19:00:01.040Z,"28 km ENE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-07-01T18:32:15.160Z,59.7944,-153.3897,131.511,2.8,ml,27,82,0.617,0.49,us,us6000n9nh,2024-07-01T18:55:01.040Z,"40 km E of Pedro Bay, Alaska",earthquake,5.22,7.171,0.045,66,reviewed,us,us
-2024-07-01T18:31:55.260Z,38.824333190918,-122.851333618164,2.21000003814697,0.96,md,9,168,0.01279,0.01,nc,nc75029586,2024-07-01T18:33:30.515Z,"10 km NW of The Geysers, CA",earthquake,0.49,1.16999996,0.31,9,automatic,nc,nc
