@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-04T03:17:31.360Z,32.8845,-116.17,9.44,0.65,ml,6,222,0.1109,0.04,ci,ci40648055,2024-07-04T03:30:21.588Z,"23 km NW of Ocotillo, CA",earthquake,1.39,0.79,0.14,6,automatic,ci,ci
-2024-07-04T03:12:29.595Z,35.1225,140.3816,40.909,5.1,mww,110,64,2.057,0.95,us,us7000mwzq,2024-07-04T03:27:40.421Z,"6 km ESE of Katsuura, Japan",earthquake,6.91,5.519,0.098,10,reviewed,us,us
+2024-07-04T03:12:29.595Z,35.1225,140.3816,40.909,5.1,mww,110,64,2.057,0.95,us,us7000mwzq,2024-07-04T03:38:07.544Z,"6 km ESE of Katsuura, Japan",earthquake,6.91,5.519,0.098,10,reviewed,us,us
 2024-07-04T03:09:38.420Z,19.3803329467773,-155.294662475586,0.239999994635582,1.90999997,md,10,136,0.00964,0.379999995,hv,hv74314216,2024-07-04T03:11:08.300Z,"9 km SW of Volcano, Hawaii",earthquake,0.41,0.449999988,0.180000007,7,automatic,hv,hv
 2024-07-04T02:23:51.890Z,19.3978333333333,-155.285166666667,0.05,0.9,md,15,55,0.01115,0.09,hv,hv74314181,2024-07-04T02:40:13.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.13,0.18,0.443246127275235,2,reviewed,hv,hv
 2024-07-04T02:18:08.070Z,19.3968333333333,-155.286333333333,0.26,1.44,ml,21,46,0.009923,0.08,hv,hv74314176,2024-07-04T02:51:47.880Z,"7 km SW of Volcano, Hawaii",earthquake,0.11,0.11,0.158802764310918,13,reviewed,hv,hv
@@ -85,6 +85,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T19:37:45.590Z,33.671,-116.7655,14.33,0.69,ml,25,70,0.05862,0.12,ci,ci40647671,2024-07-03T20:23:41.062Z,"9 km SSW of Idyllwild, CA",earthquake,0.2,0.35,0.127,16,reviewed,ci,ci
 2024-07-03T19:31:08.820Z,27.8762,143.0803,16.867,4.4,mb,24,138,1.113,0.48,us,us6000na49,2024-07-03T19:50:05.040Z,"Bonin Islands, Japan region",earthquake,8.49,5.258,0.127,18,reviewed,us,us
 2024-07-03T19:22:14.669Z,29.051,-97.868,8.9361,1.6,ml,9,77,0.1,0.6,tx,tx2024mzqx,2024-07-03T19:51:12.988Z,"16 km ENE of Falls City, Texas",earthquake,0,5.14270793607526,0.2,7,automatic,tx,tx
+2024-07-03T19:08:26.730Z,61.3061666666667,-152.284666666667,-0.87,0.2,ml,6,121,0.06339,0.06,av,av93014164,2024-07-04T03:38:54.310Z,"67 km WNW of Beluga, Alaska",earthquake,0.27,9.14,0.276774688864299,6,reviewed,av,av
 2024-07-03T19:03:25.340Z,59.6744,-153.5513,119.2,1.2,ml,,,,0.45,ak,ak0248i9r4tt,2024-07-03T19:05:49.085Z,"33 km ESE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-03T18:54:18.780Z,35.0336667,-116.9843333,3.32,1.7,ml,26,53,0.1583,0.13,ci,ci40647639,2024-07-03T20:24:42.930Z,"15 km NNE of Barstow, CA",earthquake,0.18,0.73,0.162,27,reviewed,ci,ci
 2024-07-03T18:45:07.300Z,61.3025,-152.299166666667,1.61,0.1,ml,7,119,0.05605,0.13,av,av93185111,2024-07-04T03:20:59.610Z,"67 km WNW of Tyonek, Alaska",earthquake,0.77,1.91,0.260747519594658,7,reviewed,av,av
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T03:48:18.730Z,19.3986666666667,-155.286333333333,0.49,1.53,ml,21,41,0.01125,0.12,hv,hv74312451,2024-07-03T19:19:20.090Z,"7 km SW of Volcano, Hawaii",earthquake,0.13,0.11,0.247755455493362,9,reviewed,hv,hv
 2024-07-03T03:45:10.200Z,37.5548333333333,-117.958666666667,10.89,2.34,md,26,119,0.3853,0.1,nc,nc75030051,2024-07-04T02:04:26.511Z,"20 km NNE of Deep Springs, CA",earthquake,0.25,2.14,0.233,24,reviewed,nc,nc
 2024-07-03T03:44:37.640Z,38.8193321228027,-122.823333740234,2.71000003814697,0.87,md,17,53,0.009887,0.02,nc,nc75030046,2024-07-03T03:46:12.965Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.620000005,0.19,18,automatic,nc,nc
-2024-07-03T03:34:24.236Z,36.7223,-117.4783,14.1,0.7,ml,11,287.16,0.288,0.0779,nn,nn00880299,2024-07-03T03:36:40.823Z,"43 km NE of Keeler, California",earthquake,,1.5,0.31,3,automatic,nn,nn
