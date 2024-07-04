@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-04T17:59:35.930Z,38.8213348388672,-122.853668212891,2.64000010490417,0.62,md,13,101,0.006687,0.02,nc,nc75030762,2024-07-04T18:01:10.917Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.75,0.35,13,automatic,nc,nc
-2024-07-04T17:58:30.960Z,35.598835,-117.4919968,7.23,0.99,ml,10,98,0.02723,0.12,ci,ci40648759,2024-07-04T18:00:35.382Z,"17 km E of Ridgecrest, CA",earthquake,0.7,1.01,0.064,2,automatic,ci,ci
+2024-07-04T17:58:30.870Z,35.5931667,-117.4871667,8.11,0.72,ml,22,56,0.02141,0.13,ci,ci40648759,2024-07-04T18:07:35.195Z,"17 km E of Ridgecrest, CA",earthquake,0.18,0.41,0.145,6,automatic,ci,ci
 2024-07-04T17:43:17.778Z,48.7243,-129.1074,10,4.3,mb,50,152,0.801,0.8,us,us7000mx40,2024-07-04T18:00:28.040Z,"239 km WSW of Tofino, Canada",earthquake,6.44,1.988,0.054,96,reviewed,us,us
 2024-07-04T17:42:29.260Z,19.5931663513184,-155.943161010742,12.6400003433228,2.14,ml,17,144,0.09191,0.360000014,hv,hv74315081,2024-07-04T17:45:07.670Z,"2 km S of Hōlualoa, Hawaii",earthquake,0.97,0.660000026,0.4,5,automatic,hv,hv
 2024-07-04T17:38:44.680Z,38.8253326416016,-122.785835266113,0.28999999165535,0.73,md,11,77,0.01271,0.02,nc,nc75030752,2024-07-04T17:40:21.903Z,"5 km WNW of Cobb, CA",earthquake,0.24,0.519999981,0.28,11,automatic,nc,nc
@@ -155,7 +155,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T23:32:08.947Z,63.0979,-151.1159,25,1.6,ml,,,,1.17,ak,ak0248icb1vi,2024-07-03T23:35:04.958Z,"58 km SSE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-07-03T23:28:19.680Z,19.2476673126221,-155.369659423828,33.3499984741211,2.14,ml,50,178,0.07606,0.119999997,hv,hv74314036,2024-07-03T23:30:57.630Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.44,0.540000021,0.56,11,automatic,hv,hv
 2024-07-03T23:28:01.716Z,-25.4165,-176.0848,10,5,mb,57,128,4.151,0.94,us,us7000mwyr,2024-07-03T23:59:06.040Z,"south of the Fiji Islands",earthquake,10.59,1.82,0.058,95,reviewed,us,us
-2024-07-03T23:26:05.795Z,61.7419,-147.9464,32.8,1.6,ml,,,,0.92,ak,ak0248ic9rc3,2024-07-03T23:36:38.277Z,"17 km WSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-03T23:24:17.980Z,19.0865001678467,-155.440338134766,27.6900005340576,1.89999998,md,21,193,0.07157,0.119999997,hv,hv74314031,2024-07-03T23:25:50.570Z,"13 km SSE of Pāhala, Hawaii",earthquake,0.78,0.75,0.25,3,automatic,hv,hv
 2024-07-03T23:20:53.165Z,-34.3632,-178.5057,10,5.2,mb,61,70,4.108,1.01,us,us7000mwyi,2024-07-03T23:39:52.040Z,"south of the Kermadec Islands",earthquake,8.96,1.847,0.071,66,reviewed,us,us
 2024-07-03T23:19:15.790Z,33.8978333,-117.0373333,8.1,1.22,ml,48,44,0.1066,0.25,ci,ci40647959,2024-07-03T23:25:39.102Z,"7 km WSW of Beaumont, CA",earthquake,0.2,1.25,0.228,28,automatic,ci,ci
@@ -240,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-03T18:22:35.740Z,33.8776667,-117.2065,8.38,1.1,ml,41,61,0.01602,0.17,ci,ci40647623,2024-07-03T20:24:07.130Z,"6 km ESE of March Air Reserve Base, CA",earthquake,0.2,0.43,0.222,30,reviewed,ci,ci
 2024-07-03T18:20:34.677Z,-22.9565,-68.5811,93.864,5.3,mww,103,56,0.371,1.01,us,usd0011dnn,2024-07-04T04:31:00.377Z,"39 km W of San Pedro de Atacama, Chile",earthquake,6.67,3.977,0.061,26,reviewed,us,us
 2024-07-03T18:17:33.230Z,35.046,-118.3253333,-0.93,1.25,ml,41,34,0.05685,0.22,ci,ci40647607,2024-07-03T20:43:15.390Z,"14 km W of Mojave, CA",quarry blast,0.28,31.61,0.166,28,reviewed,ci,ci
-2024-07-03T18:06:48.380Z,19.3686676025391,-155.29167175293,2.09999990463257,1.87,ml,32,58,0.0201,0.200000003,hv,hv74313716,2024-07-03T18:09:26.960Z,"10 km SW of Volcano, Hawaii",earthquake,0.26,0.349999994,0.29,13,automatic,hv,hv
