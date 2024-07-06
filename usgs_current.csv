@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-06T11:14:53.879Z,38.2485,-118.7995,8,4,mw,13,,,,ew,ew1720264500,2024-07-06T11:15:06.976Z,"34 km SSW of Hawthorne, Nevada",earthquake,11.44,5,0.3,13,automatic,ew,ew
-2024-07-06T11:12:12.050Z,32.9951668,-116.4318314,10.4,1.59,ml,54,41,0.02932,0.19,ci,ci40650071,2024-07-06T11:14:32.354Z,"18 km ESE of Julian, CA",earthquake,0.2,0.53,0.333,18,automatic,ci,ci
+2024-07-06T11:16:57.524Z,38.2561,-118.7997,0.7,2.5,ml,10,117.04000000000002,0.203,0.2159,nn,nn00880454,2024-07-06T11:19:49.768Z,"33 km SSW of Hawthorne, Nevada",earthquake,,9.7,0.21,4,automatic,nn,nn
+2024-07-06T11:14:53.003Z,38.2737,-118.7648,10.1,3.9,ml,30,93.28999999999999,0.184,0.453,nn,nn00880450,2024-07-06T11:22:05.549Z,"30 km SSW of Hawthorne, Nevada",earthquake,,0.3,0.32,17,automatic,nn,nn
+2024-07-06T11:12:12.230Z,32.9971667,-116.4351667,9.09,1.43,ml,70,29,0.03262,0.27,ci,ci40650071,2024-07-06T11:23:22.410Z,"18 km ESE of Julian, CA",earthquake,0.2,0.55,0.268,27,automatic,ci,ci
 2024-07-06T11:04:54.678Z,65.9941,-148.195,7,1.8,ml,,,,0.74,ak,ak0248n3lzkr,2024-07-06T11:06:35.946Z,"40 km E of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-06T10:52:37.120Z,35.6693333,-117.54,6.78,0.6,ml,22,49,0.09478,0.14,ci,ci40650063,2024-07-06T10:58:24.943Z,"13 km ENE of Ridgecrest, CA",earthquake,0.26,0.52,0.109,7,automatic,ci,ci
 2024-07-06T10:47:06.550Z,38.8343315124512,-122.797996520996,1.30999994277954,0.23,md,7,82,0.007232,0.02,nc,nc75031462,2024-07-06T10:48:44.564Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.32000005,0.07,9,automatic,nc,nc
@@ -148,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T16:36:02.486Z,61.7778,-149.5552,36.3,2,ml,,,,0.5,ak,ak0248lj8jzs,2024-07-05T16:38:15.738Z,"17 km N of Meadow Lakes, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-07-05T16:36:02.246Z,61.7651,-149.6011,31,2.1,ml,,,,0.94,ak,ak0248lj8jz4,2024-07-05T16:39:48.862Z,"15 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-05T16:34:04.930Z,48.624,-129.0635,10,5,mb,49,111,0.701,1.19,us,us7000mxaz,2024-07-05T23:10:15.016Z,"238 km WSW of Tofino, Canada",earthquake,4.42,1.711,0.03,346,reviewed,us,us
-2024-07-05T16:22:43.738Z,31.615,-104.133,3.4291,1.6,ml,17,57,0,0.6,tx,tx2024ndbz,2024-07-05T17:10:26.056Z,"46 km NW of Toyah, Texas",earthquake,0,1.24482217323026,0.3,13,automatic,tx,tx
+2024-07-05T16:22:43.493Z,31.617,-104.117,5.741,1.8,ml,26,56,0,0.2,tx,tx2024ndbz,2024-07-06T11:16:28.635Z,"45 km NW of Toyah, Texas",earthquake,0.5457295559647634,0.7651320295574019,0.2,20,reviewed,tx,tx
 2024-07-05T16:17:10.180Z,33.4028333,-116.9885,-1.13,0.71,ml,11,169,0.1162,0.12,ci,ci40649487,2024-07-05T16:23:13.333Z,"9 km ENE of Pala, CA",earthquake,0.58,1.63,0.189,13,automatic,ci,ci
 2024-07-05T16:15:40.920Z,52.0903333333333,-176.150833333333,12.74,0.46,ml,4,163,0.01678,0.09,av,av93186806,2024-07-06T04:33:49.800Z,"41 km NE of Adak, Alaska",earthquake,1.39,1.06,0.141509382490769,5,reviewed,av,av
 2024-07-05T16:11:30.976Z,64.8453,-149.3715,15.2,1.1,ml,,,,0.42,ak,ak0248lj39ah,2024-07-05T16:13:15.773Z,"29 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-05T11:41:05.232Z,-8.1456,119.9295,190.715,4.6,mb,22,70,2.235,0.61,us,us7000mx7l,2024-07-05T12:11:41.040Z,"39 km N of Labuan Bajo, Indonesia",earthquake,5.91,13.086,0.157,12,reviewed,us,us
 2024-07-05T11:30:16.100Z,40.5593333333333,-121.6175,4.89,0.99,md,8,81,0.04083,0.02,nc,nc75031082,2024-07-06T05:26:12.506Z,"7 km ENE of Viola, CA",earthquake,0.51,0.84,0.288,7,reviewed,nc,nc
 2024-07-05T11:24:37.650Z,38.836498260498,-122.801330566406,2.05999994277954,0.71,md,14,62,0.01476,0.02,nc,nc75031077,2024-07-05T11:26:13.094Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.680000007,0.18,16,automatic,nc,nc
-2024-07-05T11:22:21.850Z,46.839166666666664,-121.77033333333333,0.57,0.41000000000000003,ml,16,66,0.02589,0.05,uw,uw62013752,2024-07-05T17:19:58.160Z,"21 km ENE of Ashford, Washington",earthquake,0.21,0.65,0.24104247910599125,10,reviewed,uw,uw
