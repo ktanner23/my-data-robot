@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-17T15:30:37.130Z,36.9824981689453,-121.464836120605,6.94000005722046,1.45,md,11,114,0.09772,0.13,nc,nc75036157,2024-07-17T15:32:08.770Z,"10 km ESE of Gilroy, CA",earthquake,0.53,1.95000005,0.14,8,automatic,nc,nc
-2024-07-17T15:27:28.770Z,36.9813346862793,-121.463500976562,2.36999988555908,3.34,ml,73,60,0.09844,0.16,nc,nc75036152,2024-07-17T15:31:18.512Z,"10 km ESE of Gilroy, CA",earthquake,0.21,0.870000005,0.264,47,automatic,nc,nc
-2024-07-17T15:12:20.580Z,33.8083344,-116.9069977,13.82,3.06,ml,99,21,0.0507,0.21,ci,ci40662231,2024-07-17T15:27:11.201Z,"6 km ENE of San Jacinto, CA",earthquake,0.21,0.51,0.27,16,automatic,ci,ci
+2024-07-17T15:30:37.130Z,36.9824981689453,-121.464836120605,6.94000005722046,1.45,md,11,114,0.09772,0.13,nc,nc75036157,2024-07-17T15:38:49.515Z,"10 km ESE of Gilroy, CA",earthquake,0.53,1.95000005,0.14,8,automatic,nc,nc
+2024-07-17T15:27:28.770Z,36.9813346862793,-121.463500976562,2.36999988555908,3.34,ml,73,60,0.09844,0.16,nc,nc75036152,2024-07-17T15:36:31.967Z,"10 km ESE of Gilroy, CA",earthquake,0.21,0.870000005,0.264,47,automatic,nc,nc
+2024-07-17T15:12:20.580Z,33.8083344,-116.9069977,13.82,3.06,ml,99,21,0.0507,0.21,ci,ci40662231,2024-07-17T15:37:31.886Z,"6 km ENE of San Jacinto, CA",earthquake,0.21,0.51,0.27,16,automatic,ci,ci
 2024-07-17T15:09:38.420Z,38.8248329162598,-122.853332519531,2.23000001907349,0.35,md,7,98,0.003871,0.01,nc,nc75036142,2024-07-17T15:11:16.094Z,"10 km NW of The Geysers, CA",earthquake,0.52,0.970000029,0.1,5,automatic,nc,nc
 2024-07-17T15:06:21.392Z,66.0537,-150.7063,5.5,1.4,ml,,,,0.34,ak,ak02495cwwaj,2024-07-17T15:08:15.928Z,"65 km NNW of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-17T14:50:20.210Z,38.8213348388672,-122.816833496094,3.36999988555908,0.39,md,11,71,0.01432,0.01,nc,nc75036122,2024-07-17T14:51:55.867Z,"7 km NW of The Geysers, CA",earthquake,0.48,1.51999998,0.27,13,automatic,nc,nc
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T06:46:55.800Z,36.3861656188965,-120.957000732422,9.21000003814697,1.12,md,11,115,0.1067,0.06,nc,nc75036047,2024-07-17T06:48:30.355Z,"23 km SE of Pinnacles, CA",earthquake,0.56,2.49000001,0.34,7,automatic,nc,nc
 2024-07-17T06:46:11.252Z,32.22,-101.988,6.665,2.1,ml,22,60,0,0.1,tx,tx2024nyha,2024-07-17T13:44:44.707Z,"21 km WNW of Stanton, Texas",earthquake,0.5013270349875064,0.8429241799140121,0,7,reviewed,tx,tx
 2024-07-17T06:39:16.026Z,60.0282,-153.6221,157.7,1.5,ml,,,,0.57,ak,ak024957r22a,2024-07-17T06:41:15.776Z,"38 km NE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-07-17T06:32:25.655Z,37.499,-118.011,8.6,1.2,ml,9,166,0.135,0.1178,nn,nn00881013,2024-07-17T06:35:03.343Z,"19 km SSE of Dyer, Nevada",earthquake,,1,0.27,8,automatic,nn,nn
+2024-07-17T06:32:26.128Z,37.5339,-117.9739,4.8,0.7,ml,5,150.34,0.166,0.1745,nn,nn00881013,2024-07-17T15:34:51.308Z,"16 km SSE of Dyer, Nevada",earthquake,,7.5,0.44,3,reviewed,nn,nn
 2024-07-17T06:23:06.457Z,61.0302,-152.3187,17.7,0.8,ml,,,,0.36,ak,ak024957nlv9,2024-07-17T06:24:42.766Z,"63 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-07-17T06:17:02.839Z,60.7499,169.6357,10,4.3,mb,50,67,8.404,1.24,us,us7000mzrk,2024-07-17T08:18:21.040Z,"199 km E of Tilichiki, Russia",earthquake,9.87,1.92,0.056,91,reviewed,us,us
 2024-07-17T06:14:00.218Z,31.602,-104.527,4.4666,1.7,ml,15,231,0.1,0.6,tx,tx2024nyfy,2024-07-17T07:04:47.602Z,"65 km SSW of Whites City, New Mexico",earthquake,0,2.08502005642911,0.1,13,automatic,tx,tx
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-16T16:06:54.710Z,51.855,-177.7555,4.05,0.88,ml,10,155,0.05492,0.07,av,av93199216,2024-07-17T05:34:59.510Z,"77 km W of Adak, Alaska",earthquake,0.29,0.77,0.295882715090494,13,reviewed,av,av
 2024-07-16T15:50:25.270Z,58.6321666666667,-154.428833333333,3.7,-0.61,ml,4,215,0.05581,0.04,av,av93015569,2024-07-17T05:30:53.500Z,"92 km SSE of Kokhanok, Alaska",earthquake,1.81,3.23,0.18599290757236,3,reviewed,av,av
 2024-07-16T15:40:45.022Z,32.5277,48.973,10,4.6,mb,145,58,3.71,0.5,us,us7000mzll,2024-07-16T21:12:13.040Z,"51 km ENE of Shahrak-e Kūlūrī, Iran",earthquake,3.55,1.834,0.048,134,reviewed,us,us
-2024-07-16T15:33:40.870Z,34.8838333,-119.0416667,9.02,0.94,ml,18,84,0.111,0.17,ci,ci40661119,2024-07-16T21:05:35.460Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.41,0.84,0.124,8,reviewed,ci,ci
