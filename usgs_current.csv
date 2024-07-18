@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-18T22:51:41.130Z,33.2685013,-116.4318314,6.36,1.16,ml,33,41,0.0123,0.2,ci,ci40663999,2024-07-18T22:53:45.551Z,"6 km WNW of Borrego Springs, CA",earthquake,0.35,0.71,0.307,11,automatic,ci,ci
+2024-07-18T22:51:41.020Z,33.269,-116.4321667,4.1,1.03,ml,50,30,0.0126,0.2,ci,ci40663999,2024-07-18T22:57:51.264Z,"6 km WNW of Borrego Springs, CA",earthquake,0.17,0.35,0.157,26,automatic,ci,ci
 2024-07-18T22:47:00.770Z,38.8226661682129,-122.841499328613,1.86000001430511,0.86,md,18,71,0.005073,0.01,nc,nc75036672,2024-07-18T22:48:38.209Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.24,19,automatic,nc,nc
 2024-07-18T22:25:06.456Z,61.6825,-149.7801,42.5,1.8,ml,,,,0.25,ak,ak024974qbh1,2024-07-18T22:26:44.074Z,"6 km NNE of Houston, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-07-18T22:17:40.721Z,60.7968,-150.5176,44.3,1.3,ml,,,,0.68,ak,ak024974ooe0,2024-07-18T22:19:46.732Z,"16 km SSE of Point Possession, Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -199,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T02:21:55.900Z,32.9855,-116.3155,8.7,0.64,ml,31,64,0.03246,0.19,ci,ci40663007,2024-07-18T14:15:39.754Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.23,0.46,0.102,8,reviewed,ci,ci
 2024-07-18T02:21:31.620Z,58.2413333333333,-155.117666666667,31.19,0.77,ml,11,184,0.09273,0.27,av,av93015784,2024-07-18T20:58:28.060Z,"84 km NNW of Karluk, Alaska",earthquake,1.15,1.07,0.314670051281651,12,reviewed,av,av
 2024-07-18T02:19:40.560Z,36.4595,-98.79833333,6.25,1.17,ml,37,90,0.009898057663,0.16,ok,ok2024nztr,2024-07-18T03:49:10.602Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.23,14,reviewed,ok,ok
-2024-07-18T02:07:56.910Z,33.1705,-116.107,10.6,0.83,ml,42,40,0.05317,0.22,ci,ci40662991,2024-07-18T19:17:26.520Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.2,0.51,0.217,16,automatic,ci,ci
+2024-07-18T02:07:56.820Z,33.1693333,-116.105,10.82,0.8,ml,29,55,0.05449,0.18,ci,ci40662991,2024-07-18T19:17:27.059Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.24,0.49,0.186,13,reviewed,ci,ci
 2024-07-18T02:03:47.610Z,19.4004993438721,-155.290328979492,0.0799999982118607,2.25999999,md,13,56,0.01098,0.180000007,hv,hv74341696,2024-07-18T02:05:13.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.25999999,0.140000001,7,automatic,hv,hv
 2024-07-18T01:31:11.230Z,46.21933333333333,-122.18116666666667,6.72,0.07,ml,7,140,0.01937,0.06,uw,uw62017647,2024-07-18T19:17:09.260Z,"38 km S of Morton, Washington",earthquake,0.35,0.54,0.07242293861578486,3,reviewed,uw,uw
 2024-07-18T01:24:32.880Z,33.1973333,-116.3951667,12.01,2.65,ml,102,15,0.07304,0.2,ci,ci40662967,2024-07-18T19:12:53.770Z,"7 km SSW of Borrego Springs, CA",earthquake,0.11,0.43,0.153,26,reviewed,ci,ci
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T23:14:21.090Z,35.0448333,-117.6706667,-0.79,1.37,ml,23,79,0.1122,0.17,ci,ci40662839,2024-07-18T17:40:57.662Z,"5 km NNW of Boron, CA",quarry blast,0.38,31.61,0.167,21,reviewed,ci,ci
 2024-07-17T23:11:52.630Z,38.8058319091797,-122.769836425781,5.28999996185303,0.44,md,6,155,0.009466,0.03,nc,nc75036302,2024-07-17T23:13:32.220Z,"3 km  of The Geysers, CA",earthquake,3.21,7.21000004,0.26,8,automatic,nc,nc
 2024-07-17T23:09:12.770Z,19.3975,-155.28,1.56,2.02,ml,28,37,0.006364,0.09,hv,hv74341436,2024-07-17T23:41:47.380Z,"6 km SW of Volcano, Hawaii",earthquake,0.16,0.17,0.164899371703374,14,reviewed,hv,hv
-2024-07-17T23:02:58.780Z,41.567,-112.412666666667,9.13,0.61,md,10,105,0.02282,0.1,uu,uu80075986,2024-07-18T13:40:15.800Z,"17 km SW of Thatcher, Utah",earthquake,0.42,1.18,0.239739169761745,6,reviewed,uu,uu
-2024-07-17T22:56:35.060Z,58.3926666666667,-154.823,2.78,-0.47,ml,5,114,0.01499,0.05,av,av93015754,2024-07-18T08:18:52.680Z,"94 km NNW of Karluk, Alaska",earthquake,0.5,0.41,0.219497566855501,5,reviewed,av,av
