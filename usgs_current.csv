@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-29T15:34:27.295Z,62.8864,-150.3439,108.6,1.3,ml,,,,0.29,ak,ak0249p7j2q1,2024-07-29T15:36:57.450Z,"48 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-07-29T15:30:51.440Z,33.1456667,-116.519,8.74,1.61,ml,68,24,0.09224,0.18,ci,ci40674807,2024-07-29T15:37:31.649Z,"11 km NE of Julian, CA",earthquake,0.14,0.49,0.239,27,automatic,ci,ci
+2024-07-29T15:30:51.440Z,33.1456667,-116.519,8.74,1.61,ml,68,24,0.09224,0.18,ci,ci40674807,2024-07-29T15:42:04.500Z,"11 km NE of Julian, CA",earthquake,0.14,0.49,0.239,27,automatic,ci,ci
 2024-07-29T15:07:25.369Z,61.1156,-146.0732,29,1.5,ml,,,,0.3,ak,ak0249p7da8o,2024-07-29T15:09:05.329Z,"14 km E of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-29T15:05:33.929Z,61.4672,-150.4161,11.8,1.9,ml,,,,0.19,ak,ak0249p7cvgw,2024-07-29T15:06:57.892Z,"9 km SSE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-29T15:04:32.810Z,19.1486663818359,-155.467834472656,31.2800006866455,2.13000011,md,51,169,0.00862,0.129999995,hv,hv74372431,2024-07-29T15:06:15.190Z,"6 km S of Pāhala, Hawaii",earthquake,0.51,0.579999983,0.239999995,14,automatic,hv,hv
@@ -51,8 +51,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T11:19:43.190Z,33.8793333,-117.2071667,9.26,0.85,ml,46,47,0.01772,0.16,ci,ci40674575,2024-07-29T11:26:06.147Z,"5 km ESE of March Air Reserve Base, CA",earthquake,0.16,0.37,0.149,26,automatic,ci,ci
 2024-07-29T11:19:09.597Z,58.0407,-154.6283,87.8,1.9,ml,,,,0.28,ak,ak0249p52373,2024-07-29T11:21:40.932Z,"53 km N of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-29T11:15:32.340Z,33.1681667,-116.2845,10.53,0.76,ml,31,51,0.0354,0.21,ci,ci40674567,2024-07-29T11:21:31.987Z,"13 km SE of Borrego Springs, CA",earthquake,0.25,0.49,0.167,12,automatic,ci,ci
-2024-07-29T11:05:52.139Z,31.102,-103.263,5.9266,2.4,ml,16,66,0.1,0.6,tx,tx2024ounp,2024-07-29T11:37:22.718Z,"24 km SW of Coyanosa, Texas",earthquake,0,2.38583592446582,0.2,12,automatic,tx,tx
 2024-07-29T11:05:51.894Z,31.087,-103.25,0.8704,2.3,ml,17,68,0,0.2,tx,tx2024ounq,2024-07-29T13:52:54.703Z,"24 km SW of Coyanosa, Texas",earthquake,0.765767677431459,0.8877777894200419,0.1,6,reviewed,tx,tx
+2024-07-29T11:05:51.837Z,31.086,-103.252,0.4089,2.3,ml,24,62,0,0.2,tx,tx2024ounp,2024-07-29T15:47:50.669Z,"24 km SW of Coyanosa, Texas",earthquake,0.9305839838440652,0.8258077317221092,0.1,14,reviewed,tx,tx
 2024-07-29T11:00:58.600Z,33.8155,-117.6351667,5.23,1.5,ml,27,59,0.02964,0.16,ci,ci40674559,2024-07-29T11:10:40.002Z,"9 km SW of Corona, CA",earthquake,0.19,0.32,0.366,23,automatic,ci,ci
 2024-07-29T10:55:03.487Z,31.675,-104.4,6.7664,1.5,ml,17,69,0,0.2,tx,tx2024oung,2024-07-29T12:16:01.993Z,"55 km S of Whites City, New Mexico",earthquake,0.7618177012159872,0.740668295778588,0.1,12,reviewed,tx,tx
 2024-07-29T10:54:51.480Z,34.5023333,-118.1176667,10.9,1.46,ml,16,64,0.01857,0.09,ci,ci40674551,2024-07-29T11:26:29.476Z,"0 km NNW of Vincent, CA",earthquake,0.17,0.26,0.29,21,automatic,ci,ci
@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T05:51:41.370Z,34.1661667,-116.7516667,12.79,1,ml,35,111,0.1387,0.12,ci,ci40674463,2024-07-29T05:58:03.633Z,"14 km SE of Big Bear City, CA",earthquake,0.16,0.38,0.152,23,automatic,ci,ci
 2024-07-29T05:40:31.274Z,60.0791,-152.6431,85.3,0.8,ml,,,,0.09,ak,ak0249p1m19z,2024-07-29T05:41:30.398Z,"52 km WNW of Happy Valley, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2024-07-29T05:39:04.620Z,33.389,-116.4261667,12.46,0.68,ml,38,57,0.07936,0.19,ci,ci40674455,2024-07-29T05:45:11.611Z,"16 km NNW of Borrego Springs, CA",earthquake,0.22,0.66,0.143,16,automatic,ci,ci
-2024-07-29T05:29:05.760Z,37.4725,-112.852333333333,19.57,4.47,ml,31,71,0.1214,0.16,uu,uu80076711,2024-07-29T15:37:54.568Z,"24 km S of Brian Head, Utah",earthquake,0.27,0.46,0.184848133533255,29,reviewed,uu,uu
+2024-07-29T05:29:05.760Z,37.4725,-112.852333333333,19.57,4.47,ml,31,71,0.1214,0.16,uu,uu80076711,2024-07-29T15:48:16.516Z,"24 km S of Brian Head, Utah",earthquake,0.27,0.46,0.184848133533255,29,reviewed,uu,uu
 2024-07-29T05:18:45.350Z,37.6253318786621,-118.871002197266,2.83999991416931,0.88,md,10,114,0.008995,0.02,nc,nc75040767,2024-07-29T06:54:24.982Z,"10 km ESE of Mammoth Lakes, CA",earthquake,0.52,1.17999995,0.09,10,automatic,nc,nc
 2024-07-29T05:04:02.630Z,33.8173333,-117.6366667,5.6,0.68,ml,12,109,0.0318,0.12,ci,ci40674431,2024-07-29T05:09:56.908Z,"9 km SW of Corona, CA",earthquake,0.32,0.49,0.304,7,automatic,ci,ci
 2024-07-29T04:52:41.501Z,60.0214,-152.232,15.6,2.6,ml,,,,1.11,ak,ak0249p1371y,2024-07-29T04:55:08.543Z,"29 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -170,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T21:34:33.340Z,19.3951663970947,-155.251998901367,1.16999995708466,2.46,ml,32,49,0.009628,0.180000007,hv,hv74371516,2024-07-28T21:37:11.550Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.180000007,0.36,18,automatic,hv,hv
 2024-07-28T21:28:19.746Z,31.677,-104.414,6.4331,1.9,ml,20,69,0,0.1,tx,tx2024otmq,2024-07-29T14:50:39.104Z,"55 km S of Whites City, New Mexico",earthquake,1.1217443806478544,1.0298568966175103,0.1,13,reviewed,tx,tx
 2024-07-28T21:26:45.149Z,35.35516667,-97.96516667,6.5,1.27,ml,35,68,0.05308958201,0.16,ok,ok2024otmo,2024-07-29T15:44:03.096Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.3,0.22,18,reviewed,ok,ok
+2024-07-28T21:15:26.589Z,35.3555,-97.97616667,6.46,1.34,ml,26,75,0.0602881694,0.29,ok,ok2024otmg,2024-07-29T15:49:56.400Z,"5 km SW of Union City, Oklahoma",earthquake,,0.7,0.23,13,reviewed,ok,ok
 2024-07-28T21:07:15.260Z,38.1353340148926,-121.923667907715,19.6800003051758,1.58,md,7,144,0.1305,0.02,nc,nc75040607,2024-07-28T22:49:26.664Z,"12 km NNE of Bay Point, CA",earthquake,0.98,1.75,0.16,7,automatic,nc,nc
 2024-07-28T21:00:13.200Z,38.1544990539551,-121.922500610352,22.25,3.32,ml,84,80,0.1286,0.24,nc,nc75040602,2024-07-29T08:17:37.047Z,"13 km SSE of Suisun City, CA",earthquake,0.39,0.310000002,0.279,38,automatic,nc,nc
 2024-07-28T20:50:31.960Z,35.35583333,-97.97616667,7.7,1.38,ml,19,117,0.0602881694,0.13,ok,ok2024otlj,2024-07-29T13:01:37.555Z,"5 km SW of Union City, Oklahoma",earthquake,,0.7,0.21,13,reviewed,ok,ok
@@ -187,7 +188,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-28T19:14:37.910Z,32.8556667,-116.2146667,11.22,1.12,ml,43,56,0.1176,0.18,ci,ci40674063,2024-07-28T19:20:54.520Z,"25 km WNW of Ocotillo, CA",earthquake,0.17,0.43,0.205,25,automatic,ci,ci
 2024-07-28T19:10:50.865Z,37.1676,-116.2412,10.2,0.6,ml,13,126.91000000000003,0.083,0.1237,nn,nn00881595,2024-07-28T19:12:52.059Z,"54 km ENE of Beatty, Nevada",earthquake,,1.5,0.31,8,automatic,nn,nn
 2024-07-28T18:52:19.910Z,35.7045,-117.524,2.75,0.78,ml,22,69,0.09061,0.16,ci,ci40674047,2024-07-28T19:02:02.338Z,"13 km WSW of Searles Valley, CA",earthquake,0.29,0.43,0.159,7,automatic,ci,ci
-2024-07-28T18:50:18.947Z,44.2355,-69.8623,8.075,2.8,mb_lg,26,123,0.359,0.27,us,us6000ngj3,2024-07-29T15:36:37.570Z,"6 km W of Gardiner, Maine",earthquake,3.72,7.395,0.069,57,reviewed,us,us
+2024-07-28T18:50:18.947Z,44.2355,-69.8623,8.075,2.8,mb_lg,26,123,0.359,0.27,us,us6000ngj3,2024-07-29T15:41:45.446Z,"6 km W of Gardiner, Maine",earthquake,3.72,7.395,0.069,57,reviewed,us,us
 2024-07-28T18:41:15.600Z,19.4793338775635,-155.726333618164,4.1100001335144,1.83,ml,27,120,0.03337,0.340000004,hv,hv74371311,2024-07-28T18:43:52.230Z,"14 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.57,1.00999999,0.89,3,automatic,hv,hv
 2024-07-28T18:40:30.920Z,31.676,-104.409,6.4086,1.7,ml,17,69,0,0.3,tx,tx2024othd,2024-07-28T19:26:30.272Z,"55 km S of Whites City, New Mexico",earthquake,0,2.66377493908869,0.1,12,automatic,tx,tx
 2024-07-28T18:39:31.973Z,61.5973,-146.3203,34.7,2.2,ml,,,,0.45,ak,ak0249nlt3zh,2024-07-28T18:41:00.618Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
