@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-07-31T06:58:02.490Z,33.2498322,-116.0080032,3.24,1.23,ml,29,130,0.03544,0.23,ci,ci40677559,2024-07-31T07:00:04.912Z,"7 km SW of Salton City, CA",earthquake,0.55,0.62,0.277,6,automatic,ci,ci
+2024-07-31T06:58:02.460Z,33.2481667,-115.9968333,4.82,1.12,ml,48,83,0.03315,0.24,ci,ci40677559,2024-07-31T07:09:00.710Z,"7 km SW of Salton City, CA",earthquake,0.25,0.51,0.203,27,automatic,ci,ci
 2024-07-31T06:54:21.210Z,36.8296661376953,-121.591003417969,1.87000000476837,1.62,md,20,53,0.07109,0.22,nc,nc75041712,2024-07-31T06:57:04.462Z,"5 km W of San Juan Bautista, CA",earthquake,0.46,1.95000005,0.16,18,automatic,nc,nc
 2024-07-31T06:49:57.254Z,36.5646,-115.485,1.8,0.5,ml,11,320.03000000000003,0.395,0.0884,nn,nn00881707,2024-07-31T06:52:04.059Z,"16 km E of Indian Springs, Nevada",earthquake,,36,0.28,8,automatic,nn,nn
 2024-07-31T06:34:11.633Z,36.4572,-115.2489,0,1.1,ml,19,325.34000000000003,0.608,0.1637,nn,nn00881705,2024-07-31T06:36:35.524Z,"29 km NW of Nellis Air Force Base, Nevada",earthquake,,38.8,0.18,14,automatic,nn,nn
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T05:38:33.770Z,33.3573333,-116.4306667,6.66,1.48,ml,80,14,0.06131,0.19,ci,ci40677511,2024-07-31T05:49:35.180Z,"12 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.142,27,automatic,ci,ci
 2024-07-31T05:37:35.394Z,32.094,-103.732,3.2666,2.1,ml,6,218,0.1,0.4,tx,tx2024oxtu,2024-07-31T06:16:34.384Z,"35 km ESE of Malaga, New Mexico",earthquake,0,5.32140456767534,0.2,6,automatic,tx,tx
 2024-07-31T05:33:17.510Z,18.2236666666667,-67.3998333333333,10.1,2.87,md,15,280,0.182,0.32,pr,pr71456583,2024-07-31T05:45:54.850Z,"19 km SW of Stella, Puerto Rico",earthquake,1.07,0.84,0.101756880605077,8,reviewed,pr,pr
-2024-07-31T05:18:03.420Z,38.7854995727539,-122.768669128418,0.159999996423721,0.97,md,11,106,0.01493,0.04,nc,nc75041692,2024-07-31T05:37:14.115Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.680000007,0.2,10,automatic,nc,nc
+2024-07-31T05:18:03.420Z,38.7854995727539,-122.768669128418,0.159999996423721,0.97,md,11,106,0.01493,0.04,nc,nc75041692,2024-07-31T07:12:15.793Z,"1 km NW of The Geysers, CA",earthquake,0.29,0.680000007,0.2,10,automatic,nc,nc
 2024-07-31T05:17:53.256Z,61.5201,-151.2756,10.9,1.6,ml,,,,0.3,ak,ak0249scjuhp,2024-07-31T05:20:11.896Z,"40 km W of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-07-31T05:06:57.672Z,36.7363,-116.1924,6.4,0.3,ml,19,65.66,0.018,0.1265,nn,nn00881704,2024-07-31T05:08:45.101Z,"50 km WNW of Indian Springs, Nevada",earthquake,,0.5,0.49,12,automatic,nn,nn
 2024-07-31T05:01:16.000Z,33.6306667,-116.6996667,-1.32,-0.02,ml,13,87,0.0652,0.32,ci,ci40677495,2024-07-31T05:07:31.295Z,"9 km NNW of Anza, CA",earthquake,0.39,26.96,0.157,7,automatic,ci,ci
@@ -218,6 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T07:27:09.950Z,19.392333984375,-155.249496459961,1.36000001430511,1.93,ml,28,43,0.007001,0.200000003,hv,hv74373796,2024-07-30T07:29:46.620Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.189999998,0.32,16,automatic,hv,hv
 2024-07-30T07:25:28.430Z,39.1971666666667,-112.043833333333,-1.17,1.42,ml,11,63,0.07397,0.13,uu,uu80076821,2024-07-30T20:33:07.470Z,"7 km SE of Scipio, Utah",earthquake,0.34,1.12,0.132522812098572,6,reviewed,uu,uu
 2024-07-30T07:16:00.560Z,32.129,-101.041,2.0752,3,ml,15,63,0.2,0.1,tx,tx2024owbn,2024-07-30T15:04:54.726Z,"25 km S of Westbrook, Texas",earthquake,1.084408224970368,2.3244783522573957,0.1,6,reviewed,tx,tx
-2024-07-30T07:10:17.710Z,34.0665,-117.2976667,16.43,2.72,ml,148,26,0.03073,0.2,ci,ci40675807,2024-07-30T21:37:05.823Z,"2 km ESE of Colton, CA",earthquake,0.11,0.23,0.148,25,automatic,ci,ci
-2024-07-30T07:08:22.730Z,48.76583333333333,-121.81183333333334,-0.7,1.24,ml,6,104,0.07966,0.25,uw,uw62022022,2024-07-30T19:03:22.250Z,"16 km SE of Glacier, Washington",earthquake,0.6,1.68,0.09282455118745625,5,reviewed,uw,uw
-2024-07-30T07:06:31.820Z,18.8695,-68.1165,97,3.7,md,11,197,0.4434,0.33,pr,pr2024212000,2024-07-30T07:31:09.281Z,"43 km NE of Punta Cana, Dominican Republic",earthquake,3.1,2.73,0.09,6,reviewed,pr,pr
