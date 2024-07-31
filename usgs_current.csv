@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-31T17:48:41.378Z,57.2224,-154.971,30.5,2.3,ml,,,,0.43,ak,ak0249sjvo15,2024-07-31T17:50:14.804Z,"49 km SW of Karluk, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2024-07-31T17:48:09.414Z,63.5911,-150.7013,9.6,1.6,ml,,,,0.85,ak,ak0249sjvlkn,2024-07-31T17:50:06.435Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-31T17:30:13.230Z,33.3373333,-116.6661667,11.63,0.5,ml,27,58,0.1274,0.14,ci,ci40678143,2024-07-31T17:36:23.637Z,"7 km NNW of Warner Springs, CA",earthquake,0.19,0.64,0.169,12,automatic,ci,ci
 2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9,122,0.2423,0.19,ci,ci40678119,2024-07-31T17:24:22.159Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19,automatic,ci,ci
 2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14,75,0.04824,0.11,ci,ci40678087,2024-07-31T17:04:08.302Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5,automatic,ci,ci
@@ -32,6 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T13:10:02.890Z,38.8199996948242,-122.823333740234,2.30999994277954,1.16,md,28,48,0.009652,0.03,nc,nc75041812,2024-07-31T14:09:26.677Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.340000004,0.18,29,automatic,nc,nc
 2024-07-31T13:02:14.060Z,19.1550006866455,-155.485992431641,31.0900001525879,1.86,ml,54,136,0.02258,0.159999996,hv,hv74376391,2024-07-31T13:04:52.300Z,"5 km S of Pāhala, Hawaii",earthquake,0.52,0.699999988,0.11,3,automatic,hv,hv
 2024-07-31T13:01:15.410Z,38.0886650085449,-122.861663818359,11.1800003051758,2.48,md,59,97,0.0579,0.15,nc,nc75041807,2024-07-31T17:37:18.966Z,"1 km SSW of Inverness, CA",earthquake,0.28,0.439999998,0.14,66,automatic,nc,nc
+2024-07-31T12:59:18.740Z,38.49,-112.897,3.05,-0.3,md,10,94,0.006715,0.19,uu,uu80076941,2024-07-31T17:45:36.120Z,"14 km NE of Milford, Utah",earthquake,0.52,0.88,0.249475224100214,4,reviewed,uu,uu
 2024-07-31T12:53:02.130Z,18.7535,-65.0315,30.4,3.02,md,10,230,0.4053,0.24,pr,pr71456653,2024-07-31T13:50:44.850Z,"46 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.93,5.81,0.0858946336272648,6,reviewed,pr,pr
 2024-07-31T12:52:45.277Z,61.9533,-152.2095,34.6,1.6,ml,,,,0.58,ak,ak0249sgxd67,2024-07-31T12:56:14.389Z,"42 km W of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-31T12:35:14.280Z,33.2758333,-116.4276667,5.05,0.51,ml,28,71,0.01164,0.17,ci,ci40677663,2024-07-31T12:41:14.534Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.37,0.13,7,automatic,ci,ci
@@ -81,10 +84,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T07:39:27.283Z,38.7604,-118.6379,1.9,1.1,ml,8,116.02000000000001,0.507,0.2918,nn,nn00881709,2024-07-31T07:42:34.354Z,"16 km NE of Walker Lake, Nevada",earthquake,,33.2,0.17,6,automatic,nn,nn
 2024-07-31T07:32:48.443Z,61.4138,-146.4843,29.6,1.2,ml,,,,0.63,ak,ak0249sdtx2k,2024-07-31T07:34:44.730Z,"32 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-31T07:27:09.290Z,19.3833332061768,-155.248672485352,0.300000011920929,1.87,ml,22,89,0.0033,0.159999996,hv,hv74375911,2024-07-31T07:29:48.150Z,"6 km SSW of Volcano, Hawaii",earthquake,0.17,0.109999999,0.23,12,automatic,hv,hv
+2024-07-31T07:25:36.440Z,51.796,-178.793166666667,6.91,0.55,ml,5,97,0.02362,0.09,av,av93216621,2024-07-31T17:51:39.300Z,"149 km W of Adak, Alaska",earthquake,0.52,0.73,0.14758097160478,5,reviewed,av,av
+2024-07-31T07:19:02.610Z,51.7835,-178.832666666667,3.86,-0.26,ml,5,136,0.01596,0.2,av,av93216616,2024-07-31T17:48:52.460Z,"151 km W of Adak, Alaska",earthquake,0.83,1.92,0.149492218461624,5,reviewed,av,av
+2024-07-31T07:17:13.230Z,51.7835,-178.794666666667,6.45,0.07,ml,5,112,0.02637,0.23,av,av93216606,2024-07-31T17:45:51.610Z,"149 km W of Adak, Alaska",earthquake,1.39,1.41,0.192374139172615,5,reviewed,av,av
 2024-07-31T06:58:02.460Z,33.2481667,-115.9968333,4.82,1.12,ml,48,83,0.03315,0.24,ci,ci40677559,2024-07-31T07:09:00.710Z,"7 km SW of Salton City, CA",earthquake,0.25,0.51,0.203,27,automatic,ci,ci
 2024-07-31T06:54:21.210Z,36.8296661376953,-121.591003417969,1.87000000476837,1.62,md,20,53,0.07109,0.22,nc,nc75041712,2024-07-31T08:59:26.568Z,"5 km W of San Juan Bautista, CA",earthquake,0.46,1.95000005,0.16,18,automatic,nc,nc
 2024-07-31T06:49:57.254Z,36.5646,-115.485,1.8,0.5,ml,11,320.03000000000003,0.395,0.0884,nn,nn00881707,2024-07-31T06:52:04.059Z,"16 km E of Indian Springs, Nevada",earthquake,,36,0.28,8,automatic,nn,nn
-2024-07-31T06:34:18.469Z,36.6114,-115.5936,4.7,0.8,ml,21,139.93,0.3,0.1206,nn,nn00881705,2024-07-31T17:43:56.328Z,"8 km NE of Indian Springs, Nevada",earthquake,,3.9,0.22,5,reviewed,nn,nn
+2024-07-31T06:34:18.421Z,36.6123,-115.5882,8,0.8,ml,22,140.67000000000002,0.304,0.1441,nn,nn00881705,2024-07-31T17:50:12.834Z,"8 km ENE of Indian Springs, Nevada",earthquake,,4.9,0.22,6,reviewed,nn,nn
 2024-07-31T06:34:05.893Z,62.5416,-149.7049,49.3,1.4,ml,,,,0.77,ak,ak0249sd8tm5,2024-07-31T06:35:53.947Z,"22 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-07-31T06:28:03.670Z,33.2459984,-116.2871704,11.07,1.17,ml,41,67,0.06,0.22,ci,ci40677551,2024-07-31T06:30:08.075Z,"8 km E of Borrego Springs, CA",earthquake,0.32,0.71,0.282,5,automatic,ci,ci
 2024-07-31T06:23:12.780Z,34.0211667,-118.8038333,2.4,2.36,ml,98,100,0.01688,0.26,ci,ci40677535,2024-07-31T14:11:53.756Z,"2 km NNE of Malibu, CA",earthquake,0.24,0.56,0.179,26,automatic,ci,ci
@@ -206,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T18:00:40.380Z,44.38633333333333,-121.04183333333333,-1.46,1.55,ml,11,128,0.2188,0.16,uw,uw62022127,2024-07-30T20:42:12.610Z,"11 km ENE of Terrebonne, Oregon",explosion,0.84,31.61,0.06369035245162458,3,reviewed,uw,uw
 2024-07-30T17:53:05.410Z,19.3715,-155.184833333333,2.35,1.77,ml,30,105,0.01666,0.12,hv,hv74374751,2024-07-30T21:18:42.590Z,"9 km SSE of Volcano, Hawaii",earthquake,0.38,0.33,0.129344803489154,8,reviewed,hv,hv
 2024-07-30T17:52:02.990Z,40.5805,-122.326833333333,13.26,1.35,md,9,87,0.04331,0.09,nc,nc75041492,2024-07-31T17:34:27.114Z,"4 km E of Redding, CA",earthquake,0.39,0.56,0.385,9,reviewed,nc,nc
-2024-07-30T17:46:16.603Z,31.675,-104.196,5.9589,1.8,ml,25,69,0.1,0.1,tx,tx2024owwl,2024-07-30T22:22:37.973Z,"55 km NW of Toyah, Texas",earthquake,0.4492548430462517,1.034112515038614,0.2,21,reviewed,tx,tx
-2024-07-30T17:45:05.873Z,78.383,-19.7286,10,5.1,mww,188,29,6.218,0.81,us,us6000ngxw,2024-07-30T18:01:46.040Z,"eastern Greenland",earthquake,8.05,1.865,0.089,12,reviewed,us,us
