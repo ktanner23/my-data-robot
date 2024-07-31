@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-07-31T11:44:38.950Z,34.3019981,-116.9625015,6.73,1.46,ml,11,71,0.05257,0.11,ci,ci40677639,2024-07-31T11:46:44.179Z,"8 km NW of Big Bear Lake, CA",earthquake,0.5,0.86,0.405,10,automatic,ci,ci
-2024-07-31T11:42:16.010Z,32.904335,-115.5186691,5.07,1.52,ml,14,159,0.03548,0.14,ci,ci40677631,2024-07-31T11:44:40.170Z,"8 km NE of Imperial, CA",earthquake,0.79,0.65,0.137,6,automatic,ci,ci
+2024-07-31T11:42:16.050Z,32.8816667,-115.5173333,5.03,1.27,ml,24,75,0.0415,0.21,ci,ci40677631,2024-07-31T11:55:58.232Z,"6 km NE of Imperial, CA",earthquake,0.41,0.46,0.257,13,automatic,ci,ci
 2024-07-31T11:40:56.635Z,63.5694,-147.2418,0,1.8,ml,,,,0.58,ak,ak0249sg9dun,2024-07-31T11:42:41.011Z,"84 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-31T11:35:00.970Z,19.1551666259766,-155.40299987793,30.4400005340576,1.76999998,md,33,182,0.05588,0.119999997,hv,hv74376266,2024-07-31T11:36:35.910Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.51,0.579999983,0.159999996,3,automatic,hv,hv
 2024-07-31T11:33:59.077Z,38.756,-118.6437,2.5,1.3,ml,9,116.91000000000003,0.514,0.1885,nn,nn00881718,2024-07-31T11:36:25.368Z,"15 km NE of Walker Lake, Nevada",earthquake,,6.9,0.1,7,automatic,nn,nn
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T06:00:26.954Z,53.3838,-163.6133,37.014,3.8,mb,45,212,1.29,1.25,us,us6000nh23,2024-07-31T07:00:19.831Z,"164 km S of False Pass, Alaska",earthquake,9.37,19.856,0.207,6,reviewed,us,us
 2024-07-31T05:54:17.340Z,19.219165802002,-155.376327514648,32.3800010681152,2.33999991,md,36,164,0.02707,0.140000001,hv,hv74375786,2024-07-31T05:55:47.390Z,"10 km E of Pāhala, Hawaii",earthquake,0.53,0.779999971,0.360000014,3,automatic,hv,hv
 2024-07-31T05:49:09.940Z,19.854,-66.5901666666667,56.92,3.42,md,18,235,1.371,0.35,pr,pr71456588,2024-07-31T06:14:04.370Z,"153 km N of Carrizales, Puerto Rico",earthquake,2.27,11.09,0.0654351355481595,14,reviewed,pr,pr
-2024-07-31T05:44:18.155Z,40.7184,-74.7725,4.742,2.2,mb_lg,32,57,0.018,0.21,us,us6000nh1u,2024-07-31T11:43:28.178Z,"5 km E of Califon, New Jersey",earthquake,1.32,3.009,0.132,15,reviewed,us,us
+2024-07-31T05:44:18.155Z,40.7184,-74.7725,4.742,2.2,mb_lg,32,57,0.018,0.21,us,us6000nh1u,2024-07-31T11:53:30.256Z,"5 km E of Califon, New Jersey",earthquake,1.32,3.009,0.132,15,reviewed,us,us
 2024-07-31T05:38:33.770Z,33.3573333,-116.4306667,6.66,1.48,ml,80,14,0.06131,0.19,ci,ci40677511,2024-07-31T05:49:35.180Z,"12 km NNW of Borrego Springs, CA",earthquake,0.13,0.4,0.142,27,automatic,ci,ci
 2024-07-31T05:37:35.394Z,32.094,-103.732,3.2666,2.1,ml,6,218,0.1,0.4,tx,tx2024oxtu,2024-07-31T06:16:34.384Z,"35 km ESE of Malaga, New Mexico",earthquake,0,5.32140456767534,0.2,6,automatic,tx,tx
 2024-07-31T05:33:17.510Z,18.2236666666667,-67.3998333333333,10.1,2.87,md,15,280,0.182,0.32,pr,pr71456583,2024-07-31T05:45:54.850Z,"19 km SW of Stella, Puerto Rico",earthquake,1.07,0.84,0.101756880605077,8,reviewed,pr,pr
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T12:31:09.133Z,39.3187,-119.952,9,0.4,ml,4,175.30000000000004,0.07,0.0166,nn,nn00881690,2024-07-30T17:47:32.060Z,"7 km NNE of Incline Village, Nevada",earthquake,,3.6,0.19,3,reviewed,nn,nn
 2024-07-30T12:25:06.159Z,-24.441,-177.117,10,4.9,mb,40,121,4.839,0.63,us,us6000ngvu,2024-07-30T12:52:38.040Z,"south of the Fiji Islands",earthquake,6.15,1.873,0.08,49,reviewed,us,us
 2024-07-30T12:04:50.660Z,19.1529998779297,-155.485000610352,31.1700000762939,1.84000003,md,37,190,0.02177,0.129999995,hv,hv74374171,2024-07-30T12:06:35.740Z,"5 km S of Pāhala, Hawaii",earthquake,0.68,0.569999993,0.140000001,4,automatic,hv,hv
-2024-07-30T11:55:40.295Z,32.766,-100.664,8.1299,2,ml,16,52,0.1,0.1,tx,tx2024owku,2024-07-30T14:54:30.514Z,"17 km NNE of Hermleigh, Texas",earthquake,0.66466770602705,1.0641924972335135,0.1,12,reviewed,tx,tx
