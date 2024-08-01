@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T07:47:39.432Z,36.6794,-116.2788,8,-0.2,ml,9,149.45,0.059,0.1381,nn,nn00881762,2024-08-01T07:49:19.606Z,"49 km ESE of Beatty, Nevada",earthquake,,1.2,0.39,6,automatic,nn,nn
 2024-08-01T07:43:09.692Z,59.8041,-152.169,62.7,1.7,ml,,,,0.46,ak,ak0249u1fjg9,2024-08-01T07:45:02.602Z,"19 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-01T07:39:22.480Z,32.4273333,-115.173,11.65,2.57,ml,37,55,0.05794,0.33,ci,ci40679055,2024-08-01T07:50:10.260Z,"8 km NNE of Delta, B.C., MX",earthquake,0.37,0.79,0.25,27,automatic,ci,ci
-2024-08-01T07:27:18.820Z,33.4946667,-116.565,11.86,0.47,ml,25,47,0.03109,0.12,ci,ci40679039,2024-08-01T07:33:36.260Z,"12 km ESE of Anza, CA",earthquake,0.19,0.35,0.114,6,automatic,ci,ci
+2024-08-01T07:27:18.820Z,33.4946667,-116.565,11.86,0.47,ml,25,47,0.03109,0.12,ci,ci40679039,2024-08-01T16:45:18.579Z,"12 km ESE of Anza, CA",earthquake,0.19,0.35,0.114,6,reviewed,ci,ci
 2024-08-01T07:25:38.701Z,66.0269,-150.2707,0,1.9,ml,,,,0.59,ak,ak0249u1bqsu,2024-08-01T07:27:24.911Z,"53 km W of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-01T07:24:48.469Z,65.9987,-150.0968,0.1,1.5,ml,,,,0.88,ak,ak0249u1bju6,2024-08-01T07:26:29.935Z,"45 km W of Stevens Village, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-01T07:18:14.021Z,61.807,-150.5512,27.9,1.3,ml,,,,0.31,ak,ak0249u1a6cg,2024-08-01T07:21:12.970Z,"27 km WNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-01T01:10:54.840Z,46.8645,-112.536666666667,9.6,1.02,ml,9,101,0.05493,0.06,mb,mb90058418,2024-08-01T14:54:59.750Z,"14 km SE of Lincoln, Montana",earthquake,0.44,0.59,0.270763723589155,5,reviewed,mb,mb
 2024-08-01T01:02:58.450Z,32.6443333,-115.7178333,9.67,1.64,ml,38,54,0.008765,0.29,ci,ci40678831,2024-08-01T01:13:22.980Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.36,0.6,0.329,28,automatic,ci,ci
 2024-08-01T01:02:34.820Z,19.3020000457764,-155.215835571289,0.5,2.01,ml,47,101,0.02227,0.209999993,hv,hv74377481,2024-08-01T01:05:14.390Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.280000001,0.37,8,automatic,hv,hv
-2024-08-01T01:01:21.990Z,33.3045,-116.2501667,3.8,1.19,ml,60,36,0.0762,0.2,ci,ci40678823,2024-08-01T01:12:19.600Z,"13 km ENE of Borrego Springs, CA",earthquake,0.17,0.64,0.186,26,automatic,ci,ci
+2024-08-01T01:01:21.990Z,33.3045,-116.2501667,3.8,1.19,ml,60,36,0.0762,0.2,ci,ci40678823,2024-08-01T16:42:31.600Z,"13 km ENE of Borrego Springs, CA",earthquake,0.17,0.64,0.186,26,reviewed,ci,ci
 2024-08-01T00:51:48.480Z,19.378999710083,-155.259506225586,0.330000013113022,1.7,ml,12,101,0.008283,0.119999997,hv,hv74377461,2024-08-01T00:54:26.810Z,"7 km SSW of Volcano, Hawaii",earthquake,0.17,0.219999999,0.3,8,automatic,hv,hv
 2024-08-01T00:51:32.690Z,19.3763332366943,-155.218505859375,2.59999990463257,2.11,ml,8,150,0.003805,0.0900000036,hv,hv74377466,2024-08-01T00:54:31.810Z,"7 km SSE of Volcano, Hawaii",earthquake,1.03,0.670000017,0.51,8,automatic,hv,hv
 2024-08-01T00:29:09.590Z,40.2941666666667,-122.086333333333,8.35,2.01,md,25,70,0.09068,0.12,nc,nc75042057,2024-08-01T12:09:27.692Z,"18 km NE of Red Bluff, CA",earthquake,0.3,0.85,0.244,27,reviewed,nc,nc
@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-31T17:26:47.780Z,38.4956666666667,-112.899333333333,2.86,0.29,md,11,131,0.01158,0.1,uu,uu80076966,2024-07-31T19:51:55.270Z,"14 km NE of Milford, Utah",earthquake,0.34,0.57,0.176073434679317,4,reviewed,uu,uu
 2024-07-31T17:18:09.290Z,32.8735,-116.2225,7.58,1.22,ml,9,122,0.2423,0.19,ci,ci40678119,2024-08-01T00:02:25.524Z,"26 km NW of Ocotillo, CA",earthquake,0.42,15.99,0.302,19,automatic,ci,ci
 2024-07-31T16:58:05.600Z,35.596,-117.4041667,6.59,0.69,ml,14,75,0.04824,0.11,ci,ci40678087,2024-07-31T19:19:54.442Z,"19 km S of Trona, CA",earthquake,0.19,0.34,0.263,5,reviewed,ci,ci
-2024-07-31T16:45:21.040Z,55.5798333333333,-161.7825,8.17,2.56,ml,10,224,0.1299,0.24,av,av93216976,2024-07-31T23:39:09.160Z,"59 km SW of Nelson Lagoon, Alaska",earthquake,1,0.79,0.335833260283795,17,reviewed,av,av
-2024-07-31T16:43:01.017Z,37.1245,-117.3849,9,0.3,ml,12,124.25,0.129,0.1169,nn,nn00881728,2024-07-31T19:07:01.935Z,"60 km WNW of Beatty, Nevada",earthquake,,2.6,0,1,reviewed,nn,nn
