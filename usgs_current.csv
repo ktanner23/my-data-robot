@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-03T16:31:59.820Z,33.0731667,-116.4123333,6.16,1.3,ml,60,42,0.02211,0.18,ci,ci40860928,2024-08-03T16:38:21.916Z,"18 km E of Julian, CA",earthquake,0.15,0.49,0.176,25,automatic,ci,ci
+2024-08-03T16:31:59.820Z,33.0731667,-116.4123333,6.16,1.3,ml,60,42,0.02211,0.18,ci,ci40860928,2024-08-03T16:43:02.150Z,"18 km E of Julian, CA",earthquake,0.15,0.49,0.176,25,automatic,ci,ci
 2024-08-03T16:20:29.325Z,64.6404,-146.8507,0.2,1.2,ml,,,,0.43,ak,ak0249xhq8xg,2024-08-03T16:22:26.458Z,"10 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-03T16:11:07.460Z,35.8736667,-117.7245,9.47,0.84,ml,18,48,0.07278,0.12,ci,ci40860912,2024-08-03T16:16:53.402Z,"18 km ESE of Little Lake, CA",earthquake,0.18,0.49,0.184,12,automatic,ci,ci
 2024-08-03T16:04:40.160Z,33.2356667,-116.0403333,3.31,0.86,ml,43,60,0.06362,0.21,ci,ci40860904,2024-08-03T16:10:49.432Z,"10 km SW of Salton City, CA",earthquake,0.16,0.36,0.104,20,automatic,ci,ci
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T13:49:09.490Z,38.83,-122.81,2.97,0.77,md,10,102,0.002998,0.01,nc,nc75043067,2024-08-03T14:39:23.280Z,"7 km NNW of The Geysers, CA",earthquake,0.5,1.5,0.14,12,automatic,nc,nc
 2024-08-03T13:47:32.878Z,31.614,-104.122,4.4211,2.1,ml,17,57,0,0.3,tx,tx2024pdwl,2024-08-03T14:16:54.417Z,"45 km NW of Toyah, Texas",earthquake,0,1.32063041335665,0.2,13,automatic,tx,tx
 2024-08-03T13:27:28.771Z,31.616,-104.122,4.4081,1.7,ml,16,57,0,0.2,tx,tx2024pdvu,2024-08-03T13:40:38.155Z,"45 km NW of Toyah, Texas",earthquake,0,1.3008963960655,0.2,13,automatic,tx,tx
-2024-08-03T13:18:22.450Z,46.84400177001953,-121.76983642578125,-1.3400000333786,0.769999981,md,21,65,,0.0599999987,uw,uw62031786,2024-08-03T13:20:04.450Z,"22 km ENE of Ashford, Washington",earthquake,0.24,9.68999958,,1,automatic,uw,uw
+2024-08-03T13:18:22.270Z,46.84766666666667,-121.76083333333334,1.7,0.8,ml,14,82,0.02259,0.05,uw,uw62031786,2024-08-03T16:47:35.200Z,"22 km ENE of Ashford, Washington",earthquake,0.24,0.67,0.12566970608861905,8,reviewed,uw,uw
 2024-08-03T13:12:35.280Z,18.6563,-64.979,92,3.65,md,19,220,0.3034,0.24,pr,pr2024216000,2024-08-03T13:54:10.040Z,"35 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.26,1.53,0.22,15,reviewed,pr,pr
 2024-08-03T12:59:24.320Z,19.3955001831055,-155.247833251953,1.32000005245209,2.37,ml,33,45,0.01047,0.200000003,hv,hv74382436,2024-08-03T13:02:03.210Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.200000003,0.36,21,automatic,hv,hv
 2024-08-03T12:55:49.210Z,19.1544990539551,-155.492340087891,31.4899997711182,1.96000004,md,47,136,0.02859,0.119999997,hv,hv74382426,2024-08-03T12:57:37.260Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.52,0.550000012,0.159999996,8,automatic,hv,hv
@@ -224,7 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T19:07:46.499Z,-8.2438,156.4017,4.343,5,mb,79,53,3.7,0.69,us,us6000nhnm,2024-08-02T19:25:43.040Z,"50 km WSW of Gizo, Solomon Islands",earthquake,8.06,4.532,0.064,82,reviewed,us,us
 2024-08-02T19:01:10.481Z,37.2296,-117.6905,12.8,0.9,ml,9,184.90000000000003,0.036,0.1126,nn,nn00881835,2024-08-02T21:08:22.603Z,"53 km E of Big Pine, California",earthquake,,1,0.09,3,reviewed,nn,nn
 2024-08-02T18:55:00.960Z,33.2286667,-116.0453333,3.55,1.55,ml,51,58,0.07152,0.18,ci,ci40859616,2024-08-02T22:25:19.870Z,"11 km SW of Salton City, CA",earthquake,0.14,0.35,0.15,23,reviewed,ci,ci
-2024-08-02T18:51:46.752Z,31.618,-104.114,6.2665,2.7,ml,54,53,0,0.2,tx,tx2024pcla,2024-08-02T19:03:43.850Z,"45 km NW of Toyah, Texas",earthquake,0.5009789382563198,0.4905940171557262,0.1,22,reviewed,tx,tx
+2024-08-02T18:51:46.752Z,31.618,-104.114,6.2665,2.7,ml,54,53,0,0.2,tx,tx2024pcla,2024-08-03T16:45:57.040Z,"45 km NW of Toyah, Texas",earthquake,0.5009789382563198,0.4905940171557262,0.1,22,reviewed,tx,tx
 2024-08-02T18:42:15.350Z,33.2295,-116.045,3.62,2.61,ml,78,23,0.07073,0.18,ci,ci40859592,2024-08-03T16:25:00.238Z,"11 km SW of Salton City, CA",earthquake,0.12,0.31,0.154,24,reviewed,ci,ci
 2024-08-02T18:39:58.660Z,33.2255,-116.0438333,3.62,3.44,ml,97,20,0.07298,0.19,ci,ci40859584,2024-08-03T16:23:17.040Z,"12 km SW of Salton City, CA",earthquake,0.11,0.33,0.13,299,reviewed,ci,ci
 2024-08-02T18:31:54.250Z,47.873,-122.71183333333333,-0.03,1.6300000000000001,ml,9,88,0.1018,0.43,uw,uw62031591,2024-08-02T20:17:51.870Z,"6 km SSW of Port Ludlow, Washington",explosion,0.87,31.61,0.20061287970966335,6,reviewed,uw,uw
@@ -254,5 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-02T17:00:37.379Z,-6.9858,129.3886,123.799,4.5,mb,30,86,4.943,0.8,us,us6000nhm7,2024-08-02T18:27:40.040Z,"Banda Sea",earthquake,6.68,8.11,0.106,29,reviewed,us,us
 2024-08-02T16:55:25.220Z,35.8696667,-117.7221667,8.66,2.07,ml,27,50,0.07016,0.13,ci,ci40859376,2024-08-02T19:53:55.800Z,"18 km ESE of Little Lake, CA",earthquake,0.16,0.47,0.161,25,reviewed,ci,ci
 2024-08-02T16:55:08.980Z,38.8224983215332,-122.851997375488,2.36999988555908,0.83,md,15,113,0.006317,0.01,nc,nc75042737,2024-08-02T18:29:30.201Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.529999971,0.16,17,automatic,nc,nc
-2024-08-02T16:48:11.490Z,65.1292,-148.5532,15.6,1.1,ml,,,,0.18,ak,ak0249vucv3x,2024-08-02T16:49:35.615Z,"37 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-08-02T16:44:05.830Z,32.3508333,-115.3435,15.19,1.93,ml,21,58,0.07582,0.18,ci,ci40859352,2024-08-02T19:49:33.339Z,"14 km W of Delta, B.C., MX",earthquake,0.28,0.72,0.309,14,reviewed,ci,ci
