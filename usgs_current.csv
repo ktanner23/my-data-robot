@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T19:14:55.151Z,40.2427,-119.7241,9.2,1.6,ml,7,236.29000000000002,0.073,0.1454,nn,nn00881946,2024-08-05T20:39:07.767Z,"34 km NNW of Sutcliffe, Nevada",earthquake,,1.9,0.39,5,reviewed,nn,nn
 2024-08-05T19:07:52.400Z,38.83,-122.8,2.08,0.82,md,16,49,0.01027,0.02,nc,nc75043947,2024-08-05T19:09:27.168Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.529999971,0.23,19,automatic,nc,nc
 2024-08-05T19:07:45.420Z,39.84,-123.51,3.55,1.73,md,17,78,0.03848,0.06,nc,nc75043942,2024-08-05T20:22:15.978Z,"17 km N of Laytonville, CA",earthquake,0.27,0.769999981,0.13,8,automatic,nc,nc
-2024-08-05T19:03:00.057Z,16.9087,-93.8167,145.989,5.4,mww,99,79,1.727,1.12,us,us6000ni8h,2024-08-05T20:47:27.632Z,"13 km NNW of Francisco I. Madero, Mexico",earthquake,8.24,5.045,0.043,51,reviewed,us,us
+2024-08-05T19:03:00.057Z,16.9087,-93.8167,145.989,5.4,mww,99,79,1.727,1.12,us,us6000ni8h,2024-08-05T21:06:33.960Z,"13 km NNW of Francisco I. Madero, Mexico",earthquake,8.24,5.045,0.043,51,reviewed,us,us
 2024-08-05T18:57:21.680Z,38.8,-122.8,0.1,1.33,md,18,76,0.007221,0.04,nc,nc75043937,2024-08-05T20:09:26.039Z,"4 km NW of The Geysers, CA",earthquake,0.19,0.430000007,0.17,18,automatic,nc,nc
 2024-08-05T18:56:45.060Z,33.4688333,-116.4406667,7.7,0.77,ml,34,75,0.05584,0.22,ci,ci40863224,2024-08-05T19:07:09.791Z,"24 km ESE of Anza, CA",earthquake,0.26,0.69,0.163,19,automatic,ci,ci
 2024-08-05T18:56:39.710Z,38.8,-122.8,0.39,0.84,md,11,107,0.008546,0.03,nc,nc75043932,2024-08-05T18:58:16.887Z,"4 km NW of The Geysers, CA",earthquake,0.33,0.579999983,0.23,11,automatic,nc,nc
@@ -114,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T07:55:11.210Z,63.1749,-152.2217,0,1.9,ml,,,,0.96,ak,ak024a0nni4x,2024-08-05T15:37:35.759Z,"47 km SSW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-05T07:48:48.503Z,64.902,-148.894,17.7,0.9,ml,,,,0.69,ak,ak024a0nm302,2024-08-05T07:50:54.772Z,"35 km SE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-08-05T07:36:59.249Z,58.2616,-154.1681,76.8,1.7,ml,,,,0.26,ak,ak024a0njj8k,2024-08-05T07:38:29.436Z,"77 km WNW of Aleneva, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-05T07:36:20.340Z,34.0638333,-117.3031667,16.26,0.76,ml,41,62,0.09233,0.15,ci,ci40862536,2024-08-05T07:42:43.416Z,"2 km SE of Colton, CA",earthquake,0.21,0.39,0.256,15,automatic,ci,ci
+2024-08-05T07:36:20.360Z,34.067,-117.2991667,16.34,0.68,ml,35,62,0.09689,0.16,ci,ci40862536,2024-08-05T21:04:32.228Z,"2 km ESE of Colton, CA",earthquake,0.23,0.52,0.175,7,reviewed,ci,ci
 2024-08-05T07:19:01.219Z,37.0039,-116.3844,8.5,0.4,ml,21,90.85,0.02,0.1524,nn,nn00881919,2024-08-05T17:44:53.197Z,"35 km ENE of Beatty, Nevada",earthquake,,1.1,0.22,8,reviewed,nn,nn
 2024-08-05T07:12:29.600Z,37.42,-118.88,4.15,0.52,md,13,211,0.1719,0.05,nc,nc75043737,2024-08-05T18:59:26.338Z,"24 km WSW of Toms Place, CA",earthquake,0.88,4.43,0.122,8,reviewed,nc,nc
 2024-08-05T06:59:52.780Z,35.1076667,-119.1046667,12.03,1.43,ml,31,57,0.05186,0.22,ci,ci40862520,2024-08-05T20:49:09.598Z,"24 km SW of Lamont, CA",earthquake,0.31,0.59,0.245,19,reviewed,ci,ci
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T06:33:21.050Z,44.3078333333333,-115.175,9.12,2.02,ml,12,66,0.3105,0.26,mb,mb90058683,2024-08-05T13:30:05.320Z,"21 km WNW of Stanley, Idaho",earthquake,0.6,1.4,0.15597530427287,18,reviewed,mb,mb
 2024-08-05T06:32:01.830Z,19.2601661682129,-155.401504516602,30.5100002288818,2.03999996,md,28,103,0.02286,0.129999995,hv,hv74385631,2024-08-05T06:42:13.666Z,"10 km NE of Pāhala, Hawaii",earthquake,0.56,0.680000007,0.180000007,4,automatic,hv,hv
 2024-08-05T06:23:35.640Z,38.83,-122.81,1.91,0.7,md,8,112,0.004352,0.01,nc,nc75043712,2024-08-05T06:54:23.936Z,"7 km NNW of The Geysers, CA",earthquake,0.48,1.34000003,0.21,9,automatic,nc,nc
+2024-08-05T06:13:40.409Z,51.7191,-176.0702,127.5,2.4,ml,,,,0.28,ak,ak024a0mt5sc,2024-08-05T20:56:04.232Z,"42 km ESE of Adak, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-08-05T06:03:36.850Z,38.83,-122.77,1.87,1.1,md,16,125,0.006601,0.03,nc,nc75043707,2024-08-05T09:47:14.963Z,"4 km WNW of Cobb, CA",earthquake,0.3,0.540000021,0.14,17,automatic,nc,nc
 2024-08-05T05:39:38.610Z,33.3395,-116.813,6.61,0.31,ml,26,49,0.04388,0.16,ci,ci40862504,2024-08-05T20:42:16.493Z,"5 km ESE of Palomar Observatory, CA",earthquake,0.21,0.4,0.145,8,reviewed,ci,ci
 2024-08-05T05:37:59.920Z,37.0542,-116.4281,8.5,-0.1,ml,11,95.32,0.036,0.0993,nn,nn00881914,2024-08-05T13:58:05.329Z,"33 km ENE of Beatty, Nevada",earthquake,,1.4,0.45,4,reviewed,nn,nn
@@ -210,5 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T21:14:46.635Z,61.1972,-148.08,3.8,0.8,ml,,,,0.95,ak,ak0249z87ie9,2024-08-04T21:17:13.656Z,"53 km ESE of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-04T21:07:33.310Z,19.3918333333333,-155.246333333333,1.73,2.91,ml,30,58,0.007851,0.1,hv,hv74384826,2024-08-05T19:08:46.140Z,"5 km SSW of Volcano, Hawaii",earthquake,0.15,0.13,0.381543810667531,22,reviewed,hv,hv
 2024-08-04T21:07:31.000Z,19.3928337097168,-155.250335693359,1.13999998569489,2.69,ml,23,53,0.007343,0.270000011,hv,hv74384821,2024-08-04T21:10:12.370Z,"5 km SSW of Volcano, Hawaii",earthquake,0.27,0.170000002,0.44,28,automatic,hv,hv
-2024-08-04T21:05:55.710Z,19.3920001983643,-155.251159667969,2.07999992370605,1.80999994,md,12,91,0.006458,0.239999995,hv,hv74384816,2024-08-04T21:07:32.220Z,"5 km SSW of Volcano, Hawaii",earthquake,0.4,0.639999986,0.200000003,8,automatic,hv,hv
-2024-08-04T21:01:33.269Z,60.8089,-146.4695,18.1,3.1,ml,,,,0.66,ak,ak0249z84p55,2024-08-04T21:03:22.548Z,"12 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
