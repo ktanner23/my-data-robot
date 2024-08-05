@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-05T18:02:39.760Z,32.8966675,-115.512001,10.04,1.62,ml,17,128,0.04126,0.25,ci,ci40863112,2024-08-05T18:04:44.795Z,"8 km NE of Imperial, CA",earthquake,0.74,0.84,0.34,14,automatic,ci,ci
+2024-08-05T18:02:39.800Z,32.8898333,-115.5145,8.41,1.53,ml,22,72,0.04057,0.18,ci,ci40863112,2024-08-05T18:10:01.822Z,"7 km NE of Imperial, CA",earthquake,0.32,0.52,0.232,28,automatic,ci,ci
 2024-08-05T17:52:18.370Z,36.10266667,-97.83666667,5.54,1.49,ml,81,35,0.1169770451,0.17,ok,ok2024phvn,2024-08-05T18:09:39.808Z,"5 km E of Hennessey, Oklahoma",earthquake,,0.3,0.22,33,reviewed,ok,ok
-2024-08-05T17:38:44.000Z,38.11,-122.1,5.26,2.1,md,9,213,0.04118,0.08,nc,nc75043882,2024-08-05T17:54:01.370Z,"9 km NE of Benicia, CA",earthquake,0.92,0.579999983,0.19,10,automatic,nc,nc
+2024-08-05T17:38:44.000Z,38.11,-122.1,5.26,2.1,md,9,213,0.04118,0.08,nc,nc75043882,2024-08-05T18:09:27.149Z,"9 km NE of Benicia, CA",earthquake,0.92,0.579999983,0.19,10,automatic,nc,nc
 2024-08-05T17:28:31.860Z,38.81,-122.82,2.81,1.04,md,19,61,0.006915,0.02,nc,nc75043877,2024-08-05T17:57:16.075Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.460000008,0.21,21,automatic,nc,nc
 2024-08-05T17:19:26.920Z,36.225,-118.0256667,2.53,0.74,ml,17,149,0.1749,0.19,ci,ci40863048,2024-08-05T17:25:27.371Z,"7 km SSW of Olancha, CA",earthquake,0.41,0.88,0.221,7,automatic,ci,ci
 2024-08-05T17:18:08.890Z,19.2586669921875,-155.38932800293,29.3899993896484,1.83000004,md,30,118,0.02242,0.180000007,hv,hv74386296,2024-08-05T17:20:10.780Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.88,0.74000001,0.280000001,4,automatic,hv,hv
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T09:08:03.215Z,37.0043,-116.3812,9.1,2.1,ml,35,45.5,0.023,0.1523,nn,nn00881924,2024-08-05T14:13:29.479Z,"35 km ENE of Beatty, Nevada",earthquake,,1.2,0.23,14,reviewed,nn,nn
 2024-08-05T09:01:05.460Z,35.0386667,-116.981,1.72,2.15,ml,35,53,0.1635,0.14,ci,ci40862576,2024-08-05T14:12:39.130Z,"16 km NNE of Barstow, CA",earthquake,0.15,0.41,0.122,26,reviewed,ci,ci
 2024-08-05T08:59:44.733Z,31.673,-104.377,4.2238,1.9,ml,18,69,0,0.1,tx,tx2024phdz,2024-08-05T09:22:41.927Z,"55 km S of Whites City, New Mexico",earthquake,0,1.2449330152546403,0.2,13,automatic,tx,tx
-2024-08-05T08:56:57.599Z,31.679,-104.38,5.741,3.2,ml,55,59,0,0.1,tx,tx2024phdx,2024-08-05T17:54:19.633Z,"55 km S of Whites City, New Mexico",earthquake,0.6614967629555223,0.9024560853671338,0.1,31,reviewed,tx,tx
+2024-08-05T08:56:57.602Z,31.678,-104.379,5.5872,3.1,ml,51,58,0.1,0.1,tx,tx2024phdx,2024-08-05T18:12:01.872Z,"55 km S of Whites City, New Mexico",earthquake,0.6695483964852962,0.9224177100026943,0.1,28,reviewed,tx,tx
 2024-08-05T08:50:00.550Z,34.7913333,-116.4446667,2.1,1.35,ml,20,68,0.09391,0.13,ci,ci40862568,2024-08-05T14:12:09.352Z,"27 km WNW of Ludlow, CA",earthquake,0.26,0.32,0.157,16,reviewed,ci,ci
 2024-08-05T08:46:02.785Z,31.666,-104.376,4.1631,2.2,ml,17,69,0,0.2,tx,tx2024phdn,2024-08-05T09:22:35.945Z,"56 km S of Whites City, New Mexico",earthquake,0,1.34929656669662,0.1,13,automatic,tx,tx
 2024-08-05T08:33:56.290Z,38.81,-122.82,2.78,0.78,md,16,85,0.008584,0.02,nc,nc75043752,2024-08-05T08:52:13.600Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.680000007,0.26,18,automatic,nc,nc
@@ -185,5 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T18:55:41.395Z,66.2072,-157.1772,16.7,1.4,ml,,,,1.5,ak,ak0249z6nzmq,2024-08-04T18:58:31.885Z,"66 km NNW of Huslia, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-04T18:55:40.229Z,3.8773,63.3619,10,5.1,mb,106,67,10.195,1.04,us,us6000ni2p,2024-08-04T19:13:57.040Z,"Carlsberg Ridge",earthquake,10.22,1.864,0.048,138,reviewed,us,us
 2024-08-04T18:46:48.649Z,66.302,-156.959,0,1.7,ml,,,,1.22,ak,ak0249z6m2qg,2024-08-04T18:49:57.030Z,"65 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-04T18:15:24.390Z,38.83,-122.81,2.1,0.75,md,17,50,0.01098,0.01,nc,nc75043522,2024-08-04T19:24:25.387Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.460000008,0.32,18,automatic,nc,nc
-2024-08-04T18:09:54.280Z,45.71033333333333,-122.99783333333333,17.07,1.33,ml,21,72,0.1035,0.1,uw,uw62032196,2024-08-05T15:31:15.979Z,"10 km WSW of Scappoose, Oregon",earthquake,0.25,0.47,0.14242217624511289,9,reviewed,uw,uw
