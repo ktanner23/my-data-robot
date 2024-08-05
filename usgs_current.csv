@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T14:28:12.380Z,32.899,-115.511,8.51,1.66,ml,30,71,0.04189,0.24,ci,ci40862776,2024-08-05T14:34:44.130Z,"8 km NE of Imperial, CA",earthquake,0.37,0.67,0.251,29,automatic,ci,ci
 2024-08-05T14:23:52.910Z,19.3703327178955,-155.244003295898,0.159999996423721,1.90999997,md,18,138,0.004542,0.129999995,hv,hv74386161,2024-08-05T14:25:17.770Z,"8 km S of Volcano, Hawaii",earthquake,0.16,0.159999996,0.409999996,14,automatic,hv,hv
 2024-08-05T14:15:09.120Z,33.9763333,-116.9675,2.54,0.79,ml,33,67,0.1198,0.17,ci,ci40862768,2024-08-05T14:21:21.862Z,"5 km N of Beaumont, CA",earthquake,0.22,0.79,0.066,17,automatic,ci,ci
-2024-08-05T14:12:13.620Z,35.8321666666667,-83.5435,17.44,2.51,md,17,65,0.2557,0.21,se,se60588556,2024-08-05T16:05:09.390Z,"4 km SSE of Sevierville, Tennessee",earthquake,0.35,1.51,0.0885607671171034,16,reviewed,se,se
+2024-08-05T14:12:13.620Z,35.8321666666667,-83.5435,17.44,2.51,md,17,65,0.2557,0.21,se,se60588556,2024-08-05T18:49:18.443Z,"4 km SSE of Sevierville, Tennessee",earthquake,0.35,1.51,0.0885607671171034,16,reviewed,se,se
 2024-08-05T13:56:28.583Z,38.7503,-118.6361,8.9,2.3,ml,8,69.38,0.51,0.0972,nn,nn00881933,2024-08-05T15:51:29.944Z,"15 km NE of Walker Lake, Nevada",earthquake,,5.7,0.27,5,reviewed,nn,nn
 2024-08-05T13:49:24.690Z,33.227,-116.0433333,3.36,1.53,ml,58,58,0.07663,0.23,ci,ci40862744,2024-08-05T14:00:04.450Z,"11 km SW of Salton City, CA",earthquake,0.2,0.47,0.159,28,automatic,ci,ci
 2024-08-05T13:47:46.740Z,38.84,-122.84,1.77,0.76,md,18,73,0.0009604,0.03,nc,nc75043812,2024-08-05T15:09:33.045Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.479999989,0.28,19,automatic,nc,nc
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T12:46:06.300Z,36.0751667,-117.6383333,2.15,1.26,ml,22,112,0.1143,0.15,ci,ci40862704,2024-08-05T14:41:53.655Z,"28 km E of Coso Junction, CA",earthquake,0.23,0.31,0.238,16,reviewed,ci,ci
 2024-08-05T12:44:01.936Z,-6.5436,103.4596,21.891,5.1,mww,76,83,2.226,1.27,us,us6000ni63,2024-08-05T13:55:23.394Z,"234 km WSW of Bandar Lampung, Indonesia",earthquake,7.06,5.439,0.11,8,reviewed,us,us
 2024-08-05T12:37:03.502Z,61.3226,-150.5787,26.8,2.2,ml,,,,0.31,ak,ak024a0qisoe,2024-08-05T12:38:36.046Z,"24 km S of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-05T12:31:00.981Z,36.8366,-117.5068,9.2,0.5,ml,8,299.53,0.195,0.299,nn,nn00881931,2024-08-05T12:33:09.681Z,"50 km NE of Keeler, California",earthquake,,2.7,0.42,5,automatic,nn,nn
+2024-08-05T12:31:01.907Z,36.8542,-117.4554,11.2,0.7,ml,12,224.56,0.159,0.1335,nn,nn00881931,2024-08-05T18:46:08.846Z,"55 km NE of Keeler, California",earthquake,,3.5,0.05,2,reviewed,nn,nn
 2024-08-05T12:29:12.300Z,38.82,-122.81,2.72,0.92,md,20,46,0.007702,0.01,nc,nc75043802,2024-08-05T14:14:26.698Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.519999981,0.2,21,automatic,nc,nc
 2024-08-05T12:04:40.260Z,31.671,-104.375,6.4459,1.7,ml,31,57,0.1,0.1,tx,tx2024phkb,2024-08-05T18:30:40.363Z,"55 km S of Whites City, New Mexico",earthquake,0.4620293715346071,0.5874032158087846,0.2,31,reviewed,tx,tx
 2024-08-05T12:01:47.040Z,19.2035007476807,-155.502838134766,30.9699993133545,2.3900001,md,30,120,0.0614,0.170000002,hv,hv74385971,2024-08-05T12:03:23.580Z,"2 km W of Pāhala, Hawaii",earthquake,0.85,1.38,0.100000001,3,automatic,hv,hv
@@ -50,9 +50,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T11:44:44.080Z,36.63,-121.29,7.7,1.51,md,15,84,0.0293,0.2,nc,nc75043797,2024-08-05T13:47:16.526Z,"17 km S of Tres Pinos, CA",earthquake,0.59,1.32000005,0.28,10,automatic,nc,nc
 2024-08-05T11:44:01.240Z,38.8,-122.85,-0.78,0.93,md,9,185,0.01096,0.24,nc,nc75043792,2024-08-05T13:22:13.370Z,"8 km WNW of The Geysers, CA",earthquake,1.33,4.73999977,0.33,8,automatic,nc,nc
 2024-08-05T11:37:20.773Z,61.9972,-147.4927,34.4,1.7,ml,,,,0.49,ak,ak024a0pxeel,2024-08-05T11:38:49.786Z,"18 km WNW of Eureka Roadhouse, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-08-05T11:35:26.926Z,31.629,-104.507,8.2532,2,ml,22,73,0,0.1,tx,tx2024phjc,2024-08-05T18:44:38.459Z,"61 km SSW of Whites City, New Mexico",earthquake,0.982528179716686,0.528568382713602,0.2,30,reviewed,tx,tx
 2024-08-05T11:35:18.130Z,37.63,-119.04,2.35,0.34,md,8,132,0.0202,0.04,nc,nc75043787,2024-08-05T12:54:26.185Z,"6 km W of Mammoth Lakes, CA",earthquake,0.67,1.98000002,0.11,4,automatic,nc,nc
 2024-08-05T11:34:39.519Z,61.9098,-150.9818,67.3,1.5,ml,,,,0.41,ak,ak024a0pwspb,2024-08-05T11:36:58.315Z,"23 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-05T11:27:29.400Z,19.3751659393311,-155.184005737305,1.53999996185303,1.97,ml,38,120,0.01452,0.280000001,hv,hv74385926,2024-08-05T11:30:06.990Z,"9 km SE of Volcano, Hawaii",earthquake,0.5,0.389999986,0.18,9,automatic,hv,hv
+2024-08-05T11:27:29.330Z,19.3695,-155.179666666667,1.78,1.79,ml,31,89,0.01392,0.12,hv,hv74385926,2024-08-05T18:43:41.330Z,"9 km SE of Volcano, Hawaii",earthquake,0.39,0.27,0.0882754895187616,6,reviewed,hv,hv
 2024-08-05T11:15:55.310Z,48.3185,-122.09566666666667,11.5,0.73,ml,10,113,0.113,0.12,uw,uw62032416,2024-08-05T16:53:53.910Z,"5 km W of Lake Cavanaugh, Washington",earthquake,0.39,0.7,0.12651768168503996,4,reviewed,uw,uw
 2024-08-05T11:09:26.087Z,61.6313,-150.9357,53.6,1.2,ml,,,,0.58,ak,ak024a0prerk,2024-08-05T11:11:34.857Z,"24 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-05T10:58:47.180Z,33.6003333,-116.6105,15.38,0.22,ml,21,61,0.01229,0.12,ci,ci40862648,2024-08-05T14:04:46.863Z,"8 km NE of Anza, CA",earthquake,0.32,0.41,0.175,5,reviewed,ci,ci
@@ -190,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T19:01:40.230Z,35.7758333,-117.5768333,6.39,0.58,ml,19,65,0.1563,0.15,ci,ci40861968,2024-08-04T19:07:25.614Z,"16 km W of Searles Valley, CA",earthquake,0.25,1.07,0.186,6,automatic,ci,ci
 2024-08-04T18:55:41.395Z,66.2072,-157.1772,16.7,1.4,ml,,,,1.5,ak,ak0249z6nzmq,2024-08-04T18:58:31.885Z,"66 km NNW of Huslia, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-04T18:55:40.229Z,3.8773,63.3619,10,5.1,mb,106,67,10.195,1.04,us,us6000ni2p,2024-08-04T19:13:57.040Z,"Carlsberg Ridge",earthquake,10.22,1.864,0.048,138,reviewed,us,us
-2024-08-04T18:46:48.649Z,66.302,-156.959,0,1.7,ml,,,,1.22,ak,ak0249z6m2qg,2024-08-04T18:49:57.030Z,"65 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
