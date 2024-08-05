@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-05T21:39:55.180Z,32.8779984,-115.5121689,5.43,1.65,ml,23,100,0.04707,0.23,ci,ci40863440,2024-08-05T21:42:23.419Z,"6 km ENE of Imperial, CA",earthquake,0.43,0.7,0.392,14,automatic,ci,ci
+2024-08-05T21:39:55.130Z,32.8995,-115.5126667,8.6,1.62,ml,29,72,0.04047,0.21,ci,ci40863440,2024-08-05T21:46:13.444Z,"8 km NE of Imperial, CA",earthquake,0.29,0.64,0.143,27,automatic,ci,ci
 2024-08-05T21:38:45.770Z,38.83,-122.82,2.17,0.96,md,8,114,0.006378,0.01,nc,nc75044012,2024-08-05T21:40:22.323Z,"8 km NNW of The Geysers, CA",earthquake,0.5,1.55999994,0.3,9,automatic,nc,nc
 2024-08-05T21:37:59.580Z,19.3786659240723,-155.237167358398,2.30999994277954,1.72000003,md,18,110,0.006022,0.189999998,hv,hv74386576,2024-08-05T21:39:40.550Z,"7 km S of Volcano, Hawaii",earthquake,0.27,0.300000012,0.0799999982,12,automatic,hv,hv
 2024-08-05T21:24:34.490Z,39.84,-123.51,4.02,1.53,md,9,99,0.03863,0.05,nc,nc75044007,2024-08-05T21:26:12.105Z,"17 km N of Laytonville, CA",earthquake,0.36,1.02999997,0.12,6,automatic,nc,nc
@@ -146,6 +146,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T05:37:59.920Z,37.0542,-116.4281,8.5,-0.1,ml,11,95.32,0.036,0.0993,nn,nn00881914,2024-08-05T13:58:05.329Z,"33 km ENE of Beatty, Nevada",earthquake,,1.4,0.45,4,reviewed,nn,nn
 2024-08-05T05:37:59.810Z,36.2016667,-117.907,2.8,1.16,ml,22,81,0.09392,0.17,ci,ci40862496,2024-08-05T14:12:58.656Z,"12 km SE of Olancha, CA",earthquake,0.25,1.26,0.142,15,reviewed,ci,ci
 2024-08-05T05:31:28.360Z,35.6363333,-117.4563333,8.57,1.42,ml,29,66,0.03912,0.16,ci,ci40862488,2024-08-05T14:13:12.200Z,"15 km SSW of Searles Valley, CA",earthquake,0.21,0.43,0.179,18,reviewed,ci,ci
+2024-08-05T05:21:01.720Z,61.2266666666667,-152.1765,33.28,0.36,ml,6,200,0.004721,0.2,av,av93017559,2024-08-05T21:51:47.490Z,"58 km WNW of Tyonek, Alaska",earthquake,1.17,1.29,0.195742778934921,6,reviewed,av,av
+2024-08-05T05:20:51.060Z,61.2608333333333,-152.186333333333,33.36,0.16,ml,5,194,0.08985,0.14,av,av93221031,2024-08-05T21:47:31.170Z,"60 km WNW of Tyonek, Alaska",earthquake,0.91,0.86,0.152287702825914,5,reviewed,av,av
 2024-08-05T05:17:50.840Z,18.2551666666667,-66.4198333333333,38.75,2.45,md,11,107,0.09754,0.17,pr,pr71456988,2024-08-05T05:35:52.330Z,"4 km NW of Orocovis, Puerto Rico",earthquake,0.84,0.93,0.293391161060109,7,reviewed,pr,pr
 2024-08-05T05:09:19.900Z,36.02,-120.58,3.91,1.62,md,19,125,0.03969,0.04,nc,nc75043702,2024-08-05T08:34:24.587Z,"19 km NNW of Parkfield, CA",earthquake,0.27,0.419999987,0.14,14,automatic,nc,nc
 2024-08-05T05:06:26.789Z,61.7355,-151.1637,74.1,1.5,ml,,,,0.44,ak,ak024a0m661i,2024-08-05T05:08:46.468Z,"30 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -218,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-04T22:13:53.760Z,33.9796667,-116.9725,5.29,1.92,ml,107,34,0.05852,0.18,ci,ci40862128,2024-08-05T14:16:58.470Z,"6 km N of Beaumont, CA",earthquake,0.11,0.43,0.169,27,reviewed,ci,ci
 2024-08-04T21:58:30.190Z,38.79,-122.78,2.88,0.93,md,8,124,0.004992,0.06,nc,nc75043567,2024-08-04T22:17:17.465Z,"3 km NW of The Geysers, CA",earthquake,0.59,1.40999997,0.17,9,automatic,nc,nc
 2024-08-04T21:55:03.140Z,33.6138333,-116.8628333,0.5,0.37,ml,10,118,0.02043,0.22,ci,ci40862096,2024-08-04T22:00:56.477Z,"15 km S of Valle Vista, CA",earthquake,0.53,1.69,0.125,7,automatic,ci,ci
-2024-08-04T21:47:17.380Z,19.1696662902832,-155.496337890625,32.189998626709,2.27999997,md,33,108,0.03532,0.189999998,hv,hv74384881,2024-08-04T21:48:57.560Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.66,1.02999997,0.170000002,4,automatic,hv,hv
-2024-08-04T21:46:45.559Z,61.9526,-150.8569,69,0.8,ml,,,,0.31,ak,ak0249z8ec0g,2024-08-04T23:27:04.908Z,"28 km E of Skwentna, Alaska",earthquake,,1.3,,,reviewed,ak,ak
