@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-06T18:06:08.993Z,61.4175,-150.0787,33.6,1.5,ml,,,,0.49,ak,ak024a2hg40z,2024-08-06T18:08:11.238Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-08-06T18:05:44.890Z,38.79,-122.78,1.33,1.34,md,25,89,0.008402,0.03,nc,nc75044367,2024-08-06T18:09:11.700Z,"3 km NW of The Geysers, CA",earthquake,0.24,0.330000013,0.13,24,automatic,nc,nc
 2024-08-06T17:43:47.640Z,35.0521667,-118.3411667,-1.12,1.18,ml,29,33,0.06143,0.21,ci,ci40864496,2024-08-06T17:50:19.507Z,"13 km SE of Tehachapi, CA",earthquake,0.3,0.94,0.127,23,automatic,ci,ci
 2024-08-06T17:36:56.340Z,36.0826667,-117.8863333,4.25,0.52,ml,8,212,0.04317,0.07,ci,ci40864480,2024-08-06T17:43:20.670Z,"7 km NE of Coso Junction, CA",earthquake,0.62,0.38,0.119,5,automatic,ci,ci
 2024-08-06T17:30:02.350Z,32.9026667,-116.9468333,4.1,1.32,ml,38,67,0.06667,0.21,ci,ci40864448,2024-08-06T17:36:26.639Z,"6 km NNW of Lakeside, CA",earthquake,0.26,0.76,0.209,24,automatic,ci,ci
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T17:01:28.150Z,35.3838333,-118.218,6.15,1.12,ml,24,91,0.1651,0.15,ci,ci40864344,2024-08-06T17:08:58.477Z,"34 km SE of Bodfish, CA",earthquake,0.23,0.8,0.192,17,automatic,ci,ci
 2024-08-06T16:37:41.337Z,59.6291,-150.1205,18.8,2.2,ml,,,,0.66,ak,ak024a2gfyid,2024-08-06T16:41:14.456Z,"53 km ESE of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-06T16:32:11.470Z,35.6686667,-117.4796667,6.8,1.46,ml,29,59,0.0457,0.12,ci,ci40864312,2024-08-06T16:38:43.703Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.37,0.113,20,automatic,ci,ci
-2024-08-06T16:29:32.460Z,19.291166305542,-155.37483215332,29.5900001525879,2.22,ml,58,109,0.04323,0.170000002,hv,hv74387921,2024-08-06T16:32:11.030Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.519999981,0.49,12,automatic,hv,hv
+2024-08-06T16:29:32.460Z,19.291166305542,-155.37483215332,29.5900001525879,2.22,ml,58,109,0.04323,0.170000002,hv,hv74387921,2024-08-06T18:09:25.040Z,"14 km NE of Pāhala, Hawaii",earthquake,0.43,0.519999981,0.49,12,automatic,hv,hv
 2024-08-06T16:14:14.190Z,33.3213333,-116.422,4.56,1.55,ml,70,15,0.04624,0.18,ci,ci40864304,2024-08-06T16:29:35.652Z,"8 km NNW of Borrego Springs, CA",earthquake,0.13,0.35,0.204,27,automatic,ci,ci
 2024-08-06T15:38:36.020Z,61.5932,-142.5085,0,1.3,ml,,,,0.63,ak,ak024a2fuq7m,2024-08-06T15:40:59.076Z,"28 km NE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-06T15:06:37.503Z,32.773,-100.692,9.1064,2.1,ml,15,77,0.1,0.1,tx,tx2024pjlq,2024-08-06T17:14:50.207Z,"16 km NNE of Hermleigh, Texas",earthquake,0.5111856167506821,0.9140201493276721,0.1,13,reviewed,tx,tx
@@ -180,7 +182,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T21:24:34.490Z,39.84,-123.51,4.02,1.53,md,9,99,0.03863,0.05,nc,nc75044007,2024-08-05T21:59:24.584Z,"17 km N of Laytonville, CA",earthquake,0.36,1.02999997,0.12,6,automatic,nc,nc
 2024-08-05T21:23:28.130Z,33.718,-116.7581667,16.39,0.7,ml,23,133,0.0373,0.11,ci,ci40863384,2024-08-06T14:05:43.664Z,"4 km SW of Idyllwild, CA",earthquake,0.3,0.4,0.178,9,reviewed,ci,ci
 2024-08-05T21:21:39.630Z,33.7148333,-116.7606667,16.56,0.72,ml,29,57,0.03893,0.13,ci,ci40863376,2024-08-06T14:05:52.298Z,"5 km SW of Idyllwild, CA",earthquake,0.26,0.34,0.117,14,reviewed,ci,ci
-2024-08-05T21:16:16.400Z,38.73,-122.42,1.16,1.99,md,20,60,0.07067,0.18,nc,nc75043997,2024-08-06T00:37:14.628Z,"14 km SE of Hidden Valley Lake, CA",earthquake,0.36,2.4000001,0.08,20,automatic,nc,nc
+2024-08-05T21:21:29.830Z,38.75,-122.4,10.61,1.27,md,21,76,0.04921,0.13,nc,nc75044002,2024-08-06T18:16:11.304Z,"16 km SE of Hidden Valley Lake, CA",earthquake,0.57,0.59,0.117,16,reviewed,nc,nc
+2024-08-05T21:16:15.980Z,38.74,-122.4,9.61,1.9,md,64,98,0.05155,0.13,nc,nc75043997,2024-08-06T18:11:39.504Z,"16 km SE of Hidden Valley Lake, CA",earthquake,0.16,0.29,0.184,57,reviewed,nc,nc
 2024-08-05T21:16:03.802Z,36.63,-115.9634,0,0.2,ml,11,298.9,0.1,0.1034,nn,nn00881962,2024-08-06T03:48:42.353Z,"27 km WNW of Indian Springs, Nevada",earthquake,,0,0.04,4,reviewed,nn,nn
 2024-08-05T21:12:49.370Z,38.82,-122.82,6.14,0.9,md,10,115,0.005168,0.08,nc,nc75043992,2024-08-05T21:32:14.411Z,"7 km NW of The Geysers, CA",earthquake,0.86,4.01000023,0.23,10,automatic,nc,nc
 2024-08-05T21:09:48.910Z,34.4446667,-117.8998333,10,1.54,ml,15,101,0.04613,0.1,ci,ci40863360,2024-08-06T14:06:04.569Z,"7 km S of Pearblossom, CA",earthquake,0.22,0.28,0.508,38,reviewed,ci,ci
@@ -214,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-05T18:23:52.400Z,52.14,-176.157833333333,9.5,0.52,ml,6,291,0.04807,0.2,av,av93221496,2024-08-06T00:48:32.640Z,"44 km NE of Adak, Alaska",earthquake,1.64,0.93,0.27213414308599,6,reviewed,av,av
 2024-08-05T18:22:21.940Z,19.3768329620361,-155.216506958008,1.78999996185303,1.76,ml,23,98,0.003178,0.109999999,hv,hv74386361,2024-08-05T18:24:59.190Z,"7 km SSE of Volcano, Hawaii",earthquake,0.33,0.200000003,0.1,5,automatic,hv,hv
 2024-08-05T18:21:31.210Z,37.67,-121.99,10.74,1.42,md,9,141,0.06588,0.05,nc,nc75043907,2024-08-05T21:39:28.456Z,"5 km ESE of Fairview, CA",earthquake,0.8,1.23000002,0.19,8,automatic,nc,nc
-2024-08-05T18:15:17.970Z,38.84,-122.79,4.97,0.06,md,17,107,0.0055,0.19,nc,nc75043897,2024-08-05T21:09:26.282Z,"7 km WNW of Cobb, CA",earthquake,0.73,0.4,0.206,15,reviewed,nc,nc
-2024-08-05T18:10:48.640Z,40.28,-124.64,14.36,1.47,md,17,288,0.2267,0.19,nc,nc75043892,2024-08-05T23:47:16.255Z,"30 km W of Petrolia, CA",earthquake,1.16,1.21,0.06,10,reviewed,nc,nc
