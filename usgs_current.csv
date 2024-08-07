@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T02:45:39.778Z,65.1425,-148.5053,19.4,0.7,ml,,,,0.64,ak,ak024a3voy55,2024-08-07T02:47:42.911Z,"39 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-07T02:44:49.676Z,29.4181,102.0349,10,4.3,mb,20,114,15.191,0.78,us,us6000nign,2024-08-07T03:08:42.040Z,"65 km S of Kangding, China",earthquake,6.03,1.958,0.129,17,reviewed,us,us
 2024-08-07T02:43:56.780Z,19.3784999847412,-155.245498657227,0.490000009536743,1.75,md,15,89,0.006737,0.140000001,hv,hv74388616,2024-08-07T02:46:34.990Z,"7 km S of Volcano, Hawaii",earthquake,0.16,0.129999995,0.100000001,12,automatic,hv,hv
-2024-08-07T02:32:28.610Z,37.6751,35.9782,10,4.6,mwr,62,62,0.306,0.97,us,us6000nigk,2024-08-07T03:12:58.576Z,"16 km SSE of Feke, Turkey",earthquake,2.98,1.856,0.056,31,reviewed,us,us
+2024-08-07T02:32:28.197Z,37.6819,35.9702,10,4.6,mwr,78,41,0.315,0.43,us,us6000nigk,2024-08-07T04:03:23.714Z,"15 km SSE of Feke, Turkey",earthquake,4.36,1.878,0.056,31,reviewed,us,us
 2024-08-07T02:12:37.452Z,39.5882,-119.0427,13.1,1.6,ml,11,100.31,0.619,0.3565,nn,nn00882014,2024-08-07T02:15:10.515Z,"18 km E of Fernley, Nevada",earthquake,,1.3,0.23,5,automatic,nn,nn
 2024-08-07T02:10:06.190Z,34.51919556,-97.2902298,1.203137994,2.7,ml,75,53.27316284,0.06745340675,0.8473856758,ok,ok2024pkhm,2024-08-07T02:34:36.040Z,"8 km SE of Katie, Oklahoma",earthquake,1.668117778,1.17298057,0.26,38,automatic,ok,ok
 2024-08-07T02:09:55.550Z,33.9596667,-116.7735,17.46,0.9,ml,25,74,0.0805,0.12,ci,ci40865120,2024-08-07T02:16:20.793Z,"5 km NNE of Cabazon, CA",earthquake,0.22,0.47,0.181,26,automatic,ci,ci
@@ -136,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T10:56:01.680Z,38.84,-122.8,1.57,0.46,md,10,67,0.009544,0.01,nc,nc75044247,2024-08-06T12:54:27.154Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.14999998,0.33,12,automatic,nc,nc
 2024-08-06T10:55:27.050Z,35.9066667,-117.7531667,7.37,0.33,ml,14,66,0.09302,0.11,ci,ci40864008,2024-08-06T13:57:25.139Z,"14 km ESE of Little Lake, CA",earthquake,0.19,0.65,0.167,2,reviewed,ci,ci
 2024-08-06T10:52:52.827Z,65.1753,-148.7198,1,1.1,ml,,,,0.73,ak,ak024a2cylkq,2024-08-06T10:55:19.522Z,"29 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-08-06T10:41:05.553Z,63.8615,-148.8506,13.9,1.2,ml,,,,0.64,ak,ak024a2cw4zf,2024-08-06T10:43:14.721Z,"5 km E of Healy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-06T10:41:05.553Z,63.8615,-148.8506,13.9,1.2,ml,,,,0.64,ak,ak024a2cw4zf,2024-08-06T10:43:14.721Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-06T10:39:40.050Z,44.430166666666665,-122.58716666666666,10.81,1.48,ml,15,57,0.1425,0.29,uw,uw62032806,2024-08-06T21:16:39.190Z,"9 km WNW of Cascadia, Oregon",earthquake,0.45,2.19,0.13668180075533454,13,reviewed,uw,uw
 2024-08-06T10:33:03.870Z,31.497,-115.6248333,7.63,3.05,ml,15,78,0.172,0.27,ci,ci40864000,2024-08-06T15:05:25.128Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,2.33,0.133,53,reviewed,ci,ci
 2024-08-06T10:32:16.190Z,31.5026667,-115.6211667,8.24,2.57,ml,10,108,0.178,0.19,ci,ci40863992,2024-08-06T10:39:33.553Z,"91 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.43,2.16,0.159,20,automatic,ci,ci
@@ -204,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-06T04:28:57.290Z,19.3685,-155.210166666667,1.94,2.13,ml,26,111,0.00728,0.1,hv,hv74387116,2024-08-06T20:29:01.450Z,"8 km SSE of Volcano, Hawaii",earthquake,0.3,0.22,0.180078652071654,11,reviewed,hv,hv
 2024-08-06T04:28:39.223Z,39.5783,-119.0642,5.2,1.7,ml,11,98.94,0.604,0.1245,nn,nn00881966,2024-08-06T16:42:11.130Z,"16 km ESE of Fernley, Nevada",earthquake,,6.2,0.27,7,reviewed,nn,nn
 2024-08-06T04:09:40.720Z,53.8708333333333,-166.895,5.34,-0.31,ml,6,156,0.0684,0.16,av,av93221816,2024-08-07T01:33:39.580Z,"23 km W of Dutch Harbor, Alaska",earthquake,0.54,1.31,0.290685065190544,6,reviewed,av,av
-2024-08-06T04:00:06.726Z,60.8233,-152.3654,97.1,1.9,ml,,,,0.31,ak,ak024a292r34,2024-08-06T04:01:57.200Z,"60 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-08-06T03:56:25.872Z,65.4397,-148.2146,11.6,1.2,ml,,,,0.34,ak,ak024a28td23,2024-08-06T03:58:34.179Z,"17 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
