@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-08T10:25:39.680Z,35.0921669,-119.1198349,10.56,2.09,ml,55,24,0.04467,0.3,ci,ci40869776,2024-08-08T10:27:59.842Z,"24 km NW of Grapevine, CA",earthquake,0.3,0.78,0.306,26,automatic,ci,ci
+2024-08-08T10:25:39.260Z,35.1008333,-119.1176667,1.49,2.11,ml,56,30,0.05047,0.27,ci,ci40869776,2024-08-08T10:36:08.890Z,"24 km NW of Grapevine, CA",earthquake,0.21,1.2,0.193,26,automatic,ci,ci
 2024-08-08T10:12:35.900Z,35.1126667,-119.0913333,2.21,1.11,ml,26,78,0.0543,0.22,ci,ci40869768,2024-08-08T10:19:42.050Z,"23 km SW of Lamont, CA",earthquake,0.3,1.13,0.095,20,automatic,ci,ci
 2024-08-08T10:06:38.380Z,35.0926667,-119.0953333,2.3,2.14,ml,40,35,0.03528,0.31,ci,ci40869760,2024-08-08T10:17:22.302Z,"22 km NW of Grapevine, CA",earthquake,0.36,1.54,0.226,22,automatic,ci,ci
 2024-08-08T10:05:54.150Z,35.0993333,-119.1185,3.13,2.57,ml,58,34,0.04961,0.28,ci,ci40869752,2024-08-08T10:16:38.320Z,"24 km NW of Grapevine, CA",earthquake,0.24,1.39,0.232,26,automatic,ci,ci
 2024-08-08T10:04:55.120Z,35.076,-119.1005,0.95,1.2,ml,30,75,0.02211,0.23,ci,ci40869744,2024-08-08T10:11:46.466Z,"21 km NW of Grapevine, CA",earthquake,0.3,1.32,0.16,25,automatic,ci,ci
-2024-08-08T09:56:24.480Z,37.85,-121.97,8.79,1.75,md,25,88,0.02036,0.07,nc,nc75045637,2024-08-08T09:58:00.665Z,"2 km NW of Diablo, CA",earthquake,0.24,0.389999986,0.16,19,automatic,nc,nc
+2024-08-08T09:56:24.480Z,37.85,-121.97,8.79,1.75,md,25,88,0.02036,0.07,nc,nc75045637,2024-08-08T10:30:59.829Z,"2 km NW of Diablo, CA",earthquake,0.24,0.389999986,0.16,19,automatic,nc,nc
 2024-08-08T09:49:54.860Z,62.6015,-152.4476,0.1,1.7,ml,,,,0.73,ak,ak024a5nf7vb,2024-08-08T09:52:45.822Z,"87 km NW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-08T09:44:11.424Z,61.4016,-146.6434,20,1.6,ml,,,,0.84,ak,ak024a5ne1yu,2024-08-08T09:46:04.872Z,"34 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-08T09:41:21.630Z,37.46,-121.77,7.78,1.39,md,5,209,0.07319,0,nc,nc75045632,2024-08-08T10:15:58.615Z,"12 km NE of Alum Rock, CA",earthquake,1.2,2.06999993,0.11,3,automatic,nc,nc
@@ -351,15 +351,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-07T10:45:30.570Z,35.079,-119.0853333,1.27,2.1,ml,48,36,0.02039,0.27,ci,ci40867152,2024-08-08T00:18:08.791Z,"21 km NW of Grapevine, CA",earthquake,0.23,1.01,0.202,26,reviewed,ci,ci
 2024-08-07T10:44:24.440Z,35.1033333,-119.1423333,0.21,1.52,ml,34,66,0.2459,0.25,ci,ci40867144,2024-08-07T14:24:09.650Z,"24 km ENE of Maricopa, CA",earthquake,0.25,1.12,0.21,30,automatic,ci,ci
 2024-08-07T10:39:19.040Z,35.1103333,-119.1221667,12.96,3.64,mw,69,23,0.06045,0.27,ci,ci40867136,2024-08-08T02:46:03.909Z,"25 km SW of Lamont, CA",earthquake,0.22,0.68,,4,reviewed,ci,ci
-2024-08-07T10:38:37.700Z,35.1078333,-119.1255,-0.02,1.73,ml,36,42,0.05985,0.28,ci,ci40867128,2024-08-07T14:23:06.641Z,"26 km NW of Grapevine, CA",earthquake,0.31,1.67,0.197,26,automatic,ci,ci
-2024-08-07T10:38:02.610Z,35.1006667,-119.1211667,3.89,1.25,ml,30,78,0.05197,0.2,ci,ci40867120,2024-08-07T14:20:29.899Z,"25 km NW of Grapevine, CA",earthquake,0.32,1.76,0.188,16,automatic,ci,ci
-2024-08-07T10:36:56.090Z,35.0965,-119.1176667,2,1.7,ml,37,78,0.04692,0.27,ci,ci40867112,2024-08-07T14:19:17.618Z,"24 km NW of Grapevine, CA",earthquake,0.29,1.31,0.208,28,automatic,ci,ci
-2024-08-07T10:36:32.520Z,35.1396667,-119.0815,7.67,1.33,ml,36,62,0.0809,0.23,ci,ci40867104,2024-08-07T14:16:53.466Z,"20 km SW of Lamont, CA",earthquake,0.26,0.88,0.119,27,automatic,ci,ci
-2024-08-07T10:35:12.090Z,35.0965,-119.1383333,-0.04,1.31,ml,33,78,0.05857,0.29,ci,ci40867096,2024-08-07T14:14:40.612Z,"24 km E of Maricopa, CA",earthquake,0.31,0.85,0.168,28,automatic,ci,ci
-2024-08-07T10:34:26.210Z,35.872,-117.6758333,10.91,0.92,ml,10,116,0.07851,0.13,ci,ci40867088,2024-08-07T14:13:12.404Z,"22 km ESE of Little Lake, CA",earthquake,0.32,0.69,0.057,8,automatic,ci,ci
-2024-08-07T10:33:55.800Z,35.1105,-119.183,13.39,1.84,ml,19,175,0.09644,0.21,ci,ci37679012,2024-08-07T23:44:16.329Z,"21 km ENE of Maricopa, CA",earthquake,0.51,0.79,0.14,34,reviewed,ci,ci
-2024-08-07T10:33:42.890Z,35.1043333,-119.1066667,0.88,1.85,ml,34,72,0.04933,0.24,ci,ci40867080,2024-08-07T23:52:15.143Z,"24 km NW of Grapevine, CA",earthquake,0.28,1.03,0.109,16,reviewed,ci,ci
-2024-08-07T10:31:53.328Z,66.3521,-148.1475,5.5,1.7,ml,,,,1.17,ak,ak024a40dg04,2024-08-07T10:34:28.305Z,"33 km W of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-07T10:31:18.140Z,33.225,-116.0436667,3.4,1.47,ml,62,72,0.07326,0.22,ci,ci40867072,2024-08-07T14:10:15.893Z,"12 km SW of Salton City, CA",earthquake,0.16,0.33,0.152,27,automatic,ci,ci
-2024-08-07T10:30:50.790Z,35.1066667,-119.1071667,1.82,1.21,ml,28,78,0.05164,0.26,ci,ci40867064,2024-08-07T14:07:36.634Z,"24 km NW of Grapevine, CA",earthquake,0.31,1.31,0.178,18,automatic,ci,ci
-2024-08-07T10:30:01.250Z,35.1205,-119.1253333,1.67,1.46,ml,34,44,0.07053,0.28,ci,ci40867056,2024-08-07T14:04:25.407Z,"25 km SW of Lamont, CA",earthquake,0.29,1.64,0.191,27,automatic,ci,ci
