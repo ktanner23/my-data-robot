@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-09T18:36:20.510Z,33.3206673,-116.3841629,10.9,1.11,ml,41,31,0.05918,0.19,ci,ci40695527,2024-08-09T18:38:28.814Z,"7 km N of Borrego Springs, CA",earthquake,0.25,0.55,0.197,11,automatic,ci,ci
+2024-08-09T18:36:20.490Z,33.3183333,-116.3868333,11.27,1.09,ml,58,30,0.01849,0.18,ci,ci40695527,2024-08-09T18:42:38.851Z,"7 km N of Borrego Springs, CA",earthquake,0.15,0.25,0.199,27,automatic,ci,ci
 2024-08-09T18:35:41.410Z,38.77,-122.74,1.37,0.78,md,11,67,0.01143,0.02,nc,nc75046327,2024-08-09T18:37:15.639Z,"2 km ESE of The Geysers, CA",earthquake,0.34,0.5,0.27,10,automatic,nc,nc
 2024-08-09T18:30:18.230Z,38.83,-122.81,2.03,0.9,md,19,43,0.01121,0.01,nc,nc75046322,2024-08-09T18:31:55.825Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.569999993,0.25,20,automatic,nc,nc
 2024-08-09T18:29:51.040Z,19.3608341217041,-155.127670288086,-0.209999993443489,2,ml,18,172,0.02399,0.180000007,hv,hv74393186,2024-08-09T18:32:29.180Z,"11 km S of Fern Forest, Hawaii",earthquake,0.4,0.49000001,0.36,3,automatic,hv,hv
@@ -195,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T00:39:29.476Z,64.7285,-149.2984,3.1,1.4,ml,,,,0.68,ak,ak024a75jgtv,2024-08-09T00:41:51.964Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-09T00:36:49.480Z,46.192,-122.19,6.38,-0.14,md,6,143,0.03125,0.06,uw,uw62033891,2024-08-09T18:25:48.590Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.61,0.003104980767250076,3,reviewed,uw,uw
 2024-08-09T00:32:55.710Z,36.42033333,-96.91533333,5.33,1.11,ml,41,65,0.02159576217,0.28,ok,ok2024pnvg,2024-08-09T14:08:14.905Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.24,14,reviewed,ok,ok
+2024-08-09T00:26:02.400Z,56.312,-159.1245,7.29,0.45,ml,7,269,0.047,0.09,av,av93224406,2024-08-09T18:40:26.000Z,"23 km WNW of Chignik Lake, Alaska",earthquake,0.42,0.54,0.244142330555856,7,reviewed,av,av
 2024-08-08T23:57:17.320Z,38.8,-122.78,2.82,0.6,md,8,103,0.009064,0.02,nc,nc75045987,2024-08-09T00:30:58.446Z,"3 km NNW of The Geysers, CA",earthquake,0.6,0.959999979,0.32,10,automatic,nc,nc
 2024-08-08T23:39:23.830Z,35.084,-119.0988333,12.96,1.6,ml,38,53,0.02818,0.24,ci,ci40694719,2024-08-08T23:46:00.479Z,"22 km NW of Grapevine, CA",earthquake,0.29,0.57,0.134,26,automatic,ci,ci
 2024-08-08T23:32:49.287Z,62.2885,-145.2367,83.5,1.4,ml,,,,0.49,ak,ak024a5vnmx2,2024-08-08T23:35:42.503Z,"3 km ESE of Gakona, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -251,6 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T18:52:59.540Z,52.3263333333333,-174.166666666667,4.42,-0.51,ml,5,118,0.02222,0.32,av,av93017914,2024-08-09T00:59:36.730Z,"14 km N of Atka, Alaska",earthquake,1.02,1.66,0.260677589704822,5,reviewed,av,av
 2024-08-08T18:50:07.230Z,35.1096667,-119.1128333,1.48,1.54,ml,32,81,0.05624,0.2,ci,ci40694479,2024-08-08T18:56:41.769Z,"25 km SW of Lamont, CA",earthquake,0.28,1.12,0.177,25,automatic,ci,ci
 2024-08-08T18:48:53.982Z,31.5417,131.6172,43.211,4.4,mb,60,115,5.906,0.92,us,us6000niy4,2024-08-09T16:33:34.040Z,"24 km ESE of Nichinan, Japan",earthquake,9.31,7.661,0.073,54,reviewed,us,us
-2024-08-08T18:47:51.160Z,1.6745,127.2236,124.957,4.4,mb,22,121,0.908,0.7,us,us6000nixy,2024-08-08T20:47:38.040Z,"87 km W of Tobelo, Indonesia",earthquake,10.11,5.283,0.135,16,reviewed,us,us
-2024-08-08T18:44:59.190Z,35.0956667,-119.0503333,4.17,1.05,ml,15,110,0.04606,0.21,ci,ci40694463,2024-08-08T18:51:21.469Z,"20 km NNW of Grapevine, CA",earthquake,0.42,1.88,0.252,14,automatic,ci,ci
-2024-08-08T18:40:06.050Z,35.0836667,-119.1325,-0.68,1.04,ml,17,129,0.04713,0.18,ci,ci40694455,2024-08-08T18:46:23.905Z,"24 km NW of Grapevine, CA",earthquake,0.38,0.92,0.147,16,automatic,ci,ci
