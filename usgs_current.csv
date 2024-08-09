@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-09T10:49:40.900Z,33.7628333,-116.93,13.06,0.38,ml,24,47,0.07573,0.14,ci,ci40695103,2024-08-09T10:55:25.949Z,"4 km SE of San Jacinto, CA",earthquake,0.22,0.45,0.055,5,automatic,ci,ci
 2024-08-09T10:40:07.120Z,38.82,-122.77,2.16,0.81,md,9,123,0.007307,0.01,nc,nc75046132,2024-08-09T10:41:46.399Z,"4 km WNW of Cobb, CA",earthquake,0.39,0.980000019,0.12,10,automatic,nc,nc
 2024-08-09T10:38:13.840Z,38.84,-122.8,2.49,0.51,md,10,70,0.005806,0.02,nc,nc75046127,2024-08-09T10:39:51.583Z,"7 km WNW of Cobb, CA",earthquake,0.46,1.10000002,0.26,10,automatic,nc,nc
 2024-08-09T10:25:14.531Z,59.616,-153.4824,118.9,1.7,ml,,,,0.5,ak,ak024a7berp9,2024-08-09T10:28:04.098Z,"39 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-09T10:14:14.219Z,62.0092,-148.3943,40.7,1.2,ml,,,,0.55,ak,ak024a7bcest,2024-08-09T10:16:38.006Z,"23 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-09T10:14:07.140Z,33.9951667,-116.9933333,16.37,0.82,ml,44,34,0.1091,0.14,ci,ci40695087,2024-08-09T10:20:03.736Z,"6 km E of Calimesa, CA",earthquake,0.18,0.52,0.14,20,automatic,ci,ci
 2024-08-09T09:52:46.490Z,38.82,-122.81,2.42,0.77,md,14,112,0.003743,0.03,nc,nc75046122,2024-08-09T10:30:57.707Z,"7 km NNW of The Geysers, CA",earthquake,0.35,0.620000005,0.15,16,automatic,nc,nc
+2024-08-09T09:50:06.762Z,65.2107,-162.6876,8.072,2.6,ml,21,111,0.606,0.56,us,us6000nj1x,2024-08-09T10:54:00.040Z,"68 km NNE of White Mountain, Alaska",earthquake,5.59,7.745,0.06,36,reviewed,us,us
 2024-08-09T09:49:12.280Z,35.094,-119.0841667,1.28,1.61,ml,44,43,0.03532,0.25,ci,ci40695079,2024-08-09T09:56:01.598Z,"22 km NW of Grapevine, CA",earthquake,0.27,1.27,0.166,27,automatic,ci,ci
 2024-08-09T09:48:04.100Z,33.6835,-116.7968333,15.07,0.76,ml,52,59,0.06822,0.13,ci,ci40695071,2024-08-09T09:54:05.586Z,"10 km SW of Idyllwild, CA",earthquake,0.14,0.26,0.107,23,automatic,ci,ci
 2024-08-09T09:43:03.950Z,35.0973333,-119.1076667,1.38,1.52,ml,42,55,0.04332,0.26,ci,ci40695063,2024-08-09T09:53:49.700Z,"24 km NW of Grapevine, CA",earthquake,0.26,1.42,0.196,28,automatic,ci,ci
@@ -252,8 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-08T11:03:14.375Z,62.7747,-150.6649,83.9,1.8,ml,,,,0.37,ak,ak024a5oc51p,2024-08-08T11:05:08.581Z,"31 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-08T11:00:24.003Z,40.7076,-74.7754,5.346,1.7,ml,14,69,0.014,0.13,us,us6000niul,2024-08-08T23:31:02.540Z,"5 km ESE of Califon, New Jersey",earthquake,1.26,1.492,0.091,16,reviewed,us,us
 2024-08-08T10:57:43.050Z,35.113,-119.0788333,2.59,2.65,ml,61,32,0.05443,0.24,ci,ci40869808,2024-08-09T06:34:41.640Z,"22 km SW of Lamont, CA",earthquake,0.2,1.11,0.14,25,automatic,ci,ci
-2024-08-08T10:56:47.640Z,62.9869,-151.0382,124.8,2.2,ml,,,,0.36,ak,ak024a5o259t,2024-08-08T11:11:09.040Z,"56 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-08T10:56:00.210Z,51.7368333333333,-177.478,4.63,1.85,ml,15,193,0.1529,0.28,av,av93223921,2024-08-08T23:02:57.490Z,"60 km WSW of Adak, Alaska",earthquake,1.57,2.39,0.383242289592293,15,reviewed,av,av
-2024-08-08T10:54:53.070Z,32.499,-116.2036667,13.02,1.4,ml,26,70,0.1704,0.18,ci,ci40869800,2024-08-08T13:45:03.920Z,"28 km ESE of Campo, CA",earthquake,0.25,1.01,0.295,21,reviewed,ci,ci
-2024-08-08T10:54:30.200Z,51.7781666666667,-177.487666666667,0.24,0.46,ml,8,171,0.1578,0.15,av,av93223916,2024-08-08T22:59:21.470Z,"59 km W of Adak, Alaska",earthquake,1.28,2.37,0.201564569139629,8,reviewed,av,av
-2024-08-08T10:52:16.830Z,51.766,-177.491,-1.78,0.92,ml,9,177,0.159,0.22,av,av93223911,2024-08-08T22:55:55.400Z,"60 km WSW of Adak, Alaska",earthquake,1.21,0.86,0.242208583237055,9,reviewed,av,av
