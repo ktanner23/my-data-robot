@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T03:27:15.130Z,35.949,-117.912,3.34,0.49,ml,10,72,0.06118,0.08,ci,ci40697015,2024-08-11T03:32:59.095Z,"2 km NNW of Little Lake, CA",earthquake,0.18,0.49,0.27,4,automatic,ci,ci
 2024-08-11T03:26:03.350Z,35.949,-117.9125,2.99,0.68,ml,13,72,0.0613,0.08,ci,ci40697007,2024-08-11T03:31:58.203Z,"2 km NNW of Little Lake, CA",earthquake,0.14,0.48,0.24,7,automatic,ci,ci
 2024-08-11T03:24:08.890Z,32.7708333,-115.8366667,5.73,1.16,ml,24,58,0.1209,0.18,ci,ci40696999,2024-08-11T03:30:25.251Z,"15 km ENE of Ocotillo, CA",earthquake,0.22,0.6,0.2,21,automatic,ci,ci
-2024-08-11T03:23:38.040Z,38.77,-122.42,4.22,1.64,md,10,80,0.04122,0.2,nc,nc75047007,2024-08-11T03:25:14.455Z,"12 km ESE of Hidden Valley Lake, CA",earthquake,0.64,2.1099999,0.06,8,automatic,nc,nc
+2024-08-11T03:23:38.040Z,38.77,-122.42,4.22,1.64,md,10,80,0.04122,0.2,nc,nc75047007,2024-08-11T04:00:58.546Z,"12 km ESE of Hidden Valley Lake, CA",earthquake,0.64,2.1099999,0.06,8,automatic,nc,nc
 2024-08-11T03:22:43.420Z,38.84,-122.79,2.18,0.85,md,11,88,0.00368,0.02,nc,nc75047002,2024-08-11T03:45:56.454Z,"6 km WNW of Cobb, CA",earthquake,0.42,1.25999999,0.17,12,automatic,nc,nc
 2024-08-11T03:19:41.090Z,35.1055,-119.0841667,1.44,1.7,ml,39,45,0.04679,0.23,ci,ci40696991,2024-08-11T03:26:52.496Z,"23 km NW of Grapevine, CA",earthquake,0.23,1.09,0.118,27,automatic,ci,ci
 2024-08-11T03:19:31.690Z,33.3378333,-116.3296667,11.97,0.86,ml,37,84,0.02968,0.19,ci,ci40696983,2024-08-11T03:25:34.410Z,"10 km NNE of Borrego Springs, CA",earthquake,0.24,0.42,0.106,21,automatic,ci,ci
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T21:29:07.400Z,33.532,-116.9286667,13.25,2.36,ml,107,20,0.0521,0.22,ci,ci40696727,2024-08-10T22:11:32.835Z,"12 km NNW of Aguanga, CA",earthquake,0.12,0.34,0.233,26,automatic,ci,ci
 2024-08-10T21:26:42.320Z,33.2236667,-116.0436667,3.34,0.94,ml,41,84,0.07456,0.23,ci,ci40696719,2024-08-10T21:32:50.510Z,"12 km SW of Salton City, CA",earthquake,0.25,0.51,0.124,21,automatic,ci,ci
 2024-08-10T21:18:52.690Z,38.8,-122.78,3.44,1.09,md,19,59,0.005075,0.02,nc,nc75046827,2024-08-10T21:55:57.181Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.610000014,0.23,21,automatic,nc,nc
-2024-08-10T20:46:01.703Z,45.9695,22.02,10,4.4,mb,51,34,0.44,0.87,us,us6000njen,2024-08-10T23:35:04.518Z,"5 km S of Bata, Romania",earthquake,3.55,1.906,0.143,14,reviewed,us,us
+2024-08-10T20:46:01.703Z,45.9695,22.02,10,4.4,mb,51,34,0.44,0.87,us,us6000njen,2024-08-11T03:53:32.204Z,"5 km S of Bata, Romania",earthquake,3.55,1.906,0.143,14,reviewed,us,us
 2024-08-10T20:43:26.958Z,65.815,-148.0892,7,2.4,ml,,,,0.42,ak,ak024a950c3b,2024-08-10T21:49:47.040Z,"38 km NNE of Livengood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-10T20:40:12.930Z,34.5686667,-118.6281667,3.76,1.69,ml,48,40,0.07265,0.2,ci,ci40696687,2024-08-10T20:53:13.961Z,"9 km N of Castaic, CA",earthquake,0.15,0.54,0.11,27,automatic,ci,ci
 2024-08-10T20:30:10.150Z,19.5036659240723,-155.485336303711,2.53999996185303,1.73000002,md,24,70,0.03766,0.189999998,hv,hv74394356,2024-08-10T20:31:41.940Z,"27 km WNW of Volcano, Hawaii",earthquake,0.37,1.96000004,0.310000002,7,automatic,hv,hv
@@ -147,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-10T12:11:16.633Z,64.9221,-148.7006,17.3,0.8,ml,,,,0.29,ak,ak024a901zjj,2024-08-10T12:12:54.634Z,"33 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-10T11:52:00.427Z,60.1503,-153.2088,125.1,1.6,ml,,,,0.3,ak,ak024a8zpb1m,2024-08-10T11:54:05.646Z,"61 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-10T11:49:54.320Z,33.2243333,-116.041,3.53,0.95,ml,52,59,0.07231,0.23,ci,ci40696223,2024-08-10T11:56:11.342Z,"11 km SW of Salton City, CA",earthquake,0.17,0.41,0.108,25,automatic,ci,ci
+2024-08-10T11:47:37.650Z,51.7363333333333,-179.0235,10.85,1.49,ml,6,274,0.1117,0.16,av,av93225886,2024-08-11T04:00:37.510Z,"165 km W of Adak, Alaska",earthquake,0.99,2.18,0.282900035162555,6,reviewed,av,av
 2024-08-10T11:45:25.895Z,36.9749,-116.4238,7.9,-0.1,ml,8,159.98,0.03,0.3372,nn,nn00882187,2024-08-10T11:47:08.257Z,"30 km ENE of Beatty, Nevada",earthquake,,0.8,0.37,6,automatic,nn,nn
 2024-08-10T11:34:22.665Z,37.3678,-117.2177,1,0.7,ml,12,253.38000000000002,0.076,0.3659,nn,nn00882186,2024-08-10T11:36:48.831Z,"37 km S of Goldfield, Nevada",earthquake,,23.2,0.46,7,automatic,nn,nn
 2024-08-10T11:19:29.268Z,36.5148,-115.5183,15.2,0.7,ml,14,321.23999999999995,0.432,0.1569,nn,nn00882182,2024-08-10T11:21:39.452Z,"14 km ESE of Indian Springs, Nevada",earthquake,,1.6,0.31,8,automatic,nn,nn
