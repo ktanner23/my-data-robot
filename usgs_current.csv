@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-13T03:35:34.300Z,35.7875,-117.6266667,10.1,1.48,ml,27,66,0.1143,0.15,ci,ci40699759,2024-08-13T03:41:54.138Z,"19 km NNE of Ridgecrest, CA",earthquake,0.22,0.49,0.149,21,automatic,ci,ci
-2024-08-13T03:26:04.560Z,34.0896667,-118.1751667,10.32,1.65,ml,59,34,0.03806,0.19,ci,ci40699743,2024-08-13T03:35:04.319Z,"4 km SW of South Pasadena, CA",earthquake,0.18,0.27,0.214,25,automatic,ci,ci
+2024-08-13T03:35:34.300Z,35.7875,-117.6266667,10.1,1.48,ml,27,66,0.1143,0.15,ci,ci40699759,2024-08-13T03:47:24.211Z,"19 km NNE of Ridgecrest, CA",earthquake,0.22,0.49,0.149,21,automatic,ci,ci
+2024-08-13T03:26:04.560Z,34.0896667,-118.1751667,10.32,1.65,ml,59,34,0.03806,0.19,ci,ci40699743,2024-08-13T03:44:03.560Z,"4 km SW of South Pasadena, CA",earthquake,0.18,0.27,0.214,25,automatic,ci,ci
 2024-08-13T03:23:49.727Z,60.1966,-153.4401,186.7,2.6,ml,,,,0.47,ak,ak024adtdrvl,2024-08-13T03:25:37.401Z,"48 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-08-13T03:22:32.200Z,35.1075,-119.0891667,11.91,1.84,ml,46,44,0.04899,0.22,ci,ci40699727,2024-08-13T03:29:10.835Z,"23 km SW of Lamont, CA",earthquake,0.21,0.64,0.167,27,automatic,ci,ci
+2024-08-13T03:22:32.200Z,35.1075,-119.0891667,11.91,1.84,ml,46,44,0.04899,0.22,ci,ci40699727,2024-08-13T03:43:26.987Z,"23 km SW of Lamont, CA",earthquake,0.21,0.64,0.167,27,automatic,ci,ci
 2024-08-13T03:08:26.420Z,35.1091667,-119.108,12.06,1.33,ml,23,78,0.05421,0.21,ci,ci40699711,2024-08-13T03:14:47.030Z,"24 km SW of Lamont, CA",earthquake,0.31,0.78,0.185,23,automatic,ci,ci
 2024-08-13T03:01:10.008Z,62.2965,-151.0661,85.2,2,ml,,,,0.59,ak,ak024adt8ywe,2024-08-13T03:02:53.633Z,"27 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-13T02:55:59.420Z,35.6936667,-117.5453333,8.02,1.53,ml,29,109,0.103,0.15,ci,ci40699703,2024-08-13T03:06:53.130Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.67,0.107,24,automatic,ci,ci
@@ -90,10 +90,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T19:35:55.929Z,29.095,-97.723,7.6904,2.3,ml,16,54,0.1,0.1,tx,tx2024putm,2024-08-12T19:56:12.407Z,"19 km SSE of Nixon, Texas",earthquake,0.9036766030415456,1.3455797510778733,0.1,24,reviewed,tx,tx
 2024-08-12T19:33:45.730Z,61.7107,-149.8084,36.3,2.1,ml,,,,0.42,ak,ak024acffhrh,2024-08-12T19:35:17.601Z,"8 km N of Houston, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2024-08-12T19:30:11.850Z,19.3864994049072,-155.126831054688,1.99000000953674,1.71,ml,14,131,0.0021,0.129999995,hv,hv74396586,2024-08-12T19:32:49.740Z,"8 km S of Fern Forest, Hawaii",earthquake,0.85,0.25,0.31,3,automatic,hv,hv
+2024-08-12T19:24:10.020Z,60.0123333333333,-153.062333333333,0.3,-0.5,ml,6,106,0.02237,0.08,av,av93228491,2024-08-13T03:46:32.000Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.23,0.9,0.332415579855494,6,reviewed,av,av
 2024-08-12T19:23:19.181Z,61.8586,-150.5966,57.2,1.3,ml,,,,0.24,ak,ak024acfdajy,2024-08-12T19:25:17.059Z,"31 km WNW of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-08-12T19:22:43.320Z,34.0853333,-118.1838333,10.46,2.05,ml,22,69,0.02979,0.16,ci,ci40699215,2024-08-12T20:47:17.655Z,"4 km SSE of Highland Park, CA",earthquake,0.3,0.54,0.161,19,reviewed,ci,ci
 2024-08-12T19:21:43.410Z,60.046,-153.0855,-2.33,-0.67,ml,5,106,0.01582,0.08,av,av93228481,2024-08-13T03:40:44.240Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.24,2.08,0.343378285052043,5,reviewed,av,av
-2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T03:40:02.654Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
+2024-08-12T19:20:24.670Z,34.0825,-118.1788333,10.98,4.39,mw,192,24,0.03299,0.24,ci,ci40699207,2024-08-13T03:45:30.437Z,"4 km SSE of Highland Park, CA",earthquake,0.12,0.22,,6,reviewed,ci,ci
 2024-08-12T19:12:12.545Z,-5.495,128.7465,326.354,4.9,mb,72,30,4.33,0.48,us,us6000njny,2024-08-12T19:31:20.040Z,"208 km SSE of Ambon, Indonesia",earthquake,7.11,6.817,0.049,131,reviewed,us,us
 2024-08-12T19:10:38.610Z,34.114,-117.3246667,16.26,1.53,ml,63,31,0.1274,0.17,ci,ci40699183,2024-08-13T01:17:01.228Z,"3 km WSW of San Bernardino, CA",earthquake,0.16,0.35,0.215,29,automatic,ci,ci
 2024-08-12T19:03:49.610Z,46.0005,-112.474,-2,1.85,ml,9,112,0.05854,0.1,mb,mb90059223,2024-08-12T23:35:50.840Z,"4 km E of Butte, Montana",quarry blast,0.6,31.61,0.179075758793563,15,reviewed,mb,mb
@@ -278,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T04:17:08.380Z,61.1668333333333,-152.459666666667,0.64,-0.44,ml,5,256,0.06482,0.06,av,av93018169,2024-08-12T22:43:09.120Z,"72 km W of Tyonek, Alaska",earthquake,0.56,2.57,0.110567605491045,5,reviewed,av,av
 2024-08-12T04:05:06.750Z,38.82,-122.81,2.74,1.34,md,28,49,0.001516,0.02,nc,nc75047502,2024-08-12T06:15:58.951Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.389999986,0.15,28,automatic,nc,nc
 2024-08-12T03:58:03.240Z,36.0358333,-117.779,1.61,1.38,ml,24,77,0.01538,0.12,ci,ci40698191,2024-08-12T04:04:14.563Z,"15 km E of Coso Junction, CA",earthquake,0.16,0.13,0.149,15,automatic,ci,ci
-2024-08-12T03:49:57.280Z,35.0771667,-119.098,10.17,1.51,ml,39,62,0.02188,0.27,ci,ci40698183,2024-08-12T16:31:40.013Z,"21 km NW of Grapevine, CA",earthquake,0.28,0.52,0.139,27,automatic,ci,ci
-2024-08-12T03:43:41.260Z,33.709,-116.7556667,15.7,0.22,ml,37,58,0.03466,0.1,ci,ci40698167,2024-08-12T21:40:53.974Z,"5 km SW of Idyllwild, CA",earthquake,0.16,0.23,0.039,4,reviewed,ci,ci
