@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-14T15:35:26.330Z,19.3724994659424,-155.181503295898,2.49000000953674,1.83000004,md,27,172,0.01344,0.170000002,hv,hv74400156,2024-08-14T15:37:07.930Z,"9 km SE of Volcano, Hawaii",earthquake,0.64,0.419999987,0.170000002,15,automatic,hv,hv
-2024-08-14T15:21:25.010Z,35.08366667,-95.50766667,7.5,2.86,ml,81,57,0,0.25,ok,ok2024pycc,2024-08-14T15:41:21.231Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.24,17,reviewed,ok,ok
+2024-08-14T15:21:25.010Z,35.08366667,-95.50766667,7.5,2.86,ml,81,57,0,0.25,ok,ok2024pycc,2024-08-14T15:47:40.559Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.24,17,reviewed,ok,ok
 2024-08-14T15:20:33.830Z,19.3889999389648,-155.252838134766,1.00999999046326,2.01,ml,34,44,0.003759,0.289999992,hv,hv74400131,2024-08-14T15:23:12.450Z,"6 km SSW of Volcano, Hawaii",earthquake,0.23,0.170000002,0.31,17,automatic,hv,hv
 2024-08-14T15:15:55.018Z,36.6166,-116.4761,7.2,0.4,ml,12,264.34999999999997,0.114,0.1347,nn,nn00882414,2024-08-14T15:17:54.833Z,"38 km ENE of Furnace Creek, California",earthquake,,2,0.17,8,automatic,nn,nn
 2024-08-14T15:13:08.410Z,34.093,-118.2066667,11.39,1.84,ml,7,167,0.08021,0.22,ci,ci40701719,2024-08-14T15:19:33.725Z,"3 km SSW of Highland Park, CA",earthquake,2.12,0.99,0.236,29,automatic,ci,ci
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T03:11:42.874Z,59.5366,-146.3519,12.6,2.9,ml,,,,0.4,ak,ak024afguj3j,2024-08-14T03:13:54.398Z,"110 km ESE of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-14T03:10:43.288Z,36.5953,-115.6988,6.9,1.3,ml,9,308.28000000000003,0.222,0.0862,nn,nn00882328,2024-08-14T11:27:26.135Z,"3 km NW of Indian Springs, Nevada",earthquake,,9.6,0.1,2,reviewed,nn,nn
 2024-08-14T03:09:30.621Z,36.6336,-115.7304,8.3,1.8,ml,28,142.48000000000002,0.188,0.0955,nn,nn00882325,2024-08-14T11:21:16.794Z,"8 km NW of Indian Springs, Nevada",earthquake,,2.6,0.28,6,reviewed,nn,nn
-2024-08-14T03:06:35.540Z,36.636,-115.7274,13.2,4.4,ml,43,44.07,0.19,0.1326,nn,nn00882322,2024-08-14T15:21:05.759Z,"8 km NW of Indian Springs, Nevada",earthquake,,2,0.27,20,reviewed,nn,nn
+2024-08-14T03:06:35.540Z,36.636,-115.7274,13.2,4.4,ml,43,44.07,0.19,0.1326,nn,nn00882322,2024-08-14T15:49:52.435Z,"8 km NW of Indian Springs, Nevada",earthquake,,2,0.27,20,reviewed,nn,nn
 2024-08-14T03:02:32.930Z,35.9213333,-117.6716667,8.3,0.73,ml,12,119,0.03164,0.09,ci,ci40701183,2024-08-14T03:08:18.442Z,"21 km E of Little Lake, CA",earthquake,0.23,0.5,0.247,3,automatic,ci,ci
 2024-08-14T02:55:28.487Z,-15.7914,-75.0397,10,5.3,mww,73,131,4.167,0.82,us,us6000njz1,2024-08-14T03:22:29.040Z,"48 km SSE of San Juan, Peru",earthquake,9.03,1.812,0.078,16,reviewed,us,us
 2024-08-14T02:54:15.840Z,32.9136667,-116.332,6.53,1.17,ml,44,64,0.04739,0.22,ci,ci40701175,2024-08-14T13:21:36.997Z,"21 km ENE of Pine Valley, CA",earthquake,0.22,0.47,0.145,27,reviewed,ci,ci
@@ -288,4 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T16:12:13.410Z,57.9731666666667,-155.723666666667,10.73,0.98,ml,9,182,0.1127,0.24,av,av93229701,2024-08-14T03:04:42.680Z,"87 km WNW of Karluk, Alaska",earthquake,1.41,1.48,0.121292134228363,9,reviewed,av,av
 2024-08-13T16:12:10.490Z,40.0909,-119.7214,14,0.5,ml,3,214.35000000000002,0.08,0.1067,nn,nn00882301,2024-08-13T17:12:58.245Z,"18 km NNW of Sutcliffe, Nevada",earthquake,,3.7,0.21,3,reviewed,nn,nn
 2024-08-13T15:54:43.914Z,61.7148,-150.8232,52.3,1.8,ml,,,,0.28,ak,ak024ae0plqf,2024-08-13T15:56:47.992Z,"25 km NW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-08-13T15:46:18.890Z,35.0848333,-119.0926667,11.97,2.12,ml,50,63,0.02716,0.27,ci,ci40700335,2024-08-13T15:57:16.390Z,"22 km NW of Grapevine, CA",earthquake,0.26,0.81,0.231,26,automatic,ci,ci
