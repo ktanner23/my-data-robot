@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:30:07.650Z,33.249,-116.0375,3.83,0.82,ml,29,81,0.05324,0.19,ci,ci40701839,2024-08-14T17:36:06.499Z,"9 km SW of Salton City, CA",earthquake,0.19,0.38,0.208,17,automatic,ci,ci
 2024-08-14T17:25:26.290Z,52.7806666666667,-169.778,10.36,1.77,ml,6,200,0.03402,0.21,av,av93230766,2024-08-14T19:09:24.680Z,"64 km WSW of Nikolski, Alaska",earthquake,1.75,0.96,0.275759533713923,7,reviewed,av,av
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
@@ -159,6 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T10:09:40.330Z,17.9398333333333,-66.9588333333333,10.17,2.67,md,20,208,0.05761,0.15,pr,pr71457438,2024-08-14T11:44:20.040Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.43,0.31,0.165855346386133,5,reviewed,pr,pr
 2024-08-14T10:04:18.314Z,36.8626,-115.9832,6.2,-0.4,ml,10,108.12,0.009,0.1055,nn,nn00882436,2024-08-14T19:40:15.924Z,"42 km NW of Indian Springs, Nevada",earthquake,,2.2,0.32,3,reviewed,nn,nn
 2024-08-14T10:00:59.885Z,39.275,-119.6403,6,1.6,ml,20,70.29000000000002,0.116,0.1504,nn,nn00882383,2024-08-14T17:12:38.018Z,"3 km SSE of Virginia City, Nevada",earthquake,,2,0.07,8,reviewed,nn,nn
+2024-08-14T09:55:05.349Z,36.5874,-115.7817,5.5,0.2,ml,9,342.35,0.163,0.0577,nn,nn00882446,2024-08-14T22:44:18.050Z,"10 km W of Indian Springs, Nevada",earthquake,,15.3,0,1,reviewed,nn,nn
 2024-08-14T09:54:18.570Z,36.6158,-115.7,8.4,0.6,ml,27,146.81,0.216,0.0821,nn,nn00882381,2024-08-14T16:57:10.243Z,"5 km NNW of Indian Springs, Nevada",earthquake,,5.3,0.07,8,reviewed,nn,nn
 2024-08-14T09:29:29.110Z,38.83,-122.82,1.49,0.21,md,8,80,0.01586,0.01,nc,nc75048156,2024-08-14T09:31:07.194Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.09000003,0.11,10,automatic,nc,nc
 2024-08-14T09:19:56.858Z,60.3738,-153.0559,17.9,0.5,ml,,,,0.32,ak,ak024afkgvj9,2024-08-14T22:12:58.700Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -331,4 +332,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-13T23:07:39.701Z,41.8665,-126.7271,10,3,ml,58,260,1.825,0.87,us,us6000njxy,2024-08-14T00:24:30.040Z,"198 km WSW of Pistol River, Oregon",earthquake,8.22,2.02,0.038,92,reviewed,us,us
 2024-08-13T23:06:57.150Z,35.0786667,-119.1171667,-0.56,1.05,ml,15,128,0.2139,0.12,ci,ci40700999,2024-08-13T23:13:20.381Z,"23 km NW of Grapevine, CA",earthquake,0.28,0.64,0.178,13,automatic,ci,ci
 2024-08-13T23:05:17.810Z,51.8586666666667,-177.824833333333,9.15,1.12,ml,5,151,0.04484,0.13,av,av93230071,2024-08-14T03:56:46.350Z,"82 km W of Adak, Alaska",earthquake,0.61,0.6,0.188209710676567,5,reviewed,av,av
-2024-08-13T22:45:28.760Z,35.0791667,-119.0643333,12.31,1.64,ml,41,53,0.026,0.23,ci,ci40700967,2024-08-13T22:52:09.915Z,"19 km NW of Grapevine, CA",earthquake,0.24,0.59,0.176,28,automatic,ci,ci
