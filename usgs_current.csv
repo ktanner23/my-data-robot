@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T09:04:39.060Z,34.2384987,-117.6421661,5.2,1.03,ml,27,86,0.01356,0.16,ci,ci40702791,2024-08-15T09:06:42.464Z,"13 km W of Lytle Creek, CA",earthquake,0.38,0.65,0.302,9,automatic,ci,ci
 2024-08-15T08:52:46.832Z,60.2968,-148.5548,0,1.5,ml,,,,0.9,ak,ak024ah7lua3,2024-08-15T08:54:32.927Z,"39 km NW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-15T08:50:31.320Z,38.82,-122.84,1.48,0.75,md,7,117,0.006525,0.02,nc,nc75048606,2024-08-15T08:52:06.747Z,"9 km NW of The Geysers, CA",earthquake,0.51,0.75,0.27,9,automatic,nc,nc
 2024-08-15T08:47:49.110Z,33.2375,-116.0381667,3.15,0.72,ml,38,96,0.06105,0.23,ci,ci40702783,2024-08-15T08:54:03.090Z,"10 km SW of Salton City, CA",earthquake,0.26,0.43,0.197,9,automatic,ci,ci
@@ -163,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T17:25:26.290Z,52.7806666666667,-169.778,10.36,1.77,ml,6,200,0.03402,0.21,av,av93230766,2024-08-14T19:09:24.680Z,"64 km WSW of Nikolski, Alaska",earthquake,1.75,0.96,0.275759533713923,7,reviewed,av,av
 2024-08-14T17:19:52.560Z,33.6845,-116.7888333,16.51,0.6,ml,24,80,0.06769,0.11,ci,ci40701823,2024-08-14T17:25:48.671Z,"9 km SW of Idyllwild, CA",earthquake,0.23,0.39,0.153,12,automatic,ci,ci
 2024-08-14T17:18:49.900Z,52.7976666666667,-169.771166666667,9.16,0.88,ml,4,173,0.03136,0.12,av,av93230761,2024-08-15T01:39:04.180Z,"63 km WSW of Nikolski, Alaska",earthquake,2.68,1.09,0.10726874393177,4,reviewed,av,av
-2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
+2024-08-14T17:16:49.429Z,35.35,-97.96166667,6.5,1.28,ml,52,58,0.05488922886,0.43,ok,ok2024pyfw,2024-08-14T17:39:38.007Z,"Oklahoma",earthquake,,0.7,0.28,23,reviewed,ok,ok
 2024-08-14T17:16:27.590Z,46.20433333333333,-122.19333333333333,6.38,0.04,ml,9,114,0.004868,0.09,uw,uw62027752,2024-08-14T19:11:41.590Z,"38 km NNE of Amboy, Washington",earthquake,0.32,0.73,0.054364641945367956,4,reviewed,uw,uw
 2024-08-14T17:11:07.200Z,35.7665,-117.5903333,2.4,0.72,ml,19,63,0.148,0.18,ci,ci40701807,2024-08-14T17:16:56.099Z,"17 km W of Searles Valley, CA",earthquake,0.29,0.95,0.098,6,automatic,ci,ci
 2024-08-14T17:05:49.950Z,37.78,-121.99,8.16,1.93,md,22,62,0.0445,0.08,nc,nc75048321,2024-08-14T19:28:43.192Z,"1 km W of San Ramon, CA",earthquake,0.31,0.439999998,0.2,17,automatic,nc,nc
@@ -289,7 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-14T09:15:19.153Z,28.734,-98.286,2.6611,1.8,ml,20,46,0.1,0.3,tx,tx2024pxqa,2024-08-14T16:05:44.643Z,"21 km ESE of Christine, Texas",earthquake,1.0690510787311411,1.8643619700385643,0.1,9,reviewed,tx,tx
 2024-08-14T09:15:07.000Z,-6.6178,104.3956,34.156,5,mb,52,78,3.337,0.71,us,us6000nk1m,2024-08-14T09:44:57.723Z,"160 km W of Labuan, Indonesia",earthquake,8.51,2.055,0.079,51,reviewed,us,us
 2024-08-14T09:10:35.564Z,36.6289,-115.7427,11,0.5,ml,19,143.42000000000002,0.179,0.0662,nn,nn00882377,2024-08-15T02:25:42.242Z,"9 km NW of Indian Springs, Nevada",earthquake,,5.5,0.12,5,reviewed,nn,nn
-2024-08-14T09:05:48.777Z,36.6385,-115.7317,9.3,0.8,ml,35,141.36,0.187,0.0982,nn,nn00882374,2024-08-14T17:49:33.573Z,"9 km NW of Indian Springs, Nevada",earthquake,,2.1,0.31,11,reviewed,nn,nn
-2024-08-14T09:03:43.840Z,19.3253326416016,-155.192672729492,1.33000004291534,1.77,ml,54,92,0.0528,0.170000002,hv,hv74399496,2024-08-14T09:06:21.950Z,"13 km SSE of Volcano, Hawaii",earthquake,0.23,0.319999993,0.82,6,automatic,hv,hv
-2024-08-14T09:01:09.320Z,60.816,-153.4982,13.1,1.4,ml,,,,0.28,ak,ak024afkcwz8,2024-08-14T09:02:18.438Z,"81 km NNE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-14T09:00:25.170Z,19.1625003814697,-155.488998413086,28.2399997711182,1.80999994,md,40,118,0.02638,0.170000002,hv,hv74399491,2024-08-14T09:02:01.450Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.55,0.800000012,0.219999999,3,automatic,hv,hv
