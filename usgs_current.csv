@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-15T21:15:16.380Z,38.8123321533203,-122.759834289551,1.12000000476837,0.58,md,7,141,0.01632,0.02,nc,nc75048891,2024-08-15T21:16:53.277Z,"3 km W of Cobb, CA",earthquake,0.5,0.850000024,0.14,8,automatic,nc,nc
+2024-08-15T21:13:25.760Z,35.6846657,-117.538002,7.52,1.14,ml,16,120,0.09508,0.11,ci,ci40703647,2024-08-15T21:15:32.141Z,"14 km ENE of Ridgecrest, CA",earthquake,0.46,1.54,0.126,6,automatic,ci,ci
 2024-08-15T20:45:18.580Z,19.1771659851074,-155.492004394531,31.7199993133545,1.8,ml,41,141,0.03559,0.140000001,hv,hv74403226,2024-08-15T20:47:55.930Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.64,0.779999971,0.66,6,automatic,hv,hv
 2024-08-15T20:32:23.850Z,34.2345,-117.6436667,4.61,1.43,ml,24,73,0.01305,0.18,ci,ci40703583,2024-08-15T20:40:04.474Z,"14 km WSW of Lytle Creek, CA",earthquake,0.24,0.28,0.412,31,automatic,ci,ci
 2024-08-15T20:22:15.070Z,34.17,-118.0565,11.49,1.69,ml,9,180,0.1067,0.14,ci,ci40703567,2024-08-15T20:48:24.291Z,"1 km NNW of Sierra Madre, CA",earthquake,0.64,1.35,0.341,36,reviewed,ci,ci
@@ -23,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T18:59:32.290Z,38.85,-122.82,2.18,0.3,md,6,123,0.008777,0.01,nc,nc75048846,2024-08-15T19:01:08.113Z,"9 km WNW of Cobb, CA",earthquake,0.64,1.23000002,0.15,8,automatic,nc,nc
 2024-08-15T18:59:14.100Z,38.84,-122.82,1.38,1.34,md,22,55,0.01126,0.02,nc,nc75048841,2024-08-15T20:15:57.221Z,"9 km WNW of Cobb, CA",earthquake,0.19,0.409999996,0.19,23,automatic,nc,nc
 2024-08-15T18:59:03.350Z,38.85,-122.82,0.87,0.92,md,12,109,0.01311,0.02,nc,nc75048836,2024-08-15T20:01:00.127Z,"9 km WNW of Cobb, CA",earthquake,0.33,0.519999981,0.26,13,automatic,nc,nc
+2024-08-15T18:55:57.295Z,74.6286,9.6382,10,4.4,mb,38,81,3.906,0.97,us,us7000n78m,2024-08-15T21:14:10.040Z,"Greenland Sea",earthquake,5.12,1.924,0.096,31,reviewed,us,us
 2024-08-15T18:51:22.670Z,35.2118333,-120.3453333,-0.21,1.43,ml,18,94,0.1625,0.18,ci,ci40703423,2024-08-15T18:57:31.824Z,"22 km NNE of Nipomo, CA",earthquake,0.31,0.59,0.202,19,automatic,ci,ci
 2024-08-15T18:41:24.990Z,38.81,-122.82,2.61,0.78,md,12,90,0.0073,0.03,nc,nc75048821,2024-08-15T20:56:34.514Z,"6 km NW of The Geysers, CA",earthquake,0.4,0.899999976,0.15,13,automatic,nc,nc
 2024-08-15T18:40:13.791Z,61.6136,-148.807,41.7,0.6,ml,,,,0.11,ak,ak024ahdhj62,2024-08-15T18:42:47.486Z,"7 km E of Lazy Mountain, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -48,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T16:54:17.729Z,-20.3946,-173.8046,25.618,4.7,mb,32,129,1.455,0.83,us,us7000n77w,2024-08-15T18:26:54.040Z,"86 km SE of Pangai, Tonga",earthquake,11.68,6.033,0.07,62,reviewed,us,us
 2024-08-15T16:48:55.100Z,35.35583333,-97.958,5.57,1.37,ml,58,43,0.04859046489,0.43,ok,ok2024qaam,2024-08-15T17:25:26.026Z,"4 km SSW of Union City, Oklahoma",earthquake,,0.7,0.25,26,reviewed,ok,ok
 2024-08-15T16:40:24.610Z,33.6813333,-117.3981667,8.31,2.95,ml,73,40,0.0397,0.18,ci,ci40703167,2024-08-15T20:53:02.099Z,"7 km WNW of Lake Elsinore, CA",earthquake,0.15,0.35,0.116,17,reviewed,ci,ci
-2024-08-15T16:39:31.860Z,33.674,-117.3981667,8.38,3.92,ml,158,33,0.03404,0.26,ci,ci40703159,2024-08-15T20:57:27.832Z,"6 km NW of Lakeland Village, CA",earthquake,0.14,0.44,0.155,337,reviewed,ci,ci
+2024-08-15T16:39:31.860Z,33.674,-117.3981667,8.38,3.92,ml,158,33,0.03404,0.26,ci,ci40703159,2024-08-15T21:10:36.248Z,"6 km NW of Lakeland Village, CA",earthquake,0.14,0.44,0.155,337,reviewed,ci,ci
 2024-08-15T16:38:04.150Z,63.5298,-151.0843,0.1,1.2,ml,,,,0.8,ak,ak024ahca7s7,2024-08-15T16:40:34.374Z,"31 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-15T16:37:23.379Z,35.34883333,-97.96133333,6.36,1.21,ml,53,71,0.05578905228,0.46,ok,ok2024qaac,2024-08-15T17:11:26.712Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.8,0.23,25,reviewed,ok,ok
 2024-08-15T16:37:03.250Z,19.3875,-155.2455,1.76,2.6,ml,39,63,0.005831,0.08,hv,hv74402766,2024-08-15T20:08:24.550Z,"6 km S of Volcano, Hawaii",earthquake,0.21,0.14,0.516211839718227,24,reviewed,hv,hv
@@ -124,13 +127,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T10:47:32.750Z,19.1683330535889,-155.51383972168,30.0400009155273,1.82000005,md,40,114,0.05056,0.189999998,hv,hv74402031,2024-08-15T10:49:11.980Z,"5 km SW of Pāhala, Hawaii",earthquake,0.72,0.970000029,0.180000007,5,automatic,hv,hv
 2024-08-15T10:45:45.780Z,36.46116667,-98.80283333,6.31,3.18,ml,88,70,0.01169770451,0.19,ok,ok2024pzom,2024-08-15T19:48:14.129Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.4,0.22,30,reviewed,ok,ok
 2024-08-15T10:41:48.306Z,28.763,-98.271,10.8154,1.8,ml,19,52,0.1,0.3,tx,tx2024pzoj,2024-08-15T16:07:43.937Z,"22 km E of Christine, Texas",earthquake,1.0952388423569677,2.012969493227488,0.1,14,reviewed,tx,tx
-2024-08-15T10:40:53.120Z,32.5851667,-115.2988333,20.98,1.48,ml,22,60,0.2433,0.27,ci,ci40702839,2024-08-15T10:47:10.523Z,"6 km ENE of Puebla, B.C., MX",earthquake,0.44,1.7,0.262,19,automatic,ci,ci
+2024-08-15T10:40:53.110Z,32.5831667,-115.2995,18.92,1.36,ml,24,49,0.1317,0.25,ci,ci40702839,2024-08-15T21:11:44.435Z,"6 km ENE of Puebla, B.C., MX",earthquake,0.36,1.03,0.178,15,reviewed,ci,ci
 2024-08-15T10:37:42.770Z,38.84,-122.81,1.77,0.22,md,8,66,0.01406,0.02,nc,nc75048636,2024-08-15T11:46:00.343Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.24000001,0.1,8,automatic,nc,nc
 2024-08-15T10:32:29.989Z,31.61,-104.104,5.6769,1.6,ml,31,52,0,0.1,tx,tx2024pzob,2024-08-15T16:11:00.971Z,"44 km NW of Toyah, Texas",earthquake,0.5010875846943248,0.5147126981381286,0.1,19,reviewed,tx,tx
 2024-08-15T10:31:40.520Z,19.1720008850098,-155.48567199707,29.3099994659424,2.24,ml,61,96,0.02772,0.140000001,hv,hv74402001,2024-08-15T10:42:56.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.42,0.660000026,0.38,22,automatic,hv,hv
 2024-08-15T10:25:58.110Z,60.016,-153.0945,1.09,-1.15,ml,5,116,0.03817,0.03,av,av93231331,2024-08-15T20:32:48.170Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.22,0.85,0.173397781941567,5,reviewed,av,av
 2024-08-15T10:25:53.512Z,37.8668,-117.7937,0,0.7,ml,10,139.8,0.221,0.1666,nn,nn00882478,2024-08-15T16:38:53.240Z,"18 km NW of Silver Peak, Nevada",earthquake,,0,0.04,3,reviewed,nn,nn
-2024-08-15T10:20:04.060Z,35.103,-119.0998333,13.09,1.84,ml,37,43,0.04621,0.23,ci,ci40702831,2024-08-15T21:04:22.384Z,"24 km NW of Grapevine, CA",earthquake,0.29,0.95,0.15,72,reviewed,ci,ci
+2024-08-15T10:20:04.060Z,35.103,-119.0998333,13.09,1.84,ml,37,43,0.04621,0.23,ci,ci40702831,2024-08-15T21:05:22.270Z,"24 km NW of Grapevine, CA",earthquake,0.29,0.95,0.15,72,reviewed,ci,ci
 2024-08-15T10:11:25.720Z,33.2485,-116.0286667,5.02,0.84,ml,34,98,0.04775,0.17,ci,ci40702823,2024-08-15T20:55:57.676Z,"9 km SW of Salton City, CA",earthquake,0.19,0.43,0.122,20,reviewed,ci,ci
 2024-08-15T10:06:47.780Z,35.6611667,-117.5391667,9.37,1.44,ml,30,46,0.0941,0.14,ci,ci40702815,2024-08-15T13:37:03.610Z,"13 km ENE of Ridgecrest, CA",earthquake,0.18,0.41,0.11,22,reviewed,ci,ci
 2024-08-15T10:05:42.153Z,28.737,-98.277,3.9795,1.4,ml,14,45,0.1,0.2,tx,tx2024pzne,2024-08-15T17:34:42.788Z,"22 km ESE of Christine, Texas",earthquake,1.397810979932664,2.931232783953902,0.1,7,reviewed,tx,tx
@@ -171,6 +174,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T07:11:12.050Z,36.49,-121.86,3.9,1.83,md,17,149,0.02856,0.11,nc,nc75048576,2024-08-15T07:12:51.068Z,"9 km SSE of Carmel By The Sea, CA",earthquake,0.39,0.579999983,0.23,14,automatic,nc,nc
 2024-08-15T06:59:44.590Z,38.82,-122.82,2.56,0.65,md,7,83,0.009416,0.01,nc,nc75048571,2024-08-15T07:01:21.088Z,"7 km NW of The Geysers, CA",earthquake,0.7,1.45000005,0.39,8,automatic,nc,nc
 2024-08-15T06:56:04.311Z,37.1217,-117.1221,6.2,1.2,ml,25,103.97000000000003,0.158,0.1376,nn,nn00882474,2024-08-15T16:11:20.547Z,"40 km NW of Beatty, Nevada",earthquake,,1.9,0.23,7,reviewed,nn,nn
+2024-08-15T06:53:21.470Z,47.79233333333333,-122.8405,22.44,0.26,ml,7,170,0.04382,0.16,uw,uw62027992,2024-08-15T21:12:08.440Z,"4 km SE of Quilcene, Washington",earthquake,0.86,0.75,0.13141911948079107,2,reviewed,uw,uw
 2024-08-15T06:52:01.657Z,63.1966,-151.3298,0,1.2,ml,,,,0.88,ak,ak024ah6evl1,2024-08-15T06:54:01.099Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-15T06:40:25.490Z,33.2741667,-116.4306667,4.72,0.75,ml,41,55,0.01278,0.21,ci,ci40702751,2024-08-15T13:37:12.871Z,"6 km WNW of Borrego Springs, CA",earthquake,0.19,0.41,0.143,15,reviewed,ci,ci
 2024-08-15T06:25:41.870Z,58.46,-154.336166666667,-0.21,-0.35,ml,5,255,0.1157,0.25,av,av93018509,2024-08-15T19:39:09.830Z,"94 km WNW of Aleneva, Alaska",earthquake,1.06,1.44,0.18634350791982,5,reviewed,av,av
@@ -231,6 +235,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-15T02:12:34.320Z,33.269,-116.4293333,4.08,0.66,ml,33,47,0.01023,0.2,ci,ci40702567,2024-08-15T13:38:39.341Z,"5 km WNW of Borrego Springs, CA",earthquake,0.24,0.39,0.07,13,reviewed,ci,ci
 2024-08-15T02:04:47.260Z,33.2441667,-116.0426667,2.42,0.46,ml,15,78,0.05959,0.15,ci,ci40702551,2024-08-15T17:30:05.307Z,"10 km SW of Salton City, CA",earthquake,0.29,0.6,0.121,6,reviewed,ci,ci
 2024-08-15T01:59:58.679Z,35.35116667,-97.96266667,8.18,0.33,ml,18,109,0.05488922886,0.16,ok,ok2024pyxd,2024-08-15T13:38:52.767Z,"4 km NNW of Minco, Oklahoma",earthquake,,1.4,0.23,9,reviewed,ok,ok
+2024-08-15T01:59:03.770Z,43.4938333333333,-110.511333333333,6.04,1.39,ml,8,272,0.1363,0.03,mb,mb90059403,2024-08-15T21:09:08.240Z,"16 km SSE of Kelly, Wyoming",earthquake,0.69,1.81,0.128491215477655,9,reviewed,mb,mb
 2024-08-15T01:54:26.790Z,35.9145,-117.6851667,7.41,1.64,ml,24,53,0.04368,0.14,ci,ci40702535,2024-08-15T13:38:47.215Z,"20 km E of Little Lake, CA",earthquake,0.18,0.5,0.129,22,reviewed,ci,ci
 2024-08-15T01:46:54.980Z,38.83,-122.81,2.59,0.5,md,6,150,0.01129,0.01,nc,nc75048501,2024-08-15T01:48:30.023Z,"8 km WNW of Cobb, CA",earthquake,0.7,1.87,0.27,8,automatic,nc,nc
 2024-08-15T01:45:03.980Z,33.5853333,-116.804,9.11,0.63,ml,25,69,0.03433,0.14,ci,ci40702527,2024-08-15T17:07:04.864Z,"12 km WNW of Anza, CA",earthquake,0.24,0.46,0.128,10,reviewed,ci,ci
