@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-17T16:25:54.480Z,35.6534996,-117.4776688,7.14,1.69,ml,11,105,0.04544,0.14,ci,ci40705559,2024-08-17T16:27:59.019Z,"14 km SSW of Searles Valley, CA",earthquake,0.84,1.05,0.57,11,automatic,ci,ci
 2024-08-17T16:13:25.410Z,38.8113327026367,-122.818664550781,2.75,0.8,md,18,57,0.008575,0.02,nc,nc75049611,2024-08-17T16:15:03.490Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.50999999,0.22,18,automatic,nc,nc
+2024-08-17T16:04:49.956Z,31.603,-103.955,5.1751,1.6,ml,14,73,0,0.3,tx,tx2024qdqa,2024-08-17T16:25:43.216Z,"35 km NNW of Toyah, Texas",earthquake,0,2.09664940834045,0.2,12,automatic,tx,tx
 2024-08-17T16:02:16.421Z,64.476,-146.8741,10.6,0.7,ml,,,,0.26,ak,ak024akn57yi,2024-08-17T16:04:19.290Z,"5 km SSE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-17T15:33:09.919Z,64.4657,-146.9133,0,1.7,ml,,,,0.6,ak,ak024akmqf1r,2024-08-17T15:48:31.647Z,"6 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-08-17T15:26:36.500Z,34.2891667,-118.4225,4.11,1.3,ml,39,42,0.03941,0.22,ci,ci40705519,2024-08-17T15:34:01.090Z,"2 km E of San Fernando, CA",earthquake,0.21,0.53,0.148,30,automatic,ci,ci
@@ -180,6 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T21:21:46.167Z,31.603,-103.955,5.653,2,ml,15,73,0,0.3,tx,tx2024qcez,2024-08-16T21:58:45.436Z,"35 km NNW of Toyah, Texas",earthquake,0,2.17319011688232,0.2,13,automatic,tx,tx
 2024-08-16T21:20:13.250Z,62.1407,-149.4951,35.5,1.6,ml,,,,0.52,ak,ak024aj2ow4t,2024-08-16T21:22:19.445Z,"18 km E of Susitna North, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2024-08-16T21:18:28.920Z,19.3911666666667,-155.278666666667,1.26,2.32,ml,23,47,0.005435,0.09,hv,hv74405321,2024-08-16T22:32:59.660Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.14,0.190414313151484,11,reviewed,hv,hv
+2024-08-16T20:41:27.333Z,23.7681,121.6929,16.658,4,mwr,31,65,0.414,0.69,us,us7000n7i1,2024-08-17T16:29:07.040Z,"24 km SSE of Hualien City, Taiwan",earthquake,1.54,4.12,0.086,13,reviewed,us,us
 2024-08-16T20:33:53.370Z,35.0681667,-119.0975,12.47,1.31,ml,21,84,0.01474,0.2,ci,ci40704783,2024-08-16T20:40:43.106Z,"21 km NW of Grapevine, CA",earthquake,0.37,0.65,0.343,23,automatic,ci,ci
 2024-08-16T20:05:48.160Z,37.6693344116211,-122.514831542969,8.47000026702881,1.71,md,12,185,0.08336,0.05,nc,nc75049251,2024-08-16T21:26:36.752Z,"5 km WSW of Daly City, CA",earthquake,0.46,0.920000017,0.24,9,automatic,nc,nc
 2024-08-16T19:57:43.950Z,19.3921666666667,-155.275666666667,1.89,2.88,ml,38,42,0.003714,0.1,hv,hv74405176,2024-08-17T14:10:27.040Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.12,0.288337643405419,17,reviewed,hv,hv
@@ -220,8 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-16T16:43:19.200Z,19.3773326873779,-155.167007446289,2.73000001907349,1.87,ml,31,75,0.003016,0.280000001,hv,hv74404766,2024-08-16T16:45:57.820Z,"10 km SE of Volcano, Hawaii",earthquake,0.62,0.779999971,0.31,15,automatic,hv,hv
 2024-08-16T16:42:39.980Z,38.755,-122.7425,1.45,0.23,md,11,75,0.002772,0.03,nc,nc75049176,2024-08-16T23:37:42.271Z,"3 km SSE of The Geysers, CA",earthquake,0.31,0.27,0.348,7,reviewed,nc,nc
 2024-08-16T16:41:42.320Z,37.5558333333333,-113.085166666667,11.66,1.02,ml,7,191,0.03957,0.12,uu,uu80078646,2024-08-16T17:11:35.510Z,"8 km ENE of Kanarraville, Utah",earthquake,0.7,1.1,0.306672694905416,3,reviewed,uu,uu
-2024-08-16T16:27:18.280Z,31.594,-104.246,7.2791,2,ml,22,71,0.1,0.2,tx,tx2024qbvg,2024-08-16T21:00:26.920Z,"53 km NW of Toyah, Texas",earthquake,0.8699647801653675,0.9724374639651377,0.2,18,reviewed,tx,tx
-2024-08-16T16:26:55.930Z,38.8143348693848,-122.833831787109,2.14000010490417,0.96,md,12,100,0.006559,0.03,nc,nc75049171,2024-08-16T17:56:33.302Z,"8 km NW of The Geysers, CA",earthquake,0.47,0.629999995,0.21,14,automatic,nc,nc
-2024-08-16T16:22:47.689Z,36.691,-96.70566667,0,1.43,ml,57,96,0.1448715713,0.73,ok,ok2024qbvd,2024-08-16T16:47:52.283Z,"2 km E of Burbank, Oklahoma",quarry blast,,0.7,0.27,22,reviewed,ok,ok
-2024-08-16T16:20:53.461Z,61.9864,-148.9041,20.6,1.6,ml,,,,0.27,ak,ak024aizpt7m,2024-08-16T16:22:25.829Z,"24 km NNW of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-16T16:17:08.259Z,31.583,-104.249,4.1412,1.9,ml,17,73,0.1,0.2,tx,tx2024qbvb,2024-08-16T17:30:00.342Z,"52 km NW of Toyah, Texas",earthquake,0,1.41145503520966,0.2,13,automatic,tx,tx
