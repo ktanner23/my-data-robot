@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-22T21:50:53.970Z,19.3931674957275,-155.249664306641,1.46000003814697,2.71000004,md,19,52,0.007774,0.129999995,hv,hv74420351,2024-08-22T21:52:38.660Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.200000003,0.479999989,14,automatic,hv,hv
-2024-08-22T21:48:09.800Z,33.848999,-117.4906693,0.87,1.43,ml,50,45,0.04936,0.19,ci,ci40711567,2024-08-22T21:50:27.526Z,"4 km SE of Home Gardens, CA",earthquake,0.28,0.5,0.203,17,automatic,ci,ci
+2024-08-22T21:50:53.970Z,19.3931674957275,-155.249664306641,1.46000003814697,1.9,ml,19,52,0.007774,0.129999995,hv,hv74420351,2024-08-22T21:53:33.090Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.200000003,0.3,10,automatic,hv,hv
+2024-08-22T21:48:09.800Z,33.848999,-117.4906693,0.87,1.43,ml,50,45,0.04936,0.19,ci,ci40711567,2024-08-22T21:59:35.480Z,"4 km SE of Home Gardens, CA",earthquake,0.28,0.5,0.203,17,automatic,ci,ci
 2024-08-22T21:27:39.440Z,19.3729991912842,-155.210998535156,2.03999996185303,2.06,ml,30,59,0.004321,0.170000002,hv,hv74420316,2024-08-22T21:30:17.210Z,"8 km SSE of Volcano, Hawaii",earthquake,0.35,0.330000013,0.18,13,automatic,hv,hv
 2024-08-22T21:27:35.150Z,19.3793334960938,-155.224502563477,-0.469999998807907,1.98,ml,9,92,0.01013,0.180000007,hv,hv74420311,2024-08-22T21:30:14.090Z,"7 km S of Volcano, Hawaii",earthquake,0.31,0.270000011,0.16,13,automatic,hv,hv
 2024-08-22T20:49:40.884Z,60.1651,-152.9587,121.2,1.6,ml,,,,0.58,ak,ak024aszhte0,2024-08-22T20:51:59.963Z,"72 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -103,6 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T08:56:45.771Z,63.7303,-150.2153,0.9,1.2,ml,,,,0.92,ak,ak024asse4iv,2024-08-22T09:01:55.318Z,"62 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-22T08:55:16.365Z,50.4221,-173.5749,15.4,3.4,ml,,,,0.64,ak,ak024assdvcw,2024-08-22T17:31:07.898Z,"202 km SSE of Atka, Alaska",earthquake,,3,,,reviewed,ak,ak
 2024-08-22T08:53:23.309Z,60.3766,-148.3053,0,1.4,ml,,,,0.45,ak,ak024assdftg,2024-08-22T08:55:34.543Z,"38 km NNW of Chenega, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-08-22T08:52:10.970Z,52.0455,178.364333333333,12.91,1.01,ml,4,348,0.1203,0.07,av,av93237441,2024-08-22T21:57:57.660Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.01,1.88,0.356943843346763,4,reviewed,av,av
 2024-08-22T08:42:15.530Z,51.9928333333333,178.3545,10.76,1.25,ml,4,349,0.1019,0.06,av,av93018999,2024-08-22T18:50:12.330Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.05,1.61,0.336010586535231,4,reviewed,av,av
 2024-08-22T08:41:25.090Z,52.012,178.310833333333,1.06,2.24,ml,8,333,0.1332,0.08,av,av93237411,2024-08-22T18:46:35.350Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.68,31.61,0.244536566090212,10,reviewed,av,av
 2024-08-22T08:39:27.760Z,51.9745,178.3225,9.3,2.63,ml,5,318,0.1191,0.04,av,av93237406,2024-08-22T18:10:11.500Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.73,1.67,0.189675321456313,11,reviewed,av,av
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-21T22:06:47.450Z,54.1511666666667,-165.962,2.48,-0.74,ml,7,87,0.01209,0.29,av,av93018959,2024-08-22T00:05:07.360Z,"12 km W of Akutan, Alaska",earthquake,0.39,0.74,0.270825588501416,7,reviewed,av,av
 2024-08-21T22:06:11.640Z,54.1511666666667,-165.974166666667,1.43,-1,ml,6,113,0.01584,0.15,av,av93236776,2024-08-22T00:01:05.100Z,"13 km W of Akutan, Alaska",earthquake,0.35,0.61,0.312120353697374,6,reviewed,av,av
 2024-08-21T22:03:19.050Z,34.08,-118.2011667,11,1.1,ml,19,97,0.04691,0.14,ci,ci40710487,2024-08-22T20:22:00.867Z,"4 km S of Highland Park, CA",earthquake,0.34,0.52,0.248,8,reviewed,ci,ci
-2024-08-21T21:59:15.771Z,62.7778,-149.1108,9.1,1.4,ml,,,,0.52,ak,ak024arclzq1,2024-08-21T22:01:18.949Z,"62 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-21T21:57:43.260Z,33.972,-116.951,18.2,1.24,ml,46,30,0.05615,0.17,ci,ci40710479,2024-08-22T20:14:37.586Z,"5 km NNE of Beaumont, CA",earthquake,0.2,0.43,0.176,21,reviewed,ci,ci
