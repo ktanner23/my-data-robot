@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-23T04:47:33.340Z,46.381500244140625,-122.3193359375,11.7200002670288,0.769999981,md,13,174,,0.0500000007,uw,uw62039846,2024-08-23T04:49:25.570Z,"19 km S of Morton, Washington",earthquake,0.81,1.13,0.75999999,2,automatic,uw,uw
-2024-08-23T04:38:53.560Z,31.7105,-101.7037,3.536,3.2,mb_lg,36,32,0.279,0.61,us,us7000n8wl,2024-08-23T04:45:20.040Z,"27 km SW of Garden City, Texas",earthquake,3.2,7.84,0.045,127,reviewed,us,us
+2024-08-23T04:38:52.606Z,31.704,-101.708,9.6924,3.3,ml,29,62,0.1,0.1,tx,tx2024qnsk,2024-08-23T04:54:44.099Z,"27 km SW of Garden City, Texas",earthquake,0.7703402037353447,0.770786876560861,0.1,37,reviewed,tx,tx
 2024-08-23T04:16:27.800Z,19.1744995117188,-155.38166809082,31.9099998474121,1.70000005,md,27,170,0.1581,0.119999997,hv,hv74420881,2024-08-23T04:18:25.060Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.58,1.01999998,0.109999999,4,automatic,hv,hv
 2024-08-23T03:58:21.250Z,38.8779983520508,-122.907669067383,12.0200004577637,0.99,md,6,176,0.06874,0.02,nc,nc75051991,2024-08-23T04:32:18.402Z,"12 km ENE of Cloverdale, CA",earthquake,2.26,1.91999996,0.41,2,automatic,nc,nc
 2024-08-23T03:55:57.365Z,-9.1127,119.2943,10,4.9,mb,31,76,1.526,1.25,us,us7000n8wi,2024-08-23T04:20:55.557Z,"35 km N of Tambolaka, Indonesia",earthquake,6.77,1.887,0.117,24,reviewed,us,us
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-23T03:08:00.970Z,62.3124,-148.664,30.5,1.2,ml,,,,0.71,ak,ak024aucnx5f,2024-08-23T03:10:39.691Z,"58 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-08-23T02:24:46.288Z,35.00885773,-97.77854919,4.078560352,1.79,ml,25,90.47302246,0.08966296911,0.5394365584,ok,ok2024qnnz,2024-08-23T02:57:53.080Z,"10 km N of Alex, Oklahoma",earthquake,3.026014997,2.058935291,0.19,18,automatic,ok,ok
 2024-08-23T02:19:26.510Z,38.8273315429688,-122.853164672852,1.64999997615814,0.27,md,7,161,0.01478,0.02,nc,nc75051956,2024-08-23T03:09:25.822Z,"10 km NW of The Geysers, CA",earthquake,0.49,1.11000001,0.16,8,automatic,nc,nc
-2024-08-23T02:01:59.496Z,-32.3849,150.8412,10,4.8,mww,24,116,2.073,1.09,us,us7000n8w7,2024-08-23T04:43:01.100Z,"14 km E of Denman, Australia",earthquake,6.79,1.909,0.103,9,reviewed,us,us
+2024-08-23T02:01:59.496Z,-32.3849,150.8412,10,4.8,mww,24,116,2.073,1.09,us,us7000n8w7,2024-08-23T04:54:50.909Z,"14 km E of Denman, Australia",earthquake,6.79,1.909,0.103,9,reviewed,us,us
 2024-08-23T01:43:50.735Z,60.6715,-152.0359,87.6,1.5,ml,,,,0.48,ak,ak024aubonot,2024-08-23T03:02:02.238Z,"39 km W of Salamatof, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2024-08-23T01:33:56.520Z,35.0005,-118.8616667,14.17,1.22,ml,20,108,0.1004,0.11,ci,ci40711711,2024-08-23T01:40:22.379Z,"9 km NE of Grapevine, CA",earthquake,0.22,0.39,0.19,21,automatic,ci,ci
 2024-08-23T01:20:04.610Z,34.096,-118.1808333,8.94,1.43,ml,17,73,0.05889,0.17,ci,ci40711687,2024-08-23T01:26:47.583Z,"3 km SSE of Highland Park, CA",earthquake,0.58,1.4,0.139,31,automatic,ci,ci
@@ -44,6 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T22:14:31.930Z,19.363166809082,-155.168670654297,1.24000000953674,1.86,ml,16,92,0.01621,0.189999998,hv,hv74420396,2024-08-22T22:17:09.960Z,"11 km SE of Volcano, Hawaii",earthquake,0.6,0.5,0.37,5,automatic,hv,hv
 2024-08-22T22:11:48.280Z,19.3695,-155.1765,2.08,1.95,ml,24,86,0.01201,0.1,hv,hv74420391,2024-08-22T23:03:41.450Z,"10 km SE of Volcano, Hawaii",earthquake,0.39,0.34,0.110452021906322,7,reviewed,hv,hv
 2024-08-22T22:10:22.697Z,63.2393,-151.0857,7.2,1.5,ml,,,,1.17,ak,ak024at0ga9p,2024-08-22T22:12:44.538Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-08-22T21:51:46.570Z,36.9988333333333,-119.8045,-0.63,2.14,md,9,191,0.07784,0.02,nc,nc75051866,2024-08-23T04:52:37.783Z,"6 km E of Bonadelle Ranchos-Madera Ranchos, CA",quarry blast,0.61,31.61,0.224,23,reviewed,nc,nc
 2024-08-22T21:50:53.970Z,19.3931674957275,-155.249664306641,1.46000003814697,1.9,ml,19,52,0.007774,0.129999995,hv,hv74420351,2024-08-22T21:53:33.090Z,"5 km SSW of Volcano, Hawaii",earthquake,0.19,0.200000003,0.3,10,automatic,hv,hv
 2024-08-22T21:48:09.850Z,33.8448333,-117.4905,2.24,1.46,ml,58,44,0.0467,0.21,ci,ci40711567,2024-08-22T22:07:25.412Z,"5 km SE of Home Gardens, CA",earthquake,0.2,0.29,0.302,37,automatic,ci,ci
 2024-08-22T21:27:39.410Z,19.3693333333333,-155.211333333333,2.13,2.09,ml,26,96,0.005923,0.11,hv,hv74420316,2024-08-22T23:09:47.108Z,"8 km SSE of Volcano, Hawaii",earthquake,0.28,0.24,0.263248240449447,5,reviewed,hv,hv
@@ -219,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-22T05:16:40.750Z,19.3918342590332,-155.250671386719,1.38999998569489,1.96000004,md,11,141,0.00632,0.209999993,hv,hv74418846,2024-08-22T05:19:19.010Z,"5 km SSW of Volcano, Hawaii",earthquake,0.35,0.460000008,0.109999999,11,automatic,hv,hv
 2024-08-22T05:09:47.370Z,35.6228333,-117.477,7.07,1.23,ml,23,57,0.03821,0.12,ci,ci40710759,2024-08-22T20:08:16.130Z,"17 km SSW of Searles Valley, CA",earthquake,0.21,0.38,0.082,6,reviewed,ci,ci
 2024-08-22T05:08:31.982Z,37.3192,-115.4068,0,1.1,ml,19,141.45,0.296,0.1913,nn,nn00882809,2024-08-23T02:03:37.969Z,"22 km WSW of Alamo, Nevada",earthquake,,0,0.18,7,reviewed,nn,nn
-2024-08-22T04:52:22.860Z,51.5223333333333,-178.8125,11.83,1.7,ml,7,298,0.03113,0.1,av,av93237191,2024-08-22T20:59:36.490Z,"155 km WSW of Adak, Alaska",earthquake,0.89,0.57,0.181542825988821,8,reviewed,av,av
