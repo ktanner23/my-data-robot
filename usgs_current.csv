@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T05:57:24.740Z,34.0216667,-116.7356667,16.47,1.96,ml,104,24,0.06138,0.17,ci,ci40714327,2024-08-26T06:08:41.600Z,"12 km NNE of Cabazon, CA",earthquake,0.11,0.31,0.14,26,automatic,ci,ci
 2024-08-26T05:57:02.576Z,61.913,-147.6756,38.6,2.5,ml,,,,0.44,ak,ak024azcrc29,2024-08-26T05:58:21.537Z,"11 km N of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T05:36:54.037Z,60.3116,-151.8796,60.2,1.5,ml,,,,0.67,ak,ak024azcmxzd,2024-08-26T05:38:57.554Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-08-26T05:16:09.365Z,17.7987,-68.0274,12.259,4.6,mb,54,72,0.787,1.15,us,us7000n9fp,2024-08-26T06:42:36.760Z,"88 km SE of Boca de Yuma, Dominican Republic",earthquake,5.13,5.467,0.061,81,reviewed,us,us
+2024-08-26T05:16:13.760Z,17.8956,-68.0616,40,4.8,ml,18,199,0.6961,0.4,pr,pr2024239000,2024-08-26T06:52:38.440Z,"78 km SE of Boca de Yuma, Dominican Republic",earthquake,1.74,5.38,0.12,18,reviewed,pr,pr
 2024-08-26T05:08:44.634Z,7.4234,-82.2904,10,5.8,mww,187,56,1.415,0.74,us,us7000n9fn,2024-08-26T06:15:57.099Z,"88 km S of Boca Chica, Panama",earthquake,6.33,1.784,0.052,36,reviewed,us,us
 2024-08-26T05:07:13.510Z,40.3721656799316,-124.486167907715,21.1499996185303,2.01,md,9,312,0.1256,0.09,nc,nc75053556,2024-08-26T06:19:29.796Z,"18 km WNW of Petrolia, CA",earthquake,3.28,0.74000001,0.14,9,automatic,nc,nc
 2024-08-26T05:06:44.860Z,33.9788333,-116.8403333,16.62,0.91,ml,16,144,0.1392,0.09,ci,ci40714295,2024-08-26T05:13:14.862Z,"7 km NNE of Banning, CA",earthquake,1.01,1.11,0.154,26,automatic,ci,ci
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T04:22:51.780Z,35.0903333,-119.0928333,12.23,1.82,ml,50,42,0.03252,0.23,ci,ci40714263,2024-08-26T04:38:13.113Z,"22 km NW of Grapevine, CA",earthquake,0.24,0.59,0.112,27,automatic,ci,ci
 2024-08-26T04:20:01.746Z,59.0277,-151.19,28.9,3.2,ml,,,,0.43,ak,ak024azbxyz7,2024-08-26T04:50:39.040Z,"51 km SE of Port Graham, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-26T04:16:53.380Z,33.4135,-116.6468333,6.4,0.82,ml,48,35,0.08973,0.18,ci,ci40714255,2024-08-26T04:27:07.384Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.58,0.196,26,automatic,ci,ci
-2024-08-26T04:11:38.930Z,38.0067,-9.4651,17.533,5.4,mb,94,28,1.009,0.48,us,us7000n9fh,2024-08-26T06:41:19.034Z,"52 km W of Sines, Portugal",earthquake,5.02,3.289,0.021,786,reviewed,us,us
+2024-08-26T04:11:38.930Z,38.0067,-9.4651,17.533,5.4,mb,94,28,1.009,0.48,us,us7000n9fh,2024-08-26T06:53:47.637Z,"52 km W of Sines, Portugal",earthquake,5.02,3.289,0.021,786,reviewed,us,us
 2024-08-26T03:34:08.050Z,38.7888336181641,-122.747001647949,1.42999994754791,0.94,md,14,86,0.009785,0.02,nc,nc75053521,2024-08-26T05:49:25.604Z,"2 km NE of The Geysers, CA",earthquake,0.28,0.49000001,0.2,15,automatic,nc,nc
 2024-08-26T03:29:44.980Z,38.835334777832,-122.788665771484,1.9099999666214,1.42,md,24,70,0.003338,0.02,nc,nc75053516,2024-08-26T05:17:16.403Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.400000006,0.12,27,automatic,nc,nc
 2024-08-26T03:17:42.836Z,59.9564,-152.296,72.6,1.3,ml,,,,0.39,ak,ak024azbbzbf,2024-08-26T03:19:50.213Z,"31 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-25T07:02:09.510Z,36.6238,-115.7375,7.9,0.2,ml,16,303.13000000000005,0.185,0.0576,nn,nn00882975,2024-08-25T18:22:16.131Z,"8 km NW of Indian Springs, Nevada",earthquake,,7.2,0.21,3,reviewed,nn,nn
 2024-08-25T07:01:37.080Z,38.6701,-118.5674,7.5,0.9,ml,7,145.72000000000003,0.055,0.1286,nn,nn00882988,2024-08-25T17:26:43.322Z,"16 km E of Walker Lake, Nevada",earthquake,,1.6,0.2,4,reviewed,nn,nn
 2024-08-25T07:00:35.670Z,19.3556671142578,-155.017166137695,1.51999998092651,2.05999994,md,17,206,0.07179,0.200000003,hv,hv74422932,2024-08-25T07:02:46.160Z,"16 km SW of Leilani Estates, Hawaii",earthquake,0.69,0.699999988,0.170000002,6,automatic,hv,hv
-2024-08-25T06:52:30.500Z,46.7775,-121.88766666666666,9.55,0.64,ml,15,93,0.01836,0.11,uw,uw62040461,2024-08-25T17:28:46.640Z,"11 km E of Ashford, Washington",earthquake,0.3,0.46,0.15623732532705312,8,reviewed,uw,uw
-2024-08-25T06:48:44.173Z,59.5294,-152.2465,58.7,1.4,ml,,,,0.41,ak,ak024axprk4j,2024-08-25T16:05:36.335Z,"26 km NW of Nanwalek, Alaska",earthquake,,0.9,,,reviewed,ak,ak
