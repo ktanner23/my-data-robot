@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-27T15:29:18.610Z,38.7876663208008,-122.748832702637,3.26999998092651,0.77,md,13,136,0.01045,0.04,nc,nc75054046,2024-08-27T15:30:55.524Z,"1 km NE of The Geysers, CA",earthquake,0.5,0.949999988,0.05,12,automatic,nc,nc
+2024-08-27T15:29:18.610Z,38.7876663208008,-122.748832702637,3.26999998092651,0.77,md,13,136,0.01045,0.04,nc,nc75054046,2024-08-27T15:47:14.618Z,"1 km NE of The Geysers, CA",earthquake,0.5,0.949999988,0.05,12,automatic,nc,nc
 2024-08-27T15:08:24.840Z,35.7778333,-117.6105,11.53,0.54,ml,17,76,0.1292,0.13,ci,ci40715911,2024-08-27T15:14:19.179Z,"18 km NNE of Ridgecrest, CA",earthquake,0.29,0.65,0.164,5,automatic,ci,ci
 2024-08-27T14:45:02.410Z,38.8095016479492,-122.773498535156,1.60000002384186,1.06,md,17,79,0.006753,0.02,nc,nc75054041,2024-08-27T15:32:22.518Z,"4 km  of The Geysers, CA",earthquake,0.24,0.400000006,0.18,17,automatic,nc,nc
 2024-08-27T14:41:20.848Z,37.7273,-117.1428,0,1.2,ml,12,172.43,0.437,0.2338,nn,nn00883088,2024-08-27T14:43:52.041Z,"8 km ENE of Goldfield, Nevada",earthquake,,41.2,0.26,7,automatic,nn,nn
@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T20:14:16.760Z,19.2530002593994,-155.398498535156,30.5,2.31999993,md,40,94,0.01544,0.119999997,hv,hv74424972,2024-08-26T20:15:57.920Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.5,0.230000004,10,automatic,hv,hv
 2024-08-26T20:07:09.400Z,38.4955,-112.8795,1.56,0.18,md,12,63,0.005672,0.09,uu,uu80080296,2024-08-26T20:21:58.500Z,"15 km NE of Milford, Utah",earthquake,0.27,0.4,0.200259014087468,4,reviewed,uu,uu
 2024-08-26T20:05:47.622Z,36.6265,-115.7288,9.9,0.2,ml,13,144.10999999999999,0.191,0.0659,nn,nn00883045,2024-08-27T13:16:19.632Z,"8 km NW of Indian Springs, Nevada",earthquake,,6.1,0.06,2,reviewed,nn,nn
-2024-08-26T20:01:14.540Z,32.6106667,-116.9788333,2.92,1.32,ml,32,136,0.04116,0.21,ci,ci40715047,2024-08-26T20:10:20.219Z,"7 km ESE of Chula Vista, CA",earthquake,0.3,0.33,0.154,17,automatic,ci,ci
+2024-08-26T20:01:14.230Z,32.62,-116.985,-0.43,1.21,ml,32,108,0.04785,0.23,ci,ci40715047,2024-08-27T15:48:00.278Z,"6 km SE of Bonita, CA",quarry blast,0.61,31.61,0.141,13,reviewed,ci,ci
 2024-08-26T19:59:27.895Z,36.9593,-104.8543,1.726,2.8,ml,12,76,0.157,0.33,us,us6000nmxk,2024-08-26T20:20:02.040Z,"19 km S of Weston, Colorado",earthquake,4.02,2.115,0.079,21,reviewed,us,us
 2024-08-26T19:53:43.661Z,38.9682,23.3621,10,4.5,mb,46,51,0.801,1.13,us,us6000nmxi,2024-08-27T11:00:41.203Z,"18 km E of Istiaía, Greece",earthquake,3.86,1.864,0.113,23,reviewed,us,us
 2024-08-26T19:52:39.666Z,59.4782,-138.9111,9.6,2.2,ml,,,,0.78,ak,ak024azl2eta,2024-08-26T19:54:45.446Z,"46 km E of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -246,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T16:14:04.018Z,61.3536,-149.8288,30.1,1.7,ml,,,,0.35,ak,ak024azj1w1d,2024-08-26T16:15:45.016Z,"8 km E of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-26T15:56:17.810Z,37.3513333333333,-113.4105,3.61,0.29,md,5,91,0.2272,0.14,uu,uu80080261,2024-08-26T18:21:32.550Z,"10 km ESE of Pine Valley, Utah",earthquake,0.57,8.68,0.0921513773346375,3,reviewed,uu,uu
 2024-08-26T15:54:41.380Z,38.8331680297852,-122.815498352051,1.8400000333786,1.06,md,21,55,0.01064,0.01,nc,nc75053696,2024-08-26T17:09:25.953Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.439999998,0.13,21,automatic,nc,nc
-2024-08-26T15:49:41.750Z,54.5455,-159.6885,28.58,5.1,mww,127,68,0.925,0.86,us,us6000nmvh,2024-08-27T09:59:51.985Z,"102 km SSE of Sand Point, Alaska",earthquake,4.56,4.296,0.052,36,reviewed,us,us
-2024-08-26T15:45:02.160Z,35.6555,-117.4676667,5.77,1.07,ml,25,42,0.03706,0.12,ci,ci40714735,2024-08-26T20:34:55.350Z,"14 km SSW of Searles Valley, CA",earthquake,0.18,0.38,0.173,11,reviewed,ci,ci
