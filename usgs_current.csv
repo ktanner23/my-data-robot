@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-27T16:48:08.260Z,38.7879981994629,-122.745162963867,0.610000014305115,0.96,md,14,85,0.00813,0.03,nc,nc75054066,2024-08-27T16:49:45.726Z,"2 km NE of The Geysers, CA",earthquake,0.24,0.49000001,0.17,13,automatic,nc,nc
-2024-08-27T16:45:22.819Z,37.514,-117.2042,7.5,2.1,ml,25,123.41,0.218,0.3726,nn,nn00883091,2024-08-27T16:48:05.669Z,"21 km S of Goldfield, Nevada",earthquake,,0.7,0.22,17,automatic,nn,nn
+2024-08-27T16:45:23.024Z,37.5153,-117.1937,5.5,2,ml,20,122.32,0.222,0.1572,nn,nn00883091,2024-08-27T17:03:05.912Z,"21 km S of Goldfield, Nevada",earthquake,,3.2,0.66,6,reviewed,nn,nn
 2024-08-27T16:33:46.770Z,33.7175,-116.8163333,18.16,0.73,ml,23,87,0.08539,0.13,ci,ci40715983,2024-08-27T16:39:49.379Z,"8 km ESE of Valle Vista, CA",earthquake,0.27,0.43,0.102,11,automatic,ci,ci
 2024-08-27T16:31:17.290Z,33.7185,-116.7768333,16.52,0.57,ml,19,56,0.05274,0.09,ci,ci40715975,2024-08-27T16:37:49.067Z,"6 km WSW of Idyllwild, CA",earthquake,0.24,0.4,0.245,10,automatic,ci,ci
 2024-08-27T16:26:18.650Z,19.1733341217041,-155.494995117188,30.6100006103516,2.03,ml,50,101,0.03583,0.129999995,hv,hv74427047,2024-08-27T16:29:12.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.47,0.589999974,1.07,4,automatic,hv,hv
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T10:32:31.650Z,38.8255004882812,-122.796669006348,2.5,1.07,md,21,49,0.01068,0.04,nc,nc75053991,2024-08-27T10:34:10.114Z,"6 km WNW of Cobb, CA",earthquake,0.25,0.49000001,0.17,22,automatic,nc,nc
 2024-08-27T10:28:31.590Z,19.7356662750244,-155.70783996582,19.9699993133545,2.03999996,md,25,133,0.1296,0.140000001,hv,hv74426352,2024-08-27T10:30:03.900Z,"24 km SSE of Waikoloa, Hawaii",earthquake,0.59,1.39999998,0.180000007,6,automatic,hv,hv
 2024-08-27T10:18:40.158Z,38.6835,-118.5672,4,1.4,ml,11,139.89,0.066,0.1608,nn,nn00883064,2024-08-27T10:21:39.559Z,"16 km ENE of Walker Lake, Nevada",earthquake,,1.9,0.1,6,automatic,nn,nn
-2024-08-27T10:04:13.930Z,35.7063333,-117.5116667,5.36,1.76,ml,21,74,0.08258,0.14,ci,ci40715671,2024-08-27T10:10:46.820Z,"12 km SW of Searles Valley, CA",earthquake,0.23,1.05,0.472,9,automatic,ci,ci
+2024-08-27T10:04:13.890Z,35.7068333,-117.5088333,6.41,0.47,ml,21,76,0.08084,0.14,ci,ci40715671,2024-08-27T16:56:23.304Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.87,0.057,4,reviewed,ci,ci
 2024-08-27T09:59:35.760Z,38.6976,-118.6974,7.5,1.6,ml,12,154.18,0.512,0.2119,nn,nn00883062,2024-08-27T10:01:59.202Z,"7 km NE of Walker Lake, Nevada",earthquake,,1.1,0.2,7,automatic,nn,nn
 2024-08-27T09:57:07.830Z,35.6628333,-117.476,7.59,1.12,ml,28,52,0.04264,0.13,ci,ci40715663,2024-08-27T14:28:00.231Z,"13 km SSW of Searles Valley, CA",earthquake,0.16,0.41,0.141,13,reviewed,ci,ci
 2024-08-27T09:53:04.443Z,60.4188,-141.8254,6.6,1.7,ml,,,,0.76,ak,ak024b12nk98,2024-08-27T09:54:43.750Z,"127 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -126,8 +126,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T04:04:32.512Z,38.2136,-117.7903,1.3,1.4,ml,9,143.05,0.151,0.2593,nn,nn00883061,2024-08-27T04:07:16.948Z,"34 km SE of Mina, Nevada",earthquake,,3.1,0.65,5,automatic,nn,nn
 2024-08-27T03:55:45.918Z,62.011,-149.755,51.3,1.2,ml,,,,0.47,ak,ak024b0z3h9b,2024-08-27T03:57:39.900Z,"17 km SSE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-08-27T03:50:50.063Z,60.4605,-148.3745,16.4,1.5,ml,,,,0.4,ak,ak024b0z2ezy,2024-08-27T03:52:28.834Z,"38 km SSE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-27T03:37:10.280Z,35.0911667,-119.0515,12.58,1.43,ml,36,62,0.04192,0.21,ci,ci40715519,2024-08-27T03:43:31.092Z,"20 km NW of Grapevine, CA",earthquake,0.28,0.56,0.15,29,automatic,ci,ci
-2024-08-27T03:34:22.360Z,35.1003333,-119.0846667,12.17,1.66,ml,47,44,0.04164,0.22,ci,ci40715511,2024-08-27T03:41:11.471Z,"22 km NW of Grapevine, CA",earthquake,0.24,0.62,0.177,28,automatic,ci,ci
+2024-08-27T03:37:10.260Z,35.0936667,-119.0543333,11.69,1.43,ml,28,70,0.04252,0.24,ci,ci40715519,2024-08-27T17:04:30.255Z,"20 km NW of Grapevine, CA",earthquake,0.33,1.01,0.096,21,reviewed,ci,ci
+2024-08-27T03:34:22.320Z,35.0983333,-119.0885,12.62,1.66,ml,39,77,0.03983,0.19,ci,ci40715511,2024-08-27T16:56:09.180Z,"22 km NW of Grapevine, CA",earthquake,0.22,0.69,0.092,18,reviewed,ci,ci
 2024-08-27T03:29:02.331Z,36.9248,-115.4127,1.8,0.7,ml,13,302.84999999999997,0.473,0.1703,nn,nn00883060,2024-08-27T03:31:37.531Z,"45 km NNE of Indian Springs, Nevada",earthquake,,28.2,0.42,9,automatic,nn,nn
 2024-08-27T03:27:48.733Z,36.9298,-115.4381,9.8,0.3,ml,15,289.79,0.453,0.2964,nn,nn00883058,2024-08-27T03:30:07.823Z,"45 km NNE of Indian Springs, Nevada",earthquake,,1.5,0.43,6,automatic,nn,nn
 2024-08-27T03:21:10.616Z,36.8448,-115.6426,0.7,0.9,ml,18,194.72000000000003,0.278,0.3807,nn,nn00883057,2024-08-27T03:23:18.333Z,"30 km N of Indian Springs, Nevada",earthquake,,31,0.14,13,automatic,nn,nn
@@ -243,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-26T17:22:27.670Z,6.1025,125.9533,137.475,4.6,mb,63,87,1.03,1.36,us,us6000nmwu,2024-08-26T18:32:09.040Z,"27 km E of Lamitan, Philippines",earthquake,7.71,6.403,0.052,108,reviewed,us,us
 2024-08-26T17:21:17.740Z,19.1726666666667,-155.499333333333,32.15,1.79,md,26,153,0.03915,0.12,hv,hv74424747,2024-08-26T22:32:43.420Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.61,0.76,0.116297606622106,9,reviewed,hv,hv
 2024-08-26T17:18:15.090Z,38.9293327331543,-123.272666931152,4.78999996185303,1.32,md,8,162,0.3178,0.2,nc,nc75053716,2024-08-26T18:09:26.334Z,"12 km SSE of Boonville, CA",earthquake,9.77,11.3999996,,1,automatic,nc,nc
-2024-08-26T17:04:03.194Z,36.6222,-115.7436,8.8,0.5,ml,23,144.93,0.18,0.1668,nn,nn00883038,2024-08-26T21:16:19.088Z,"8 km NW of Indian Springs, Nevada",earthquake,,4,0.13,9,reviewed,nn,nn
-2024-08-26T16:59:10.140Z,52.7663333333333,-169.906166666667,3.94,1.16,ml,4,256,0.03039,0.32,av,av93242221,2024-08-27T02:22:34.110Z,"72 km WSW of Nikolski, Alaska",earthquake,2.07,3.31,0.200031274390367,4,reviewed,av,av
-2024-08-26T16:59:02.136Z,36.7998,-116.2585,5.2,0,ml,19,66.69,0.062,0.124,nn,nn00883036,2024-08-26T20:05:54.543Z,"46 km ESE of Beatty, Nevada",earthquake,,1.4,0.41,6,reviewed,nn,nn
-2024-08-26T16:58:24.140Z,38.8338317871094,-122.789665222168,1.89999997615814,1.23,md,26,54,0.004601,0.02,nc,nc75053711,2024-08-26T17:39:24.138Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.349999994,0.14,27,automatic,nc,nc
