@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-08-28T22:16:30.432Z,61.0095,-150.5968,55.9,2.3,ml,,,,0.18,ak,ak024b2xpo4j,2024-08-28T22:18:05.576Z,"10 km NNE of Point Possession, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-08-28T21:57:56.843Z,12.998,-89.5623,33.882,6.1,mww,83,151,0.662,1.44,us,us6000nncs,2024-08-28T22:47:22.723Z,"60 km SSW of La Libertad, El Salvador",earthquake,5.67,4.524,0.037,72,reviewed,us,us
+2024-08-28T21:57:56.843Z,12.998,-89.5623,33.882,6.1,mww,83,151,0.662,1.44,us,us6000nncs,2024-08-28T22:52:35.419Z,"60 km SSW of La Libertad, El Salvador",earthquake,5.67,4.524,0.037,72,reviewed,us,us
 2024-08-28T21:56:49.680Z,32.979,-116.2785,9.5,1.57,ml,58,37,0.03209,0.19,ci,ci40718151,2024-08-28T22:09:06.021Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.4,0.227,27,automatic,ci,ci
 2024-08-28T21:49:20.051Z,31.662,-104.358,4.384,2.3,ml,15,69,0.1,0.1,tx,tx2024qyea,2024-08-28T22:21:27.099Z,"56 km S of Whites City, New Mexico",earthquake,0,1.50923240184784,0.2,13,automatic,tx,tx
 2024-08-28T21:47:35.910Z,19.2473335266113,-155.411834716797,33.2900009155273,2.22,ml,52,83,0.01671,0.150000006,hv,hv74428822,2024-08-28T21:50:32.710Z,"8 km NE of Pāhala, Hawaii",earthquake,0.46,0.560000002,0.39,18,automatic,hv,hv
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T21:14:58.770Z,33.9271667,-116.2851667,7.42,0.91,ml,25,39,0.09295,0.13,ci,ci40718079,2024-08-28T21:22:06.605Z,"15 km NE of Thousand Palms, CA",earthquake,0.19,0.65,0.208,20,automatic,ci,ci
 2024-08-28T21:05:11.270Z,32.976,-116.2753333,9.63,1.51,ml,55,43,0.0318,0.18,ci,ci40718055,2024-08-28T21:16:22.370Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.43,0.161,27,automatic,ci,ci
 2024-08-28T21:03:12.830Z,32.9746667,-116.2821667,9.7,2.27,ml,78,38,0.0268,0.22,ci,ci40718023,2024-08-28T21:14:19.130Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.15,0.44,0.19,26,automatic,ci,ci
-2024-08-28T21:00:33.980Z,38.806999206543,-122.775833129883,2.05999994277954,1.29,md,26,73,0.00731,0.04,nc,nc75054626,2024-08-28T21:02:12.245Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.379999995,0.2,26,automatic,nc,nc
+2024-08-28T21:00:33.980Z,38.806999206543,-122.775833129883,2.05999994277954,1.29,md,26,73,0.00731,0.04,nc,nc75054626,2024-08-28T22:57:16.721Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.379999995,0.2,26,automatic,nc,nc
 2024-08-28T20:52:14.980Z,33.2993333,-116.3691667,11.75,0.69,ml,27,64,0.02737,0.16,ci,ci40718007,2024-08-28T20:58:03.524Z,"5 km N of Borrego Springs, CA",earthquake,0.26,0.4,0.08,11,automatic,ci,ci
 2024-08-28T20:40:36.000Z,32.9868333,-116.3228333,5.31,1.68,ml,62,38,0.03606,0.2,ci,ci40717983,2024-08-28T20:51:18.980Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.4,0.181,27,automatic,ci,ci
 2024-08-28T20:29:03.422Z,-23.637,-179.9994,542.67,4.5,mb,65,96,5.176,0.67,us,us6000nncf,2024-08-28T21:23:01.040Z,"south of the Fiji Islands",earthquake,14.38,7.795,0.08,46,reviewed,us,us
@@ -142,10 +142,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-28T12:46:21.130Z,38.4908333333333,-112.875166666667,0.99,0.47,md,11,126,0.00473,0.07,uu,uu80080431,2024-08-28T13:29:30.290Z,"15 km NE of Milford, Utah",earthquake,0.28,0.41,0.273029064804006,4,reviewed,uu,uu
 2024-08-28T12:46:10.880Z,33.6815,-116.7071667,15.07,0.89,ml,43,57,0.03016,0.14,ci,ci40717143,2024-08-28T14:07:19.414Z,"7 km S of Idyllwild, CA",earthquake,0.17,0.26,0.151,29,reviewed,ci,ci
 2024-08-28T12:45:27.230Z,33.68,-116.7051667,15.59,0.64,ml,28,63,0.02841,0.11,ci,ci40717135,2024-08-28T14:07:20.497Z,"7 km S of Idyllwild, CA",earthquake,0.19,0.32,0.099,11,reviewed,ci,ci
-2024-08-28T12:43:01.070Z,33.6755,-116.72,15.85,3.31,ml,129,14,0.03591,0.2,ci,ci40717127,2024-08-28T22:17:05.314Z,"7 km S of Idyllwild, CA",earthquake,0.11,0.25,0.149,282,reviewed,ci,ci
+2024-08-28T12:43:01.070Z,33.6755,-116.72,15.85,3.31,ml,129,14,0.03591,0.2,ci,ci40717127,2024-08-28T22:53:14.504Z,"7 km S of Idyllwild, CA",earthquake,0.11,0.25,0.149,282,reviewed,ci,ci
 2024-08-28T12:38:10.275Z,37.7383,-117.1364,3.6,2.3,ml,21,94.94,0.199,0.1901,nn,nn00883165,2024-08-28T16:57:22.888Z,"9 km ENE of Goldfield, Nevada",earthquake,,4.3,0.22,7,reviewed,nn,nn
 2024-08-28T12:36:31.879Z,35.66216667,-98.15083333,7.71,1.77,ml,64,43,0.05758869913,0.46,ok,ok2024qxlr,2024-08-28T13:05:18.036Z,"7 km NNW of Calumet, Oklahoma",earthquake,,1.1,0.24,25,reviewed,ok,ok
-2024-08-28T12:29:21.530Z,35.9675,-117.6635,2.74,2.23,ml,26,93,0.02227,0.12,ci,ci40717103,2024-08-28T12:40:02.470Z,"22 km E of Little Lake, CA",earthquake,0.18,0.23,0.201,26,automatic,ci,ci
+2024-08-28T12:29:21.540Z,35.964,-117.6625,3.21,2.22,ml,36,93,0.01884,0.14,ci,ci40717103,2024-08-28T22:51:08.254Z,"22 km E of Little Lake, CA",earthquake,0.17,0.29,0.201,25,reviewed,ci,ci
 2024-08-28T12:26:57.512Z,37.7487,-117.123,0,1.2,ml,11,175.07999999999998,0.567,0.3266,nn,nn00883161,2024-08-28T12:29:27.856Z,"10 km ENE of Goldfield, Nevada",earthquake,,35.2,0.27,6,automatic,nn,nn
 2024-08-28T12:25:33.730Z,34.8368333,-118.9548333,12.93,1.06,ml,30,64,0.06266,0.19,ci,ci40717087,2024-08-28T18:32:19.691Z,"2 km NNW of Frazier Park, CA",earthquake,0.27,0.47,0.276,25,reviewed,ci,ci
 2024-08-28T12:21:18.090Z,33.2005,-116.1755,6.7,0.75,ml,37,53,0.04514,0.19,ci,ci40717079,2024-08-28T22:04:20.960Z,"8 km NNW of Ocotillo Wells, CA",earthquake,0.24,0.53,0.192,22,reviewed,ci,ci
@@ -290,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-27T23:13:02.500Z,33.2028333,-115.5976667,4.88,1.44,ml,25,43,0.02867,0.17,ci,ci40716519,2024-08-28T17:22:26.210Z,"8 km WSW of Niland, CA",earthquake,0.24,0.34,0.214,24,reviewed,ci,ci
 2024-08-27T23:09:42.910Z,41.89183333333333,-119.63716666666667,-1.48,1.59,ml,6,219,0.34,0.37,uw,uw62041466,2024-08-28T16:40:19.470Z,"42 km E of Fort Bidwell, California",earthquake,2.64,5.25,0.025504644213492966,3,reviewed,uw,uw
 2024-08-27T23:04:01.670Z,51.8641666666667,-177.854833333333,6.13,1.58,ml,7,153,0.05574,0.03,av,av93243436,2024-08-27T23:17:16.450Z,"84 km W of Adak, Alaska",earthquake,0.32,0.4,0.260840287835578,7,reviewed,av,av
-2024-08-27T22:56:45.970Z,51.8645,-177.854666666667,5.83,0.59,ml,4,219,0.056,0.05,av,av93019539,2024-08-28T01:07:42.230Z,"84 km W of Adak, Alaska",earthquake,0.47,0.91,0.190689280297339,4,reviewed,av,av
