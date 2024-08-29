@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T20:17:23.402Z,61.8686,-150.7757,47.8,1.5,ml,,,,0.55,ak,ak024b4k2cl0,2024-08-29T20:19:21.506Z,"35 km ESE of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-08-29T20:11:09.835Z,32.337,-101.783,6.1768,2.8,ml,38,41,0,0.2,tx,tx2024qzwf,2024-08-29T20:21:35.040Z,"21 km SSW of Ackerly, Texas",earthquake,0.5875337224780834,0.7285536097054035,0.2,30,reviewed,tx,tx
 2024-08-29T20:03:42.273Z,26.0124,142.6025,10,4.8,mb,59,132,1.142,0.61,us,us6000nnjl,2024-08-29T20:59:12.040Z,"Bonin Islands, Japan region",earthquake,11.4,1.907,0.057,94,reviewed,us,us
-2024-08-29T19:41:59.880Z,46.749168395996094,-122.43599700927734,3.88000011444092,1.5457146167755127,ml,16,163,,0.180000007,uw,uw62042021,2024-08-29T19:44:11.560Z,"12 km WSW of Alder, Washington",earthquake,1.27,14.8199997,0.23565945029258728,21,automatic,uw,uw
+2024-08-29T19:41:59.960Z,46.734,-122.42516666666667,-0.22,1.36,ml,33,63,0.1249,0.15,uw,uw62042021,2024-08-29T21:31:49.550Z,"12 km SW of Alder, Washington",explosion,0.29,31.61,0.21580370450661235,16,reviewed,uw,uw
 2024-08-29T19:23:43.130Z,61.9504,-148.6007,39.9,0.4,ml,,,,1,ak,ak024b4ji8zx,2024-08-29T19:25:39.133Z,"18 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-08-29T19:07:05.570Z,34.6331667,-117.1175,-1.09,1.63,ml,31,52,0.1893,0.18,ci,ci40719127,2024-08-29T19:20:12.387Z,"16 km NNE of Apple Valley, CA",earthquake,0.25,1.06,0.144,29,automatic,ci,ci
 2024-08-29T19:01:18.480Z,33.872,-117.507,1.49,1.09,ml,23,56,0.07499,0.17,ci,ci40719119,2024-08-29T19:17:55.370Z,"2 km ESE of Home Gardens, CA",earthquake,0.27,0.41,0.338,14,automatic,ci,ci
@@ -153,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T09:49:26.975Z,37.7581,-117.1286,0.3,1.1,ml,13,179.44000000000005,0.558,0.3752,nn,nn00883348,2024-08-29T09:51:49.811Z,"10 km ENE of Goldfield, Nevada",earthquake,,48.6,0.08,7,automatic,nn,nn
 2024-08-29T09:48:17.941Z,37.62,-116.9272,0.4,0.6,ml,9,176.07999999999998,0.503,0.2872,nn,nn00883347,2024-08-29T09:50:58.659Z,"28 km ESE of Goldfield, Nevada",earthquake,,65.9,0.3,6,automatic,nn,nn
 2024-08-29T09:44:41.955Z,37.6047,-116.9803,5.4,0.7,ml,9,170.60999999999996,0.504,0.2374,nn,nn00883345,2024-08-29T09:46:58.432Z,"25 km ESE of Goldfield, Nevada",earthquake,,4.1,0.26,5,automatic,nn,nn
-2024-08-29T09:34:18.140Z,37.8003,-117.0808,0.6,1.4,ml,19,188.47000000000003,0.52,0.3768,nn,nn00883342,2024-08-29T09:36:50.596Z,"17 km NE of Goldfield, Nevada",earthquake,,40.6,0.22,14,automatic,nn,nn
+2024-08-29T09:34:18.995Z,37.7414,-117.1407,6.8,1.5,ml,18,117.13,0.197,0.1595,nn,nn00883342,2024-08-29T21:34:05.675Z,"9 km ENE of Goldfield, Nevada",earthquake,,3,0.7,5,reviewed,nn,nn
 2024-08-29T09:29:53.870Z,33.347,-116.9123333,8.78,0.35,ml,33,37,0.0421,0.2,ci,ci40718567,2024-08-29T14:10:18.480Z,"5 km WSW of Palomar Observatory, CA",earthquake,0.25,0.57,0.149,2,reviewed,ci,ci
 2024-08-29T09:29:53.050Z,37.6353,-116.918,4.3,1.2,ml,14,157.69,0.671,0.2733,nn,nn00883340,2024-08-29T09:32:29.347Z,"29 km ESE of Goldfield, Nevada",earthquake,,6.4,0.15,11,automatic,nn,nn
 2024-08-29T09:29:25.260Z,19.3856666666667,-155.2455,2.07,2.01,ml,25,62,0.005487,0.1,hv,hv74429462,2024-08-29T20:09:38.120Z,"6 km S of Volcano, Hawaii",earthquake,0.2,0.22,0.442094658647767,22,reviewed,hv,hv
@@ -290,7 +290,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-29T00:44:57.890Z,34.39383333,-96.28666667,24.95,3.08,ml,45,84,0,0.3,ok,ok2024qyjs,2024-08-29T17:45:25.706Z,"10 km SW of Lehigh, Oklahoma",earthquake,,1,0.24,20,reviewed,ok,ok
 2024-08-29T00:43:18.710Z,38.8404998779297,-122.823997497559,1.87999999523163,1.09,md,21,88,0.009173,0.02,nc,nc75054711,2024-08-29T03:09:30.347Z,"9 km WNW of Cobb, CA",earthquake,0.22,0.409999996,0.12,22,automatic,nc,nc
 2024-08-29T00:41:56.700Z,56.1845,-159.431333333333,3.22,0.13,ml,6,105,0.03381,0.33,av,av93244401,2024-08-29T18:53:29.690Z,"31 km N of Ivanof Bay, Alaska",earthquake,0.79,1.97,0.243912694415046,6,reviewed,av,av
-2024-08-29T00:41:36.354Z,39.3257,-99.7871,4.902,2.5,mb_lg,26,51,0.512,0.31,us,us6000nnee,2024-08-29T17:34:30.755Z,"6 km SE of Hill City, Kansas",earthquake,4.32,8.068,0.059,76,reviewed,us,us
+2024-08-29T00:41:36.354Z,39.3257,-99.7871,4.902,2.5,mb_lg,26,51,0.512,0.31,us,us6000nnee,2024-08-29T21:30:42.810Z,"6 km SE of Hill City, Kansas",earthquake,4.32,8.068,0.059,76,reviewed,us,us
 2024-08-29T00:40:44.990Z,51.89,-177.948,6.03,1.09,ml,4,200,0.02485,0.09,av,av93244396,2024-08-29T18:48:28.550Z,"90 km W of Adak, Alaska",earthquake,0.5,0.9,0.259560156600933,4,reviewed,av,av
 2024-08-29T00:32:37.610Z,44.8225,-123.93433333333333,-0.39,0.71,md,6,105,0.04672,0.11,uw,uw62041821,2024-08-29T01:04:16.840Z,"9 km ESE of Lincoln Beach, Oregon",explosion,0.55,31.61,0.06526469778293564,2,reviewed,uw,uw
 2024-08-29T00:29:03.953Z,60.0705,-152.6651,76.5,0.8,ml,,,,0.19,ak,ak024b4887kr,2024-08-29T00:31:04.109Z,"53 km WNW of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
