@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-31T12:22:19.310Z,33.2421667,-116.2335,6.76,1.02,ml,61,31,0.05225,0.2,ci,ci40720623,2024-08-31T12:28:27.180Z,"13 km E of Borrego Springs, CA",earthquake,0.17,0.54,0.138,23,automatic,ci,ci
 2024-08-31T11:52:37.280Z,34.066,-117.2763333,12.1,1.3,ml,39,32,0.1096,0.14,ci,ci40720607,2024-08-31T11:58:57.892Z,"2 km NW of Loma Linda, CA",earthquake,0.16,0.43,0.295,7,automatic,ci,ci
 2024-08-31T11:49:44.840Z,33.2536667,-116.0933333,6.05,0.62,ml,46,48,0.09383,0.24,ci,ci40720599,2024-08-31T11:55:41.665Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.22,1.13,0.092,8,automatic,ci,ci
 2024-08-31T11:46:00.300Z,33.2553333,-116.0918333,7.53,0.69,ml,43,54,0.09216,0.22,ci,ci40720591,2024-08-31T11:52:51.445Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.24,0.66,0.076,4,automatic,ci,ci
@@ -41,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T08:28:08.870Z,33.4698333,-116.5825,11.97,0.41,ml,29,45,0.03065,0.12,ci,ci40720495,2024-08-31T08:34:28.985Z,"13 km SE of Anza, CA",earthquake,0.16,0.41,0.109,10,automatic,ci,ci
 2024-08-31T08:24:11.975Z,31.663,-104.372,4.6557,1.6,ml,16,70,0.1,0.1,tx,tx2024rcqa,2024-08-31T09:05:54.934Z,"56 km S of Whites City, New Mexico",earthquake,0,1.33137595653534,0.2,13,automatic,tx,tx
 2024-08-31T08:19:55.160Z,33.4668333,-116.5816667,11.71,0.48,ml,32,45,0.03355,0.16,ci,ci40720479,2024-08-31T08:26:09.337Z,"13 km SE of Anza, CA",earthquake,0.19,0.51,0.124,10,automatic,ci,ci
-2024-08-31T08:17:15.480Z,35.007,-97.76083333,12.69,2.57,ml,80,82,0,0.25,ok,ok2024rcpp,2024-08-31T12:06:47.918Z,"10 km N of Alex, Oklahoma",earthquake,,0.8,0.21,37,reviewed,ok,ok
+2024-08-31T08:17:15.480Z,35.007,-97.76083333,12.69,2.57,ml,80,82,0,0.25,ok,ok2024rcpp,2024-08-31T12:22:29.351Z,"10 km N of Alex, Oklahoma",earthquake,,0.8,0.21,37,reviewed,ok,ok
 2024-08-31T08:16:58.032Z,38.6758,-118.5505,7.9,1.3,ml,11,89.96000000000001,0.053,0.1912,nn,nn00883561,2024-08-31T08:19:52.518Z,"17 km NNE of Hawthorne, Nevada",earthquake,,0.6,0.2,7,automatic,nn,nn
 2024-08-31T08:12:04.304Z,61.8096,-149.0528,33.9,1.4,ml,,,,1.05,ak,ak024b7nyq9a,2024-08-31T08:14:10.472Z,"10 km NNE of Buffalo Soapstone, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-08-31T08:11:31.557Z,31.672,-104.38,3.6599,1.9,ml,15,69,0,0.3,tx,tx2024rcpo,2024-08-31T08:32:05.731Z,"55 km S of Whites City, New Mexico",earthquake,0,1.40927159786224,0.2,13,automatic,tx,tx
@@ -241,7 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-30T12:46:09.610Z,19.3808326721191,-155.239166259766,0.850000023841858,1.95,ml,7,106,0.007354,0.209999993,hv,hv74431702,2024-08-30T12:49:00.510Z,"6 km S of Volcano, Hawaii",earthquake,0.63,0.419999987,0.36,12,automatic,hv,hv
 2024-08-30T12:44:43.670Z,38.8376655578613,-122.771835327148,0.759999990463257,0.75,md,9,143,0.006082,0.02,nc,nc75055246,2024-08-30T13:34:31.204Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.319999993,0.41,10,automatic,nc,nc
 2024-08-30T12:39:08.377Z,62.3525,-149.0921,12.6,1.3,ml,,,,0.54,ak,ak024b62ys1y,2024-08-30T12:41:33.499Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-08-30T12:33:06.132Z,62.2419,-149.8414,0,2.4,ml,,,,0.77,ak,ak024b62xmdl,2024-08-30T12:59:25.810Z,"8 km N of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-08-30T12:23:33.221Z,37.748,-117.1386,13.9,0.7,ml,8,177.34999999999997,0.557,0.1858,nn,nn00883476,2024-08-30T12:26:32.778Z,"9 km ENE of Goldfield, Nevada",earthquake,,1.8,0.88,5,automatic,nn,nn
-2024-08-30T12:22:38.890Z,19.4479999542236,-155.407836914062,21.8099994659424,2.3499999,md,30,60,0.04943,0.150000006,hv,hv74431667,2024-08-30T12:25:21.090Z,"18 km W of Volcano, Hawaii",earthquake,0.47,0.709999979,0.159999996,4,automatic,hv,hv
-2024-08-30T12:21:55.163Z,62.214,-149.7938,12.2,1.5,ml,,,,0.56,ak,ak024b62v5jw,2024-08-30T12:23:53.255Z,"6 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
