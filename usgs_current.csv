@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T07:06:07.250Z,33.5648333,-118.3643333,-0.16,1.88,ml,44,120,0.1587,0.37,ci,ci40722207,2024-09-02T07:13:02.648Z,"20 km S of Rancho Palos Verdes, CA",earthquake,0.39,0.72,0.178,34,automatic,ci,ci
 2024-09-02T07:02:02.220Z,17.9641666666667,-67.002,7.74,2.87,md,23,179,0.04053,0.19,pr,pr71459043,2024-09-02T07:46:26.650Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.5,0.24,0.127605998880827,7,reviewed,pr,pr
 2024-09-02T07:00:19.898Z,59.0011,-154.2474,120.2,2,ml,,,,0.3,ak,ak024baydg91,2024-09-02T07:34:28.040Z,"57 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-09-02T06:58:34.140Z,17.9771666666667,-67.0055,7.64,3.15,md,25,158,0.03765,0.16,pr,pr71459033,2024-09-02T07:36:19.880Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.33,0.15,0.0981820355468093,10,reviewed,pr,pr
+2024-09-02T06:58:34.140Z,17.9771666666667,-67.0055,7.64,3.15,md,25,158,0.03765,0.16,pr,pr71459033,2024-09-02T07:59:40.040Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.33,0.15,0.0981820355468093,10,reviewed,pr,pr
 2024-09-02T06:58:08.620Z,34.5530014,-117.2683334,22.47,1.12,ml,13,144,0.3668,0.22,ci,ci40722199,2024-09-02T07:04:22.609Z,"3 km NE of Victorville, CA",earthquake,1.45,2.09,0.46,7,automatic,ci,ci
 2024-09-02T06:57:52.400Z,37.5732,-116.9605,3.4,0.3,ml,8,168.09999999999997,0.469,0.2018,nn,nn00883683,2024-09-02T07:00:36.844Z,"28 km ESE of Goldfield, Nevada",earthquake,,15,0.49,6,automatic,nn,nn
 2024-09-02T06:50:46.150Z,17.9581,-67.0101,8,3.41,md,14,192,0.036,0.27,pr,pr2024246001,2024-09-02T07:22:08.215Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.71,1.05,0.17,9,reviewed,pr,pr
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T03:35:52.032Z,37.6896,-117.086,4,0.8,ml,10,324.45,0.618,0.1566,nn,nn00883670,2024-09-02T03:38:06.149Z,"13 km E of Goldfield, Nevada",earthquake,,13,0.35,7,automatic,nn,nn
 2024-09-02T03:33:05.432Z,37.7309,-117.1512,12,0.7,ml,9,174.17999999999995,0.559,0.1211,nn,nn00883668,2024-09-02T03:35:45.943Z,"7 km ENE of Goldfield, Nevada",earthquake,,903.7,0.13,5,automatic,nn,nn
 2024-09-02T03:20:43.251Z,37.7432,-117.1221,3.7,2.1,ml,24,154.05999999999995,0.456,0.1708,nn,nn00883665,2024-09-02T03:23:19.045Z,"10 km ENE of Goldfield, Nevada",earthquake,,5.9,0.26,17,automatic,nn,nn
-2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T03:16:39.768Z,-36.2457,-100.572,10,5.3,mww,83,35,11.754,0.58,us,us6000np6k,2024-09-02T05:00:38.040Z,"southeast of Easter Island",earthquake,11.65,1.77,0.083,14,reviewed,us,us
 2024-09-02T03:10:11.907Z,39.551,-120.0314,7.6,1.1,ml,11,129.39999999999998,0.078,0.1038,nn,nn00883663,2024-09-02T03:12:06.713Z,"3 km NNW of Verdi, California",earthquake,,0.5,0.13,7,automatic,nn,nn
 2024-09-02T02:57:15.432Z,16.9221,-96.4573,67.97,4.3,mb,77,155,2.114,0.74,us,us6000np6g,2024-09-02T05:36:51.023Z,"3 km NNE of San Lucas Quiavini, Mexico",earthquake,7.47,16.099,0.062,74,reviewed,us,us
@@ -250,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T08:19:12.780Z,57.2289,-155.1242,27.8,1.7,ml,,,,0.1,ak,ak024b9bjlf2,2024-09-01T08:20:45.515Z,"55 km SW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-01T08:16:55.560Z,38.7856674194336,-122.731666564941,1.61000001430511,1.29,md,16,86,0.004639,0.02,nc,nc75055996,2024-09-01T09:22:14.244Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.50999999,0.21,17,automatic,nc,nc
 2024-09-01T08:12:53.409Z,37.7492,-117.1233,5.3,0.6,ml,8,178.65000000000003,0.566,0.1218,nn,nn00883612,2024-09-01T08:15:37.643Z,"10 km ENE of Goldfield, Nevada",earthquake,,0,0.37,6,automatic,nn,nn
-2024-09-01T08:05:04.710Z,33.6831667,-116.788,14.34,0.46,ml,30,74,0.06759,0.13,ci,ci40721311,2024-09-01T08:10:59.533Z,"9 km SW of Idyllwild, CA",earthquake,0.21,0.29,0.15,9,automatic,ci,ci
-2024-09-01T08:04:13.710Z,33.9775,-116.4411667,6.69,0.69,ml,35,67,0.04555,0.14,ci,ci40721303,2024-09-01T15:08:27.026Z,"6 km ENE of Desert Hot Springs, CA",earthquake,0.16,0.33,0.243,12,reviewed,ci,ci
-2024-09-01T08:01:46.119Z,59.8151,-151.3974,46.8,2.1,ml,,,,0.33,ak,ak024b9bft3n,2024-09-01T13:49:52.608Z,"10 km NNW of Fritz Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
