@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T20:59:41.237Z,62.3623,-151.5479,77.4,1.3,ml,,,,0.54,ak,ak024bb6gs0b,2024-09-02T21:02:18.657Z,"42 km N of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-09-02T20:56:17.840Z,19.388500213623,-155.246994018555,1.5,1.93,ml,20,65,0.005045,0.129999995,hv,hv74438052,2024-09-02T20:59:09.570Z,"6 km SSW of Volcano, Hawaii",earthquake,0.21,0.170000002,0.39,9,automatic,hv,hv
 2024-09-02T20:53:25.560Z,36.8181648254395,-121.557998657227,8.18000030517578,1.11,md,4,194,0.04374,0,nc,nc75056636,2024-09-02T21:19:24.600Z,"4 km SW of San Juan Bautista, CA",earthquake,1.76,2.8499999,0.07,4,automatic,nc,nc
-2024-09-02T20:50:33.100Z,36.8248329162598,-121.565002441406,6.21999979019165,2.38,md,51,67,0.04976,0.14,nc,nc75056631,2024-09-02T22:26:47.365Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.23,0.670000017,0.11,47,automatic,nc,nc
+2024-09-02T20:50:33.100Z,36.8248329162598,-121.565002441406,6.21999979019165,2.38,md,51,67,0.04976,0.14,nc,nc75056631,2024-09-02T22:49:26.249Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.23,0.670000017,0.11,47,automatic,nc,nc
 2024-09-02T20:47:05.757Z,59.5931,-152.8221,91.4,1,ml,,,,0.25,ak,ak024bb6e03o,2024-09-02T20:49:34.040Z,"57 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-02T20:42:37.500Z,33.7728333,-116.032,8.25,1.85,ml,65,39,0.1276,0.16,ci,ci40722919,2024-09-02T22:14:09.890Z,"17 km NE of Coachella, CA",earthquake,0.12,0.56,0.18,27,reviewed,ci,ci
 2024-09-02T20:35:08.860Z,33.5978333,-116.8055,7.06,1.41,ml,11,154,0.0348,0.23,ci,ci40722911,2024-09-02T20:41:34.022Z,"13 km WNW of Anza, CA",earthquake,0.99,1.29,0.38,19,automatic,ci,ci
@@ -66,6 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T15:19:14.833Z,64.9043,-149.1394,3.1,1.4,ml,,,,0.98,ak,ak024bb38zaz,2024-09-02T15:21:33.599Z,"29 km SSE of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T15:18:18.510Z,35.3396667,-118.002,4.38,1.19,ml,28,51,0.03459,0.16,ci,ci40722551,2024-09-02T22:28:24.343Z,"24 km N of California City, CA",earthquake,0.17,0.32,0.178,16,reviewed,ci,ci
 2024-09-02T15:17:36.921Z,37.7426,-117.1253,3.7,1.9,ml,24,174.48000000000002,0.455,0.1799,nn,nn00883716,2024-09-02T15:20:14.301Z,"10 km ENE of Goldfield, Nevada",earthquake,,7.6,0.25,16,automatic,nn,nn
+2024-09-02T15:17:02.627Z,32.01,-101.725,8.4229,1.3,ml,12,70,0.1,0.1,tx,tx2024rgun,2024-09-02T22:44:42.104Z,"14 km SSE of Stanton, Texas",earthquake,0.5267779525674302,0.9776369957866902,0.2,22,reviewed,tx,tx
 2024-09-02T15:10:33.980Z,19.1736660003662,-155.490829467773,29.4799995422363,1.77999997,md,30,145,0.03266,0.170000002,hv,hv74437577,2024-09-02T15:12:30.700Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.68,0.850000024,0.180000007,4,automatic,hv,hv
 2024-09-02T15:05:55.990Z,19.1663341522217,-155.5,34.7299995422363,2.25,md,42,179,0.03743,0.150000006,hv,hv74437572,2024-09-02T15:11:03.660Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.64,0.74000001,0.340000004,13,automatic,hv,hv
 2024-09-02T15:03:25.450Z,19.1735000610352,-155.487167358398,29.4300003051758,1.99000001,md,48,95,0.02974,0.129999995,hv,hv74437567,2024-09-02T15:05:15.960Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.319999993,16,automatic,hv,hv
@@ -226,7 +227,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T03:35:52.032Z,37.6896,-117.086,4,0.8,ml,10,324.45,0.618,0.1566,nn,nn00883670,2024-09-02T03:38:06.149Z,"13 km E of Goldfield, Nevada",earthquake,,13,0.35,7,automatic,nn,nn
 2024-09-02T03:33:05.432Z,37.7309,-117.1512,12,0.7,ml,9,174.17999999999995,0.559,0.1211,nn,nn00883668,2024-09-02T03:35:45.943Z,"7 km ENE of Goldfield, Nevada",earthquake,,903.7,0.13,5,automatic,nn,nn
 2024-09-02T03:20:43.251Z,37.7432,-117.1221,3.7,2.1,ml,24,154.05999999999995,0.456,0.1708,nn,nn00883665,2024-09-02T03:23:19.045Z,"10 km ENE of Goldfield, Nevada",earthquake,,5.9,0.26,17,automatic,nn,nn
-2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T03:16:39.768Z,-36.2457,-100.572,10,5.3,mww,83,35,11.754,0.58,us,us6000np6k,2024-09-02T05:00:38.040Z,"southeast of Easter Island",earthquake,11.65,1.77,0.083,14,reviewed,us,us
 2024-09-02T03:10:11.907Z,39.551,-120.0314,7.6,1.1,ml,11,129.39999999999998,0.078,0.1038,nn,nn00883663,2024-09-02T03:12:06.713Z,"3 km NNW of Verdi, California",earthquake,,0.5,0.13,7,automatic,nn,nn
 2024-09-02T02:57:15.432Z,16.9221,-96.4573,67.97,4.3,mb,77,155,2.114,0.74,us,us6000np6g,2024-09-02T05:36:51.023Z,"3 km NNE of San Lucas Quiavini, Mexico",earthquake,7.47,16.099,0.062,74,reviewed,us,us
@@ -268,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T23:12:39.880Z,35.0333333,-117.6905,-0.8,1.66,ml,40,57,0.09883,0.25,ci,ci40721911,2024-09-01T23:19:27.867Z,"5 km NW of Boron, CA",earthquake,0.33,0.67,0.129,30,automatic,ci,ci
 2024-09-01T22:55:30.300Z,19.2495002746582,-155.414001464844,30.5900001525879,2.27999997,md,23,129,0.01963,0.150000006,hv,hv74436367,2024-09-01T22:57:11.550Z,"8 km NE of Pāhala, Hawaii",earthquake,0.74,0.649999976,0.159999996,3,automatic,hv,hv
 2024-09-01T22:54:34.682Z,61.028,-147.5763,27.5,2,ml,,,,0.38,ak,ak024b9k37n0,2024-09-01T22:56:11.934Z,"51 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-01T22:48:53.530Z,35.9698333,-117.658,2.34,1.75,ml,28,94,0.02274,0.16,ci,ci40721879,2024-09-02T15:13:29.628Z,"23 km E of Little Lake, CA",earthquake,0.19,0.18,0.179,23,reviewed,ci,ci
