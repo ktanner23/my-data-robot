@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T11:02:57.635Z,3.2313,-84.1767,10,4.8,mww,83,77,5.216,0.84,us,us6000np8s,2024-09-02T12:01:49.040Z,"off the coast of Central America",earthquake,7.93,1.911,0.066,22,reviewed,us,us
 2024-09-02T10:55:43.269Z,37.0581,-116.252,6.5,1,ml,22,57.00999999999999,0.109,0.2237,nn,nn00883699,2024-09-02T10:57:31.296Z,"48 km ENE of Beatty, Nevada",earthquake,,0.8,0.22,14,automatic,nn,nn
 2024-09-02T10:49:12.490Z,38.8250007629395,-122.856002807617,2.26999998092651,1.56,md,25,99,0.01649,0.03,nc,nc75056426,2024-09-02T11:24:23.416Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.330000013,0.12,25,automatic,nc,nc
-2024-09-02T10:49:09.450Z,38.8276672363281,-122.853996276855,2.17000007629395,1.83,md,10,94,0.00225,0.02,nc,nc75056421,2024-09-02T11:09:26.320Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.49000001,0.14,11,automatic,nc,nc
+2024-09-02T10:49:09.450Z,38.8276672363281,-122.853996276855,2.17000007629395,1.83,md,10,94,0.00225,0.02,nc,nc75056421,2024-09-02T12:44:23.986Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.49000001,0.14,11,automatic,nc,nc
 2024-09-02T10:34:06.201Z,60.2246,-148.141,15.8,1.9,ml,,,,0.87,ak,ak024bb0d0cs,2024-09-02T10:35:44.907Z,"19 km NNW of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-02T10:32:21.869Z,37.7557,-117.1107,0,1.1,ml,20,176.22000000000003,0.571,0.3588,nn,nn00883696,2024-09-02T10:35:01.304Z,"12 km ENE of Goldfield, Nevada",earthquake,,30.9,0.21,12,automatic,nn,nn
 2024-09-02T10:27:59.710Z,38.7918319702148,-122.778335571289,2.01999998092651,0.76,md,8,106,0.007608,0.01,nc,nc75056411,2024-09-02T10:29:33.791Z,"2 km NW of The Geysers, CA",earthquake,0.43,0.949999988,0.05,10,automatic,nc,nc
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T03:35:52.032Z,37.6896,-117.086,4,0.8,ml,10,324.45,0.618,0.1566,nn,nn00883670,2024-09-02T03:38:06.149Z,"13 km E of Goldfield, Nevada",earthquake,,13,0.35,7,automatic,nn,nn
 2024-09-02T03:33:05.432Z,37.7309,-117.1512,12,0.7,ml,9,174.17999999999995,0.559,0.1211,nn,nn00883668,2024-09-02T03:35:45.943Z,"7 km ENE of Goldfield, Nevada",earthquake,,903.7,0.13,5,automatic,nn,nn
 2024-09-02T03:20:43.251Z,37.7432,-117.1221,3.7,2.1,ml,24,154.05999999999995,0.456,0.1708,nn,nn00883665,2024-09-02T03:23:19.045Z,"10 km ENE of Goldfield, Nevada",earthquake,,5.9,0.26,17,automatic,nn,nn
-2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-02T03:18:40.966Z,63.5602,-147.5333,9.5,1.2,ml,,,,0.51,ak,ak024baw3mcg,2024-09-02T03:21:08.459Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-02T03:16:39.768Z,-36.2457,-100.572,10,5.3,mww,83,35,11.754,0.58,us,us6000np6k,2024-09-02T05:00:38.040Z,"southeast of Easter Island",earthquake,11.65,1.77,0.083,14,reviewed,us,us
 2024-09-02T03:10:11.907Z,39.551,-120.0314,7.6,1.1,ml,11,129.39999999999998,0.078,0.1038,nn,nn00883663,2024-09-02T03:12:06.713Z,"3 km NNW of Verdi, California",earthquake,,0.5,0.13,7,automatic,nn,nn
 2024-09-02T02:57:15.432Z,16.9221,-96.4573,67.97,4.3,mb,77,155,2.114,0.74,us,us6000np6g,2024-09-02T05:36:51.023Z,"3 km NNE of San Lucas Quiavini, Mexico",earthquake,7.47,16.099,0.062,74,reviewed,us,us
@@ -193,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-01T20:21:17.390Z,39.6838340759277,-123.553665161133,2.98000001907349,1.37,md,7,108,,0.04,nc,nc75056171,2024-09-01T20:57:15.222Z,"6 km W of Laytonville, CA",earthquake,0.4,0.769999981,0.17,5,automatic,nc,nc
 2024-09-01T20:15:58.840Z,19.1923333333333,-155.486666666667,31.79,2.75,ml,43,77,0.04345,0.1,hv,hv74435997,2024-09-01T20:49:34.038Z,"1 km SW of Pāhala, Hawaii",earthquake,0.57,0.58,0.179723049131137,34,reviewed,hv,hv
 2024-09-01T20:15:58.090Z,19.3386666666667,-155.211333333333,7.11,1.18,ml,22,130,0.03516,0.07,hv,hv74435992,2024-09-01T20:54:41.840Z,"11 km SSE of Volcano, Hawaii",earthquake,0.35,0.72,0.266080065494557,12,reviewed,hv,hv
-2024-09-01T20:13:34.447Z,-6.8385,155.5172,41,6.4,mww,109,34,5.09,0.71,us,us6000np3z,2024-09-01T22:20:35.653Z,"57 km S of Panguna, Papua New Guinea",earthquake,6.8,1.838,0.034,81,reviewed,us,us
+2024-09-01T20:13:34.205Z,-6.8225,155.5322,39,6.4,mww,111,34,5.085,0.7,us,us6000np3z,2024-09-02T12:49:54.384Z,"56 km S of Panguna, Papua New Guinea",earthquake,8.15,1.941,0.031,103,reviewed,us,us
 2024-09-01T20:13:00.730Z,19.3768329620361,-155.184005737305,2.21000003814697,1.72000003,md,21,169,0.01413,0.140000001,hv,hv74435987,2024-09-01T20:14:33.750Z,"8 km SE of Volcano, Hawaii",earthquake,0.68,0.379999995,0.159999996,12,automatic,hv,hv
 2024-09-01T20:07:57.122Z,59.8274,-153.0045,104.5,1.3,ml,,,,0.2,ak,ak024b9imbi8,2024-09-01T20:09:24.758Z,"61 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-01T20:05:06.380Z,35.337,-118.0011667,4.44,1.15,ml,29,51,0.03697,0.17,ci,ci40721807,2024-09-01T20:11:27.884Z,"24 km N of California City, CA",earthquake,0.2,0.38,0.205,14,automatic,ci,ci
