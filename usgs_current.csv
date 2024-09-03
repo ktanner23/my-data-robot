@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-03T04:44:48.717Z,58.9148,-152.1107,32.5,1.9,ml,,,,0.49,ak,ak024bckdznr,2024-09-03T04:46:22.527Z,"50 km SSW of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-03T04:43:59.300Z,35.2280006,-118.5036697,3.06,1.36,ml,17,64,0.1516,0.16,ci,ci40723199,2024-09-03T04:47:04.728Z,"12 km NNW of Tehachapi, CA",earthquake,0.41,2.17,0.292,11,automatic,ci,ci
+2024-09-03T04:43:59.310Z,35.2253333,-118.5035,5.28,0.92,ml,27,83,0.1518,0.12,ci,ci40723199,2024-09-03T04:51:00.779Z,"12 km NNW of Tehachapi, CA",earthquake,0.17,0.99,0.18,10,automatic,ci,ci
 2024-09-03T04:28:48.823Z,38.184,-117.8172,6.2,1.9,ml,14,176.64,0.133,0.2129,nn,nn00883765,2024-09-03T04:31:48.663Z,"34 km SE of Mina, Nevada",earthquake,,0.5,0.43,6,automatic,nn,nn
 2024-09-03T04:25:25.040Z,33.4985,-116.5036667,10.09,0.54,ml,27,58,0.06312,0.15,ci,ci40723191,2024-09-03T04:31:43.736Z,"17 km ESE of Anza, CA",earthquake,0.21,0.48,0.206,9,automatic,ci,ci
 2024-09-03T04:16:31.486Z,61.0218,-146.9703,20.2,1.3,ml,,,,0.41,ak,ak024bck7ya4,2024-09-03T04:19:03.300Z,"23 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-03T03:39:39.260Z,34.2573333,-118.4815,12.11,1.13,ml,35,49,0.02464,0.13,ci,ci40723151,2024-09-03T03:45:53.842Z,"2 km SE of Granada Hills, CA",earthquake,0.18,0.35,0.151,29,automatic,ci,ci
 2024-09-03T03:34:33.839Z,38.7106,-118.6626,3.9,1.6,ml,8,157.36,0.137,0.3112,nn,nn00883762,2024-09-03T03:37:46.903Z,"10 km NE of Walker Lake, Nevada",earthquake,,7.7,0.07,4,automatic,nn,nn
 2024-09-03T03:30:12.683Z,38.848,-118.7337,5.6,1.9,ml,14,140.03,0.418,0.311,nn,nn00883760,2024-09-03T03:32:48.090Z,"13 km SSE of Schurz, Nevada",earthquake,,1.4,0.37,9,automatic,nn,nn
-2024-09-03T03:26:50.143Z,38.7364,-118.6219,9.9,2.5,ml,15,94.79999999999998,0.133,0.3481,nn,nn00883757,2024-09-03T03:29:29.053Z,"15 km NE of Walker Lake, Nevada",earthquake,,0.6,0.04,8,automatic,nn,nn
+2024-09-03T03:26:50.552Z,38.7317,-118.6351,9.2,2.4,ml,10,98.89000000000001,0.136,0.1133,nn,nn00883757,2024-09-03T04:53:47.165Z,"13 km NE of Walker Lake, Nevada",earthquake,,2.3,0.32,5,reviewed,nn,nn
 2024-09-03T03:26:00.530Z,19.3843326568604,-155.240997314453,0.140000000596046,2.06,ml,26,71,0.009805,0.159999996,hv,hv74438497,2024-09-03T03:28:53.780Z,"6 km S of Volcano, Hawaii",earthquake,0.17,0.140000001,0.33,13,automatic,hv,hv
 2024-09-03T03:25:34.170Z,19.3878326416016,-155.257995605469,1.63999998569489,1.86,ml,8,158,0.006721,0.180000007,hv,hv74438492,2024-09-03T03:28:29.010Z,"6 km SSW of Volcano, Hawaii",earthquake,0.49,0.75999999,0.39,14,automatic,hv,hv
 2024-09-03T03:24:45.140Z,35.0758333,-119.1296667,11.88,1.34,ml,35,96,0.04137,0.2,ci,ci40723143,2024-09-03T03:31:09.830Z,"23 km NW of Grapevine, CA",earthquake,0.28,0.52,0.126,28,automatic,ci,ci
@@ -271,5 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-02T05:16:09.590Z,32.9198333,-116.2348333,7.24,0.6,ml,31,78,0.1567,0.19,ci,ci40722111,2024-09-02T15:10:28.211Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.24,0.85,0.184,7,reviewed,ci,ci
 2024-09-02T05:04:58.450Z,38.8228340148926,-122.810165405273,2.14000010490417,1.79,md,40,38,0.0005647,0.04,nc,nc75056331,2024-09-02T06:32:16.377Z,"7 km NNW of The Geysers, CA",earthquake,0.16,0.25999999,0.13,40,automatic,nc,nc
 2024-09-02T05:04:40.710Z,19.2180004119873,-155.407333374023,31.1399993896484,2.03999996,md,25,160,0.08097,0.100000001,hv,hv74436692,2024-09-02T05:06:11.160Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.57,0.540000021,0.25999999,4,automatic,hv,hv
-2024-09-02T04:56:15.640Z,38.8356666564941,-122.81583404541,1.89999997615814,1.09,md,21,62,0.01305,0.02,nc,nc75056326,2024-09-02T06:09:25.288Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.430000007,0.16,21,automatic,nc,nc
-2024-09-02T04:55:39.060Z,38.8344993591309,-122.815170288086,1.8400000333786,1.33,md,26,46,0.01178,0.03,nc,nc75056321,2024-09-02T05:44:25.025Z,"8 km WNW of Cobb, CA",earthquake,0.2,0.340000004,0.14,28,automatic,nc,nc
