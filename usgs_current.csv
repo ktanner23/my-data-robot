@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-09T15:30:56.239Z,34.82514954,-97.52156067,4.620299816,1.67,ml,14,73.70965576,0.1103612483,0.6742741633,ok,ok2024rtpm,2024-09-09T15:39:33.530Z,"7 km E of Lindsay, Oklahoma",earthquake,3.125041536,2.692924774,0.34,8,automatic,ok,ok
-2024-09-09T15:21:47.860Z,33.8926667,-117.7246667,7.05,2.52,ml,138,19,0.02698,0.2,ci,ci40729055,2024-09-09T15:35:02.616Z,"8 km E of Yorba Linda, CA",earthquake,0.1,0.26,0.192,26,automatic,ci,ci
+2024-09-09T15:43:33.751Z,63.212,-149.8156,90.5,1.2,ml,,,,0.37,ak,ak024bmo5len,2024-09-09T15:45:57.351Z,"47 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-09-09T15:30:56.289Z,34.82783333,-97.51116667,6.31,1.39,ml,26,73,0.1052793406,0.35,ok,ok2024rtpm,2024-09-09T15:46:27.368Z,"8 km E of Lindsay, Oklahoma",earthquake,,1,0.18,11,reviewed,ok,ok
+2024-09-09T15:21:47.860Z,33.8926667,-117.7246667,7.05,2.52,ml,138,19,0.02698,0.2,ci,ci40729055,2024-09-09T15:45:22.839Z,"8 km E of Yorba Linda, CA",earthquake,0.1,0.26,0.192,26,automatic,ci,ci
+2024-09-09T15:14:24.530Z,-22.3613,-67.4792,166.22,4.3,mb,29,45,0.874,0.45,us,us6000nqnm,2024-09-09T15:43:09.040Z,"95 km NE of San Pedro de Atacama, Chile",earthquake,6.52,6.038,0.161,11,reviewed,us,us
 2024-09-09T15:12:35.172Z,59.6697,-152.6192,85.3,1.4,ml,,,,0.34,ak,ak024bmnyybh,2024-09-09T15:14:11.094Z,"45 km WSW of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-09-09T15:11:08.212Z,37.7574,-117.1248,3.2,1.1,ml,14,179.62,0.47,0.2812,nn,nn00884431,2024-09-09T15:13:35.902Z,"11 km ENE of Goldfield, Nevada",earthquake,,17.2,0.21,8,automatic,nn,nn
 2024-09-09T15:02:53.761Z,-29.7288,-176.1638,10,5,mb,65,63,1.6,0.75,us,us6000nqni,2024-09-09T15:31:25.040Z,"Kermadec Islands region",earthquake,10.55,1.804,0.048,138,reviewed,us,us
@@ -97,6 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T08:01:40.094Z,63.3274,-144.9219,2.1,1.9,ml,,,,0.68,ak,ak024bmjqkl5,2024-09-09T08:03:41.225Z,"38 km SSW of Dry Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-09T07:56:13.160Z,33.1185,-116.3771667,8.4,0.7,ml,49,37,0.06567,0.2,ci,ci40728791,2024-09-09T14:13:37.023Z,"15 km S of Borrego Springs, CA",earthquake,0.19,0.61,0.2,10,reviewed,ci,ci
 2024-09-09T07:47:50.683Z,28.544,-98.4,5.5772,1.6,ml,11,131,0.1,0.8,tx,tx2024rtah,2024-09-09T08:11:27.826Z,"17 km ENE of Tilden, Texas",earthquake,0,2.844986363866,0.2,9,automatic,tx,tx
+2024-09-09T07:44:40.620Z,38.4921666666667,-112.877,0.79,0.68,md,14,69,0.004648,0.12,uu,uu80081971,2024-09-09T15:45:35.900Z,"15 km NE of Milford, Utah",earthquake,0.27,0.43,0.639497961998113,6,reviewed,uu,uu
 2024-09-09T07:42:19.259Z,37.7983,-117.082,0,1.2,ml,19,181.01,0.567,0.3292,nn,nn00884391,2024-09-09T07:44:53.439Z,"16 km NE of Goldfield, Nevada",earthquake,,42.8,0.08,13,automatic,nn,nn
 2024-09-09T07:41:13.227Z,57.9087,-154.3863,70.4,2.2,ml,,,,0.43,ak,ak024bmjdnk6,2024-09-09T08:32:53.040Z,"38 km N of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-09T07:39:21.320Z,33.7113333,-116.8071667,16.43,0.48,ml,13,149,0.07752,0.11,ci,ci40728783,2024-09-09T14:13:39.087Z,"9 km WSW of Idyllwild, CA",earthquake,0.92,0.58,0.084,10,reviewed,ci,ci
@@ -267,7 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-08T16:00:01.530Z,38.829833984375,-122.851829528809,1.46000003814697,0.75,md,12,101,0.004554,0.01,nc,nc75059256,2024-09-08T16:34:25.496Z,"10 km NW of The Geysers, CA",earthquake,0.35,0.639999986,0.15,13,automatic,nc,nc
 2024-09-08T15:56:37.340Z,37.0713333333333,-112.8535,10.07,1.82,ml,19,105,0.06016,0.18,uu,uu80081911,2024-09-09T13:53:19.150Z,"12 km NE of Hildale, Utah",earthquake,0.36,0.72,0.0963005424402392,10,reviewed,uu,uu
 2024-09-08T15:49:04.650Z,34.0243333,-117.5915,5.51,1.41,ml,72,25,0.01582,0.16,ci,ci40728359,2024-09-08T15:59:40.740Z,"5 km SE of Ontario, CA",earthquake,0.12,0.19,0.148,27,automatic,ci,ci
-2024-09-08T15:46:03.738Z,-35.2001,-74.1434,15.62,4.5,mb,22,110,2.293,0.53,us,us6000nqhc,2024-09-08T16:18:29.040Z,"158 km W of Constitución, Chile",earthquake,6.6,3.917,0.163,11,reviewed,us,us
-2024-09-08T15:45:11.410Z,36.1171684,-117.8528366,4.03,0.78,ml,15,117,0.001689,0.15,ci,ci40728351,2024-09-08T15:48:40.215Z,"12 km NE of Coso Junction, CA",earthquake,0.43,0.5,0.043,8,automatic,ci,ci
-2024-09-08T15:42:04.307Z,37.7855,-117.0937,2.9,0.9,ml,9,185.58999999999997,0.566,0.2947,nn,nn00884331,2024-09-08T15:44:16.252Z,"15 km NE of Goldfield, Nevada",earthquake,,962.9,0.36,6,automatic,nn,nn
-2024-09-08T15:40:23.746Z,37.7704,-117.1137,2.3,0.9,ml,15,182.15000000000003,0.56,0.2695,nn,nn00884329,2024-09-08T15:42:57.671Z,"12 km ENE of Goldfield, Nevada",earthquake,,19.6,0.28,6,automatic,nn,nn
