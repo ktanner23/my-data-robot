@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-09T23:25:33.961Z,61.8624,-151.218,85,1.4,ml,,,,0.75,ak,ak024bmst7dg,2024-09-09T23:28:03.100Z,"17 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-09-09T23:20:44.930Z,37.5555000305176,-119.402336120605,3.39000010490417,2.78,md,29,197,0.2678,0.28,nc,nc75059826,2024-09-09T23:29:32.430Z,"26 km SSE of Yosemite Valley, CA",earthquake,1.76,23.4599991,0.14,30,automatic,nc,nc
+2024-09-09T23:20:44.930Z,37.5555000305176,-119.402336120605,3.39000010490417,2.78,md,29,197,0.2678,0.28,nc,nc75059826,2024-09-09T23:39:23.945Z,"26 km SSE of Yosemite Valley, CA",earthquake,1.76,23.4599991,0.14,30,automatic,nc,nc
 2024-09-09T23:16:49.080Z,19.4893341064453,-155.503005981445,0.419999986886978,2.26,ml,35,65,0.05958,0.310000002,hv,hv74448887,2024-09-09T23:19:42.370Z,"28 km W of Volcano, Hawaii",earthquake,0.54,1.37,0.18,7,automatic,hv,hv
 2024-09-09T23:16:03.850Z,34.1186667,-117.5711667,10.08,1.43,ml,59,37,0.02636,0.19,ci,ci40729399,2024-09-09T23:27:13.900Z,"1 km SE of Rancho Cucamonga, CA",earthquake,0.19,0.31,0.162,30,automatic,ci,ci
 2024-09-09T22:55:41.780Z,33.6358333,-116.689,13.84,1.41,ml,6,225,0.07836,0.06,ci,ci40729375,2024-09-09T23:10:12.718Z,"9 km N of Anza, CA",earthquake,0.81,0.6,0.453,14,automatic,ci,ci
@@ -61,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T17:24:09.096Z,-31.7067,-72.2578,10,4.4,mb,23,146,1.142,0.86,us,us6000nqqj,2024-09-09T18:10:50.040Z,"103 km W of Illapel, Chile",earthquake,6.08,1.907,0.179,9,reviewed,us,us
 2024-09-09T17:21:21.730Z,36.8474998474121,-121.440002441406,5.71000003814697,1.69,md,15,102,0.05406,0.08,nc,nc75059716,2024-09-09T19:34:31.167Z,"4 km WNW of Hollister, CA",earthquake,0.31,0.730000019,0.17,14,automatic,nc,nc
 2024-09-09T17:16:53.923Z,62.1925,-148.6323,31.6,1.1,ml,,,,0.75,ak,ak024bmp6pu8,2024-09-09T17:18:44.644Z,"44 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-09-09T17:14:34.200Z,38.7613333333333,-122.718666666667,1.45,0.33,md,10,80,0.00485,0.02,nc,nc75059711,2024-09-09T23:39:58.796Z,"3 km WSW of Anderson Springs, CA",earthquake,0.62,0.64,0.044,4,reviewed,nc,nc
 2024-09-09T17:02:13.705Z,62.3744,-149.1919,0,1.4,ml,,,,0.81,ak,ak024bmp3mpm,2024-09-09T17:04:59.921Z,"41 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-09T16:56:36.230Z,34.2331667,-117.5193333,11.59,0.63,ml,9,108,0.03016,0.13,ci,ci40729135,2024-09-09T20:18:35.326Z,"3 km SSW of Lytle Creek, CA",earthquake,0.47,0.77,0.128,7,reviewed,ci,ci
 2024-09-09T16:56:14.015Z,59.3629,-150.5058,36,2.2,ml,,,,0.72,ak,ak024bmotrsp,2024-09-09T16:58:22.001Z,"48 km ESE of Halibut Cove, Alaska",earthquake,,3.5,,,automatic,ak,ak
@@ -182,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T08:54:34.390Z,44.5363333333333,-115.4875,10.32,2.33,ml,15,72,0.6297,0.12,mb,mb90061013,2024-09-09T23:04:34.100Z,"44 km E of Cascade, Idaho",earthquake,0.35,0.65,0.151874111086987,20,reviewed,mb,mb
 2024-09-09T08:53:06.715Z,31.621,-104.505,7.1765,2,ml,43,75,0,0.2,tx,tx2024rtcj,2024-09-09T14:01:21.757Z,"62 km S of Whites City, New Mexico",earthquake,1.0358550763585146,0.6537012582885582,0.2,31,reviewed,tx,tx
 2024-09-09T08:50:03.767Z,-35.8127,179.7648,64.161,4.8,mb,38,124,2.103,0.55,us,us6000nqli,2024-09-09T10:31:33.040Z,"237 km NNE of Hicks Bay, New Zealand",earthquake,8.74,6.021,0.113,24,reviewed,us,us
+2024-09-09T08:43:05.510Z,60.4953333333333,-152.762166666667,0.34,-1.08,ml,7,80,0.03438,0.12,av,av93257258,2024-09-09T23:34:37.590Z,"78 km NW of Ninilchik, Alaska",earthquake,0.26,0.4,0.155125358412333,6,reviewed,av,av
 2024-09-09T08:42:16.320Z,32.7893333,-115.4496667,10.17,1.01,ml,18,99,0.01613,0.23,ci,ci40728823,2024-09-09T17:24:12.990Z,"7 km WSW of Holtville, CA",earthquake,0.5,0.8,0.113,9,reviewed,ci,ci
 2024-09-09T08:34:47.320Z,35.7186666666667,-84.0341666666667,22.55,1.72,md,12,74,0.1398,0.07,se,se60590881,2024-09-09T12:50:57.500Z,"7 km SW of Maryville, Tennessee",earthquake,0.34,0.71,0.108853392855423,10,reviewed,se,se
 2024-09-09T08:33:20.202Z,31.611,-104.511,7.7405,1.9,ml,30,75,0.1,0.2,tx,tx2024rtbs,2024-09-09T13:21:16.478Z,"63 km SSW of Whites City, New Mexico",earthquake,0.8527579499635006,0.8401667919639706,0.2,24,reviewed,tx,tx
@@ -327,4 +329,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T00:05:31.290Z,38.8251647949219,-122.794502258301,3.21000003814697,0.78,md,8,172,0.01229,0.01,nc,nc75059416,2024-09-09T01:42:15.509Z,"6 km WNW of Cobb, CA",earthquake,0.72,2.04999995,0.02,8,automatic,nc,nc
 2024-09-09T00:03:46.430Z,40.129,-121.002333333333,2.66,2.11,md,11,146,0.1595,0.06,nc,nc75059426,2024-09-09T17:38:48.234Z,"5 km W of Greenville, CA",earthquake,0.32,2.12,0.234,19,reviewed,nc,nc
 2024-09-08T23:52:46.680Z,38.9188346862793,-123.248832702637,5.25,2.27,md,30,70,0.04896,0.07,nc,nc75059401,2024-09-09T00:49:26.119Z,"14 km SE of Boonville, CA",earthquake,0.21,0.600000024,0.13,27,automatic,nc,nc
-2024-09-08T23:39:31.419Z,64.9885,-147.4569,1.7,1.2,ml,,,,0.89,ak,ak024bl5cuph,2024-09-08T23:41:26.924Z,"8 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
