@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-10T12:46:00.010Z,38.8313331604004,-122.819000244141,1.75999999046326,1.23,md,22,52,0.01056,0.02,nc,nc75059986,2024-09-10T12:47:35.097Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.18,24,automatic,nc,nc
 2024-09-10T12:45:46.561Z,59.9265,-152.2311,65.1,1.8,ml,,,,0.57,ak,ak024bo9x3i8,2024-09-10T12:47:20.100Z,"27 km NW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-10T12:36:07.169Z,37.7537,-117.1147,0,1.3,ml,14,155.17000000000002,0.569,0.2248,nn,nn00884483,2024-09-10T12:38:44.704Z,"11 km ENE of Goldfield, Nevada",earthquake,,25.7,0.29,9,automatic,nn,nn
+2024-09-10T12:36:07.169Z,37.7537,-117.1147,0,1.3,ml,14,155.17000000000002,0.569,0.2248,nn,nn00884483,2024-09-10T12:50:06.314Z,"11 km ENE of Goldfield, Nevada",earthquake,,25.7,0.29,9,automatic,nn,nn
 2024-09-10T12:18:49.890Z,33.1188333,-116.3773333,8.29,0.85,ml,44,34,0.06577,0.2,ci,ci40729735,2024-09-10T12:24:42.905Z,"15 km S of Borrego Springs, CA",earthquake,0.19,0.66,0.144,16,automatic,ci,ci
 2024-09-10T12:05:15.433Z,37.7436,-117.1422,4.1,1.2,ml,16,176.51999999999998,0.557,0.3646,nn,nn00884481,2024-09-10T12:07:44.890Z,"9 km ENE of Goldfield, Nevada",earthquake,,4.9,0.21,12,automatic,nn,nn
 2024-09-10T11:52:43.099Z,60.0256,-139.5146,2.8,1.8,ml,,,,1.13,ak,ak024bo9d5n9,2024-09-10T11:55:54.667Z,"54 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -51,6 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T06:43:53.060Z,33.6736667,-116.705,15.91,0.38,ml,26,101,0.02645,0.09,ci,ci40729583,2024-09-10T06:50:03.812Z,"8 km S of Idyllwild, CA",earthquake,0.19,0.32,0.146,9,automatic,ci,ci
 2024-09-10T06:42:22.360Z,38.7700004577637,-122.744667053223,2.14000010490417,1.58,md,25,80,0.0146,0.08,nc,nc75059886,2024-09-10T07:19:27.349Z,"1 km SE of The Geysers, CA",earthquake,0.29,0.460000008,0.15,26,automatic,nc,nc
 2024-09-10T06:37:50.258Z,63.3097,-144.9759,7.2,1.5,ml,,,,0.35,ak,ak024bo6asfl,2024-09-10T06:39:21.299Z,"40 km NE of Paxson, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-10T06:37:15.240Z,36.42233333,-96.89916667,8.37,0.51,ml,23,69,0.05848852256,0.15,ok,ok2024rutj,2024-09-10T13:05:57.927Z,"12 km NW of Pawnee, Oklahoma",earthquake,,0.6,0.17,12,reviewed,ok,ok
 2024-09-10T06:34:04.227Z,61.8203,-148.9276,20.4,2.3,ml,,,,0.32,ak,ak024bo69vpr,2024-09-10T06:37:03.290Z,"9 km WNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-10T06:29:19.100Z,33.1588333,-116.095,11.37,0.66,ml,35,77,0.06123,0.19,ci,ci40729575,2024-09-10T06:35:44.951Z,"4 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.38,0.136,5,automatic,ci,ci
 2024-09-10T06:25:31.364Z,60.721,-147.7199,16.1,1.7,ml,,,,0.76,ak,ak024bo686ds,2024-09-10T06:27:36.367Z,"53 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -239,6 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-09T13:12:31.750Z,19.2558326721191,-155.350326538086,11.2200002670288,2,ml,51,149,0.04815,0.150000006,hv,hv74448457,2024-09-09T13:15:25.480Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.29,0.239999995,0.32,13,automatic,hv,hv
 2024-09-09T13:12:16.030Z,19.392333984375,-155.248168945312,1.02999997138977,1.71,ml,13,98,0.007408,0.100000001,hv,hv74448452,2024-09-09T13:15:08.650Z,"5 km SSW of Volcano, Hawaii",earthquake,0.23,0.280000001,0.51,19,automatic,hv,hv
 2024-09-09T13:09:40.110Z,61.2946666666667,-152.298666666667,0.34,0.2,ml,7,160,0.05036,0.05,av,av93257503,2024-09-10T04:11:44.740Z,"67 km WNW of Tyonek, Alaska",earthquake,0.25,2.07,0.17177893914327,8,reviewed,av,av
-2024-09-09T12:58:51.955Z,31.625,-104.52,7.0227,1.5,ml,15,70,0,0.1,tx,tx2024rtkm,2024-09-09T18:49:30.492Z,"62 km SSW of Whites City, New Mexico",earthquake,0.9586812121736727,0.6422143981745942,0.2,13,reviewed,tx,tx
-2024-09-09T12:53:08.070Z,35.1355,-84.6746666666667,17.9,2.03,md,14,85,0.2617,0.14,se,se60590891,2024-09-10T04:07:28.380Z,"4 km SSW of Benton, Tennessee",earthquake,0.65,1.41,0.0588339123048847,13,reviewed,se,se
-2024-09-09T12:52:14.490Z,46.20066666666666,-122.18966666666667,6.59,0.02,ml,11,65,0.001212,0.07,uw,uw62044646,2024-09-09T15:10:22.200Z,"37 km NNE of Amboy, Washington",earthquake,0.37,0.63,0.07313752590239206,5,reviewed,uw,uw
