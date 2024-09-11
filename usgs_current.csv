@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T22:17:45.030Z,19.4179992675781,-155.281173706055,5.65000009536743,2.25,md,7,152,0.002779,0.170000002,hv,hv74451502,2024-09-11T22:19:33.440Z,"5 km WSW of Volcano, Hawaii",earthquake,2.73,2.0999999,,4,automatic,hv,hv
 2024-09-11T22:02:40.995Z,62.9536,-151.301,69.5,1.4,ml,,,,0.55,ak,ak024bq35jtv,2024-09-11T22:06:53.337Z,"57 km NNW of Petersville, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2024-09-11T21:42:42.586Z,30.987,-103.555,4.7829,1.9,ml,14,78,0.1,0.4,tx,tx2024rxst,2024-09-11T22:05:13.511Z,"18 km E of Balmorhea, Texas",earthquake,0,1.4680879116058303,0.2,12,automatic,tx,tx
-2024-09-11T21:37:53.490Z,35.5449981689453,-120.764999389648,5.92999982833862,2.16,md,25,53,0.11,0.05,nc,nc75060606,2024-09-11T22:24:26.221Z,"5 km W of Templeton, CA",earthquake,0.21,0.720000029,0.18,28,automatic,nc,nc
+2024-09-11T21:37:53.490Z,35.5449981689453,-120.764999389648,5.92999982833862,2.16,md,25,53,0.11,0.05,nc,nc75060606,2024-09-11T22:57:43.200Z,"5 km W of Templeton, CA",earthquake,0.21,0.720000029,0.18,28,automatic,nc,nc
 2024-09-11T21:31:20.510Z,33.463,-116.427,10.1,1.93,ml,86,23,0.1282,0.17,ci,ci40731175,2024-09-11T21:41:53.600Z,"24 km NNW of Borrego Springs, CA",earthquake,0.11,0.3,0.165,26,automatic,ci,ci
 2024-09-11T21:24:46.649Z,31.693,-104.125,3.6656,1.7,ml,18,80,0.1,0.4,tx,tx2024rxse,2024-09-11T21:33:36.253Z,"49 km W of Mentone, Texas",earthquake,0,1.30182409286499,0.1,14,automatic,tx,tx
 2024-09-11T21:23:23.650Z,33.4705009,-116.4110031,11.64,0.76,ml,22,133,0.1326,0.12,ci,ci40731159,2024-09-11T21:26:51.791Z,"23 km SSW of La Quinta, CA",earthquake,0.42,0.78,0.147,17,automatic,ci,ci
@@ -159,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-11T07:38:18.521Z,59.8436,-153.4913,141.8,1.9,ml,,,,0.3,ak,ak024bpufpss,2024-09-11T07:40:04.069Z,"35 km E of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-11T07:29:51.510Z,19.2476673126221,-155.468673706055,32.3300018310547,1.95000005,md,19,155,0.068,0.129999995,hv,hv74450422,2024-09-11T07:31:30.070Z,"5 km NNE of Pāhala, Hawaii",earthquake,1.47,0.790000021,0.170000002,5,automatic,hv,hv
 2024-09-11T07:28:43.010Z,53.4425,-168.2095,7.55,-0.05,ml,6,237,0.03063,0.35,av,av93020599,2024-09-11T22:03:07.030Z,"70 km NE of Nikolski, Alaska",earthquake,1.58,1.73,0.348020598256874,5,reviewed,av,av
-2024-09-11T07:27:59.742Z,31.1773,70.6295,10,5.4,mb,102,51,3.326,1.13,us,us7000nd1m,2024-09-11T19:10:45.318Z,"31 km W of Karor, Pakistan",earthquake,3.74,1.825,0.039,225,reviewed,us,us
+2024-09-11T07:27:59.742Z,31.1773,70.6295,10,5.4,mb,102,51,3.326,1.13,us,us7000nd1m,2024-09-11T23:06:56.292Z,"31 km W of Karor, Pakistan",earthquake,3.74,1.825,0.039,225,reviewed,us,us
 2024-09-11T06:49:21.340Z,19.1165,-155.367333333333,31.8,1.53,md,26,234,0.1237,0.09,hv,hv74450407,2024-09-11T22:29:32.040Z,"15 km SE of Pāhala, Hawaii",earthquake,0.6,0.72,0.0764395694424398,7,reviewed,hv,hv
 2024-09-11T06:42:06.480Z,33.8873333,-116.8913333,12.84,0.68,ml,23,98,0.0948,0.12,ci,ci40730527,2024-09-11T17:23:54.387Z,"4 km SSW of Banning, CA",earthquake,0.23,0.55,0.154,8,reviewed,ci,ci
 2024-09-11T06:39:13.700Z,36.5795,-115.9608,13.3,-0.3,ml,15,244.73999999999995,0.082,0.0487,nn,nn00884531,2024-09-11T14:17:58.257Z,"25 km W of Indian Springs, Nevada",earthquake,,1.9,0.1,7,reviewed,nn,nn
@@ -236,10 +236,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-10T23:50:39.102Z,-55.8554,-26.2085,10,5.7,mb,80,47,6.112,1,us,us7000ncz6,2024-09-11T01:53:54.156Z,"South Sandwich Islands region",earthquake,10.57,1.859,0.058,107,reviewed,us,us
 2024-09-10T23:50:07.850Z,38.4511666666667,-112.8055,5.21,0.35,md,12,149,0.0411,0.08,uu,uu80082126,2024-09-11T14:31:57.080Z,"18 km ENE of Milford, Utah",earthquake,0.5,0.78,0.265013223466893,4,reviewed,uu,uu
 2024-09-10T23:38:54.799Z,35.023,-97.7885,10.96,0.97,ml,32,140,0.09628110636,0.4,ok,ok2024rwbc,2024-09-11T13:41:20.192Z,"12 km N of Alex, Oklahoma",earthquake,,2.1,0.24,15,reviewed,ok,ok
-2024-09-10T23:37:31.700Z,33.1951667,-116.0105,9.94,1.06,ml,39,60,0.03496,0.23,ci,ci40730335,2024-09-10T23:43:34.135Z,"13 km SSW of Salton City, CA",earthquake,0.25,0.5,0.142,27,automatic,ci,ci
+2024-09-10T23:37:31.590Z,33.1918333,-116.0145,10.39,1.11,ml,36,58,0.03584,0.15,ci,ci40730335,2024-09-11T23:02:09.487Z,"12 km ENE of Ocotillo Wells, CA",earthquake,0.19,0.4,0.1,22,reviewed,ci,ci
 2024-09-10T23:36:33.109Z,63.114,-151.5451,0,1.6,ml,,,,0.97,ak,ak024bogewoe,2024-09-10T23:38:29.519Z,"48 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-10T23:20:15.880Z,37.6366666666667,-118.9155,2.21,0.59,md,11,73,0.0167,0.04,nc,nc75060251,2024-09-11T18:07:57.267Z,"6 km ESE of Mammoth Lakes, CA",earthquake,0.32,0.49,0.077,7,reviewed,nc,nc
 2024-09-10T23:17:19.040Z,38.4975,-112.8745,1.67,-0.16,md,8,103,0.003035,0.08,uu,uu80082121,2024-09-11T14:29:14.190Z,"16 km NE of Milford, Utah",earthquake,0.61,0.82,0.755708340161014,3,reviewed,uu,uu
 2024-09-10T23:11:12.963Z,32.215,-102.012,6.7627,1.1,ml,23,55,0,0.1,tx,tx2024rwae,2024-09-11T17:15:17.109Z,"23 km WNW of Stanton, Texas",earthquake,0.5397111416235068,1.1563916920787363,0.1,11,reviewed,tx,tx
-2024-09-10T23:06:57.135Z,62.2679,-151.127,83.8,1.6,ml,,,,0.27,ak,ak024bog8j1t,2024-09-10T23:09:14.335Z,"31 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-09-10T22:59:46.880Z,46.1975,-122.1855,6.94,0.19,ml,12,58,0.002701,0.08,uw,uw62045031,2024-09-10T23:47:05.300Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.35,0.046601168374411306,5,reviewed,uw,uw
