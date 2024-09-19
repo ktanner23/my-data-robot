@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-19T05:48:17.050Z,33.4506667,-116.4213333,9.7,0.66,ml,44,78,0.1284,0.17,ci,ci40737911,2024-09-19T05:57:44.218Z,"22 km N of Borrego Springs, CA",earthquake,0.18,0.53,0.109,17,automatic,ci,ci
 2024-09-19T05:46:38.540Z,19.1956672668457,-155.488006591797,32.2200012207031,1.87,md,30,148,0.05345,0.150000006,hv,hv74470062,2024-09-19T05:48:14.350Z,"1 km SW of Pāhala, Hawaii",earthquake,0.69,0.730000019,0.129999995,4,automatic,hv,hv
+2024-09-19T05:39:36.189Z,-4.3028,143.3139,123.644,4.4,mb,19,123,3.154,0.56,us,us6000nt01,2024-09-19T05:57:01.040Z,"55 km E of Ambunti, Papua New Guinea",earthquake,12.5,8.606,0.127,18,reviewed,us,us
 2024-09-19T05:32:02.743Z,55.7731,-157.4931,6.2,3.9,ml,,,,0.4,ak,ak024c31ib0y,2024-09-19T05:43:09.040Z,"81 km SE of Chignik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-19T05:20:57.829Z,10.5615,91.6829,10,5.5,mww,113,45,7.433,0.63,us,us6000nszv,2024-09-19T05:41:22.624Z,"168 km SW of Port Blair, India",earthquake,8.68,1.82,0.08,15,reviewed,us,us
 2024-09-19T05:05:25.422Z,51.4429,176.2884,10,4.2,mb,32,217,1.511,0.55,us,us6000nszu,2024-09-19T05:23:42.040Z,"263 km SE of Attu Station, Alaska",earthquake,16.94,2.009,0.108,24,reviewed,us,us
@@ -92,6 +94,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T18:41:50.673Z,64.4302,-147.62,11.1,0.7,ml,,,,0.79,ak,ak024c1lrmjf,2024-09-18T18:43:49.235Z,"36 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-09-18T18:41:15.690Z,35.1768333,-118.6318333,11.55,0.85,ml,9,71,0.07144,0.07,ci,ci40737071,2024-09-19T00:00:50.658Z,"17 km WNW of Tehachapi, CA",earthquake,0.23,0.58,0.053,2,reviewed,ci,ci
 2024-09-18T18:29:49.240Z,34.163,-117.9323333,14.26,1.95,ml,68,31,0.03562,0.17,ci,ci40737055,2024-09-18T20:30:35.986Z,"4 km ENE of Bradbury, CA",earthquake,0.14,0.32,0.271,22,reviewed,ci,ci
+2024-09-18T18:25:18.440Z,38.2641666666667,-122.246,-0.16,1.6,md,16,93,0.02877,0.11,nc,nc75063566,2024-09-19T05:50:31.679Z,"5 km SSE of Napa, CA",quarry blast,0.34,31.61,0.309,16,reviewed,nc,nc
 2024-09-18T18:24:06.780Z,19.3561668395996,-155.205337524414,1.49000000953674,1.74000001,md,7,139,0.01998,0.0900000036,hv,hv74469317,2024-09-18T18:25:45.740Z,"10 km SSE of Volcano, Hawaii",earthquake,0.52,0.689999998,0.280000001,6,automatic,hv,hv
 2024-09-18T17:56:47.895Z,61.1584,-147.2327,20.6,1.6,ml,,,,0.4,ak,ak024c1l9egl,2024-09-18T17:58:46.359Z,"44 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-18T17:51:43.710Z,36.8422,-115.8499,0,-0.1,ml,7,263.7699999999999,0.128,0.0792,nn,nn00884836,2024-09-18T21:00:40.219Z,"34 km NNW of Indian Springs, Nevada",earthquake,,0,0.35,2,reviewed,nn,nn
@@ -213,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-18T06:09:05.290Z,39.0223333333333,-111.403,-3.13,0.97,md,5,131,0.04237,0.04,uu,uu80082811,2024-09-18T17:12:45.390Z,"17 km NW of Emery, Utah",earthquake,0.64,0.87,0.38162784936689,4,reviewed,uu,uu
 2024-09-18T06:06:38.960Z,19.0416,-68.2951,34,3.62,md,12,279,0.5347,0.41,pr,pr2024262000,2024-09-18T07:20:35.040Z,"52 km NNE of Punta Cana, Dominican Republic",earthquake,3.49,15.55,0.08,9,reviewed,pr,pr
 2024-09-18T06:00:46.584Z,30.915,-103.201,5.0745,2.3,ml,20,79,0.1,0.3,tx,tx2024sjig,2024-09-18T07:33:20.810Z,"30 km W of Fort Stockton, Texas",earthquake,0.9260618445288505,1.641558230542115,0.1,11,reviewed,tx,tx
-2024-09-18T05:53:11.590Z,47.6003333333333,-113.906666666667,15.84,1.09,ml,15,53,0.1104,0.16,mb,mb90061798,2024-09-18T13:27:01.440Z,"14 km ESE of Turtle Lake, Montana",earthquake,0.4,0.51,0.104375806533257,11,reviewed,mb,mb
-2024-09-18T05:50:32.420Z,34.304,-116.843,1.44,1.25,ml,56,38,0.07665,0.15,ci,ci40736567,2024-09-18T13:30:57.546Z,"5 km N of Big Bear City, CA",earthquake,0.13,0.32,0.15,27,reviewed,ci,ci
