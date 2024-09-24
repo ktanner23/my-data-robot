@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-24T13:32:20.140Z,35.2933349609375,-120.827331542969,2.40000009536743,1.75,md,10,106,0.05823,0.04,nc,nc75066136,2024-09-24T13:35:41.643Z,"3 km S of Baywood-Los Osos, CA",earthquake,0.36,1.26999998,0.08,7,automatic,nc,nc
+2024-09-24T13:32:20.140Z,35.2933349609375,-120.827331542969,2.40000009536743,1.75,md,10,106,0.05823,0.04,nc,nc75066136,2024-09-24T13:54:23.872Z,"3 km S of Baywood-Los Osos, CA",earthquake,0.36,1.26999998,0.08,7,automatic,nc,nc
 2024-09-24T13:30:27.430Z,46.16666793823242,-121.53166961669922,1.19000005722046,2.1568104028701782,ml,51,65,,0.280000001,uw,uw62049581,2024-09-24T13:32:49.820Z,"18 km N of Trout Lake, Washington",earthquake,0.56,1.38999999,0.27499058842658997,36,automatic,uw,uw
 2024-09-24T13:05:21.139Z,62.9985,-151.5573,40.1,1.6,ml,,,,1.19,ak,ak024cbfsrf5,2024-09-24T13:06:44.532Z,"61 km S of Denali National Park, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2024-09-24T12:44:53.708Z,59.7752,-152.1069,56.9,1.6,ml,,,,0.23,ak,ak024cbffr96,2024-09-24T12:46:29.755Z,"15 km W of Anchor Point, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -36,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T09:11:03.660Z,33.7141667,-117.031,13.62,0.62,ml,37,71,0.06646,0.18,ci,ci40743935,2024-09-24T13:42:12.691Z,"5 km ESE of Green Acres, CA",earthquake,0.26,0.41,0.051,15,reviewed,ci,ci
 2024-09-24T08:58:05.150Z,41.8895,-111.921666666667,5.04,1.2,md,20,71,0.1448,0.17,uu,uu80083316,2024-09-24T13:51:47.110Z,"3 km SSE of Trenton, Utah",earthquake,0.39,2.71,0.190938296399215,16,reviewed,uu,uu
 2024-09-24T08:56:44.100Z,33.6035,-116.8093333,7.33,0.35,ml,22,51,0.04158,0.12,ci,ci40743927,2024-09-24T13:42:26.130Z,"14 km WNW of Anza, CA",earthquake,0.18,0.45,0.141,8,reviewed,ci,ci
+2024-09-24T08:54:42.860Z,41.8913333333333,-111.92,5.35,0.85,md,18,72,0.1449,0.14,uu,uu80083311,2024-09-24T13:53:32.550Z,"3 km SSE of Trenton, Utah",earthquake,0.31,2.12,0.221379967085279,11,reviewed,uu,uu
 2024-09-24T08:52:07.420Z,41.8925,-111.9205,5.81,0.96,md,16,72,0.1459,0.13,uu,uu80083306,2024-09-24T13:38:17.870Z,"3 km SSE of Trenton, Utah",earthquake,0.32,2.11,0.184209174370716,12,reviewed,uu,uu
 2024-09-24T08:51:22.100Z,41.8863333333333,-111.924666666667,5.19,0.89,md,18,70,0.1448,0.12,uu,uu80083301,2024-09-24T13:35:14.850Z,"3 km NW of Amalga, Utah",earthquake,0.35,2.1,0.152952622447434,9,reviewed,uu,uu
 2024-09-24T08:50:33.310Z,41.8856666666667,-111.927833333333,2.39,0.76,md,17,71,0.1463,0.12,uu,uu80083296,2024-09-24T13:27:34.950Z,"3 km SSE of Trenton, Utah",earthquake,0.34,3.62,0.101854664095429,9,reviewed,uu,uu
@@ -126,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T23:20:17.921Z,62.3405,-151.2113,82.3,1.9,ml,,,,0.38,ak,ak024c9yaygw,2024-09-23T23:22:08.898Z,"28 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-23T23:18:38.330Z,31.657,-104.45,6.0999,2.4,ml,27,77,0,0.2,tx,tx2024sttx,2024-09-24T11:12:06.125Z,"57 km S of Whites City, New Mexico",earthquake,0.941725721621469,0.5609750344184226,0.1,28,reviewed,tx,tx
 2024-09-23T23:16:13.201Z,64.9962,-147.4687,0,1.3,ml,,,,0.61,ak,ak024c9ya38o,2024-09-23T23:17:36.943Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-09-23T23:14:19.526Z,31.5463,140.0638,11.71,5.6,mww,110,86,1.579,1.07,us,us6000ntz9,2024-09-24T01:19:58.489Z,"Izu Islands, Japan region",earthquake,7.31,4.231,0.053,34,reviewed,us,us
+2024-09-23T23:14:19.526Z,31.5463,140.0638,11.71,5.6,mww,110,86,1.579,1.07,us,us6000ntz9,2024-09-24T13:57:02.040Z,"Izu Islands, Japan region",earthquake,7.31,4.231,0.053,34,reviewed,us,us
 2024-09-23T22:35:36.550Z,36.0973333,-117.8696667,2.93,0.9,ml,19,87,0.02349,0.15,ci,ci40743631,2024-09-24T13:45:43.928Z,"9 km NE of Coso Junction, CA",earthquake,0.23,0.45,0.279,12,reviewed,ci,ci
 2024-09-23T22:25:04.280Z,38.8318328857422,-122.88166809082,2.30999994277954,0.76,md,5,206,0.006531,0.01,nc,nc75065966,2024-09-23T23:14:26.665Z,"12 km E of Cloverdale, CA",earthquake,0.95,0.790000021,0.37,8,automatic,nc,nc
 2024-09-23T22:19:35.650Z,60.4944,-142.3386,12,1.3,ml,,,,0.19,ak,ak024c9xpcil,2024-09-23T22:20:59.239Z,"109 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -200,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-23T14:06:01.730Z,17.8465,-66.8538333333333,10.57,1.94,md,3,256,0.2187,0.03,pr,pr71460953,2024-09-23T14:25:36.990Z,"14 km SSE of Guánica, Puerto Rico",earthquake,1.21,6.33,0.0794124884817613,3,reviewed,pr,pr
 2024-09-23T14:05:32.620Z,37.6471666666667,-118.908833333333,-2.31,0.88,md,5,181,0.00807,0.1,nc,nc75065806,2024-09-23T19:37:52.888Z,"6 km E of Mammoth Lakes, CA",earthquake,1.57,2.03,0.301,4,reviewed,nc,nc
 2024-09-23T14:05:22.420Z,41.7488333333333,-111.668666666667,9.66,1.25,ml,20,70,0.09082,0.14,uu,uu80083231,2024-09-23T14:24:57.000Z,"11 km ESE of North Logan, Utah",earthquake,0.42,0.84,0.142049096872271,5,reviewed,uu,uu
-2024-09-23T13:59:29.944Z,62.6388,-148.8079,48.1,2.3,ml,,,,0.54,ak,ak024c9sl09u,2024-09-23T14:30:43.040Z,"69 km ENE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-09-23T13:57:16.990Z,37.0688333333333,-112.848333333333,9.66,1.95,ml,16,102,0.05623,0.18,uu,uu80083226,2024-09-23T15:14:00.580Z,"12 km NE of Hildale, Utah",earthquake,0.4,1.29,0.138212843998405,9,reviewed,uu,uu
