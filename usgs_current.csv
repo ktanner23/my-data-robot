@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-25T17:45:21.240Z,35.7806664,-117.5928345,5.16,1.16,ml,18,129,0.1426,0.12,ci,ci40745343,2024-09-25T17:47:30.509Z,"17 km W of Searles Valley, CA",earthquake,0.39,3.32,0.094,6,automatic,ci,ci
+2024-09-25T17:45:21.250Z,35.78,-117.5961667,6.71,1.12,ml,23,66,0.1401,0.13,ci,ci40745343,2024-09-25T17:51:13.287Z,"17 km W of Searles Valley, CA",earthquake,0.18,0.66,0.09,13,automatic,ci,ci
 2024-09-25T17:42:48.805Z,31.578,-103.942,4.5321,1.5,ml,15,73,0,0.3,tx,tx2024sxae,2024-09-25T17:47:25.057Z,"32 km NNW of Toyah, Texas",earthquake,0,1.35094046592712,0.2,13,automatic,tx,tx
-2024-09-25T17:35:49.270Z,46.60749816894531,-119.79633331298828,7.17999982833862,1.04999995,md,8,124,,0.0599999987,uw,uw62049836,2024-09-25T17:37:28.310Z,"12 km SE of Desert Aire, Washington",earthquake,0.62,0.419999987,0.519999981,3,automatic,uw,uw
+2024-09-25T17:35:49.250Z,46.60366666666667,-119.795,7.66,0.99,ml,11,121,0.0236,0.07,uw,uw62049836,2024-09-25T17:51:53.520Z,"12 km SE of Desert Aire, Washington",earthquake,0.29,0.22,0.1585836480896946,10,reviewed,uw,uw
 2024-09-25T17:33:35.336Z,31.579,-103.935,4.6259,1.9,ml,16,77,0,0.2,tx,tx2024swzt,2024-09-25T17:47:19.057Z,"32 km NNW of Toyah, Texas",earthquake,0,1.38203179836273,0.2,12,automatic,tx,tx
 2024-09-25T17:31:50.292Z,65.4474,-148.2526,11.5,1.1,ml,,,,0.14,ak,ak024cd5vh79,2024-09-25T17:33:46.287Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-25T17:29:46.820Z,62.0852,-147.9942,30.7,1.5,ml,,,,0.56,ak,ak024cd5v1i2,2024-09-25T17:32:00.235Z,"35 km NNW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-25T11:06:55.700Z,35.721,-117.5565,3.68,0.85,ml,24,65,0.1216,0.13,ci,ci40745039,2024-09-25T13:23:57.452Z,"15 km WSW of Searles Valley, CA",earthquake,0.17,0.58,0.059,9,reviewed,ci,ci
 2024-09-25T11:03:04.670Z,38.7781677246094,-122.72533416748,1.57000005245209,0.77,md,10,75,0.01024,0.01,nc,nc75066536,2024-09-25T12:09:25.210Z,"3 km E of The Geysers, CA",earthquake,0.27,0.579999983,0.2,9,automatic,nc,nc
 2024-09-25T10:57:02.351Z,38.1848,-117.7675,12.2,1.4,ml,9,83.55999999999997,0.118,0.1408,nn,nn00885137,2024-09-25T17:39:52.208Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.4,5,reviewed,nn,nn
-2024-09-25T10:49:49.530Z,36.5935,-118.1488333,10.86,1.82,ml,18,70,0.07145,0.16,ci,ci40745031,2024-09-25T17:27:33.488Z,"7 km W of Lone Pine, CA",earthquake,0.23,0.71,0.164,20,automatic,ci,ci
+2024-09-25T10:49:49.530Z,36.5933333,-118.1476667,10.93,1.84,ml,20,70,0.07053,0.17,ci,ci40745031,2024-09-25T17:50:19.915Z,"7 km W of Lone Pine, CA",earthquake,0.23,0.76,0.175,19,reviewed,ci,ci
 2024-09-25T10:46:00.023Z,36.9628,-116.1862,3.1,0.2,ml,27,48.879999999999995,0.034,0.1533,nn,nn00885134,2024-09-25T17:15:20.592Z,"51 km E of Beatty, Nevada",earthquake,,1.4,0.32,11,reviewed,nn,nn
 2024-09-25T10:43:51.723Z,38.2077,-117.7542,6.1,1.1,ml,10,85.31,0.136,0.1784,nn,nn00885132,2024-09-25T16:44:35.735Z,"37 km ESE of Mina, Nevada",earthquake,,2,0.36,5,reviewed,nn,nn
 2024-09-25T10:42:25.421Z,64.1341,-148.0028,108.4,2.2,ml,,,,0.2,ak,ak024cd1rqxa,2024-09-25T10:53:59.040Z,"55 km ENE of Ferry, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -212,11 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-24T18:29:39.540Z,32.984,-116.3138333,8.2,1.32,ml,58,38,0.03061,0.19,ci,ci40744351,2024-09-24T20:48:56.103Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.16,0.48,0.264,27,reviewed,ci,ci
 2024-09-24T18:21:23.876Z,64.7415,-146.3514,4.7,1.3,ml,,,,0.43,ak,ak024cbivd43,2024-09-24T18:23:17.017Z,"29 km ESE of Pleasant Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-09-24T18:14:04.390Z,60.5505,-152.788333333333,7.71,-0.66,ml,7,84,0.04105,0.05,av,av93022184,2024-09-25T01:02:59.440Z,"80 km W of Salamatof, Alaska",earthquake,0.28,0.66,0.169889718204975,7,reviewed,av,av
-2024-09-24T18:04:35.000Z,35.07,-119.0791667,12.85,1.76,ml,42,73,0.01199,0.22,ci,ci40744319,2024-09-24T18:11:44.234Z,"20 km NW of Grapevine, CA",earthquake,0.21,0.7,0.172,26,automatic,ci,ci
+2024-09-24T18:04:34.930Z,35.0658333,-119.0775,13.36,1.72,ml,37,72,0.008876,0.23,ci,ci40744319,2024-09-25T17:49:10.698Z,"19 km NW of Grapevine, CA",earthquake,0.26,0.76,0.22,22,reviewed,ci,ci
 2024-09-24T17:57:37.526Z,31.665,-104.554,6.0999,1.9,ml,21,71,0,0.2,tx,tx2024svfn,2024-09-25T12:56:06.225Z,"59 km SSW of Whites City, New Mexico",earthquake,1.3241571903813008,0.5751326592688565,0.2,17,reviewed,tx,tx
 2024-09-24T17:56:48.060Z,60.5513333333333,-152.782,7.57,-0.44,ml,8,73,0.04102,0.08,av,av93284633,2024-09-24T23:58:08.860Z,"80 km W of Salamatof, Alaska",earthquake,0.29,0.63,0.175421036481242,8,reviewed,av,av
 2024-09-24T17:56:21.330Z,33.01,-116.3595,6.4,0.53,ml,16,109,0.05743,0.16,ci,ci40744303,2024-09-24T23:35:07.285Z,"24 km ESE of Julian, CA",earthquake,0.31,0.55,0.059,4,reviewed,ci,ci
-2024-09-24T17:54:40.574Z,61.691,-148.1151,17.8,1.3,ml,,,,0.49,ak,ak024cbih1fd,2024-09-24T17:56:35.572Z,"21 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-09-24T17:53:53.380Z,37.9226666666667,-121.955333333333,-0.26,1.67,md,14,69,0.02765,0.08,nc,nc75066236,2024-09-24T23:36:47.807Z,"3 km SW of Clayton, CA",quarry blast,0.25,31.61,0.198,17,reviewed,nc,nc
-2024-09-24T17:48:33.580Z,33.956,-117.1975,13.86,0.77,ml,17,72,0.09434,0.18,ci,ci40744295,2024-09-24T22:22:23.890Z,"4 km NE of Moreno Valley, CA",earthquake,0.3,0.93,0.091,6,reviewed,ci,ci
-2024-09-24T17:47:53.833Z,61.8858,-151.3108,83,1.3,ml,,,,0.12,ak,ak024cbifkfr,2024-09-24T17:49:06.631Z,"12 km SSE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
