@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-28T10:40:35.990Z,34.0838318,-118.8304977,3.69,1.21,ml,15,96,0.05962,0.22,ci,ci40747599,2024-09-28T10:42:58.109Z,"7 km SSW of Westlake Village, CA",earthquake,0.59,0.92,0.131,3,automatic,ci,ci
+2024-09-28T10:40:35.650Z,34.0583333,-118.8123333,10.35,1.21,ml,32,99,0.03285,0.23,ci,ci40747599,2024-09-28T10:46:50.016Z,"6 km N of Malibu, CA",earthquake,0.25,0.45,0.131,3,automatic,ci,ci
 2024-09-28T10:34:29.760Z,19.3404998779297,-155.140502929688,3.20000004768372,1.72000003,md,49,107,0.04637,0.230000004,hv,hv74480637,2024-09-28T10:36:07.280Z,"13 km S of Fern Forest, Hawaii",earthquake,0.42,1.05999994,0.129999995,26,automatic,hv,hv
-2024-09-28T10:28:12.100Z,38.7879981994629,-122.764503479004,1.92999994754791,0.66,md,6,167,0.01315,0,nc,nc75067736,2024-09-28T10:29:47.506Z,"1 km NNW of The Geysers, CA",earthquake,0.51,1.69000006,0.35,8,automatic,nc,nc
+2024-09-28T10:28:12.100Z,38.7879981994629,-122.764503479004,1.92999994754791,0.66,md,6,167,0.01315,0,nc,nc75067736,2024-09-28T10:54:27.523Z,"1 km NNW of The Geysers, CA",earthquake,0.51,1.69000006,0.35,8,automatic,nc,nc
 2024-09-28T10:26:22.290Z,36.2061667,-118.0123333,3.12,1.36,ml,27,92,0.1551,0.16,ci,ci40747591,2024-09-28T10:32:26.436Z,"8 km S of Olancha, CA",earthquake,0.26,0.75,0.201,16,automatic,ci,ci
 2024-09-28T10:20:17.451Z,63.2217,-150.4359,117.1,1.3,ml,,,,0.17,ak,ak024ci0921d,2024-09-28T10:22:06.213Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-09-28T10:09:28.710Z,36.203,-118.0138333,2.22,1.86,ml,29,61,0.1543,0.19,ci,ci40747575,2024-09-28T10:15:49.833Z,"9 km S of Olancha, CA",earthquake,0.27,0.88,0.213,22,automatic,ci,ci
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T22:22:50.326Z,53.8846,158.6995,151.721,4.6,mb,139,89,0.863,0.62,us,us7000ngwt,2024-09-27T22:42:14.040Z,"80 km NNE of Yelizovo, Russia",earthquake,10.03,7.394,0.044,157,reviewed,us,us
 2024-09-27T22:15:52.580Z,60.3731666666667,-153.086833333333,8.71,-0.28,ml,8,205,0.1621,0.1,av,av93288663,2024-09-28T01:12:38.920Z,"70 km ENE of Port Alsworth, Alaska",earthquake,0.6,2.1,0.176432505087394,8,reviewed,av,av
 2024-09-27T22:08:43.678Z,61.7316,-150.61,32,1.5,ml,,,,0.52,ak,ak024cgjse8f,2024-09-27T22:10:34.405Z,"21 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"31 km NNW of Isangel, Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
+2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
 2024-09-27T21:56:45.857Z,-22.9511,-177.0742,153.496,4.9,mb,57,66,2.511,0.94,us,us7000ngwn,2024-09-27T22:15:23.040Z,"268 km SW of Houma, Tonga",earthquake,10.88,7.172,0.042,176,reviewed,us,us
 2024-09-27T21:53:57.073Z,60.7195,-152.6741,13.8,0.4,ml,,,,0.17,ak,ak024cgjgmvv,2024-09-28T00:53:22.620Z,"74 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T21:48:11.280Z,61.313,-152.291666666667,2.55,-0.41,ml,7,145,0.08141,0.09,av,av93288638,2024-09-28T00:43:09.950Z,"67 km WNW of Beluga, Alaska",earthquake,0.32,1.48,0.305261107810443,8,reviewed,av,av
@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T11:15:36.170Z,60.0443333333333,-153.097166666667,0.72,-1.11,ml,6,106,0.02131,0.09,av,av93288158,2024-09-27T21:49:06.030Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.34,0.42,0.378017788244111,6,reviewed,av,av
 2024-09-27T11:10:28.798Z,63.8772,-145.6294,0,1.6,ml,,,,0.76,ak,ak024cgd9207,2024-09-27T11:13:30.631Z,"7 km SSW of Fort Greely, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T11:04:05.160Z,38.8330001831055,-122.882331848145,1.94000005722046,1.07,md,16,128,0.005288,0.03,nc,nc75067321,2024-09-27T12:27:16.745Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.460000008,0.11,18,automatic,nc,nc
-2024-09-27T10:54:54.730Z,38.8053321838379,-122.783836364746,3.21000003814697,0.43,md,7,134,0.009338,0.01,nc,nc75067311,2024-09-27T11:34:27.372Z,"4 km NNW of The Geysers, CA",earthquake,0.58,1.60000002,0.22,8,automatic,nc,nc
-2024-09-27T10:53:28.800Z,33.95,-116.726,15.63,1.3,ml,68,36,0.1095,0.15,ci,ci40746943,2024-09-27T17:29:42.415Z,"7 km ENE of Cabazon, CA",earthquake,0.13,0.38,0.171,27,reviewed,ci,ci
