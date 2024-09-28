@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-28T14:30:00.410Z,35.0976677,-119.0838318,10.96,2.14,ml,49,44,0.03898,0.27,ci,ci40747703,2024-09-28T14:32:11.080Z,"22 km NW of Grapevine, CA",earthquake,0.33,0.68,0.191,26,automatic,ci,ci
+2024-09-28T14:30:00.340Z,35.0951667,-119.0861667,11.7,2.14,ml,53,33,0.03653,0.24,ci,ci40747703,2024-09-28T14:41:01.800Z,"22 km NW of Grapevine, CA",earthquake,0.22,0.6,0.142,26,automatic,ci,ci
 2024-09-28T14:29:55.190Z,36.2106667,-118.014,2.26,1.79,ml,28,53,0.1588,0.21,ci,ci40747695,2024-09-28T14:36:25.547Z,"8 km S of Olancha, CA",earthquake,0.31,0.96,0.194,22,automatic,ci,ci
 2024-09-28T14:28:17.960Z,35.7028333,-117.5603333,4.66,0.33,ml,18,58,0.1174,0.13,ci,ci40747687,2024-09-28T14:34:52.371Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.59,0.093,5,automatic,ci,ci
 2024-09-28T14:16:24.770Z,19.191499710083,-155.371170043945,29.7600002288818,2.1099999,md,54,176,0.05209,0.129999995,hv,hv74480832,2024-09-28T14:18:58.490Z,"11 km E of Pāhala, Hawaii",earthquake,0.45,0.529999971,0.25,18,automatic,hv,hv
@@ -20,8 +20,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-28T12:29:46.103Z,64.3924,-149.5855,8.5,1,ml,,,,0.58,ak,ak024ci1hwwi,2024-09-28T12:32:16.753Z,"19 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-28T12:23:36.580Z,38.8166656494141,-122.888999938965,2.32999992370605,0.72,md,10,176,0.02196,0.14,nc,nc75067771,2024-09-28T12:52:16.369Z,"11 km E of Cloverdale, CA",earthquake,0.84,1.76999998,0.09,12,automatic,nc,nc
 2024-09-28T12:22:50.410Z,38.8354988098145,-122.879997253418,1.99000000953674,1.26,md,23,65,0.003832,0.02,nc,nc75067776,2024-09-28T13:09:24.494Z,"12 km E of Cloverdale, CA",earthquake,0.25,0.409999996,0.09,22,automatic,nc,nc
+2024-09-28T12:20:01.467Z,36.7248,-116.1498,1.6,-0.1,ml,13,123.31,0.017,0.1262,nn,nn00885332,2024-09-28T14:44:15.369Z,"46 km WNW of Indian Springs, Nevada",earthquake,,0.9,0.14,4,reviewed,nn,nn
 2024-09-28T12:19:38.580Z,19.1529998779297,-155.479995727539,31.2399997711182,2.48,ml,61,144,0.01708,0.159999996,hv,hv74480747,2024-09-28T12:22:31.740Z,"5 km S of Pāhala, Hawaii",earthquake,0.41,0.540000021,0.43,33,automatic,hv,hv
-2024-09-28T12:18:14.459Z,37.2959,21.2822,17.489,4.7,mb,46,52,0.526,1.05,us,us7000ngz5,2024-09-28T14:35:20.645Z,"31 km WNW of Filiatrá, Greece",earthquake,3.33,4.83,0.104,28,reviewed,us,us
+2024-09-28T12:18:14.459Z,37.2959,21.2822,17.489,4.7,mb,46,52,0.526,1.05,us,us7000ngz5,2024-09-28T14:40:25.864Z,"31 km WNW of Filiatrá, Greece",earthquake,3.33,4.83,0.104,28,reviewed,us,us
 2024-09-28T12:14:10.186Z,39.0734,56.0594,10,4.6,mb,34,125,1.977,1.06,us,us7000ngz3,2024-09-28T13:16:13.040Z,"21 km WNW of Serdar, Turkmenistan",earthquake,5.21,1.93,0.107,26,reviewed,us,us
 2024-09-28T12:12:37.200Z,36.6598320007324,-121.332168579102,2.61999988555908,1.71,md,14,111,0.04891,0.15,nc,nc75067766,2024-09-28T14:34:25.053Z,"15 km SSW of Tres Pinos, CA",earthquake,0.45,1.21000004,0.15,7,automatic,nc,nc
 2024-09-28T12:07:18.561Z,61.1532,-149.9562,44.3,1.1,ml,,,,0.86,ak,ak024ci1d50w,2024-09-28T12:09:07.693Z,"7 km SSW of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -127,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T22:22:50.326Z,53.8846,158.6995,151.721,4.6,mb,139,89,0.863,0.62,us,us7000ngwt,2024-09-27T22:42:14.040Z,"80 km NNE of Yelizovo, Russia",earthquake,10.03,7.394,0.044,157,reviewed,us,us
 2024-09-27T22:15:52.580Z,60.3731666666667,-153.086833333333,8.71,-0.28,ml,8,205,0.1621,0.1,av,av93288663,2024-09-28T01:12:38.920Z,"70 km ENE of Port Alsworth, Alaska",earthquake,0.6,2.1,0.176432505087394,8,reviewed,av,av
 2024-09-27T22:08:43.678Z,61.7316,-150.61,32,1.5,ml,,,,0.52,ak,ak024cgjse8f,2024-09-27T22:10:34.405Z,"21 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"31 km NNW of Isangel, Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
+2024-09-27T22:04:23.119Z,-19.2663,169.1929,129.398,4.8,mb,24,131,3.708,0.98,us,us7000ngwr,2024-09-27T22:23:44.040Z,"Vanuatu",earthquake,11.85,8.981,0.118,22,reviewed,us,us
 2024-09-27T21:56:45.857Z,-22.9511,-177.0742,153.496,4.9,mb,57,66,2.511,0.94,us,us7000ngwn,2024-09-27T22:15:23.040Z,"268 km SW of Houma, Tonga",earthquake,10.88,7.172,0.042,176,reviewed,us,us
 2024-09-27T21:53:57.073Z,60.7195,-152.6741,13.8,0.4,ml,,,,0.17,ak,ak024cgjgmvv,2024-09-28T00:53:22.620Z,"74 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-09-27T21:48:11.280Z,61.313,-152.291666666667,2.55,-0.41,ml,7,145,0.08141,0.09,av,av93288638,2024-09-28T00:43:09.950Z,"67 km WNW of Beluga, Alaska",earthquake,0.32,1.48,0.305261107810443,8,reviewed,av,av
@@ -199,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-27T15:01:21.560Z,38.8423347473145,-122.81266784668,2.32999992370605,0.75,md,8,124,0.01487,0.02,nc,nc75067371,2024-09-27T15:49:25.278Z,"8 km WNW of Cobb, CA",earthquake,0.51,1.21000004,0.22,9,automatic,nc,nc
 2024-09-27T14:58:08.399Z,-19.9897,169.3085,103.093,5.1,mww,83,64,3.135,1.03,us,us7000ngth,2024-09-27T15:12:34.040Z,"49 km S of Isangel, Vanuatu",earthquake,6.73,4.536,0.071,19,reviewed,us,us
 2024-09-27T14:57:01.740Z,46.599333333333334,-119.79916666666666,8.14,0.96,ml,11,79,0.02808,0.05,uw,uw62050346,2024-09-27T22:02:44.630Z,"12 km SE of Desert Aire, Washington",earthquake,0.27,0.13,0.1147961604064005,9,reviewed,uw,uw
-2024-09-27T14:45:04.200Z,38.8266666666667,-122.811833333333,2.5,0.79,md,6,171,0.003544,0.02,nc,nc75067366,2024-09-27T16:06:38.416Z,"7 km NNW of The Geysers, CA",earthquake,0.43,0.61,0.232,6,reviewed,nc,nc
-2024-09-27T14:42:38.334Z,62.3843,-148.2748,40.1,1.3,ml,,,,0.59,ak,ak024cgf87bt,2024-09-27T14:44:38.104Z,"66 km N of Chickaloon, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-09-27T14:38:55.920Z,47.7026666666667,-114.198,9.25,1.02,ml,9,89,0.07207,0.08,mb,mb90062553,2024-09-27T22:57:52.000Z,"1 km SSW of Jette, Montana",earthquake,0.31,0.8,0.135733077242258,5,reviewed,mb,mb
