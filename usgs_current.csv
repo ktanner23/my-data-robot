@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-09-29T22:40:02.680Z,36.1483345,-118.0226669,0.83,1.71,ml,18,158,0.1393,0.12,ci,ci40748455,2024-09-29T22:42:08.695Z,"13 km NNW of Coso Junction, CA",earthquake,0.54,1,0.154,3,automatic,ci,ci
+2024-09-29T22:40:02.580Z,36.1566667,-118.0248333,0.78,1.42,ml,29,87,0.143,0.18,ci,ci40748455,2024-09-29T22:46:21.698Z,"14 km S of Olancha, CA",earthquake,0.25,0.54,0.177,17,automatic,ci,ci
 2024-09-29T22:28:06.010Z,33.7126667,-116.8441667,15.49,0.9,ml,44,46,0.07114,0.19,ci,ci40748431,2024-09-29T22:34:30.072Z,"6 km SE of Valle Vista, CA",earthquake,0.21,0.39,0.196,29,automatic,ci,ci
 2024-09-29T22:27:10.830Z,35.7746667,-117.596,10.13,0.64,ml,18,126,0.1414,0.13,ci,ci40748423,2024-09-29T22:32:57.834Z,"17 km W of Searles Valley, CA",earthquake,0.24,0.7,0.073,6,automatic,ci,ci
 2024-09-29T22:08:38.490Z,32.9831657,-116.3193359,8.15,1.13,ml,31,51,0.03149,0.17,ci,ci40748415,2024-09-29T22:12:02.764Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.28,0.62,0.251,26,automatic,ci,ci
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T10:13:14.451Z,37.0755,-116.2486,1.8,-0.3,ml,9,117.00999999999999,0.148,0.2559,nn,nn00885364,2024-09-29T10:15:11.055Z,"49 km ENE of Beatty, Nevada",earthquake,,4.9,0.37,4,automatic,nn,nn
 2024-09-29T10:11:33.380Z,38.8333320617676,-122.821166992188,1.62999999523163,0.19,md,7,101,0.01235,0.01,nc,nc75068171,2024-09-29T11:34:28.064Z,"8 km NNW of The Geysers, CA",earthquake,0.73,1.32000005,0.08,9,automatic,nc,nc
 2024-09-29T09:53:08.610Z,36.9129981994629,-121.646667480469,6.84000015258789,1.77,md,29,80,0.02162,0.12,nc,nc75068166,2024-09-29T17:49:09.767Z,"3 km N of Aromas, CA",earthquake,0.31,0.560000002,0.16,14,automatic,nc,nc
-2024-09-29T09:47:33.220Z,36.9118333333333,-121.653333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-09-29T22:40:26.647Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
+2024-09-29T09:47:33.220Z,36.9118333333333,-121.653333333333,6.94,4.15,mw,106,47,0.02022,0.16,nc,nc75068161,2024-09-29T22:49:55.076Z,"3 km  of Aromas, CA",earthquake,0.15,0.29,,29,reviewed,nc,nc
 2024-09-29T09:45:40.874Z,61.5371,-150.119,51.6,1.2,ml,,,,0.63,ak,ak024cjncbzg,2024-09-29T19:39:37.888Z,"8 km W of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-09-29T09:38:55.171Z,61.8887,-151.8183,10.6,1.8,ml,,,,1.35,ak,ak024cjnb0lo,2024-09-29T09:41:28.399Z,"24 km WSW of Skwentna, Alaska",earthquake,,4,,,automatic,ak,ak
 2024-09-29T09:35:45.880Z,38.8193321228027,-122.81266784668,3.15000009536743,0.69,md,11,89,0.004535,0.02,nc,nc75068151,2024-09-29T09:37:20.951Z,"7 km NW of The Geysers, CA",earthquake,0.44,1.01999998,0.24,12,automatic,nc,nc
@@ -179,8 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T00:09:06.180Z,33.8861667,-116.626,16.35,0.74,ml,20,59,0.1531,0.09,ci,ci40747919,2024-09-29T14:08:36.588Z,"8 km WSW of Garnet, CA",earthquake,0.21,0.58,0.155,15,reviewed,ci,ci
 2024-09-29T00:04:48.753Z,60.7588,-150.8831,28.7,1.8,ml,,,,0.35,ak,ak024cjhqpfv,2024-09-29T00:06:58.098Z,"21 km SSW of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-28T23:55:56.590Z,36.2106667,-118.0138333,2.38,1.44,ml,25,93,0.1587,0.2,ci,ci40747911,2024-09-29T14:08:39.595Z,"8 km S of Olancha, CA",earthquake,0.35,0.88,0.156,16,reviewed,ci,ci
-2024-09-28T23:49:30.949Z,58.2933,-155.0031,0.7,1,ml,,,,1.12,ak,ak024ci85xq9,2024-09-28T23:53:13.492Z,"86 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2024-09-28T23:49:30.949Z,58.2933,-155.0031,0.7,1,ml,,,,1.12,ak,ak024ci85xq9,2024-09-29T22:46:22.160Z,"86 km NNW of Karluk, Alaska",earthquake,,4.4,,,automatic,ak,ak
 2024-09-28T23:38:43.477Z,60.3612,-146.8625,20.6,1.7,ml,,,,0.73,ak,ak024ci83lsr,2024-09-28T23:41:03.657Z,"57 km S of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-09-28T23:11:47.180Z,34.0611667,-117.5373333,14.57,3.08,ml,161,14,0.05992,0.22,ci,ci40747903,2024-09-29T21:15:47.777Z,"7 km NW of Glen Avon, CA",earthquake,0.12,0.22,0.16,257,reviewed,ci,ci
 2024-09-28T23:10:33.874Z,64.9805,-147.4184,2.8,1.2,ml,,,,0.4,ak,ak024ci7xl0b,2024-09-28T23:12:49.141Z,"9 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-09-28T22:49:25.180Z,38.8404998779297,-122.838500976562,1.22000002861023,0.73,md,14,115,0.01757,0.03,nc,nc75067991,2024-09-29T00:49:25.368Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.49000001,0.21,15,automatic,nc,nc
