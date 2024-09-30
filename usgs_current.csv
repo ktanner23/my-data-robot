@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-09-30T19:48:45.088Z,62.6851,-151.1973,82,1.8,ml,,,,0.46,ak,ak024clgupng,2024-09-30T19:50:43.021Z,"30 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-30T19:29:51.390Z,19.2051658630371,-155.500335693359,30.2900009155273,2.08999991,md,38,147,0.043,0.140000001,hv,hv74483272,2024-09-30T19:31:38.990Z,"2 km W of Pāhala, Hawaii",earthquake,0.72,0.610000014,0.270000011,10,automatic,hv,hv
-2024-09-30T19:27:59.860Z,38.8438339233398,-122.830665588379,1.08000004291534,0.77,md,9,94,0.00645,0.01,nc,nc75068676,2024-09-30T19:29:36.937Z,"10 km WNW of Cobb, CA",earthquake,0.34,0.670000017,0.26,11,automatic,nc,nc
+2024-09-30T19:27:59.860Z,38.8438339233398,-122.830665588379,1.08000004291534,0.77,md,9,94,0.00645,0.01,nc,nc75068676,2024-09-30T19:54:24.106Z,"10 km WNW of Cobb, CA",earthquake,0.34,0.670000017,0.26,11,automatic,nc,nc
 2024-09-30T19:24:14.953Z,62.4017,-150.6941,73.2,1.3,ml,,,,1.12,ak,ak024clgpiaq,2024-09-30T19:26:38.808Z,"11 km SSE of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-09-30T19:22:27.300Z,32.6123333,-116.9811667,2.76,1.34,ml,32,134,0.04327,0.18,ci,ci40749047,2024-09-30T19:38:36.005Z,"6 km ESE of Chula Vista, CA",earthquake,0.4,0.29,0.167,18,automatic,ci,ci
 2024-09-30T19:13:34.480Z,39.2753333333333,-111.937166666667,10.23,0.62,md,8,90,0.1841,0.18,uu,uu80083671,2024-09-30T19:41:44.230Z,"8 km NW of Fayette, Utah",earthquake,0.49,1.44,0.261455960446774,4,reviewed,uu,uu
@@ -51,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T12:53:40.980Z,63.1248,-144.3875,13.2,1.4,ml,,,,0.54,ak,ak024clcpqoi,2024-09-30T12:55:26.353Z,"38 km NW of Mentasta Lake, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-09-30T12:52:00.835Z,63.1342,-144.4501,0,1.3,ml,,,,1.09,ak,ak024clcpfv7,2024-09-30T12:54:14.794Z,"41 km NW of Mentasta Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-30T12:21:58.647Z,53.0351,160.2623,31.539,5.9,mww,110,76,0.974,1.61,us,us7000nh82,2024-09-30T17:53:58.040Z,"109 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.52,3.556,0.041,56,reviewed,us,us
-2024-09-30T11:47:00.780Z,33.8261667,-117.8298333,3.97,1.38,ml,54,32,0.03372,0.26,ci,ci40748759,2024-09-30T11:58:10.627Z,"2 km NW of Villa Park, CA",earthquake,0.24,0.4,0.338,11,automatic,ci,ci
+2024-09-30T11:47:00.690Z,33.8251667,-117.8293333,4.55,1.29,ml,53,64,0.03339,0.21,ci,ci40748759,2024-09-30T19:56:30.617Z,"2 km NW of Villa Park, CA",earthquake,0.21,0.33,0.161,30,reviewed,ci,ci
 2024-09-30T11:40:07.964Z,36.7442,-115.448,8.7,1.1,ml,24,111.11000000000001,0.335,0.1419,nn,nn00885384,2024-09-30T16:40:41.000Z,"27 km NE of Indian Springs, Nevada",earthquake,,9.6,0.16,17,reviewed,nn,nn
 2024-09-30T11:35:59.270Z,34.2161667,-117.5175,4.55,1.02,ml,49,57,0.01701,0.17,ci,ci40748751,2024-09-30T19:21:27.858Z,"5 km SSW of Lytle Creek, CA",earthquake,0.15,0.25,0.113,23,reviewed,ci,ci
 2024-09-30T11:30:21.990Z,38.821834564209,-122.840667724609,1.51999998092651,0.76,md,14,110,0.004586,0.01,nc,nc75068531,2024-09-30T13:09:27.200Z,"9 km NW of The Geysers, CA",earthquake,0.27,0.5,0.42,14,automatic,nc,nc
@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T08:26:40.474Z,40.7048,-74.7646,4.925,1.6,ml,12,64,0.006,0.07,us,us7000nh9p,2024-09-30T18:02:31.824Z,"6 km ESE of Califon, New Jersey",earthquake,1.05,2.451,0.105,12,reviewed,us,us
 2024-09-30T08:17:32.090Z,38.6266666666667,-112.561333333333,-0.23,1.76,ml,19,125,0.09104,0.14,uu,uu80083586,2024-09-30T13:35:58.600Z,"22 km SSW of Kanosh, Utah",earthquake,0.58,1.28,0.122590417913567,9,reviewed,uu,uu
 2024-09-30T08:16:13.470Z,17.9063333333333,-66.867,12.77,2.48,md,23,198,0.07658,0.11,pr,pr71461398,2024-09-30T09:03:34.870Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,0.33,0.35,0.0188281754634585,9,reviewed,pr,pr
+2024-09-30T08:12:24.000Z,36.0266666666667,-121.045666666667,9.55,1.04,md,33,54,0.1145,0.09,nc,nc75068486,2024-09-30T19:59:09.403Z,"12 km SSW of San Lucas, CA",earthquake,0.18,0.65,0.28,19,reviewed,nc,nc
 2024-09-30T08:05:22.380Z,19.1468334197998,-155.484664916992,31.7199993133545,2.19000006,md,45,158,0.02296,0.170000002,hv,hv74482757,2024-09-30T08:07:01.850Z,"6 km S of Pāhala, Hawaii",earthquake,0.55,0.660000026,0.109999999,10,automatic,hv,hv
 2024-09-30T08:00:28.500Z,38.8095016479492,-122.81950378418,3,0.77,md,12,69,0.007585,0.02,nc,nc75068481,2024-09-30T09:24:26.561Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.939999998,0.46,14,automatic,nc,nc
 2024-09-30T07:57:32.290Z,35.7145,-117.5665,5.1,1.05,ml,25,60,0.1015,0.15,ci,ci40748711,2024-09-30T18:56:44.276Z,"14 km NE of Ridgecrest, CA",earthquake,0.21,0.62,0.158,10,reviewed,ci,ci
@@ -142,11 +143,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-30T02:31:48.414Z,64.489,-146.9891,3.9,0.9,ml,,,,0.84,ak,ak024cl6mp6q,2024-09-30T02:34:01.193Z,"5 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-09-30T02:31:33.550Z,38.8370018005371,-122.798332214355,2.28999996185303,0.87,md,13,69,0.006395,0.01,nc,nc75068401,2024-09-30T03:09:22.842Z,"7 km WNW of Cobb, CA",earthquake,0.33,1.02999997,0.28,14,automatic,nc,nc
 2024-09-30T02:11:38.240Z,33.8945,-116.8951667,13.91,1.2,ml,53,36,0.09436,0.15,ci,ci40748543,2024-09-30T18:44:55.870Z,"4 km SSW of Banning, CA",earthquake,0.15,0.34,0.132,22,reviewed,ci,ci
+2024-09-30T02:09:33.900Z,37.5411666666667,-118.833666666667,3.71,0.1,md,10,284,0.04891,0.02,nc,nc75068396,2024-09-30T19:54:07.370Z,"14 km W of Toms Place, CA",earthquake,1.46,1.31,0.269,8,reviewed,nc,nc
 2024-09-30T01:59:18.754Z,66.7509,-146.8117,14.1,2.3,ml,,,,0.21,ak,ak024cl677lv,2024-09-30T02:01:16.088Z,"34 km SSW of Venetie, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-09-30T01:52:48.005Z,60.9879,-150.1894,94.4,1.3,ml,,,,0.37,ak,ak024cl65ro8,2024-09-30T16:13:14.847Z,"28 km ENE of Point Possession, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-09-30T01:50:50.600Z,40.5488333333333,-110.751166666667,11.24,1.18,md,15,189,0.01454,0.13,uu,uu80083576,2024-09-30T13:48:30.100Z,"21 km N of Tabiona, Utah",earthquake,1.12,0.51,0.10985971081735,9,reviewed,uu,uu
 2024-09-30T01:50:47.393Z,36.789,-115.5161,10.8,0.7,ml,28,181.2,0.342,0.174,nn,nn00885378,2024-09-30T18:28:00.106Z,"27 km NNE of Indian Springs, Nevada",earthquake,,3.3,0.18,10,reviewed,nn,nn
 2024-09-30T01:48:00.323Z,13.2819,-90.9897,35,4.4,mb,36,165,1.331,0.84,us,us7000nh62,2024-09-30T02:07:04.485Z,"73 km SSW of Puerto San José, Guatemala",earthquake,5.85,1.75,0.053,103,reviewed,us,us
+2024-09-30T01:44:44.570Z,40.6495,-121.327666666667,5.84,0.97,md,13,210,0.06814,0.07,nc,nc75068391,2024-09-30T19:51:36.320Z,"33 km ENE of Viola, CA",earthquake,1.22,0.8,0.07,6,reviewed,nc,nc
 2024-09-30T01:43:30.040Z,40.6088333333333,-121.363833333333,5.65,1.73,md,26,60,0.01913,0.21,nc,nc75068386,2024-09-30T19:41:03.346Z,"28 km E of Viola, CA",earthquake,0.34,0.75,0.153,14,reviewed,nc,nc
 2024-09-30T01:37:55.750Z,38.8450012207031,-122.831832885742,1.62000000476837,0.81,md,7,133,0.00701,0.03,nc,nc75068381,2024-09-30T02:32:14.575Z,"10 km WNW of Cobb, CA",earthquake,0.42,1.05999994,0.25,8,automatic,nc,nc
 2024-09-30T01:23:21.759Z,58.1796,-154.803,79.7,1.6,ml,,,,0.51,ak,ak024cl5zi27,2024-09-30T01:25:24.041Z,"71 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -201,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-29T20:15:15.110Z,35.7076667,-117.512,6.24,0.14,ml,19,75,0.08348,0.13,ci,ci40748391,2024-09-30T17:09:35.464Z,"12 km SW of Searles Valley, CA",earthquake,0.25,0.95,0.071,5,reviewed,ci,ci
 2024-09-29T20:02:26.489Z,-20.7721,-67.3645,194.228,4.4,mb,45,66,1.791,0.72,us,us7000nh55,2024-09-29T20:26:42.040Z,"66 km WSW of Uyuni, Bolivia",earthquake,4.47,8.02,0.067,65,reviewed,us,us
 2024-09-29T20:00:51.040Z,34.2161667,-117.5186667,3.49,0.56,ml,14,59,0.01786,0.13,ci,ci40748383,2024-09-30T15:44:39.719Z,"5 km SSW of Lytle Creek, CA",earthquake,0.25,0.43,0.248,6,reviewed,ci,ci
-2024-09-29T19:51:13.060Z,34.2161667,-117.5168333,4.16,0.5,ml,15,62,0.01653,0.14,ci,ci40748375,2024-09-30T16:13:01.174Z,"5 km SSW of Lytle Creek, CA",earthquake,0.26,0.34,0.109,6,reviewed,ci,ci
