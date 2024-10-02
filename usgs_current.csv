@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-02T18:59:46.110Z,32.6498337,-115.7294998,6.89,1.81,ml,12,100,0.002679,0.17,ci,ci40750623,2024-10-02T19:02:13.368Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.58,0.66,0.519,8,automatic,ci,ci
 2024-10-02T18:38:13.421Z,62.6687,-143.4786,0.1,1.9,ml,,,,0.73,ak,ak024cor9rfi,2024-10-02T18:40:23.608Z,"25 km E of Slana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T18:23:26.730Z,32.7593333,-116.9346667,3.68,1.27,ml,29,127,0.02454,0.18,ci,ci40750567,2024-10-02T18:29:44.497Z,"1 km N of Rancho San Diego, CA",earthquake,0.29,0.53,0.093,6,automatic,ci,ci
 2024-10-02T18:03:30.530Z,38.8349990844727,-122.81616973877,1.88999998569489,0.75,md,11,76,0.01253,0.02,nc,nc75069541,2024-10-02T18:24:24.322Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.870000005,0.36,11,automatic,nc,nc
@@ -34,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T15:22:44.490Z,17.9653333333333,-66.9853333333333,6.05,2.51,md,5,201,0.0562,0.09,pr,pr71461598,2024-10-02T15:51:54.750Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.73,1.17,0.051356533548113,3,reviewed,pr,pr
 2024-10-02T15:17:07.752Z,64.9737,-147.4283,4.5,1.2,ml,,,,0.75,ak,ak024copcy53,2024-10-02T15:19:43.784Z,"9 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-02T15:10:42.050Z,35.0823333,-119.0665,11.98,1.63,ml,40,75,0.02761,0.22,ci,ci40750391,2024-10-02T15:17:23.388Z,"20 km NW of Grapevine, CA",earthquake,0.23,0.55,0.191,29,automatic,ci,ci
+2024-10-02T15:06:47.810Z,62.0216666666667,-144.151666666667,15.46,-0.05,ml,4,188,0.05315,0.05,av,av93022939,2024-10-02T18:57:10.640Z,"53 km NE of Kenny Lake, Alaska",earthquake,0.86,0.7,0.236153079082762,7,reviewed,av,av
 2024-10-02T15:02:58.510Z,38.8248329162598,-122.806999206543,2.71000003814697,1.53,md,37,37,0.002798,0.02,nc,nc75069486,2024-10-02T15:37:21.139Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.300000012,0.14,35,automatic,nc,nc
 2024-10-02T15:02:20.130Z,62.031,-144.171666666667,15.47,0.22,ml,5,153,0.04451,0.14,av,av93022924,2024-10-02T18:26:20.570Z,"53 km NE of Kenny Lake, Alaska",earthquake,0.84,0.85,0.147990159404217,6,reviewed,av,av
 2024-10-02T15:02:07.440Z,62.0258333333333,-144.154666666667,13.69,0.12,ml,4,164,0.04895,0.06,av,av93022929,2024-10-02T18:33:41.570Z,"53 km NE of Kenny Lake, Alaska",earthquake,0.8,0.56,0.266008295885875,5,reviewed,av,av
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T19:11:19.946Z,32.081,-102.194,7.7881,0.9,ml,14,81,0,0.1,tx,tx2024tiby,2024-10-02T13:08:11.267Z,"14 km NW of Midland, Texas",earthquake,0.8009680504089673,0.7020565476528012,0.2,12,reviewed,tx,tx
 2024-10-01T19:11:09.630Z,61.3281666666667,-152.264,3.7,-0.32,ml,6,184,0.1118,0.24,av,av93294548,2024-10-02T03:17:21.090Z,"66 km WNW of Beluga, Alaska",earthquake,1.38,1.31,0.126628835528777,5,reviewed,av,av
 2024-10-01T19:06:28.839Z,36.18783333,-95.82066667,0,1.4,ml,56,192,0.278045438,0.46,ok,ok2024tibr,2024-10-02T14:14:53.014Z,"6 km W of Catoosa, Oklahoma",quarry blast,,0.7,0.2,24,reviewed,ok,ok
-2024-10-01T19:02:53.300Z,46.0168333333333,-112.456,-2,1.75,ml,10,91,0.07041,0.13,mb,mb90062903,2024-10-02T13:34:14.760Z,"6 km ENE of Butte, Montana",quarry blast,0.51,31.61,0.211662265714514,22,reviewed,mb,mb
-2024-10-01T18:57:28.534Z,64.9352,-147.5176,5,0.9,ml,,,,1.17,ak,ak024cn3uiph,2024-10-01T18:59:03.085Z,"5 km ESE of Fox, Alaska",earthquake,,3.5,,,automatic,ak,ak
