@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T16:40:21.280Z,38.8206672668457,-122.813163757324,2.95000004768372,0.75,md,15,61,0.003639,0.02,nc,nc75069516,2024-10-02T16:41:59.042Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.980000019,0.17,17,automatic,nc,nc
 2024-10-02T16:39:01.160Z,19.1791667938232,-155.493667602539,31.0300006866455,1.74000001,md,32,152,0.06903,0.129999995,hv,hv74485737,2024-10-02T16:40:36.350Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.73,0.870000005,0.360000014,5,automatic,hv,hv
 2024-10-02T16:37:44.848Z,60.1537,-140.9359,9.6,1.6,ml,,,,0.84,ak,ak024coq2qxg,2024-10-02T16:39:25.332Z,"95 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-02T16:36:53.760Z,35.8841667175293,-120.432502746582,11.1700000762939,0.67,md,7,164,0.04199,0.03,nc,nc75069511,2024-10-02T16:38:30.471Z,"2 km SSW of Parkfield, CA",earthquake,0.77,1.30999994,0.05,4,automatic,nc,nc
+2024-10-02T16:36:53.760Z,35.8841667175293,-120.432502746582,11.1700000762939,0.67,md,7,164,0.04199,0.03,nc,nc75069511,2024-10-02T16:52:22.667Z,"2 km SSW of Parkfield, CA",earthquake,0.77,1.30999994,0.05,4,automatic,nc,nc
 2024-10-02T16:27:53.735Z,59.8312,-153.0306,95.3,1.9,ml,,,,0.54,ak,ak024coq0luk,2024-10-02T16:29:38.640Z,"60 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-02T16:21:41.570Z,31.675,-104.349,4.9804,1.6,ml,17,68,0.1,0.5,tx,tx2024tjsa,2024-10-02T16:36:28.785Z,"55 km S of Whites City, New Mexico",earthquake,0,1.30837857723236,0.2,13,automatic,tx,tx
 2024-10-02T16:20:49.186Z,-4.5278,101.8224,35,4.7,mb,39,188,1.142,0.73,us,us6000nw47,2024-10-02T16:49:49.040Z,"94 km SSW of Bengkulu, Indonesia",earthquake,8.8,1.96,0.106,28,reviewed,us,us
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T13:01:55.740Z,33.3585,-116.9651667,11.88,0.41,ml,15,199,0.08594,0.19,ci,ci40750287,2024-10-02T13:22:34.522Z,"9 km W of Palomar Observatory, CA",earthquake,1.04,0.85,0.276,6,reviewed,ci,ci
 2024-10-02T12:43:07.862Z,58.2591,-154.9218,3.6,0.8,ml,,,,0.38,ak,ak024conq7wj,2024-10-02T12:45:16.390Z,"81 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-02T12:41:54.290Z,31.8838333,-116.5726667,19.25,2.66,ml,16,90,0.1923,0.17,ci,ci40750263,2024-10-02T16:05:44.800Z,"5 km ENE of Ensenada, B.C., MX",earthquake,0.48,1.56,0.148,18,reviewed,ci,ci
-2024-10-02T12:40:51.740Z,34.0498352,-117.1373367,6.69,1.06,ml,29,69,0.02517,0.15,ci,ci40750255,2024-10-02T12:44:17.033Z,"2 km S of Mentone, CA",earthquake,0.26,0.57,0.146,28,automatic,ci,ci
+2024-10-02T12:40:51.760Z,34.0458333,-117.1351667,6.48,1.01,ml,53,29,0.02154,0.15,ci,ci40750255,2024-10-02T16:57:04.984Z,"3 km S of Mentone, CA",earthquake,0.14,0.29,0.144,18,reviewed,ci,ci
 2024-10-02T12:34:07.510Z,33.5128333,-116.7598333,3.19,-0.01,ml,17,48,0.04167,0.12,ci,ci40750247,2024-10-02T16:15:40.540Z,"9 km WSW of Anza, CA",earthquake,0.19,0.58,0.101,10,reviewed,ci,ci
 2024-10-02T12:18:26.570Z,33.6381667,-116.689,11.87,0.51,ml,27,59,0.07577,0.19,ci,ci40750231,2024-10-02T12:24:27.185Z,"9 km N of Anza, CA",earthquake,0.31,0.55,0.219,10,automatic,ci,ci
 2024-10-02T12:18:24.050Z,34.2201667,-117.4515,12.01,0.92,ml,11,90,0.02909,0.15,ci,ci40750239,2024-10-02T15:48:51.861Z,"5 km W of Devore, CA",earthquake,0.43,0.6,0.205,5,reviewed,ci,ci
@@ -131,7 +131,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T04:49:49.000Z,38.8228340148926,-122.808334350586,2.66000008583069,0.78,md,11,62,0.00147,0.01,nc,nc75069296,2024-10-02T05:14:24.662Z,"7 km NNW of The Geysers, CA",earthquake,0.4,1.12,0.3,11,automatic,nc,nc
 2024-10-02T04:48:09.573Z,61.4598,-147.3746,3.3,1.9,ml,,,,0.86,ak,ak024coizttp,2024-10-02T04:50:04.553Z,"41 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T04:47:43.220Z,36.9316673278809,-121.288665771484,7.59999990463257,2.54,md,62,55,0.03039,0.2,nc,nc75069291,2024-10-02T13:51:21.552Z,"14 km ENE of Hollister, CA",earthquake,0.31,0.49000001,0.13,70,automatic,nc,nc
-2024-10-02T04:43:17.304Z,37.6076,-117.0441,0,0.5,ml,12,166.60000000000002,0.352,0.4188,nn,nn00885468,2024-10-02T04:45:24.765Z,"20 km ESE of Goldfield, Nevada",earthquake,,54.8,0.34,5,automatic,nn,nn
 2024-10-02T04:38:51.650Z,44.2996666666667,-115.131333333333,6.82,1.81,ml,13,70,0.2817,0.15,mb,mb90062918,2024-10-02T15:23:19.370Z,"17 km WNW of Stanley, Idaho",earthquake,0.41,1.1,0.175868844198983,16,reviewed,mb,mb
 2024-10-02T04:38:41.438Z,63.2817,-152.737,1.1,1.7,ml,,,,0.5,ak,ak024coixr4t,2024-10-02T04:41:06.866Z,"58 km WSW of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T04:36:50.491Z,37.5872,-117.0386,15,0.7,ml,13,164.51,0.337,0.1074,nn,nn00885466,2024-10-02T16:46:56.202Z,"21 km SE of Goldfield, Nevada",earthquake,,2.4,0.34,3,reviewed,nn,nn
