@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-02T06:40:19.830Z,38.1455001831055,-121.855499267578,15.8000001907349,1.52,md,6,118,0.1147,0.03,nc,nc75069306,2024-10-02T06:42:01.049Z,"13 km NNE of Pittsburg, CA",earthquake,0.45,2.48000002,0.14,6,automatic,nc,nc
+2024-10-02T06:40:19.830Z,38.1455001831055,-121.855499267578,15.8000001907349,1.52,md,6,118,0.1147,0.03,nc,nc75069306,2024-10-02T06:59:24.407Z,"13 km NNE of Pittsburg, CA",earthquake,0.45,2.48000002,0.14,6,automatic,nc,nc
 2024-10-02T06:36:52.116Z,60.1875,-151.1126,52.9,1.7,ml,,,,0.4,ak,ak024cok47q3,2024-10-02T06:38:35.788Z,"16 km ESE of Clam Gulch, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-10-02T06:24:24.864Z,60.0289,-152.7353,102.9,2.4,ml,,,,0.38,ak,ak024cok1l1z,2024-10-02T06:52:52.040Z,"56 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-02T06:23:28.539Z,62.3146,-148.8665,29.8,1.9,ml,,,,0.44,ak,ak024cok1dlh,2024-10-02T06:25:09.321Z,"53 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T01:09:07.608Z,-46.834,-10.5397,10,5.5,mb,36,76,25.178,0.6,us,us7000nhlb,2024-10-02T03:12:00.167Z,"southern Mid-Atlantic Ridge",earthquake,11.92,1.898,0.071,68,reviewed,us,us
 2024-10-02T00:56:51.888Z,31.598,-104.572,3.4141,2,ml,8,174,0.1,0.1,tx,tx2024tinf,2024-10-02T01:31:29.632Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.38277769088745,0.2,6,automatic,tx,tx
 2024-10-02T00:47:38.280Z,35.9905014038086,-120.235168457031,-0.200000002980232,1.68,md,4,170,0.05401,0.01,nc,nc75069181,2024-10-02T02:09:24.295Z,"10 km W of Avenal, CA",earthquake,0.96,7.86000013,0.04,3,automatic,nc,nc
-2024-10-02T00:45:18.170Z,36.0839996337891,-120.195335388184,11.3599996566772,4.02,mw,50,50,0.04569,0.13,nc,nc75069176,2024-10-02T05:56:36.214Z,"11 km NNW of Avenal, CA",earthquake,0.21,0.349999994,,8,reviewed,nc,nc
+2024-10-02T00:45:18.170Z,36.0839996337891,-120.195335388184,11.3599996566772,4.02,mw,50,50,0.04569,0.13,nc,nc75069176,2024-10-02T06:48:54.154Z,"11 km NNW of Avenal, CA",earthquake,0.21,0.349999994,,8,reviewed,nc,nc
 2024-10-02T00:21:00.780Z,35.6625,-118.3888333,10.19,1.85,ml,38,35,0.04436,0.16,ci,ci40749919,2024-10-02T00:27:39.920Z,"8 km SE of Wofford Heights, CA",earthquake,0.16,0.27,0.204,26,automatic,ci,ci
 2024-10-02T00:15:10.730Z,47.92483333333333,-121.8935,15.43,1.1400000000000001,ml,18,50,0.02659,0.07,uw,uw62043137,2024-10-02T04:08:32.870Z,"5 km N of Woods Creek, Washington",earthquake,0.21,0.39,0.12835591320518458,8,reviewed,uw,uw
 2024-10-01T23:53:11.074Z,62.1855,-150.6326,0,2.5,ml,,,,0.78,ak,ak024cn6ssir,2024-10-02T00:36:32.825Z,"25 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -230,5 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-01T07:10:38.587Z,0.4903,122.2921,121.587,5,mb,63,59,1.596,0.85,us,us7000nhe1,2024-10-01T07:28:26.040Z,"85 km W of Gorontalo, Indonesia",earthquake,7.02,5.419,0.069,68,reviewed,us,us
 2024-10-01T07:07:07.290Z,41.765,-112.429833333333,-1.22,0.7,md,14,82,0.09591,0.13,uu,uu80083691,2024-10-01T13:24:57.300Z,"3 km SSE of Howell, Utah",earthquake,0.45,3.34,0.156134980597433,8,reviewed,uu,uu
 2024-10-01T07:07:05.120Z,35.7675,-84.0693333333333,11.87,2.06,md,15,111,0.1396,0.1,se,se60592126,2024-10-01T13:37:09.760Z,"6 km E of Friendsville, Tennessee",earthquake,0.3,0.96,0.0589845763504711,12,reviewed,se,se
-2024-10-01T07:00:15.920Z,17.943,-66.9733333333333,10.19,2.3,md,15,195,0.06808,0.13,pr,pr71461473,2024-10-01T07:20:09.580Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.36,0.55,0.0730409050511671,3,reviewed,pr,pr
-2024-10-01T06:59:39.682Z,31.734,-104.243,7.0227,1.6,ml,26,49,0,0.2,tx,tx2024thed,2024-10-01T12:12:00.991Z,"50 km SSE of Whites City, New Mexico",earthquake,0.624490365437498,0.6968829943533226,0.2,21,reviewed,tx,tx
