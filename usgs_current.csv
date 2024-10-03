@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-03T22:41:37.070Z,36.2453346252441,-89.4988327026367,8.1899995803833,2.63000011,md,28,54,,0.129999995,nm,nm60592291,2024-10-03T22:52:47.557Z,"2 km SSW of Ridgely, Tennessee",earthquake,0.27,0.949999988,1.01999998,28,reviewed,nm,nm
 2024-10-03T22:06:04.230Z,19.513500213623,-155.503173828125,1.70000004768372,2.11,ml,33,84,0.04695,0.300000012,hv,hv74487142,2024-10-03T22:08:55.280Z,"29 km WNW of Volcano, Hawaii",earthquake,0.46,3.49000001,0.45,13,automatic,hv,hv
 2024-10-03T22:02:52.880Z,34.0791667,-117.4435,2.83,0.79,ml,10,136,0.02073,0.13,ci,ci37685260,2024-10-03T22:39:15.552Z,"2 km SSE of Fontana, CA",earthquake,0.4,0.24,0.175,5,reviewed,ci,ci
 2024-10-03T22:02:47.120Z,33.8888333,-116.8391667,14.19,0.53,ml,25,75,0.06516,0.13,ci,ci40751527,2024-10-03T22:39:12.565Z,"5 km SE of Banning, CA",earthquake,0.24,0.54,0.204,11,reviewed,ci,ci
 2024-10-03T22:02:38.054Z,61.8656,-148.8135,13.7,1.5,ml,,,,0.67,ak,ak024cqgz6gt,2024-10-03T22:04:41.417Z,"10 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-03T21:55:46.259Z,62.0733,-148.761,34.9,2.2,ml,,,,0.29,ak,ak024cqgp4g1,2024-10-03T21:57:20.939Z,"32 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-03T21:44:04.716Z,36.2714,-115.3037,3.2,1.6,ml,17,184.36,0.262,0.3347,nn,nn00885532,2024-10-03T21:48:05.801Z,"17 km N of Summerlin South, Nevada",earthquake,,17.5,0.24,13,automatic,nn,nn
 2024-10-03T21:43:41.570Z,61.5857,-146.4335,31,1.8,ml,,,,0.46,ak,ak024cqgmjhp,2024-10-03T21:45:17.098Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-03T21:35:35.347Z,60.1847,-141.3069,0,1.4,ml,,,,1.03,ak,ak024cqgkta6,2024-10-03T21:37:26.130Z,"113 km NW of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-03T21:35:12.848Z,60.5625,-147.6505,19.4,1.2,ml,,,,0.26,ak,ak024cqgkrjo,2024-10-03T21:37:28.794Z,"58 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T19:40:27.370Z,46.23866666666667,-119.438,-0.47,2.2085938453674316,ml,8,253,0.06743,0.06,uw,uw62043502,2024-10-03T20:24:47.879Z,"4 km SE of Benton City, Washington",explosion,1.5,31.61,0.22983500361442566,22,reviewed,uw,uw
 2024-10-03T19:30:49.870Z,-17.7647,-178.3819,533.187,4.5,mb,65,33,3.446,0.9,us,us6000nwd5,2024-10-03T19:47:28.040Z,"246 km E of Levuka, Fiji",earthquake,11.68,8.26,0.043,161,reviewed,us,us
 2024-10-03T19:24:55.378Z,60.6399,-146.8123,25.5,1.3,ml,,,,0.84,ak,ak024cqfbmqp,2024-10-03T19:26:53.948Z,"26 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-03T19:20:42.171Z,37.2979,-115.3955,0,1.9,ml,26,107,0.295,0.1732,nn,nn00885527,2024-10-03T22:45:22.732Z,"21 km WSW of Alamo, Nevada",earthquake,,0,0.17,17,reviewed,nn,nn
+2024-10-03T19:20:42.144Z,37.2811,-115.3891,0,1.8,ml,41,102.81,0.297,0.1704,nn,nn00885527,2024-10-03T22:51:52.049Z,"21 km WSW of Alamo, Nevada",earthquake,,0,0.25,25,reviewed,nn,nn
 2024-10-03T19:17:33.766Z,59.6814,-152.7521,86.1,1.9,ml,,,,0.21,ak,ak024cqfa328,2024-10-03T19:19:34.056Z,"52 km WSW of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-03T19:10:34.283Z,61.6246,-150.9909,69.8,1.3,ml,,,,0.46,ak,ak024cqf8l38,2024-10-03T19:12:37.337Z,"26 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-03T19:08:59.836Z,62.8639,-151.2107,26.4,1.9,ml,,,,0.64,ak,ak024cqf87mn,2024-10-03T19:10:51.838Z,"46 km NNW of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-02T23:18:21.000Z,35.928,-117.679,4.02,-0.25,ml,6,85,0.03056,0.04,ci,ci40750847,2024-10-03T00:20:09.453Z,"20 km E of Little Lake, CA",earthquake,0.25,0.51,0.215,4,reviewed,ci,ci
 2024-10-02T23:11:03.188Z,61.5796,-147.5983,21.3,1.3,ml,,,,1.04,ak,ak024cou34by,2024-10-02T23:13:15.973Z,"25 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-02T22:57:27.090Z,32.9516667,-117.7875,5.77,1.95,ml,26,172,0.4667,0.23,ci,ci40750831,2024-10-02T23:48:58.088Z,"47 km WSW of Carlsbad, CA",earthquake,0.52,31.61,0.157,23,reviewed,ci,ci
-2024-10-02T22:48:21.224Z,31.99,-103.866,6.6766,1.8,ml,18,76,0.1,0.1,tx,tx2024tkeo,2024-10-03T10:43:58.031Z,"32 km SE of Malaga, New Mexico",earthquake,0.4600362185217049,0.5667715513922909,0.2,23,reviewed,tx,tx
