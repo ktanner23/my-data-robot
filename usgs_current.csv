@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-04T20:23:20.740Z,33.9985,-118.4001667,9.65,1.49,ml,32,62,0.01856,0.23,ci,ci40751983,2024-10-04T20:30:00.955Z,"2 km S of Culver City, CA",earthquake,0.33,0.42,0.392,31,automatic,ci,ci
-2024-10-04T20:18:32.770Z,34.2111667,-117.4978333,11.16,2.52,ml,118,24,0.003759,0.21,ci,ci40751975,2024-10-04T20:36:56.110Z,"5 km S of Lytle Creek, CA",earthquake,0.12,0.3,0.165,24,automatic,ci,ci
+2024-10-04T20:18:32.770Z,34.2111667,-117.4978333,11.16,2.52,ml,118,24,0.003759,0.21,ci,ci40751975,2024-10-04T20:44:54.773Z,"5 km S of Lytle Creek, CA",earthquake,0.12,0.3,0.165,24,automatic,ci,ci
 2024-10-04T20:07:56.230Z,33.8645,-117.5125,2.53,1.21,ml,44,39,0.04193,0.2,ci,ci40751967,2024-10-04T20:14:40.118Z,"2 km SSE of Home Gardens, CA",earthquake,0.23,0.35,0.315,33,automatic,ci,ci
 2024-10-04T20:04:13.871Z,31.679,-104.387,4.4488,1.7,ml,10,125,0,0.1,tx,tx2024tnqc,2024-10-04T20:11:05.467Z,"55 km S of Whites City, New Mexico",earthquake,0,1.6992267370224,0.2,8,automatic,tx,tx
 2024-10-04T19:51:09.040Z,33.6691667,-116.7153333,14.98,0.77,ml,32,77,0.03464,0.1,ci,ci40751959,2024-10-04T19:57:17.339Z,"8 km S of Idyllwild, CA",earthquake,0.18,0.25,0.105,17,automatic,ci,ci
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T14:56:02.518Z,59.9779,-153.4839,152.2,2.4,ml,,,,0.4,ak,ak024cs02k2v,2024-10-04T14:57:52.083Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-04T14:53:40.710Z,63.431,-148.9453,6.6,1.4,ml,,,,0.15,ak,ak024cs01zuf,2024-10-04T14:55:20.716Z,"4 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-04T14:48:06.319Z,9.958,126.4051,34.82,4.7,mb,42,116,2.984,0.66,us,us6000nwjp,2024-10-04T15:42:18.040Z,"35 km ENE of Pilar, Philippines",earthquake,11.78,5.107,0.097,32,reviewed,us,us
-2024-10-04T14:47:07.790Z,34.2088333,-116.8166667,10.25,0.96,ml,32,68,0.1014,0.13,ci,ci40751847,2024-10-04T20:36:56.997Z,"6 km SSE of Big Bear City, CA",earthquake,0.21,0.34,0.182,25,automatic,ci,ci
+2024-10-04T14:47:07.770Z,34.2085,-116.816,10.25,0.94,ml,26,68,0.102,0.11,ci,ci40751847,2024-10-04T20:37:00.139Z,"6 km SSE of Big Bear City, CA",earthquake,0.2,0.31,0.127,14,reviewed,ci,ci
 2024-10-04T14:22:31.090Z,33.9106667,-117.0393333,13.72,1.1,ml,42,39,0.1385,0.14,ci,ci40751839,2024-10-04T17:35:08.699Z,"6 km WSW of Beaumont, CA",earthquake,0.14,0.49,0.287,31,reviewed,ci,ci
 2024-10-04T14:19:19.610Z,38.7864990234375,-122.737167358398,1.60000002384186,1.28,md,17,84,0.02257,0.03,nc,nc75070266,2024-10-04T15:42:13.857Z,"2 km ENE of The Geysers, CA",earthquake,0.29,0.5,0.18,15,automatic,nc,nc
 2024-10-04T14:19:11.260Z,38.7868347167969,-122.736999511719,1.89999997615814,0.82,md,9,102,0.003599,0.01,nc,nc75070261,2024-10-04T15:19:25.699Z,"2 km ENE of The Geysers, CA",earthquake,0.51,0.730000019,0.31,8,automatic,nc,nc
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:50:14.290Z,34.0746667,-117.454,3.05,1.54,ml,95,21,0.02788,0.22,ci,ci40751751,2024-10-04T17:37:45.860Z,"3 km S of Fontana, CA",earthquake,0.13,0.2,0.206,26,reviewed,ci,ci
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T10:40:02.040Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T09:14:54.890Z,61.2664,-152.3059,131,2.2,ml,,,,0.64,ak,ak024crwuhzq,2024-10-04T09:18:26.363Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T20:33:57.259Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T20:44:32.735Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
 2024-10-04T09:06:33.000Z,19.1651668548584,-155.40283203125,30.5300006866455,2.01999998,md,53,169,0.05687,0.119999997,hv,hv74487722,2024-10-04T09:08:13.400Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.189999998,21,automatic,hv,hv
 2024-10-04T09:04:36.580Z,35.8916667,-117.6846667,10.15,0.26,ml,19,76,0.06264,0.1,ci,ci40751743,2024-10-04T18:58:12.436Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.4,0.106,5,reviewed,ci,ci
 2024-10-04T09:03:22.010Z,36.397,-118.8086667,4.48,1.73,ml,25,120,0.09842,0.13,ci,ci40751735,2024-10-04T18:55:08.257Z,"10 km ESE of Three Rivers, CA",earthquake,0.22,0.65,0.173,20,reviewed,ci,ci
@@ -133,7 +133,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T04:41:23.850Z,38.7883338928223,-122.766998291016,1.87000000476837,0.77,md,12,95,0.01353,0.02,nc,nc75070141,2024-10-04T05:17:19.317Z,"2 km NNW of The Geysers, CA",earthquake,0.36,0.829999983,0.12,13,automatic,nc,nc
 2024-10-04T04:40:52.220Z,19.1511669158936,-155.432998657227,29.9699993133545,1.72000003,md,34,177,0.02784,0.140000001,hv,hv74487512,2024-10-04T04:42:28.940Z,"7 km SE of Pāhala, Hawaii",earthquake,0.61,0.680000007,0.280000001,8,automatic,hv,hv
 2024-10-04T04:40:34.800Z,34.117,-118.2731667,10.46,0.82,ml,16,154,0.02249,0.08,ci,ci40751687,2024-10-04T18:41:57.916Z,"3 km NNW of Silver Lake, CA",earthquake,0.26,0.4,0.092,10,reviewed,ci,ci
+2024-10-04T04:39:38.950Z,61.3073333333333,-152.241833333333,-2.13,-0.43,ml,6,194,0.05934,0.04,av,av93298018,2024-10-04T20:43:18.440Z,"64 km WNW of Beluga, Alaska",earthquake,0.35,3.85,0.200095564479355,6,reviewed,av,av
 2024-10-04T04:36:14.980Z,19.3959999084473,-155.272506713867,6.40000009536743,2.45000005,md,33,63,0.001243,0.340000004,hv,hv74487507,2024-10-04T05:06:18.737Z,"6 km SW of Volcano, Hawaii",earthquake,0.57,0.430000007,0.189999998,18,automatic,hv,hv
+2024-10-04T03:59:43.400Z,61.2056666666667,-152.310166666667,4.07,0.73,ml,10,135,0.01759,0.18,av,av93297918,2024-10-04T20:38:00.960Z,"65 km WNW of Tyonek, Alaska",earthquake,0.46,0.82,0.276555020553541,10,reviewed,av,av
 2024-10-04T03:58:19.860Z,34.076,-117.45,4.3,0.83,ml,24,55,0.02529,0.16,ci,ci40751679,2024-10-04T17:58:38.063Z,"2 km SSE of Fontana, CA",earthquake,0.27,0.4,0.165,18,reviewed,ci,ci
 2024-10-04T03:54:42.889Z,37.4633,-118.6113,7.2,2.1,ml,8,200.82,0.244,0.1975,nn,nn00885540,2024-10-04T17:38:52.170Z,"5 km NNW of Round Valley, California",earthquake,,2.6,0.4,3,reviewed,nn,nn
 2024-10-04T03:54:39.530Z,58.5873333333333,-154.700833333333,9.12,0.6,ml,5,155,0.0895,0.06,av,av93297898,2024-10-04T20:30:42.880Z,"95 km S of Kokhanok, Alaska",earthquake,0.37,0.96,0.303046587979496,5,reviewed,av,av
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T20:53:43.674Z,2.7903,128.1927,157.794,4.8,mb,51,123,2.168,0.82,us,us6000nwdx,2024-10-03T21:07:44.040Z,"119 km N of Tobelo, Indonesia",earthquake,9.29,7.775,0.08,48,reviewed,us,us
 2024-10-03T20:49:58.030Z,57.0915,-135.7245,4.88,0.59,ml,4,229,0.02371,0.21,av,av93296983,2024-10-04T01:32:42.610Z,"24 km W of Sitka, Alaska",earthquake,1.7,1.14,0.171317358850622,4,reviewed,av,av
 2024-10-03T20:49:06.608Z,61.4351,-146.6305,32,1.2,ml,,,,0.33,ak,ak024cqg2bhg,2024-10-03T20:50:19.342Z,"37 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-03T20:42:33.560Z,34.49,-97.21416667,0,1.26,ml,22,82,0.1367731604,0.35,ok,ok2024tlvv,2024-10-03T21:48:10.322Z,"8 km W of Davis, Oklahoma",quarry blast,,0.5,0.14,9,reviewed,ok,ok
