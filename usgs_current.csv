@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:50:14.290Z,34.0746667,-117.454,3.05,1.54,ml,95,21,0.02788,0.22,ci,ci40751751,2024-10-04T10:01:07.480Z,"3 km S of Fontana, CA",earthquake,0.13,0.2,0.206,26,automatic,ci,ci
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T10:40:02.040Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T09:14:54.890Z,61.2664,-152.3059,131,2.2,ml,,,,0.64,ak,ak024crwuhzq,2024-10-04T09:18:26.363Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T14:29:47.211Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-04T14:34:56.991Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
 2024-10-04T09:06:33.000Z,19.1651668548584,-155.40283203125,30.5300006866455,2.01999998,md,53,169,0.05687,0.119999997,hv,hv74487722,2024-10-04T09:08:13.400Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.189999998,21,automatic,hv,hv
 2024-10-04T09:04:36.660Z,35.8906667,-117.6835,9.52,0.19,ml,21,47,0.06312,0.11,ci,ci40751743,2024-10-04T09:15:15.152Z,"21 km ESE of Little Lake, CA",earthquake,0.18,0.42,0.133,3,automatic,ci,ci
 2024-10-04T09:03:22.690Z,36.3461667,-118.7571667,-1.15,1.73,ml,20,259,0.4078,0.13,ci,ci40751735,2024-10-04T09:12:56.813Z,"17 km SE of Three Rivers, CA",earthquake,1.78,1.81,0.091,13,automatic,ci,ci
@@ -113,7 +113,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T23:23:48.460Z,58.5816666666667,-154.701833333333,9.96,0.23,ml,5,152,0.0838,0.18,av,av93023134,2024-10-04T02:02:11.890Z,"95 km S of Kokhanok, Alaska",earthquake,0.57,1.37,0.0805393465591027,5,reviewed,av,av
 2024-10-03T23:18:48.784Z,64.9031,-147.3855,6.7,1.5,ml,,,,0.98,ak,ak024cqho2c4,2024-10-03T23:22:32.389Z,"12 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-03T23:17:06.509Z,68.7538,-145.4003,6,2.1,ml,,,,0.45,ak,ak024cqhnrdm,2024-10-03T23:20:14.403Z,"70 km N of Arctic Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-03T22:59:13.901Z,31.672,-104.424,5.7829,1.7,ml,16,64,0,0.3,tx,tx2024tmaj,2024-10-03T23:07:28.843Z,"56 km S of Whites City, New Mexico",earthquake,0,3.03778028488159,0.2,13,automatic,tx,tx
+2024-10-03T22:59:13.981Z,31.674,-104.421,6.7151,1.6,ml,16,69,0,0.2,tx,tx2024tmaj,2024-10-04T14:35:08.678Z,"55 km S of Whites City, New Mexico",earthquake,1.0473076598285074,1.0070836256920297,0.2,12,reviewed,tx,tx
 2024-10-03T22:41:37.040Z,36.2415,-89.4978333333333,9.73,2.5,md,45,42,,0.11,nm,nm60592291,2024-10-04T13:14:36.595Z,"2 km SSW of Ridgely, Tennessee",earthquake,0.19,0.35,0.137096222929797,35,reviewed,nm,nm
 2024-10-03T22:38:56.300Z,46.336666666666666,-122.82183333333333,-0.49,1.37,ml,12,77,0.1816,0.18,uw,uw62043552,2024-10-04T02:58:17.650Z,"9 km NE of Castle Rock, Washington",explosion,0.57,31.61,0.09943404695278812,6,reviewed,uw,uw
 2024-10-03T22:10:33.860Z,46.86533333333333,-121.93116666666667,7.55,0.54,ml,17,75,0.0152,0.08,uw,uw62043542,2024-10-04T04:53:14.010Z,"14 km NNE of Ashford, Washington",earthquake,0.42,0.33,0.19931398946109236,8,reviewed,uw,uw
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-03T14:44:19.944Z,64.676,-146.3963,14,1.2,ml,,,,0.59,ak,ak024cqcgoay,2024-10-03T14:46:49.127Z,"29 km NE of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-03T14:42:18.381Z,-22.7305,-176.8602,167.346,4.9,mb,45,83,2.221,0.61,us,us6000nwau,2024-10-03T15:13:36.040Z,"236 km SW of Houma, Tonga",earthquake,14.54,6.962,0.085,43,reviewed,us,us
 2024-10-03T14:42:06.946Z,63.0921,-151.345,0,1.4,ml,,,,0.59,ak,ak024cqcg7va,2024-10-03T14:43:51.610Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-03T14:38:20.110Z,38.8396682739258,-122.823997497559,2.59999990463257,0.22,md,7,143,0.01864,0.02,nc,nc75069966,2024-10-03T16:57:18.047Z,"9 km WNW of Cobb, CA",earthquake,0.61,2.70000005,0.09,8,automatic,nc,nc
-2024-10-03T14:32:34.340Z,37.638,-122.043166666667,2.64,1.25,md,15,82,0.02637,0.06,nc,nc75069961,2024-10-03T19:09:10.584Z,"3 km ESE of Hayward, CA",earthquake,0.21,0.38,0.062,9,reviewed,nc,nc
