@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T16:13:46.981Z,62.2204,-148.8436,32.3,2.5,ml,,,,0.37,ak,ak024ctojne2,2024-10-05T18:19:50.040Z,"49 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-05T16:12:02.496Z,60.0332,-153.0511,117.2,2.3,ml,,,,0.23,ak,ak024ctojc7v,2024-10-05T17:54:23.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-05T16:10:32.222Z,61.3463,-146.5395,27.5,2.5,ml,,,,0.32,ak,ak024ctoiz3q,2024-10-05T17:42:13.040Z,"26 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-05T16:08:55.102Z,-41.3377,174.4207,48.54,5.1,mww,129,21,0.215,1.2,us,us6000nwqg,2024-10-05T19:31:41.184Z,"27 km WSW of Karori, New Zealand",earthquake,2.75,4.729,0.086,13,reviewed,us,us
+2024-10-05T16:08:55.102Z,-41.3377,174.4207,48.54,5.1,mww,129,21,0.215,1.2,us,us6000nwqg,2024-10-05T19:49:39.852Z,"27 km WSW of Karori, New Zealand",earthquake,2.75,4.729,0.086,13,reviewed,us,us
 2024-10-05T16:01:10.820Z,38.7978324890137,-122.737831115723,2.3199999332428,0.79,md,10,107,0.0146,0.03,nc,nc75070736,2024-10-05T16:59:28.641Z,"3 km NE of The Geysers, CA",earthquake,0.38,0.829999983,0.08,10,automatic,nc,nc
 2024-10-05T15:40:44.610Z,19.4236660003662,-155.269836425781,8.78999996185303,2.47000003,md,38,43,0.003957,0.340000004,hv,hv74489107,2024-10-05T15:42:29.240Z,"4 km WSW of Volcano, Hawaii",earthquake,0.4,0.5,0.189999998,21,automatic,hv,hv
 2024-10-05T15:26:19.116Z,11.6489,-87.1247,44.782,4.3,mb,35,177,0.991,0.81,us,us6000nwqb,2024-10-05T17:25:31.040Z,"68 km WSW of Masachapa, Nicaragua",earthquake,5.84,12.71,0.119,20,reviewed,us,us
@@ -49,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T12:35:53.028Z,61.2454,-149.3681,31.3,1.9,ml,,,,0.42,ak,ak024ctman6u,2024-10-05T12:37:54.970Z,"13 km SE of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-05T12:29:39.479Z,61.3427,-147.817,4.5,1.6,ml,,,,0.68,ak,ak024ctm9buj,2024-10-05T12:31:57.267Z,"52 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-05T12:21:13.496Z,39.2286,-119.6237,4.3,0.9,ml,11,68.77999999999997,0.141,0.1972,nn,nn00885574,2024-10-05T12:23:31.013Z,"2 km WSW of Dayton, Nevada",earthquake,,3.9,0.4,6,automatic,nn,nn
-2024-10-05T12:17:00.380Z,40.3873329162598,-125.449165344238,2.35999989509583,3.84,ml,131,248,0.8516,0.51,nc,nc75070701,2024-10-05T13:37:15.185Z,"99 km WNW of Petrolia, CA",earthquake,2.72,42.3899994,0.167,15,reviewed,nc,nc
+2024-10-05T12:17:00.230Z,40.3975,-125.5585,10,3.59,ml,126,245,0.9352,0.28,nc,nc75070701,2024-10-05T19:53:36.322Z,"108 km WNW of Petrolia, CA",earthquake,1.89,31.61,0.264,47,reviewed,nc,nc
 2024-10-05T12:08:12.354Z,37.6351,-31.6445,10,4.8,mb,66,83,4.855,0.89,us,us6000nwpm,2024-10-05T12:51:47.040Z,"197 km SSW of Lajes das Flores, Portugal",earthquake,11.06,1.872,0.067,69,reviewed,us,us
 2024-10-05T12:02:33.240Z,33.2540016,-116.3728333,12.67,0.66,ml,13,95,0.03975,0.18,ci,ci40752287,2024-10-05T12:06:01.222Z,"0 km SE of Borrego Springs, CA",earthquake,0.58,1.98,0.194,8,automatic,ci,ci
 2024-10-05T11:58:07.643Z,31.603,-103.939,4.3182,2,ml,15,116,0,0.6,tx,tx2024tovo,2024-10-05T12:06:41.629Z,"34 km WSW of Mentone, Texas",earthquake,0,1.28331816196442,0.2,12,automatic,tx,tx
@@ -169,7 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T20:18:32.770Z,34.2111667,-117.4978333,11.16,2.52,ml,118,24,0.003759,0.21,ci,ci40751975,2024-10-05T11:36:36.563Z,"5 km S of Lytle Creek, CA",earthquake,0.12,0.3,0.165,24,automatic,ci,ci
 2024-10-04T20:07:56.230Z,33.8645,-117.5125,2.53,1.21,ml,44,39,0.04193,0.2,ci,ci40751967,2024-10-04T20:14:40.118Z,"2 km SSE of Home Gardens, CA",earthquake,0.23,0.35,0.315,33,automatic,ci,ci
 2024-10-04T20:04:13.871Z,31.679,-104.387,4.4488,1.7,ml,10,125,0,0.1,tx,tx2024tnqc,2024-10-04T20:11:05.467Z,"55 km S of Whites City, New Mexico",earthquake,0,1.6992267370224,0.2,8,automatic,tx,tx
-2024-10-04T19:52:49.640Z,46.599333333333334,-119.80116666666666,8.11,0.8300000000000001,ml,11,79,0.02929,0.09,uw,uw62043807,2024-10-04T21:40:25.980Z,"12 km SE of Desert Aire, Washington",earthquake,0.27,0.16,0.13248891024395792,10,reviewed,uw,uw
-2024-10-04T19:51:09.040Z,33.6691667,-116.7153333,14.98,0.77,ml,32,77,0.03464,0.1,ci,ci40751959,2024-10-04T20:58:40.986Z,"8 km S of Idyllwild, CA",earthquake,0.18,0.25,0.105,17,reviewed,ci,ci
-2024-10-04T19:49:27.970Z,46.602,-119.79933333333334,7.7,1.34,ml,18,76,0.027,0.09,uw,uw62043802,2024-10-04T21:02:09.160Z,"12 km SE of Desert Aire, Washington",earthquake,0.28,0.15,0.14063515606585986,15,reviewed,uw,uw
-2024-10-04T19:48:11.790Z,46.59766666666667,-119.79133333333333,6.93,0.71,ml,8,175,0.02449,0.05,uw,uw62043797,2024-10-04T21:10:22.130Z,"13 km SE of Desert Aire, Washington",earthquake,0.31,0.38,0.17544380715443153,6,reviewed,uw,uw
