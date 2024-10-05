@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-05T07:34:47.770Z,18.3263333333333,-67.4333333333333,12.71,2.95,md,7,310,0.1746,0.07,pr,pr71461813,2024-10-05T07:49:39.530Z,"19 km W of Rincón, Puerto Rico",earthquake,1.18,0.55,0.0207428837420833,4,reviewed,pr,pr
 2024-10-05T07:32:01.560Z,33.7023333,-116.8093333,15.46,0.78,ml,35,81,0.07896,0.15,ci,ci40752183,2024-10-05T07:45:42.571Z,"9 km ESE of Valle Vista, CA",earthquake,0.23,0.34,0.242,15,automatic,ci,ci
-2024-10-05T07:25:49.220Z,38.7971649169922,-122.814498901367,2.98000001907349,1.06,md,19,88,0.01256,0.02,nc,nc75070621,2024-10-05T07:27:26.932Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,21,automatic,nc,nc
+2024-10-05T07:25:49.220Z,38.7971649169922,-122.814498901367,2.98000001907349,1.06,md,19,88,0.01256,0.02,nc,nc75070621,2024-10-05T07:59:23.760Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,21,automatic,nc,nc
 2024-10-05T07:25:16.050Z,38.7976684570312,-122.815330505371,3.24000000953674,0.75,md,10,88,0.01337,0.02,nc,nc75070616,2024-10-05T07:44:27.666Z,"6 km NW of The Geysers, CA",earthquake,0.45,1.22000003,0.12,10,automatic,nc,nc
 2024-10-05T07:22:33.096Z,59.7023,-152.0382,54.1,1.8,ml,,,,0.63,ak,ak024ctj8nbh,2024-10-05T07:24:10.252Z,"14 km SW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-05T06:45:12.485Z,54.2938,-161.7133,31.075,4.9,mb,97,145,1.225,0.96,us,us6000nwnq,2024-10-05T07:28:37.040Z,"93 km SSE of King Cove, Alaska",earthquake,5.9,6.267,0.053,112,reviewed,us,us
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T05:41:56.410Z,35.0675,-119.093,10.97,2.13,ml,60,39,0.01165,0.28,ci,ci40752127,2024-10-05T05:48:45.727Z,"20 km NW of Grapevine, CA",earthquake,0.24,0.71,0.14,26,automatic,ci,ci
 2024-10-05T05:31:12.612Z,59.832,-152.9138,106.2,1.1,ml,,,,0.26,ak,ak024cti3nz1,2024-10-05T05:33:13.620Z,"61 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-05T05:13:36.480Z,35.0835,-119.1113333,13.69,1.42,ml,34,96,0.03357,0.21,ci,ci40752119,2024-10-05T05:20:04.202Z,"23 km NW of Grapevine, CA",earthquake,0.23,0.47,0.18,25,automatic,ci,ci
-2024-10-05T05:08:32.246Z,60.9234,-150.3518,59,3.1,ml,,,,0.15,ak,ak024cthys0o,2024-10-05T07:33:29.593Z,"18 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2024-10-05T05:08:32.246Z,60.9234,-150.3518,59,3.1,ml,,,,0.15,ak,ak024cthys0o,2024-10-05T08:03:45.633Z,"18 km E of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-05T05:04:24.880Z,36.0801658630371,-120.192832946777,11.7700004577637,1.16,md,7,104,0.04187,0.15,nc,nc75070581,2024-10-05T06:57:16.331Z,"10 km NNW of Avenal, CA",earthquake,1.04,0.699999988,0.09,5,automatic,nc,nc
 2024-10-05T05:00:50.480Z,19.3894996643066,-155.244338989258,1.64999997615814,1.76999998,md,13,150,0.007685,0.360000014,hv,hv74488687,2024-10-05T05:02:15.760Z,"5 km S of Volcano, Hawaii",earthquake,0.64,0.400000006,0.129999995,8,automatic,hv,hv
 2024-10-05T05:00:42.240Z,33.323,-116.8818333,12.11,0.49,ml,30,37,0.03449,0.17,ci,ci40752111,2024-10-05T05:06:50.040Z,"4 km SSW of Palomar Observatory, CA",earthquake,0.23,0.53,0.221,9,automatic,ci,ci
@@ -191,7 +191,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-04T09:35:09.315Z,59.7705,-153.6295,134.4,1.7,ml,,,,0.45,ak,ak024crwywib,2024-10-04T10:40:02.040Z,"26 km E of Pedro Bay, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-04T09:26:11.820Z,42.19466666666667,-125.0095,9.22,1.8900000000000001,ml,11,294,0.5043,0.85,uw,uw62043637,2024-10-04T21:16:41.140Z,"51 km W of Pistol River, Oregon",earthquake,27.43,17.77,0.053753267829782514,3,reviewed,uw,uw
 2024-10-04T09:14:54.890Z,61.2664,-152.3059,131,2.2,ml,,,,0.64,ak,ak024crwuhzq,2024-10-04T09:18:26.363Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-05T06:41:36.670Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
+2024-10-04T09:08:58.422Z,49.0567,-123.3635,61.533,3.7,mb,198,43,0.145,0.41,us,us6000nwgu,2024-10-05T08:05:24.607Z,"20 km SW of Richmond, Canada",earthquake,2.35,3.938,0.226,5,reviewed,us,us
 2024-10-04T09:06:33.000Z,19.1651668548584,-155.40283203125,30.5300006866455,2.01999998,md,53,169,0.05687,0.119999997,hv,hv74487722,2024-10-04T09:08:13.400Z,"9 km ESE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.189999998,21,automatic,hv,hv
 2024-10-04T09:04:36.580Z,35.8916667,-117.6846667,10.15,0.26,ml,19,76,0.06264,0.1,ci,ci40751743,2024-10-04T18:58:12.436Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.4,0.106,5,reviewed,ci,ci
 2024-10-04T09:03:22.010Z,36.397,-118.8086667,4.48,1.73,ml,25,120,0.09842,0.13,ci,ci40751735,2024-10-04T18:55:08.257Z,"10 km ESE of Three Rivers, CA",earthquake,0.22,0.65,0.173,20,reviewed,ci,ci
