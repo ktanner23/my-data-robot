@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-06T06:30:58.230Z,36.45164871,-98.8012619,1.309534788,2.22,ml,45,52.54606628,0.001845546067,0.6509801769,ok,ok2024tqgg,2024-10-06T06:40:40.916Z,"16 km SSE of Waynoka, Oklahoma",earthquake,2.069478206,1.420176398,0.42,17,automatic,ok,ok
 2024-10-06T06:15:40.800Z,35.036,-119.0425,6.17,1.06,ml,29,123,0.1418,0.23,ci,ci40752743,2024-10-06T06:26:05.943Z,"14 km NW of Grapevine, CA",earthquake,0.34,1.12,0.123,20,automatic,ci,ci
+2024-10-06T06:13:55.023Z,28.0963,139.7675,419.377,4.7,mb,106,31,2.365,0.66,us,us6000nwuh,2024-10-06T07:20:30.040Z,"Bonin Islands, Japan region",earthquake,10.14,7.696,0.026,462,reviewed,us,us
 2024-10-06T06:08:17.034Z,38.3751,-115.7298,2.1,2.9,ml,26,131.56,1.211,0.3588,nn,nn00885594,2024-10-06T06:33:18.040Z,"81 km N of Rachel, Nevada",earthquake,,1.1,0.27,18,automatic,nn,nn
 2024-10-06T06:06:46.668Z,31.453,-103.425,6.7215,1.8,ml,9,178,0.1,0.5,tx,tx2024tqfm,2024-10-06T06:20:08.293Z,"3 km WSW of Barstow, Texas",earthquake,0,6.91883373260498,0.3,6,automatic,tx,tx
 2024-10-06T06:05:16.327Z,57.8902,-155.3137,101.2,1.9,ml,,,,0.36,ak,ak024cv62bcz,2024-10-06T06:17:59.040Z,"62 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T16:13:46.981Z,62.2204,-148.8436,32.3,2.5,ml,,,,0.37,ak,ak024ctojne2,2024-10-05T18:19:50.040Z,"49 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-05T16:12:02.496Z,60.0332,-153.0511,117.2,2.3,ml,,,,0.23,ak,ak024ctojc7v,2024-10-05T17:54:23.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-10-05T16:10:32.222Z,61.3463,-146.5395,27.5,2.5,ml,,,,0.32,ak,ak024ctoiz3q,2024-10-05T17:42:13.040Z,"26 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-05T16:08:55.102Z,-41.3377,174.4207,48.54,5.1,mww,129,21,0.215,1.2,us,us6000nwqg,2024-10-06T02:17:48.487Z,"27 km WSW of Karori, New Zealand",earthquake,2.75,4.729,0.086,13,reviewed,us,us
+2024-10-05T16:08:55.102Z,-41.3377,174.4207,48.54,5.1,mww,129,21,0.215,1.2,us,us6000nwqg,2024-10-06T07:18:40.504Z,"27 km WSW of Karori, New Zealand",earthquake,2.75,4.729,0.086,13,reviewed,us,us
 2024-10-05T16:01:10.820Z,38.7978324890137,-122.737831115723,2.3199999332428,0.79,md,10,107,0.0146,0.03,nc,nc75070736,2024-10-05T16:59:28.641Z,"3 km NE of The Geysers, CA",earthquake,0.38,0.829999983,0.08,10,automatic,nc,nc
 2024-10-05T15:59:43.620Z,47.483666666666664,-122.80766666666666,19.97,0.9400000000000001,ml,8,223,0.08136,0.15,uw,uw62052351,2024-10-05T21:36:02.000Z,"3 km NNE of Belfair, Washington",earthquake,0.71,1.02,0.2158032308173934,2,reviewed,uw,uw
 2024-10-05T15:40:44.610Z,19.4236660003662,-155.269836425781,8.78999996185303,2.47000003,md,38,43,0.003957,0.340000004,hv,hv74489107,2024-10-05T15:42:29.240Z,"4 km WSW of Volcano, Hawaii",earthquake,0.4,0.5,0.189999998,21,automatic,hv,hv
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-05T07:32:01.560Z,33.7023333,-116.8093333,15.46,0.78,ml,35,81,0.07896,0.15,ci,ci40752183,2024-10-05T07:45:42.571Z,"9 km ESE of Valle Vista, CA",earthquake,0.23,0.34,0.242,15,automatic,ci,ci
 2024-10-05T07:25:49.220Z,38.7971649169922,-122.814498901367,2.98000001907349,1.06,md,19,88,0.01256,0.02,nc,nc75070621,2024-10-05T09:29:27.399Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.629999995,0.19,21,automatic,nc,nc
 2024-10-05T07:25:16.050Z,38.7976684570312,-122.815330505371,3.24000000953674,0.75,md,10,88,0.01337,0.02,nc,nc75070616,2024-10-05T08:57:17.174Z,"6 km NW of The Geysers, CA",earthquake,0.45,1.22000003,0.12,10,automatic,nc,nc
-2024-10-05T07:22:33.096Z,59.7023,-152.0382,54.1,1.8,ml,,,,0.63,ak,ak024ctj8nbh,2024-10-05T07:24:10.252Z,"14 km SW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
