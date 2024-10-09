@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-09T17:53:01.760Z,32.9763333,-116.2718333,8.87,0.88,ml,36,52,0.03425,0.17,ci,ci40755559,2024-10-09T17:59:00.957Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.19,0.52,0.197,20,automatic,ci,ci
 2024-10-09T17:49:21.350Z,38.793334960938,-122.80666351318,3,1.28,md,27,82,0.005736,0.03,nc,nc75072401,2024-10-09T17:50:59.575Z,"5 km WNW of The Geysers, CA",earthquake,0.26,0.439999998,0.17,26,automatic,nc,nc
+2024-10-09T17:49:11.135Z,31.67,-104.408,4.7095,1.7,ml,17,70,0,0.3,tx,tx2024twpj,2024-10-09T17:58:56.367Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2760998010635,0.2,13,automatic,tx,tx
 2024-10-09T17:42:41.820Z,38.794334411621,-122.80966949463,3.5,0.74,md,10,91,0.007912,0.02,nc,nc75072391,2024-10-09T17:44:18.426Z,"5 km WNW of The Geysers, CA",earthquake,0.61,1.21000004,0.2,10,automatic,nc,nc
 2024-10-09T17:42:22.840Z,38.794334411621,-122.80899810791,2.710000038147,1.53,md,32,76,0.00758,0.03,nc,nc75072386,2024-10-09T17:45:21.770Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.370000005,0.13,32,automatic,nc,nc
 2024-10-09T17:41:50.960Z,38.794498443604,-122.80966949463,2.4400000572205,2.1,md,35,71,0.008037,0.04,nc,nc75072381,2024-10-09T17:43:28.340Z,"5 km NW of The Geysers, CA",earthquake,0.15,0.270000011,0.34,37,automatic,nc,nc
@@ -46,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T13:47:54.930Z,35.6723333,-117.553,7.46,2.2,ml,37,48,0.09165,0.13,ci,ci40755407,2024-10-09T13:58:54.140Z,"12 km ENE of Ridgecrest, CA",earthquake,0.13,0.53,0.234,25,automatic,ci,ci
 2024-10-09T13:37:00.106Z,60.943,-150.4583,30.9,1.4,ml,,,,0.46,ak,ak024d091s43,2024-10-09T13:39:37.350Z,"12 km E of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-09T13:31:37.050Z,33.128,-116.4013333,12.6,1.02,ml,49,31,0.05928,0.19,ci,ci40755399,2024-10-09T13:37:45.866Z,"14 km S of Borrego Springs, CA",earthquake,0.21,0.56,0.16,26,automatic,ci,ci
-2024-10-09T13:29:22.055Z,37.0333,-117.7021,2.5,1.5,ml,12,218.19,0.398,0.3724,nn,nn00885743,2024-10-09T13:31:54.021Z,"51 km ENE of Independence, California",earthquake,,10.5,0.27,9,automatic,nn,nn
+2024-10-09T13:29:20.702Z,36.9047,-117.7722,0,1.8,ml,8,238.77,0.344,0.1426,nn,nn00885743,2024-10-09T18:02:04.747Z,"39 km ENE of Independence, California",earthquake,,0,0.46,6,reviewed,nn,nn
 2024-10-09T13:22:06.250Z,33.4815,-116.4595,4.13,0.59,ml,33,69,0.09651,0.16,ci,ci40755391,2024-10-09T15:10:02.710Z,"22 km ESE of Anza, CA",earthquake,0.18,0.46,0.139,15,reviewed,ci,ci
 2024-10-09T13:15:04.200Z,19.202167510986,-155.36799621582,29.889999389648,2.02999997,md,43,174,0.04486,0.129999995,hv,hv74494586,2024-10-09T13:16:40.910Z,"11 km E of Pāhala, Hawaii",earthquake,0.56,0.639999986,0.219999999,13,automatic,hv,hv
 2024-10-09T13:08:18.550Z,32.5741667,-115.291,17.57,1.29,ml,19,69,0.1418,0.17,ci,ci40755375,2024-10-09T17:27:50.970Z,"6 km E of Puebla, B.C., MX",earthquake,0.37,1.28,0.14,13,reviewed,ci,ci
@@ -67,9 +69,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T11:54:19.360Z,33.6816667,-116.787,16.36,0.58,ml,34,78,0.06747,0.12,ci,ci40755295,2024-10-09T15:10:45.711Z,"9 km SW of Idyllwild, CA",earthquake,0.16,0.32,0.174,14,reviewed,ci,ci
 2024-10-09T11:44:02.501Z,44.271,-115.0729,13.235,3,ml,27,66,0.232,0.52,us,us6000nxhv,2024-10-09T14:38:07.613Z,"12 km WNW of Stanley, Idaho",earthquake,2.86,7.802,0.038,92,reviewed,us,us
 2024-10-09T11:39:50.280Z,19.050832748413,-155.35650634766,32.009998321533,1.77999997,md,41,214,0.1442,0.150000006,hv,hv74494536,2024-10-09T11:41:34.150Z,"21 km SE of Pāhala, Hawaii",earthquake,0.8,0.620000005,0.159999996,4,automatic,hv,hv
-2024-10-09T11:30:58.630Z,32.5656667,-115.289,21.99,1.55,ml,25,47,0.1464,0.22,ci,ci40755287,2024-10-09T11:37:07.344Z,"6 km E of Puebla, B.C., MX",earthquake,0.4,1.27,0.305,18,automatic,ci,ci
+2024-10-09T11:30:58.600Z,32.5648333,-115.2911667,20.36,1.4,ml,21,71,0.1457,0.27,ci,ci40755287,2024-10-09T18:02:12.007Z,"6 km E of Puebla, B.C., MX",earthquake,0.55,1.27,0.332,12,reviewed,ci,ci
 2024-10-09T11:19:41.467Z,37.547,137.4245,10,4.6,mb,63,59,1.178,0.62,us,us6000nxhs,2024-10-09T12:57:45.005Z,"58 km NE of Anamizu, Japan",earthquake,5.69,1.829,0.064,72,reviewed,us,us
-2024-10-09T11:12:43.700Z,32.5666667,-115.2891667,18.09,1.88,ml,31,43,0.1464,0.29,ci,ci40755279,2024-10-09T11:18:58.241Z,"6 km E of Puebla, B.C., MX",earthquake,0.36,1.15,0.194,27,automatic,ci,ci
+2024-10-09T11:12:43.700Z,32.5685,-115.29,18.34,1.87,ml,33,53,0.1449,0.29,ci,ci40755279,2024-10-09T17:57:46.780Z,"6 km E of Puebla, B.C., MX",earthquake,0.35,1.07,0.217,31,reviewed,ci,ci
 2024-10-09T11:11:50.850Z,32.501,-115.2701667,22.79,1.61,ml,17,196,0.2656,0.21,ci,ci40755271,2024-10-09T11:17:54.237Z,"10 km SE of Puebla, B.C., MX",earthquake,0.75,1.84,0.228,16,automatic,ci,ci
 2024-10-09T11:10:34.040Z,18.9536,-66.8306,37,3.6,md,20,196,0.5613,0.48,pr,pr2024283001,2024-10-09T17:13:09.231Z,"51 km N of Hatillo, Puerto Rico",earthquake,1.62,6.17,0.11,11,reviewed,pr,pr
 2024-10-09T11:08:33.269Z,35.9911,-115.4296,4.4,1.3,ml,16,112.89,0.081,0.1536,nn,nn00885736,2024-10-09T15:34:15.560Z,"6 km SSW of Blue Diamond, Nevada",earthquake,,1.6,0.53,4,reviewed,nn,nn
@@ -99,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-09T07:46:41.970Z,32.5571667,-115.2761667,18.1,1.31,ml,17,127,0.2586,0.25,ci,ci40755159,2024-10-09T17:15:47.957Z,"7 km E of Puebla, B.C., MX",earthquake,0.58,1.87,0.288,10,reviewed,ci,ci
 2024-10-09T07:44:59.633Z,37.515,-117.187,5.7,1.3,ml,23,100.95,0.223,0.1804,nn,nn00885734,2024-10-09T17:28:12.427Z,"21 km SSE of Goldfield, Nevada",earthquake,,2.7,0.31,10,reviewed,nn,nn
 2024-10-09T07:40:01.069Z,61.8042,-151.1861,58.1,1.5,ml,,,,0.49,ak,ak024d05htpm,2024-10-09T07:42:11.347Z,"23 km SSE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-10-09T07:34:01.500Z,32.5605,-115.2785,18.38,1.47,ml,21,73,0.1424,0.29,ci,ci40755151,2024-10-09T07:39:55.981Z,"7 km E of Puebla, B.C., MX",earthquake,0.46,1.42,0.134,17,automatic,ci,ci
+2024-10-09T07:34:01.280Z,32.5591667,-115.2798333,22.42,1.43,ml,21,58,0.1568,0.29,ci,ci40755151,2024-10-09T18:03:20.344Z,"7 km E of Puebla, B.C., MX",earthquake,0.5,1.48,0.161,14,reviewed,ci,ci
 2024-10-09T07:25:14.920Z,17.979,-66.827666666667,12.23,2.52,md,10,177,0.2063,0.25,pr,pr71462178,2024-10-09T07:36:05.370Z,"1 km SSW of Indios, Puerto Rico",earthquake,1.08,0.92,0.01820126167887,3,reviewed,pr,pr
 2024-10-09T07:20:44.840Z,34.0378333,-117.591,4.66,0.93,ml,14,67,0.0143,0.18,ci,ci40755143,2024-10-09T17:11:04.415Z,"4 km ESE of Ontario, CA",earthquake,0.33,0.47,0.298,7,reviewed,ci,ci
 2024-10-09T07:04:52.229Z,67.3402,-156.3141,0,2.8,ml,,,,0.64,ak,ak024d05a7w8,2024-10-09T08:35:07.005Z,"54 km NNE of Kobuk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-08T18:26:52.380Z,41.926,-112.59716666667,6.85,1.73,ml,21,151,0.1976,0.18,uu,uu80084186,2024-10-08T20:13:00.680Z,"10 km ESE of Snowville, Utah",earthquake,0.42,1.24,0.0067291044500671,2,reviewed,uu,uu
 2024-10-08T18:13:09.038Z,37.2832,-115.3831,4.7,1.6,ml,41,103.42,0.291,0.1312,nn,nn00885716,2024-10-09T02:04:44.720Z,"21 km WSW of Alamo, Nevada",earthquake,,2.4,0.27,23,reviewed,nn,nn
 2024-10-08T18:05:21.781Z,61.6394,-149.4364,26.8,2.4,ml,,,,0.48,ak,ak024cyoas8o,2024-10-08T18:06:35.050Z,"1 km NNW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-08T18:01:11.754Z,61.4279,-146.5413,28.3,1.2,ml,,,,0.36,ak,ak024cyo9wrr,2024-10-08T18:02:56.375Z,"34 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-08T17:56:10.480Z,34.0418333,-117.274,16.16,1.04,ml,37,63,0.08157,0.19,ci,ci40754695,2024-10-08T20:48:03.180Z,"1 km WSW of Loma Linda, CA",earthquake,0.25,0.53,0.102,11,reviewed,ci,ci
