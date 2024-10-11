@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-11T10:30:22.480Z,34.0456657,-117.276001,12.03,1.15,ml,22,102,0.09762,0.13,ci,ci40951792,2024-10-11T10:32:29.238Z,"1 km WSW of Loma Linda, CA",earthquake,0.36,0.96,0.236,8,automatic,ci,ci
 2024-10-11T10:12:36.522Z,64.3331,-149.6957,0,1.7,ml,,,,0.64,ak,ak024d3i6w78,2024-10-11T10:14:42.883Z,"24 km W of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-11T10:06:16.020Z,34.0638333,-117.4741667,2.59,1.48,ml,9,138,0.03639,0.19,ci,ci40951784,2024-10-11T10:12:43.578Z,"4 km SSW of Fontana, CA",earthquake,0.72,0.59,0.438,19,automatic,ci,ci
 2024-10-11T10:00:26.860Z,33.898,-116.6505,14.28,0.79,ml,39,51,0.1114,0.13,ci,ci40951776,2024-10-11T10:07:17.545Z,"10 km W of Garnet, CA",earthquake,0.15,0.36,0.154,24,automatic,ci,ci
@@ -112,10 +113,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T19:35:06.692Z,66.1454,-150.2678,0,1.4,ml,,,,0.88,ak,ak024d205bbh,2024-10-10T19:37:01.515Z,"55 km WNW of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-10T19:20:36.033Z,36.6094,-117.0807,7.8,1.4,ml,14,262.3,0.143,0.1114,nn,nn00885821,2024-10-10T19:46:12.566Z,"27 km NW of Furnace Creek, California",earthquake,,2,0.49,5,reviewed,nn,nn
 2024-10-10T19:16:02.360Z,36.977666666667,-119.82766666667,8.16,2,md,10,205,0.09802,0.11,nc,nc75072776,2024-10-10T22:02:43.240Z,"4 km ESE of Bonadelle Ranchos-Madera Ranchos, CA",earthquake,1.4,0.8,0.211,24,reviewed,nc,nc
+2024-10-10T19:10:59.020Z,37.518665313721,-118.78549957275,4.7699999809265,1.57,md,17,159,0.07922,0.03,nc,nc75072771,2024-10-10T20:52:15.194Z,"10 km WSW of Toms Place, CA",earthquake,0.54,1.01999998,0.14,17,automatic,nc,nc
 2024-10-10T18:56:53.150Z,61.302666666667,-152.22666666667,1.68,-0.37,ml,7,165,0.05089,0.05,av,av93023749,2024-10-11T07:51:47.800Z,"64 km WNW of Beluga, Alaska",earthquake,0.37,1.06,0.31908375773703,8,reviewed,av,av
 2024-10-10T18:56:23.410Z,61.303166666667,-152.22633333333,1.88,-0.42,ml,7,165,0.05115,0.05,av,av93308493,2024-10-11T07:47:50.730Z,"64 km WNW of Beluga, Alaska",earthquake,0.32,1.07,0.29450961065858,7,reviewed,av,av
 2024-10-10T18:54:53.250Z,61.303333333333,-152.23083333333,2.02,-0.09,ml,9,118,0.05275,0.08,av,av93308483,2024-10-11T07:35:33.980Z,"64 km WNW of Beluga, Alaska",earthquake,0.26,0.68,0.31888957232329,10,reviewed,av,av
 2024-10-10T18:54:04.820Z,61.302666666667,-152.22666666667,1.65,-0.44,ml,7,196,0.05089,0.07,av,av93308488,2024-10-11T07:32:17.200Z,"64 km WNW of Beluga, Alaska",earthquake,0.36,1.06,0.34853300916505,7,reviewed,av,av
+2024-10-10T18:52:52.250Z,19.244167327881,-155.44917297363,29.190000534058,1.78999996,md,26,158,0.04927,0.119999997,hv,hv74495921,2024-10-10T18:54:28.640Z,"5 km NE of Pāhala, Hawaii",earthquake,0.78,1.25,0.109999999,4,automatic,hv,hv
 2024-10-10T18:52:09.100Z,61.304333333333,-152.2295,1.6,-0.28,ml,10,118,0.05304,0.07,av,av93308478,2024-10-11T07:24:51.460Z,"64 km WNW of Beluga, Alaska",earthquake,0.22,0.62,0.36786836125685,10,reviewed,av,av
 2024-10-10T18:48:08.800Z,61.301166666667,-152.22733333333,3.2,-0.62,ml,6,163,0.05002,0.04,av,av93308468,2024-10-11T07:16:52.530Z,"64 km WNW of Beluga, Alaska",earthquake,0.64,0.57,0.25147401541413,6,reviewed,av,av
 2024-10-10T18:47:48.450Z,61.302166666667,-152.22883333333,1.45,-0.45,ml,6,165,0.05124,0.02,av,av93023739,2024-10-11T07:21:00.470Z,"64 km WNW of Beluga, Alaska",earthquake,0.63,1.61,0.24195294553616,6,reviewed,av,av
@@ -136,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T18:12:34.393Z,-0.9254,-22.0667,10,5.3,mb,72,46,10.364,0.68,us,us6000nxws,2024-10-11T06:53:18.040Z,"central Mid-Atlantic Ridge",earthquake,8.28,1.848,0.041,194,reviewed,us,us
 2024-10-10T18:12:15.760Z,38.818000793457,-122.81749725342,2.4500000476837,1.07,md,20,53,0.007914,0.02,nc,nc75072756,2024-10-10T19:39:29.659Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.449999988,0.16,22,automatic,nc,nc
 2024-10-10T17:55:51.290Z,32.8938333,-116.5963333,8.53,1.03,ml,43,54,0.02873,0.18,ci,ci40951304,2024-10-10T19:59:34.906Z,"10 km NW of Pine Valley, CA",earthquake,0.2,0.44,0.3,22,reviewed,ci,ci
-2024-10-10T17:50:13.898Z,69.366,-144.9212,0,2.6,ml,,,,0.73,ak,ak024d1z1oel,2024-10-10T17:54:07.262Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-10-10T17:50:13.898Z,69.366,-144.9212,0,2.6,ml,,,,0.73,ak,ak024d1z1oel,2024-10-10T18:48:52.040Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T17:49:07.232Z,65.8031,-149.8941,3.1,1.2,ml,,,,0.67,ak,ak024d1z1g6e,2024-10-10T17:58:48.834Z,"35 km NNE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T17:43:45.920Z,35.054,-118.3493333,-1.03,1.16,ml,29,48,0.06357,0.22,ci,ci40951296,2024-10-10T19:36:06.885Z,"13 km SE of Tehachapi, CA",quarry blast,0.28,31.61,0.118,21,reviewed,ci,ci
 2024-10-10T17:42:35.210Z,34.6421667,-119.5283333,2.39,1.3,ml,22,68,0.1414,0.2,ci,ci40951288,2024-10-10T19:55:09.372Z,"25 km NNE of Montecito, CA",earthquake,0.29,1.56,0.176,26,automatic,ci,ci
@@ -206,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T10:41:10.440Z,33.351,-116.3635,12.22,0.96,ml,46,74,0.0244,0.17,ci,ci40756015,2024-10-10T15:47:29.839Z,"11 km N of Borrego Springs, CA",earthquake,0.22,0.47,0.146,19,reviewed,ci,ci
 2024-10-10T10:37:26.025Z,65.8412,-149.9298,16.1,1.1,ml,,,,0.43,ak,ak024d1usvsq,2024-10-10T10:39:15.891Z,"39 km NNE of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-10T10:34:09.914Z,69.3418,-144.6949,3.3,2,ml,,,,0.49,ak,ak024d1us7en,2024-10-10T10:36:20.773Z,"97 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-10T10:29:10.840Z,38.772666931152,-122.73699951172,12.170000076294,0.5,md,6,97,0.01056,0.11,nc,nc75072666,2024-10-10T12:22:15.492Z,"2 km ESE of The Geysers, CA",earthquake,3.51,9.02000046,0.32,6,automatic,nc,nc
