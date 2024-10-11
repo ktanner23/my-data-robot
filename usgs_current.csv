@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-11T22:18:52.030Z,37.805999755859,-122.21067047119,9.2299995422363,1.78,md,35,55,0.03657,0.06,nc,nc75073261,2024-10-11T22:21:53.690Z,"2 km ENE of Oakland, CA",earthquake,0.18,0.460000008,0.22,25,automatic,nc,nc
-2024-10-11T22:14:32.680Z,35.6521683,-117.5016632,3.8,1.09,ml,13,121,0.06478,0.12,ci,ci40952248,2024-10-11T22:16:58.385Z,"16 km SW of Searles Valley, CA",earthquake,0.49,1.12,0.169,4,automatic,ci,ci
+2024-10-11T22:14:32.660Z,35.6506667,-117.499,4.52,0.9,ml,22,92,0.06298,0.11,ci,ci40952248,2024-10-11T22:24:45.718Z,"16 km SSW of Searles Valley, CA",earthquake,0.18,0.37,0.18,9,automatic,ci,ci
 2024-10-11T22:06:42.988Z,31.659,-104.452,5.1514,2.6,ml,36,65,0,0.1,tx,tx2024uaor,2024-10-11T22:22:22.640Z,"57 km S of Whites City, New Mexico",earthquake,1.0633426136528,0.7332094623524,0.1,18,reviewed,tx,tx
 2024-10-11T22:04:19.978Z,61.5893,-142.3964,15.1,1.5,ml,,,,0.35,ak,ak024d3pacgd,2024-10-11T22:07:27.492Z,"32 km ENE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-11T21:58:41.215Z,61.3268,-152.2165,0,1.9,ml,,,,0.92,ak,ak024d3p0j5l,2024-10-11T22:00:45.193Z,"64 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T11:57:34.622Z,36.6236,-117.0571,8.9,0.5,ml,9,257.89,0.12,0.0899,nn,nn00885850,2024-10-11T13:35:56.012Z,"26 km NW of Furnace Creek, California",earthquake,,3,0.41,6,reviewed,nn,nn
 2024-10-11T11:56:47.780Z,46.289166666667,-122.17133333333,0.3,0.26,ml,5,228,0.05055,0.04,uw,uw61503433,2024-10-11T21:42:57.200Z,"30 km SSE of Morton, Washington",earthquake,0.66,1.85,0.24321359089745,4,reviewed,uw,uw
 2024-10-11T11:51:55.960Z,19.136667251587,-155.46916198731,31.389999389648,1.89999998,md,38,173,0.121,0.129999995,hv,hv74496501,2024-10-11T11:53:38.190Z,"7 km S of Pāhala, Hawaii",earthquake,0.68,0.569999993,0.159999996,4,automatic,hv,hv
-2024-10-11T11:49:15.702Z,38.5326,-118.3981,10.3,1.2,ml,9,161.39,0.136,0.1631,nn,nn00885873,2024-10-11T22:22:17.300Z,"19 km E of Hawthorne, Nevada",earthquake,,1.3,0.27,3,reviewed,nn,nn
+2024-10-11T11:49:15.708Z,38.5303,-118.4014,10.1,1.2,ml,10,127.84,0.136,0.1944,nn,nn00885873,2024-10-11T22:31:30.087Z,"19 km E of Hawthorne, Nevada",earthquake,,1.4,0.27,3,reviewed,nn,nn
 2024-10-11T11:41:47.270Z,36.6074982,-117.1123352,1.44,3.4,ml,27,144,0.4381,0.15,ci,ci40951816,2024-10-11T20:59:51.868Z,"3 km E of Stovepipe Wells, CA",earthquake,0.55,1.21,0.225,25,automatic,ci,ci
 2024-10-11T11:20:10.246Z,62.4166,-150.4524,61.9,1.8,ml,,,,0.49,ak,ak024d3itzi8,2024-10-11T11:22:06.765Z,"15 km NW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-11T11:15:53.656Z,63.5367,-152.4706,7.9,1.5,ml,,,,0.71,ak,ak024d3iszrf,2024-10-11T14:14:20.585Z,"37 km W of Denali National Park, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -164,8 +164,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-11T03:19:40.000Z,37.2595,-113.29916666667,6.13,1.96,ml,20,66,0.08559,0.18,uu,uu80084336,2024-10-11T14:19:05.590Z,"1 km WNW of Toquerville, Utah",earthquake,0.36,0.99,0.10423267940745,7,reviewed,uu,uu
 2024-10-11T03:19:20.460Z,69.3252,-144.7407,0.1,2,ml,,,,0.42,ak,ak024d3e2bqm,2024-10-11T03:22:37.828Z,"99 km SSW of Kaktovik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-11T03:19:08.709Z,57.5717,-154.442,28.6,2.2,ml,,,,0.44,ak,ak024d3e2aty,2024-10-11T03:22:12.580Z,"0 km ENE of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-10-11T03:14:58.830Z,57.6772,-156.2618,23.9,2.4,ml,,,,0.9,ak,ak024d3e1c4b,2024-10-11T03:16:46.936Z,"70 km ENE of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-10-11T03:14:14.888Z,58.0469,-155.5991,4.8,1.2,ml,,,,0.85,ak,ak024d3e18q8,2024-10-11T03:15:31.680Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2024-10-11T03:14:58.830Z,57.6772,-156.2618,23.9,2.4,ml,,,,0.9,ak,ak024d3e1c4b,2024-10-11T22:31:04.780Z,"70 km ENE of Ugashik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2024-10-11T03:14:14.888Z,58.0469,-155.5991,4.8,1.2,ml,,,,0.85,ak,ak024d3e18q8,2024-10-11T22:22:51.850Z,"86 km NW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-11T03:10:50.567Z,36.7686,-116.1019,3,-0.2,ml,15,125.69,0.009,0.0767,nn,nn00885855,2024-10-11T13:26:32.551Z,"44 km WNW of Indian Springs, Nevada",earthquake,,1,0.17,6,reviewed,nn,nn
 2024-10-11T03:01:22.620Z,60.040333333333,-153.07633333333,0.84,-0.83,ml,6,91,0.01823,0.09,av,av93308998,2024-10-11T22:14:03.830Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.22,0.36,0.32078564308657,6,reviewed,av,av
 2024-10-11T03:01:01.160Z,34.285333333333,-82.105666666667,3.03,2.16,md,12,92,0.1376,0.38,se,se60502528,2024-10-11T20:59:31.292Z,"3 km NNW of Coronaca, South Carolina",earthquake,1.37,4.9,0.052123039280082,11,reviewed,se,se
@@ -215,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-10T22:52:55.791Z,63.4356,-149.9848,0,1.6,ml,,,,0.67,ak,ak024d221d3f,2024-10-10T22:55:11.649Z,"51 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-10T22:48:17.040Z,38.798999786377,-122.75849914551,4.4400000572205,0.49,md,9,90,0.001879,0.01,nc,nc75072826,2024-10-10T22:49:51.720Z,"2 km N of The Geysers, CA",earthquake,0.6,1.86000001,0.24,9,automatic,nc,nc
 2024-10-10T22:38:51.532Z,61.2886,-152.2402,1.4,1.6,ml,,,,0.44,ak,ak024d21ycqp,2024-10-11T19:42:32.440Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-10T22:23:20.912Z,-33.7555,-178.5458,10,4.6,mb,24,165,4.511,1.18,us,us6000nxz4,2024-10-10T23:32:56.040Z,"south of the Kermadec Islands",earthquake,10.09,1.95,0.141,15,reviewed,us,us
