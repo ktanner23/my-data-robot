@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-14T05:18:24.247Z,60.1937,-152.944,130.7,2,ml,,,,0.44,ak,ak024d8dv108,2024-10-14T05:20:37.812Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-14T05:15:41.080Z,33.8588333,-118.273,11.91,1.46,ml,33,58,0.01271,0.25,ci,ci40953872,2024-10-14T05:22:23.334Z,"3 km NNE of Carson, CA",earthquake,0.35,0.42,0.275,36,automatic,ci,ci
-2024-10-14T05:12:53.990Z,36.242832183838,-120.80283355713,6.6399998664856,0.95,md,7,151,0.0269,0.02,nc,nc75074111,2024-10-14T05:14:30.545Z,"23 km SW of New Idria, CA",earthquake,0.66,0.449999988,0.08,4,automatic,nc,nc
+2024-10-14T05:12:53.990Z,36.242832183838,-120.80283355713,6.6399998664856,0.95,md,7,151,0.0269,0.02,nc,nc75074111,2024-10-14T05:32:18.253Z,"23 km SW of New Idria, CA",earthquake,0.66,0.449999988,0.08,4,automatic,nc,nc
 2024-10-14T05:00:50.210Z,33.9941667,-116.3278333,7.93,1.01,ml,51,34,0.08585,0.15,ci,ci40953864,2024-10-14T05:07:19.234Z,"16 km S of Joshua Tree, CA",earthquake,0.15,0.44,0.15,25,automatic,ci,ci
 2024-10-14T04:58:17.430Z,35.7711667,-117.593,7.81,0.58,ml,23,125,0.04463,0.14,ci,ci40953856,2024-10-14T05:05:01.023Z,"17 km W of Searles Valley, CA",earthquake,0.22,0.52,0.104,7,automatic,ci,ci
 2024-10-14T04:56:11.840Z,33.2723333,-116.246,10.39,1.04,ml,61,24,0.07971,0.23,ci,ci40953848,2024-10-14T05:02:32.009Z,"12 km E of Borrego Springs, CA",earthquake,0.19,0.41,0.088,26,automatic,ci,ci
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T02:26:31.261Z,63.4129,-149.863,0,1.6,ml,,,,0.74,ak,ak024d8c4ggm,2024-10-14T02:28:25.917Z,"45 km W of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-14T02:20:56.654Z,63.4491,-149.9858,0,2,ml,,,,0.65,ak,ak024d8c384h,2024-10-14T02:23:11.601Z,"52 km W of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-14T02:18:23.470Z,19.272832870483,-155.41716003418,30.190000534058,3.15,ml,62,65,0.03975,0.140000001,hv,hv74499186,2024-10-14T05:14:04.294Z,"10 km NE of Pāhala, Hawaii",earthquake,0.33,0.439999998,0.29,48,automatic,hv,hv
-2024-10-14T02:07:21.230Z,36.4205,-89.523333333333,9.18,2.67,md,33,39,,0.11,nm,nm60592726,2024-10-14T03:12:24.449Z,"6 km NW of Tiptonville, Tennessee",earthquake,0.26,0.5,0.23906877259752,28,reviewed,nm,nm
+2024-10-14T02:07:21.230Z,36.4205,-89.523333333333,9.18,2.67,md,33,39,,0.11,nm,nm60592726,2024-10-14T05:33:03.491Z,"6 km NW of Tiptonville, Tennessee",earthquake,0.26,0.5,0.23906877259752,28,reviewed,nm,nm
 2024-10-14T01:41:07.183Z,37.3212,-117.6493,1.7,0.5,ml,9,173.32,0.088,0.2,nn,nn00885981,2024-10-14T01:43:31.377Z,"48 km S of Silver Peak, Nevada",earthquake,,10.6,0.4,7,automatic,nn,nn
 2024-10-14T01:07:33.020Z,38.832332611084,-122.82683563232,10.779999732971,0.94,md,8,97,0.009202,0.08,nc,nc75074051,2024-10-14T01:44:26.632Z,"9 km NNW of The Geysers, CA",earthquake,1.89,9.19999981,0.19,3,automatic,nc,nc
 2024-10-14T00:53:06.258Z,42.3952,45.0258,10,4,mb,22,80,0.456,0.41,us,us6000nyid,2024-10-14T01:05:57.040Z,"28 km E of Pasanauri, Georgia",earthquake,2.94,1.698,0.173,9,reviewed,us,us
@@ -82,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T18:39:19.430Z,34.279166666667,-82.137833333333,11.49,2.11,md,9,91,0.1108,0.18,se,se60502568,2024-10-13T19:36:01.612Z,"4 km WNW of Coronaca, South Carolina",earthquake,0.8,1.59,0.057579650351619,7,reviewed,se,se
 2024-10-13T18:37:08.691Z,60.4276,-150.8178,33.3,1.8,ml,,,,0.66,ak,ak024d6y6csl,2024-10-13T18:40:19.113Z,"8 km SSW of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-13T18:30:28.440Z,52.8025,-169.9285,9.06,0.97,ml,4,187,0.008971,0.05,av,av93315778,2024-10-13T18:48:14.220Z,"73 km WSW of Nikolski, Alaska",earthquake,1.05,0.73,0.30276145703441,4,reviewed,av,av
+2024-10-13T18:29:41.480Z,46.203333333333,-122.22466666667,-1.46,-0.11,mh,5,280,0.02375,0.07,uw,uw62054051,2024-10-14T05:32:51.340Z,"36 km NNE of Amboy, Washington",earthquake,0.61,8.98,,0,reviewed,uw,uw
 2024-10-13T18:27:18.180Z,52.805333333333,-169.90966666667,8.35,1.6,ml,5,124,0.01622,0.08,av,av93315773,2024-10-13T18:50:24.890Z,"72 km WSW of Nikolski, Alaska",earthquake,0.72,0.58,0.31872423676294,5,reviewed,av,av
 2024-10-13T18:19:42.190Z,34.9093323,-120.1240005,12.38,1.8,ml,6,184,0.1465,0.13,ci,ci40953648,2024-10-13T18:25:53.271Z,"23 km NE of Los Alamos, CA",earthquake,2.8,3.04,0.192,7,automatic,ci,ci
 2024-10-13T18:18:51.793Z,36.6421,-116.1108,2.9,-0.2,ml,11,207.47,0.022,0.0665,nn,nn00885985,2024-10-14T03:23:40.799Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1.8,0.16,3,reviewed,nn,nn
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-13T05:48:51.660Z,47.482,-122.7355,29.44,1.27,ml,39,41,0.1021,0.17,uw,uw62053946,2024-10-13T06:17:38.650Z,"5 km SSW of Gorst, Washington",earthquake,0.23,0.5,0.14161438419196,14,reviewed,uw,uw
 2024-10-13T05:44:30.120Z,19.336334228516,-155.32865905762,27.040000915527,1.88999999,md,37,61,0.02603,0.209999993,hv,hv74498216,2024-10-13T05:46:08.890Z,"15 km SW of Volcano, Hawaii",earthquake,0.52,0.600000024,0.209999993,3,automatic,hv,hv
 2024-10-13T05:41:49.410Z,19.303833007812,-155.37167358398,29.680000305176,2.03999996,md,49,102,0.03223,0.119999997,hv,hv74498206,2024-10-13T05:43:27.730Z,"15 km NE of Pāhala, Hawaii",earthquake,0.44,0.379999995,0.159999996,16,automatic,hv,hv
-2024-10-13T05:31:32.820Z,19.290166854858,-155.37567138672,29.680000305176,2.05,ml,60,109,0.04402,0.170000002,hv,hv74498201,2024-10-13T05:34:24.440Z,"14 km NE of Pāhala, Hawaii",earthquake,0.37,0.469999999,0.5,14,automatic,hv,hv
