@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-15T05:49:15.220Z,33.1705017,-116.416832,12.97,1.02,ml,28,61,0.09743,0.29,ci,ci40954392,2024-10-15T05:51:22.242Z,"10 km SSW of Borrego Springs, CA",earthquake,0.45,1.31,0.052,3,automatic,ci,ci
-2024-10-15T05:46:55.150Z,33.1618347,-116.4128342,12.37,1.69,ml,50,50,0.1061,0.21,ci,ci40954384,2024-10-15T05:49:20.231Z,"11 km SSW of Borrego Springs, CA",earthquake,0.28,0.92,0.206,23,automatic,ci,ci
-2024-10-15T05:46:11.510Z,33.1629982,-116.4110031,12.14,1.41,ml,42,50,0.105,0.19,ci,ci40954376,2024-10-15T05:48:18.982Z,"11 km SSW of Borrego Springs, CA",earthquake,0.29,0.83,0.207,7,automatic,ci,ci
-2024-10-15T05:45:51.210Z,33.1650009,-116.4016647,12.46,1.11,ml,24,162,0.1037,0.21,ci,ci40954368,2024-10-15T05:48:09.226Z,"10 km SSW of Borrego Springs, CA",earthquake,0.51,0.9,0.043,3,automatic,ci,ci
+2024-10-15T05:49:15.170Z,33.1631667,-116.4083333,12.37,0.84,ml,47,42,0.08923,0.19,ci,ci40954392,2024-10-15T05:58:15.519Z,"11 km SSW of Borrego Springs, CA",earthquake,0.21,0.57,0.171,14,automatic,ci,ci
+2024-10-15T05:46:55.170Z,33.1625,-116.4146667,12.5,1.53,ml,74,22,0.08723,0.19,ci,ci40954384,2024-10-15T05:57:41.960Z,"11 km SSW of Borrego Springs, CA",earthquake,0.14,0.44,0.19,28,automatic,ci,ci
+2024-10-15T05:46:11.490Z,33.1636667,-116.4118333,12.72,1.2,ml,62,29,0.08893,0.19,ci,ci40954376,2024-10-15T05:56:37.700Z,"11 km SSW of Borrego Springs, CA",earthquake,0.16,0.45,0.219,27,automatic,ci,ci
+2024-10-15T05:45:51.310Z,33.162,-116.4106667,12.27,0.95,ml,45,54,0.1061,0.17,ci,ci40954368,2024-10-15T05:52:59.253Z,"11 km SSW of Borrego Springs, CA",earthquake,0.18,0.54,0.151,20,automatic,ci,ci
 2024-10-15T05:29:16.330Z,38.837833404541,-122.83032989502,2.1300001144409,0.71,md,12,96,0.004098,0.01,nc,nc75074406,2024-10-15T05:30:52.414Z,"9 km NNW of The Geysers, CA",earthquake,0.32,0.839999974,0.33,13,automatic,nc,nc
 2024-10-15T05:25:15.078Z,36.8608,-115.9423,11.9,0.2,ml,16,187.45,0.063,0.1765,nn,nn00886043,2024-10-15T05:27:00.718Z,"40 km NW of Indian Springs, Nevada",earthquake,,1,0.28,11,automatic,nn,nn
 2024-10-15T05:20:29.510Z,35.870166778565,-120.44533538818,8.1400003433228,1.38,md,21,71,0.02801,0.11,nc,nc75074401,2024-10-15T05:22:07.584Z,"3 km SSW of Parkfield, CA",earthquake,0.44,0.579999983,0.2,10,automatic,nc,nc
 2024-10-15T05:18:17.030Z,35.6658333,-117.4775,7.26,0.72,ml,24,55,0.04381,0.13,ci,ci40954360,2024-10-15T05:24:35.089Z,"13 km SSW of Searles Valley, CA",earthquake,0.2,0.39,0.139,7,automatic,ci,ci
-2024-10-15T05:08:30.690Z,38.822166442871,-122.80266571045,2.420000076294,0.77,md,11,102,0.005916,0.04,nc,nc75074386,2024-10-15T05:34:30.575Z,"6 km NNW of The Geysers, CA",earthquake,0.4,0.730000019,0.09,12,automatic,nc,nc
+2024-10-15T05:08:30.690Z,38.822166442871,-122.80266571045,2.420000076294,0.77,md,11,102,0.005916,0.04,nc,nc75074386,2024-10-15T05:59:29.762Z,"6 km NNW of The Geysers, CA",earthquake,0.4,0.730000019,0.09,12,automatic,nc,nc
 2024-10-15T04:53:45.456Z,61.4208,-149.5269,33.1,1.9,ml,,,,0.25,ak,ak024da10hld,2024-10-15T04:55:09.793Z,"10 km SSE of Knik-Fairview, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-15T04:41:15.330Z,34.3895,-119.193,0.22,2.11,ml,44,74,0.0659,0.3,ci,ci40954352,2024-10-15T05:07:39.351Z,"8 km SE of Ojai, CA",earthquake,0.29,0.6,0.185,28,automatic,ci,ci
 2024-10-15T04:37:55.060Z,38.828998565674,-122.78199768066,5.4099998474121,0.72,md,7,95,0.009553,0.03,nc,nc75074381,2024-10-15T05:34:30.652Z,"5 km WNW of Cobb, CA",earthquake,1.53,3.3900001,0.26,8,automatic,nc,nc
@@ -67,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T21:30:15.480Z,48.086,-121.91766666667,-0.248898,1.37,ml,22,53,0.02983,0.25,uw,uw62054256,2024-10-14T21:50:53.580Z,"3 km E of Granite Falls, Washington",explosion,0.29,0.68,0.058060639553926,4,reviewed,uw,uw
 2024-10-14T21:24:45.358Z,1.7123,126.544,54.715,4.3,mb,30,146,1.245,0.82,us,us6000nypy,2024-10-14T22:00:45.040Z,"138 km NW of Ternate, Indonesia",earthquake,9.31,9.078,0.103,27,reviewed,us,us
 2024-10-14T21:24:28.920Z,20.099000930786,-155.91549682617,-0.27000001072884,2.63,ml,36,294,0.1327,0.379999995,hv,hv74500016,2024-10-14T21:34:07.040Z,"16 km NNW of Puako, Hawaii",earthquake,3.06,1.17999995,0.73,6,automatic,hv,hv
+2024-10-14T21:24:05.780Z,59.3575,-153.43666666667,-0.45,0.56,ml,10,105,0.006566,0.08,av,av93317058,2024-10-15T05:57:42.410Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.12,0.12,0.13204300622118,10,reviewed,av,av
 2024-10-14T21:05:51.583Z,38.3558,39.1839,5,4.3,mwr,46,117,0.991,0.8,us,us6000nypt,2024-10-14T21:26:15.390Z,"14 km ENE of Doğanyol, Turkey",earthquake,3.98,1.945,0.043,53,reviewed,us,us
 2024-10-14T21:03:29.799Z,61.514,-150.5382,73.4,1.7,ml,,,,0.99,ak,ak024d8nardf,2024-10-14T21:06:23.759Z,"3 km SSW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2024-10-14T20:59:08.050Z,34.48883333,-97.20166667,0,1.27,ml,55,130,0.2573494992,0.66,ok,ok2024ufyx,2024-10-14T21:42:53.451Z,"7 km WSW of Davis, Oklahoma",quarry blast,,0.8,0.22,23,reviewed,ok,ok
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-14T06:11:13.646Z,36.6149,-117.0687,4.8,0.9,ml,14,212.33,0.308,0.1321,nn,nn00885995,2024-10-14T15:12:14.133Z,"26 km NW of Furnace Creek, California",earthquake,,3.2,0.44,6,reviewed,nn,nn
 2024-10-14T06:09:17.329Z,53.188,-164.5327,25.5,2.7,ml,,,,0.45,ak,ak024d8eejyt,2024-10-14T07:39:39.613Z,"133 km SE of Akutan, Alaska",earthquake,,5.7,,,reviewed,ak,ak
 2024-10-14T06:03:43.150Z,61.456166666667,-151.89433333333,2.76,0.27,ml,5,147,0.05093,0.29,av,av93316308,2024-10-14T22:09:41.360Z,"55 km NW of Beluga, Alaska",earthquake,3.44,3.41,0.088745378889028,5,reviewed,av,av
-2024-10-14T05:59:24.990Z,41.676666666667,-111.666,9.48,0.97,md,21,59,0.1028,0.11,uu,uu80084486,2024-10-14T16:47:57.460Z,"13 km ESE of Providence, Utah",earthquake,0.27,0.74,0.14649207682571,16,reviewed,uu,uu
