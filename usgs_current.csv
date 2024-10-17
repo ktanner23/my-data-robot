@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T17:00:34.250Z,48.311833333333,-113.64083333333,3.99,1.66,ml,15,135,0.2685,0.15,mb,mb90063733,2024-10-17T17:37:58.750Z,"30 km ESE of Martin City, Montana",earthquake,0.6,2.2,0.27861734403898,11,reviewed,mb,mb
 2024-10-17T16:44:02.100Z,44.927,-124.79233333333,85.92,2.38,ml,15,173,0.4335,0.38,uw,uw62054911,2024-10-17T17:04:59.870Z,"59 km WNW of Depoe Bay, Oregon",earthquake,3.29,6.75,0.29616398270365,3,reviewed,uw,uw
 2024-10-17T16:38:14.800Z,62.5086,-149.7747,8.6,1.4,ml,,,,0.78,ak,ak024ddj53qg,2024-10-17T16:40:10.220Z,"18 km ENE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-10-17T16:37:14.354Z,56.6363,-154.4724,47.5,3.1,ml,,,,0.78,ak,ak024ddj4vz1,2024-10-17T16:39:57.592Z,"39 km SSW of Akhiok, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-10-17T16:37:14.354Z,56.6363,-154.4724,47.5,3.1,ml,,,,0.78,ak,ak024ddj4vz1,2024-10-17T19:04:32.040Z,"39 km SSW of Akhiok, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-17T16:33:52.966Z,-56.3494,-27.1279,93.774,5,mb,55,85,5.731,0.95,us,us6000nzds,2024-10-17T17:11:22.040Z,"South Sandwich Islands region",earthquake,11.78,6.085,0.079,51,reviewed,us,us
 2024-10-17T16:23:54.813Z,-19.1065,169.3482,261.897,4.3,mb,21,165,3.916,0.89,us,us6000nzd3,2024-10-17T18:59:06.040Z,"48 km N of Isangel, Vanuatu",earthquake,14.71,10.493,0.13,17,reviewed,us,us
 2024-10-17T16:19:04.970Z,38.821334838867,-122.79816436768,1.7799999713898,1.02,md,18,53,0.009528,0.02,nc,nc75075506,2024-10-17T16:20:40.437Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.469999999,0.2,19,automatic,nc,nc
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-17T04:50:38.032Z,59.9394,-141.1875,15.8,1.9,ml,,,,0.83,ak,ak024ddc2iuz,2024-10-17T04:52:35.038Z,"93 km WNW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-10-17T04:49:00.822Z,32.407,-102.064,8.4229,1.4,ml,15,86,0,0.1,tx,tx2024ukfm,2024-10-17T12:16:39.988Z,"35 km WSW of Ackerly, Texas",earthquake,0.69775007562677,0.82963710211096,0.1,25,reviewed,tx,tx
 2024-10-17T04:43:16.410Z,33.9328333,-116.8141667,6.89,1.62,ml,80,30,0.03143,0.16,ci,ci40955320,2024-10-17T04:53:42.110Z,"3 km NW of Cabazon, CA",earthquake,0.12,0.32,0.177,26,automatic,ci,ci
-2024-10-17T04:40:41.460Z,36.127,-117.9193333,5.51,1.05,ml,21,49,0.05304,0.16,ci,ci40955312,2024-10-17T04:47:07.579Z,"10 km NNE of Coso Junction, CA",earthquake,0.24,0.6,0.223,15,automatic,ci,ci
+2024-10-17T04:40:41.450Z,36.1256667,-117.9205,5.74,1.05,ml,22,49,0.05375,0.13,ci,ci40955312,2024-10-17T19:07:09.948Z,"9 km NNE of Coso Junction, CA",earthquake,0.18,0.46,0.21,15,reviewed,ci,ci
 2024-10-17T04:36:18.590Z,18.142,-66.721166666667,21.02,2.04,md,15,91,0.1119,0.23,pr,pr71462763,2024-10-17T04:49:50.560Z,"2 km S of Adjuntas, Puerto Rico",earthquake,0.47,0.94,0.18613254517795,5,reviewed,pr,pr
 2024-10-17T04:34:00.790Z,38.774166107178,-122.73950195312,0.54000002145767,1.39,md,22,89,0.009314,0.04,nc,nc75075291,2024-10-17T04:35:38.017Z,"2 km ESE of The Geysers, CA",earthquake,0.21,0.330000013,0.13,24,automatic,nc,nc
 2024-10-17T04:31:25.579Z,-16.9382,-70.0447,183.367,4.2,mb,22,122,0.843,0.48,us,us6000nz90,2024-10-17T05:15:56.040Z,"38 km N of Chuquitira, Peru",earthquake,4.09,8.045,0.235,5,reviewed,us,us
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T19:16:39.100Z,19.264833450317,-155.3621673584,31.840000152588,2,md,37,158,0.04305,0.150000006,hv,hv74501466,2024-10-16T19:18:23.180Z,"14 km ENE of Pāhala, Hawaii",earthquake,0.59,0.660000026,0.25999999,5,automatic,hv,hv
 2024-10-16T19:16:20.090Z,33.8676667,-117.5,-0.51,1.12,ml,39,47,0.05144,0.2,ci,ci40955144,2024-10-16T20:00:40.904Z,"2 km ESE of Home Gardens, CA",quarry blast,0.36,31.61,0.192,12,reviewed,ci,ci
 2024-10-16T19:16:02.140Z,38.80583190918,-122.82583618164,3.5,0.74,md,11,131,0.004001,0.03,nc,nc75075126,2024-10-16T19:17:35.973Z,"7 km NW of The Geysers, CA",earthquake,0.58,0.959999979,0.46,13,automatic,nc,nc
-2024-10-16T19:04:47.830Z,46.013166666667,-112.45533333333,-2,1.58,ml,7,88,0.07066,0.1,mb,mb90063698,2024-10-17T14:09:36.040Z,"6 km E of Butte, Montana",quarry blast,0.52,31.61,0.25485346358313,13,reviewed,mb,mb
