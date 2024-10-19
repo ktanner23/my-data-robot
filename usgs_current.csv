@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-19T16:01:52.940Z,34.7948333,-116.6208333,10.21,1.09,ml,21,65,0.05371,0.15,ci,ci40956800,2024-10-19T16:08:05.044Z,"38 km ESE of Barstow, CA",earthquake,0.22,0.38,0.21,10,automatic,ci,ci
+2024-10-19T16:01:52.940Z,34.7948333,-116.6208333,10.21,1.09,ml,21,65,0.05371,0.15,ci,ci40956800,2024-10-19T16:19:45.454Z,"38 km ESE of Barstow, CA",earthquake,0.22,0.38,0.21,10,automatic,ci,ci
+2024-10-19T15:36:20.602Z,5.2966,94.2601,57.732,4.7,mb,39,169,2.677,0.81,us,us6000nzrf,2024-10-19T16:12:41.040Z,"121 km WSW of Banda Aceh, Indonesia",earthquake,10.2,8.235,0.097,32,reviewed,us,us
 2024-10-19T15:30:11.576Z,63.3582,-145.1344,11.2,1.4,ml,,,,0.52,ak,ak024dgtkn51,2024-10-19T15:32:12.343Z,"38 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-19T15:29:24.126Z,-23.9434,-67.4746,284.274,4.5,mb,28,91,2.288,0.44,us,us6000nzrd,2024-10-19T16:05:41.040Z,"121 km WNW of San Antonio de los Cobres, Argentina",earthquake,12.45,12.772,0.156,12,reviewed,us,us
 2024-10-19T15:18:01.140Z,33.8855,-116.6315,16.45,2.16,ml,89,27,0.06722,0.17,ci,ci40956776,2024-10-19T15:29:35.965Z,"8 km WSW of Garnet, CA",earthquake,0.11,0.31,0.244,26,automatic,ci,ci
@@ -73,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-19T04:09:43.035Z,63.2906,-150.0341,89,1.6,ml,,,,0.45,ak,ak024dgmwfvj,2024-10-19T04:11:38.581Z,"55 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-19T04:07:50.360Z,38.793334960938,-122.76950073242,3.0899999141693,0.32,md,8,173,0.01439,0.02,nc,nc75076021,2024-10-19T04:32:14.558Z,"2 km NNW of The Geysers, CA",earthquake,0.66,0.75999999,0.11,9,automatic,nc,nc
 2024-10-19T04:05:01.550Z,38.825832366943,-122.85483551025,1.9199999570847,0.77,md,9,113,0.01976,0.02,nc,nc75076016,2024-10-19T04:22:16.496Z,"10 km NW of The Geysers, CA",earthquake,0.45,0.680000007,0.26,10,automatic,nc,nc
+2024-10-19T03:54:37.840Z,35.809166666667,-91.910166666667,2.66,1.9,md,9,116,0.1915,0.12,nm,nm60502608,2024-10-19T16:25:00.150Z,"13 km SSE of Guion, Arkansas",earthquake,0.29,6,0.072262963674045,8,reviewed,nm,nm
 2024-10-19T03:24:08.850Z,38.8125,-122.81316375732,3.2599999904633,0.89,md,9,77,0.01303,0.02,nc,nc75076006,2024-10-19T03:52:14.293Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.05999994,0.18,10,automatic,nc,nc
 2024-10-19T02:32:29.930Z,35.704498291016,-120.25166320801,8.4700002670288,1.49,md,10,108,0.02614,0.02,nc,nc75075986,2024-10-19T02:52:17.859Z,"4 km SE of Cholame, CA",earthquake,0.45,0.660000026,0.23,5,automatic,nc,nc
 2024-10-19T02:25:54.691Z,60.0363,-152.89,96,1.1,ml,,,,0.25,ak,ak024dglt10t,2024-10-19T02:27:32.867Z,"65 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -153,5 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-18T16:34:31.570Z,33.64,-116.6948333,13.9,1.35,ml,22,54,0.03374,0.12,ci,ci37686220,2024-10-18T22:22:50.218Z,"10 km NNW of Anza, CA",earthquake,0.23,0.4,0.122,13,reviewed,ci,ci
 2024-10-18T16:34:29.150Z,33.6346667,-116.7018333,13.92,1.33,ml,40,45,0.04138,0.13,ci,ci40956160,2024-10-18T22:15:32.180Z,"9 km NNW of Anza, CA",earthquake,0.17,0.26,0.145,21,reviewed,ci,ci
 2024-10-18T16:34:19.853Z,31.756,-104.22,7.1252,1.7,ml,33,47,0,0.2,tx,tx2024umyf,2024-10-18T17:01:31.812Z,"48 km SSE of Whites City, New Mexico",earthquake,0.63747068133607,0.82476299571323,0.2,25,reviewed,tx,tx
-2024-10-18T16:14:37.080Z,19.303,-155.3455,29.09,1.59,md,38,118,0.03653,0.11,hv,hv74503131,2024-10-18T20:57:15.590Z,"17 km NE of Pāhala, Hawaii",earthquake,0.63,0.48,0.16748053396782,9,reviewed,hv,hv
-2024-10-18T16:13:05.820Z,35.9695,-117.7533333,10.98,0.09,ml,3,184,0.08626,0.17,ci,ci40956136,2024-10-19T01:03:39.328Z,"14 km ENE of Little Lake, CA",earthquake,14.17,31.61,0.021,1,reviewed,ci,ci
