@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-21T23:24:13.160Z,19.185667037964,-155.48466491699,31.180000305176,2.21000004,md,32,122,0.03688,0.129999995,hv,hv74506626,2024-10-21T23:25:59.640Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.69,0.699999988,0.540000021,5,automatic,hv,hv
-2024-10-21T23:24:10.520Z,34.036499,-116.8789978,17.66,1.1,ml,14,195,0.05916,0.45,ci,ci40959624,2024-10-21T23:26:24.414Z,"12 km N of Banning, CA",earthquake,1.7,2.69,0.235,6,automatic,ci,ci
+2024-10-21T23:24:10.140Z,34.0556667,-116.9311667,18.31,0.95,ml,7,271,0.1045,0.14,ci,ci40959624,2024-10-21T23:36:25.403Z,"11 km ENE of Yucaipa, CA",earthquake,1.21,1.33,0.211,28,automatic,ci,ci
 2024-10-21T23:14:26.360Z,35.6728333,-117.5345,9.13,0.64,ml,19,98,0.09054,0.15,ci,ci40959616,2024-10-21T23:22:28.559Z,"14 km ENE of Ridgecrest, CA",earthquake,0.3,0.73,0.116,7,automatic,ci,ci
 2024-10-21T22:57:54.300Z,38.592834472656,-122.78649902344,7.7199997901917,1.58,md,33,45,0.06741,0.11,nc,nc75077096,2024-10-21T22:59:31.194Z,"6 km NE of Windsor, CA",earthquake,0.22,0.709999979,0.12,18,automatic,nc,nc
 2024-10-21T22:57:21.615Z,59.5905,-153.0165,105.9,1.6,ml,,,,0.27,ak,ak024dk8z6gx,2024-10-21T22:59:32.266Z,"65 km ESE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T12:20:40.273Z,62.0819,-144.0599,41.4,1.5,ml,,,,0.98,ak,ak024dk2sydj,2024-10-21T12:22:43.372Z,"61 km NE of Kenny Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-21T12:18:06.103Z,37.4243,-117.0064,6,0.9,ml,18,145.11,0.237,0.1305,nn,nn00886329,2024-10-21T18:54:46.001Z,"37 km SSE of Goldfield, Nevada",earthquake,,4.1,0.32,7,reviewed,nn,nn
 2024-10-21T11:58:22.680Z,38.787334442139,-122.83567047119,1.5099999904633,1.28,md,23,99,0.006017,0.03,nc,nc75076806,2024-10-21T12:17:18.309Z,"7 km WNW of The Geysers, CA",earthquake,0.25,0.310000002,0.14,23,automatic,nc,nc
+2024-10-21T11:46:14.449Z,37.4001,-114.4961,2.5,1.2,ml,9,140.59,0.441,0.103,nn,nn00886365,2024-10-21T23:33:23.784Z,"23 km S of Caliente, Nevada",earthquake,,3.9,0.47,6,reviewed,nn,nn
 2024-10-21T11:42:27.170Z,17.979166666667,-66.997666666667,5.79,2.25,md,7,167,0.04536,0.07,pr,pr71463143,2024-10-21T12:04:33.950Z,"5 km E of La Parguera, Puerto Rico",earthquake,0.46,0.52,0.022690077004269,5,reviewed,pr,pr
 2024-10-21T11:39:53.770Z,44.336166666667,-115.186,5.37,1.91,ml,15,70,0.3353,0.27,mb,mb90063883,2024-10-21T14:36:42.300Z,"23 km WNW of Stanley, Idaho",earthquake,0.61,1.43,0.16509961778623,24,reviewed,mb,mb
 2024-10-21T11:18:47.730Z,37.85933303833,-122.24016571045,9.289999961853,0.99,md,12,106,0.01725,0.03,nc,nc75076801,2024-10-21T11:37:13.997Z,"3 km SE of Berkeley, CA",earthquake,0.41,0.620000005,0.17,9,automatic,nc,nc
@@ -203,4 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-21T00:05:24.773Z,62.4335,-151.2653,89.6,1.2,ml,,,,0.08,ak,ak024djvki65,2024-10-21T00:08:05.513Z,"26 km WSW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-10-20T23:52:06.710Z,33.6911667,-116.707,17.28,0.79,ml,36,62,0.02082,0.15,ci,ci40958120,2024-10-21T13:28:59.950Z,"6 km SSE of Idyllwild, CA",earthquake,0.23,0.32,0.206,25,reviewed,ci,ci
 2024-10-20T23:49:19.910Z,38.794666666667,-122.76616666667,3.96,0.14,md,24,69,0.0078,0.03,nc,nc75076586,2024-10-21T04:54:28.266Z,"2 km NNW of The Geysers, CA",earthquake,0.24,0.37,0.22,17,reviewed,nc,nc
-2024-10-20T23:34:21.342Z,62.6138,-150.5302,16.9,1.6,ml,,,,1.19,ak,ak024dilwc3a,2024-10-20T23:36:22.777Z,"17 km NE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
