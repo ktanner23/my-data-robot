@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-22T21:21:14.530Z,38.785167694092,-122.76616668701,2.9500000476837,1.07,md,21,78,0.01443,0.03,nc,nc75077461,2024-10-22T21:22:51.836Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.550000012,0.06,21,automatic,nc,nc
+2024-10-22T21:21:14.530Z,38.785167694092,-122.76616668701,2.9500000476837,1.07,md,21,78,0.01443,0.03,nc,nc75077461,2024-10-22T21:37:14.778Z,"1 km NNW of The Geysers, CA",earthquake,0.28,0.550000012,0.06,21,automatic,nc,nc
 2024-10-22T20:57:42.310Z,61.5505,-151.2777,15.8,1.7,ml,,,,0.71,ak,ak024dlvbpcn,2024-10-22T20:59:55.614Z,"40 km W of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-22T20:45:14.110Z,33.49,-116.923,5.07,0.55,ml,19,64,0.01268,0.1,ci,ci40960944,2024-10-22T20:51:40.916Z,"8 km NW of Aguanga, CA",earthquake,0.16,0.39,0.143,13,automatic,ci,ci
 2024-10-22T20:12:44.125Z,2.7403,-84.2952,10,4.4,mb,38,179,5.631,0.98,us,us7000nmhi,2024-10-22T20:59:19.040Z,"off the coast of Central America",earthquake,11.28,1.955,0.13,17,reviewed,us,us
@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T19:06:54.520Z,38.832164764404,-122.87750244141,3.0099999904633,0.53,md,8,145,0.007628,0.01,nc,nc75077411,2024-10-22T19:22:16.786Z,"12 km NW of The Geysers, CA",earthquake,0.88,0.639999986,0.4,9,automatic,nc,nc
 2024-10-22T18:50:41.370Z,36.5963333,-117.0903333,2.3,2.07,ml,14,203,0.4563,0.15,ci,ci40960744,2024-10-22T20:14:16.654Z,"5 km E of Stovepipe Wells, CA",earthquake,0.59,1.41,0.145,16,automatic,ci,ci
 2024-10-22T18:48:38.760Z,46.807833333333,-116.1745,8.53,1.59,ml,12,118,0.2516,0.11,mb,mb90064113,2024-10-22T19:36:50.740Z,"2 km N of Elk River, Idaho",earthquake,0.45,1.06,0.18453312693219,12,reviewed,mb,mb
+2024-10-22T18:35:06.290Z,46.7165,-122.5365,-0.22,1.63,ml,10,106,0.123,0.27,uw,uw62056016,2024-10-22T21:35:58.980Z,"20 km NE of Onalaska, Washington",explosion,1.1,31.61,0.083792721305973,5,reviewed,uw,uw
 2024-10-22T18:29:03.604Z,36.6058,-117.1058,6.8,1,ml,11,144.02,0.158,0.1225,nn,nn00886402,2024-10-22T20:29:37.334Z,"28 km NW of Furnace Creek, California",earthquake,,3,0.3,3,reviewed,nn,nn
 2024-10-22T18:24:23.820Z,19.364166259766,-155.11000061035,0.62000000476837,1.98,ml,13,215,0.02131,0.360000014,hv,hv74508041,2024-10-22T18:27:21.540Z,"11 km SSE of Fern Forest, Hawaii",earthquake,0.73,0.699999988,2.54,4,automatic,hv,hv
 2024-10-22T18:12:01.070Z,34.5945015,-118.6413345,6.01,1.09,ml,18,89,0.07065,0.14,ci,ci40960680,2024-10-22T18:18:14.278Z,"12 km N of Castaic, CA",earthquake,0.52,1.23,0.147,2,automatic,ci,ci
@@ -52,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
 2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
 2024-10-22T14:02:46.030Z,35.072,-119.0953333,12.33,1.37,ml,32,95,0.01638,0.27,ci,ci40960304,2024-10-22T14:09:07.336Z,"21 km NW of Grapevine, CA",earthquake,0.4,0.73,0.221,30,automatic,ci,ci
-2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"western Texas",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
+2024-10-22T13:50:19.236Z,31.632,-104.457,4.2738,1.7,ml,16,106,0,0.6,tx,tx2024uuau,2024-10-22T13:59:17.337Z,"60 km S of Whites City, New Mexico",earthquake,0,1.531643986702,0.1,12,automatic,tx,tx
 2024-10-22T13:44:47.600Z,35.0763333,-119.0875,12.36,2.07,ml,51,95,0.01795,0.22,ci,ci40960264,2024-10-22T14:00:59.432Z,"21 km NW of Grapevine, CA",earthquake,0.22,0.67,0.177,26,automatic,ci,ci
 2024-10-22T13:43:40.160Z,35.0753333,-119.0926667,11.86,1.31,ml,28,113,0.01821,0.19,ci,ci40960256,2024-10-22T13:58:10.057Z,"21 km NW of Grapevine, CA",earthquake,0.27,0.76,0.29,27,automatic,ci,ci
 2024-10-22T13:42:54.230Z,35.0751667,-119.0886667,12.15,1.37,ml,32,102,0.017,0.17,ci,ci40960248,2024-10-22T13:56:50.765Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.62,0.254,30,automatic,ci,ci
@@ -60,6 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T13:28:17.260Z,19.237166666667,-155.4085,29.17,1.32,md,11,190,0.0104,0.13,hv,hv74507586,2024-10-22T21:18:18.170Z,"8 km ENE of Pāhala, Hawaii",earthquake,1.08,0.9,0.061523451958424,6,reviewed,hv,hv
 2024-10-22T13:23:23.687Z,64.53,-149.3985,10.6,1.1,ml,,,,0.99,ak,ak024dlqycc0,2024-10-22T13:25:05.377Z,"14 km WSW of Nenana, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-22T13:21:16.290Z,35.0778333,-119.0855,12.5,1.64,ml,44,41,0.01924,0.2,ci,ci40960232,2024-10-22T13:34:41.668Z,"21 km NW of Grapevine, CA",earthquake,0.23,0.51,0.135,27,automatic,ci,ci
+2024-10-22T13:15:12.890Z,19.377666666667,-155.2365,3.02,1.2,md,14,122,0.005627,0.11,hv,hv74507561,2024-10-22T21:36:29.850Z,"7 km S of Volcano, Hawaii",earthquake,0.42,0.44,0.013914116450699,2,reviewed,hv,hv
 2024-10-22T12:48:54.037Z,-1.0635,127.374,10,4.9,mb,86,80,1.823,0.52,us,us7000nmeb,2024-10-22T13:36:14.040Z,"49 km SSW of Labuha, Indonesia",earthquake,6.78,1.852,0.07,67,reviewed,us,us
 2024-10-22T12:43:52.670Z,-7.861,108.3777,89.798,4.9,mb,63,28,0.823,0.79,us,us7000nmea,2024-10-22T21:07:24.322Z,"56 km SSE of Kawalu, Indonesia",earthquake,6.92,6.37,0.082,47,reviewed,us,us
 2024-10-22T12:37:48.700Z,39.726833333333,-110.80716666667,-3.46,0.94,md,7,187,0.05005,0.26,uu,uu80084851,2024-10-22T14:06:22.980Z,"4 km N of Kenilworth, Utah",earthquake,1.28,1.68,0.19388863878824,7,reviewed,uu,uu
