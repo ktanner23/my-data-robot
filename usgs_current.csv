@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-23T14:08:37.470Z,38.794998168945,-122.84533691406,2.1300001144409,1.07,md,13,121,0.008223,0.02,nc,nc75077696,2024-10-23T14:10:12.406Z,"8 km WNW of The Geysers, CA",earthquake,0.3,0.49000001,0.2,15,automatic,nc,nc
+2024-10-23T14:06:14.120Z,38.687999725342,-122.49800109863,6.6199998855591,1.73,md,11,67,0.06956,0.06,nc,nc75077691,2024-10-23T14:07:52.397Z,"12 km SE of Middletown, CA",earthquake,0.29,1.07000005,0.12,13,automatic,nc,nc
+2024-10-23T14:03:43.202Z,59.7765,-153.5231,124.8,2,ml,,,,0.15,ak,ak024dneyvm8,2024-10-23T14:05:11.835Z,"32 km E of Pedro Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-10-23T13:56:40.290Z,38.778667449951,-122.7174987793,1.3099999427795,1.96,md,36,47,0.0157,0.09,nc,nc75077686,2024-10-23T14:00:02.120Z,"2 km WNW of Anderson Springs, CA",earthquake,0.22,0.330000013,0.13,36,automatic,nc,nc
 2024-10-23T13:37:30.191Z,60.6295,-151.8701,78.1,2.8,ml,,,,0.31,ak,ak024dnekpd7,2024-10-23T13:39:12.356Z,"30 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-23T13:32:24.509Z,36.7329,-116.0772,0.9,0.7,ml,17,77.04,0.036,0.2526,nn,nn00886438,2024-10-23T13:34:28.654Z,"40 km WNW of Indian Springs, Nevada",earthquake,,1.6,0.47,11,automatic,nn,nn
@@ -70,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-23T06:05:14.093Z,-40.9535,-91.4091,10,5,mb,72,148,13.739,1.04,us,us7000nmk2,2024-10-23T06:43:15.040Z,"West Chile Rise",earthquake,12.9,1.884,0.052,116,reviewed,us,us
 2024-10-23T06:04:29.291Z,31.682,-104.094,6.3434,1.9,ml,41,44,0,0.2,tx,tx2024uvgy,2024-10-23T11:12:41.772Z,"46 km W of Mentone, Texas",earthquake,0.38302203776685,0.43453985548756,0.2,32,reviewed,tx,tx
 2024-10-23T06:01:15.740Z,38.797832489014,-122.75233459473,2.210000038147,1.07,md,13,95,0.006404,0.02,nc,nc75077596,2024-10-23T06:37:14.647Z,"2 km NNE of The Geysers, CA",earthquake,0.31,0.670000017,0.19,13,automatic,nc,nc
+2024-10-23T05:36:48.940Z,44.795166666667,-111.54383333333,13.99,1.38,ml,21,88,0.08846,0.16,mb,mb90064183,2024-10-23T14:09:03.030Z,"28 km W of Hebgen Lake Estates, Montana",earthquake,0.34,0.59,0.20425474482417,29,reviewed,mb,mb
 2024-10-23T05:31:50.320Z,18.222666666667,-67.222333333333,101.42,3.18,md,15,230,0.07986,0.25,pr,pr71463238,2024-10-23T05:57:17.900Z,"8 km SSW of La Playa, Puerto Rico",earthquake,1.65,0.97,0.12724648024464,6,reviewed,pr,pr
 2024-10-23T05:21:41.027Z,59.6189,-152.795,78.1,1.8,ml,,,,0.33,ak,ak024dn9ptw6,2024-10-23T05:23:20.182Z,"57 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-23T05:21:26.090Z,44.658333333333,-112.56733333333,12.5,2.31,ml,17,70,0.06844,0.17,mb,mb90064173,2024-10-23T13:55:08.560Z,"3 km NE of Lima, Montana",earthquake,0.35,0.7,0.22642470705635,51,reviewed,mb,mb
@@ -218,7 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-22T14:34:20.570Z,46.892,-112.52733333333,10.97,0.92,ml,9,125,0.05835,0.04,mb,mb90064093,2024-10-22T15:14:21.940Z,"13 km ESE of Lincoln, Montana",earthquake,0.33,0.49,0.22723826265849,10,reviewed,mb,mb
 2024-10-22T14:31:46.310Z,45.713166666667,-112.928,5.02,0.89,ml,4,154,0.238,0.05,mb,mb90064088,2024-10-22T15:08:05.190Z,"42 km ENE of Wisdom, Montana",earthquake,0.41,6.45,0.2250400459993,8,reviewed,mb,mb
 2024-10-22T14:21:18.613Z,38.5251,-119.5114,5.1,2.1,ml,16,121.66,0.185,0.1147,nn,nn00886388,2024-10-22T16:06:08.238Z,"3 km WNW of Walker, California",earthquake,,1.6,0.24,6,reviewed,nn,nn
-2024-10-22T14:13:10.340Z,35.0453333,-117.661,0.85,0.95,ml,29,46,0.1144,0.14,ci,ci40960320,2024-10-22T14:54:36.638Z,"5 km NNW of Boron, CA",earthquake,0.2,0.33,0.123,10,reviewed,ci,ci
-2024-10-22T14:11:31.340Z,46.846666666667,-121.767,0.25,0.28,ml,18,65,0.0183,0.07,uw,uw62055966,2024-10-22T16:44:24.390Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.51,0.16610424784355,7,reviewed,uw,uw
-2024-10-22T14:11:11.530Z,44.752166666667,-110.9065,7.58,0.15,md,12,97,0.05384,0.13,uu,uu80084856,2024-10-22T15:47:32.730Z,"18 km ENE of West Yellowstone, Montana",earthquake,0.31,0.87,0.1326985195266,8,reviewed,uu,uu
-2024-10-22T14:09:32.850Z,19.142166137695,-155.2799987793,39.340000152588,1.77999997,md,16,267,0.146,0.230000004,hv,hv74507656,2024-10-22T14:11:00.470Z,"21 km ESE of Pāhala, Hawaii",earthquake,1.8,1.32000005,0.899999976,3,automatic,hv,hv
