@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-25T16:36:44.090Z,38.828498840332,-122.78583526611,0.88999998569489,0.57,md,8,99,0.0105,0.01,nc,nc75078676,2024-10-25T16:38:18.996Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.99000001,0.29,9,automatic,nc,nc
+2024-10-25T16:36:44.090Z,38.828498840332,-122.78583526611,0.88999998569489,0.57,md,8,99,0.0105,0.01,nc,nc75078676,2024-10-25T16:57:16.628Z,"5 km WNW of Cobb, CA",earthquake,0.36,0.99000001,0.29,9,automatic,nc,nc
 2024-10-25T16:32:21.772Z,63.3029,-151.0191,2.6,2.5,ml,,,,0.8,ak,ak024dqrelxd,2024-10-25T16:51:08.040Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-25T16:29:14.720Z,38.812999725342,-122.81349945068,2.8499999046326,0.78,md,11,90,0.01072,0.01,nc,nc75078666,2024-10-25T16:47:18.557Z,"6 km NW of The Geysers, CA",earthquake,0.42,0.779999971,0.2,10,automatic,nc,nc
 2024-10-25T16:10:13.410Z,19.379999160767,-155.23567199707,0.17000000178814,2.04,ml,18,111,0.007915,0.150000006,hv,hv74512667,2024-10-25T16:13:07.110Z,"6 km S of Volcano, Hawaii",earthquake,0.26,0.150000006,0.31,19,automatic,hv,hv
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T15:04:23.380Z,36.5518341,-117.0478363,1.46,4.27,mlr,32,147,0.5118,0.2,ci,ci40964384,2024-10-25T16:14:50.841Z,"11 km ESE of Stovepipe Wells, CA",earthquake,0.4,1.23,0.224,17,reviewed,ci,ci
 2024-10-25T14:56:30.940Z,38.787498474121,-122.76750183106,1.3600000143051,1.28,md,22,79,0.01445,0.03,nc,nc75078626,2024-10-25T15:17:15.941Z,"1 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.19,24,automatic,nc,nc
 2024-10-25T14:52:19.926Z,36.5918,-117.094,6,2.6,ml,19,133.28,0.325,0.1987,nn,nn00886730,2024-10-25T14:54:25.251Z,"26 km NW of Furnace Creek, California",earthquake,,1.1,0.27,13,automatic,nn,nn
-2024-10-25T14:46:22.315Z,13.9643,-92.7139,10,5.8,mww,93,137,1.615,1.84,us,us7000nn6t,2024-10-25T16:50:06.389Z,"82 km SW of Brisas Barra de Suchiate, Mexico",earthquake,7.09,1.888,0.052,35,reviewed,us,us
+2024-10-25T14:46:22.315Z,13.9643,-92.7139,10,5.8,mww,93,137,1.615,1.84,us,us7000nn6t,2024-10-25T16:59:50.137Z,"82 km SW of Brisas Barra de Suchiate, Mexico",earthquake,7.09,1.888,0.052,35,reviewed,us,us
 2024-10-25T14:39:17.109Z,65.9716,-148.9505,13.3,1.6,ml,,,,0.36,ak,ak024dqq98da,2024-10-25T14:40:46.499Z,"7 km ESE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-25T14:35:25.250Z,19.2025,-66.9925,40,3.71,md,23,212,0.7445,0.51,pr,pr2024299001,2024-10-25T15:18:55.937Z,"77 km N of Isabela, Puerto Rico",earthquake,2.11,9.98,0.13,15,reviewed,pr,pr
 2024-10-25T14:25:57.220Z,19.387500762939,-155.23300170898,0.47999998927116,1.79,ml,22,85,0.01561,0.330000013,hv,hv74512557,2024-10-25T14:28:50.760Z,"6 km S of Volcano, Hawaii",earthquake,0.34,0.370000005,0.99,9,automatic,hv,hv
@@ -129,6 +129,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T01:42:39.649Z,63.2457,-150.5321,116.6,1.7,ml,,,,0.34,ak,ak024dqijae4,2024-10-25T01:44:47.134Z,"68 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-10-25T01:42:01.900Z,33.829,-117.8288333,3.11,1.63,ml,26,102,0.03283,0.23,ci,ci40963888,2024-10-25T01:59:22.086Z,"2 km NW of Villa Park, CA",earthquake,0.41,0.4,0.175,30,automatic,ci,ci
 2024-10-25T01:39:58.550Z,35.6206667,-117.47,9.66,0.48,ml,20,61,0.03468,0.15,ci,ci40963880,2024-10-25T01:50:28.324Z,"17 km SSW of Searles Valley, CA",earthquake,0.31,0.47,0.256,5,automatic,ci,ci
+2024-10-25T00:51:11.260Z,46.604166666667,-119.81433333333,9.92,0.13,ml,6,224,0.03612,0.07,uw,uw62056846,2024-10-25T16:55:42.450Z,"11 km SE of Desert Aire, Washington",earthquake,0.57,0.98,0.13870189168096,4,reviewed,uw,uw
+2024-10-25T00:43:15.750Z,44.1335,-122.738,-0.58,1.08,ml,7,133,0.164,0.21,uw,uw62056841,2024-10-25T17:00:19.810Z,"20 km N of Unity, Oregon",explosion,0.55,31.61,0.12503639359974,6,reviewed,uw,uw
 2024-10-25T00:10:22.460Z,33.0151667,-116.3608333,5.58,0.53,ml,25,68,0.06018,0.16,ci,ci40963848,2024-10-25T00:16:08.877Z,"24 km ESE of Julian, CA",earthquake,0.23,0.76,0.036,7,automatic,ci,ci
 2024-10-25T00:00:31.680Z,-5.294,151.7037,56.39,5.1,mb,78,32,1.188,0.58,us,us7000nn1g,2024-10-25T02:55:52.040Z,"122 km SSW of Kokopo, Papua New Guinea",earthquake,9.24,3.793,0.053,113,reviewed,us,us
 2024-10-24T23:57:57.926Z,36.6046,-117.0444,3.3,1.5,ml,13,91.48,0.287,0.1108,nn,nn00886559,2024-10-25T00:15:24.385Z,"24 km NW of Furnace Creek, California",earthquake,,14.8,0.46,4,reviewed,nn,nn
@@ -216,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-24T17:19:04.870Z,38.832164764404,-122.79233551025,1.6200000047684,1.09,md,15,85,0.006426,0.03,nc,nc75078256,2024-10-24T17:52:16.728Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.460000008,0.32,16,automatic,nc,nc
 2024-10-24T17:15:15.040Z,38.787998199463,-122.77799987793,-0.85000002384186,1.71,md,39,80,0.009319,0.2,nc,nc75078246,2024-10-24T17:32:16.590Z,"2 km NW of The Geysers, CA",earthquake,0.29,0.730000019,0.12,36,automatic,nc,nc
 2024-10-24T17:05:29.350Z,36.691665649414,-121.37133026123,-0.44999998807907,1.81,md,17,76,0.02542,0.14,nc,nc75078236,2024-10-24T17:22:14.512Z,"12 km SW of Tres Pinos, CA",earthquake,0.38,1.20000005,0.19,17,automatic,nc,nc
-2024-10-24T16:59:55.060Z,34.0476667,-117.2205,7.91,2.31,ml,114,15,0.07344,0.16,ci,ci40963224,2024-10-24T17:13:04.549Z,"4 km WSW of Redlands, CA",earthquake,0.09,0.33,0.145,25,automatic,ci,ci
