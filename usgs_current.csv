@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-26T11:25:36.240Z,34.3035011,-118.4814987,11.1,1.21,ml,15,134,0.02157,0.17,ci,ci40965104,2024-10-26T11:31:51.429Z,"3 km W of Sylmar, CA",earthquake,0.59,0.8,0.139,7,automatic,ci,ci
+2024-10-26T11:25:36.480Z,34.2978333,-118.466,10.04,1.25,ml,47,36,0.01926,0.23,ci,ci40965104,2024-10-26T11:32:00.904Z,"2 km SW of Sylmar, CA",earthquake,0.22,0.57,0.19,29,automatic,ci,ci
 2024-10-26T11:20:51.770Z,61.8665,-149.6888,17.9,1.5,ml,,,,0.36,ak,ak024dsbwa49,2024-10-26T11:22:51.097Z,"22 km NE of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-26T11:11:58.770Z,33.2243333,-116.047,3.3,0.99,ml,51,71,0.07562,0.22,ci,ci40965096,2024-10-26T11:17:54.350Z,"12 km SW of Salton City, CA",earthquake,0.17,0.38,0.119,25,automatic,ci,ci
 2024-10-26T10:50:56.550Z,38.797668457031,-122.81116485596,3.25,0.77,md,21,79,0.01127,0.02,nc,nc75079116,2024-10-26T10:52:30.850Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.569999993,0.1,21,automatic,nc,nc
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-26T09:37:35.780Z,34.0208333,-117.593,7.05,0.88,ml,47,41,0.03069,0.15,ci,ci40965048,2024-10-26T09:43:52.315Z,"5 km SE of Ontario, CA",earthquake,0.15,0.37,0.245,29,automatic,ci,ci
 2024-10-26T09:34:54.017Z,59.8957,-151.4738,64.8,1.8,ml,,,,0.41,ak,ak024dsasf3t,2024-10-26T09:38:45.791Z,"12 km NE of Nikolaevsk, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-10-26T09:34:45.490Z,40.455833435059,-125.60900115967,5,3.46,ml,27,299,0.9819,0.18,nc,nc75079021,2024-10-26T10:09:27.968Z,"113 km WNW of Petrolia, CA",earthquake,6.46,16.5599995,0.214,7,automatic,nc,nc
-2024-10-26T09:33:35.120Z,40.401832580566,-125.63316345215,2.1199998855591,3.89,mw,92,251,0.9917,0.48,nc,nc75079026,2024-10-26T10:17:19.011Z,"115 km WNW of Petrolia, CA",earthquake,5.47,40.0200005,,4,reviewed,nc,nc
+2024-10-26T09:33:35.120Z,40.401832580566,-125.63316345215,2.1199998855591,3.89,mw,92,251,0.9917,0.48,nc,nc75079026,2024-10-26T11:36:22.591Z,"115 km WNW of Petrolia, CA",earthquake,5.47,40.0200005,,4,reviewed,nc,nc
 2024-10-26T09:29:45.765Z,61.5559,-151.0333,58.7,2.1,ml,,,,0.28,ak,ak024dsarbw0,2024-10-26T09:31:19.238Z,"27 km W of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-26T09:27:28.139Z,36.7219,-117.029,1.1,0.3,ml,8,269.42,0.258,0.2111,nn,nn00886811,2024-10-26T09:29:26.819Z,"31 km SW of Beatty, Nevada",earthquake,,30.4,0.53,5,automatic,nn,nn
 2024-10-26T09:23:25.020Z,40.410331726074,-125.39933013916,2.3599998950958,3.96,mw,127,243,0.8167,0.5,nc,nc75079016,2024-10-26T11:26:23.151Z,"95 km WNW of Petrolia, CA",earthquake,2.2,41.4300003,,5,reviewed,nc,nc
@@ -237,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-25T12:02:56.913Z,60.2894,-141.1764,19.9,1.7,ml,,,,0.3,ak,ak024dqouirt,2024-10-25T12:04:58.726Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-25T11:57:09.810Z,33.9813333,-116.8258333,17.97,2.38,ml,109,30,0.07582,0.19,ci,ci40964216,2024-10-25T12:07:55.340Z,"8 km NE of Banning, CA",earthquake,0.12,0.26,0.165,26,automatic,ci,ci
 2024-10-25T11:50:30.950Z,61.3245,-152.29583333333,-2.67,-0.42,ml,10,128,0.07528,0.22,av,av93025189,2024-10-25T22:37:36.220Z,"68 km WNW of Beluga, Alaska",earthquake,0.45,2.15,0.19103285376906,10,reviewed,av,av
-2024-10-25T11:34:03.630Z,19.388666152954,-155.12750244141,2.7799999713898,1.93,ml,31,116,0.004262,0.349999994,hv,hv74512312,2024-10-25T11:36:56.320Z,"8 km S of Fern Forest, Hawaii",earthquake,0.93,0.569999993,0.38,4,automatic,hv,hv
-2024-10-25T11:32:50.097Z,64.4938,-146.8983,9.1,1,ml,,,,0.1,ak,ak024dqofi32,2024-10-25T11:35:26.833Z,"3 km S of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
