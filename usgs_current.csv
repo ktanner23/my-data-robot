@@ -44,8 +44,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T08:13:02.400Z,38.826999664307,-122.79266357422,1.0499999523163,1.1,md,19,57,0.01154,0.03,nc,nc75080031,2024-10-28T08:32:16.835Z,"6 km WNW of Cobb, CA",earthquake,0.21,0.49000001,0.13,19,automatic,nc,nc
 2024-10-28T08:11:56.757Z,59.5294,-151.7517,41.9,1.6,ml,,,,0.49,ak,ak024dvl4r8b,2024-10-28T08:13:43.221Z,"8 km NW of Seldovia Village, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-10-28T08:10:37.071Z,37.2917,-114.7019,13.9,1.3,ml,9,170.53,0.3,0.3416,nn,nn00886922,2024-10-28T08:13:14.393Z,"39 km SSW of Caliente, Nevada",earthquake,,1.2,0.26,5,automatic,nn,nn
-2024-10-28T08:09:01.360Z,34.5623333,-120.5351667,-0.12,2.03,ml,21,187,0.1473,0.25,ci,ci40966032,2024-10-28T13:14:20.609Z,"11 km SW of Lompoc, CA",earthquake,0.75,0.71,0.13,28,automatic,ci,ci
-2024-10-28T07:49:24.410Z,34.5820007,-120.5171661,-0.09,3.3,mh,45,180,0.123,0.28,ci,ci40966024,2024-10-28T13:40:57.307Z,"8 km SW of Lompoc, CA",earthquake,0.61,0.74,,0,reviewed,ci,ci
+2024-10-28T08:09:01.360Z,34.5623333,-120.5351667,-0.12,2.03,ml,21,187,0.1473,0.25,ci,ci40966032,2024-10-28T13:50:22.404Z,"11 km SW of Lompoc, CA",earthquake,0.75,0.71,0.13,28,automatic,ci,ci
+2024-10-28T07:49:24.410Z,34.5820007,-120.5171661,-0.09,3.3,mh,45,180,0.123,0.28,ci,ci40966024,2024-10-28T13:46:08.957Z,"8 km SW of Lompoc, CA",earthquake,0.61,0.74,,0,reviewed,ci,ci
 2024-10-28T07:45:18.480Z,34.5821667,-120.5145,-0.03,2.36,ml,26,181,0.1218,0.27,ci,ci40966016,2024-10-28T08:31:53.272Z,"8 km SW of Lompoc, CA",earthquake,0.52,0.67,0.092,26,automatic,ci,ci
 2024-10-28T07:40:15.813Z,36.7268,-116.2753,7.6,1.6,ml,26,69.47,0.039,0.2393,nn,nn00886921,2024-10-28T07:42:36.785Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.42,18,automatic,nn,nn
 2024-10-28T07:32:51.270Z,40.041168212891,-123.78216552734,19.370000839233,1.85,md,7,159,0.05522,0.07,nc,nc75080011,2024-10-28T07:54:27.552Z,"9 km S of Redway, CA",earthquake,1,0.75999999,0.18,3,automatic,nc,nc
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T04:11:27.606Z,60.9872,-150.8258,37.8,0.9,ml,,,,0.54,ak,ak024dviqwux,2024-10-28T06:16:19.124Z,"10 km NW of Point Possession, Alaska",earthquake,,4.8,,,reviewed,ak,ak
 2024-10-28T04:03:00.668Z,6.8787,-72.9025,145.81,4.4,mb,40,75,0.996,0.62,us,us7000nnkf,2024-10-28T05:22:09.040Z,"5 km W of Guaca, Colombia",earthquake,8.68,8.914,0.069,60,reviewed,us,us
 2024-10-28T03:57:33.651Z,31.658,-104.377,7.8943,2.2,ml,19,70,0,0.3,tx,tx2024vegg,2024-10-28T11:29:47.509Z,"57 km S of Whites City, New Mexico",earthquake,1.3483207259483,1.1055476291195,0.1,49,reviewed,tx,tx
-2024-10-28T03:55:49.800Z,34.5774994,-120.5256653,-0.08,3.28,ml,45,182,0.1303,0.28,ci,ci40965984,2024-10-28T13:31:06.807Z,"9 km SW of Lompoc, CA",earthquake,0.55,0.83,0.22,24,reviewed,ci,ci
+2024-10-28T03:55:49.800Z,34.5774994,-120.5256653,-0.08,3.28,ml,45,182,0.1303,0.28,ci,ci40965984,2024-10-28T13:50:02.223Z,"9 km SW of Lompoc, CA",earthquake,0.55,0.83,0.22,24,reviewed,ci,ci
 2024-10-28T03:53:53.943Z,64.7124,-147.4085,23.3,2.6,ml,,,,0.61,ak,ak024dviel22,2024-10-28T11:51:12.800Z,"5 km SSW of North Pole, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-10-28T03:50:42.610Z,33.8225,-117.8383333,3.05,1.3,ml,41,135,0.03458,0.26,ci,ci40965976,2024-10-28T03:57:02.932Z,"2 km NNW of Orange, CA",earthquake,0.32,0.24,0.188,30,automatic,ci,ci
 2024-10-28T03:49:54.630Z,38.835334777832,-122.79983520508,1.9700000286102,1.34,md,24,61,0.008023,0.02,nc,nc75079966,2024-10-28T04:07:16.920Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.15,26,automatic,nc,nc
@@ -148,6 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T19:08:02.891Z,61.1381,-150.7063,20,1,ml,,,,0.72,ak,ak024du44b71,2024-10-27T21:41:49.835Z,"20 km E of Beluga, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2024-10-27T18:48:57.964Z,31.699,-104.138,6.8433,2.2,ml,11,56,0.1,0.2,tx,tx2024vdof,2024-10-28T10:17:39.889Z,"51 km W of Mentone, Texas",earthquake,1.0816140821664,1.8027313393511,0.1,31,reviewed,tx,tx
 2024-10-27T18:45:34.370Z,19.319166183472,-155.21466064453,1.7400000095367,1.72,ml,37,82,0.0389,0.270000011,hv,hv74515392,2024-10-27T18:48:27.800Z,"13 km S of Volcano, Hawaii",earthquake,0.42,0.689999998,0.87,5,automatic,hv,hv
+2024-10-27T18:45:07.870Z,35.007,-97.8365,14.3,1.19,ml,68,62,0.0674867568,0.34,ok,ok2024vdoa,2024-10-28T13:52:04.327Z,"10 km NE of Ninnekah, Oklahoma",earthquake,,1.3,0.26,26,reviewed,ok,ok
 2024-10-27T18:44:57.370Z,7.6372,-84.8058,10,4.4,mb,30,175,1.661,0.49,us,us7000nnia,2024-10-27T19:57:50.040Z,"203 km SW of Puerto Cortés, Costa Rica",earthquake,5.45,1.962,0.109,24,reviewed,us,us
 2024-10-27T18:44:56.929Z,60.2238,-152.6664,104.3,1.7,ml,,,,0.61,ak,ak024du3qtfg,2024-10-27T18:47:22.414Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-10-27T18:43:14.740Z,61.293833333333,-152.2635,3.17,-0.59,ml,9,134,0.05962,0.06,av,av93333718,2024-10-28T05:43:54.500Z,"65 km WNW of Tyonek, Alaska",earthquake,0.41,0.46,0.15347837319824,9,reviewed,av,av
@@ -195,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T14:15:06.040Z,33.3881667,-116.3946667,12.38,0.49,ml,34,72,0.07569,0.17,ci,ci40965752,2024-10-27T14:25:19.106Z,"15 km N of Borrego Springs, CA",earthquake,0.22,0.58,0.177,12,automatic,ci,ci
 2024-10-27T14:14:00.550Z,19.3531665802,-155.13583374023,4.0599999427795,1.88999999,md,51,111,0.03302,0.239999995,hv,hv74515162,2024-10-27T14:15:42.360Z,"12 km S of Fern Forest, Hawaii",earthquake,0.45,1.19000006,0.289999992,13,automatic,hv,hv
 2024-10-27T14:11:16.930Z,61.311,-152.26983333333,1.23,-0.42,ml,8,151,0.07181,0.07,av,av93333478,2024-10-28T04:42:29.270Z,"66 km WNW of Beluga, Alaska",earthquake,0.32,0.75,0.30162918804989,10,reviewed,av,av
-2024-10-27T13:49:32.524Z,38.2862,-119.4993,6.5,2.2,ml,8,295.76,0.078,0.2461,nn,nn00886903,2024-10-27T13:52:28.306Z,"23 km W of Bridgeport, California",earthquake,,0.6,0.37,5,automatic,nn,nn
-2024-10-27T13:49:17.650Z,61.315166666667,-152.27166666667,0.25,-0.33,ml,10,123,0.07432,0.09,av,av93333453,2024-10-28T04:40:42.810Z,"66 km WNW of Beluga, Alaska",earthquake,0.25,2.37,0.27584470860112,10,reviewed,av,av
-2024-10-27T13:49:04.638Z,31.624,-104.283,7.1252,2,ml,18,70,0.1,0.1,tx,tx2024vdeh,2024-10-28T12:29:34.311Z,"57 km NW of Toyah, Texas",earthquake,0.68882801873673,0.77062025833335,0.2,13,reviewed,tx,tx
-2024-10-27T13:48:49.950Z,36.2088333,-118.0158333,0.99,3.27,ml,42,46,0.1589,0.19,ci,ci40965744,2024-10-27T15:15:25.054Z,"8 km S of Olancha, CA",earthquake,0.18,0.54,0.19,168,reviewed,ci,ci
