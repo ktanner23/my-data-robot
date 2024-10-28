@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-10-28T07:49:24.410Z,34.5820007,-120.5171661,-0.09,3.57,mlr,45,180,0.123,0.28,ci,ci40966024,2024-10-28T07:53:15.036Z,"8 km SW of Lompoc, CA",earthquake,0.61,0.74,0.201,21,automatic,ci,ci
-2024-10-28T07:45:18.480Z,34.5821667,-120.5145,-0.03,2.36,ml,26,181,0.1218,0.27,ci,ci40966016,2024-10-28T07:51:52.465Z,"8 km SW of Lompoc, CA",earthquake,0.52,0.67,0.092,26,automatic,ci,ci
+2024-10-28T07:49:24.410Z,34.5820007,-120.5171661,-0.09,3.3,mh,45,180,0.123,0.28,ci,ci40966024,2024-10-28T08:07:13.484Z,"8 km SW of Lompoc, CA",earthquake,0.61,0.74,,0,reviewed,ci,ci
+2024-10-28T07:45:18.480Z,34.5821667,-120.5145,-0.03,2.36,ml,26,181,0.1218,0.27,ci,ci40966016,2024-10-28T08:04:11.386Z,"8 km SW of Lompoc, CA",earthquake,0.52,0.67,0.092,26,automatic,ci,ci
 2024-10-28T07:40:15.813Z,36.7268,-116.2753,7.6,1.6,ml,26,69.47,0.039,0.2393,nn,nn00886921,2024-10-28T07:42:36.785Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.42,18,automatic,nn,nn
 2024-10-28T07:32:51.270Z,40.041168212891,-123.78216552734,19.370000839233,1.85,md,7,159,0.05522,0.07,nc,nc75080011,2024-10-28T07:54:27.552Z,"9 km S of Redway, CA",earthquake,1,0.75999999,0.18,3,automatic,nc,nc
 2024-10-28T07:30:42.080Z,38.835998535156,-122.79116821289,7.0999999046326,1,md,11,79,0.002492,0.05,nc,nc75080006,2024-10-28T07:47:17.506Z,"6 km WNW of Cobb, CA",earthquake,1.04,4.44999981,0.14,2,automatic,nc,nc
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-28T04:11:27.606Z,60.9872,-150.8258,37.8,0.9,ml,,,,0.54,ak,ak024dviqwux,2024-10-28T06:16:19.124Z,"10 km NW of Point Possession, Alaska",earthquake,,4.8,,,reviewed,ak,ak
 2024-10-28T04:03:00.668Z,6.8787,-72.9025,145.81,4.4,mb,40,75,0.996,0.62,us,us7000nnkf,2024-10-28T05:22:09.040Z,"5 km W of Guaca, Colombia",earthquake,8.68,8.914,0.069,60,reviewed,us,us
 2024-10-28T03:57:33.935Z,31.651,-104.368,3.0089,2.1,ml,18,71,0.1,0.4,tx,tx2024vegg,2024-10-28T04:11:43.343Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3860303163528,0.1,14,automatic,tx,tx
-2024-10-28T03:55:49.800Z,34.5774994,-120.5256653,-0.08,3.28,ml,45,182,0.1303,0.28,ci,ci40965984,2024-10-28T07:53:40.592Z,"9 km SW of Lompoc, CA",earthquake,0.55,0.83,0.22,24,automatic,ci,ci
+2024-10-28T03:55:49.800Z,34.5774994,-120.5256653,-0.08,3.28,ml,45,182,0.1303,0.28,ci,ci40965984,2024-10-28T08:04:59.982Z,"9 km SW of Lompoc, CA",earthquake,0.55,0.83,0.22,24,reviewed,ci,ci
 2024-10-28T03:53:53.943Z,64.7124,-147.4085,23.3,2.6,ml,,,,0.61,ak,ak024dviel22,2024-10-28T05:08:39.554Z,"5 km SSW of North Pole, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-10-28T03:50:42.610Z,33.8225,-117.8383333,3.05,1.3,ml,41,135,0.03458,0.26,ci,ci40965976,2024-10-28T03:57:02.932Z,"2 km NNW of Orange, CA",earthquake,0.32,0.24,0.188,30,automatic,ci,ci
 2024-10-28T03:49:54.630Z,38.835334777832,-122.79983520508,1.9700000286102,1.34,md,24,61,0.008023,0.02,nc,nc75079966,2024-10-28T04:07:16.920Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.360000014,0.15,26,automatic,nc,nc
@@ -209,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-27T08:13:20.768Z,43.6483,-129.2204,10,3.5,ml,29,304,3.855,0.78,us,us7000nng2,2024-10-28T07:25:33.113Z,"off the coast of Oregon",earthquake,5.82,2.028,0.055,44,reviewed,us,us
 2024-10-27T08:11:24.610Z,35.62183380127,-121.35150146484,0.10999999940395,2.06,md,31,201,,0.37,nc,nc75079541,2024-10-27T08:27:22.686Z,"15 km W of San Simeon, CA",earthquake,1.65,7.05999994,0.14,22,automatic,nc,nc
 2024-10-27T08:10:07.040Z,47.686166666667,-120.234,-1.08,0.32,ml,6,82,0.02252,0.1,uw,uw62057246,2024-10-28T05:05:07.060Z,"2 km WNW of Entiat, Washington",earthquake,0.27,0.65,0.15352891892254,6,reviewed,uw,uw
-2024-10-27T08:03:23.990Z,33.4803333,-116.5896667,5.92,0.57,ml,52,44,0.01775,0.14,ci,ci40965656,2024-10-27T13:54:38.290Z,"11 km SE of Anza, CA",earthquake,0.14,0.24,0.16,20,reviewed,ci,ci
-2024-10-27T07:59:19.380Z,38.794498443604,-122.80899810791,3.3699998855591,0.97,md,18,87,0.00771,0.02,nc,nc75079531,2024-10-27T08:27:22.565Z,"5 km NW of The Geysers, CA",earthquake,0.31,0.709999979,0.24,18,automatic,nc,nc
