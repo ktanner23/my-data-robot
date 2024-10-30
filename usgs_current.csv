@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-10-30T00:13:57.092Z,62.251,-150.2511,16.2,1.8,ml,,,,0.52,ak,ak024dyrgeu5,2024-10-30T00:15:41.540Z,"7 km S of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-10-30T00:05:04.510Z,38.787334442139,-122.74666595459,1.4199999570847,0.8,md,11,83,0.008781,0.02,nc,nc75080666,2024-10-30T00:06:41.500Z,"1 km NE of The Geysers, CA",earthquake,0.3,0.730000019,0.1,13,automatic,nc,nc
+2024-10-30T00:05:04.510Z,38.787334442139,-122.74666595459,1.4199999570847,0.8,md,11,83,0.008781,0.02,nc,nc75080666,2024-10-30T00:37:18.938Z,"1 km NE of The Geysers, CA",earthquake,0.3,0.730000019,0.1,13,automatic,nc,nc
 2024-10-29T23:48:38.160Z,38.782333374023,-122.75900268555,1.3600000143051,0.78,md,8,100,0.01744,0.01,nc,nc75080651,2024-10-30T00:17:18.807Z,"1 km  of The Geysers, CA",earthquake,0.34,0.610000014,0.15,9,automatic,nc,nc
 2024-10-29T23:48:06.549Z,61.4407,-146.5755,22.5,1.8,ml,,,,0.38,ak,ak024dxhtff2,2024-10-29T23:50:19.648Z,"36 km NNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-10-29T23:44:14.980Z,63.4403,-147.5264,0,1.9,ml,,,,0.58,ak,ak024dxhsl7e,2024-10-29T23:46:15.582Z,"71 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T19:16:18.290Z,32.9958333,-116.4393333,4.87,0.83,ml,24,93,0.03399,0.16,ci,ci40966496,2024-10-29T20:13:18.746Z,"18 km ESE of Julian, CA",earthquake,0.19,0.34,0.075,14,reviewed,ci,ci
 2024-10-29T19:08:22.430Z,38.83150100708,-122.81583404541,1.6599999666214,0.72,md,18,50,0.009261,0.01,nc,nc75080551,2024-10-29T19:42:15.918Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.519999981,0.17,18,automatic,nc,nc
 2024-10-29T19:06:20.760Z,44.300333333333,-114.86383333333,5.5,2.32,ml,16,96,0.1945,0.17,mb,mb90064863,2024-10-29T19:41:37.920Z,"10 km NNE of Stanley, Idaho",earthquake,0.42,1.12,0.29731640199914,29,reviewed,mb,mb
+2024-10-29T19:06:02.814Z,39.3979,-120.2099,10.6,0,ml,4,160.73,0.097,0.0109,nn,nn00886982,2024-10-30T00:33:14.536Z,"8 km NNW of Truckee, California",earthquake,,5.9,0.42,2,reviewed,nn,nn
 2024-10-29T19:04:37.680Z,37.461166381836,-118.80316925049,4.2199997901917,1.54,md,22,205,,0.06,nc,nc75080546,2024-10-29T19:34:33.864Z,"16 km SW of Toms Place, CA",earthquake,0.61,1.97000003,0.11,18,automatic,nc,nc
 2024-10-29T19:04:24.850Z,33.7146667,-116.814,15.32,0.76,ml,8,230,0.08903,0.1,ci,ci40966480,2024-10-29T20:13:35.987Z,"8 km ESE of Valle Vista, CA",earthquake,1.16,1.22,0.132,11,reviewed,ci,ci
 2024-10-29T19:02:48.050Z,46.015666666667,-112.48266666667,-2,1.32,ml,7,144,0.0518,0.04,mb,mb90064868,2024-10-29T19:49:45.010Z,"4 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.27425752988593,16,reviewed,mb,mb
@@ -183,8 +184,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T01:48:56.766Z,56.8429,-155.338,11.3,2.5,ml,,,,0.71,ak,ak024dx4pzzp,2024-10-29T05:27:56.956Z,"71 km W of Akhiok, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2024-10-29T01:48:51.350Z,19.326833724976,-155.13816833496,3.5099999904633,1.82000005,md,44,115,0.04165,0.159999996,hv,hv74516527,2024-10-29T01:50:32.220Z,"15 km S of Fern Forest, Hawaii",earthquake,0.38,1.38,0.280000001,29,automatic,hv,hv
 2024-10-29T01:34:19.664Z,63.0365,-151.5131,0,1.5,ml,,,,0.96,ak,ak024dx4mx39,2024-10-29T01:37:12.010Z,"57 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-10-29T01:20:41.380Z,60.322666666667,-153.2245,7.58,-0.28,ml,7,325,0.244,0.09,av,av93335263,2024-10-30T00:53:48.660Z,"61 km ENE of Port Alsworth, Alaska",earthquake,0.84,3.89,0.07516043800264,6,reviewed,av,av
 2024-10-29T01:02:29.180Z,39.699833333333,-110.8275,-3.37,1.78,ml,15,105,0.07232,0.19,uu,uu80085611,2024-10-29T15:12:44.480Z,"2 km NW of Kenilworth, Utah",earthquake,0.48,1.42,0.096490839676464,5,reviewed,uu,uu
-2024-10-29T00:44:24.946Z,31.671,-104.196,7.6379,1.6,ml,18,62,0.1,0.2,tx,tx2024vfvl,2024-10-29T10:53:56.476Z,"54 km NW of Toyah, Texas",earthquake,0.70780090927891,0.88759539995222,0.1,20,reviewed,tx,tx
-2024-10-29T00:37:30.990Z,17.9991,-66.7378,14,3.44,md,22,141,0.1386,0.18,pr,pr2024303000,2024-10-29T01:22:01.846Z,"2 km WNW of Tallaboa, Puerto Rico",earthquake,0.52,0.76,0.15,22,reviewed,pr,pr
-2024-10-29T00:34:58.810Z,31.664,-104.19,3.3826,1.6,ml,15,58,0.1,0.2,tx,tx2024vfvf,2024-10-29T11:29:32.669Z,"54 km NW of Toyah, Texas",earthquake,0.85442920906381,1.9637960781087,0.1,20,reviewed,tx,tx
-2024-10-29T00:31:04.790Z,37.954666666667,-112.12233333333,10.88,2.53,ml,28,51,0.09956,0.27,uu,uu80085606,2024-10-29T13:52:05.960Z,"20 km SSW of Antimony, Utah",earthquake,0.44,0.75,0.078954330520988,18,reviewed,uu,uu
