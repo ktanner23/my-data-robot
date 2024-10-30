@@ -17,7 +17,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T16:49:54.264Z,31.62,-104.134,3.6884,1.6,ml,16,104,0,0.5,tx,tx2024viwv,2024-10-30T17:29:46.217Z,"46 km NW of Toyah, Texas",earthquake,0,1.2597128152847,0.2,13,automatic,tx,tx
 2024-10-30T16:18:41.150Z,62.4289,-151.1572,14.5,1.8,ml,,,,0.25,ak,ak024dz10dv7,2024-10-30T16:20:36.689Z,"21 km WSW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-30T15:45:23.449Z,36.7002,-116.3007,9.2,-0.1,ml,9,116.65,0.032,0.0949,nn,nn00887006,2024-10-30T15:47:24.551Z,"47 km ESE of Beatty, Nevada",earthquake,,1.4,0.09,3,automatic,nn,nn
-2024-10-30T15:30:43.247Z,36.6113,-117.0484,16,0.7,ml,8,259.87,0.369,0.0885,nn,nn00887004,2024-10-30T15:32:43.987Z,"25 km NW of Furnace Creek, California",earthquake,,4.4,0.38,5,automatic,nn,nn
+2024-10-30T15:45:13.440Z,33.6991667,-116.7486667,15.71,0.29,ml,12,151,0.03115,0.08,ci,ci40781815,2024-10-30T19:07:53.238Z,"5 km SSW of Idyllwild, CA",earthquake,0.31,0.27,0.077,3,reviewed,ci,ci
+2024-10-30T15:30:43.117Z,36.5751,-117.0792,5.5,0.7,ml,11,133.8,0.313,0.1692,nn,nn00887004,2024-10-30T19:05:25.558Z,"24 km NW of Furnace Creek, California",earthquake,,7.3,0.35,3,reviewed,nn,nn
 2024-10-30T15:13:29.110Z,38.754501342773,-122.69833374023,0.5799999833107,0.98,md,8,132,0.01368,0.03,nc,nc75080876,2024-10-30T15:37:16.410Z,"2 km SSW of Anderson Springs, CA",earthquake,0.3,0.550000012,0.07,8,automatic,nc,nc
 2024-10-30T15:10:19.420Z,38.834167480469,-122.81583404541,1.710000038147,1.08,md,16,58,0.01166,0.02,nc,nc75080871,2024-10-30T15:27:14.333Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.519999981,0.21,18,automatic,nc,nc
 2024-10-30T14:58:14.070Z,34.413,-119.1365,15.91,2.1,ml,56,41,0.02388,0.3,ci,ci40966864,2024-10-30T15:19:09.704Z,"10 km NW of Santa Paula, CA",earthquake,0.29,0.64,0.222,27,automatic,ci,ci
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T14:37:09.750Z,38.82483291626,-122.85749816894,2.0099999904633,1.07,md,12,142,0.002752,0.07,nc,nc75080856,2024-10-30T14:52:17.054Z,"10 km NW of The Geysers, CA",earthquake,0.38,0.49000001,0.14,13,automatic,nc,nc
 2024-10-30T14:18:53.500Z,38.791831970215,-122.8056640625,3.7300000190735,1.29,md,22,81,0.004045,0.02,nc,nc75080836,2024-10-30T14:37:15.938Z,"5 km WNW of The Geysers, CA",earthquake,0.27,0.50999999,0.21,24,automatic,nc,nc
 2024-10-30T13:55:47.170Z,-0.5175,-79.7599,54.492,3,ml,8,254,1.213,0.26,us,us7000np0b,2024-10-30T17:52:04.040Z,"42 km ENE of Chone, Ecuador",earthquake,7.26,31.56,0.085,18,reviewed,us,us
-2024-10-30T13:28:36.954Z,57.9594,-154.2236,39,2.1,ml,,,,0.69,ak,ak024dyza7vz,2024-10-30T13:29:50.005Z,"45 km NNE of Karluk, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2024-10-30T13:27:57.245Z,56.0037,-149.8579,10,3,ml,,,,1.23,ak,ak024dyza7vz,2024-10-30T19:12:41.392Z,"232 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2024-10-30T13:23:14.060Z,34.1105,-117.1238333,2.27,1.15,ml,44,48,0.02163,0.18,ci,ci40966816,2024-10-30T18:12:23.886Z,"5 km NNE of Mentone, CA",earthquake,0.15,0.19,0.182,21,reviewed,ci,ci
 2024-10-30T13:22:40.140Z,17.947833333333,-66.863666666667,12.21,2.2,md,7,214,0.03087,0.15,pr,pr71464263,2024-10-30T13:36:43.000Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,1.13,0.73,0.16677064983129,4,reviewed,pr,pr
 2024-10-30T13:16:53.550Z,34.1083333,-117.1248333,2.36,1.4,ml,58,47,0.02216,0.21,ci,ci40966808,2024-10-30T13:25:33.446Z,"4 km NNE of Mentone, CA",earthquake,0.15,0.26,0.186,28,automatic,ci,ci
@@ -54,10 +55,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T11:17:36.846Z,32.444,-101.697,6.0791,1.3,ml,23,41,0,0.1,tx,tx2024vilu,2024-10-30T12:59:13.806Z,"9 km S of Ackerly, Texas",earthquake,0.31816059919491,0.59234906123776,0.2,20,reviewed,tx,tx
 2024-10-30T10:42:15.438Z,61.3325,-151.3001,68.6,2.3,ml,,,,0.68,ak,ak024dyxkvqi,2024-10-30T10:45:36.268Z,"24 km NNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-10-30T10:39:47.200Z,34.4541667,-119.1358333,9.31,0.98,ml,17,53,0.01726,0.13,ci,ci40966720,2024-10-30T16:22:35.524Z,"10 km E of Ojai, CA",earthquake,0.22,0.51,0.084,6,reviewed,ci,ci
-2024-10-30T10:36:29.278Z,51.6045,-178.1593,13.1,3.6,ml,,,,0.6,ak,ak024dyxjm5e,2024-10-30T19:01:11.477Z,"109 km WSW of Adak, Alaska",earthquake,,1,,,reviewed,ak,ak
+2024-10-30T10:36:29.278Z,51.6045,-178.1593,13.1,3.6,ml,,,,0.6,ak,ak024dyxjm5e,2024-10-30T19:06:17.156Z,"109 km WSW of Adak, Alaska",earthquake,,1,,,reviewed,ak,ak
 2024-10-30T10:21:46.830Z,34.4143333,-119.1363333,14.05,1.3,ml,28,54,0.02255,0.28,ci,ci40966712,2024-10-30T16:45:54.776Z,"10 km NW of Santa Paula, CA",earthquake,0.42,0.69,0.235,15,reviewed,ci,ci
 2024-10-30T10:18:16.204Z,-18.3928,-65.0688,10,4.3,mb,15,89,0.96,1.3,us,us7000nnz3,2024-10-30T11:22:01.040Z,"24 km SSE of Aiquile, Bolivia",earthquake,8.84,1.974,0.133,16,reviewed,us,us
 2024-10-30T10:18:00.750Z,34.0143333,-117.5931667,5.62,1.12,ml,41,51,0.02218,0.13,ci,ci40966696,2024-10-30T18:56:36.680Z,"5 km SE of Ontario, CA",earthquake,0.14,0.22,0.233,41,reviewed,ci,ci
+2024-10-30T09:53:24.870Z,46.874166666667,-121.95983333333,9.47,0.35,ml,17,71,0.008601,0.12,uw,uw62049392,2024-10-30T19:09:17.380Z,"13 km NNE of Ashford, Washington",earthquake,0.29,0.42,0.065451318592812,11,reviewed,uw,uw
 2024-10-30T09:49:30.240Z,61.586,-149.7428,39,2.4,ml,,,,0.36,ak,ak024dyx0yzk,2024-10-30T09:56:38.448Z,"6 km SE of Houston, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-30T09:47:39.930Z,33.572,-116.8873333,11.32,0.95,ml,53,26,0.0666,0.16,ci,ci40966688,2024-10-30T16:11:48.150Z,"14 km N of Aguanga, CA",earthquake,0.13,0.34,0.169,28,reviewed,ci,ci
 2024-10-30T09:47:28.970Z,38.750331878662,-122.72283172607,1.1599999666214,1.22,md,13,122,0.01136,0.04,nc,nc75080811,2024-10-30T10:07:17.087Z,"4 km SW of Anderson Springs, CA",earthquake,0.27,0.419999987,0.16,13,automatic,nc,nc
@@ -170,9 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-29T19:33:36.002Z,36.5844,-117.0973,4.5,1,ml,11,134.75,0.328,0.1623,nn,nn00886972,2024-10-29T19:57:59.271Z,"26 km NW of Furnace Creek, California",earthquake,,5.1,0.48,3,reviewed,nn,nn
 2024-10-29T19:22:42.440Z,33.5025,-116.4355,7.36,1.64,ml,71,32,0.1107,0.18,ci,ci40966504,2024-10-29T20:13:51.500Z,"21 km SSW of La Quinta, CA",earthquake,0.12,0.62,0.213,27,reviewed,ci,ci
 2024-10-29T19:16:18.290Z,32.9958333,-116.4393333,4.87,0.83,ml,24,93,0.03399,0.16,ci,ci40966496,2024-10-29T20:13:18.746Z,"18 km ESE of Julian, CA",earthquake,0.19,0.34,0.075,14,reviewed,ci,ci
-2024-10-29T19:08:22.430Z,38.83150100708,-122.81583404541,1.6599999666214,0.72,md,18,50,0.009261,0.01,nc,nc75080551,2024-10-29T19:42:15.918Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.519999981,0.17,18,automatic,nc,nc
-2024-10-29T19:06:20.760Z,44.300333333333,-114.86383333333,5.5,2.32,ml,16,96,0.1945,0.17,mb,mb90064863,2024-10-29T19:41:37.920Z,"10 km NNE of Stanley, Idaho",earthquake,0.42,1.12,0.29731640199914,29,reviewed,mb,mb
-2024-10-29T19:06:02.814Z,39.3979,-120.2099,10.6,0,ml,4,160.73,0.097,0.0109,nn,nn00886982,2024-10-30T00:33:14.536Z,"8 km NNW of Truckee, California",earthquake,,5.9,0.42,2,reviewed,nn,nn
-2024-10-29T19:04:37.680Z,37.461166381836,-118.80316925049,4.2199997901917,1.54,md,22,205,,0.06,nc,nc75080546,2024-10-29T19:34:33.864Z,"16 km SW of Toms Place, CA",earthquake,0.61,1.97000003,0.11,18,automatic,nc,nc
-2024-10-29T19:04:24.850Z,33.7146667,-116.814,15.32,0.76,ml,8,230,0.08903,0.1,ci,ci40966480,2024-10-29T20:13:35.987Z,"8 km ESE of Valle Vista, CA",earthquake,1.16,1.22,0.132,11,reviewed,ci,ci
-2024-10-29T19:02:48.050Z,46.015666666667,-112.48266666667,-2,1.32,ml,7,144,0.0518,0.04,mb,mb90064868,2024-10-29T19:49:45.010Z,"4 km ENE of Butte, Montana",quarry blast,0.52,31.61,0.27425752988593,16,reviewed,mb,mb
