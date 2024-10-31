@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-10-31T08:28:45.862Z,36.6474,-117.087,10.6,1,ml,12,260.79,0.329,0.2573,nn,nn00887036,2024-10-31T08:30:48.899Z,"30 km NW of Furnace Creek, California",earthquake,,1.4,0.45,9,automatic,nn,nn
+2024-10-31T08:26:32.824Z,36.57,-117.1018,7.3,0.5,ml,8,267.71,0.414,0.1405,nn,nn00887035,2024-10-31T08:29:57.623Z,"26 km WNW of Furnace Creek, California",earthquake,,185.7,0.51,4,automatic,nn,nn
 2024-10-31T08:12:01.102Z,63.5538,-147.3237,6.2,1.8,ml,,,,0.39,ak,ak024e0jqw4u,2024-10-31T08:14:32.022Z,"81 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-10-31T07:56:11.000Z,38.82833480835,-122.81500244141,1.7300000190735,0.5,md,11,83,0.006257,0.01,nc,nc75081211,2024-10-31T08:17:18.660Z,"8 km NNW of The Geysers, CA",earthquake,0.34,0.629999995,0.27,11,automatic,nc,nc
 2024-10-31T07:30:37.539Z,63.4041,-151.3537,0,1.7,ml,,,,1.1,ak,ak024e0j9e87,2024-10-31T07:33:22.094Z,"23 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -84,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T20:24:19.685Z,53.1617,-169.8864,180.5,3.5,ml,,,,0.48,ak,ak024dz3fdui,2024-10-30T22:49:21.053Z,"73 km WNW of Nikolski, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2024-10-30T20:24:16.908Z,51.5783,-167.9729,10,3.7,ml,9,292,1.497,0.39,us,us7000np34,2024-10-30T21:48:01.040Z,"163 km SSE of Nikolski, Alaska",earthquake,9.07,2.027,0.091,16,reviewed,us,us
 2024-10-30T20:18:51.344Z,62.1245,-152.2859,23.4,1.9,ml,,,,0.32,ak,ak024dz3e52m,2024-10-30T20:20:12.419Z,"48 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-10-30T20:15:19.955Z,43.544,-127.7993,10,6,mww,95,97,2.73,1.06,us,us7000np33,2024-10-31T04:58:16.536Z,"279 km W of Bandon, Oregon",earthquake,10.58,1.877,0.036,73,reviewed,us,us
+2024-10-30T20:15:19.955Z,43.544,-127.7993,10,6,mww,95,97,2.73,1.06,us,us7000np33,2024-10-31T08:25:35.093Z,"279 km W of Bandon, Oregon",earthquake,10.58,1.877,0.036,73,reviewed,us,us
 2024-10-30T20:08:40.860Z,60.023833333333,-153.104,2.69,-0.67,ml,4,169,0.03927,0.05,av,av93337628,2024-10-31T05:46:20.770Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.45,1.53,0.19173412918926,4,reviewed,av,av
 2024-10-30T20:04:47.900Z,19.166999816894,-155.48683166504,33.060001373291,2.00999999,md,27,188,0.02605,0.119999997,hv,hv74517877,2024-10-30T20:06:27.130Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.8,0.649999976,0.400000006,5,automatic,hv,hv
 2024-10-30T20:01:28.630Z,46.0175,-112.4595,-2,1.18,ml,7,93,0.06804,0.13,mb,mb90064923,2024-10-30T20:31:20.620Z,"6 km ENE of Butte, Montana",quarry blast,0.61,31.61,0.31926295816965,4,reviewed,mb,mb
@@ -184,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-30T08:42:42.800Z,37.1628,-114.4526,8,1.1,ml,8,122.24,0.421,0.1763,nn,nn00886993,2024-10-30T18:28:31.666Z,"50 km S of Caliente, Nevada",earthquake,,6.8,0.39,6,reviewed,nn,nn
 2024-10-30T08:38:48.550Z,34.5556667,-120.527,-0.13,1.61,ml,18,243,0.1501,0.25,ci,ci37687340,2024-10-30T22:20:43.372Z,"11 km SW of Lompoc, CA",earthquake,1.08,0.74,0.165,14,reviewed,ci,ci
 2024-10-30T08:38:17.740Z,34.416,-119.1455,15.22,1.13,ml,22,58,0.02189,0.22,ci,ci40966664,2024-10-30T18:20:30.942Z,"10 km ESE of Ojai, CA",earthquake,0.37,0.62,0.144,16,reviewed,ci,ci
-2024-10-30T08:34:58.750Z,34.5708333,-120.5108333,-0.13,2.01,ml,24,181,0.1307,0.29,ci,ci40966656,2024-10-30T16:36:30.635Z,"9 km SSW of Lompoc, CA",earthquake,0.62,0.86,0.132,13,reviewed,ci,ci
-2024-10-30T08:26:03.470Z,44.341333333333,-114.819,5.92,2.24,ml,21,55,0.2359,0.2,mb,mb90064893,2024-10-30T16:03:01.490Z,"16 km NE of Stanley, Idaho",earthquake,0.35,1.1,0.19948326055263,35,reviewed,mb,mb
