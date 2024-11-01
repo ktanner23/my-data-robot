@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-01T12:14:53.500Z,37.524501800537,-118.82350158691,3.9900000095367,0.93,md,10,223,0.06556,0.01,nc,nc75081801,2024-11-01T12:16:31.207Z,"13 km W of Toms Place, CA",earthquake,0.77,1.71000004,0.14,10,automatic,nc,nc
+2024-11-01T12:14:53.500Z,37.524501800537,-118.82350158691,3.9900000095367,0.93,md,10,223,0.06556,0.01,nc,nc75081801,2024-11-01T12:32:14.956Z,"13 km W of Toms Place, CA",earthquake,0.77,1.71000004,0.14,10,automatic,nc,nc
 2024-11-01T12:10:40.440Z,61.6183,-150.8786,55.9,1.4,ml,,,,0.41,ak,ak024e29nmng,2024-11-01T12:11:59.784Z,"21 km WNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-11-01T11:35:37.970Z,34.0916667,-118.1993333,9.35,1.04,ml,16,84,0.07806,0.17,ci,ci40785583,2024-11-01T11:41:45.548Z,"3 km S of Highland Park, CA",earthquake,0.36,0.63,0.362,21,automatic,ci,ci
 2024-11-01T11:30:30.630Z,37.52233505249,-118.82083129883,3.2699999809265,0.9,md,9,226,0.06789,0.05,nc,nc75081786,2024-11-01T11:57:22.712Z,"13 km W of Toms Place, CA",earthquake,1.26,2.23000002,0.16,7,automatic,nc,nc
@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T10:49:35.840Z,35.7765,-117.5898333,8.52,0.61,ml,22,65,0.03965,0.14,ci,ci40785575,2024-11-01T10:57:55.780Z,"17 km W of Searles Valley, CA",earthquake,0.23,0.49,0.231,8,automatic,ci,ci
 2024-11-01T10:47:59.135Z,37.3237,-117.3492,3.8,0.7,ml,8,207.53,0.074,0.332,nn,nn00887077,2024-11-01T10:50:23.104Z,"43 km SSW of Goldfield, Nevada",earthquake,,0.8,0.33,4,automatic,nn,nn
 2024-11-01T10:47:39.830Z,39.777000427246,-120.57883453369,1.3700000047684,2.86,md,37,73,,0.25,nc,nc75081776,2024-11-01T11:48:44.416Z,"1 km S of Mohawk Vista, CA",earthquake,0.46,2.6500001,0.11,33,automatic,nc,nc
-2024-11-01T10:42:38.558Z,31.642,-104.472,5.8261,1.6,ml,18,67,0,0.3,tx,tx2024vmbr,2024-11-01T11:12:01.082Z,"59 km S of Whites City, New Mexico",earthquake,0,3.0596995353699,0.1,14,automatic,tx,tx
+2024-11-01T10:42:39.015Z,31.663,-104.451,6.0999,1.5,ml,18,65,0,0.2,tx,tx2024vmbr,2024-11-01T12:35:45.629Z,"57 km S of Whites City, New Mexico",earthquake,0.95231813265387,0.80884413566737,0.1,14,reviewed,tx,tx
 2024-11-01T10:33:30.430Z,36.479999542236,-121.05216979981,5.9800000190735,1.26,md,9,173,,0.05,nc,nc75081766,2024-11-01T10:52:18.237Z,"10 km SE of Pinnacles, CA",earthquake,0.4,0.730000019,0.21,8,automatic,nc,nc
 2024-11-01T10:13:34.880Z,36.5008,-115.498,0.6,0.7,ml,13,322.49,0.406,0.2102,nn,nn00887074,2024-11-01T10:15:33.882Z,"17 km ESE of Indian Springs, Nevada",earthquake,,55,0.56,3,automatic,nn,nn
 2024-11-01T09:57:20.000Z,38.759666442871,-122.70666503906,1.2799999713898,2.5,md,56,42,0.01027,0.07,nc,nc75081756,2024-11-01T11:22:49.212Z,"2 km SW of Anderson Springs, CA",earthquake,0.16,0.209999993,0.18,54,automatic,nc,nc
@@ -77,6 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T01:05:29.721Z,-31.5855,-69.1861,153.843,4.3,mb,24,143,1.487,1.68,us,us7000npa5,2024-11-01T04:25:55.040Z,"35 km SE of Calingasta, Argentina",earthquake,9.89,9.348,0.177,9,reviewed,us,us
 2024-11-01T01:05:14.780Z,19.254999160767,-155.37150573731,31.75,2.07999992,md,32,156,0.0301,0.109999999,hv,hv74518802,2024-11-01T01:06:49.840Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.62,0.569999993,0.0199999996,9,automatic,hv,hv
 2024-11-01T01:05:07.470Z,38.791831970215,-122.75749969482,0.75,0.7,md,9,78,0.008949,0.02,nc,nc75081611,2024-11-01T01:22:20.066Z,"2 km N of The Geysers, CA",earthquake,0.31,0.560000002,0.2,9,automatic,nc,nc
+2024-11-01T00:51:35.176Z,32.411,-102.07,7.251,1.6,ml,21,88,0,0.1,tx,tx2024vlig,2024-11-01T12:46:37.690Z,"35 km WSW of Ackerly, Texas",earthquake,0.39371957851847,0.55983104823617,0.1,18,reviewed,tx,tx
 2024-11-01T00:50:33.890Z,32.9768333,-116.2711667,9.92,0.67,ml,21,72,0.035,0.14,ci,ci40785159,2024-11-01T00:56:28.395Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.21,0.5,0.179,8,automatic,ci,ci
 2024-11-01T00:37:59.364Z,61.2606,-152.2689,0.2,1.1,ml,,,,0.46,ak,ak024e22o96o,2024-11-01T00:39:55.957Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-01T00:30:53.060Z,33.0368333,-116.349,3.56,0.72,ml,32,64,0.08299,0.22,ci,ci40785151,2024-11-01T00:36:48.704Z,"24 km WSW of Ocotillo Wells, CA",earthquake,0.29,1.01,0.101,12,automatic,ci,ci
@@ -180,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-31T12:58:26.650Z,33.8826667,-116.7521667,15.4,0.9,ml,26,94,0.06173,0.16,ci,ci40784655,2024-10-31T13:13:49.784Z,"5 km SE of Cabazon, CA",earthquake,0.26,0.61,0.13,7,reviewed,ci,ci
 2024-10-31T12:54:28.320Z,41.656333333333,-111.76666666667,8.68,1.6,ml,29,52,0.07543,0.14,uu,uu80085741,2024-10-31T13:29:45.220Z,"5 km ESE of Millville, Utah",earthquake,0.28,0.66,0.15395636817691,4,reviewed,uu,uu
 2024-10-31T12:47:57.170Z,60.229833333333,-152.81916666667,13.84,0.84,ml,13,175,0.1801,0.06,av,av93338333,2024-10-31T22:54:46.090Z,"67 km WNW of Ninilchik, Alaska",earthquake,0.88,0.58,0.16909923676784,13,reviewed,av,av
-2024-10-31T12:44:03.600Z,61.316166666667,-152.26216666667,1.25,-0.45,ml,7,177,0.07255,0.07,av,av93338328,2024-10-31T22:47:24.350Z,"66 km WNW of Beluga, Alaska",earthquake,0.36,1.82,0.27895160646611,8,reviewed,av,av
-2024-10-31T12:43:15.930Z,34.5125,-118.8813333,9.92,1.17,ml,33,29,0.04419,0.3,ci,ci40784647,2024-10-31T14:17:50.570Z,"13 km NNE of Fillmore, CA",earthquake,0.32,0.77,0.166,13,reviewed,ci,ci
