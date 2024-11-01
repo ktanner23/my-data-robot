@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-01T23:28:05.920Z,33.396,-116.3743333,3.89,0.81,ml,40,55,0.06371,0.21,ci,ci40785927,2024-11-01T23:34:02.776Z,"16 km N of Borrego Springs, CA",earthquake,0.21,0.56,0.138,18,automatic,ci,ci
 2024-11-01T23:13:15.956Z,64.036,-148.7946,0,1.4,ml,,,,0.96,ak,ak024e2g7zj9,2024-11-01T23:15:35.192Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-01T23:07:46.130Z,37.546333312988,-118.82733154297,4.7300000190735,1.13,md,9,212,0.04364,0.02,nc,nc75081981,2024-11-01T23:29:26.706Z,"13 km W of Toms Place, CA",earthquake,1.09,1.28999996,0.27,9,automatic,nc,nc
 2024-11-01T23:05:27.380Z,33.927,-116.0443333,2.71,1.09,ml,39,63,0.08282,0.18,ci,ci40785919,2024-11-01T23:11:49.460Z,"24 km S of Twentynine Palms, CA",earthquake,0.21,0.39,0.184,29,automatic,ci,ci
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T19:29:47.501Z,59.7651,-151.9575,34.8,1.7,ml,,,,0.37,ak,ak024e2dxr1a,2024-11-01T19:31:28.816Z,"7 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-01T19:25:30.240Z,44.787333333333,-110.80583333333,4.89,0.75,md,11,204,0.03182,0.11,uu,uu80085806,2024-11-01T20:57:51.350Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.81,0.68,0.34355486832728,6,reviewed,uu,uu
 2024-11-01T19:25:27.250Z,46.7125,-123.36766666667,-0.28,1.35,ml,7,102,0.007936,0.46,uw,uw62049697,2024-11-01T23:24:11.520Z,"16 km NNW of Pe Ell, Washington",explosion,1.01,31.61,0.13733727056646,4,reviewed,uw,uw
-2024-11-01T19:24:48.790Z,33.8621667,-117.5133333,0.48,1.21,ml,24,196,0.07228,0.21,ci,ci40785751,2024-11-01T19:31:18.008Z,"2 km SSE of Home Gardens, CA",earthquake,0.54,0.39,0.324,33,automatic,ci,ci
+2024-11-01T19:24:48.540Z,33.8755,-117.5115,-0.5,1.06,ml,33,37,0.0801,0.21,ci,ci40785751,2024-11-01T23:37:51.926Z,"1 km ESE of Home Gardens, CA",quarry blast,0.35,31.61,0.17,26,reviewed,ci,ci
 2024-11-01T19:16:45.714Z,58.9595,-152.4478,40.9,2,ml,,,,0.49,ak,ak024e2duyl7,2024-11-01T19:18:55.838Z,"53 km SW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-01T19:07:52.760Z,38.838333129883,-122.82599639893,2.7400000095367,0.25,md,7,124,0.007416,0.02,nc,nc75081916,2024-11-01T19:32:16.982Z,"9 km NNW of The Geysers, CA",earthquake,0.67,0.810000002,0.14,9,automatic,nc,nc
 2024-11-01T19:05:40.890Z,38.849166870117,-122.81700134277,1.5599999427795,0.76,md,12,84,0.007393,0.03,nc,nc75081911,2024-11-01T19:22:14.896Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.769999981,0.27,12,automatic,nc,nc
@@ -141,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T06:47:28.372Z,31.68,-104.408,6.0486,1.3,ml,15,69,0,0.2,tx,tx2024vltw,2024-11-01T11:59:58.394Z,"55 km S of Whites City, New Mexico",earthquake,1.0696256443655,0.99332475279363,0.1,12,reviewed,tx,tx
 2024-11-01T06:46:18.450Z,34.1006667,-116.8523333,4.06,0.85,ml,26,113,0.06969,0.12,ci,ci40785399,2024-11-01T22:24:13.741Z,"17 km SSE of Big Bear Lake, CA",earthquake,0.25,0.29,0.128,14,reviewed,ci,ci
 2024-11-01T06:38:03.370Z,32.928,-115.8301667,7.6,1.3,ml,36,55,0.02715,0.21,ci,ci40785391,2024-11-01T22:13:35.199Z,"23 km WSW of Westmorland, CA",earthquake,0.24,0.44,0.193,25,reviewed,ci,ci
+2024-11-01T06:00:53.840Z,56.872333333333,-158.14466666667,13.25,-0.37,ml,5,149,0.02148,0.13,av,av93025844,2024-11-01T23:31:32.360Z,"66 km NNE of Chignik, Alaska",earthquake,0.83,0.85,0.40169213339405,5,reviewed,av,av
 2024-11-01T05:53:44.410Z,58.2745,-154.95166666667,2.22,-0.8,ml,5,171,0.06284,0.08,av,av93338963,2024-11-01T23:23:09.340Z,"83 km NNW of Karluk, Alaska",earthquake,0.34,0.8,0.14114405765718,5,reviewed,av,av
 2024-11-01T05:39:11.140Z,57.0695,-135.70966666667,5.86,-0.2,ml,4,164,0.005308,0.08,av,av93338943,2024-11-01T23:19:57.540Z,"23 km W of Sitka, Alaska",earthquake,0.76,0.63,0.19775834679465,4,reviewed,av,av
 2024-11-01T05:38:14.931Z,56.3261,-34.0639,10,5.4,mww,129,35,8.803,0.75,us,us7000npb7,2024-11-01T07:41:59.404Z,"Reykjanes Ridge",earthquake,7.38,1.882,0.052,35,reviewed,us,us
@@ -206,4 +208,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T00:06:11.970Z,34.0908333,-118.187,11.33,1.3,ml,24,77,0.05418,0.13,ci,ci40785135,2024-11-01T21:01:42.808Z,"3 km SSE of Highland Park, CA",earthquake,0.23,0.44,0.17,18,reviewed,ci,ci
 2024-11-01T00:02:08.080Z,19.060167312622,-155.38433837891,27.559999465942,2.1500001,md,30,235,0.1199,0.159999996,hv,hv74518772,2024-11-01T00:03:45.420Z,"18 km SSE of Pāhala, Hawaii",earthquake,0.81,1.07000005,0.289999992,4,automatic,hv,hv
 2024-10-31T23:55:45.360Z,42.546833333333,-122.82366666667,15.35,1.96,ml,7,90,0.1819,0.28,uw,uw62049607,2024-11-01T23:08:38.110Z,"7 km S of Shady Cove, Oregon",earthquake,0.58,2.49,0.22814088883443,3,reviewed,uw,uw
-2024-10-31T23:32:19.010Z,38.791168212891,-122.77649688721,1.8899999856949,1.79,md,35,78,0.009148,0.05,nc,nc75081586,2024-11-01T00:09:30.612Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.300000012,0.12,38,automatic,nc,nc
+2024-10-31T23:39:15.510Z,48.415333333333,-123.57566666667,-0.15,0.67,md,4,207,0.167,0.08,uw,uw62049597,2024-11-01T23:36:54.190Z,"4 km NW of Metchosin, Canada",explosion,0.41,31.61,0.12190128046507,2,reviewed,uw,uw
