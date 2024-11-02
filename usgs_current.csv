@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-02T17:27:12.380Z,38.834999084473,-122.88083648682,1.8999999761581,0.8,md,16,125,0.003813,0.03,nc,nc75082281,2024-11-02T17:28:46.879Z,"12 km E of Cloverdale, CA",earthquake,0.31,0.409999996,0.12,17,automatic,nc,nc
 2024-11-02T17:13:31.580Z,19.372333526611,-155.21249389648,1.9400000572205,2.58,ml,47,56,0.003184,0.310000002,hv,hv74520382,2024-11-02T17:16:25.620Z,"8 km SSE of Volcano, Hawaii",earthquake,0.39,0.469999999,0.43,30,automatic,hv,hv
 2024-11-02T17:12:51.910Z,38.803165435791,-122.73466491699,17.129999160767,1.25,md,23,179,0.01996,0.23,nc,nc75082271,2024-11-02T17:14:27.728Z,"2 km SW of Cobb, CA",earthquake,2.2,6.11000013,0.16,23,automatic,nc,nc
+2024-11-02T17:06:56.245Z,31.558,-104.015,5.8788,1.7,ml,15,62,0,0.2,tx,tx2024vokh,2024-11-02T17:20:40.233Z,"34 km NW of Toyah, Texas",earthquake,0,2.3058440685272,0.1,13,automatic,tx,tx
 2024-11-02T16:59:56.386Z,31.706,-104.56,4.9014,2.1,ml,8,198,0,0.1,tx,tx2024vokd,2024-11-02T17:09:04.136Z,"54 km SSW of Whites City, New Mexico",earthquake,0,2.6521587371826,0.2,6,automatic,tx,tx
 2024-11-02T16:58:02.122Z,63.3073,-149.9543,101.1,2,ml,,,,0.41,ak,ak024e3zuwz8,2024-11-02T17:00:28.183Z,"51 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-02T16:48:16.280Z,61.0793,-152.2335,64.1,1.1,ml,,,,0.63,ak,ak024e3zssws,2024-11-02T16:50:26.499Z,"59 km W of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -10,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T16:01:38.220Z,34.0423333,-116.8225,14.2,1.07,ml,46,48,0.01417,0.18,ci,ci40786247,2024-11-02T16:07:45.603Z,"14 km NNE of Banning, CA",earthquake,0.16,0.34,0.179,27,automatic,ci,ci
 2024-11-02T16:00:47.078Z,60.7801,-152.4374,120.2,1.6,ml,,,,0.27,ak,ak024e3zikwz,2024-11-02T16:02:36.452Z,"63 km W of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-02T15:58:21.090Z,38.80933380127,-122.82849884033,4.2300000190735,0.75,md,13,64,0.0007056,0.06,nc,nc75082266,2024-11-02T16:17:19.940Z,"7 km NW of The Geysers, CA",earthquake,0.49,1.39999998,0.14,13,automatic,nc,nc
-2024-11-02T15:56:41.813Z,58.4709,-155.1954,128,2.1,ml,,,,0.3,ak,ak024e3z9505,2024-11-02T15:58:32.904Z,"88 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-11-02T15:56:41.813Z,58.4709,-155.1954,128,2.1,ml,,,,0.3,ak,ak024e3z9505,2024-11-02T17:27:14.040Z,"88 km ESE of King Salmon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-02T15:40:04.412Z,58.2947,-154.8304,2.7,1,ml,,,,0.17,ak,ak024e3z5mnt,2024-11-02T15:42:29.516Z,"83 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-02T15:35:11.380Z,33.0443333,-116.6905,14.09,1.6,ml,57,24,0.07163,0.18,ci,ci40786239,2024-11-02T15:48:32.543Z,"9 km WSW of Julian, CA",earthquake,0.16,0.35,0.243,27,automatic,ci,ci
 2024-11-02T15:33:17.771Z,52.3777,-165.104,9.733,4.5,mb,146,83,1.695,0.43,us,us7000npjx,2024-11-02T16:28:39.040Z,"192 km SSE of Unalaska, Alaska",earthquake,5.34,3.817,0.04,192,reviewed,us,us
@@ -224,5 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T17:50:41.050Z,33.9458333,-116.3316667,5.54,1.03,ml,39,39,0.0643,0.15,ci,ci40785703,2024-11-01T22:59:42.531Z,"15 km NNE of Thousand Palms, CA",earthquake,0.16,0.5,0.213,31,reviewed,ci,ci
 2024-11-01T17:44:07.281Z,36.5622,-117.0733,5.9,1.2,ml,11,146.09,0.18,0.1392,nn,nn00887090,2024-11-01T22:03:45.085Z,"23 km WNW of Furnace Creek, California",earthquake,,5.1,0.17,2,reviewed,nn,nn
 2024-11-01T17:36:23.010Z,61.324833333333,-152.26833333333,-2.39,-0.17,ml,10,127,0.08087,0.18,av,av93339948,2024-11-02T03:17:52.060Z,"66 km WNW of Beluga, Alaska",earthquake,0.35,1.63,0.18252337057875,10,reviewed,av,av
-2024-11-01T17:25:14.789Z,35.00083333,-97.8455,7.45,1.35,ml,52,58,0.0602881694,0.23,ok,ok2024vmox,2024-11-01T17:42:37.581Z,"9 km NE of Ninnekah, Oklahoma",earthquake,,0.6,0.29,32,reviewed,ok,ok
-2024-11-01T17:19:13.455Z,-0.5368,125.8548,37.046,5.4,mb,235,18,1.994,0.6,us,us7000npf5,2024-11-02T14:18:35.549Z,"168 km N of Sanana, Indonesia",earthquake,5.91,4.379,0.04,214,reviewed,us,us
