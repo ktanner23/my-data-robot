@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-02T22:05:15.000Z,18.868,-155.166,17.3,4.1,Ml,40,,,,pt,pt24307050,2024-11-02T22:10:22.197Z,"48 km ESE of Naalehu, Hawaii",earthquake,,,,30,reviewed,pt,pt
+2024-11-02T22:16:29.253Z,62.535,-149.6142,72.9,1.7,ml,,,,0.62,ak,ak024e436kml,2024-11-02T22:18:23.076Z,"26 km ENE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-02T22:15:33.522Z,64.8665,-148.9461,26.1,1.4,ml,,,,0.64,ak,ak024e436d8o,2024-11-02T22:17:02.001Z,"30 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-02T22:05:14.470Z,18.8515,-155.15833333333,5.82,4.32,ml,56,259,0.4171,0.18,hv,hv74520627,2024-11-02T22:24:31.413Z,"50 km ESE of Naalehu, Hawaii",earthquake,0.45,0.44,0.16986974597743,42,reviewed,hv,hv
 2024-11-02T22:01:44.710Z,38.803333282471,-122.78050231934,1.0099999904633,2.01,md,41,59,0.009912,0.06,nc,nc75082371,2024-11-02T22:04:47.290Z,"4 km NNW of The Geysers, CA",earthquake,0.17,0.230000004,0.18,44,automatic,nc,nc
 2024-11-02T21:51:07.030Z,61.5843,-146.5785,21.7,1.9,ml,,,,0.56,ak,ak024e42sldb,2024-11-02T21:53:30.094Z,"46 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-02T21:38:12.838Z,61.3592,-152.3079,4.5,0.6,ml,,,,0.05,ak,ak024e42ptib,2024-11-02T21:39:18.521Z,"70 km WNW of Beluga, Alaska",earthquake,,2.9,,,automatic,ak,ak
@@ -29,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-02T19:18:55.441Z,61.523,-150.6396,33.7,2,ml,,,,0.69,ak,ak024e41er9k,2024-11-02T19:21:11.260Z,"7 km WSW of Susitna, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-11-02T18:50:41.650Z,18.902500152588,-155.17283630371,11.109999656677,2.36,ml,37,284,0.3717,0.150000006,hv,hv74520487,2024-11-02T18:53:33.410Z,"46 km SE of Pāhala, Hawaii",earthquake,0.8,0.540000021,0.1,3,automatic,hv,hv
 2024-11-02T18:46:16.100Z,38.78783416748,-122.74700164795,1.6799999475479,0.91,md,13,84,0.009251,0.02,nc,nc75082296,2024-11-02T19:09:30.196Z,"1 km NE of The Geysers, CA",earthquake,0.27,0.479999989,0.21,13,automatic,nc,nc
+2024-11-02T18:37:41.002Z,-27.7709,-66.7158,179.226,4.4,mb,24,102,3.256,0.99,us,us7000npkq,2024-11-02T22:22:21.040Z,"38 km SE of La Puerta de San José, Argentina",earthquake,9.46,11.078,0.17,10,reviewed,us,us
 2024-11-02T18:37:18.036Z,63.2264,-151.1227,0,2.2,ml,,,,0.91,ak,ak024e40xa0n,2024-11-02T18:39:27.630Z,"46 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-02T18:33:39.360Z,33.3583333,-116.376,11.47,1.45,ml,71,18,0.03238,0.2,ci,ci40786399,2024-11-02T18:43:04.565Z,"11 km N of Borrego Springs, CA",earthquake,0.16,0.26,0.132,27,automatic,ci,ci
 2024-11-02T18:32:25.420Z,33.355,-116.377,11.4,2.47,ml,101,15,0.02938,0.2,ci,ci40786391,2024-11-02T21:49:37.040Z,"11 km N of Borrego Springs, CA",earthquake,0.12,0.24,0.142,26,automatic,ci,ci
@@ -220,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-01T22:29:24.380Z,34.08,-118.1861667,10.89,1.44,ml,15,174,0.06272,0.09,ci,ci40785903,2024-11-01T22:35:43.767Z,"5 km SSE of Highland Park, CA",earthquake,0.37,0.32,0.33,38,automatic,ci,ci
 2024-11-01T22:27:41.230Z,33.649,-116.739,14.01,0.99,ml,40,53,0.05789,0.12,ci,ci40785895,2024-11-01T22:59:25.600Z,"10 km S of Idyllwild, CA",earthquake,0.14,0.25,0.207,29,reviewed,ci,ci
 2024-11-01T22:26:38.766Z,-20.9093,-176.4429,262.89,4.4,mb,21,117,1.186,0.67,us,us7000npgh,2024-11-01T22:46:12.040Z,"122 km WNW of Houma, Tonga",earthquake,15.75,11.23,0.134,16,reviewed,us,us
-2024-11-01T22:24:18.440Z,17.936333333333,-66.834333333333,14.91,2.43,md,7,217,0.05755,0.09,pr,pr71464393,2024-11-01T22:58:56.540Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.87,0.61,0.081201122425703,5,reviewed,pr,pr
