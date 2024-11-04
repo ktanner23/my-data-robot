@@ -1,11 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-04T11:13:36.340Z,34.0121651,-116.3195038,8.6,1.03,ml,26,63,0.08166,0.09,ci,ci40787183,2024-11-04T11:15:38.786Z,"14 km S of Joshua Tree, CA",earthquake,0.29,0.73,0.248,7,automatic,ci,ci
-2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38,48,,0.16,nc,nc75082671,2024-11-04T10:55:43.860Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35,automatic,nc,nc
+2024-11-04T11:20:01.620Z,33.4990005,-116.5183334,12.05,3.32,ml,109,30,0.0593,0.21,ci,ci40787191,2024-11-04T11:26:36.337Z,"16 km ESE of Anza, CA",earthquake,0.2,0.51,0.277,15,automatic,ci,ci
+2024-11-04T11:19:44.341Z,61.9973,-148.3381,31,1.7,ml,,,,0.77,ak,ak024e77q69u,2024-11-04T11:21:35.547Z,"23 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
+2024-11-04T11:13:36.330Z,34.0115,-116.3216667,8.88,0.96,ml,41,61,0.08086,0.13,ci,ci40787183,2024-11-04T11:24:18.013Z,"14 km S of Joshua Tree, CA",earthquake,0.16,0.39,0.147,24,automatic,ci,ci
+2024-11-04T11:08:16.905Z,31.443,-103.447,8.7633,1.6,ml,8,167,0.1,0.6,tx,tx2024vrpa,2024-11-04T11:19:20.607Z,"4 km ENE of Pecos, Texas",earthquake,0,4.838098526001,0.3,6,automatic,tx,tx
+2024-11-04T10:52:30.790Z,36.839500427246,-121.59549713135,4.6900000572205,1.95,md,38,48,,0.16,nc,nc75082671,2024-11-04T11:17:24.505Z,"5 km W of San Juan Bautista, CA",earthquake,0.25,0.819999993,0.19,35,automatic,nc,nc
 2024-11-04T10:43:51.645Z,62.2778,-149.7729,13.7,1.5,ml,,,,0.55,ak,ak024e779wf0,2024-11-04T10:45:48.599Z,"13 km NNE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-11-04T10:09:19.100Z,36.840999603271,-121.59449768066,8.0299997329712,1.84,md,39,48,0.04285,0.16,nc,nc75082666,2024-11-04T10:27:18.129Z,"5 km W of San Juan Bautista, CA",earthquake,0.31,0.629999995,0.23,33,automatic,nc,nc
 2024-11-04T09:43:26.929Z,31.649,-104.369,4.191,1.8,ml,25,62,0.1,0.4,tx,tx2024vrme,2024-11-04T10:08:56.095Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1624128818512,0.2,19,automatic,tx,tx
 2024-11-04T09:31:01.660Z,18.909000396729,-155.16400146484,2.8699998855591,2.46000004,md,23,263,0.3736,0.209999993,hv,hv74521872,2024-11-04T09:32:36.560Z,"46 km SE of Pāhala, Hawaii",earthquake,1.6,2.05999994,0.280000001,3,automatic,hv,hv
 2024-11-04T09:17:02.479Z,61.7072,-150.1358,33.5,1.4,ml,,,,0.37,ak,ak024e76isef,2024-11-04T09:18:24.637Z,"6 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-04T09:13:52.613Z,-7.4553,128.0633,136.087,4.4,mb,31,60,3.441,0.87,us,us7000npu0,2024-11-04T11:21:35.040Z,"166 km NE of Lospalos, Timor Leste",earthquake,10.38,8.796,0.115,22,reviewed,us,us
 2024-11-04T08:42:27.760Z,34.0921667,-118.1913333,10.67,1.69,ml,21,81,0.05608,0.11,ci,ci40787159,2024-11-04T08:48:51.602Z,"3 km SSE of Highland Park, CA",earthquake,0.57,0.58,0.253,3,automatic,ci,ci
 2024-11-04T08:33:34.627Z,62.5349,-149.7822,65.4,1.6,ml,,,,0.5,ak,ak024e760uqe,2024-11-04T08:35:38.451Z,"19 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-04T08:32:26.967Z,8.0326,126.3166,10,4.9,mb,71,87,1.204,0.69,us,us7000nptx,2024-11-04T09:01:09.876Z,"10 km W of Lingig, Philippines",earthquake,8.12,1.868,0.052,119,reviewed,us,us
@@ -127,5 +131,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-03T12:06:47.006Z,25.4573,142.5981,10,4.9,mb,69,90,1.673,1.04,us,us7000npq0,2024-11-03T13:02:39.040Z,"Volcano Islands, Japan region",earthquake,10.87,1.896,0.069,68,reviewed,us,us
 2024-11-03T11:47:45.610Z,19.179832458496,-155.51416015625,30.489999771118,2.47,ml,60,85,0.05487,0.150000006,hv,hv74521142,2024-11-04T06:26:54.040Z,"4 km SW of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.27,34,automatic,hv,hv
 2024-11-03T11:36:46.922Z,62.2614,-148.7921,31.7,1.9,ml,,,,0.52,ak,ak024e5kah5g,2024-11-03T11:38:35.832Z,"53 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-03T11:24:22.730Z,18.872667312622,-155.21383666992,9.8699998855591,2.27999997,md,46,261,0.3664,0.140000001,hv,hv74521127,2024-11-03T11:26:36.630Z,"44 km ESE of Naalehu, Hawaii",earthquake,0.56,0.610000014,0.230000004,19,automatic,hv,hv
-2024-11-03T11:17:45.103Z,-21.5515,-178.8835,573.724,5,mb,53,97,4.762,0.76,us,us7000nppn,2024-11-03T11:33:07.040Z,"Fiji region",earthquake,12.47,8.88,0.089,40,reviewed,us,us
