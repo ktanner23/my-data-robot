@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T20:21:27.229Z,63.6654,-148.3123,15.5,1.7,ml,,,,0.6,ak,ak024e90mtbm,2024-11-05T20:23:12.887Z,"30 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-05T20:13:46.950Z,35.8633333,-117.6655,7.83,2.23,ml,35,44,0.07285,0.14,ci,ci40788047,2024-11-05T20:24:50.030Z,"23 km ESE of Little Lake, CA",earthquake,0.15,0.45,0.159,25,automatic,ci,ci
 2024-11-05T20:06:34.351Z,64.794,-150.5927,15,2,ml,,,,0.78,ak,ak024e90jm4r,2024-11-05T20:08:25.364Z,"23 km S of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-11-05T19:39:41.219Z,-12.9349,-75.1973,79.395,5.7,mww,119,59,1.862,0.85,us,us7000nq3d,2024-11-05T22:33:09.736Z,"14 km NNW of Santa Ana, Peru",earthquake,7.62,6.353,0.049,40,reviewed,us,us
+2024-11-05T19:39:41.219Z,-12.9349,-75.1973,79.395,5.7,mww,119,59,1.862,0.85,us,us7000nq3d,2024-11-05T22:37:48.870Z,"14 km NNW of Santa Ana, Peru",earthquake,7.62,6.353,0.049,40,reviewed,us,us
 2024-11-05T19:33:52.511Z,62.0634,-151.3537,69.9,1.8,ml,,,,0.19,ak,ak024e90409f,2024-11-05T19:35:16.614Z,"8 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-05T19:26:11.070Z,35.8781667,-117.6966667,8.61,0.96,ml,24,40,0.07908,0.1,ci,ci40788023,2024-11-05T19:54:57.389Z,"20 km ESE of Little Lake, CA",earthquake,0.14,0.39,0.134,11,reviewed,ci,ci
 2024-11-05T19:22:01.750Z,18.3215,-66.520833333333,11.75,2.55,md,7,94,0.1501,0.13,pr,pr71464883,2024-11-05T22:23:19.050Z,"5 km WSW of Ciales, Puerto Rico",earthquake,0.32,0.87,0.025376359502813,3,reviewed,pr,pr
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T12:02:14.800Z,33.148,-116.4451667,10.7,0.57,ml,32,76,0.07075,0.23,ci,ci37687836,2024-11-05T16:41:44.805Z,"14 km SSW of Borrego Springs, CA",earthquake,0.3,0.62,0.233,6,reviewed,ci,ci
 2024-11-05T12:02:04.150Z,33.1498333,-116.4446667,10.36,0.54,ml,38,64,0.07254,0.17,ci,ci40787887,2024-11-05T16:27:22.194Z,"14 km SSW of Borrego Springs, CA",earthquake,0.2,0.44,0.085,7,reviewed,ci,ci
 2024-11-05T11:57:07.460Z,19.193000793457,-155.36566162109,29.489999771118,1.76999998,md,36,178,0.05352,0.170000002,hv,hv74522757,2024-11-05T12:28:02.936Z,"11 km E of Pāhala, Hawaii",earthquake,0.77,0.819999993,0.0900000036,7,automatic,hv,hv
-2024-11-05T11:42:32.230Z,19.16,-155.51183333333,38.35,4.75,ml,60,112,0.04722,0.11,hv,hv74522742,2024-11-05T22:35:42.797Z,"5 km SW of Pāhala, Hawaii",earthquake,0.42,0.44,0.183679842231,44,reviewed,hv,hv
+2024-11-05T11:42:32.230Z,19.16,-155.51183333333,38.35,4.75,ml,60,112,0.04722,0.11,hv,hv74522742,2024-11-05T22:40:57.836Z,"5 km SW of Pāhala, Hawaii",earthquake,0.42,0.44,0.183679842231,44,reviewed,hv,hv
 2024-11-05T11:27:00.400Z,18.3133,-67.9595,7,3.46,md,15,183,0.4672,0.59,pr,pr2024310000,2024-11-05T13:48:37.827Z,"55 km ESE of Punta Cana, Dominican Republic",earthquake,6.23,2.56,0.11,8,reviewed,pr,pr
 2024-11-05T11:24:02.810Z,62.4892,-151.5933,93.7,1.6,ml,,,,0.3,ak,ak024e8vai55,2024-11-05T11:26:10.911Z,"42 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-05T11:10:15.182Z,36.7245,-115.9572,0.3,0,ml,9,245.31,0.023,0.1327,nn,nn00887196,2024-11-05T19:17:39.111Z,"30 km WNW of Indian Springs, Nevada",earthquake,,4.3,0.02,2,reviewed,nn,nn
@@ -133,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T02:44:30.250Z,19.433332443237,-155.28149414062,0.73000001907349,1.92999995,md,7,276,0.01531,0.170000002,hv,hv74522467,2024-11-05T02:45:51.070Z,"5 km WSW of Volcano, Hawaii",earthquake,1.02,0.730000019,0.239999995,6,automatic,hv,hv
 2024-11-05T02:43:33.960Z,17.988833333333,-66.826166666667,15.17,2.33,md,10,173,0.04332,0.13,pr,pr71464703,2024-11-05T02:53:58.250Z,"0 km SW of Indios, Puerto Rico",earthquake,0.5,0.68,0.13261285028571,6,reviewed,pr,pr
 2024-11-05T02:31:10.412Z,61.5099,-151.2155,10.7,1.3,ml,,,,0.59,ak,ak024e8pz4ap,2024-11-05T02:33:11.504Z,"37 km W of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-11-05T02:16:49.250Z,61.326666666667,-152.2765,0.19,-0.6,ml,8,185,0.08206,0.2,av,av93345723,2024-11-05T22:40:34.630Z,"67 km WNW of Beluga, Alaska",earthquake,0.57,4.48,0.17963359403137,8,reviewed,av,av
 2024-11-05T01:59:59.328Z,63.2769,-148.4981,207.7,1.5,ml,,,,1.17,ak,ak024e8pjsik,2024-11-05T02:03:04.175Z,"26 km ESE of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-05T01:59:43.850Z,37.46549987793,-118.78316497803,2.9400000572205,1.86,md,27,132,0.1296,0.05,nc,nc75082831,2024-11-05T02:14:29.883Z,"14 km SW of Toms Place, CA",earthquake,0.33,1.34000003,0.19,25,automatic,nc,nc
 2024-11-05T01:56:41.155Z,63.3213,-149.6391,101,1,ml,,,,0.13,ak,ak024e8pj3yr,2024-11-05T01:59:02.046Z,"35 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -157,5 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-04T23:08:40.000Z,19.01,-65.435666666667,11.05,3.13,md,20,243,0.7137,0.27,pr,pr71464673,2024-11-04T23:50:44.500Z,"76 km NNE of Luquillo, Puerto Rico",earthquake,1.46,2.23,0.2087535261885,18,reviewed,pr,pr
 2024-11-04T23:02:25.910Z,51.955166666667,178.513,5.1,-0.01,ml,4,175,0.006946,0.21,av,av93026134,2024-11-05T21:06:43.250Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.93,1.37,0.51738019330161,4,reviewed,av,av
 2024-11-04T22:59:46.067Z,63.0645,-150.9301,119,2.9,ml,,,,0.47,ak,ak024e7eiio8,2024-11-04T23:01:35.548Z,"63 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-11-04T22:44:04.378Z,64.639,-148.0348,6.5,1,ml,,,,0.8,ak,ak024e7ef7qt,2024-11-04T22:45:55.950Z,"22 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-11-04T22:43:22.027Z,63.2163,-149.6518,86.3,2,ml,,,,0.86,ak,ak024e7ef06w,2024-11-04T22:45:58.676Z,"40 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
