@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-06T23:15:02.640Z,19.247833251953,-155.39083862305,29.989999771118,2.35,ml,56,131,0.01205,0.150000006,hv,hv74524022,2024-11-06T23:17:54.340Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.39,0.50999999,0.46,21,automatic,hv,hv
 2024-11-06T23:10:34.520Z,33.7883333,-116.0748333,2.13,1.2,ml,33,88,0.1224,0.16,ci,ci40788863,2024-11-06T23:17:37.344Z,"15 km ENE of Indio, CA",earthquake,0.19,0.32,0.129,27,automatic,ci,ci
-2024-11-06T23:09:59.030Z,36.6143333,-117.1096667,0.01,2.85,ml,16,186,0.396,0.15,ci,ci40788855,2024-11-06T23:16:48.335Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.43,1.21,0.159,25,automatic,ci,ci
+2024-11-06T23:09:59.030Z,36.6143333,-117.1096667,0.01,2.85,ml,16,186,0.396,0.15,ci,ci40788855,2024-11-06T23:34:12.559Z,"4 km ENE of Stovepipe Wells, CA",earthquake,0.43,1.21,0.159,25,automatic,ci,ci
 2024-11-06T23:08:13.780Z,44.757833333333,-111.1285,6.74,0.46,md,5,111,0.04875,0.11,uu,uu80086021,2024-11-06T23:26:09.560Z,"5 km ESE of Hebgen Lake Estates, Montana",earthquake,0.52,1,0.22674170897873,4,reviewed,uu,uu
 2024-11-06T22:58:34.470Z,35.7965,-117.6283333,4.14,1.65,ml,34,55,0.03157,0.13,ci,ci40788839,2024-11-06T23:12:29.476Z,"20 km NNE of Ridgecrest, CA",earthquake,0.13,0.31,0.131,26,automatic,ci,ci
-2024-11-06T22:55:04.379Z,25.4413,142.854,10,5.9,mww,110,46,1.754,1.05,us,us7000nqb9,2024-11-06T23:13:43.384Z,"Volcano Islands, Japan region",earthquake,8.29,1.839,0.05,38,reviewed,us,us
+2024-11-06T22:55:04.063Z,25.4621,142.8479,8,5.8,mww,185,23,1.732,0.61,us,us7000nqb9,2024-11-06T23:36:11.040Z,"Volcano Islands, Japan region",earthquake,8.09,1.751,0.056,31,reviewed,us,us
 2024-11-06T22:51:18.270Z,62.9134,-152.8852,0,1.6,ml,,,,0.43,ak,ak024eapjfv2,2024-11-06T22:53:40.054Z,"76 km E of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-06T22:43:25.596Z,63.0608,-151.0591,29.5,1.9,ml,,,,1.29,ak,ak024eaphqnj,2024-11-06T22:45:39.472Z,"63 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-06T22:30:33.790Z,38.829666137695,-122.8818359375,1.7000000476837,1.04,md,10,136,0.008637,0.05,nc,nc75083306,2024-11-06T22:57:14.436Z,"12 km E of Cloverdale, CA",earthquake,0.85,0.589999974,0.28,10,automatic,nc,nc
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-06T17:42:33.958Z,31.464,-103.98,1.947,1.8,ml,16,79,0.1,0.1,tx,tx2024vvta,2024-11-06T18:44:44.471Z,"24 km NW of Toyah, Texas",earthquake,0.85436429887776,1.3301547050684,0.1,13,reviewed,tx,tx
 2024-11-06T17:34:17.161Z,63.0068,-149.3628,66.7,1.5,ml,,,,0.43,ak,ak024eamgmj8,2024-11-06T17:35:59.021Z,"47 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-06T17:25:59.000Z,38.455,-112.7995,4.01,0.32,md,12,148,0.04881,0.07,uu,uu80086006,2024-11-06T18:14:56.170Z,"19 km ENE of Milford, Utah",earthquake,0.46,0.74,0.13688182003629,3,reviewed,uu,uu
-2024-11-06T17:19:36.448Z,23.5462,121.6662,10,5,mwr,74,58,0.904,1.11,us,us7000nqa4,2024-11-06T23:27:18.084Z,"48 km S of Hualien City, Taiwan",earthquake,3.77,1.855,0.068,21,reviewed,us,us
+2024-11-06T17:19:36.448Z,23.5462,121.6662,10,5,mwr,74,58,0.904,1.11,us,us7000nqa4,2024-11-06T23:33:20.910Z,"48 km S of Hualien City, Taiwan",earthquake,3.77,1.855,0.068,21,reviewed,us,us
 2024-11-06T17:19:02.200Z,33.6758333,-116.746,15.73,0.27,ml,8,220,0.04412,0.08,ci,ci40788687,2024-11-06T19:23:14.083Z,"8 km SSW of Idyllwild, CA",earthquake,0.44,0.62,0.158,5,reviewed,ci,ci
 2024-11-06T17:18:17.650Z,40.242332458496,-124.86533355713,4.5999999046326,2.08,md,7,300,0.4026,0.14,nc,nc75083226,2024-11-06T17:27:14.070Z,"50 km W of Petrolia, CA",earthquake,10.08,8.06000042,0.09,6,automatic,nc,nc
 2024-11-06T17:10:21.867Z,61.3038,-152.3509,0,0.9,ml,,,,0.51,ak,ak024eambhpm,2024-11-06T19:52:18.670Z,"70 km WNW of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
