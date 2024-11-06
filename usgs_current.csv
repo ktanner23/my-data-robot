@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-06T06:03:01.420Z,35.789,-117.5968333,5.11,1,ml,29,68,0.02669,0.18,ci,ci40788399,2024-11-06T06:08:49.869Z,"18 km W of Searles Valley, CA",earthquake,0.2,0.36,0.151,13,automatic,ci,ci
+2024-11-06T06:01:50.420Z,61.2987,-152.2826,8.6,0.9,ml,,,,0.21,ak,ak024eafpute,2024-11-06T06:03:16.480Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-06T05:59:58.109Z,62.9229,-151.3026,111.4,1.9,ml,,,,0.2,ak,ak024eafgvc2,2024-11-06T06:04:25.458Z,"54 km NNW of Petersville, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-11-06T05:39:21.200Z,33.148,-116.4441667,9.99,0.83,ml,46,50,0.07069,0.2,ci,ci40788391,2024-11-06T05:45:24.473Z,"14 km SSW of Borrego Springs, CA",earthquake,0.22,0.51,0.12,17,automatic,ci,ci
 2024-11-06T05:20:40.600Z,38.791000366211,-122.7576675415,-0.34000000357628,1.72,md,8,84,0.03394,0.01,nc,nc75083126,2024-11-06T05:42:14.806Z,"2 km N of The Geysers, CA",earthquake,0.25,0.769999981,0.11,8,automatic,nc,nc
 2024-11-06T05:19:47.574Z,63.2062,-151.3103,0,2.6,ml,,,,0.87,ak,ak024eaf89vp,2024-11-06T05:22:11.576Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -37,6 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T23:59:41.520Z,38.796165466309,-122.74949645996,1.2400000095367,1.05,md,14,94,0.009141,0.03,nc,nc75083046,2024-11-06T00:27:16.442Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.49000001,0.08,14,automatic,nc,nc
 2024-11-05T23:49:17.470Z,34.1115,-117.4818333,7.39,1.01,ml,30,46,0.08331,0.12,ci,ci40788231,2024-11-06T00:00:32.944Z,"3 km NW of Fontana, CA",earthquake,0.18,0.46,0.202,30,automatic,ci,ci
 2024-11-05T23:39:43.560Z,38.768665313721,-122.73883056641,0.36000001430512,0.7,md,5,90,0.01301,0.1,nc,nc75083036,2024-11-05T23:57:18.200Z,"2 km SE of The Geysers, CA",earthquake,0.47,1.04999995,0.21,6,automatic,nc,nc
+2024-11-05T23:18:06.900Z,48.474,-123.52633333333,-0.21,1.3,ml,6,135,0.1472,0.07,uw,uw62058736,2024-11-06T06:04:42.740Z,"3 km NNW of Langford, Canada",explosion,0.53,31.61,0.094174932907973,2,reviewed,uw,uw
 2024-11-05T23:10:46.570Z,38.833667755127,-122.81566619873,1.0199999809265,0.89,md,8,91,0.01115,0.01,nc,nc75083031,2024-11-05T23:27:15.975Z,"8 km NNW of The Geysers, CA",earthquake,0.33,1,0.22,10,automatic,nc,nc
 2024-11-05T22:29:57.750Z,35.545,-96.7425,6.49,1.66,ml,54,49,0.009898057663,0.16,ok,ok2024vugz,2024-11-05T23:28:22.180Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.23,26,reviewed,ok,ok
 2024-11-05T22:22:53.875Z,36.5904,-117.091,0,1.4,ml,20,93.16,0.323,0.1971,nn,nn00887207,2024-11-05T23:16:02.228Z,"26 km NW of Furnace Creek, California",earthquake,,0,0.49,6,reviewed,nn,nn
@@ -151,5 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-05T06:50:53.820Z,40.444000244141,-121.55449676514,0.89999997615814,1.6,md,9,108,0.03437,0.24,nc,nc75082891,2024-11-05T07:09:29.017Z,"10 km NNE of Mineral, CA",earthquake,1.25,2.70000005,0.07,7,automatic,nc,nc
 2024-11-05T06:46:44.700Z,36.542999267578,-121.08650207519,0.51999998092651,1.54,md,7,119,0.05179,0.27,nc,nc75082886,2024-11-05T07:09:29.109Z,"5 km E of Pinnacles, CA",earthquake,4.06,18.4400005,0.09,5,automatic,nc,nc
 2024-11-05T06:14:38.026Z,29.124,-97.859,2.8076,2.7,ml,31,80,0.1,0.3,tx,tx2024vtav,2024-11-05T13:51:05.894Z,"15 km SE of Stockdale, Texas",earthquake,1.2292216758476,1.962282111465,0.2,24,reviewed,tx,tx
-2024-11-05T06:01:32.700Z,36.8707,-117.8346,5.3,0.8,ml,7,220.65,0.392,0.153,nn,nn00887176,2024-11-05T17:12:05.210Z,"33 km ENE of Independence, California",earthquake,,5.9,0.03,3,reviewed,nn,nn
-2024-11-05T05:58:55.530Z,60.3744,-147.6277,30.2,2.2,ml,,,,0.09,ak,ak024e8rxaxd,2024-11-05T09:41:31.040Z,"40 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
