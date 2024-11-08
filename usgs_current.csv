@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-08T15:47:41.600Z,40.304164886475,-123.6575012207,22.819999694824,1.84,md,20,60,0.09737,0.11,nc,nc75083986,2024-11-08T15:49:19.277Z,"25 km NE of Redway, CA",earthquake,0.5,0.649999976,0.08,9,automatic,nc,nc
-2024-11-08T15:47:05.570Z,35.838501,-117.6708298,8.94,0.97,ml,20,80,0.06377,0.18,ci,ci40789935,2024-11-08T15:49:15.861Z,"24 km ESE of Little Lake, CA",earthquake,0.4,1,0.28,4,automatic,ci,ci
+2024-11-08T15:47:05.460Z,35.8395,-117.6691667,10.08,0.81,ml,24,51,0.06287,0.13,ci,ci40789935,2024-11-08T15:52:56.091Z,"24 km ESE of Little Lake, CA",earthquake,0.19,0.35,0.187,9,automatic,ci,ci
 2024-11-08T15:35:22.540Z,33.7385,-116.8001667,12.49,0.51,ml,8,282,0.1262,0.08,ci,ci40789927,2024-11-08T15:46:05.148Z,"8 km W of Idyllwild, CA",earthquake,0.79,1.03,0.128,9,automatic,ci,ci
 2024-11-08T15:33:10.750Z,40.308834075928,-123.64749908447,25.590000152588,1.6,md,9,165,0.08903,0.09,nc,nc75083976,2024-11-08T15:49:30.581Z,"26 km NE of Redway, CA",earthquake,0.9,1.79999995,0.23,2,automatic,nc,nc
 2024-11-08T15:24:32.160Z,34.2711667,-116.4023333,3.82,1.74,ml,53,49,0.02605,0.14,ci,ci40789919,2024-11-08T15:40:02.586Z,"17 km NNW of Joshua Tree, CA",earthquake,0.15,0.28,0.138,26,automatic,ci,ci
@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-08T03:13:36.919Z,-24.2741,-67.0658,178.53,4.1,mb,35,70,1.666,0.71,us,us7000nqjb,2024-11-08T03:49:04.040Z,"76 km W of San Antonio de los Cobres, Argentina",earthquake,8.83,8.204,0.13,16,reviewed,us,us
 2024-11-08T03:01:06.390Z,33.7366667,-116.0566667,3.49,1.09,ml,50,50,0.0875,0.15,ci,ci40789703,2024-11-08T03:07:21.665Z,"12 km ENE of Coachella, CA",earthquake,0.14,0.29,0.134,27,automatic,ci,ci
 2024-11-08T02:53:22.940Z,-41.4541,-84.6349,10,5,mb,31,138,9.055,0.86,us,us7000nqj9,2024-11-08T03:19:04.040Z,"West Chile Rise",earthquake,13.46,1.894,0.049,132,reviewed,us,us
-2024-11-08T02:34:42.740Z,40.442501068115,-125.28383636475,4.6100001335144,2.72,md,18,244,0.7355,0.22,nc,nc75083811,2024-11-08T10:23:38.373Z,"86 km WNW of Petrolia, CA",earthquake,2.78,19.4699993,0.05,4,automatic,nc,nc
+2024-11-08T02:34:42.740Z,40.442501068115,-125.28383636475,4.6100001335144,2.72,md,18,244,0.7355,0.22,nc,nc75083811,2024-11-08T15:55:31.668Z,"86 km WNW of Petrolia, CA",earthquake,2.78,19.4699993,0.05,4,automatic,nc,nc
 2024-11-08T02:28:38.988Z,39.5577,-120.318,10.3,0.2,ml,5,122.79,0.048,0.1108,nn,nn00887312,2024-11-08T03:51:33.155Z,"5 km SE of Sierraville, California",earthquake,,2.3,0.55,3,reviewed,nn,nn
 2024-11-08T02:26:47.540Z,38.838165283203,-122.80783081055,2.1900000572205,1.05,md,18,53,0.01366,0.01,nc,nc75083806,2024-11-08T02:54:29.231Z,"8 km WNW of Cobb, CA",earthquake,0.23,0.529999971,0.07,19,automatic,nc,nc
 2024-11-08T02:21:22.720Z,62.8355,-150.738,101,1.8,ml,,,,0.35,ak,ak024edoj1kg,2024-11-08T02:23:31.916Z,"37 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -179,5 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-07T16:15:34.405Z,64.9905,-147.4529,0,1.5,ml,,,,0.59,ak,ak024ec9ai5c,2024-11-07T16:17:30.407Z,"8 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-07T16:07:35.860Z,44.244,-110.7895,5.41,1.82,ml,11,66,0.02907,0.29,uu,uu80001638,2024-11-07T18:00:59.230Z,"44 km ENE of Warm River, Idaho",earthquake,0.91,1.29,0.35970936692907,3,reviewed,uu,uu
 2024-11-07T16:07:28.130Z,44.2245,-110.7765,0.93,1.02,md,11,73,0.05066,0.24,uu,uu80086076,2024-11-07T17:51:22.340Z,"45 km ENE of Warm River, Idaho",earthquake,0.98,0.63,0.43719666517791,4,reviewed,uu,uu
-2024-11-07T15:54:10.882Z,25.5181,142.671,37.757,4.7,mb,40,143,1.631,0.52,us,us7000nqec,2024-11-07T16:25:19.040Z,"Volcano Islands, Japan region",earthquake,9.56,7.066,0.097,32,reviewed,us,us
-2024-11-07T15:51:14.645Z,36.6168,-117.1322,5.5,1.1,ml,12,268.96,0.359,0.3737,nn,nn00887299,2024-11-07T15:53:31.838Z,"31 km NW of Furnace Creek, California",earthquake,,3,0.38,10,automatic,nn,nn
