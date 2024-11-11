@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-11T19:24:40.310Z,33.8833333,-117.0523333,1.83,1.29,ml,18,123,0.07073,0.18,ci,ci40791759,2024-11-11T19:31:32.201Z,"9 km SW of Beaumont, CA",earthquake,1.29,0.82,0.137,30,automatic,ci,ci
-2024-11-11T19:11:51.890Z,38.820667266846,-122.81116485596,2.789999961853,1.08,md,14,63,0.002854,0.01,nc,nc75085401,2024-11-11T19:13:28.995Z,"7 km NNW of The Geysers, CA",earthquake,0.33,1.07000005,0.15,14,automatic,nc,nc
+2024-11-11T19:11:51.890Z,38.820667266846,-122.81116485596,2.789999961853,1.08,md,14,63,0.002854,0.01,nc,nc75085401,2024-11-11T19:37:14.490Z,"7 km NNW of The Geysers, CA",earthquake,0.33,1.07000005,0.15,14,automatic,nc,nc
 2024-11-11T19:07:40.860Z,38.822834014893,-122.84300231934,2.2000000476837,0.71,md,15,103,0.01181,0.02,nc,nc75085396,2024-11-11T19:27:16.414Z,"9 km NW of The Geysers, CA",earthquake,0.28,0.49000001,0.12,15,automatic,nc,nc
 2024-11-11T18:58:02.890Z,36.1473333,-118.0518333,0.38,1.48,ml,30,57,0.1622,0.16,ci,ci40791751,2024-11-11T19:05:41.052Z,"15 km NW of Coso Junction, CA",earthquake,0.21,0.41,0.243,23,automatic,ci,ci
 2024-11-11T18:55:35.817Z,36.6348,-115.7235,10.1,1,ml,24,142.28,0.194,0.2307,nn,nn00887448,2024-11-11T18:57:38.268Z,"8 km NNW of Indian Springs, Nevada",earthquake,,1.4,0.35,15,automatic,nn,nn
@@ -36,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-11T14:28:34.550Z,33.1186667,-116.4068333,8.18,1.16,ml,57,29,0.04894,0.19,ci,ci40791663,2024-11-11T17:39:26.154Z,"16 km S of Borrego Springs, CA",earthquake,0.17,0.73,0.125,23,reviewed,ci,ci
 2024-11-11T14:26:15.790Z,35.6651667,-117.57,7.04,0.55,ml,15,72,0.07652,0.17,ci,ci40791655,2024-11-11T16:30:42.586Z,"11 km ENE of Ridgecrest, CA",earthquake,0.29,0.86,0.055,5,reviewed,ci,ci
 2024-11-11T14:25:20.080Z,37.395832061768,-118.49649810791,8.3199996948242,2.14,md,10,212,0.1577,0.08,nc,nc75085331,2024-11-11T14:32:17.382Z,"5 km NNW of West Bishop, CA",earthquake,0.87,3.53999996,0.34,5,automatic,nc,nc
+2024-11-11T14:23:33.560Z,44.788333333333,-111.152,9.68,-0.28,md,9,120,0.03333,0.18,uu,uu80086361,2024-11-11T19:43:59.140Z,"3 km NE of Hebgen Lake Estates, Montana",earthquake,0.51,1.19,0.14732879798638,4,reviewed,uu,uu
 2024-11-11T14:22:33.880Z,59.364833333333,-153.447,-0.24,0.28,ml,6,146,0.002531,0.12,av,av93361083,2024-11-11T18:48:35.010Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.23,0.11,0.28383132096994,6,reviewed,av,av
 2024-11-11T13:55:19.029Z,60.6786,-149.4422,27.1,1.9,ml,,,,0.61,ak,ak024eitw4ri,2024-11-11T13:57:55.231Z,"21 km N of Moose Pass, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-11T13:52:40.160Z,17.975666666667,-66.941166666667,11.02,2.05,md,6,177,0.05893,0.09,pr,pr71465438,2024-11-11T16:05:42.260Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.48,0.88,0.12337236847809,5,reviewed,pr,pr
@@ -154,7 +155,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T22:35:42.130Z,38.803165435791,-122.73516845703,0.46999999880791,1.01,md,15,113,0.01934,0.06,nc,nc75085031,2024-11-10T22:52:15.013Z,"2 km SW of Cobb, CA",earthquake,0.28,0.670000017,0.24,15,automatic,nc,nc
 2024-11-10T22:35:12.752Z,-4.9359,132.0684,10,5,mb,32,133,2.011,1.15,us,us7000nr2k,2024-11-10T22:46:40.040Z,"107 km NW of Tual, Indonesia",earthquake,3.68,1.874,0.115,24,reviewed,us,us
 2024-11-10T22:31:59.010Z,35.7746667,-117.6001667,6.98,0.53,ml,12,122,0.04104,0.16,ci,ci40791455,2024-11-10T23:09:24.090Z,"18 km W of Searles Valley, CA",earthquake,0.3,0.58,0.168,6,reviewed,ci,ci
-2024-11-10T22:29:06.369Z,61.5049,-150.0031,35.1,3.6,ml,,,,0.9,ak,ak024ehbk326,2024-11-11T16:40:45.436Z,"3 km SW of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2024-11-10T22:29:06.369Z,61.5049,-150.0031,35.1,3.6,ml,,,,0.9,ak,ak024ehbk326,2024-11-11T19:42:49.552Z,"3 km SW of Big Lake, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-11-10T22:23:47.073Z,31.606,-104.544,6.5356,2.3,ml,31,73,0.1,0.1,tx,tx2024wdkf,2024-11-11T16:16:10.808Z,"65 km SSW of Whites City, New Mexico",earthquake,1.6079957592669,1.4197853688714,0.1,18,reviewed,tx,tx
 2024-11-10T22:17:06.100Z,39.0095,-111.3965,-0.99,1.47,md,7,80,0.03165,0.07,uu,uu80086331,2024-11-11T15:54:56.990Z,"16 km NW of Emery, Utah",earthquake,0.48,0.5,0.25483258050815,6,reviewed,uu,uu
 2024-11-10T22:10:04.756Z,-29.779,-69.4465,109.285,4.9,mb,70,40,0.596,0.99,us,us7000nr2d,2024-11-10T22:26:00.040Z,"84 km NW of San José de Jáchal, Argentina",earthquake,5.7,6.2,0.053,115,reviewed,us,us
@@ -173,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-10T20:13:35.980Z,64.9528,-147.2896,0,1.7,ml,,,,0.66,ak,ak024eha9uqm,2024-11-10T20:15:25.448Z,"14 km NW of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-10T20:13:16.630Z,19.123666666667,-64.632833333333,19.39,3.27,md,6,303,0.6999,0.3,pr,pr71465408,2024-11-10T21:03:36.040Z,"89 km N of Cruz Bay, U.S. Virgin Islands",earthquake,8.22,16.02,0.067526132453588,4,reviewed,pr,pr
 2024-11-10T19:55:39.480Z,36.479831695557,-121.05300140381,7.2800002098083,1.25,md,8,172,0.02483,0.05,nc,nc75084981,2024-11-10T20:17:16.973Z,"10 km SE of Pinnacles, CA",earthquake,0.5,0.99000001,0.54,4,automatic,nc,nc
-2024-11-10T19:41:28.750Z,35.2275,-118.3306667,1.8,1.42,ml,50,40,0.1342,0.15,ci,ci40791399,2024-11-10T20:30:38.749Z,"15 km NE of Tehachapi, CA",earthquake,0.13,0.37,0.228,27,reviewed,ci,ci
