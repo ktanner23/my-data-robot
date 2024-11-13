@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-13T19:18:32.764Z,61.3141,-146.7713,14.3,2.1,ml,,,,0.76,ak,ak024em8biy4,2024-11-13T19:20:42.803Z,"30 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-13T19:09:35.270Z,32.9036674,-116.2519989,8.59,1.26,ml,9,132,0.1497,0.05,ci,ci40792631,2024-11-13T19:11:55.300Z,"28 km ENE of Pine Valley, CA",earthquake,0.42,2.09,0.267,12,automatic,ci,ci
-2024-11-13T18:56:13.400Z,33.9415,-116.8866667,12.78,1.08,ml,36,43,0.1141,0.13,ci,ci40792615,2024-11-13T19:11:39.298Z,"2 km NNW of Banning, CA",earthquake,0.15,0.57,0.137,10,automatic,ci,ci
+2024-11-13T18:56:13.380Z,33.9398333,-116.8875,12.59,1.01,ml,40,42,0.1159,0.12,ci,ci40792615,2024-11-13T19:24:00.402Z,"2 km NNW of Banning, CA",earthquake,0.13,0.46,0.108,20,reviewed,ci,ci
 2024-11-13T18:44:07.630Z,38.819000244141,-122.80883026123,3.0199999809265,1.34,md,22,48,0.004495,0.02,nc,nc75086061,2024-11-13T19:09:30.141Z,"6 km NNW of The Geysers, CA",earthquake,0.24,0.5,0.15,24,automatic,nc,nc
 2024-11-13T18:36:55.680Z,36.0445,-117.8113333,1.49,3.29,ml,33,47,0.04201,0.17,ci,ci40792599,2024-11-13T19:12:23.503Z,"12 km E of Coso Junction, CA",earthquake,0.18,0.26,0.117,167,reviewed,ci,ci
 2024-11-13T18:30:46.678Z,31.56,-104.105,4.0837,1.6,ml,22,63,0,0.4,tx,tx2024wipd,2024-11-13T18:56:02.182Z,"40 km NW of Toyah, Texas",earthquake,0,1.1659506559372,0.2,18,automatic,tx,tx
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T07:36:32.940Z,38.748664855957,-122.72250366211,1.539999961853,0.73,md,7,174,0.01304,0.01,nc,nc75085926,2024-11-13T07:52:16.506Z,"4 km SW of Anderson Springs, CA",earthquake,0.4,0.860000014,0.1,6,automatic,nc,nc
 2024-11-13T07:32:11.150Z,33.1478333,-116.3003333,4.42,0.93,ml,47,46,0.05926,0.22,ci,ci40792319,2024-11-13T14:18:55.250Z,"14 km SSE of Borrego Springs, CA",earthquake,0.22,0.59,0.167,22,reviewed,ci,ci
 2024-11-13T07:24:52.960Z,18.961166666667,-66.507666666667,12.18,3.19,md,13,277,0.6536,0.26,pr,pr71465558,2024-11-13T07:38:26.930Z,"55 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.53,2.31,0.14071418011452,9,reviewed,pr,pr
-2024-11-13T07:02:10.222Z,40.0688,-119.6426,10.7,1.4,ml,10,136.09,0.122,0.0991,nn,nn00887493,2024-11-13T07:07:27.129Z,"13 km NNW of Sutcliffe, Nevada",earthquake,,0.7,0.29,3,automatic,nn,nn
+2024-11-13T07:02:10.503Z,40.0818,-119.7218,13.6,1.6,ml,9,107.1,0.089,0.1261,nn,nn00887493,2024-11-13T19:29:01.725Z,"17 km NW of Sutcliffe, Nevada",earthquake,,3.3,0.47,6,reviewed,nn,nn
 2024-11-13T07:02:08.502Z,34.9247,139.9946,97.178,4.4,mb,27,130,1.811,0.57,us,us7000nria,2024-11-13T16:12:45.050Z,"12 km S of Wada, Japan",earthquake,4.69,8.574,0.17,11,reviewed,us,us
 2024-11-13T06:57:10.610Z,32.9225,-115.8158333,7.08,1.47,ml,47,65,0.02621,0.22,ci,ci40792311,2024-11-13T14:19:06.670Z,"22 km SW of Westmorland, CA",earthquake,0.2,0.44,0.207,30,reviewed,ci,ci
 2024-11-13T06:53:25.557Z,60.0218,-152.8193,102.6,1.7,ml,,,,0.51,ak,ak024em0sdkd,2024-11-13T06:56:49.159Z,"61 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -110,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T03:41:43.630Z,54.744166666667,-163.84266666667,37.16,1.56,ml,9,100,0.0777,0.22,av,av93362953,2024-11-13T18:55:15.690Z,"30 km WSW of False Pass, Alaska",earthquake,1.37,1.04,0.43117674532422,9,reviewed,av,av
 2024-11-13T03:28:11.899Z,-29.0342,-71.7046,10,4.2,mwr,23,197,0.88,0.92,us,us7000nrh8,2024-11-13T03:43:11.040Z,"105 km WSW of Vallenar, Chile",earthquake,2.47,1.982,0.052,36,reviewed,us,us
 2024-11-13T03:27:46.630Z,33.6218333,-116.7648333,15.47,1.07,ml,48,25,0.0608,0.16,ci,ci40792255,2024-11-13T14:19:18.736Z,"11 km NW of Anza, CA",earthquake,0.16,0.32,0.204,27,reviewed,ci,ci
+2024-11-13T03:21:57.310Z,37.455666666667,-118.84183333333,5,0.99,md,28,94,0.134,0.05,nc,nc75085861,2024-11-13T19:30:11.516Z,"19 km WSW of Toms Place, CA",earthquake,0.37,1.39,0.111,17,reviewed,nc,nc
 2024-11-13T03:11:39.040Z,38.794498443604,-122.75949859619,0.51999998092651,1,md,15,72,0.00612,0.02,nc,nc75085856,2024-11-13T03:37:13.753Z,"2 km N of The Geysers, CA",earthquake,0.22,0.409999996,0.19,15,automatic,nc,nc
 2024-11-13T03:10:19.880Z,19.427333831787,-155.48783874512,8.25,1.82,ml,39,40,0.04188,0.180000007,hv,hv74529202,2024-11-13T03:13:12.180Z,"24 km N of Pāhala, Hawaii",earthquake,0.37,0.49000001,0.11,3,automatic,hv,hv
 2024-11-13T03:01:58.010Z,38.795166015625,-122.76733398438,3.8199999332428,0.33,md,9,104,0.008074,0.02,nc,nc75085846,2024-11-13T03:17:17.624Z,"2 km NNW of The Geysers, CA",earthquake,0.47,1.02999997,0.11,10,automatic,nc,nc
@@ -119,6 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T02:38:37.480Z,37.464000701904,-118.84266662598,4.9899997711182,2.41,md,27,116,0.1263,0.06,nc,nc75085836,2024-11-13T02:49:31.555Z,"18 km WSW of Toms Place, CA",earthquake,0.27,1.45000005,0.15,31,automatic,nc,nc
 2024-11-13T02:31:59.054Z,61.552,-151.9372,0,1.7,ml,,,,0.85,ak,ak024elya001,2024-11-13T02:34:26.160Z,"56 km SSW of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-13T02:28:49.746Z,61.2879,-152.2419,5.8,1.7,ml,,,,0.47,ak,ak024ely9c4u,2024-11-13T02:30:38.203Z,"64 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-11-13T02:25:53.270Z,37.4605,-118.8425,4.32,0.96,md,19,93,0.1297,0.04,nc,nc75085831,2024-11-13T19:23:09.539Z,"18 km WSW of Toms Place, CA",earthquake,0.41,1.94,0.195,11,reviewed,nc,nc
 2024-11-13T02:25:31.150Z,33.524,-116.736,3.62,0.92,ml,45,30,0.04131,0.16,ci,ci40792247,2024-11-13T14:20:13.560Z,"7 km WSW of Anza, CA",earthquake,0.14,0.34,0.21,27,reviewed,ci,ci
 2024-11-13T01:50:51.668Z,62.6874,-149.626,77.2,1.6,ml,,,,0.65,ak,ak024elxsmfi,2024-11-13T01:53:10.155Z,"36 km NE of Chase, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-13T01:48:54.620Z,46.864833333333,-121.94566666667,8.67,0.74,ml,20,106,0.005557,0.09,uw,uw62051617,2024-11-13T05:42:16.030Z,"13 km NNE of Ashford, Washington",earthquake,0.24,0.29,0.088580434673222,14,reviewed,uw,uw
