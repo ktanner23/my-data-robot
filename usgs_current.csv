@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-15T19:42:13.823Z,61.2136,-145.0722,26.9,2.2,ml,,,,0.51,ak,ak024epjjbnq,2024-11-15T19:44:15.266Z,"47 km SW of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-15T19:10:56.310Z,34.0488333,-118.8135,12.55,1.85,ml,22,107,0.03108,0.2,ci,ci40793647,2024-11-15T19:20:13.502Z,"5 km N of Malibu, CA",earthquake,0.47,0.62,0.393,34,automatic,ci,ci
 2024-11-15T19:02:32.130Z,38.822834014893,-122.76599884033,2.039999961853,1.47,md,24,119,0.01493,0.02,nc,nc75086796,2024-11-15T19:24:27.963Z,"4 km WNW of Cobb, CA",earthquake,0.27,0.419999987,0.11,27,automatic,nc,nc
 2024-11-15T18:53:00.900Z,32.91,-116.2425,8.86,1.88,ml,64,46,0.1542,0.19,ci,ci40793639,2024-11-15T19:03:41.560Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.69,0.15,27,automatic,ci,ci
@@ -9,8 +10,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T18:24:58.099Z,31.268,-103.563,7.9057,1.5,ml,6,189,0.1,0.5,tx,tx2024wmfy,2024-11-15T18:32:13.057Z,"11 km SSW of Lindsay, Texas",earthquake,0,6.5102272033691,0.3,6,automatic,tx,tx
 2024-11-15T18:15:30.670Z,19.38733291626,-155.12432861328,1.6900000572205,2.01,ml,16,136,0.002671,0.0900000036,hv,hv74531782,2024-11-15T18:18:23.430Z,"8 km S of Fern Forest, Hawaii",earthquake,0.82,0.25999999,0.15,4,automatic,hv,hv
 2024-11-15T18:09:47.890Z,37.1004,-117.0517,13.5,1.1,ml,13,121.41,0.121,0.4427,nn,nn00887595,2024-11-15T18:11:54.406Z,"33 km NW of Beatty, Nevada",earthquake,,1.3,0.4,6,automatic,nn,nn
-2024-11-15T18:08:59.572Z,37.107,-117.0417,8.5,1.1,ml,11,265.04,0.127,0.0886,nn,nn00887594,2024-11-15T18:11:04.300Z,"33 km NW of Beatty, Nevada",earthquake,,3.8,0.32,8,automatic,nn,nn
-2024-11-15T18:06:15.379Z,31.561,-103.705,4.7712,1.7,ml,8,153,0,0.6,tx,tx2024wmfi,2024-11-15T18:23:51.013Z,"18 km SSW of Mentone, Texas",earthquake,0,2.0058612823486,0.2,6,automatic,tx,tx
+2024-11-15T18:09:00.088Z,37.095,-117.0378,9.9,1.7,ml,13,121.94,0.115,0.0961,nn,nn00887594,2024-11-15T19:41:26.532Z,"32 km NW of Beatty, Nevada",earthquake,,3.1,0.18,2,reviewed,nn,nn
+2024-11-15T18:06:14.770Z,31.572,-103.734,6.3306,1.4,ml,13,75,0.1,0.2,tx,tx2024wmfi,2024-11-15T19:41:20.517Z,"19 km SW of Mentone, Texas",earthquake,1.3711566025085,1.8593800400418,0.2,15,reviewed,tx,tx
 2024-11-15T18:02:38.291Z,37.1023,-117.0193,8,1.5,ml,19,99.48,0.123,0.1252,nn,nn00887592,2024-11-15T19:32:13.851Z,"31 km NW of Beatty, Nevada",earthquake,,1.5,0.34,6,reviewed,nn,nn
 2024-11-15T17:58:53.704Z,65.1088,-145.3661,15.3,1.7,ml,,,,0.64,ak,ak024epifyze,2024-11-15T18:00:58.597Z,"57 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-15T17:58:53.016Z,35.8377,140.7188,66.101,4.9,mb,121,114,2.153,0.58,us,us7000ns1s,2024-11-15T18:40:39.040Z,"9 km E of Omigawa, Japan",earthquake,7.03,6.808,0.05,127,reviewed,us,us
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-14T19:59:56.930Z,19.381000518799,-155.23533630371,2.1600000858307,1.78,ml,22,77,0.008913,0.159999996,hv,hv74530567,2024-11-14T20:02:50.560Z,"6 km S of Volcano, Hawaii",earthquake,0.29,0.25999999,0.41,11,automatic,hv,hv
 2024-11-14T19:55:03.238Z,28.944,-98.306,5.8838,2.5,ml,24,66,0.1,0.2,tx,tx2024wknk,2024-11-15T13:40:39.040Z,"17 km E of Pleasanton, Texas",earthquake,1.042764431294,2.0267365598013,0.1,12,reviewed,tx,tx
 2024-11-14T19:46:02.381Z,28.944,-98.29,2.2705,1.9,ml,24,66,0.1,0.2,tx,tx2024wkne,2024-11-15T16:38:31.862Z,"18 km E of Pleasanton, Texas",earthquake,1.0190948757076,2.0712090464161,0.1,12,reviewed,tx,tx
-2024-11-14T19:43:07.471Z,28.944,-98.294,2.0752,2.3,ml,16,81,0.1,0.3,tx,tx2024wkna,2024-11-14T22:15:40.726Z,"18 km E of Pleasanton, Texas",earthquake,0.99294118254606,2.2072130275611,0.1,16,reviewed,tx,tx
