@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-17T13:13:19.210Z,33.9468346,-116.7310028,15.49,0.95,ml,26,91,0.1088,0.12,ci,ci40794719,2024-11-17T13:15:22.643Z,"6 km ENE of Cabazon, CA",earthquake,0.31,0.82,0.28,10,automatic,ci,ci
+2024-11-17T13:12:11.610Z,34.1329994,-117.4933319,2.54,0.99,ml,18,89,0.03984,0.14,ci,ci40794711,2024-11-17T13:14:17.999Z,"5 km NW of Fontana, CA",earthquake,0.39,0.36,0.121,5,automatic,ci,ci
 2024-11-17T12:36:52.490Z,33.9393333,-116.0231667,6.17,1.15,ml,37,52,0.06454,0.13,ci,ci40794695,2024-11-17T12:41:07.355Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.18,0.49,0.163,27,automatic,ci,ci
 2024-11-17T12:32:30.000Z,19.159999847412,-155.48167419434,28.979999542236,2.31999993,md,43,121,0.01905,0.129999995,hv,hv74533527,2024-11-17T12:34:11.230Z,"4 km S of Pāhala, Hawaii",earthquake,0.47,0.519999981,0.230000004,13,automatic,hv,hv
 2024-11-17T12:31:01.230Z,32.9568333,-115.5365,7.62,1.69,ml,32,78,0.05885,0.27,ci,ci40794679,2024-11-17T12:34:56.547Z,"2 km SSW of Brawley, CA",earthquake,0.31,0.71,0.219,30,automatic,ci,ci
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T04:33:53.920Z,38.784000396729,-122.75800323486,1.9500000476837,1.02,md,17,66,0.01458,0.03,nc,nc75087226,2024-11-17T04:49:27.631Z,"1 km N of The Geysers, CA",earthquake,0.27,0.469999999,0.14,17,automatic,nc,nc
 2024-11-17T04:33:46.740Z,38.7308,-118.7738,15.7,2.2,ml,17,152.24,0.444,0.2649,nn,nn00887638,2024-11-17T04:36:11.765Z,"9 km N of Walker Lake, Nevada",earthquake,,1,0.43,11,automatic,nn,nn
 2024-11-17T04:26:44.997Z,0.7206,126.0453,50.65,4.9,mb,44,60,1.322,1.01,us,us7000ns8i,2024-11-17T04:45:59.040Z,"129 km SE of Bitung, Indonesia",earthquake,8.21,7.932,0.081,50,reviewed,us,us
-2024-11-17T04:17:21.630Z,34.1448326,-117.49617,3.54,3.37,ml,117,21,0.04229,0.24,ci,ci40794407,2024-11-17T12:35:11.367Z,"6 km NNW of Fontana, CA",earthquake,0.22,0.87,0.242,19,automatic,ci,ci
+2024-11-17T04:17:21.630Z,34.1448326,-117.49617,3.54,3.37,ml,117,21,0.04229,0.24,ci,ci40794407,2024-11-17T13:09:17.791Z,"6 km NNW of Fontana, CA",earthquake,0.22,0.87,0.242,19,automatic,ci,ci
 2024-11-17T04:14:37.923Z,-24.2382,-179.9814,510.613,4.5,mb,42,77,5.313,1.14,us,us7000ns8g,2024-11-17T04:31:09.040Z,"south of the Fiji Islands",earthquake,13.5,8.652,0.078,51,reviewed,us,us
 2024-11-17T03:59:56.827Z,31.711,-104.288,4.8672,1.7,ml,21,56,0,0.3,tx,tx2024wouj,2024-11-17T04:34:21.692Z,"52 km S of Whites City, New Mexico",earthquake,0,1.1203310489655,0.2,17,automatic,tx,tx
 2024-11-17T03:38:53.040Z,48.181833333333,-124.64166666667,6.46,2.44,ml,25,116,0.0304,0.41,uw,uw62052122,2024-11-17T04:38:29.040Z,"20 km S of Neah Bay, Washington",earthquake,0.74,1.13,0.12754903811316,16,reviewed,uw,uw
@@ -153,5 +155,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:32:46.710Z,61.6208,-149.9673,42.5,2.1,ml,,,,0.32,ak,ak024er3fzwf,2024-11-16T13:34:21.962Z,"7 km W of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-16T13:31:31.010Z,38.785999298096,-122.72233581543,2.4800000190735,2.64,md,49,66,,0.17,nc,nc75087006,2024-11-16T15:47:24.040Z,"3 km NW of Anderson Springs, CA",earthquake,0.23,1.19000006,0.11,55,automatic,nc,nc
 2024-11-16T13:20:30.055Z,36.8119,-116.125,8,0.3,ml,24,78.41,0.027,0.0737,nn,nn00887628,2024-11-16T16:58:53.535Z,"48 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.22,14,reviewed,nn,nn
-2024-11-16T13:12:52.490Z,19.248832702637,-155.33200073242,31.040000915527,2.96000004,md,9,278,0.0982,0.109999999,hv,hv74532687,2024-11-16T13:14:39.120Z,"16 km ENE of Pāhala, Hawaii",earthquake,1.99,0.810000002,0.939999998,3,automatic,hv,hv
-2024-11-16T13:10:10.101Z,64.5102,-151.2845,0,1.7,ml,,,,0.99,ak,ak024er3b7b5,2024-11-16T13:13:07.109Z,"62 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
