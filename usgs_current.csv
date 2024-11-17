@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-17T13:13:19.210Z,33.9468346,-116.7310028,15.49,0.95,ml,26,91,0.1088,0.12,ci,ci40794719,2024-11-17T13:15:22.643Z,"6 km ENE of Cabazon, CA",earthquake,0.31,0.82,0.28,10,automatic,ci,ci
-2024-11-17T13:12:11.610Z,34.1329994,-117.4933319,2.54,0.99,ml,18,89,0.03984,0.14,ci,ci40794711,2024-11-17T13:14:17.999Z,"5 km NW of Fontana, CA",earthquake,0.39,0.36,0.121,5,automatic,ci,ci
+2024-11-17T13:13:19.290Z,33.9455,-116.7361667,14.33,0.81,ml,41,63,0.1182,0.15,ci,ci40794719,2024-11-17T13:18:58.772Z,"6 km ENE of Cabazon, CA",earthquake,0.17,0.38,0.12,20,automatic,ci,ci
+2024-11-17T13:12:11.570Z,34.1345,-117.494,2.42,0.99,ml,35,39,0.03972,0.18,ci,ci40794711,2024-11-17T13:17:08.322Z,"5 km NW of Fontana, CA",earthquake,0.23,0.26,0.356,32,automatic,ci,ci
 2024-11-17T12:36:52.490Z,33.9393333,-116.0231667,6.17,1.15,ml,37,52,0.06454,0.13,ci,ci40794695,2024-11-17T12:41:07.355Z,"23 km SSE of Twentynine Palms, CA",earthquake,0.18,0.49,0.163,27,automatic,ci,ci
 2024-11-17T12:32:30.000Z,19.159999847412,-155.48167419434,28.979999542236,2.31999993,md,43,121,0.01905,0.129999995,hv,hv74533527,2024-11-17T12:34:11.230Z,"4 km S of Pāhala, Hawaii",earthquake,0.47,0.519999981,0.230000004,13,automatic,hv,hv
 2024-11-17T12:31:01.230Z,32.9568333,-115.5365,7.62,1.69,ml,32,78,0.05885,0.27,ci,ci40794679,2024-11-17T12:34:56.547Z,"2 km SSW of Brawley, CA",earthquake,0.31,0.71,0.219,30,automatic,ci,ci
@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T12:08:45.530Z,34.1365,-117.4916667,2.63,1.9,ml,123,15,0.04217,0.22,ci,ci40794655,2024-11-17T12:19:57.210Z,"5 km NW of Fontana, CA",earthquake,0.12,0.22,0.198,25,automatic,ci,ci
 2024-11-17T12:02:30.120Z,38.832332611084,-122.81517028809,1.6200000047684,1.16,md,18,53,0.009772,0.01,nc,nc75087316,2024-11-17T12:17:17.888Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.400000006,0.17,18,automatic,nc,nc
 2024-11-17T11:53:13.060Z,34.0931667,-118.1835,9.89,1.19,ml,37,42,0.0335,0.2,ci,ci40794639,2024-11-17T11:57:10.791Z,"3 km SSE of Highland Park, CA",earthquake,0.26,0.45,0.254,32,automatic,ci,ci
-2024-11-17T11:48:10.399Z,28.946,-98.3,3.5889,2.8,ml,21,73,0.1,0.2,tx,tx2024wpjx,2024-11-17T12:16:44.040Z,"17 km E of Pleasanton, Texas",earthquake,1.5547892788117,3.5369133181379,0.1,13,reviewed,tx,tx
+2024-11-17T11:48:10.399Z,28.946,-98.3,3.5889,2.8,ml,21,73,0.1,0.2,tx,tx2024wpjx,2024-11-17T13:25:17.605Z,"17 km E of Pleasanton, Texas",earthquake,1.5547892788117,3.5369133181379,0.1,13,reviewed,tx,tx
 2024-11-17T11:47:15.700Z,38.819999694824,-122.82333374023,2.1900000572205,1.07,md,18,48,0.009652,0.02,nc,nc75087311,2024-11-17T12:09:30.748Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.479999989,0.15,19,automatic,nc,nc
 2024-11-17T11:43:21.130Z,18.031666666667,-66.749166666667,13.77,2.63,md,20,119,0.04195,0.1,pr,pr71465988,2024-11-17T12:04:35.170Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,0.22,0.21,0.10625165780413,11,reviewed,pr,pr
 2024-11-17T11:39:33.930Z,38.787666320801,-122.74549865723,1.8600000143051,0.98,md,9,146,0.00816,0.02,nc,nc75087306,2024-11-17T11:59:28.674Z,"1 km NE of The Geysers, CA",earthquake,0.49,0.810000002,0.22,10,automatic,nc,nc
@@ -154,4 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-16T13:36:01.870Z,33.7931667,-116.0976667,4.55,0.8,ml,43,100,0.1032,0.15,ci,ci40794031,2024-11-16T13:39:35.507Z,"14 km NE of Indio, CA",earthquake,0.2,0.7,0.122,15,automatic,ci,ci
 2024-11-16T13:32:46.710Z,61.6208,-149.9673,42.5,2.1,ml,,,,0.32,ak,ak024er3fzwf,2024-11-16T13:34:21.962Z,"7 km W of Houston, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-16T13:31:31.010Z,38.785999298096,-122.72233581543,2.4800000190735,2.64,md,49,66,,0.17,nc,nc75087006,2024-11-16T15:47:24.040Z,"3 km NW of Anderson Springs, CA",earthquake,0.23,1.19000006,0.11,55,automatic,nc,nc
-2024-11-16T13:20:30.055Z,36.8119,-116.125,8,0.3,ml,24,78.41,0.027,0.0737,nn,nn00887628,2024-11-16T16:58:53.535Z,"48 km WNW of Indian Springs, Nevada",earthquake,,0.8,0.22,14,reviewed,nn,nn
