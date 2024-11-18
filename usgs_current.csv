@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T17:10:20.550Z,19.247166666667,-155.38266666667,30.8,1.78,md,19,159,0.01699,0.1,hv,hv74534457,2024-11-18T18:23:45.350Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.73,0.77,0.11896769340049,7,reviewed,hv,hv
 2024-11-18T17:07:53.070Z,38.824333190918,-122.81133270264,1.5800000429153,0.34,md,9,79,0.001358,0.03,nc,nc75087846,2024-11-18T17:29:29.969Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.889999986,0.24,10,automatic,nc,nc
 2024-11-18T16:55:45.033Z,41.0954,-73.5859,5,1.3,ml,8,76,0.187,0.24,us,us7000nsgw,2024-11-18T20:37:45.159Z,"5 km SW of North Stamford, Connecticut",earthquake,1.04,1.953,0.105,12,reviewed,us,us
-2024-11-18T16:50:24.510Z,35.6076667,-117.5858333,4.23,0.91,ml,18,85,0.07445,0.17,ci,ci40795519,2024-11-18T16:53:57.837Z,"8 km E of Ridgecrest, CA",earthquake,0.31,0.74,0.304,10,automatic,ci,ci
+2024-11-18T16:50:24.520Z,35.6066667,-117.582,4.49,0.96,ml,19,86,0.07761,0.18,ci,ci40795519,2024-11-18T20:46:18.602Z,"9 km E of Ridgecrest, CA",earthquake,0.28,0.62,0.284,8,reviewed,ci,ci
 2024-11-18T16:49:52.595Z,61.3077,-152.3121,7.1,1.8,ml,,,,0.34,ak,ak024eugenbv,2024-11-18T16:51:24.879Z,"68 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-18T16:47:16.100Z,64.3583,-149.716,19.9,1.5,ml,,,,0.22,ak,ak024euge52y,2024-11-18T16:49:44.235Z,"25 km W of Anderson, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-11-18T16:31:17.670Z,35.769,-117.5953333,11.11,1.26,ml,20,65,0.04667,0.13,ci,ci40795503,2024-11-18T19:28:20.960Z,"17 km W of Searles Valley, CA",earthquake,0.26,0.39,0.178,16,reviewed,ci,ci
@@ -149,7 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-18T02:18:50.212Z,15.039,147.0544,10,5.1,mb,42,137,1.235,0.9,us,us7000nsce,2024-11-18T20:29:00.034Z,"141 km E of Saipan, Northern Mariana Islands",earthquake,7.73,1.899,0.086,44,reviewed,us,us
 2024-11-18T02:16:25.110Z,45.003,-113,3.01,1.24,ml,12,127,0.2056,0.18,mb,mb90066228,2024-11-18T16:49:40.220Z,"37 km SW of Dillon, Montana",earthquake,0.58,1.27,0.20745513218907,19,reviewed,mb,mb
 2024-11-18T02:02:15.600Z,32.9121667,-116.2493333,8.01,0.77,ml,35,46,0.1481,0.17,ci,ci40795095,2024-11-18T14:55:26.482Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.2,1.73,0.167,10,reviewed,ci,ci
-2024-11-18T01:40:09.020Z,32.6885,-115.748,9.39,1.68,ml,30,58,0.04311,0.26,ci,ci40795079,2024-11-18T01:50:50.000Z,"20 km NW of Progreso, B.C., MX",earthquake,0.35,0.64,0.19,24,automatic,ci,ci
+2024-11-18T01:40:09.120Z,32.6901667,-115.7585,7.89,1.69,ml,35,59,0.04891,0.2,ci,ci40795079,2024-11-18T20:45:29.540Z,"20 km NW of Progreso, B.C., MX",earthquake,0.22,0.49,0.129,20,reviewed,ci,ci
 2024-11-18T01:37:17.460Z,18.189166666667,-67.271166666667,17.92,3.1,md,22,228,0.1234,0.15,pr,pr71466038,2024-11-18T01:54:10.240Z,"13 km W of Mayagüez, Puerto Rico",earthquake,0.58,0.35,0.17606638098309,13,reviewed,pr,pr
 2024-11-18T01:35:48.790Z,17.9735,-66.816,12.19,2.04,md,8,199,0.06023,0.11,pr,pr71466033,2024-11-18T01:51:44.590Z,"2 km S of Indios, Puerto Rico",earthquake,0.55,0.59,0.14486311251206,7,reviewed,pr,pr
 2024-11-18T01:25:19.050Z,33.9913333,-116.6593333,15.9,1.16,ml,48,49,0.04801,0.16,ci,ci40795071,2024-11-18T14:55:27.723Z,"10 km SW of Morongo Valley, CA",earthquake,0.17,0.44,0.157,27,reviewed,ci,ci
@@ -192,5 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-17T21:39:27.200Z,38.832000732422,-122.81733703613,1.8099999427795,0.78,md,10,111,0.0103,0.01,nc,nc75087511,2024-11-17T21:52:17.859Z,"8 km NNW of The Geysers, CA",earthquake,0.37,1.30999994,0.16,12,automatic,nc,nc
 2024-11-17T21:37:55.740Z,47.596,-122.75533333333,15.61,1.08,ml,10,206,0.04646,0.22,uw,uw62052197,2024-11-18T01:09:17.010Z,"3 km WSW of Chico, Washington",earthquake,0.72,0.71,0.088163975340013,3,reviewed,uw,uw
 2024-11-17T21:37:30.575Z,28.954,-98.325,6.5674,1.6,ml,12,77,0.1,0.3,tx,tx2024wqdh,2024-11-18T16:54:13.600Z,"15 km E of Pleasanton, Texas",earthquake,2.1158340424848,3.1412544868576,0.1,6,reviewed,tx,tx
-2024-11-17T20:49:49.420Z,64.9567,-147.5001,0,1.4,ml,,,,1,ak,ak024esv910e,2024-11-18T17:23:20.484Z,"5 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-11-17T20:45:07.332Z,37.2106,68.9488,10,4.4,mb,57,60,1.051,1.11,us,us7000nsbe,2024-11-17T21:09:54.108Z,"2 km NNE of Imām Şāḩib, Afghanistan",earthquake,6.72,1.88,0.08,45,reviewed,us,us
