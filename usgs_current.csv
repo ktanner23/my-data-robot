@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-21T05:12:03.920Z,19.545000076294,-155.74816894531,6.4099998474121,1.81,ml,32,149,0.05894,0.300000012,hv,hv74536202,2024-11-21T05:14:55.910Z,"15 km NE of Honaunau-Napoopoo, Hawaii",earthquake,0.68,0.910000026,0.99,4,automatic,hv,hv
 2024-11-21T05:01:51.790Z,19.2936668396,-155.36033630371,29.670000076294,2.07999992,md,41,118,0.04619,0.129999995,hv,hv74536192,2024-11-21T05:03:53.130Z,"15 km NE of Pāhala, Hawaii",earthquake,0.55,0.469999999,0.209999993,13,automatic,hv,hv
+2024-11-21T04:59:15.419Z,29.3143,51.2955,10,4.9,mb,82,70,6.169,0.73,us,us6000p6pu,2024-11-21T05:16:35.040Z,"8 km ENE of Borāzjān, Iran",earthquake,9.17,1.866,0.061,84,reviewed,us,us
 2024-11-21T04:46:25.665Z,62.6263,-150.0518,16.5,1.7,ml,,,,0.73,ak,ak024ez7usbq,2024-11-21T04:48:58.707Z,"19 km N of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-21T04:40:51.321Z,61.232,-150.4724,22.3,2.9,ml,,,,0.73,ak,ak024ez7tk26,2024-11-21T04:46:27.964Z,"30 km WSW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-21T04:15:50.050Z,38.81600189209,-122.82516479492,1.960000038147,1.02,md,7,141,0.007783,0.01,nc,nc75088731,2024-11-21T04:34:30.491Z,"7 km NW of The Geysers, CA",earthquake,0.65,1.58000004,0.25,8,automatic,nc,nc
@@ -51,6 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T20:56:30.000Z,16.741,-100.417,10,4.3,mb,73,182,1.949,0.61,us,us6000p6mn,2024-11-21T03:47:31.868Z,"37 km SSW of El Papayo, Mexico",earthquake,11.42,1.945,0.068,61,reviewed,us,us
 2024-11-20T20:54:49.060Z,33.8383333,-117.4933333,-0.51,1.67,ml,61,45,0.04531,0.26,ci,ci40797215,2024-11-20T22:52:56.944Z,"5 km SSE of Home Gardens, CA",quarry blast,0.25,31.61,0.168,32,reviewed,ci,ci
 2024-11-20T20:53:42.990Z,18.639,-66.797333333333,13.26,2.63,md,7,276,0.2937,0.2,pr,pr71466223,2024-11-20T21:11:31.180Z,"17 km N of Hatillo, Puerto Rico",earthquake,1.43,3.07,0.09714328095979,4,reviewed,pr,pr
+2024-11-20T20:46:08.410Z,61.2615,-152.1895,20.7,0.17,ml,10,101,0.01715,0.12,av,av93373663,2024-11-21T05:19:16.720Z,"60 km WNW of Tyonek, Alaska",earthquake,0.42,0.63,0.20770453468577,10,reviewed,av,av
 2024-11-20T20:44:49.750Z,32.7983333,-115.4453333,13.17,1.55,ml,12,153,0.007074,0.32,ci,ci37689644,2024-11-20T22:40:17.344Z,"6 km WSW of Holtville, CA",earthquake,1.27,0.78,0.132,8,reviewed,ci,ci
 2024-11-20T20:44:06.440Z,32.8028333,-115.4511667,10.72,2.11,ml,36,59,0.004442,0.26,ci,ci40797199,2024-11-20T22:20:20.330Z,"7 km W of Holtville, CA",earthquake,0.31,0.47,0.201,24,reviewed,ci,ci
 2024-11-20T20:41:26.840Z,38.825332641602,-122.80899810791,1.2599999904633,1.38,md,14,112,0.002109,0.02,nc,nc75088686,2024-11-20T21:17:20.441Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.589999974,0.29,14,automatic,nc,nc
@@ -162,7 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T05:43:41.480Z,38.841667175293,-122.83567047119,1.5499999523163,0.94,md,7,120,0.003077,0.02,nc,nc75088476,2024-11-20T06:09:26.999Z,"10 km NNW of The Geysers, CA",earthquake,0.34,0.75,0.28,9,automatic,nc,nc
 2024-11-20T05:38:22.366Z,61.1189,-148.8628,20,1.7,ml,,,,0.48,ak,ak024exkv5gc,2024-11-20T05:40:19.058Z,"25 km NE of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-20T05:27:21.800Z,33.6745,-116.786,17.44,1.11,ml,58,27,0.06802,0.17,ci,ci40796935,2024-11-20T13:54:38.010Z,"10 km SW of Idyllwild, CA",earthquake,0.16,0.31,0.18,27,reviewed,ci,ci
-2024-11-20T05:18:32.740Z,33.7836667,-116.9,12.14,0.82,ml,45,48,0.0989,0.23,ci,ci40796927,2024-11-20T13:53:58.945Z,"4 km N of Valle Vista, CA",earthquake,0.27,0.64,0.147,24,reviewed,ci,ci
-2024-11-20T05:18:03.930Z,44.764,-110.503,2.98,0.23,md,5,205,0.04671,0.15,uu,uu80086841,2024-11-20T14:28:06.020Z,"28 km SSE of Mammoth, Wyoming",earthquake,0.74,31.61,0.11655799720095,2,reviewed,uu,uu
-2024-11-20T05:15:23.292Z,64.9422,-149.1694,0,1.9,ml,,,,0.89,ak,ak024exkq821,2024-11-20T05:29:42.101Z,"24 km SSE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-11-20T05:11:24.170Z,61.7419,-150.946,60.2,1.7,ml,,,,0.73,ak,ak024exkpd9d,2024-11-20T05:13:55.085Z,"31 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
