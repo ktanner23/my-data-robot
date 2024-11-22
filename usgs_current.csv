@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-22T22:26:01.770Z,34.0541667,-118.8073333,10.71,1.77,ml,40,97,0.02741,0.23,ci,ci40798535,2024-11-22T22:36:32.180Z,"6 km N of Malibu, CA",earthquake,0.24,0.35,0.186,32,automatic,ci,ci
-2024-11-22T22:18:33.530Z,33.5113333,-116.4638333,5.17,1.51,ml,57,28,0.07258,0.2,ci,ci40798527,2024-11-22T22:38:53.394Z,"20 km ESE of Anza, CA",earthquake,0.16,0.62,0.163,30,automatic,ci,ci
-2024-11-22T22:15:54.430Z,34.0665016,-118.8044968,9.61,3.49,mlr,134,89,0.03202,0.34,ci,ci40798519,2024-11-22T22:37:18.141Z,"7 km N of Malibu, CA",earthquake,0.35,0.62,0.252,20,reviewed,ci,ci
+2024-11-22T22:18:33.530Z,33.5113333,-116.4638333,5.17,1.51,ml,57,28,0.07258,0.2,ci,ci40798527,2024-11-22T22:44:38.311Z,"20 km ESE of Anza, CA",earthquake,0.16,0.62,0.163,30,automatic,ci,ci
+2024-11-22T22:15:54.430Z,34.0665016,-118.8044968,9.61,3.49,mlr,134,89,0.03202,0.34,ci,ci40798519,2024-11-22T22:48:24.533Z,"7 km N of Malibu, CA",earthquake,0.35,0.62,0.252,20,reviewed,ci,ci
 2024-11-22T21:59:21.313Z,0.3096,122.1504,145.14,4.4,mb,35,60,1.479,0.63,us,us6000p757,2024-11-22T22:14:39.040Z,"104 km WSW of Gorontalo, Indonesia",earthquake,7.5,7.046,0.106,26,reviewed,us,us
 2024-11-22T21:56:57.690Z,19.386,-155.24033333333,39.1,0.88,ml,38,54,0.01037,0.11,hv,hv74537802,2024-11-22T22:12:54.930Z,"6 km S of Volcano, Hawaii",earthquake,0.76,0.52,0.13345824761426,14,reviewed,hv,hv
 2024-11-22T21:56:10.125Z,31.693,-104.125,4.5725,1.8,ml,20,80,0.1,0.2,tx,tx2024wzhk,2024-11-22T22:08:32.467Z,"49 km W of Mentone, Texas",earthquake,0,1.1700087785721,0.1,14,automatic,tx,tx
@@ -14,7 +14,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T21:22:00.960Z,38.817665100098,-122.82133483887,2.5999999046326,0.83,md,15,84,0.01049,0.02,nc,nc75089166,2024-11-22T21:37:18.423Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.689999998,0.13,16,automatic,nc,nc
 2024-11-22T21:17:00.600Z,33.195,-116,7.92,1.41,ml,48,49,0.02843,0.16,ci,ci40798471,2024-11-22T21:48:05.290Z,"12 km SSW of Salton City, CA",earthquake,0.17,0.33,0.116,25,reviewed,ci,ci
 2024-11-22T21:15:57.740Z,35.8295,-117.6583333,7.71,0.8,ml,19,82,0.0513,0.11,ci,ci40798463,2024-11-22T21:51:43.998Z,"23 km N of Ridgecrest, CA",earthquake,0.18,0.47,0.108,9,reviewed,ci,ci
-2024-11-22T21:14:34.066Z,61.343,-152.2283,0,0.5,ml,,,,0.61,ak,ak024f15bntu,2024-11-22T21:21:25.149Z,"65 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-22T20:57:41.050Z,19.079000473023,-155.36149597168,32.599998474121,2.00999999,md,46,228,0.1218,0.200000003,hv,hv74537757,2024-11-22T20:59:27.540Z,"18 km SE of Pāhala, Hawaii",earthquake,0.59,0.769999981,0.289999992,5,automatic,hv,hv
 2024-11-22T20:53:34.220Z,44.841666666667,-111.48066666667,12.67,1.38,ml,22,51,0.03769,0.16,mb,mb90066638,2024-11-22T21:23:12.940Z,"24 km WNW of Hebgen Lake Estates, Montana",earthquake,0.37,0.54,0.2635363080245,18,reviewed,mb,mb
 2024-11-22T20:48:15.150Z,19.145999908447,-155.37615966797,28.719999313354,1.74000001,md,40,222,0.08179,0.109999999,hv,hv74537747,2024-11-22T20:50:25.680Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.66,0.620000005,0.170000002,6,automatic,hv,hv
@@ -38,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T19:22:16.240Z,34.134,-117.496,2.52,2.22,ml,112,15,0.03798,0.21,ci,ci40798375,2024-11-22T20:52:30.560Z,"5 km NW of Fontana, CA",earthquake,0.11,0.2,0.162,25,reviewed,ci,ci
 2024-11-22T19:14:38.320Z,33.5196667,-116.4615,6.39,0.96,ml,14,185,0.06923,0.1,ci,ci40798367,2024-11-22T21:53:32.378Z,"20 km E of Anza, CA",earthquake,0.32,0.57,0.143,10,reviewed,ci,ci
 2024-11-22T19:14:38.230Z,19.4805,-155.13116666667,1.49,0.53,md,15,209,0.08943,0.11,hv,hv74537632,2024-11-22T21:58:25.300Z,"1 km NNE of Fern Forest, Hawaii",earthquake,0.57,0.44,0.019190197881037,2,reviewed,hv,hv
+2024-11-22T19:07:35.124Z,54.5181,-161.6024,25.6,1.5,ml,,,,0.71,ak,ak024f1438p6,2024-11-22T22:46:27.722Z,"75 km SE of King Cove, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2024-11-22T19:02:01.070Z,46.197833333333,-122.32333333333,12.82,1.27,ml,17,88,0.01962,0.15,uw,uw62060961,2024-11-22T20:41:42.490Z,"33 km NNE of Amboy, Washington",earthquake,0.34,0.65,0.19996397512254,9,reviewed,uw,uw
 2024-11-22T18:45:28.760Z,38.834167480469,-122.81600189209,1.4900000095367,1.51,md,21,58,0.01585,0.03,nc,nc75089121,2024-11-22T19:09:30.387Z,"8 km WNW of Cobb, CA",earthquake,0.19,0.550000012,0.17,20,automatic,nc,nc
 2024-11-22T18:40:27.897Z,31.9135,140.8337,57.14,4.2,mb,36,131,1.476,0.41,us,us6000p746,2024-11-22T22:25:33.040Z,"Izu Islands, Japan region",earthquake,8.88,8.755,0.107,25,reviewed,us,us
@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T23:13:53.250Z,31.656,-104.307,6.1255,2.7,ml,37,58,0,0.1,tx,tx2024wxom,2024-11-22T01:03:10.040Z,"57 km S of Whites City, New Mexico",earthquake,0.72111686608741,0.83330837849314,0.1,18,reviewed,tx,tx
 2024-11-21T23:09:14.020Z,46.8755,-113.08216666667,13.81,0.99,ml,13,84,0.1228,0.15,mb,mb90066588,2024-11-22T16:26:26.950Z,"16 km SSE of Ovando, Montana",earthquake,0.35,0.61,0.20614280000444,8,reviewed,mb,mb
 2024-11-21T22:52:14.422Z,61.672,-142.6163,0.1,1.2,ml,,,,0.38,ak,ak024ezilun6,2024-11-21T22:54:50.746Z,"31 km NNE of McCarthy, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2024-11-21T22:41:40.040Z,34.2743333,-116.9445,8.73,0.82,ml,22,59,0.02304,0.12,ci,ci40797959,2024-11-21T23:21:42.527Z,"5 km NW of Big Bear Lake, CA",earthquake,0.25,0.3,0.184,9,reviewed,ci,ci
