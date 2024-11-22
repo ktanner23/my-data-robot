@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-11-22T18:14:59.280Z,33.8245,-116.7556667,14.99,1.28,ml,51,51,0.03588,0.15,ci,ci40798311,2024-11-22T18:20:40.869Z,"10 km NNW of Idyllwild, CA",earthquake,0.16,0.32,0.231,26,automatic,ci,ci
+2024-11-22T18:14:59.280Z,33.8245,-116.7556667,14.99,1.28,ml,51,51,0.03588,0.15,ci,ci40798311,2024-11-22T18:37:10.890Z,"10 km NNW of Idyllwild, CA",earthquake,0.16,0.32,0.231,26,automatic,ci,ci
 2024-11-22T18:01:29.900Z,34.401,-118.6858333,3.88,1.66,ml,48,43,0.03041,0.27,ci,ci40798303,2024-11-22T18:12:27.670Z,"10 km E of Piru, CA",earthquake,0.24,0.56,0.13,30,automatic,ci,ci
 2024-11-22T17:59:03.087Z,63.015,-150.4277,105.4,1.5,ml,,,,0.28,ak,ak024f137i90,2024-11-22T18:01:12.973Z,"60 km NNE of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-11-22T17:52:38.510Z,59.0872,-154.1421,113.9,1.6,ml,,,,0.13,ak,ak024f1362yz,2024-11-22T17:53:58.498Z,"53 km SE of Kokhanok, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T08:28:26.197Z,31.739,-104.117,7.7881,1.7,ml,31,45,0.1,0.1,tx,tx2024wygu,2024-11-22T13:35:17.505Z,"49 km W of Mentone, Texas",earthquake,0.31119366195071,0.56391289216278,0.2,32,reviewed,tx,tx
 2024-11-22T08:16:53.822Z,60.6261,-150.7909,80.9,1.6,ml,,,,0.81,ak,ak024f0xlhxi,2024-11-22T08:18:17.444Z,"10 km N of Sterling, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-11-22T08:13:57.776Z,61.5842,-147.4595,23.3,1.4,ml,,,,0.33,ak,ak024f0xkv35,2024-11-22T08:15:46.507Z,"26 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-22T08:05:36.340Z,32.7943333,-115.4468333,10.48,1.58,ml,23,112,0.01096,0.29,ci,ci40798127,2024-11-22T08:09:17.333Z,"6 km WSW of Holtville, CA",earthquake,0.58,0.75,0.212,24,automatic,ci,ci
+2024-11-22T08:05:36.380Z,32.7855,-115.4443333,7.63,1.54,ml,21,114,0.01987,0.22,ci,ci40798127,2024-11-22T18:37:46.324Z,"7 km WSW of Holtville, CA",earthquake,0.35,0.65,0.217,15,reviewed,ci,ci
 2024-11-22T08:04:15.155Z,54.4828,-159.7633,28.774,4.3,mb,18,164,0.961,0.68,us,us6000p6y9,2024-11-22T17:37:00.920Z,"106 km SSE of Sand Point, Alaska",earthquake,6.74,5.114,0.147,13,reviewed,us,us
 2024-11-22T07:55:01.876Z,3.9422,-85.9793,10,4.3,mb,35,160,5.942,0.97,us,us6000p6y8,2024-11-22T09:25:33.040Z,"off the coast of Central America",earthquake,10.43,1.955,0.111,23,reviewed,us,us
 2024-11-22T07:51:06.027Z,2.6393,128.2565,73.851,5.2,mb,77,35,2.057,1.08,us,us6000p6y6,2024-11-22T08:28:59.040Z,"104 km NNE of Tobelo, Indonesia",earthquake,7.84,6.625,0.041,191,reviewed,us,us
@@ -188,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-21T18:47:54.060Z,57.9713,-156.0011,13.6,2.3,ml,,,,0.14,ak,ak024ezg74pa,2024-11-22T04:22:12.340Z,"85 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-21T18:45:36.230Z,38.76,-122.72433333333,1.08,0.53,md,7,94,0.001643,0.01,nc,nc75088881,2024-11-21T21:19:32.401Z,"3 km WSW of Anderson Springs, CA",earthquake,0.56,0.71,0.227,4,reviewed,nc,nc
 2024-11-21T18:44:20.630Z,54.117166666667,-165.94833333333,6.63,-0.61,ml,7,83,0.012,0.09,av,av93027224,2024-11-22T04:32:05.100Z,"11 km W of Akutan, Alaska",earthquake,0.32,0.5,0.16427390102098,7,reviewed,av,av
-2024-11-21T18:41:36.889Z,31.66,-104.295,7.6416,1.7,ml,25,67,0,0.1,tx,tx2024wxfr,2024-11-22T14:01:20.660Z,"57 km S of Whites City, New Mexico",earthquake,0.43304886214179,0.66992789593178,0.2,23,reviewed,tx,tx
-2024-11-21T18:40:10.790Z,38.786499023438,-122.76933288574,2.7599999904633,1.45,md,16,82,0.01598,0.03,nc,nc75088876,2024-11-21T18:59:31.432Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.569999993,0.16,17,automatic,nc,nc
