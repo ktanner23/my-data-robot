@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-23T19:47:59.020Z,38.837001800537,-122.79916381836,1.9099999666214,0.45,md,10,84,0.00703,0.01,nc,nc75089516,2024-11-23T19:49:36.131Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.00999999,0.24,10,automatic,nc,nc
 2024-11-23T19:46:13.680Z,38.842334747315,-122.83100128174,0.89999997615814,0.67,md,14,88,0.005125,0.02,nc,nc75089511,2024-11-23T19:47:50.902Z,"10 km WNW of Cobb, CA",earthquake,0.26,0.469999999,0.06,13,automatic,nc,nc
-2024-11-23T19:46:02.260Z,38.841499328613,-122.82966613769,1.1699999570847,0.73,md,8,141,0.005395,0.02,nc,nc75089506,2024-11-23T19:47:40.944Z,"9 km WNW of Cobb, CA",earthquake,0.78,1.29999995,0.18,9,automatic,nc,nc
+2024-11-23T19:46:02.260Z,38.841499328613,-122.82966613769,1.1699999570847,0.73,md,8,141,0.005395,0.02,nc,nc75089506,2024-11-23T20:09:31.761Z,"9 km WNW of Cobb, CA",earthquake,0.78,1.29999995,0.18,9,automatic,nc,nc
 2024-11-23T19:38:44.587Z,35.02029419,-97.75260925,7.942935944,2.08,ml,11,82.01742554,0.1124728024,0.3402470665,ok,ok2024xayk,2024-11-23T19:40:57.985Z,"11 km W of Dibble, Oklahoma",earthquake,4.266119783,8.429118198,0.2,7,automatic,ok,ok
 2024-11-23T19:34:48.734Z,62.9544,-150.7257,97,1.4,ml,,,,0.54,ak,ak024f2rsgku,2024-11-23T19:36:53.165Z,"51 km N of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-11-23T19:31:05.320Z,36.272499084473,-120.83650207519,8.2299995422363,1.58,md,19,137,0.06326,0.07,nc,nc75089496,2024-11-23T19:44:28.587Z,"22 km SW of New Idria, CA",earthquake,0.26,0.529999971,0.34,10,automatic,nc,nc
@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T17:39:23.813Z,31.672,-104.398,3.9069,1.9,ml,17,86,0,0.5,tx,tx2024xauk,2024-11-23T17:44:17.616Z,"55 km S of Whites City, New Mexico",earthquake,0,1.2204610109329,0.2,12,automatic,tx,tx
 2024-11-23T17:33:37.848Z,58.4042,-154.6037,99.6,0.3,ml,,,,0.17,ak,ak024f2qlct4,2024-11-23T17:35:21.342Z,"93 km N of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2024-11-23T17:33:34.090Z,37.48416519165,-118.84750366211,0.56000000238419,1.14,md,9,217,0.1067,0.03,nc,nc75089431,2024-11-23T17:44:27.810Z,"17 km WSW of Toms Place, CA",earthquake,0.84,4.69000006,0.26,9,automatic,nc,nc
-2024-11-23T17:28:31.521Z,31.676,-104.397,4.7232,2.3,ml,18,69,0,0.3,tx,tx2024xauc,2024-11-23T17:32:32.539Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3387216329575,0.2,13,automatic,tx,tx
+2024-11-23T17:28:31.521Z,31.676,-104.397,4.7232,2.3,ml,18,69,0,0.3,tx,tx2024xauc,2024-11-23T20:04:17.040Z,"55 km S of Whites City, New Mexico",earthquake,0,1.3387216329575,0.2,13,automatic,tx,tx
 2024-11-23T17:23:47.810Z,35.0885,-119.1281667,12.23,1.8,ml,36,77,0.04706,0.27,ci,ci40798847,2024-11-23T17:27:29.681Z,"24 km NW of Grapevine, CA",earthquake,0.29,0.92,0.184,26,automatic,ci,ci
 2024-11-23T17:18:07.020Z,35.8438333,-117.6688333,10.4,1.89,ml,30,51,0.06438,0.13,ci,ci40798839,2024-11-23T17:21:39.827Z,"24 km ESE of Little Lake, CA",earthquake,0.14,0.31,0.149,26,automatic,ci,ci
 2024-11-23T17:17:29.810Z,38.782165527344,-122.7636642456,3.7699999809265,1.14,md,24,71,0.01154,0.04,nc,nc75089421,2024-11-23T17:37:17.770Z,"1 km NW of The Geysers, CA",earthquake,0.28,0.629999995,0.23,23,automatic,nc,nc
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-23T09:05:27.030Z,17.962333333333,-66.410166666667,10.43,2.81,md,15,147,0.0161,0.09,pr,pr71466413,2024-11-23T09:24:35.780Z,"0 km SW of Santa Isabel, Puerto Rico",earthquake,0.35,0.6,0.17851504982729,14,reviewed,pr,pr
 2024-11-23T08:33:03.407Z,39.2956,71.7909,10,5.4,mb,111,34,0.182,0.82,us,usd00125in,2024-11-23T10:54:50.742Z,"23 km ENE of Karakenja, Tajikistan",earthquake,6.46,1.762,0.034,296,reviewed,us,us
 2024-11-23T08:28:54.432Z,61.2863,-152.2859,7.3,0.7,ml,,,,0.09,ak,ak024f2l7f2b,2024-11-23T08:30:33.051Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2024-11-23T08:24:31.722Z,61.4115,-149.7867,48.1,1.2,ml,,,,0.25,ak,ak024f2l6ig4,2024-11-23T08:26:21.878Z,"6 km SSW of Knik, Alaska",earthquake,,1,,,automatic,ak,ak
+2024-11-23T08:24:31.722Z,61.4115,-149.7867,48.1,1.2,ml,,,,0.25,ak,ak024f2l6ig4,2024-11-23T20:01:38.268Z,"6 km SSW of Knik, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-11-23T08:24:12.223Z,63.1967,-151.3307,0,1.3,ml,,,,0.37,ak,ak024f2l6gxy,2024-11-23T08:26:25.632Z,"43 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-23T08:17:41.645Z,61.2848,-152.2769,9,0.3,ml,,,,0.13,ak,ak024f2l5178,2024-11-23T08:19:29.806Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-23T08:10:12.669Z,39.6587,46.51,10,4.4,mb,47,100,0.334,0.66,us,us6000p77p,2024-11-23T08:33:24.040Z,"7 km NNW of Laçın, Azerbaijan",earthquake,5.02,1.901,0.085,40,reviewed,us,us
@@ -191,7 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-22T20:16:08.860Z,38.804668426514,-122.7799987793,1.3400000333786,0.92,md,8,211,0.008595,0.02,nc,nc75089151,2024-11-22T20:32:18.969Z,"4 km NNW of The Geysers, CA",earthquake,0.78,0.579999983,0.22,9,automatic,nc,nc
 2024-11-22T20:15:25.320Z,58.158166666667,-155.43616666667,24.33,-0.41,ml,7,107,0.05149,0.11,av,av93375463,2024-11-23T06:50:25.970Z,"87 km NW of Karluk, Alaska",earthquake,0.47,0.79,0.18172839780718,6,reviewed,av,av
 2024-11-22T20:14:57.673Z,59.9523,-151.8318,64.8,1.3,ml,,,,0.19,ak,ak024f14qa1z,2024-11-22T20:16:40.498Z,"5 km W of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2024-11-22T20:05:20.280Z,38.835998535156,-122.80133056641,2.1900000572205,0.86,md,16,61,0.008912,0.01,nc,nc75089146,2024-11-22T20:22:16.897Z,"7 km WNW of Cobb, CA",earthquake,0.25,0.639999986,0.21,15,automatic,nc,nc
-2024-11-22T20:04:49.650Z,33.8691667,-117.5021667,-0.51,1.05,ml,19,74,0.04944,0.31,ci,ci40798423,2024-11-22T21:06:07.232Z,"2 km ESE of Home Gardens, CA",quarry blast,0.64,31.61,0.153,13,reviewed,ci,ci
-2024-11-22T20:01:38.620Z,46.020166666667,-112.45633333333,-2,1.44,ml,7,145,0.07054,0.16,mb,mb90066633,2024-11-22T21:12:20.230Z,"6 km ENE of Butte, Montana",quarry blast,0.76,31.61,0.25703025212995,12,reviewed,mb,mb
-2024-11-22T19:59:54.020Z,58.1685,-155.34783333333,1.42,-0.4,ml,10,74,0.04292,0.09,av,av93375448,2024-11-23T06:31:25.640Z,"85 km NW of Karluk, Alaska",earthquake,0.2,0.74,0.14346524713424,10,reviewed,av,av
