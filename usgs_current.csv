@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-26T04:27:41.226Z,61.3958,-146.749,33.7,1.4,ml,,,,0.26,ak,ak024f7hfhe2,2024-11-26T04:29:04.825Z,"36 km NW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-11-26T04:25:21.480Z,34.5561667,-117.7921667,8.59,2.08,ml,65,31,0.06423,0.19,ci,ci40800663,2024-11-26T04:31:41.944Z,"7 km N of Llano, CA",earthquake,0.15,0.42,0.14,26,automatic,ci,ci
-2024-11-26T04:11:01.510Z,38.81266784668,-122.82833099365,1.2400000095367,0.81,md,7,105,0.01167,0.01,nc,nc75090501,2024-11-26T04:12:40.616Z,"7 km NW of The Geysers, CA",earthquake,0.55,1.94000006,0.13,8,automatic,nc,nc
+2024-11-26T04:25:21.480Z,34.5561667,-117.7921667,8.59,2.08,ml,65,31,0.06423,0.19,ci,ci40800663,2024-11-26T04:36:21.560Z,"7 km N of Llano, CA",earthquake,0.15,0.42,0.14,26,automatic,ci,ci
+2024-11-26T04:11:01.510Z,38.81266784668,-122.82833099365,1.2400000095367,0.81,md,7,105,0.01167,0.01,nc,nc75090501,2024-11-26T04:42:19.133Z,"7 km NW of The Geysers, CA",earthquake,0.55,1.94000006,0.13,8,automatic,nc,nc
 2024-11-26T04:03:26.410Z,35.6946667,-117.5198333,10.55,0.57,ml,18,66,0.08363,0.15,ci,ci40800647,2024-11-26T04:06:51.729Z,"13 km SW of Searles Valley, CA",earthquake,0.31,0.59,0.173,5,automatic,ci,ci
 2024-11-26T03:32:54.654Z,63.594,-147.8929,9.6,1.5,ml,,,,0.55,ak,ak024f7gv5eh,2024-11-26T03:34:52.705Z,"52 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-26T03:31:01.048Z,61.8019,-149.3209,25.9,1.7,ml,,,,0.58,ak,ak024f7gupdu,2024-11-26T03:32:51.109Z,"7 km NW of Fishhook, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -62,6 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T21:11:31.160Z,38.788333892822,-122.77349853516,1.0800000429153,1.07,md,15,82,0.01226,0.03,nc,nc75090391,2024-11-25T21:13:10.560Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.449999988,0.15,16,automatic,nc,nc
 2024-11-25T21:10:54.290Z,34.254,-117.1373333,5.38,1.31,ml,11,173,0.05795,0.08,ci,ci40800319,2024-11-25T21:16:18.494Z,"5 km E of Lake Arrowhead, CA",earthquake,0.72,0.6,0.27,21,automatic,ci,ci
 2024-11-25T21:10:40.380Z,38.786998748779,-122.77183532715,0.50999999046326,1.54,md,24,82,0.014,0.03,nc,nc75090386,2024-11-25T21:54:29.316Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.13,25,automatic,nc,nc
+2024-11-25T21:10:02.160Z,47.889,-122.69766666667,-0.03,1.82,ml,16,89,0.08824,0.31,uw,uw62061301,2024-11-26T04:44:38.710Z,"4 km SSW of Port Ludlow, Washington",explosion,0.53,31.61,0.19535813794537,10,reviewed,uw,uw
 2024-11-25T21:09:34.630Z,33.4975,-115.8306667,8.72,2.78,ml,73,47,0.03231,0.18,ci,ci40800303,2024-11-25T23:01:44.040Z,"10 km ESE of North Shore, CA",earthquake,0.15,0.39,0.191,112,reviewed,ci,ci
 2024-11-25T21:07:38.140Z,38.787334442139,-122.77283477783,1.0199999809265,1.64,md,15,82,0.01315,0.03,nc,nc75090366,2024-11-25T21:32:19.161Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.469999999,0.2,13,automatic,nc,nc
 2024-11-25T21:04:44.705Z,60.244,-154.6382,14.8,1.5,ml,,,,0.27,ak,ak024f63vkza,2024-11-25T21:06:09.132Z,"18 km WNW of Port Alsworth, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -262,5 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-25T04:51:31.142Z,6.8092,-73.0816,148.637,4.6,mb,66,64,0.911,0.91,us,us6000p7iv,2024-11-25T06:04:31.900Z,"8 km N of Jordán, Colombia",earthquake,7.88,7.537,0.037,223,reviewed,us,us
 2024-11-25T04:50:51.800Z,61.369833333333,-152.32533333333,-1.89,0.22,ml,15,122,0.1134,0.22,av,av93378183,2024-11-25T22:26:12.180Z,"71 km WNW of Beluga, Alaska",earthquake,0.35,4.73,0.18205988135549,15,reviewed,av,av
 2024-11-25T04:46:35.640Z,19.2063331604,-155.53533935547,0.10999999940395,1.76999998,md,49,84,0.05412,0.219999999,hv,hv74540187,2024-11-25T04:48:35.320Z,"5 km W of Pāhala, Hawaii",earthquake,0.34,0.209999993,0.300000012,12,automatic,hv,hv
-2024-11-25T04:42:16.220Z,38.826667785645,-122.81183624268,1.1200000047684,0.86,md,9,86,0.003546,0.03,nc,nc75090076,2024-11-25T05:09:27.409Z,"7 km NNW of The Geysers, CA",earthquake,0.28,1.47000003,0.36,9,automatic,nc,nc
-2024-11-25T04:35:52.782Z,61.755,-149.0435,34.9,1.3,ml,,,,0.74,ak,ak024f5txvj2,2024-11-25T04:38:16.098Z,"5 km NE of Buffalo Soapstone, Alaska",earthquake,,0.1,,,automatic,ak,ak
