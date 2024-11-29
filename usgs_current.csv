@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-11-29T14:18:41.120Z,19.379499435425,-155.2371673584,2,1.72,ml,29,68,0.006735,0.219999999,hv,hv74546252,2024-11-29T14:21:32.430Z,"7 km S of Volcano, Hawaii",earthquake,0.35,0.270000011,0.38,10,automatic,hv,hv
 2024-11-29T14:16:05.380Z,36.1186667,-117.8765,3.7,0.98,ml,22,71,0.01756,0.15,ci,ci40989992,2024-11-29T14:19:37.071Z,"10 km NE of Coso Junction, CA",earthquake,0.22,0.33,0.205,14,automatic,ci,ci
-2024-11-29T14:07:12.690Z,36.632499694824,-121.26333618164,6.1700000762939,1.82,md,26,110,0.0466,0.13,nc,nc75092501,2024-11-29T14:08:46.820Z,"16 km NNW of Pinnacles, CA",earthquake,0.35,0.899999976,0.22,23,automatic,nc,nc
+2024-11-29T14:07:12.690Z,36.632499694824,-121.26333618164,6.1700000762939,1.82,md,26,110,0.0466,0.13,nc,nc75092501,2024-11-29T14:27:15.271Z,"16 km NNW of Pinnacles, CA",earthquake,0.35,0.899999976,0.22,23,automatic,nc,nc
 2024-11-29T14:02:24.868Z,63.3525,-149.703,92.9,1.7,ml,,,,0.3,ak,ak024fclugra,2024-11-29T14:04:49.540Z,"37 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-11-29T13:48:33.936Z,65.0399,-147.0229,0.9,1,ml,,,,0.18,ak,ak024fcliwsh,2024-11-29T13:49:55.507Z,"18 km N of Two Rivers, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-11-29T13:46:03.260Z,37.642501831055,-119.0436630249,-0.88999998569489,1,md,10,59,0.01154,0.03,nc,nc75092496,2024-11-29T14:09:31.246Z,"6 km WNW of Mammoth Lakes, CA",earthquake,0.31,0.270000011,0.2,10,automatic,nc,nc
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-29T03:56:34.610Z,34.0438333,-117.2213333,6.2,0.99,ml,43,56,0.07728,0.17,ci,ci40989704,2024-11-29T04:01:46.977Z,"4 km E of Loma Linda, CA",earthquake,0.18,0.58,0.186,29,automatic,ci,ci
 2024-11-29T03:55:34.210Z,38.791332244873,-122.77532958984,1.0499999523163,1.08,md,8,107,0.01001,0.02,nc,nc75092321,2024-11-29T04:32:15.104Z,"2 km NW of The Geysers, CA",earthquake,0.41,0.99000001,0.03,8,automatic,nc,nc
 2024-11-29T03:50:23.664Z,61.9194,-144.0604,13.9,1,ml,,,,0.22,ak,ak024fcfkzdq,2024-11-29T03:51:53.535Z,"49 km NNE of Chitina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-11-29T03:38:11.055Z,39.6702,-87.4037,2.023,2,ml,25,42,0.161,0.31,us,us7000nuvb,2024-11-29T13:52:31.982Z,"1 km NNW of Clinton, Indiana",earthquake,1.68,3.378,0.128,8,reviewed,us,us
+2024-11-29T03:38:11.190Z,39.6735,-87.406,6.83,1.98,md,12,79,0.1636,0.26,nm,nm60502783,2024-11-29T14:35:42.639Z,"1 km SE of Fairview Park, Indiana",earthquake,0.52,1.29,0.081826202678572,8,reviewed,nm,nm
 2024-11-29T03:26:20.894Z,62.8667,-148.6342,11.2,1.4,ml,,,,0.76,ak,ak024fcfftzd,2024-11-29T03:28:33.276Z,"60 km SSE of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2024-11-29T03:08:56.230Z,34.0348333,-117.2396667,14.11,0.88,ml,35,76,0.1201,0.13,ci,ci40989696,2024-11-29T03:13:41.744Z,"2 km SE of Loma Linda, CA",earthquake,0.18,0.4,0.237,24,automatic,ci,ci
 2024-11-29T03:07:01.310Z,38.835334777832,-122.80549621582,1.75,0.21,md,9,82,0.01223,0.01,nc,nc75092316,2024-11-29T03:37:17.702Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.30999994,0.08,8,automatic,nc,nc
@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-28T14:47:29.000Z,62.2372,-151.5588,12.3,2.2,ml,,,,0.91,ak,ak024491lrpd0,2024-11-28T14:50:04.764Z,"28 km NNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-11-28T14:45:43.330Z,17.966166666667,-66.805833333333,9.77,2.46,md,13,203,0.05979,0.16,pr,pr71467108,2024-11-28T14:57:39.990Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.45,0.65,0.082430635077604,6,reviewed,pr,pr
 2024-11-28T14:39:03.470Z,19.379667282104,-155.24617004394,0.83999997377396,1.9,ml,30,47,0.007571,0.360000014,hv,hv74545087,2024-11-28T14:41:54.280Z,"7 km S of Volcano, Hawaii",earthquake,0.36,0.25999999,0.36,13,automatic,hv,hv
-2024-11-28T14:32:15.350Z,34.0598333,-117.2861667,15.57,1.38,ml,75,25,0.08286,0.18,ci,ci40989432,2024-11-29T05:51:21.337Z,"3 km WNW of Loma Linda, CA",earthquake,0.15,0.23,0.197,28,reviewed,ci,ci
