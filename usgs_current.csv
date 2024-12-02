@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-02T15:31:22.800Z,33.8248333,-116.7406667,15.9,0.94,ml,29,54,0.081,0.17,ci,ci40991880,2024-12-02T15:35:33.643Z,"10 km NNW of Idyllwild, CA",earthquake,0.25,0.63,0.175,25,automatic,ci,ci
+2024-12-02T15:30:40.150Z,35.5983333,-117.4783333,6.71,1.05,ml,25,60,0.01767,0.15,ci,ci40991872,2024-12-02T15:34:09.702Z,"18 km E of Ridgecrest, CA",earthquake,0.21,0.39,0.133,12,automatic,ci,ci
 2024-12-02T14:59:22.040Z,56.2141,-159.3747,9.9,1,ml,,,,0.72,ak,ak024fhkspu4,2024-12-02T15:00:29.894Z,"35 km N of Ivanof Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-02T14:49:15.260Z,38.837833404541,-122.82816314697,2.0099999904633,0.19,md,7,111,0.005769,0.01,nc,nc75094031,2024-12-02T15:07:18.803Z,"9 km NNW of The Geysers, CA",earthquake,0.51,1.32000005,0.09,9,automatic,nc,nc
 2024-12-02T14:44:50.830Z,18.7953,-67.5815,60,3.75,md,25,168,0.5733,0.34,pr,pr2024337000,2024-12-02T15:09:13.954Z,"60 km NW of Aguadilla, Puerto Rico",earthquake,1.49,2.42,0.08,15,reviewed,pr,pr
@@ -10,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T14:09:35.827Z,60.9777,-149.3003,23.7,1.5,ml,,,,0.54,ak,ak024fhki11o,2024-12-02T14:12:30.296Z,"8 km WNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-02T13:59:39.020Z,38.813331604004,-122.81833648682,2.579999923706,1.08,md,23,52,0.009571,0.01,nc,nc75094011,2024-12-02T14:19:27.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.409999996,0.05,23,automatic,nc,nc
 2024-12-02T13:52:53.990Z,36.2111667,-118.0126667,2.94,1.03,ml,19,54,0.1582,0.16,ci,ci40991832,2024-12-02T14:58:28.698Z,"8 km S of Olancha, CA",earthquake,0.26,0.82,0.175,11,reviewed,ci,ci
+2024-12-02T13:38:13.990Z,44.475333333333,-114.17133333333,8.45,1.9,ml,12,63,0.5718,0.23,mb,mb90067218,2024-12-02T15:35:41.760Z,"5 km SE of Challis, Idaho",earthquake,0.51,1.82,0.20018081181031,13,reviewed,mb,mb
 2024-12-02T13:16:13.460Z,38.881332397461,-122.95433044434,2,1.45,md,24,130,0.03683,0.03,nc,nc75094006,2024-12-02T13:42:15.182Z,"10 km NE of Cloverdale, CA",earthquake,0.3,0.959999979,0.17,21,automatic,nc,nc
 2024-12-02T13:14:08.757Z,61.4694,-146.6156,7.5,3.7,ml,,,,0.68,ak,ak024fhjxlyu,2024-12-02T14:09:05.040Z,"40 km NNW of Valdez, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-12-02T13:03:32.080Z,40.235832214355,-124.17633056641,12.590000152588,1.43,md,9,138,0.01493,0.08,nc,nc75093996,2024-12-02T14:59:27.743Z,"14 km SSE of Petrolia, CA",earthquake,0.59,1.12,0.12,6,automatic,nc,nc
@@ -168,8 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T15:53:33.079Z,58.9713,-153.4336,83.1,1.8,ml,,,,0.44,ak,ak024ffxtji3,2024-12-01T15:56:12.759Z,"88 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-01T15:51:52.380Z,19.37,-66.307666666667,24.99,3.18,md,15,285,0.9127,0.25,pr,pr71467418,2024-12-01T16:22:32.340Z,"99 km N of Brenas, Puerto Rico",earthquake,1.03,18.37,0.14298539053484,14,reviewed,pr,pr
 2024-12-01T15:40:48.030Z,38.786499023438,-122.7448348999,1.5299999713898,1.05,md,14,140,0.007126,0.02,nc,nc75093691,2024-12-01T16:09:29.065Z,"1 km NE of The Geysers, CA",earthquake,0.33,0.529999971,0.29,14,automatic,nc,nc
-2024-12-01T15:37:20.979Z,31.568,-104.108,4.9621,1.5,ml,17,64,0,0.3,tx,tx2024xpgl,2024-12-01T15:41:43.160Z,"41 km NW of Toyah, Texas",earthquake,0,1.3251794576645,0.2,12,automatic,tx,tx
-2024-12-01T15:32:28.920Z,38.823,-122.8115,1.44,0.44,md,24,48,0.001182,0.01,nc,nc75093686,2024-12-02T09:09:28.296Z,"7 km NNW of The Geysers, CA",earthquake,0.18,0.34,0.066,22,reviewed,nc,nc
-2024-12-01T15:32:19.760Z,17.988166666667,-66.732,10.82,2.74,md,12,148,0.1314,0.23,pr,pr71467398,2024-12-01T19:08:14.930Z,"1 km WSW of Tallaboa, Puerto Rico",earthquake,0.54,0.93,0.20947279973517,11,reviewed,pr,pr
-2024-12-01T15:29:40.570Z,19.863832473755,-155.55616760254,20.120000839233,2.50999999,md,54,106,0.09561,0.150000006,hv,hv74550172,2024-12-01T15:45:33.382Z,"21 km SE of Waimea, Hawaii",earthquake,0.37,0.689999998,0.589999974,10,automatic,hv,hv
-2024-12-01T15:29:10.938Z,61.4317,-151.278,59.8,1.7,ml,,,,0.34,ak,ak024ffxoclx,2024-12-01T15:31:11.021Z,"34 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
