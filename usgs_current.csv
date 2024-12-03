@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-03T16:55:18.430Z,19.282,-65.124666666667,27.42,3.39,md,17,270,0.9383,0.28,pr,pr71467683,2024-12-03T17:20:28.080Z,"106 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.68,18.89,0.061293206202889,9,reviewed,pr,pr
 2024-12-03T16:43:52.556Z,61.2807,-152.2389,6.3,1.9,ml,,,,0.42,ak,ak024fj9fkfr,2024-12-03T16:45:34.734Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-03T16:34:21.728Z,31.589,-104.583,3.6161,1.6,ml,7,176,0.1,0.1,tx,tx2024xszn,2024-12-03T16:47:24.376Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.4843888282776,0.1,7,automatic,tx,tx
 2024-12-03T16:30:12.980Z,19.1875,-155.36766052246,30.049999237061,1.72000003,md,35,179,0.05718,0.109999999,hv,hv74554322,2024-12-03T16:31:53.830Z,"11 km E of Pāhala, Hawaii",earthquake,0.7,0.550000012,0.0700000003,4,automatic,hv,hv
@@ -8,7 +9,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T16:09:11.319Z,4.8191,126.4094,12.965,5.2,mww,141,35,2.383,0.85,us,us7000nvnb,2024-12-03T16:28:48.040Z,"123 km ESE of Sarangani, Philippines",earthquake,5.82,4.256,0.068,21,reviewed,us,us
 2024-12-03T15:48:42.300Z,17.895,-66.928666666667,12.55,3.14,md,23,212,0.07911,0.15,pr,pr71467663,2024-12-03T16:05:08.090Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.54,0.28,0.10504087102674,14,reviewed,pr,pr
 2024-12-03T15:46:07.745Z,62.0374,-150.0623,43.7,1.6,ml,,,,1.18,ak,ak024fj8unzh,2024-12-03T15:48:21.181Z,"17 km SW of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2024-12-03T15:45:31.090Z,58.5821,-153.7164,250,2.3,ml,,,,0.35,ak,ak024fj8uilx,2024-12-03T15:48:16.847Z,"74 km NW of Aleneva, Alaska",earthquake,,11.4,,,automatic,ak,ak
 2024-12-03T15:31:35.271Z,61.8135,-150.1698,8,1.8,ml,,,,0.52,ak,ak024fj8riwo,2024-12-03T15:33:13.854Z,"10 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-03T15:30:43.120Z,19.188167572021,-155.48849487305,31.889999389648,2.01999998,md,48,78,0.04103,0.129999995,hv,hv74554242,2024-12-03T15:32:26.030Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.62,0.720000029,0.419999987,9,automatic,hv,hv
 2024-12-03T15:28:56.590Z,19.581833333333,-65.373166666667,9.55,3.24,md,5,309,1.271,0.14,pr,pr71467653,2024-12-03T15:41:34.200Z,"136 km NNE of Vieques, Puerto Rico",earthquake,7.32,9.96,0.014856712017697,4,reviewed,pr,pr
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T09:32:17.420Z,19.5463,-65.2615,106,4.65,md,26,244,1.2299,0.51,pr,pr2024338004,2024-12-03T12:25:11.529Z,"137 km N of Culebra, Puerto Rico",earthquake,5.18,7.9,0.14,19,reviewed,pr,pr
 2024-12-03T09:20:46.276Z,62.2643,-149.2592,33,1.4,ml,,,,0.65,ak,ak024fj54l8z,2024-12-03T09:22:49.414Z,"32 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-03T09:12:15.290Z,19.378665924072,-155.13932800293,1.8799999952316,1.98,ml,28,162,0.01449,0.140000001,hv,hv74553457,2024-12-03T09:15:07.350Z,"9 km S of Fern Forest, Hawaii",earthquake,0.8,0.379999995,0.4,4,automatic,hv,hv
-2024-12-03T09:08:01.020Z,37.842666625977,-122.03366851807,14.359999656677,2.71,md,81,34,0.03499,0.16,nc,nc75094466,2024-12-03T16:47:09.179Z,"1 km SSW of Alamo, CA",earthquake,0.18,0.349999994,0.09,86,automatic,nc,nc
+2024-12-03T09:08:01.020Z,37.842666625977,-122.03366851807,14.359999656677,2.71,md,81,34,0.03499,0.16,nc,nc75094466,2024-12-03T17:15:08.534Z,"1 km SSW of Alamo, CA",earthquake,0.18,0.349999994,0.09,86,automatic,nc,nc
 2024-12-03T09:05:07.190Z,38.774166107178,-122.7123336792,-0.87000000476837,0.69,md,6,174,0.01183,0.07,nc,nc75094461,2024-12-03T11:22:15.909Z,"2 km W of Anderson Springs, CA",earthquake,0.41,1.97000003,0.11,5,automatic,nc,nc
 2024-12-03T09:01:40.100Z,17.426833333333,-66.481,10.75,3.14,md,17,266,0.6241,0.14,pr,pr71467608,2024-12-03T09:21:15.870Z,"60 km S of Santa Isabel, Puerto Rico",earthquake,0.64,1.75,0.11454362549896,13,reviewed,pr,pr
 2024-12-03T08:59:00.668Z,31.627,-104.514,7.1765,1.5,ml,13,70,0,0.2,tx,tx2024xskp,2024-12-03T13:14:02.584Z,"62 km SSW of Whites City, New Mexico",earthquake,1.0541468674916,0.57780647320157,0.2,18,reviewed,tx,tx
@@ -257,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T17:29:17.815Z,61.0661,-151.7696,78.8,1.7,ml,,,,0.46,ak,ak024fhmekud,2024-12-02T17:31:03.948Z,"34 km W of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-02T17:25:03.970Z,35.7498333,-117.5496667,6.45,0.99,ml,21,70,0.07641,0.13,ci,ci40991960,2024-12-02T20:28:45.275Z,"13 km W of Searles Valley, CA",earthquake,0.21,0.58,0.114,6,reviewed,ci,ci
 2024-12-02T17:25:01.080Z,38.786499023438,-122.76716613769,2.1199998855591,1.09,md,17,81,0.01526,0.03,nc,nc75094066,2024-12-02T17:54:29.962Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.540000021,0.18,16,automatic,nc,nc
-2024-12-02T17:21:25.335Z,61.6003,-151.676,86.4,2.1,ml,,,,0.5,ak,ak024fhmcvpl,2024-12-02T17:23:54.235Z,"45 km SSW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-02T17:17:51.749Z,31.68,-104.426,6.9714,1.8,ml,14,69,0,0.2,tx,tx2024xrfg,2024-12-03T13:56:54.947Z,"55 km S of Whites City, New Mexico",earthquake,0.93966395604124,0.83245891958085,0.2,12,reviewed,tx,tx
