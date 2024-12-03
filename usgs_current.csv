@@ -5,8 +5,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-03T04:08:36.480Z,19.289333343506,-155.37600708008,29.530000686646,2.08,ml,59,109,0.04477,0.189999998,hv,hv74552892,2024-12-03T04:11:28.360Z,"14 km NE of Pāhala, Hawaii",earthquake,0.35,0.550000012,0.34,12,automatic,hv,hv
 2024-12-03T03:55:00.018Z,-52.8431,19.4932,10,4.9,mb,26,59,20.473,0.95,us,us7000nvjy,2024-12-03T04:17:06.040Z,"southwest of Africa",earthquake,12.05,1.863,0.119,22,reviewed,us,us
 2024-12-03T03:53:51.278Z,64.4662,-146.8885,9.6,0.9,ml,,,,0.35,ak,ak024fj1r2gs,2024-12-03T03:58:51.110Z,"6 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-12-03T03:52:30.360Z,19.4497,-67.9119,3.465,4.2,mb,37,129,1.215,0.55,us,us7000nvjw,2024-12-03T04:02:54.040Z,"109 km NNE of Punta Cana, Dominican Republic",earthquake,4.56,2.885,0.128,17,reviewed,us,us
-2024-12-03T03:51:21.960Z,34.5135002,-118.8651657,12.37,3.3,ml,128,19,0.05459,0.31,ci,ci40992360,2024-12-03T04:32:45.541Z,"13 km NNW of Piru, CA",earthquake,0.24,0.78,0.219,23,automatic,ci,ci
+2024-12-03T03:52:33.970Z,19.6091,-67.909,20,3.91,md,30,214,1.1927,0.21,pr,pr2024338000,2024-12-03T04:42:11.967Z,"125 km NNE of Punta Cana, Dominican Republic",earthquake,0.81,19.55,0.14,22,reviewed,pr,pr
+2024-12-03T03:51:21.960Z,34.5135002,-118.8651657,12.37,3.3,ml,128,19,0.05459,0.31,ci,ci40992360,2024-12-03T04:37:58.572Z,"13 km NNW of Piru, CA",earthquake,0.24,0.78,0.219,23,automatic,ci,ci
 2024-12-03T03:47:36.133Z,59.515,-152.8112,94,1.6,ml,,,,0.33,ak,ak024fj1pr65,2024-12-03T03:49:48.511Z,"53 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-03T03:21:28.200Z,38.834499359131,-122.81816864014,1.4400000572205,0.65,md,9,61,0.01276,0.01,nc,nc75094341,2024-12-03T03:39:28.662Z,"8 km NNW of The Geysers, CA",earthquake,0.36,0.860000014,0.41,9,automatic,nc,nc
 2024-12-03T03:16:11.360Z,19.170833587646,-155.51432800293,42.909999847412,2.61999989,md,17,235,0.05169,0.100000001,hv,hv74552792,2024-12-03T03:17:45.940Z,"5 km SW of Pāhala, Hawaii",earthquake,1.86,1,0.0599999987,3,automatic,hv,hv
@@ -45,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T23:20:03.656Z,61.3375,-148.0427,12,1,ml,,,,0.79,ak,ak024fhpx7xp,2024-12-02T23:21:47.189Z,"48 km ESE of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-02T23:18:46.264Z,31.589,-104.546,3.7003,1.4,ml,13,164,0.1,0.2,tx,tx2024xrre,2024-12-02T23:48:29.899Z,"66 km NNE of Van Horn, Texas",earthquake,0,1.8361575603485,0.1,11,automatic,tx,tx
 2024-12-02T23:15:21.211Z,63.2515,-150.2358,110.6,2.1,ml,,,,0.46,ak,ak024fhpw6pl,2024-12-02T23:17:53.601Z,"66 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-12-02T23:07:00.930Z,13.8804,-91.1063,59.188,4,mb,29,178,0.876,0.87,us,us7000nvj8,2024-12-03T03:56:09.618Z,"23 km SSW of La Gomera, Guatemala",earthquake,7,14.872,0.13,16,reviewed,us,us
+2024-12-02T23:06:59.770Z,13.7971,-91.1512,55.448,4,mb,29,202,0.967,0.59,us,us7000nvj8,2024-12-03T04:45:44.961Z,"33 km SSW of La Gomera, Guatemala",earthquake,5.9,12.82,0.119,19,reviewed,us,us
 2024-12-02T22:57:43.895Z,62.9797,-150.8708,97.1,1.8,ml,,,,0.46,ak,ak024fhpjsa6,2024-12-02T23:00:02.285Z,"54 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-12-02T22:49:47.700Z,19.092,-155.44516666667,29.84,1.56,md,14,238,0.06508,0.11,hv,hv74552287,2024-12-02T23:37:52.380Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.78,1.05,0.082244621910029,8,reviewed,hv,hv
 2024-12-02T22:35:41.280Z,33.3633333,-116.678,12.41,0.81,ml,40,55,0.0982,0.18,ci,ci40992248,2024-12-03T00:01:32.187Z,"10 km NNW of Warner Springs, CA",earthquake,0.23,0.55,0.136,23,automatic,ci,ci
@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T21:27:42.810Z,38.829334259033,-122.80699920654,2.2000000476837,0.6,md,8,81,0.006398,0.01,nc,nc75094196,2024-12-02T21:47:17.148Z,"7 km NNW of The Geysers, CA",earthquake,0.56,1.61000001,0.37,8,automatic,nc,nc
 2024-12-02T21:26:13.054Z,32.143,-101.076,3.7068,1.6,ml,11,134,0.2,0.1,tx,tx2024xrnq,2024-12-02T21:37:40.445Z,"24 km SSW of Westbrook, Texas",earthquake,0,2.4032292366028,0.2,11,automatic,tx,tx
 2024-12-02T21:25:12.980Z,33.6006667,-116.6355,12.9,1.02,ml,23,64,0.03416,0.1,ci,ci40992200,2024-12-02T22:41:11.529Z,"6 km NE of Anza, CA",earthquake,0.19,0.32,0.186,10,reviewed,ci,ci
-2024-12-02T21:23:20.354Z,34.4361,33.2841,10,4.1,mb,26,140,0.525,0.86,us,us7000nviy,2024-12-03T04:13:53.856Z,"34 km SSE of Ágios Týchon, Cyprus",earthquake,4.46,1.65,0.145,13,reviewed,us,us
+2024-12-02T21:23:20.036Z,34.4403,33.2491,10,4.1,mb,31,140,0.524,0.65,us,us7000nviy,2024-12-03T04:35:49.357Z,"33 km SE of Limassol, Cyprus",earthquake,4.6,1.95,0.145,13,reviewed,us,us
 2024-12-02T21:11:57.228Z,57.0042,-154.6328,0,3.1,ml,,,,0.53,ak,ak024fhoojey,2024-12-03T04:28:20.040Z,"28 km WNW of Akhiok, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-02T21:11:38.710Z,19.39999961853,-155.2961730957,5.6100001335144,1.70000005,md,12,170,0.01015,0.379999995,hv,hv74552122,2024-12-02T21:12:57.810Z,"8 km SW of Volcano, Hawaii",earthquake,1.44,1.14999998,0.550000012,4,automatic,hv,hv
 2024-12-02T21:11:04.920Z,38.502,-112.88583333333,2.11,0.76,md,16,46,0.0007605,0.15,uu,uu80092551,2024-12-02T21:30:23.870Z,"15 km NE of Milford, Utah",earthquake,0.29,0.51,0.50217552578574,6,reviewed,uu,uu
@@ -227,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-02T04:48:21.440Z,38.507333333333,-112.88466666667,2.29,1.47,ml,19,56,0.005951,0.13,uu,uu80091316,2024-12-02T22:46:32.990Z,"16 km NE of Milford, Utah",earthquake,0.26,0.46,0.10124075629402,2,reviewed,uu,uu
 2024-12-02T04:48:05.480Z,38.505666666667,-112.88383333333,1.92,1.52,ml,13,60,0.004638,0.1,uu,uu80091311,2024-12-02T23:03:32.240Z,"16 km NE of Milford, Utah",earthquake,0.34,0.53,0.069858056603635,2,reviewed,uu,uu
 2024-12-02T04:47:15.050Z,36.2103333,-118.0113333,2.8,0.97,ml,20,54,0.1568,0.15,ci,ci40991680,2024-12-02T20:11:48.060Z,"8 km S of Olancha, CA",earthquake,0.23,0.74,0.14,10,reviewed,ci,ci
-2024-12-02T04:44:54.410Z,34.0111667,-116.769,11.69,0.23,ml,15,101,0.04012,0.11,ci,ci40991672,2024-12-02T15:11:27.583Z,"10 km N of Cabazon, CA",earthquake,0.33,0.64,0.156,4,reviewed,ci,ci
