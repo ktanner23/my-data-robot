@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-11T22:15:33.960Z,38.821334838867,-122.82233428955,2.6099998950958,0.83,md,8,130,0.009796,0.02,nc,nc75101951,2024-12-11T22:17:09.813Z,"8 km NW of The Geysers, CA",earthquake,0.49,1.10000002,0.13,6,automatic,nc,nc
+2024-12-11T22:31:29.110Z,33.6676674,-116.7478333,14.37,0.95,ml,24,64,0.05168,0.17,ci,ci41000256,2024-12-11T22:33:31.582Z,"8 km SSW of Idyllwild, CA",earthquake,0.42,0.52,0.555,10,automatic,ci,ci
+2024-12-11T22:26:15.820Z,19.350666046143,-155.21282958984,3.1099998950958,2.01,ml,50,61,0.02314,0.25,hv,hv74562852,2024-12-11T22:29:10.160Z,"10 km SSE of Volcano, Hawaii",earthquake,0.38,0.689999998,0.5,13,automatic,hv,hv
+2024-12-11T22:25:27.670Z,33.2151667,-116.063,9.76,1.19,ml,50,52,0.08269,0.21,ci,ci41000240,2024-12-11T22:36:11.940Z,"10 km NE of Ocotillo Wells, CA",earthquake,0.2,0.48,0.16,27,automatic,ci,ci
+2024-12-11T22:15:33.960Z,38.821334838867,-122.82233428955,2.6099998950958,0.83,md,8,130,0.009796,0.02,nc,nc75101951,2024-12-11T22:32:13.567Z,"8 km NW of The Geysers, CA",earthquake,0.49,1.10000002,0.13,6,automatic,nc,nc
 2024-12-11T22:15:02.640Z,35.0415,-119.1565,8.33,1.29,ml,30,57,0.06204,0.24,ci,ci41000208,2024-12-11T22:19:36.459Z,"22 km N of Pine Mountain Club, CA",earthquake,0.33,0.72,0.17,28,automatic,ci,ci
 2024-12-11T22:08:02.682Z,39.1386,-119.0104,10.8,1.5,ml,8,132.43,0.236,0.2302,nn,nn00889279,2024-12-11T22:10:28.520Z,"21 km NE of Yerington, Nevada",earthquake,,2.1,0.1,4,automatic,nn,nn
 2024-12-11T21:58:55.169Z,61.3835,-151.4646,67.7,1.4,ml,,,,0.41,ak,ak024fwksqcs,2024-12-11T22:01:27.994Z,"33 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -52,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T16:36:14.764Z,39.1177,-119.0439,10.4,1.8,ml,11,94.61,0.202,0.1228,nn,nn00889249,2024-12-11T16:38:44.178Z,"17 km NE of Yerington, Nevada",earthquake,,0.8,0.21,8,automatic,nn,nn
 2024-12-11T16:35:39.780Z,35.8528333,-117.524,3.71,-0.04,ml,7,180,0.104,0.14,ci,ci40999736,2024-12-11T18:02:32.986Z,"14 km NW of Searles Valley, CA",earthquake,0.81,31.61,0.063,2,reviewed,ci,ci
 2024-12-11T16:31:53.170Z,40.340831756592,-124.97816467285,7.7199997901917,2.53,md,19,300,,0.23,nc,nc75101811,2024-12-11T17:17:18.431Z,"59 km WNW of Petrolia, CA",earthquake,8.67,8.26000023,0.06,11,automatic,nc,nc
+2024-12-11T16:22:03.802Z,-12.2856,167.0455,234.779,4.7,mb,90,49,3.146,0.67,us,us7000nxwm,2024-12-11T22:27:50.040Z,"184 km NNW of Sola, Vanuatu",earthquake,11.33,6.881,0.064,75,reviewed,us,us
 2024-12-11T16:20:50.204Z,39.1636,-119.0524,9.6,2.3,ml,20,86.32,0.231,0.141,nn,nn00889247,2024-12-11T20:59:53.461Z,"21 km NNE of Yerington, Nevada",earthquake,,2.9,0.17,11,reviewed,nn,nn
 2024-12-11T16:00:04.330Z,38.830501556396,-122.81833648682,1.7599999904633,1.69,md,35,48,0.009592,0.04,nc,nc75101801,2024-12-11T16:47:16.224Z,"8 km NNW of The Geysers, CA",earthquake,0.16,0.25999999,0.16,35,automatic,nc,nc
 2024-12-11T15:48:32.360Z,44.747833333333,-111.33983333333,2.65,-0.42,ml,4,150,0.1048,0.08,mb,mb90068238,2024-12-11T18:41:45.090Z,"12 km WSW of Hebgen Lake Estates, Montana",earthquake,1.23,7.49,0.18286324974084,2,reviewed,mb,mb
@@ -263,8 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T22:50:35.520Z,34.47933333,-96.82283333,0,1.51,ml,42,112,0.2339540902,0.55,ok,ok2024yggg,2024-12-11T13:40:02.979Z,"8 km N of Mill Creek, Oklahoma",quarry blast,,0.8,0.22,20,reviewed,ok,ok
 2024-12-10T22:46:50.480Z,45.078,-111.73916666667,-2,1.36,ml,8,130,0.1108,0.14,mb,mb90068183,2024-12-11T15:44:58.710Z,"28 km SE of Virginia City, Montana",quarry blast,0.93,31.61,0.15466198690647,21,reviewed,mb,mb
 2024-12-10T22:44:20.940Z,38.821334838867,-122.80549621582,2.6600000858307,0.76,md,9,78,0.004125,0.02,nc,nc75101316,2024-12-10T23:07:17.867Z,"6 km NNW of The Geysers, CA",earthquake,0.74,1.16999996,0.32,11,automatic,nc,nc
-2024-12-10T22:29:23.190Z,61.275666666667,-152.253,3.2,0.1,ml,9,108,0.04844,0.1,av,av93028194,2024-12-11T03:28:20.900Z,"64 km WNW of Tyonek, Alaska",earthquake,0.37,0.4,0.20238329243279,10,reviewed,av,av
-2024-12-10T22:29:19.910Z,61.277666666667,-152.252,3.12,-0.03,ml,6,166,0.04843,0.08,av,av93403771,2024-12-11T03:25:09.910Z,"64 km WNW of Tyonek, Alaska",earthquake,0.36,0.52,0.17162282245295,7,reviewed,av,av
-2024-12-10T22:28:31.340Z,18.856666666667,-155.50583333333,35.13,2.03,ml,38,270,0.196,0.13,hv,hv74562027,2024-12-11T03:58:41.240Z,"24 km SSE of Naalehu, Hawaii",earthquake,0.67,1,0.18205029591526,9,reviewed,hv,hv
-2024-12-10T22:28:26.020Z,39.1538,-119.0647,0,1.6,ml,8,85.46,0.217,0.1796,nn,nn00889084,2024-12-10T22:31:47.707Z,"20 km NNE of Yerington, Nevada",earthquake,,25.4,0.27,5,automatic,nn,nn
-2024-12-10T22:27:44.289Z,36.04183333,-96.52416667,0,1.37,ml,57,65,0.1970613298,0.53,ok,ok2024ygfn,2024-12-11T13:22:08.128Z,"7 km SE of Oilton, Oklahoma",quarry blast,,0.6,0.22,28,reviewed,ok,ok
