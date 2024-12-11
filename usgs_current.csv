@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-11T10:08:32.695Z,59.7858,-147.5406,17.4,2.3,ml,,,,0.87,ak,ak024fwdy75x,2024-12-11T10:11:00.912Z,"40 km SE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-12-11T09:50:47.150Z,38.789665222168,-122.77083587647,0.03999999910593,0.26,md,6,100,0.0138,0.02,nc,nc75101696,2024-12-11T09:52:20.784Z,"2 km NNW of The Geysers, CA",earthquake,0.52,1.48000002,0.02,5,automatic,nc,nc
+2024-12-11T09:50:47.150Z,38.789665222168,-122.77083587647,0.03999999910593,0.26,md,6,100,0.0138,0.02,nc,nc75101696,2024-12-11T10:12:17.636Z,"2 km NNW of The Geysers, CA",earthquake,0.52,1.48000002,0.02,5,automatic,nc,nc
 2024-12-11T09:46:05.410Z,35.4986667,-118.401,5.14,1.42,ml,38,41,0.1742,0.13,ci,ci40999544,2024-12-11T09:49:36.917Z,"13 km SE of Bodfish, CA",earthquake,0.14,0.93,0.192,25,automatic,ci,ci
 2024-12-11T09:37:42.569Z,39.178,-119.0684,9.4,1.1,ml,8,120.94,0.422,0.1522,nn,nn00889207,2024-12-11T09:40:18.431Z,"22 km NNE of Yerington, Nevada",earthquake,,1.6,0.32,5,automatic,nn,nn
 2024-12-11T09:36:58.610Z,19.052667617798,-155.36199951172,31.989999771118,1.89999998,md,39,208,0.1393,0.189999998,hv,hv74562362,2024-12-11T09:38:48.080Z,"20 km SE of Pāhala, Hawaii",earthquake,0.78,0.910000026,0.140000001,5,automatic,hv,hv
@@ -58,7 +58,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T04:44:19.958Z,34.7315,26.9074,50.373,4.6,mb,83,61,1.747,0.83,us,us7000nxry,2024-12-11T05:30:35.040Z,"75 km S of Fry, Greece",earthquake,7.16,5.795,0.06,83,reviewed,us,us
 2024-12-11T04:43:42.814Z,39.1671,-119.0423,7.5,1.2,ml,9,87.39,0.439,0.1494,nn,nn00889153,2024-12-11T04:46:56.174Z,"22 km NNE of Yerington, Nevada",earthquake,,1,0.13,4,automatic,nn,nn
 2024-12-11T04:40:40.460Z,40.454833984375,-125.10333251953,0.43000000715256,3.46,ml,55,268,,0.26,nc,nc75101526,2024-12-11T06:12:15.845Z,"71 km WNW of Petrolia, CA",earthquake,2.49,6.11999989,0.221,11,automatic,nc,nc
-2024-12-11T04:20:59.720Z,40.470833333333,-125.127,10,3.41,ml,131,239,,0.25,nc,nc75101516,2024-12-11T09:07:18.056Z,"73 km WNW of Petrolia, CA",earthquake,1.04,31.61,0.173,56,reviewed,nc,nc
+2024-12-11T04:20:59.720Z,40.470833333333,-125.127,10,3.41,ml,131,239,,0.25,nc,nc75101516,2024-12-11T10:12:17.523Z,"73 km WNW of Petrolia, CA",earthquake,1.04,31.61,0.173,56,reviewed,nc,nc
 2024-12-11T04:13:15.040Z,38.832500457764,-122.80799865723,2.0499999523163,1.29,md,25,47,0.009236,0.03,nc,nc75101511,2024-12-11T05:37:22.597Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.370000005,0.21,25,automatic,nc,nc
 2024-12-11T04:02:43.989Z,61.4269,-150.5207,62.5,1.7,ml,,,,0.38,ak,ak024fwacc3y,2024-12-11T04:04:52.495Z,"13 km S of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-11T04:01:32.940Z,46.597166666667,-119.80483333333,8.18,0.77,ml,10,124,0.03255,0.07,uw,uw62067206,2024-12-11T05:29:52.000Z,"12 km SE of Desert Aire, Washington",earthquake,0.26,0.35,0.16486016163911,10,reviewed,uw,uw
@@ -270,10 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-10T10:27:42.180Z,40.295333862305,-124.57216644287,-0.10999999940395,3.49,ml,41,262,,0.28,nc,nc75100956,2024-12-11T09:13:07.040Z,"25 km W of Petrolia, CA",earthquake,2.67,4.01999998,0.469,5,reviewed,nc,nc
 2024-12-10T10:25:57.520Z,40.295166666667,-124.50566666667,7.9,3.65,mw,49,252,0.1249,0.19,nc,nc75100951,2024-12-11T02:57:17.495Z,"19 km W of Petrolia, CA",earthquake,0.51,0.4,,7,reviewed,nc,nc
 2024-12-10T10:25:07.054Z,39.1626,-119.0699,14.7,1.9,ml,13,118.48,0.221,0.1787,nn,nn00888904,2024-12-10T10:27:13.138Z,"21 km NNE of Yerington, Nevada",earthquake,,1.7,0.42,6,automatic,nn,nn
-2024-12-10T10:24:26.621Z,39.1805,-119.0357,6.2,2.1,ml,15,85.78,0.252,0.3723,nn,nn00888903,2024-12-10T10:27:04.064Z,"24 km NNE of Yerington, Nevada",earthquake,,1,0.18,7,automatic,nn,nn
-2024-12-10T10:21:56.455Z,39.1633,-119.0659,3,2.1,ml,16,86.19,0.224,0.1483,nn,nn00888898,2024-12-10T10:24:14.348Z,"21 km NNE of Yerington, Nevada",earthquake,,2.3,0.24,11,automatic,nn,nn
-2024-12-10T10:20:48.609Z,39.1231,-119.0704,16,1.4,ml,9,128.47,0.191,0.2201,nn,nn00888897,2024-12-10T10:23:12.300Z,"17 km NNE of Yerington, Nevada",earthquake,,2.1,0.17,5,automatic,nn,nn
-2024-12-10T10:20:18.600Z,40.317665100098,-124.47066497803,8.4799995422363,2.26,md,14,262,,0.05,nc,nc75100946,2024-12-10T10:21:58.782Z,"16 km W of Petrolia, CA",earthquake,1.35,0.639999986,0.09,13,automatic,nc,nc
-2024-12-10T10:15:49.239Z,39.159,-119.0639,1.8,1.4,ml,10,85.87,0.221,0.139,nn,nn00888895,2024-12-10T10:18:22.456Z,"21 km NNE of Yerington, Nevada",earthquake,,12.6,0.1,4,automatic,nn,nn
-2024-12-10T10:14:13.460Z,39.166,-119.0437,9.9,1.6,ml,13,86.75,0.237,0.1295,nn,nn00888893,2024-12-10T10:16:43.109Z,"22 km NNE of Yerington, Nevada",earthquake,,1.2,0.17,6,automatic,nn,nn
-2024-12-10T10:11:31.948Z,56.9584,-157.7822,129.8,2.3,ml,,,,0.78,ak,ak024fuqfhre,2024-12-10T11:20:28.040Z,"65 km SSW of Ugashik, Alaska",earthquake,,2,,,automatic,ak,ak
