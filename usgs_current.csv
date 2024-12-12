@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T23:04:51.710Z,34.988,-118.1873333,0.54,1.45,ml,38,36,0.1141,0.19,ci,ci41000960,2024-12-12T23:08:41.427Z,"7 km S of Mojave, CA",earthquake,0.23,0.47,0.128,32,automatic,ci,ci
 2024-12-12T23:02:38.186Z,61.5278,-151.8793,13.5,1.1,ml,,,,0.91,ak,ak024fy96wne,2024-12-12T23:04:23.355Z,"57 km SSW of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-12T22:59:21.689Z,63.1258,-151.5265,0,2.2,ml,,,,0.94,ak,ak024fy8xnl4,2024-12-12T23:02:42.019Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-12-12T22:53:58.180Z,40.300498962402,-124.47699737549,17.790000915527,2.16,md,8,310,0.1489,0.03,nc,nc75102471,2024-12-12T23:07:15.627Z,"17 km W of Petrolia, CA",earthquake,4.4,0.720000029,0.21,4,automatic,nc,nc
+2024-12-12T22:53:58.180Z,40.300498962402,-124.47699737549,17.790000915527,2.16,md,8,310,0.1489,0.03,nc,nc75102471,2024-12-12T23:22:20.726Z,"17 km W of Petrolia, CA",earthquake,4.4,0.720000029,0.21,4,automatic,nc,nc
 2024-12-12T22:42:03.770Z,59.4164,-153.1298,76.8,1.7,ml,,,,0.53,ak,ak024fy8tz15,2024-12-12T22:44:04.127Z,"68 km SE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-12T22:35:57.603Z,60.1968,-151.9923,33.4,1.5,ml,,,,1.16,ak,ak024fy8sl68,2024-12-12T22:37:53.252Z,"24 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-12T22:29:39.328Z,65.0103,-148.8027,18.1,1,ml,,,,0.22,ak,ak024fy8r9gs,2024-12-12T22:31:36.098Z,"30 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -111,7 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T12:28:16.060Z,33.717,-117.0375,13.52,0.76,ml,37,56,0.03127,0.14,ci,ci41000504,2024-12-12T14:01:00.954Z,"4 km ESE of Green Acres, CA",earthquake,0.22,0.31,0.136,19,reviewed,ci,ci
 2024-12-12T12:13:44.541Z,39.1008,-119.0273,4.3,1.4,ml,9,90.93,0.202,0.1665,nn,nn00889351,2024-12-12T12:16:34.110Z,"17 km NE of Yerington, Nevada",earthquake,,1.9,0.39,4,automatic,nn,nn
 2024-12-12T12:11:46.270Z,17.886833333333,-68.539,59.54,3.43,md,9,233,1.201,0.2,pr,pr71468403,2024-12-12T13:26:35.040Z,"54 km S of Boca de Yuma, Dominican Republic",earthquake,1.45,4.38,0.040690671809455,4,reviewed,pr,pr
-2024-12-12T12:10:35.925Z,39.1804,-119.0393,7.4,2.1,ml,17,87.75,0.25,0.1499,nn,nn00889348,2024-12-12T21:51:49.601Z,"24 km NNE of Yerington, Nevada",earthquake,,4.5,0.32,10,reviewed,nn,nn
+2024-12-12T12:10:35.872Z,39.1829,-119.037,4.2,2.1,ml,19,66.26,0.014,0.149,nn,nn00889348,2024-12-12T23:16:38.669Z,"24 km NNE of Yerington, Nevada",earthquake,,0.9,0.32,10,reviewed,nn,nn
 2024-12-12T12:09:34.691Z,39.1057,-119.0247,4.6,1.2,ml,8,99.76,0.207,0.1302,nn,nn00889347,2024-12-12T12:13:03.761Z,"17 km NE of Yerington, Nevada",earthquake,,2.2,0.09,2,automatic,nn,nn
 2024-12-12T12:06:26.630Z,41.559333333333,-109.8585,-3.49,2.55,ml,24,157,0.1091,0.21,uu,uu80097306,2024-12-12T14:43:01.980Z,"1 km N of Little America, Wyoming",earthquake,0.64,1.06,0.20513616533573,11,reviewed,uu,uu
 2024-12-12T11:55:46.499Z,39.0916,-119.0229,11.4,1.9,ml,11,91.44,0.2,0.1639,nn,nn00889344,2024-12-12T19:08:33.601Z,"16 km NE of Yerington, Nevada",earthquake,,3,0.2,5,reviewed,nn,nn
@@ -239,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T23:33:01.790Z,35.5935,-117.4003333,8.46,0.39,ml,8,106,0.05091,0.11,ci,ci41000328,2024-12-12T01:03:16.551Z,"19 km S of Trona, CA",earthquake,0.32,0.57,0.123,2,reviewed,ci,ci
 2024-12-11T23:31:18.450Z,33.4826667,-116.4548333,10.13,1.09,ml,51,49,0.09808,0.19,ci,ci41000320,2024-12-12T00:39:50.888Z,"22 km ESE of Anza, CA",earthquake,0.18,0.36,0.194,27,reviewed,ci,ci
 2024-12-11T23:27:58.230Z,40.286167144775,-124.47283172607,19.229999542236,2,md,16,270,0.09965,0.08,nc,nc75102011,2024-12-12T01:07:15.663Z,"17 km W of Petrolia, CA",earthquake,1.89,0.639999986,0.11,12,automatic,nc,nc
-2024-12-11T23:17:15.040Z,19.329999923706,-155.1815032959,3.210000038147,1.78999996,md,37,90,0.05052,0.230000004,hv,hv74562902,2024-12-11T23:19:51.180Z,"13 km SSE of Volcano, Hawaii",earthquake,0.47,1.11000001,0.360000014,21,automatic,hv,hv
