@@ -87,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-13T04:35:41.674Z,31.681,-104.421,5.6228,1.6,ml,16,61,0,0.3,tx,tx2024ykir,2024-12-13T04:41:56.353Z,"55 km S of Whites City, New Mexico",earthquake,0,2.524505853653,0.1,12,automatic,tx,tx
 2024-12-13T04:24:50.395Z,63.2352,-150.4154,110,2,ml,,,,0.49,ak,ak024fzljrcf,2024-12-13T04:27:22.489Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-12-13T04:23:51.200Z,38.791831970215,-122.77666473389,1.6599999666214,1.34,md,21,79,0.008896,0.03,nc,nc75102566,2024-12-13T05:17:17.289Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.400000006,0.14,23,automatic,nc,nc
-2024-12-13T04:22:50.682Z,36.46847153,-98.80703735,1.65982008,2.32,ml,37,73.0729332,0.01924620196,0.745482779,ok,ok2024ykif,2024-12-13T04:27:04.735Z,"14 km SSE of Waynoka, Oklahoma",earthquake,2.028014331,1.399495566,0.28,21,automatic,ok,ok
+2024-12-13T04:22:50.070Z,36.4595,-98.80783333,6.37,2.07,ml,92,70,0.01079788109,0.2,ok,ok2024ykif,2024-12-13T13:13:13.901Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.3,0.25,37,reviewed,ok,ok
 2024-12-13T03:21:25.220Z,38.830001831055,-122.81666564941,1.6699999570847,1.51,md,12,78,0.008369,0.02,nc,nc75102551,2024-12-13T04:27:17.950Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.680000007,0.27,12,automatic,nc,nc
 2024-12-13T03:18:11.550Z,38.823001861572,-122.8450012207,2.0699999332428,1.1,md,13,104,0.00779,0.01,nc,nc75102546,2024-12-13T04:07:17.807Z,"9 km NW of The Geysers, CA",earthquake,0.29,0.600000024,0.17,15,automatic,nc,nc
 2024-12-13T03:18:00.495Z,-14.6933,167.3345,158.3,4.6,mb,52,119,0.76,0.71,us,us7000nyc5,2024-12-13T03:46:33.854Z,"47 km NE of Port-Olry, Vanuatu",earthquake,12.6,6.231,0.076,52,reviewed,us,us
@@ -221,7 +221,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T15:05:42.490Z,33.6346667,-116.7318333,17.31,1.13,ml,52,27,0.05924,0.16,ci,ci41000600,2024-12-12T17:46:17.470Z,"10 km NNW of Anza, CA",earthquake,0.16,0.29,0.182,26,reviewed,ci,ci
 2024-12-12T14:59:40.890Z,19.139499664307,-155.36199951172,30.200000762939,1.84000003,md,39,224,0.09596,0.109999999,hv,hv74563357,2024-12-12T15:01:51.900Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.76,0.939999998,0.150000006,14,automatic,hv,hv
 2024-12-12T14:54:54.110Z,33.6336667,-116.73,16.83,0.87,ml,41,31,0.05859,0.16,ci,ci41000592,2024-12-12T15:16:53.570Z,"10 km NNW of Anza, CA",earthquake,0.19,0.35,0.185,28,reviewed,ci,ci
-2024-12-12T14:50:15.830Z,40.375166666667,-124.9925,10,3.83,mw,158,239,0.5043,0.27,nc,nc75102341,2024-12-13T12:52:16.482Z,"60 km WNW of Petrolia, CA",earthquake,0.72,31.61,,5,reviewed,nc,nc
+2024-12-12T14:50:15.830Z,40.375166666667,-124.9925,10,3.83,mw,158,239,0.5043,0.27,nc,nc75102341,2024-12-13T13:12:16.619Z,"60 km WNW of Petrolia, CA",earthquake,0.72,31.61,,5,reviewed,nc,nc
 2024-12-12T14:45:42.158Z,-24.0349,-66.7392,222.804,4.3,mb,18,107,1.706,0.64,us,us7000ny5g,2024-12-12T16:03:34.040Z,"47 km WNW of San Antonio de los Cobres, Argentina",earthquake,11.12,16.797,0.266,4,reviewed,us,us
 2024-12-12T14:41:18.299Z,60.2439,-151.9423,81.1,1.9,ml,,,,0.42,ak,ak024fy42blh,2024-12-12T14:42:54.902Z,"26 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-12T14:40:53.451Z,60.1309,-150.869,114.9,2,ml,,,,1,ak,ak024fy426rs,2024-12-12T14:42:48.336Z,"30 km N of Fox River, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -243,9 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T13:36:17.165Z,57.254,-154.0241,45,2.5,ml,,,,0.36,ak,ak024fy3ftba,2024-12-12T14:03:25.040Z,"31 km S of Larsen Bay, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2024-12-12T13:34:45.070Z,19.333166122436,-155.17599487305,1.75,1.75999999,md,40,86,0.04647,0.25999999,hv,hv74563342,2024-12-12T13:36:37.500Z,"13 km SSE of Volcano, Hawaii",earthquake,0.38,0.550000012,0.300000012,19,automatic,hv,hv
 2024-12-12T13:24:48.467Z,61.6047,-150.8717,47.6,2.4,ml,,,,0.97,ak,ak024fy3db5a,2024-12-12T13:30:55.761Z,"20 km WNW of Susitna, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2024-12-12T13:18:46.140Z,19.155666666667,-64.3625,43.85,3.38,md,8,308,0.7713,0.23,pr,pr71468413,2024-12-12T13:55:07.040Z,"101 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,6.48,15.64,0.059329793720245,4,reviewed,pr,pr
-2024-12-12T13:18:36.920Z,45.457166666667,-122.77283333333,21.83,1.44,ml,26,103,0.0677,0.14,uw,uw62059112,2024-12-12T18:23:21.110Z,"1 km SW of Garden Home-Whitford, Oregon",earthquake,0.26,0.35,0.11751493216903,14,reviewed,uw,uw
-2024-12-12T13:16:44.410Z,33.2883333,-116.2446667,5.32,2.06,ml,98,23,0.09169,0.19,ci,ci41000520,2024-12-12T17:47:24.530Z,"13 km ENE of Borrego Springs, CA",earthquake,0.12,0.4,0.159,93,reviewed,ci,ci
-2024-12-12T13:13:26.580Z,34.3126667,-118.735,9.03,1.26,ml,32,65,0.04233,0.25,ci,ci41000512,2024-12-12T17:09:10.390Z,"5 km N of Simi Valley, CA",earthquake,0.34,0.8,0.118,16,reviewed,ci,ci
-2024-12-12T13:06:23.437Z,52.1538,-170.4259,13.7,3.8,ml,,,,0.73,ak,ak024fy39e6l,2024-12-12T19:23:34.728Z,"137 km SW of Nikolski, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2024-12-12T13:05:59.120Z,47.962333333333,-114.14766666667,7.48,0.6,ml,6,150,0.1349,0.06,mb,mb90068308,2024-12-12T16:03:45.790Z,"7 km NNE of Rollins, Montana",earthquake,0.4,1.84,0.33950326285044,5,reviewed,mb,mb
