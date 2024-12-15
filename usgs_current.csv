@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-15T10:01:05.550Z,33.7766685,-116.7941666,10.85,0.98,ml,22,203,0.07225,0.12,ci,ci41002240,2024-12-15T10:03:15.876Z,"8 km WNW of Idyllwild, CA",earthquake,0.59,0.65,0.159,9,automatic,ci,ci
+2024-12-15T09:58:46.220Z,33.0121667,-116.45,11.28,1.15,ml,62,29,0.0521,0.16,ci,ci41002232,2024-12-15T10:02:42.781Z,"16 km ESE of Julian, CA",earthquake,0.14,0.36,0.176,28,automatic,ci,ci
 2024-12-15T09:45:45.470Z,33.36,-116.9743333,5.77,1.1,ml,59,21,0.05616,0.19,ci,ci41002224,2024-12-15T09:51:36.948Z,"10 km E of Pala, CA",earthquake,0.14,0.56,0.112,22,automatic,ci,ci
 2024-12-15T09:45:08.150Z,33.3548333,-116.9771667,4.28,1.98,ml,94,32,0.05706,0.24,ci,ci41002216,2024-12-15T09:49:47.803Z,"9 km E of Pala, CA",earthquake,0.15,0.54,0.159,26,automatic,ci,ci
 2024-12-15T09:29:16.100Z,32.0383333,-117.4295,11.57,2.1,ml,16,305,0.4062,0.24,ci,ci41002208,2024-12-15T09:32:39.521Z,"50 km SW of Rosarito, B.C., MX",earthquake,2.31,10.69,0.141,17,automatic,ci,ci
@@ -23,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-15T07:43:00.860Z,18.197,-67.440166666667,21.84,2.55,md,6,316,0.3375,0.38,pr,pr71468618,2024-12-15T07:56:20.300Z,"24 km SW of Stella, Puerto Rico",earthquake,2.4,11.42,0.084995514528614,5,reviewed,pr,pr
 2024-12-15T07:29:25.383Z,36.7531,-116.2353,4.9,0.4,ml,8,122.84,0.031,0.2404,nn,nn00889624,2024-12-15T07:31:17.198Z,"49 km ESE of Beatty, Nevada",earthquake,,1,0.55,3,automatic,nn,nn
 2024-12-15T07:24:05.100Z,34.4608333,-116.8578333,28.95,1.71,ml,10,306,0.1153,0.17,ci,ci41002184,2024-12-15T07:29:22.080Z,"10 km E of Lucerne Valley, CA",earthquake,2.42,0.68,0.167,34,automatic,ci,ci
-2024-12-15T07:21:58.320Z,40.409000396729,-125.13549804688,0.43000000715256,5.24,mw,222,233,0.6127,0.31,nc,nc75103356,2024-12-15T09:52:56.722Z,"73 km WNW of Petrolia, CA",earthquake,0.79,3.24000001,,12,reviewed,nc,nc
+2024-12-15T07:21:58.320Z,40.409000396729,-125.13549804688,0.43000000715256,5.24,mw,222,233,0.6127,0.31,nc,nc75103356,2024-12-15T10:00:01.622Z,"73 km WNW of Petrolia, CA",earthquake,0.79,3.24000001,,12,reviewed,nc,nc
 2024-12-15T07:20:55.730Z,18.7748,-64.7113,17,3.61,md,15,268,0.3715,0.26,pr,pr2024350002,2024-12-15T09:27:53.040Z,"49 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.48,2.029,0.1,10,reviewed,pr,pr
 2024-12-15T07:17:24.223Z,59.7539,-150.6413,34.4,2.2,ml,,,,0.51,ak,ak024g2yd746,2024-12-15T07:19:12.995Z,"21 km ESE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-15T07:10:24.068Z,63.9645,-148.2241,84.4,1.6,ml,,,,0.42,ak,ak024g2ybp3a,2024-12-15T07:12:12.244Z,"38 km ENE of Healy, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -201,6 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-14T10:20:23.674Z,-38.7674,178.9705,10,5.2,mww,36,221,1.312,0.95,us,us7000nyuj,2024-12-14T21:52:31.160Z,"78 km E of Wainui, New Zealand",earthquake,7.68,1.972,0.058,29,reviewed,us,us
 2024-12-14T10:19:09.730Z,19.403499603271,-155.26583862305,0.30000001192093,2.1500001,md,16,71,0.005233,0.100000001,hv,hv74564752,2024-12-14T10:21:23.350Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.25999999,0.200000003,11,automatic,hv,hv
 2024-12-14T10:08:18.450Z,40.587501525879,-124.91416931152,7.4800000190735,3.16,ml,49,264,0.5042,0.2,nc,nc75103061,2024-12-14T11:42:15.062Z,"55 km WNW of Ferndale, CA",earthquake,2.17,1.91999996,0.226,9,automatic,nc,nc
-2024-12-14T09:59:20.060Z,38.145332336426,-121.78849792481,23.280000686646,1.82,md,9,219,0.2352,0.14,nc,nc75103056,2024-12-14T11:27:17.952Z,"9 km W of Rio Vista, CA",earthquake,2.63,0.699999988,0.46,4,automatic,nc,nc
-2024-12-14T09:59:16.647Z,39.1831,-119.0196,0,2,ml,13,141.59,0.015,0.2069,nn,nn00889554,2024-12-14T13:18:50.288Z,"25 km NNE of Yerington, Nevada",earthquake,,3,0.37,6,reviewed,nn,nn
-2024-12-14T09:55:38.390Z,17.957,-64.93,68.42,3.22,md,9,239,0.3941,0.13,pr,pr71468548,2024-12-14T10:19:24.970Z,"31 km NW of Saint Croix, U.S. Virgin Islands",earthquake,4.58,3.14,0.044200126079101,8,reviewed,pr,pr
