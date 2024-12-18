@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-18T17:49:51.250Z,33.0013333,-116.3705,5.9,0.98,ml,35,46,0.04478,0.14,ci,ci40823631,2024-12-18T17:54:42.453Z,"23 km ESE of Julian, CA",earthquake,0.16,0.39,0.232,16,automatic,ci,ci
 2024-12-18T17:41:57.590Z,40.298000335693,-124.34866333008,14.340000152588,1.7,md,10,254,0.01062,0.05,nc,nc75104936,2024-12-18T17:43:35.770Z,"6 km WSW of Petrolia, CA",earthquake,1.63,1.13999999,0.15,8,automatic,nc,nc
-2024-12-18T17:41:46.400Z,34.0856667,-118.1696667,10.99,1.61,ml,32,69,0.04907,0.17,ci,ci40823623,2024-12-18T17:45:58.412Z,"4 km SSW of South Pasadena, CA",earthquake,0.23,0.37,0.249,33,automatic,ci,ci
 2024-12-18T17:40:51.951Z,62.5448,-151.1045,86.1,1.9,ml,,,,0.29,ak,ak024g832k97,2024-12-18T17:42:53.121Z,"18 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-18T17:37:36.690Z,40.301834106445,-124.50749969482,10.619999885559,2.84,md,23,268,0.1268,0.1,nc,nc75104931,2024-12-18T17:47:19.783Z,"19 km W of Petrolia, CA",earthquake,1.42,0.519999981,0.11,26,automatic,nc,nc
-2024-12-18T17:10:14.962Z,39.1635,-119.0507,5.8,2.1,ml,11,82.59,0.011,0.108,nn,nn00889936,2024-12-18T17:44:42.870Z,"21 km NNE of Yerington, Nevada",earthquake,,1,0.18,6,reviewed,nn,nn
+2024-12-18T17:10:14.962Z,39.1638,-119.0514,5.7,2.1,ml,20,83.54,0.011,0.1179,nn,nn00889936,2024-12-18T17:54:17.446Z,"21 km NNE of Yerington, Nevada",earthquake,,0.7,0.26,12,reviewed,nn,nn
 2024-12-18T16:56:30.957Z,39.1684,-119.0497,6.1,2.5,ml,23,85.85,0.009,0.1526,nn,nn00889933,2024-12-18T17:35:27.096Z,"22 km NNE of Yerington, Nevada",earthquake,,0.7,0.21,11,reviewed,nn,nn
 2024-12-18T16:49:11.610Z,19.339500427246,-155.33866882324,26.909999847412,2.27999997,md,54,64,0.03164,0.119999997,hv,hv74570172,2024-12-18T16:50:48.230Z,"15 km SW of Volcano, Hawaii",earthquake,0.3,0.370000005,0.200000003,20,automatic,hv,hv
 2024-12-18T16:46:07.864Z,60.655,-151.2851,52.4,1.7,ml,,,,0.63,ak,ak024g82ibjm,2024-12-18T16:48:50.631Z,"3 km S of Nikiski, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T08:03:38.380Z,33.6466667,-116.7161667,15.86,0.86,ml,39,56,0.06435,0.17,ci,ci41004264,2024-12-18T14:18:21.334Z,"10 km S of Idyllwild, CA",earthquake,0.21,0.38,0.263,23,reviewed,ci,ci
 2024-12-18T08:00:27.606Z,61.2598,-146.7332,27.4,1.9,ml,,,,0.31,ak,ak024g7xh1ag,2024-12-18T08:01:44.445Z,"25 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-18T08:00:10.328Z,62.892,-150.5718,84.4,1.8,ml,,,,0.33,ak,ak024g7xgzy5,2024-12-18T08:02:44.875Z,"45 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-18T07:58:48.184Z,38.1819,-117.7934,12.2,2.4,ml,11,66.44,0.125,0.1758,nn,nn00889890,2024-12-18T17:17:00.311Z,"36 km SE of Mina, Nevada",earthquake,,1.1,0.33,5,reviewed,nn,nn
+2024-12-18T07:58:48.203Z,38.1841,-117.798,13.3,2.3,ml,12,66.52,0.129,0.1792,nn,nn00889890,2024-12-18T17:54:11.724Z,"35 km SE of Mina, Nevada",earthquake,,1,0.33,6,reviewed,nn,nn
 2024-12-18T07:58:17.032Z,-28.1292,-71.0108,57.687,4.3,mb,33,99,0.093,1.24,us,us7000nzqr,2024-12-18T10:11:23.040Z,"55 km NNW of Vallenar, Chile",earthquake,6.75,8.724,0.218,6,reviewed,us,us
 2024-12-18T07:56:48.917Z,60.8472,-148.9069,22.7,2.2,ml,,,,0.45,ak,ak024g7x7nff,2024-12-18T07:58:29.593Z,"14 km NW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-18T07:53:48.290Z,38.811832427979,-122.74349975586,35.349998474121,1.3,md,5,135,0.02779,0.03,nc,nc75104736,2024-12-18T08:32:15.858Z,"2 km WSW of Cobb, CA",earthquake,4.22,8.61999989,0.27,2,automatic,nc,nc
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T18:03:52.680Z,60.522,-152.7645,1.41,-0.63,ml,5,160,0.04824,0.1,av,av93413776,2024-12-18T07:12:29.210Z,"79 km W of Salamatof, Alaska",earthquake,0.5,0.3,0.1257745240865,4,reviewed,av,av
 2024-12-17T17:59:34.890Z,19.167667388916,-155.49032592773,33.290000915527,2.1099999,md,48,108,0.02932,0.140000001,hv,hv74569172,2024-12-17T18:01:18.600Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.730000019,0.349999994,12,automatic,hv,hv
 2024-12-17T17:57:33.470Z,38.772666931152,-122.7423324585,1.5800000429153,0.75,md,9,73,0.01143,0.02,nc,nc75104526,2024-12-17T17:59:08.197Z,"1 km SE of The Geysers, CA",earthquake,0.61,1.08000004,0.17,10,automatic,nc,nc
-2024-12-17T17:52:10.425Z,-48.1497,104.5316,10,5.1,mb,63,53,17.974,0.57,us,us7000nzlh,2024-12-17T18:11:26.040Z,"southeast Indian Ridge",earthquake,11.62,1.867,0.076,60,reviewed,us,us
