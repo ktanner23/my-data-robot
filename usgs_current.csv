@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-18T08:03:38.420Z,33.6430016,-116.7136688,15.36,1.16,ml,26,87,0.06799,0.14,ci,ci41004264,2024-12-18T08:05:40.881Z,"10 km NNW of Anza, CA",earthquake,0.33,0.63,0.205,9,automatic,ci,ci
+2024-12-18T08:00:27.606Z,61.2598,-146.7332,27.4,1.9,ml,,,,0.31,ak,ak024g7xh1ag,2024-12-18T08:01:44.445Z,"25 km NW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-18T08:00:10.328Z,62.892,-150.5718,84.4,1.8,ml,,,,0.33,ak,ak024g7xgzy5,2024-12-18T08:02:44.875Z,"45 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2024-12-18T07:56:48.917Z,60.8472,-148.9069,22.7,2.2,ml,,,,0.45,ak,ak024g7x7nff,2024-12-18T07:58:29.593Z,"14 km NW of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2024-12-18T07:53:48.290Z,38.811832427979,-122.74349975586,35.349998474121,1.3,md,5,135,0.02779,0.03,nc,nc75104736,2024-12-18T07:55:24.791Z,"2 km WSW of Cobb, CA",earthquake,4.22,8.61999989,0.27,2,automatic,nc,nc
+2024-12-18T07:52:07.210Z,32.8581667,-116.1756667,11.25,0.89,ml,31,54,0.1761,0.19,ci,ci41004256,2024-12-18T07:55:58.983Z,"22 km NW of Ocotillo, CA",earthquake,0.25,0.68,0.149,13,automatic,ci,ci
 2024-12-18T07:37:58.902Z,39.1734,-119.0257,4.7,1.4,ml,14,115.95,0.011,0.2554,nn,nn00889887,2024-12-18T07:40:11.068Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.19,5,automatic,nn,nn
 2024-12-18T07:33:38.686Z,65.1974,-148.8035,7.1,1.7,ml,,,,0.76,ak,ak024g7x2p5m,2024-12-18T07:37:01.885Z,"26 km ENE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-18T07:19:26.821Z,58.2169,-155.365,111.3,2.9,ml,,,,0.84,ak,ak024g7wzp1h,2024-12-18T07:32:27.410Z,"90 km NW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -90,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T20:42:21.040Z,33.4165,-116.6505,4.44,0.9,ml,47,27,0.04302,0.18,ci,ci41003832,2024-12-17T21:08:17.130Z,"15 km N of Warner Springs, CA",earthquake,0.16,0.34,0.147,26,reviewed,ci,ci
 2024-12-17T20:33:27.419Z,63.5081,-148.0509,10.7,1.8,ml,,,,0.68,ak,ak024g6h9yew,2024-12-17T20:35:51.603Z,"46 km ENE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-17T20:32:35.514Z,39.532,-119.6449,0,2,ml,12,135.29,0.122,0.3639,nn,nn00889864,2024-12-18T01:27:38.041Z,"9 km E of Sparks, Nevada",explosion,,10.2,0.24,9,automatic,nn,nn
+2024-12-17T20:29:28.210Z,61.038833333333,-152.36533333333,12.59,0.3,ml,7,293,0.1578,0.09,av,av93413946,2024-12-18T08:00:50.860Z,"66 km W of Tyonek, Alaska",earthquake,0.92,1.74,0.14520709919615,7,reviewed,av,av
 2024-12-17T20:24:55.540Z,39.693166666667,-110.80916666667,-1.23,1.63,md,8,192,0.06343,0.27,uu,uu80097971,2024-12-17T21:33:50.580Z,"0 km NNW of Kenilworth, Utah",earthquake,1.53,1.02,0.34239949130453,7,reviewed,uu,uu
 2024-12-17T20:15:11.640Z,47.111166666667,-123.10033333333,-0.23,1.57,ml,12,99,0.06558,0.27,uw,uw62059732,2024-12-18T05:53:02.370Z,"11 km S of Shelton, Washington",explosion,0.54,31.61,0.17823934320423,8,reviewed,uw,uw
 2024-12-17T20:13:19.410Z,19.301332473755,-155.42700195312,29.209999084473,1.75,md,38,64,0.05042,0.109999999,hv,hv74569327,2024-12-17T20:14:47.430Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.47,0.610000014,0.219999999,7,automatic,hv,hv
@@ -264,7 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-17T08:27:47.440Z,40.343166351318,-123.73999786377,29.39999961853,1.8,md,11,118,0.1219,0.1,nc,nc75104461,2024-12-17T08:47:19.982Z,"26 km NNE of Redway, CA",earthquake,0.79,1.46000004,0.09,4,automatic,nc,nc
 2024-12-17T08:23:22.540Z,19.274166666667,-65.097166666667,85.84,3.43,md,12,270,0.9265,0.22,pr,pr71468793,2024-12-17T08:37:27.500Z,"104 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.93,5.35,0.069676792835213,5,reviewed,pr,pr
 2024-12-17T08:15:05.663Z,56.747,-153.4943,5.3,2,ml,,,,1.09,ak,ak024g6a12m5,2024-12-17T08:21:52.100Z,"46 km ESE of Akhiok, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-17T08:03:20.690Z,38.84700012207,-122.03416442871,0.14000000059605,2.34,md,18,105,0.1172,0.36,nc,nc75104456,2024-12-17T10:52:15.801Z,"7 km WSW of Dunnigan, CA",earthquake,0.74,8.06999969,0.11,18,automatic,nc,nc
-2024-12-17T07:59:29.000Z,38.85283279419,-122.02532958984,0.14000000059605,2.41,md,18,106,0.1169,0.34,nc,nc75104446,2024-12-17T10:37:14.792Z,"6 km WSW of Dunnigan, CA",earthquake,0.88,7.38999987,0.12,17,automatic,nc,nc
-2024-12-17T07:59:20.110Z,61.303833333333,-152.27016666667,1.29,-0.6,ml,9,140,0.06666,0.12,av,av93412711,2024-12-18T04:14:43.080Z,"66 km WNW of Beluga, Alaska",earthquake,0.36,1.51,0.17823794978259,9,reviewed,av,av
-2024-12-17T07:59:18.780Z,19.401832580566,-155.25582885742,2.1400001049042,1.86000001,md,26,53,0.01027,0.180000007,hv,hv74568567,2024-12-17T08:02:10.050Z,"5 km SSW of Volcano, Hawaii",earthquake,0.22,0.219999999,0.360000014,21,automatic,hv,hv
