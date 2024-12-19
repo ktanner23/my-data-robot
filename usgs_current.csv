@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-19T15:44:44.650Z,37.907501220703,-121.97966766357,12.35000038147,1.92,md,23,98,0.05756,0.07,nc,nc75105351,2024-12-19T15:46:20.875Z,"5 km WSW of Clayton, CA",earthquake,0.31,0.579999983,0.15,20,automatic,nc,nc
 2024-12-19T15:36:54.809Z,61.5694,-149.9848,33.2,1.7,ml,,,,0.43,ak,ak024g9pe6w8,2024-12-19T15:38:07.957Z,"5 km NNW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-12-19T15:34:23.960Z,38.832500457764,-122.79916381836,1.6100000143051,1.02,md,11,63,0.00907,0.01,nc,nc75105341,2024-12-19T15:35:59.938Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.49000001,0.22,13,automatic,nc,nc
+2024-12-19T15:34:23.960Z,38.832500457764,-122.79916381836,1.6100000143051,1.02,md,11,63,0.00907,0.01,nc,nc75105341,2024-12-19T15:52:15.237Z,"7 km WNW of Cobb, CA",earthquake,0.3,0.49000001,0.22,13,automatic,nc,nc
 2024-12-19T15:22:46.130Z,34.2945,-116.867,4.48,1.07,ml,38,41,0.05489,0.14,ci,ci40824807,2024-12-19T15:35:36.770Z,"4 km NNW of Big Bear City, CA",earthquake,0.14,0.4,0.272,25,reviewed,ci,ci
 2024-12-19T15:19:59.270Z,38.516666666667,-112.892,2.14,2,ml,28,45,0.009473,0.16,uu,uu80098111,2024-12-19T15:31:41.140Z,"16 km NE of Milford, Utah",earthquake,0.3,0.57,0.14541610043572,7,reviewed,uu,uu
 2024-12-19T15:16:08.526Z,39.1735,-119.0637,6.1,1.8,ml,16,104.83,0.02,0.109,nn,nn00890025,2024-12-19T15:18:41.104Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.2,9,automatic,nn,nn
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T05:40:47.855Z,60.2772,-152.4066,91.8,2.1,ml,,,,0.27,ak,ak024g9jgp69,2024-12-19T05:43:39.889Z,"48 km WNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-19T05:36:11.565Z,39.0884,-119.0427,7.4,1.1,ml,10,135.27,0.081,0.2322,nn,nn00889981,2024-12-19T05:38:26.140Z,"15 km NE of Yerington, Nevada",earthquake,,1,0.17,4,automatic,nn,nn
 2024-12-19T05:33:51.458Z,39.1115,-119.0358,10.1,1,ml,10,97.11,0.057,0.196,nn,nn00889979,2024-12-19T05:36:06.218Z,"17 km NE of Yerington, Nevada",earthquake,,0.5,0,1,automatic,nn,nn
-2024-12-19T05:31:39.819Z,39.115,-119.0088,7.3,3,ml,38,56.23,0.059,0.1541,nn,nn00889974,2024-12-19T06:35:53.861Z,"19 km NE of Yerington, Nevada",earthquake,,0.8,0.18,11,reviewed,nn,nn
+2024-12-19T05:31:39.819Z,39.115,-119.0088,7.3,3,ml,38,56.23,0.059,0.1541,nn,nn00889974,2024-12-19T15:57:29.326Z,"19 km NE of Yerington, Nevada",earthquake,,0.8,0.18,11,reviewed,nn,nn
 2024-12-19T05:30:57.070Z,19.150499343872,-155.48283386231,31.670000076294,2.38000011,md,26,216,0.1183,0.109999999,hv,hv74570642,2024-12-19T05:32:32.810Z,"5 km S of Pāhala, Hawaii",earthquake,0.86,1.37,0.170000002,4,automatic,hv,hv
 2024-12-19T04:56:16.760Z,34.2916667,-116.843,6.43,0.72,ml,27,58,0.05767,0.16,ci,ci40824295,2024-12-19T15:36:38.587Z,"3 km N of Big Bear City, CA",earthquake,0.2,0.57,0.118,11,reviewed,ci,ci
 2024-12-19T04:56:00.950Z,38.787498474121,-122.76667022705,2.5599999427795,0.95,md,18,77,0.01419,0.02,nc,nc75105206,2024-12-19T05:17:17.825Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.600000024,0.17,18,automatic,nc,nc
@@ -129,6 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T01:16:31.470Z,19.0615,-66.673333333333,20.61,3.2,md,14,283,0.7151,0.25,pr,pr71468893,2024-12-19T11:17:37.550Z,"65 km N of Carrizales, Puerto Rico",earthquake,1.27,20.79,0.074301544913163,6,reviewed,pr,pr
 2024-12-19T01:12:05.410Z,36.41166667,-96.92533333,6.48,1.68,ml,99,32,0,0.25,ok,ok2024yvay,2024-12-19T03:07:16.809Z,"13 km NW of Pawnee, Oklahoma",earthquake,,0.3,0.23,45,reviewed,ok,ok
 2024-12-19T01:09:51.254Z,17.6609,119.6047,10,5.1,mb,88,109,5.314,0.8,us,us7000nzxl,2024-12-19T02:52:33.881Z,"80 km W of Puro Pinget, Philippines",earthquake,10.09,1.875,0.056,105,reviewed,us,us
+2024-12-19T01:08:48.690Z,44.803333333333,-111.51916666667,12.79,-0.03,ml,4,141,0.0691,0.05,mb,mb90069118,2024-12-19T15:57:27.880Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.51,1.31,0.23449906869698,3,reviewed,mb,mb
 2024-12-19T00:37:26.190Z,38.787498474121,-122.70683288574,4.4499998092651,1.06,md,9,197,0.06362,0.39,nc,nc75105096,2024-12-19T00:39:02.864Z,"2 km NNW of Anderson Springs, CA",earthquake,3.02,12.9099998,0.11,3,automatic,nc,nc
 2024-12-19T00:33:05.340Z,33.653,-116.765,13.5,0.5,ml,17,110,0.07185,0.09,ci,ci40824239,2024-12-19T01:10:23.215Z,"11 km SSW of Idyllwild, CA",earthquake,0.23,0.43,0.2,11,reviewed,ci,ci
 2024-12-19T00:31:30.140Z,35.0428333,-117.6635,-0.28,1.73,ml,47,41,0.1115,0.16,ci,ci40824231,2024-12-19T00:35:17.793Z,"5 km NNW of Boron, CA",earthquake,0.22,0.58,0.141,28,automatic,ci,ci
@@ -243,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T16:05:04.130Z,57.057166666667,-135.70666666667,4.82,-0.04,ml,4,174,0.01344,0.06,av,av93415961,2024-12-18T19:52:50.290Z,"22 km W of Sitka, Alaska",earthquake,0.59,0.62,0.24699617985624,4,reviewed,av,av
 2024-12-18T16:04:23.230Z,57.049666666667,-135.70183333333,5.17,0.15,ml,4,214,0.007097,0.22,av,av93028714,2024-12-18T19:49:14.980Z,"22 km W of Sitka, Alaska",earthquake,1.44,1.23,0.39249258170746,4,reviewed,av,av
 2024-12-18T16:04:17.750Z,57.052166666667,-135.71,2.83,-0.14,ml,4,163,0.008371,0.22,av,av93028704,2024-12-18T19:43:51.460Z,"23 km W of Sitka, Alaska",earthquake,0.9,1.25,0.36753588266645,4,reviewed,av,av
-2024-12-18T16:00:25.830Z,34.0408333,-116.9198333,17.52,1.95,ml,82,29,0.05424,0.16,ci,ci41004392,2024-12-18T17:13:29.690Z,"11 km E of Yucaipa, CA",earthquake,0.12,0.28,0.136,97,reviewed,ci,ci
-2024-12-18T15:52:16.940Z,61.065,-152.30733333333,15.87,-0.16,ml,7,282,0.132,0.06,av,av93415926,2024-12-19T02:03:05.180Z,"63 km W of Tyonek, Alaska",earthquake,0.87,0.98,0.29186842346041,8,reviewed,av,av
