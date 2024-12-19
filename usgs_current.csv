@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-19T19:37:23.200Z,19.172332763672,-155.49099731445,32.689998626709,2.85,ml,58,93,0.03207,0.189999998,hv,hv74570997,2024-12-19T19:41:48.779Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.43,0.620000005,0.35,39,automatic,hv,hv
+2024-12-19T19:36:45.540Z,19.180166244507,-155.49183654785,32.680000305176,2.86,ml,56,89,0.03736,0.150000006,hv,hv74570992,2024-12-19T19:39:36.950Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.46,0.589999974,0.28,42,automatic,hv,hv
 2024-12-19T19:24:38.942Z,61.7174,-151.1091,63.6,1.8,ml,,,,0.43,ak,ak024g9rpbhy,2024-12-19T19:26:47.493Z,"33 km SSE of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2024-12-19T19:22:19.121Z,11.9353,126.6311,10,5.1,mww,111,83,4.945,0.66,us,us7000p04x,2024-12-19T19:42:06.040Z,"125 km E of Dapdap, Philippines",earthquake,9.14,1.841,0.073,18,reviewed,us,us
 2024-12-19T18:55:52.750Z,46.954333333333,-121.935,11,1.12,ml,28,101,0.03526,0.09,uw,uw62060042,2024-12-19T19:17:55.890Z,"16 km SSE of Carbonado, Washington",earthquake,0.28,0.42,0.12267444850657,18,reviewed,uw,uw
 2024-12-19T18:53:58.936Z,61.6669,-149.9869,28.1,1.8,ml,,,,0.21,ak,ak024g9ra579,2024-12-19T18:56:07.485Z,"9 km SSE of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-19T18:50:26.851Z,61.6495,-149.9025,30.5,1.9,ml,,,,0.9,ak,ak024g9r9fkt,2024-12-19T18:52:30.141Z,"4 km WNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -40,6 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-19T14:08:40.440Z,38.77783203125,-122.73349761963,-0.83999997377396,0.67,md,8,133,0.005957,0.21,nc,nc75105331,2024-12-19T14:27:15.656Z,"2 km E of The Geysers, CA",earthquake,0.69,3.02999997,0.29,7,automatic,nc,nc
 2024-12-19T13:54:18.141Z,66.2648,-157.0792,1.1,1.8,ml,,,,0.67,ak,ak024g9ob3qu,2024-12-19T14:01:02.826Z,"69 km S of Shungnak, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-19T13:46:52.070Z,36.414,-89.503833333333,6.16,1.63,md,17,55,0.03622,0.06,nm,nm60595386,2024-12-19T18:05:11.595Z,"4 km NW of Tiptonville, Tennessee",earthquake,0.18,0.44,0.12241423774284,11,reviewed,nm,nm
+2024-12-19T13:44:27.780Z,47.0375,-121.93666666667,10.03,0.49,ml,16,221,0.05214,0.07,uw,uw62060027,2024-12-19T19:37:02.610Z,"9 km ESE of Carbonado, Washington",earthquake,0.51,0.45,0.11820790105722,4,reviewed,uw,uw
 2024-12-19T13:40:00.201Z,60.0794,-152.524,80.2,1.9,ml,,,,0.89,ak,ak024g9o82c4,2024-12-19T13:42:14.850Z,"46 km WNW of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2024-12-19T13:32:15.610Z,38.806167602539,-122.77833557129,1.2400000095367,0.75,md,7,95,0.007315,0.01,nc,nc75105316,2024-12-19T13:47:19.386Z,"4 km NNW of The Geysers, CA",earthquake,0.5,0.899999976,0.14,8,automatic,nc,nc
 2024-12-19T13:15:43.391Z,39.1597,-119.0651,7.8,1.8,ml,17,92.66,0.022,0.1979,nn,nn00890016,2024-12-19T13:18:10.800Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.17,9,automatic,nn,nn
@@ -221,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-18T20:11:12.160Z,46.007666666667,-112.46083333333,-2,0.93,ml,6,118,0.06687,0.05,mb,mb90069048,2024-12-18T20:43:55.820Z,"5 km E of Butte, Montana",quarry blast,0.52,31.61,0.19104422386838,5,reviewed,mb,mb
 2024-12-18T20:09:40.280Z,19.271333333333,-155.20983333333,7.99,2.2,md,49,166,0.01711,0.12,hv,hv74570332,2024-12-18T20:35:05.520Z,"19 km S of Volcano, Hawaii",earthquake,0.3,0.6,0.16355634727471,16,reviewed,hv,hv
 2024-12-18T19:50:27.500Z,40.261001586914,-124.67900085449,23.14999961853,2,md,8,322,0.2588,0.07,nc,nc75104976,2024-12-18T20:57:15.099Z,"34 km W of Petrolia, CA",earthquake,7.85,3.72000003,0.1,7,automatic,nc,nc
-2024-12-18T19:41:02.800Z,36.587665557861,-121.41549682617,1.6699999570847,1.27,md,8,90,0.01441,0.04,nc,nc75104966,2024-12-18T20:27:16.900Z,"9 km NNE of Gonzales, CA",earthquake,0.27,0.330000013,0.15,8,automatic,nc,nc
-2024-12-18T19:38:04.720Z,19.596333333333,-155.282,11.04,1.69,md,25,89,0.1356,0.17,hv,hv74570312,2024-12-19T00:21:13.280Z,"17 km NNW of Volcano, Hawaii",earthquake,0.36,0.98,0.071138838948121,5,reviewed,hv,hv
