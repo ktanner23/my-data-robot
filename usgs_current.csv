@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T09:20:30.382Z,-20.1887,-173.3649,10,5,mb,29,154,3.424,0.72,us,us7000p0ks,2024-12-21T09:36:00.040Z,"111 km ESE of Fangale’ounga, Tonga",earthquake,12.7,1.935,0.108,27,reviewed,us,us
 2024-12-21T09:19:32.398Z,31.631,-104.468,4.3995,1.9,ml,7,158,0,0.3,tx,tx2024yzib,2024-12-21T09:41:44.028Z,"61 km S of Whites City, New Mexico",earthquake,0,2.3499336242676,0.1,7,automatic,tx,tx
 2024-12-21T09:19:06.333Z,31.658,-104.465,4.7417,1.8,ml,4,196,0,0,tx,tx2024yzid,2024-12-21T09:42:33.031Z,"58 km S of Whites City, New Mexico",earthquake,0,2.5483069419861,0.2,4,automatic,tx,tx
-2024-12-21T09:16:31.900Z,38.827499389648,-122.85516357422,2.3599998950958,1.1,md,22,69,0.001336,0.04,nc,nc75106211,2024-12-21T09:32:14.499Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.430000007,0.13,23,automatic,nc,nc
+2024-12-21T09:16:31.900Z,38.827499389648,-122.85516357422,2.3599998950958,1.1,md,22,69,0.001336,0.04,nc,nc75106211,2024-12-21T09:47:24.606Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.430000007,0.13,23,automatic,nc,nc
 2024-12-21T09:08:21.488Z,60.5031,-147.9222,20,1.9,ml,,,,0.37,ak,ak024gcwq7ms,2024-12-21T09:10:04.221Z,"48 km N of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-21T09:02:43.089Z,31.594,-104.54,3.1719,1.5,ml,10,159,0.1,0.2,tx,tx2024yzhn,2024-12-21T09:33:20.984Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.8520083427429,0.1,8,automatic,tx,tx
 2024-12-21T08:54:55.570Z,32.9888333,-116.3891667,3.86,0.88,ml,46,44,0.02478,0.17,ci,ci40826583,2024-12-21T08:58:46.841Z,"22 km ESE of Julian, CA",earthquake,0.18,0.42,0.147,19,automatic,ci,ci
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-21T01:39:28.903Z,31.634,-104.471,3.9707,1.4,ml,18,122,0,0.3,tx,tx2024yysx,2024-12-21T02:13:30.909Z,"60 km S of Whites City, New Mexico",earthquake,0,1.5107715129852,0.1,13,automatic,tx,tx
 2024-12-21T01:37:34.605Z,13.1718,-89.5799,39.211,4.1,mb,27,176,0.496,1.22,us,us7000p0iu,2024-12-21T01:52:12.040Z,"44 km SW of La Libertad, El Salvador",earthquake,5.38,13.071,0.174,9,reviewed,us,us
 2024-12-21T01:28:29.662Z,31.35,-103.728,6.49,1.8,ml,11,96,0.1,0.2,tx,tx2024yysn,2024-12-21T01:40:25.714Z,"7 km ENE of Toyah, Texas",earthquake,0,3.7709686756134,0.2,9,automatic,tx,tx
-2024-12-21T01:27:34.491Z,44.1907,-128.9507,10,4.2,mb,68,207,1.893,0.92,us,us7000p0ix,2024-12-21T07:37:41.133Z,"off the coast of Oregon",earthquake,7.57,1.992,0.141,14,reviewed,us,us
+2024-12-21T01:27:34.491Z,44.1907,-128.9507,10,4.2,mb,68,207,1.893,0.92,us,us7000p0ix,2024-12-21T09:47:22.763Z,"off the coast of Oregon",earthquake,7.57,1.992,0.141,14,reviewed,us,us
 2024-12-21T01:23:38.776Z,39.1359,-119.0996,4.6,1.4,ml,17,113.14,0.038,0.1413,nn,nn00890105,2024-12-21T02:26:35.956Z,"17 km NNE of Yerington, Nevada",earthquake,,1,0.14,8,reviewed,nn,nn
 2024-12-21T01:23:16.629Z,63.9087,-148.6163,111.6,2.2,ml,,,,0.58,ak,ak024gcs1y4y,2024-12-21T02:17:05.040Z,"18 km ENE of Healy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-21T01:19:29.755Z,43.3343,146.8141,67.266,4.4,mb,33,176,3.001,0.4,us,us7000p0it,2024-12-21T01:42:14.040Z,"52 km S of Shikotan, Russia",earthquake,11.11,7.229,0.112,23,reviewed,us,us
@@ -241,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T10:00:50.036Z,36.2703,-115.3946,4.5,0.9,ml,20,88.66,0.109,0.1524,nn,nn00890067,2024-12-20T22:57:18.020Z,"17 km NNW of Summerlin South, Nevada",earthquake,,3.7,0.33,3,reviewed,nn,nn
 2024-12-20T09:55:44.160Z,19.326665878296,-155.16349792481,3.5899999141693,1.89,ml,51,91,0.052,0.170000002,hv,hv74571527,2024-12-20T09:58:36.910Z,"14 km SSE of Volcano, Hawaii",earthquake,0.33,1.25999999,0.91,6,automatic,hv,hv
 2024-12-20T09:55:03.000Z,17.9185,-66.8995,11.88,2.09,md,9,229,0.05945,0.09,pr,pr71468953,2024-12-20T10:02:17.170Z,"5 km S of Guánica, Puerto Rico",earthquake,1.14,0.47,0.15347215415451,6,reviewed,pr,pr
-2024-12-20T09:50:46.180Z,19.915166666667,-155.59066666667,20.37,1.94,md,31,135,0.08554,0.11,hv,hv74571522,2024-12-21T01:51:06.190Z,"14 km SE of Waimea, Hawaii",earthquake,0.55,0.71,0.1527516716357,8,reviewed,hv,hv
