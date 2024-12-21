@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-21T04:59:34.240Z,34.071167,-117.2714996,15.35,1.91,ml,108,18,0.03542,0.19,ci,ci40826391,2024-12-21T05:01:39.205Z,"3 km NNW of Loma Linda, CA",earthquake,0.15,0.28,0.314,26,automatic,ci,ci
-2024-12-21T04:54:43.387Z,32.312,-102.149,2.9878,1,ml,17,62,0.1,0.4,tx,tx2024yyzi,2024-12-21T05:02:46.300Z,"35 km N of Midland, Texas",earthquake,0,1.2873389720917,0.2,10,automatic,tx,tx
+2024-12-21T04:59:34.170Z,34.0708333,-117.2726667,16.59,1.84,ml,104,18,0.03549,0.16,ci,ci40826391,2024-12-21T05:10:47.400Z,"3 km NNW of Loma Linda, CA",earthquake,0.11,0.25,0.134,26,automatic,ci,ci
+2024-12-21T04:54:43.387Z,32.312,-102.149,2.9878,1,ml,17,62,0.1,0.4,tx,tx2024yyzi,2024-12-21T05:04:40.316Z,"35 km N of Midland, Texas",earthquake,0,1.2873389720917,0.2,10,automatic,tx,tx
 2024-12-21T04:50:22.731Z,32.095,-101.481,3.9654,1.1,ml,16,79,0.1,0.1,tx,tx2024yyze,2024-12-21T05:02:25.295Z,"10 km W of Forsan, Texas",earthquake,0,1.5487061738968,0.2,11,automatic,tx,tx
 2024-12-21T04:48:04.485Z,37.3397,-117.1887,2.8,0.7,ml,10,127.73,0.07,0.4002,nn,nn00890122,2024-12-21T04:50:19.587Z,"41 km S of Goldfield, Nevada",earthquake,,2.4,0.66,6,automatic,nn,nn
 2024-12-21T04:29:01.320Z,64.5065,-146.9105,6.8,1.2,ml,,,,0.42,ak,ak024gctvi38,2024-12-21T04:30:39.074Z,"1 km SSW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-21T04:18:05.960Z,34.1176667,-117.4283333,16.47,1.8,ml,101,18,0.02002,0.16,ci,ci40826375,2024-12-21T04:28:36.150Z,"4 km NE of Fontana, CA",earthquake,0.11,0.21,0.177,27,automatic,ci,ci
 2024-12-21T04:16:41.870Z,38.793834686279,-122.77716827393,2,1.04,md,16,88,0.008426,0.02,nc,nc75106156,2024-12-21T04:37:16.412Z,"3 km NNW of The Geysers, CA",earthquake,0.29,0.569999993,0.24,16,automatic,nc,nc
-2024-12-21T03:54:38.330Z,40.394664764404,-124.94132995606,2.7400000095367,2.66,ml,14,282,0.4698,0.14,nc,nc75106146,2024-12-21T04:42:15.448Z,"56 km WNW of Petrolia, CA",earthquake,6.42,7.92000008,0.33,4,automatic,nc,nc
+2024-12-21T03:54:38.330Z,40.394664764404,-124.94132995606,2.7400000095367,2.66,ml,14,282,0.4698,0.14,nc,nc75106146,2024-12-21T05:11:18.040Z,"56 km WNW of Petrolia, CA",earthquake,6.42,7.92000008,0.33,4,automatic,nc,nc
 2024-12-21T03:52:25.031Z,59.9577,-152.95,113.4,2.2,ml,,,,0.42,ak,ak024gctf1s7,2024-12-21T03:55:29.803Z,"65 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-21T03:29:48.869Z,32.421,-102.149,4.2289,2.2,ml,66,58,0,0.4,tx,tx2024yywo,2024-12-21T03:44:55.804Z,"38 km ENE of McKinney Acres, Texas",earthquake,0,0.77715104818344,0.2,40,automatic,tx,tx
 2024-12-21T03:25:13.020Z,38.82149887085,-122.76633453369,2.0699999332428,1.11,md,16,113,0.009385,0.02,nc,nc75106136,2024-12-21T04:27:18.417Z,"4 km W of Cobb, CA",earthquake,0.29,0.540000021,0.09,16,automatic,nc,nc
@@ -301,11 +301,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-20T05:32:42.156Z,-33.6033,-67.9272,182.74,4.8,mb,88,62,1.854,1.03,us,us7000p08b,2024-12-21T00:06:16.746Z,"76 km SE of San Martín, Argentina",earthquake,8.94,7.114,0.035,255,reviewed,us,us
 2024-12-20T05:27:36.065Z,63.5173,-150.8123,1.5,1.9,ml,,,,0.5,ak,ak024gb6x8g6,2024-12-20T05:29:31.118Z,"45 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-20T05:25:00.300Z,39.1464,-119.0823,5.4,1.2,ml,12,95.87,0.041,0.1321,nn,nn00890054,2024-12-20T19:45:49.894Z,"19 km NNE of Yerington, Nevada",earthquake,,1.5,0.52,4,reviewed,nn,nn
-2024-12-20T05:13:53.170Z,36.7984,-115.9682,3.2,-0.2,ml,6,261.1,0.069,0.0663,nn,nn00890120,2024-12-21T04:47:53.272Z,"36 km NW of Indian Springs, Nevada",earthquake,,6.2,0.15,5,reviewed,nn,nn
-2024-12-20T05:11:52.900Z,58.281,-155.5495,5,0.58,ml,12,144,0.08722,0.18,av,av93419411,2024-12-20T21:23:50.890Z,"79 km SE of King Salmon, Alaska",earthquake,0.4,1.68,0.14045869069826,12,reviewed,av,av
-2024-12-20T05:09:46.780Z,44.832,-111.50266666667,7.08,-0.18,ml,6,131,0.05172,0.04,mb,mb90069263,2024-12-20T18:21:01.380Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.36,0.6,0.18145121999724,3,reviewed,mb,mb
-2024-12-20T05:09:32.088Z,32.086,-101.658,6.1768,1.4,ml,26,79,0,0.1,tx,tx2024yxeh,2024-12-20T14:59:53.023Z,"13 km ESE of Stanton, Texas",earthquake,0.6129848578277,0.71946948581389,0.2,23,reviewed,tx,tx
-2024-12-20T05:09:32.041Z,32.082,-101.655,6.1035,1.4,ml,22,81,0,0.1,tx,tx2024yxek,2024-12-20T15:20:50.158Z,"13 km ESE of Stanton, Texas",earthquake,0.64706682666563,0.64537589647917,0.2,20,reviewed,tx,tx
-2024-12-20T05:07:54.250Z,61.3,-152.294,1.55,-0.2,ml,8,169,0.05578,0.05,av,av93419406,2024-12-20T21:18:14.260Z,"67 km WNW of Tyonek, Alaska",earthquake,0.32,1.24,0.17296883631694,8,reviewed,av,av
-2024-12-20T05:04:16.310Z,33.8341667,-116.9401667,16.88,0.43,ml,15,103,0.1189,0.09,ci,ci40825431,2024-12-20T23:50:04.926Z,"6 km NNE of San Jacinto, CA",earthquake,0.21,0.56,0.052,5,reviewed,ci,ci
-2024-12-20T05:02:50.727Z,61.0517,-152.3193,17.8,1.2,ml,,,,0.31,ak,ak024gb6rwog,2024-12-20T21:02:55.110Z,"63 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
