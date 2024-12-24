@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-24T18:50:03.453Z,39.1241,-119.059,8.8,1.6,ml,10,122.8,0.047,0.2341,nn,nn00890512,2024-12-24T18:52:03.865Z,"17 km NNE of Yerington, Nevada",earthquake,,0.6,0.43,5,automatic,nn,nn
-2024-12-24T18:22:27.172Z,34.6754,32.046,10,4.5,mb,104,116,1.095,0.92,us,us6000pfh6,2024-12-24T18:53:59.963Z,"35 km WSW of Chlórakas, Cyprus",earthquake,7.22,1.868,0.065,69,reviewed,us,us
+2024-12-24T18:22:27.172Z,34.6754,32.046,10,4.5,mb,104,116,1.095,0.92,us,us6000pfh6,2024-12-24T19:10:02.267Z,"35 km WSW of Chlórakas, Cyprus",earthquake,7.22,1.868,0.065,69,reviewed,us,us
 2024-12-24T18:18:44.028Z,37.3614,-117.1371,2.8,1.4,ml,14,132.81,0.116,0.2664,nn,nn00890509,2024-12-24T18:21:04.096Z,"39 km SSE of Goldfield, Nevada",earthquake,,1.4,0.35,8,automatic,nn,nn
 2024-12-24T18:12:28.440Z,38.833667755127,-122.81733703613,1.7999999523163,0.77,md,18,69,0.01172,0.01,nc,nc75107456,2024-12-24T18:14:06.726Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.529999971,0.23,21,automatic,nc,nc
 2024-12-24T18:09:48.909Z,31.731,-104.087,5.0385,2.3,ml,19,61,0,0.2,tx,tx2024zfmb,2024-12-24T18:19:20.589Z,"46 km W of Mentone, Texas",earthquake,0,1.9980134963989,0.2,15,automatic,tx,tx
@@ -47,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T13:52:23.320Z,38.830833435059,-122.8476638794,3.1099998950958,1.09,md,8,164,0.007907,0.03,nc,nc75107366,2024-12-24T13:54:01.144Z,"10 km NW of The Geysers, CA",earthquake,0.51,1.38,0.04,10,automatic,nc,nc
 2024-12-24T13:39:46.910Z,19.146165847778,-155.50566101074,36.520000457764,2.02999997,md,55,139,0.04218,0.159999996,hv,hv74575657,2024-12-24T14:48:03.040Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.44,0.610000014,0.0299999993,3,automatic,hv,hv
 2024-12-24T13:37:21.142Z,31.566,-104.183,7.4841,1.6,ml,21,72,0.1,0.1,tx,tx2024zfdb,2024-12-24T14:17:26.154Z,"46 km NW of Toyah, Texas",earthquake,0.77030076596452,0.9052027791564,0.2,19,reviewed,tx,tx
+2024-12-24T13:26:45.933Z,31.569,-104.186,6.5356,1.3,ml,16,69,0.1,0.2,tx,tx2024zfcv,2024-12-24T19:14:08.897Z,"46 km NW of Toyah, Texas",earthquake,1.6678815730774,1.1644246891356,0.1,18,reviewed,tx,tx
 2024-12-24T13:18:23.830Z,32.979,-116.2818333,6.11,1.15,ml,43,52,0.1639,0.19,ci,ci40828007,2024-12-24T13:22:37.130Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.18,1.02,0.244,23,automatic,ci,ci
 2024-12-24T13:10:49.812Z,62.3564,-149.5162,43,1.8,ml,,,,0.64,ak,ak024ghxqh5h,2024-12-24T13:12:38.313Z,"27 km NE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-12-24T13:08:11.688Z,62.1413,-151.2246,1.2,2.2,ml,,,,0.59,ak,ak024ghxpys0,2024-12-24T13:10:23.988Z,"19 km NNE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -83,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T08:09:00.681Z,60.0436,-152.1526,65.5,1.7,ml,,,,0.29,ak,ak024ghuqzmc,2024-12-24T08:11:33.461Z,"25 km WNW of Happy Valley, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-12-24T07:59:53.730Z,38.837833404541,-122.78583526611,0.89999997615814,0.95,md,7,116,0.003568,0.01,nc,nc75107291,2024-12-24T08:01:32.059Z,"6 km WNW of Cobb, CA",earthquake,0.84,1.55999994,0.21,8,automatic,nc,nc
 2024-12-24T07:57:50.060Z,33.163,-116.0288333,7.87,1.06,ml,50,53,0.1169,0.22,ci,ci40827927,2024-12-24T08:08:40.030Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.21,0.75,0.134,26,automatic,ci,ci
-2024-12-24T07:40:23.930Z,37.342834472656,-118.53182983398,5.1500000953674,2.88,ml,56,74,0.2279,0.12,nc,nc75107286,2024-12-24T15:56:56.662Z,"7 km W of West Bishop, CA",earthquake,0.28,2.53999996,0.305,26,automatic,nc,nc
+2024-12-24T07:40:23.930Z,37.342834472656,-118.53182983398,5.1500000953674,2.88,ml,56,74,0.2279,0.12,nc,nc75107286,2024-12-24T19:13:35.666Z,"7 km W of West Bishop, CA",earthquake,0.28,2.53999996,0.305,26,automatic,nc,nc
 2024-12-24T07:36:13.150Z,18.1778,-68.4606,84,3.82,md,20,184,1.3164,0.34,pr,pr2024359000,2024-12-24T08:07:07.867Z,"27 km SE of Boca de Yuma, Dominican Republic",earthquake,1.82,2.02,0.04,13,reviewed,pr,pr
 2024-12-24T07:35:45.593Z,36.6984,-116.3012,6.2,0.5,ml,17,126.01,0.061,0.1097,nn,nn00890470,2024-12-24T07:37:40.228Z,"47 km ESE of Beatty, Nevada",earthquake,,1.1,0.32,9,automatic,nn,nn
 2024-12-24T07:33:03.189Z,63.1951,-150.2835,79.5,2.2,ml,,,,0.67,ak,ak024ghuapcw,2024-12-24T07:34:56.633Z,"70 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-23T19:22:40.770Z,45.958333333333,-111.3665,2.39,2.11,ml,29,63,0.2199,0.2,mb,mb90069468,2024-12-23T20:50:03.810Z,"8 km S of Ponderosa Pines, Montana",earthquake,0.28,1.23,0.18450994842366,29,reviewed,mb,mb
 2024-12-23T19:21:35.690Z,46.7105,-121.85616666667,-0.77,1,ml,25,223,0.01979,0.14,uw,uw62060347,2024-12-24T02:22:48.660Z,"14 km ESE of Ashford, Washington",earthquake,0.47,0.44,0.25436194935367,11,reviewed,uw,uw
 2024-12-23T19:20:53.214Z,63.1606,-150.6238,111.8,2.1,ml,,,,0.46,ak,ak024ggdtvpl,2024-12-23T19:23:02.995Z,"69 km SE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-12-23T19:15:13.630Z,46.7135,-121.85433333333,-0.97,0.7,ml,18,256,0.0169,0.17,uw,uw62060342,2024-12-24T02:29:43.500Z,"14 km ESE of Ashford, Washington",earthquake,0.52,0.55,0.19991272228212,7,reviewed,uw,uw
-2024-12-23T19:09:29.950Z,32.8995,-116.9565,5.37,1.29,ml,32,91,0.06125,0.22,ci,ci40827775,2024-12-23T19:14:03.603Z,"6 km NW of Lakeside, CA",earthquake,0.26,0.62,0.234,29,automatic,ci,ci
-2024-12-23T19:07:42.017Z,61.6955,-150.2761,20.3,2.8,ml,,,,0.65,ak,ak024ggdr2ku,2024-12-23T19:36:22.040Z,"13 km WSW of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
