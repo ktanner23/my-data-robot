@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-25T17:41:18.530Z,35.8221667,-117.6708333,6.39,0.93,ml,26,57,0.07763,0.19,ci,ci40828247,2024-12-25T17:44:49.092Z,"22 km N of Ridgecrest, CA",earthquake,0.23,0.61,0.146,15,automatic,ci,ci
-2024-12-25T17:28:01.170Z,37.525501251221,-118.83416748047,4.6700000762939,2.21,md,23,106,0.06454,0.05,nc,nc75107841,2024-12-25T17:37:17.023Z,"14 km W of Toms Place, CA",earthquake,0.25,0.74000001,0.1,25,automatic,nc,nc
+2024-12-25T17:28:01.170Z,37.525501251221,-118.83416748047,4.6700000762939,2.21,md,23,106,0.06454,0.05,nc,nc75107841,2024-12-25T17:52:18.125Z,"14 km W of Toms Place, CA",earthquake,0.25,0.74000001,0.1,25,automatic,nc,nc
 2024-12-25T17:22:35.979Z,62.2732,-152.402,125.2,2.1,ml,,,,0.51,ak,ak024gjnq3j2,2024-12-25T17:24:37.372Z,"61 km WNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-25T16:52:26.717Z,62.6265,-150.4196,61.9,2.4,ml,,,,0.59,ak,ak024gjnb2qm,2024-12-25T16:54:06.946Z,"22 km NE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-25T16:43:53.190Z,40.316833496094,-124.59400177002,18.040000915527,2.68,md,17,284,0.1944,0.06,nc,nc75107836,2024-12-25T17:07:14.813Z,"26 km W of Petrolia, CA",earthquake,1.97,0.639999986,0.19,19,automatic,nc,nc
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T08:03:44.340Z,34.0178333,-117.5861667,5.18,0.7,ml,25,63,0.02429,0.11,ci,ci40828143,2024-12-25T08:07:40.902Z,"6 km SE of Ontario, CA",earthquake,0.15,0.27,0.19,21,automatic,ci,ci
 2024-12-25T07:57:43.635Z,36.4578,70.4016,210.582,4.3,mb,67,75,2.197,0.44,us,us6000pfjz,2024-12-25T09:10:58.040Z,"50 km ESE of Farkhār, Afghanistan",earthquake,6.83,7.074,0.085,39,reviewed,us,us
 2024-12-25T07:51:50.560Z,40.238166809082,-124.81500244141,2.0499999523163,2.76,md,8,329,0.365,0.08,nc,nc75107696,2024-12-25T08:12:14.309Z,"46 km W of Petrolia, CA",earthquake,7.15,6.44999981,0.07,8,automatic,nc,nc
-2024-12-25T07:36:45.660Z,37.89966583252,-121.98283386231,13.220000267029,2.98,md,82,59,0.04149,0.17,nc,nc75107686,2024-12-25T17:14:39.005Z,"6 km SW of Clayton, CA",earthquake,0.19,0.360000014,0.1,99,automatic,nc,nc
+2024-12-25T07:36:45.660Z,37.89966583252,-121.98283386231,13.220000267029,2.98,md,82,59,0.04149,0.17,nc,nc75107686,2024-12-25T17:47:29.798Z,"6 km SW of Clayton, CA",earthquake,0.19,0.360000014,0.1,99,automatic,nc,nc
 2024-12-25T07:23:52.664Z,39.1157,-119,4.1,1,ml,8,122.67,0.061,0.0449,nn,nn00890534,2024-12-25T07:26:18.582Z,"20 km NE of Yerington, Nevada",earthquake,,2,0.15,2,automatic,nn,nn
 2024-12-25T07:20:48.286Z,13.6007,144.7297,129.607,4.5,mb,37,98,0.135,0.46,us,us6000pfju,2024-12-25T09:09:31.976Z,"13 km NNW of Tamuning-Tumon-Harmon Village, Guam",earthquake,12.63,6.514,0.099,30,reviewed,us,us
 2024-12-25T06:54:53.671Z,-5.6483,151.2956,75.1,4.5,mb,25,124,1.686,0.56,us,us6000pfjq,2024-12-25T08:10:54.040Z,"128 km E of Kimbe, Papua New Guinea",earthquake,12.62,5.684,0.116,22,reviewed,us,us
@@ -149,4 +149,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-24T18:09:48.909Z,31.731,-104.087,5.0385,2.3,ml,19,61,0,0.2,tx,tx2024zfmb,2024-12-24T18:19:20.589Z,"46 km W of Mentone, Texas",earthquake,0,1.9980134963989,0.2,15,automatic,tx,tx
 2024-12-24T17:58:56.604Z,39.1229,-119.0469,6.1,1.9,ml,21,121.58,0.018,0.1593,nn,nn00890505,2024-12-24T19:53:22.528Z,"18 km NNE of Yerington, Nevada",earthquake,,0.9,0.24,9,reviewed,nn,nn
 2024-12-24T17:57:20.050Z,38.791999816895,-122.80766296387,3.2999999523163,0.76,md,8,124,0.005132,0.01,nc,nc75107451,2024-12-24T17:58:56.844Z,"5 km WNW of The Geysers, CA",earthquake,0.51,1.08000004,0.17,10,automatic,nc,nc
-2024-12-24T17:51:40.930Z,44.8445,-112.399,8.39,1.28,ml,18,77,0.2512,0.1,mb,mb90069528,2024-12-24T19:01:20.160Z,"27 km NNE of Lima, Montana",earthquake,0.27,2.2,0.242769128942,19,reviewed,mb,mb
