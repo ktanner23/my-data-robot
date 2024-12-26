@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T11:29:13.978Z,8.1908,125.9794,59.276,4.9,mb,41,107,1.183,1.05,us,us6000pfpp,2024-12-26T12:31:42.103Z,"2 km NNW of Bunawan, Philippines",earthquake,10.39,7.88,0.099,32,reviewed,us,us
 2024-12-26T11:28:02.841Z,61.5895,-148.2652,20.8,1.4,ml,,,,0.28,ak,ak024gl7q270,2024-12-26T11:29:30.146Z,"25 km SSE of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-26T11:14:20.430Z,35.955,-117.6861667,2.27,1.66,ml,29,39,0.02989,0.18,ci,ci40828455,2024-12-26T11:17:57.971Z,"20 km E of Little Lake, CA",earthquake,0.2,0.32,0.234,25,automatic,ci,ci
-2024-12-26T11:11:17.171Z,31.643,-104.268,7.0227,1.6,ml,18,60,0,0.2,tx,tx2024zipg,2024-12-26T12:58:42.847Z,"57 km NW of Toyah, Texas",earthquake,0.75726636522968,0.70723006677455,0.1,14,reviewed,tx,tx
+2024-12-26T11:11:17.171Z,31.643,-104.268,7.0227,1.6,ml,18,60,0,0.2,tx,tx2024zipg,2024-12-26T12:58:42.847Z,"western Texas",earthquake,0.75726636522968,0.70723006677455,0.1,14,reviewed,tx,tx
 2024-12-26T11:02:15.800Z,38.79349899292,-122.77983093262,3.579999923706,1.09,md,16,78,0.006328,0.02,nc,nc75108121,2024-12-26T11:03:51.942Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.720000029,0.09,18,automatic,nc,nc
 2024-12-26T10:59:34.790Z,32.7726667,-115.4388333,11.45,1.75,ml,32,60,0.03324,0.29,ci,ci40828447,2024-12-26T11:03:18.175Z,"7 km SW of Holtville, CA",earthquake,0.34,0.55,0.213,29,automatic,ci,ci
 2024-12-26T10:57:39.740Z,32.7673333,-115.444,15.36,1.85,ml,21,61,0.1283,0.23,ci,ci40828439,2024-12-26T11:02:14.168Z,"8 km SW of Holtville, CA",earthquake,0.41,0.86,0.255,28,automatic,ci,ci
@@ -169,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T21:50:03.058Z,60.1755,-151.606,50.3,1.6,ml,,,,0.44,ak,ak024gjq9rip,2024-12-25T21:52:32.791Z,"13 km WSW of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-12-25T21:39:27.455Z,50.5227,-130.6748,10,4.9,mb,24,220,1.625,0.8,us,us6000pflq,2024-12-26T00:49:35.508Z,"254 km W of Port McNeill, Canada",earthquake,3.03,2.013,0.04,198,reviewed,us,us
 2024-12-25T21:27:01.040Z,39.1656,-119.0566,7.2,1.5,ml,16,95.33,0.014,0.1529,nn,nn00890564,2024-12-25T21:29:09.575Z,"21 km NNE of Yerington, Nevada",earthquake,,0.5,0.36,6,automatic,nn,nn
-2024-12-25T21:19:50.813Z,36.6372,-115.7407,6.5,0.6,ml,15,164.02,0.18,0.1165,nn,nn00890560,2024-12-25T21:21:51.147Z,"9 km NW of Indian Springs, Nevada",earthquake,,1.3,0.26,8,automatic,nn,nn
+2024-12-25T21:19:51.268Z,36.6418,-115.7387,9.3,0.8,ml,23,162.52,0.181,0.0938,nn,nn00890560,2024-12-26T19:42:13.640Z,"10 km NW of Indian Springs, Nevada",earthquake,,3.8,0.4,5,reviewed,nn,nn
 2024-12-25T21:09:41.008Z,60.5641,-147.6825,18.8,2,ml,,,,0.65,ak,ak024gjq1238,2024-12-25T21:11:30.611Z,"58 km NNE of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-25T21:06:36.900Z,51.918833333333,179.61433333333,6.86,1.45,ml,5,133,0.01415,0.17,av,av93426061,2024-12-26T17:14:14.240Z,"258 km W of Adak, Alaska",earthquake,0.68,0.99,0.30114090393597,5,reviewed,av,av
 2024-12-25T21:02:03.260Z,37.542999267578,-118.81316375732,-2.3199999332428,0.51,md,9,209,0.04863,0.19,nc,nc75107941,2024-12-25T21:03:40.162Z,"12 km W of Toms Place, CA",earthquake,1.35,1.41999996,0.09,6,automatic,nc,nc
@@ -182,5 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-25T19:55:03.761Z,60.3124,-143.1875,7,1.8,ml,,,,0.28,ak,ak024gjp3yy0,2024-12-25T19:57:07.967Z,"125 km S of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-25T19:47:22.120Z,37.528499603271,-118.827003479,5.8099999427795,1.43,md,15,159,0.06144,0.04,nc,nc75107901,2024-12-25T21:07:16.446Z,"13 km W of Toms Place, CA",earthquake,0.54,1.33000004,0.09,14,automatic,nc,nc
 2024-12-25T19:44:03.390Z,37.517665863037,-118.82917022705,-1.0099999904633,2.26,md,25,107,0.07223,0.1,nc,nc75107896,2024-12-25T20:32:15.234Z,"14 km W of Toms Place, CA",earthquake,0.34,9.60999966,0.16,28,automatic,nc,nc
-2024-12-25T19:38:51.654Z,-3.2423,146.0968,10,4.7,mb,23,56,1.74,1.06,us,us6000pflg,2024-12-25T21:32:04.040Z,"186 km SW of Lorengau, Papua New Guinea",earthquake,7.93,1.921,0.127,19,reviewed,us,us
-2024-12-25T19:37:12.030Z,38.793167114258,-122.9058303833,5.25,1.1,md,19,204,0.03542,0.04,nc,nc75107891,2024-12-25T20:17:18.125Z,"10 km ESE of Cloverdale, CA",earthquake,0.61,1.11000001,0.12,19,automatic,nc,nc
