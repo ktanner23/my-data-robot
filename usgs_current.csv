@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-27T05:45:20.956Z,36.6903,-116.3517,15.9,0.3,ml,16,178.9,0.043,0.3061,nn,nn00890634,2024-12-27T05:47:11.864Z,"43 km SE of Beatty, Nevada",earthquake,,1,0.36,6,automatic,nn,nn
-2024-12-27T05:30:07.667Z,34.1574,-38.6804,10,5.9,mww,111,95,11.251,0.55,us,us6000pfuq,2024-12-27T05:46:35.040Z,"northern Mid-Atlantic Ridge",earthquake,11.1,1.886,0.069,20,reviewed,us,us
-2024-12-27T05:30:06.713Z,31.718,-104.3,4.0776,1.7,ml,17,63,0.1,0.4,tx,tx2024zjzm,2024-12-27T05:43:50.432Z,"51 km S of Whites City, New Mexico",earthquake,0,1.4135823249817,0.2,12,automatic,tx,tx
+2024-12-27T05:30:07.667Z,34.1574,-38.6804,10,5.9,mww,111,95,11.251,0.55,us,us6000pfuq,2024-12-27T05:49:42.528Z,"northern Mid-Atlantic Ridge",earthquake,11.1,1.886,0.069,20,reviewed,us,us
+2024-12-27T05:30:06.690Z,31.719,-104.302,4.3151,1.8,ml,15,67,0.1,0.2,tx,tx2024zjzm,2024-12-27T05:47:32.444Z,"51 km S of Whites City, New Mexico",earthquake,0,1.3123785257339,0.2,13,automatic,tx,tx
 2024-12-27T05:24:45.559Z,59.7621,-151.7791,34.6,1.8,ml,,,,0.37,ak,ak024gmro1hn,2024-12-27T05:26:49.659Z,"3 km ESE of Anchor Point, Alaska",earthquake,,2,,,automatic,ak,ak
 2024-12-27T05:10:32.030Z,19.261999130249,-155.43966674805,0.81999999284744,2.26,ml,58,71,0.0467,0.370000005,hv,hv74577812,2024-12-27T05:13:51.480Z,"7 km NNE of Pāhala, Hawaii",earthquake,0.31,0.430000007,0.66,11,automatic,hv,hv
 2024-12-27T05:10:20.100Z,37.833000183105,-121.9623336792,6.6999998092651,1.34,md,11,71,0.03523,0.1,nc,nc75108451,2024-12-27T05:32:15.676Z,"0 km WSW of Diablo, CA",earthquake,0.35,0.699999988,0.2,7,automatic,nc,nc
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T11:14:20.430Z,35.955,-117.6861667,2.27,1.66,ml,29,39,0.02989,0.18,ci,ci40828455,2024-12-26T11:17:57.971Z,"20 km E of Little Lake, CA",earthquake,0.2,0.32,0.234,25,automatic,ci,ci
 2024-12-26T11:14:11.550Z,61.332666666667,-152.17983333333,11.62,-0.24,ml,4,246,0.06847,0.27,av,av93426561,2024-12-27T01:36:11.710Z,"62 km WNW of Beluga, Alaska",earthquake,2.99,2.6,0.35361656502095,4,reviewed,av,av
 2024-12-26T11:12:56.700Z,61.359,-152.314,0.61,-0.56,ml,6,171,0.1041,0.08,av,av93029244,2024-12-27T01:33:45.930Z,"70 km WNW of Beluga, Alaska",earthquake,0.38,4.01,0.084199846732163,6,reviewed,av,av
-2024-12-26T11:11:17.171Z,31.643,-104.268,7.0227,1.6,ml,18,60,0,0.2,tx,tx2024zipg,2024-12-26T12:58:42.847Z,"western Texas",earthquake,0.75726636522968,0.70723006677455,0.1,14,reviewed,tx,tx
+2024-12-26T11:11:17.171Z,31.643,-104.268,7.0227,1.6,ml,18,60,0,0.2,tx,tx2024zipg,2024-12-26T12:58:42.847Z,"57 km NW of Toyah, Texas",earthquake,0.75726636522968,0.70723006677455,0.1,14,reviewed,tx,tx
 2024-12-26T11:07:28.030Z,61.347333333333,-152.29683333333,4,-0.11,ml,8,139,0.09573,0.15,av,av93426541,2024-12-27T01:22:07.670Z,"69 km WNW of Beluga, Alaska",earthquake,0.43,0.4,0.14179511226195,9,reviewed,av,av
 2024-12-26T11:02:15.800Z,38.79349899292,-122.77983093262,3.579999923706,1.09,md,16,78,0.006328,0.02,nc,nc75108121,2024-12-26T11:03:51.942Z,"3 km NW of The Geysers, CA",earthquake,0.34,0.720000029,0.09,18,automatic,nc,nc
 2024-12-26T10:59:34.790Z,32.7726667,-115.4388333,11.45,1.75,ml,32,60,0.03324,0.29,ci,ci40828447,2024-12-26T11:03:18.175Z,"7 km SW of Holtville, CA",earthquake,0.34,0.55,0.213,29,automatic,ci,ci
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T06:11:47.410Z,33.459,-116.5978333,10.84,2.44,ml,106,22,0.03579,0.2,ci,ci40828383,2024-12-26T06:22:26.920Z,"13 km SSE of Anza, CA",earthquake,0.11,0.34,0.275,25,automatic,ci,ci
 2024-12-26T06:01:57.352Z,32.243,-101.274,7.666,1.1,ml,9,67,0.1,0.1,tx,tx2024zifc,2024-12-26T23:40:36.726Z,"6 km SSE of Coahoma, Texas",earthquake,1.0663285092413,1.2516942408267,0.1,6,reviewed,tx,tx
 2024-12-26T05:57:03.564Z,31.717,-104.565,5.946,1.6,ml,24,70,0,0.3,tx,tx2024ziex,2024-12-26T13:31:13.041Z,"53 km SSW of Whites City, New Mexico",earthquake,1.3375604890726,0.61000686606605,0.2,19,reviewed,tx,tx
-2024-12-26T05:55:25.373Z,6.4497,126.0366,68.796,4.6,mb,28,111,0.765,0.72,us,us6000pfnl,2024-12-26T10:53:05.876Z,"8 km WSW of Tiblawan, Philippines",earthquake,7.81,8.56,0.122,20,reviewed,us,us
