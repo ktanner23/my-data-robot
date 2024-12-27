@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-27T15:34:16.950Z,36.307498931885,-120.88816833496,6.8699998855591,1.39,md,12,102,0.05478,0.09,nc,nc75108596,2024-12-27T15:35:53.743Z,"23 km WSW of New Idria, CA",earthquake,0.51,0.800000012,0.39,9,automatic,nc,nc
 2024-12-27T15:30:56.520Z,32.8341667,-115.4651667,9.2,1.63,ml,21,80,0.03266,0.25,ci,ci40828991,2024-12-27T15:34:18.923Z,"8 km WNW of Holtville, CA",earthquake,0.51,0.7,0.168,28,automatic,ci,ci
-2024-12-27T15:29:16.102Z,59.8904,-152.63,76.2,2.2,ml,,,,0.28,ak,ak024gmxndui,2024-12-27T15:30:54.523Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2024-12-27T15:29:16.102Z,59.8904,-152.63,76.2,2.2,ml,,,,0.28,ak,ak024gmxndui,2024-12-27T15:41:35.040Z,"46 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-12-27T15:25:15.280Z,32.8081667,-115.4611667,8.81,1.51,ml,18,92,0.01244,0.23,ci,ci40828975,2024-12-27T15:29:44.905Z,"8 km W of Holtville, CA",earthquake,0.57,0.86,0.295,23,automatic,ci,ci
 2024-12-27T15:16:43.965Z,39.1506,-119.0529,2,2.3,ml,12,94.72,0.021,0.1583,nn,nn00890664,2024-12-27T15:18:44.938Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.14,5,reviewed,nn,nn
 2024-12-27T15:16:11.043Z,39.1896,-119.0495,4.7,1.7,ml,9,153.38,0.018,0.2053,nn,nn00890665,2024-12-27T15:19:33.728Z,"24 km NNE of Yerington, Nevada",earthquake,,0.4,0.23,4,automatic,nn,nn
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T09:42:18.170Z,19.2516,-65.5323,90,3.59,md,15,229,0.9765,0.43,pr,pr2024362000,2024-12-27T10:56:08.207Z,"96 km NNE of Vieques, Puerto Rico",earthquake,4.5,7.05,0.23,6,reviewed,pr,pr
 2024-12-27T09:33:34.390Z,33.7103333,-116.8323333,17.09,1.75,ml,56,37,0.07972,0.22,ci,ci40828799,2024-12-27T09:40:01.115Z,"7 km SE of Valle Vista, CA",earthquake,0.22,0.4,0.246,27,automatic,ci,ci
 2024-12-27T09:33:27.490Z,33.7126667,-116.8341667,17.57,1.6,ml,62,20,0.07898,0.17,ci,ci40828791,2024-12-27T09:44:03.020Z,"7 km SE of Valle Vista, CA",earthquake,0.18,0.41,0.284,27,automatic,ci,ci
-2024-12-27T09:30:55.517Z,12.1637,143.973,19.132,5.3,mb,84,114,1.664,0.44,us,us6000pfvi,2024-12-27T13:41:04.421Z,"143 km SSW of Merizo Village, Guam",earthquake,8.06,4.678,0.081,51,reviewed,us,us
+2024-12-27T09:30:55.517Z,12.1637,143.973,19.132,5.3,mb,84,114,1.664,0.44,us,us6000pfvi,2024-12-27T15:41:05.023Z,"143 km SSW of Merizo Village, Guam",earthquake,8.06,4.678,0.081,51,reviewed,us,us
 2024-12-27T09:29:56.040Z,33.4063333,-116.3951667,9.68,0.66,ml,37,82,0.08395,0.2,ci,ci40828783,2024-12-27T09:34:04.641Z,"17 km N of Borrego Springs, CA",earthquake,0.22,0.59,0.108,15,automatic,ci,ci
 2024-12-27T09:24:29.398Z,59.7137,-151.9826,0,1.7,ml,,,,0.42,ak,ak024gmu1qnv,2024-12-27T09:26:20.619Z,"11 km SW of Anchor Point, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2024-12-27T09:16:58.186Z,55.7381,-161.4202,165.162,4,mb,51,90,0.368,0.71,us,us6000pfvf,2024-12-27T09:46:36.036Z,"32 km SSW of Nelson Lagoon, Alaska",earthquake,8.18,8.827,0.259,4,reviewed,us,us
@@ -97,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T05:05:07.838Z,61.0937,-152.3099,7.9,0.9,ml,,,,1.04,ak,ak024gmrjvzd,2024-12-27T05:08:09.680Z,"63 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-27T05:04:13.530Z,38.792667388916,-122.7773361206,1.6100000143051,1.13,md,17,78,0.008285,0.03,nc,nc75108446,2024-12-27T05:37:18.709Z,"2 km NW of The Geysers, CA",earthquake,0.25,0.469999999,0.1,18,automatic,nc,nc
 2024-12-27T05:01:17.280Z,34.5308333,-118.994,11.27,1.13,ml,14,84,0.08193,0.25,ci,ci40828735,2024-12-27T05:05:53.459Z,"16 km NNW of Fillmore, CA",earthquake,0.54,0.62,0.234,26,automatic,ci,ci
+2024-12-27T04:49:29.470Z,44.289666666667,-114.8575,6.86,2.22,ml,15,46,0.1836,0.22,mb,mb90069673,2024-12-27T15:40:16.170Z,"10 km NE of Stanley, Idaho",earthquake,0.46,1.11,0.23689897505601,16,reviewed,mb,mb
 2024-12-27T04:46:06.754Z,9.4345,40.0472,10,4.4,mb,16,253,3.452,0.78,us,us6000pfui,2024-12-27T05:04:12.040Z,"51 km NNW of Āwash, Ethiopia",earthquake,15.66,2.013,0.203,7,reviewed,us,us
 2024-12-27T04:42:26.062Z,60.1675,-141.3914,12.3,1.9,ml,,,,0.71,ak,ak024gmr6f9q,2024-12-27T04:43:54.156Z,"116 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-27T04:37:27.540Z,39.1228,-119.0784,0.1,1.4,ml,8,122.66,0.055,0.2904,nn,nn00890633,2024-12-27T04:40:49.421Z,"16 km NNE of Yerington, Nevada",earthquake,,0.4,0.69,3,automatic,nn,nn
@@ -204,4 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-26T16:10:24.831Z,61.8584,-151.873,111.6,1.6,ml,,,,0.33,ak,ak024glalf49,2024-12-26T16:12:31.238Z,"28 km WSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-12-26T16:00:23.340Z,44.423166666667,-115.20266666667,5,1.47,ml,8,84,0.4073,0.14,mb,mb90069638,2024-12-26T18:20:23.890Z,"31 km NW of Stanley, Idaho",earthquake,0.37,8.6,0.17149678379563,12,reviewed,mb,mb
 2024-12-26T15:57:16.860Z,38.873165130615,-122.81999969482,2.5499999523163,1.06,md,25,157,0.008545,0.03,nc,nc75108231,2024-12-26T15:58:52.160Z,"10 km NW of Cobb, CA",earthquake,0.4,0.479999989,0.15,25,automatic,nc,nc
-2024-12-26T15:38:34.009Z,61.2056,-149.8136,43.8,1.7,ml,,,,0.27,ak,ak024gla606g,2024-12-26T15:40:09.735Z,"4 km ESE of Anchorage, Alaska",earthquake,,0.6,,,automatic,ak,ak
