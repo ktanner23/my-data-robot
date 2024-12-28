@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-28T02:58:20.620Z,33.4681664,-116.5923309,9.54,1.06,ml,31,54,0.02772,0.17,ci,ci40829175,2024-12-28T03:00:32.512Z,"12 km SE of Anza, CA",earthquake,0.28,0.75,0.265,9,automatic,ci,ci
+2024-12-28T03:09:13.120Z,33.8645,-115.5316667,0.66,1.57,ml,26,50,0.1804,0.16,ci,ci40829183,2024-12-28T03:12:35.577Z,"21 km NW of Desert Center, CA",earthquake,0.21,0.56,0.129,27,automatic,ci,ci
+2024-12-28T02:58:20.470Z,33.4648333,-116.5868333,11.14,0.88,ml,43,44,0.03244,0.17,ci,ci40829175,2024-12-28T03:03:42.350Z,"13 km SE of Anza, CA",earthquake,0.17,0.39,0.184,27,automatic,ci,ci
 2024-12-28T02:44:18.233Z,37.322,-117.2312,5.6,0.7,ml,13,129.86,0.032,0.2468,nn,nn00890698,2024-12-28T02:46:47.092Z,"42 km S of Goldfield, Nevada",earthquake,,0.9,0.46,7,automatic,nn,nn
 2024-12-28T02:39:08.187Z,61.0294,-148.0809,23.1,0.5,ml,,,,1.57,ak,ak024godi80y,2024-12-28T02:40:59.392Z,"43 km NE of Whittier, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-12-28T02:22:30.190Z,38.799499511719,-122.81533050537,3.4800000190735,0.31,md,9,93,0.0143,0.02,nc,nc75108756,2024-12-28T02:24:06.604Z,"6 km NW of The Geysers, CA",earthquake,0.53,1.5,0.07,10,automatic,nc,nc
@@ -68,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T20:16:23.220Z,38.806667327881,-122.85966491699,0.31999999284744,0.45,md,8,158,0.006834,0.08,nc,nc75108671,2024-12-27T20:17:59.760Z,"10 km WNW of The Geysers, CA",earthquake,0.8,1.72000003,0.32,8,automatic,nc,nc
 2024-12-27T20:01:49.790Z,46.006666666667,-112.46566666667,-2,1.48,ml,9,84,0.06356,0.09,mb,mb90069713,2024-12-27T20:28:12.570Z,"5 km E of Butte, Montana",quarry blast,0.39,31.61,0.27750349732355,16,reviewed,mb,mb
 2024-12-27T19:58:49.560Z,40.368831634521,-124.97283172607,0.72000002861023,3.07,md,46,264,0.4971,0.24,nc,nc75108666,2024-12-27T20:52:17.011Z,"58 km WNW of Petrolia, CA",earthquake,2.17,5.13999987,0.13,23,automatic,nc,nc
+2024-12-27T19:48:15.520Z,61.3015,-152.26383333333,2.07,-0.34,ml,8,138,0.06378,0.07,av,av93428186,2024-12-28T03:09:21.510Z,"65 km WNW of Beluga, Alaska",earthquake,0.28,1.05,0.11621529525774,8,reviewed,av,av
 2024-12-27T19:39:33.070Z,40.319499969482,-124.8955001831,7.5799999237061,3.87,ml,55,260,0.4403,0.28,nc,nc75108656,2024-12-28T01:52:48.553Z,"52 km W of Petrolia, CA",earthquake,3.75,3.26999998,0.28,18,reviewed,nc,nc
 2024-12-27T19:39:12.740Z,61.301,-152.26566666667,1.84,-0.55,ml,8,138,0.06423,0.07,av,av93428176,2024-12-28T02:59:11.780Z,"66 km WNW of Beluga, Alaska",earthquake,0.29,1.11,0.22089025605583,9,reviewed,av,av
 2024-12-27T19:36:28.950Z,33.174,-115.6041667,2.45,1.37,ml,27,68,0.01023,0.18,ci,ci40829087,2024-12-27T19:40:12.261Z,"10 km WNW of Calipatria, CA",earthquake,0.18,0.2,0.199,28,automatic,ci,ci
@@ -266,5 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-27T03:26:03.643Z,62.7832,-150.4152,14.8,2,ml,,,,1.07,ak,ak024gmqhih7,2024-12-27T03:29:22.696Z,"36 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-27T03:18:02.794Z,63.0586,-150.9828,132.3,1.9,ml,,,,0.32,ak,ak024gmqfson,2024-12-27T03:20:02.912Z,"63 km N of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2024-12-27T03:16:55.301Z,37.3795,-117.1845,2.5,0.7,ml,19,141.11,0.1,0.1478,nn,nn00890624,2024-12-27T20:40:27.988Z,"36 km S of Goldfield, Nevada",earthquake,,4.4,0.34,4,reviewed,nn,nn
-2024-12-27T03:09:55.930Z,61.0505,-151.0793,65.1,1.8,ml,,,,0.73,ak,ak024gmqdzc9,2024-12-27T03:11:50.589Z,"3 km ESE of Tyonek, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2024-12-27T03:03:08.940Z,61.327,-152.3115,-2.33,-0.22,ml,9,129,0.09756,0.3,av,av93427211,2024-12-27T20:10:53.190Z,"69 km WNW of Beluga, Alaska",earthquake,0.54,2.6,0.11237337314594,8,reviewed,av,av
