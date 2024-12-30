@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-12-30T07:14:19.470Z,34.1781667,-116.6671667,10.66,1.04,ml,39,51,0.1402,0.13,ci,ci40830023,2024-12-30T07:18:04.180Z,"17 km NNW of Morongo Valley, CA",earthquake,0.14,0.68,0.159,30,automatic,ci,ci
-2024-12-30T07:01:30.069Z,59.9182,-151.4982,41.5,3.4,ml,,,,0.47,ak,ak024grrbzih,2024-12-30T07:17:35.040Z,"13 km NNE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2024-12-30T07:01:30.069Z,59.9182,-151.4982,41.5,3.4,ml,,,,0.47,ak,ak024grrbzih,2024-12-30T07:21:33.771Z,"13 km NNE of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-12-30T06:56:21.930Z,38.82500076294,-122.82033538818,4.1300001144409,0.23,md,7,178,0.008174,0.03,nc,nc75109641,2024-12-30T06:57:57.301Z,"8 km NW of The Geysers, CA",earthquake,1.24,3.69000006,0.11,7,automatic,nc,nc
-2024-12-30T06:55:57.104Z,31.712,-104.583,2.376,1.8,ml,8,210,0,0.4,tx,tx2024zpov,2024-12-30T07:12:53.185Z,"54 km SSW of Whites City, New Mexico",earthquake,0,2.6517124176025,0.2,6,automatic,tx,tx
+2024-12-30T06:55:57.155Z,31.711,-104.582,2.2625,1.7,ml,8,209,0,0.4,tx,tx2024zpov,2024-12-30T07:24:06.246Z,"55 km SSW of Whites City, New Mexico",earthquake,0,2.5091786384583,0.2,6,automatic,tx,tx
 2024-12-30T06:49:29.690Z,33.6766667,-116.7893333,15.38,0.92,ml,37,45,0.06741,0.15,ci,ci40830015,2024-12-30T06:54:48.044Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.33,0.216,29,automatic,ci,ci
 2024-12-30T06:49:26.740Z,38.786499023438,-122.76950073242,3.1800000667572,0.75,md,10,102,0.01586,0.02,nc,nc75109636,2024-12-30T06:51:02.285Z,"2 km NW of The Geysers, CA",earthquake,0.4,1.09000003,0.1,11,automatic,nc,nc
 2024-12-30T06:38:22.450Z,38.792835235596,-122.8004989624,3.25,0.76,md,11,74,0.004931,0.01,nc,nc75109631,2024-12-30T06:39:57.214Z,"4 km NW of The Geysers, CA",earthquake,0.41,1.02999997,0.09,11,automatic,nc,nc
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T05:40:49.444Z,-29.9318,-72.0574,10,5.5,mb,65,142,0.711,1.06,us,us6000pget,2024-12-30T06:50:07.195Z,"69 km W of Coquimbo, Chile",earthquake,2.41,1.849,0.032,344,reviewed,us,us
 2024-12-30T05:31:55.910Z,60.0264,-148.3587,19.4,2.5,ml,,,,0.7,ak,ak024grqbls7,2024-12-30T05:34:09.096Z,"19 km WSW of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-12-30T05:29:27.108Z,62.09,-149.5155,47.1,1.5,ml,,,,1.12,ak,ak024grqb2ss,2024-12-30T05:33:36.728Z,"19 km ESE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2024-12-30T05:27:04.352Z,41.9226,-119.5873,3.4,3.3,ml,7,142.39,0.533,0.2381,nn,nn00890853,2024-12-30T06:04:42.434Z,"47 km E of Fort Bidwell, California",earthquake,,3,0.33,5,reviewed,nn,nn
+2024-12-30T05:27:04.352Z,41.9226,-119.5873,3.4,3.3,ml,7,142.39,0.533,0.2381,nn,nn00890853,2024-12-30T07:29:44.278Z,"47 km E of Fort Bidwell, California",earthquake,,3,0.33,5,reviewed,nn,nn
 2024-12-30T05:11:58.059Z,9.0411,40.0925,10,4.4,mb,27,249,3.669,0.68,us,us6000pges,2024-12-30T06:44:56.759Z,"10 km NW of Āwash, Ethiopia",earthquake,15.31,1.909,0.117,21,reviewed,us,us
 2024-12-30T05:11:27.072Z,61.0273,-152.3482,114.1,1.6,ml,,,,0.18,ak,ak024grq798j,2024-12-30T05:13:08.392Z,"65 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-12-30T04:51:52.548Z,61.3396,-147.366,19.8,1.4,ml,,,,0.33,ak,ak024grpug8m,2024-12-30T04:53:03.804Z,"54 km SSE of Glacier View, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -201,7 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-29T07:53:36.900Z,38.820667266846,-122.76383209228,2.2300000190735,0.69,md,9,118,0.01088,0.01,nc,nc75109231,2024-12-29T07:55:13.459Z,"4 km W of Cobb, CA",earthquake,0.43,0.689999998,0.09,10,automatic,nc,nc
 2024-12-29T07:52:42.650Z,38.773666381836,-122.73950195312,0.89999997615814,1.08,md,16,69,0.0098,0.04,nc,nc75109226,2024-12-29T07:54:18.696Z,"2 km ESE of The Geysers, CA",earthquake,0.27,0.430000007,0.11,16,automatic,nc,nc
 2024-12-29T07:47:37.825Z,51.3469,-175.3909,39.65,4.5,ml,31,198,0.856,0.97,us,us6000pg93,2024-12-29T08:23:49.218Z,"104 km SE of Adak, Alaska",earthquake,5.33,15.065,0.091,16,reviewed,us,us
-2024-12-29T07:27:47.675Z,62.7385,-149.2459,97.6,2.1,ml,,,,0.9,ak,ak024gq3y8zz,2024-12-29T07:29:59.643Z,"54 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-12-29T07:27:04.090Z,37.486331939697,-118.85266876221,-0.43999999761581,1.11,md,10,213,0.1052,0.04,nc,nc75109221,2024-12-29T08:27:14.964Z,"17 km WSW of Toms Place, CA",earthquake,0.7,7.76999998,0.08,9,automatic,nc,nc
-2024-12-29T07:20:01.346Z,61.2795,-152.2931,11.9,0.5,ml,,,,0.23,ak,ak024gq3wneu,2024-12-29T07:22:18.267Z,"66 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-12-29T07:19:13.852Z,9.2182,40.0833,10,4.4,mb,30,131,3.559,0.69,us,us6000pg9d,2024-12-29T16:33:41.040Z,"27 km NNW of Āwash, Ethiopia",earthquake,13.7,1.952,0.123,19,reviewed,us,us
