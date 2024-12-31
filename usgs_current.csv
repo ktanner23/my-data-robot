@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-12-31T13:17:12.322Z,31.662,-104.331,4.6253,1.7,ml,16,69,0.1,0.2,tx,tx2024zrxd,2024-12-31T13:30:28.405Z,"57 km S of Whites City, New Mexico",earthquake,0,1.4169620275497,0.1,12,automatic,tx,tx
+2024-12-31T13:17:12.285Z,31.648,-104.336,4.4332,1.8,ml,21,63,0.1,0.3,tx,tx2024zrxd,2024-12-31T13:49:35.527Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3743669986725,0.2,15,automatic,tx,tx
 2024-12-31T13:13:45.138Z,32.006,-102.261,4.449,1,ml,25,69,0,0.5,tx,tx2024zrww,2024-12-31T13:27:19.388Z,"11 km E of Gardendale, Texas",earthquake,0,1.0624994039536,0.1,16,automatic,tx,tx
 2024-12-31T12:59:46.650Z,17.976,-66.864166666667,16.1,2.18,md,7,154,0.005333,0.25,pr,pr71469808,2024-12-31T13:15:17.130Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,1.34,0.99,0.11680730185436,6,reviewed,pr,pr
 2024-12-31T12:56:55.000Z,34.1663333,-117.3878333,16.7,2.4,ml,137,26,0.04201,0.2,ci,ci40830695,2024-12-31T13:10:40.242Z,"4 km WNW of Muscoy, CA",earthquake,0.12,0.24,0.18,25,automatic,ci,ci
@@ -13,12 +13,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T12:14:24.780Z,38.833831787109,-122.78133392334,1.5599999427795,2.43,md,46,50,0.008391,0.08,nc,nc75110221,2024-12-31T13:22:16.766Z,"5 km WNW of Cobb, CA",earthquake,0.18,0.280000001,0.13,54,automatic,nc,nc
 2024-12-31T12:10:53.620Z,38.798500061035,-122.74949645996,1.1900000572205,1.63,md,34,50,0.00826,0.05,nc,nc75110216,2024-12-31T13:07:16.660Z,"2 km NNE of The Geysers, CA",earthquake,0.2,0.300000012,0.18,37,automatic,nc,nc
 2024-12-31T12:05:48.903Z,32.473,-101.15,2.2474,1.1,ml,7,174,0.1,0.3,tx,tx2024zruo,2024-12-31T12:14:04.895Z,"18 km NW of Westbrook, Texas",earthquake,0,2.4741811752319,0.1,6,automatic,tx,tx
-2024-12-31T11:57:34.049Z,31.732,-104.259,4.2304,1.5,ml,19,51,0,0.4,tx,tx2024zruh,2024-12-31T12:14:39.902Z,"50 km SSE of Whites City, New Mexico",earthquake,0,1.2356418371201,0.1,15,automatic,tx,tx
+2024-12-31T11:57:33.411Z,31.728,-104.257,7.7917,1.6,ml,19,50,0,0.2,tx,tx2024zruh,2024-12-31T13:45:01.495Z,"50 km SSE of Whites City, New Mexico",earthquake,0.90084402315033,0.81388724617338,0.2,15,reviewed,tx,tx
 2024-12-31T11:45:01.760Z,38.676498413086,-122.8065032959,6.8400001525879,1.4,md,17,95,0.05147,0.05,nc,nc75110201,2024-12-31T12:17:17.326Z,"9 km NE of Healdsburg, CA",earthquake,0.48,0.99000001,0.23,17,automatic,nc,nc
-2024-12-31T11:39:14.265Z,31.566,-104.012,5.7927,1.6,ml,15,60,0,0.2,tx,tx2024zrts,2024-12-31T11:53:06.763Z,"34 km NW of Toyah, Texas",earthquake,0,2.7558748722076,0.2,9,automatic,tx,tx
+2024-12-31T11:39:14.307Z,31.569,-104.015,7.0227,1.7,ml,15,60,0,0.1,tx,tx2024zrts,2024-12-31T13:51:01.540Z,"35 km NW of Toyah, Texas",earthquake,0.43281817598263,0.46054699119164,0.2,13,reviewed,tx,tx
 2024-12-31T11:34:14.770Z,33.3983333,-116.4368333,11.76,1.06,ml,71,20,0.1123,0.19,ci,ci40830671,2024-12-31T11:38:32.939Z,"17 km NNW of Borrego Springs, CA",earthquake,0.16,0.46,0.151,26,automatic,ci,ci
 2024-12-31T11:33:34.630Z,35.7015,-117.5083333,6.63,0.85,ml,23,55,0.07788,0.16,ci,ci40830663,2024-12-31T11:36:59.934Z,"12 km SW of Searles Valley, CA",earthquake,0.22,0.72,0.08,9,automatic,ci,ci
 2024-12-31T11:29:06.878Z,61.0523,-147.263,97.3,1.6,ml,,,,0.77,ak,ak024gthf0ov,2024-12-31T11:30:56.750Z,"37 km WNW of Tatitlek, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2024-12-31T11:23:27.483Z,42.7389,-126.0914,10,2.8,ml,50,236,1.357,0.35,us,us6000pgn7,2024-12-31T13:45:47.040Z,"130 km W of Port Orford, Oregon",earthquake,5.83,2.013,0.037,94,reviewed,us,us
 2024-12-31T11:13:12.830Z,37.532165527344,-118.83200073242,5.8899998664856,0.94,md,8,216,0.05781,0.01,nc,nc75110196,2024-12-31T11:14:48.057Z,"14 km W of Toms Place, CA",earthquake,1.62,2.41000009,0.15,9,automatic,nc,nc
 2024-12-31T11:08:58.090Z,38.816501617432,-122.77966308594,1.710000038147,0.85,md,12,167,0.003335,0.03,nc,nc75110191,2024-12-31T11:10:33.217Z,"5 km NNW of The Geysers, CA",earthquake,0.52,0.699999988,0.16,12,automatic,nc,nc
 2024-12-31T11:00:25.360Z,33.5873333,-116.8033333,8.52,0.53,ml,26,51,0.05646,0.13,ci,ci40830655,2024-12-31T11:04:57.172Z,"12 km WNW of Anza, CA",earthquake,0.18,0.4,0.124,11,automatic,ci,ci
@@ -170,7 +171,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T19:29:07.230Z,38.828498840332,-122.82199859619,1.6100000143051,0.99,md,8,114,0.01062,0.01,nc,nc75109851,2024-12-30T19:30:43.214Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.800000012,0.43,8,automatic,nc,nc
 2024-12-30T19:28:05.370Z,38.823665618896,-122.84266662598,1.9299999475479,1.08,md,13,73,0.00599,0.01,nc,nc75109846,2024-12-30T19:29:43.209Z,"9 km NW of The Geysers, CA",earthquake,0.26,0.409999996,0.23,13,automatic,nc,nc
 2024-12-30T19:27:32.240Z,38.799167633057,-122.78433227539,3.5499999523163,1.06,md,19,68,0.006604,0.02,nc,nc75109841,2024-12-30T19:29:08.652Z,"3 km NNW of The Geysers, CA",earthquake,0.28,0.540000021,0.14,20,automatic,nc,nc
-2024-12-30T19:25:27.955Z,31.545,-104.193,3.2544,1.9,ml,15,100,0.1,0.4,tx,tx2024zqno,2024-12-30T19:32:08.374Z,"45 km NW of Toyah, Texas",earthquake,0,1.7856937646866,0.2,13,automatic,tx,tx
+2024-12-30T19:25:27.620Z,31.558,-104.182,6.7664,2,ml,15,71,0.1,0.1,tx,tx2024zqno,2024-12-31T13:49:01.526Z,"45 km NW of Toyah, Texas",earthquake,0.96822460392912,1.1442309125064,0.2,8,reviewed,tx,tx
 2024-12-30T19:23:22.940Z,62.9758,-150.9908,122.4,2.4,ml,,,,0.4,ak,ak024grylvxl,2024-12-30T20:40:01.040Z,"54 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-30T19:22:25.813Z,38.5445,-119.4875,0,1.5,ml,10,158.98,0.362,0.1563,nn,nn00890908,2024-12-30T19:24:49.905Z,"2 km SE of Coleville, California",earthquake,,6.2,0.4,6,automatic,nn,nn
 2024-12-30T19:21:33.138Z,5.0161,127.5195,123.142,4.4,mb,28,71,2.808,0.54,us,us6000pgix,2024-12-30T19:54:32.040Z,"210 km SE of Pondaguitan, Philippines",earthquake,10.41,7.12,0.123,20,reviewed,us,us
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T14:12:34.988Z,-17.8527,-178.1709,572.011,4.6,mb,55,143,2.719,0.68,us,us6000pghq,2024-12-30T15:01:06.040Z,"267 km E of Levuka, Fiji",earthquake,15.84,8.448,0.08,47,reviewed,us,us
 2024-12-30T13:59:28.656Z,37.3809,-117.2038,2,1.2,ml,13,219.62,0.092,0.3568,nn,nn00890884,2024-12-30T14:01:58.307Z,"36 km S of Goldfield, Nevada",earthquake,,6.7,0.4,8,automatic,nn,nn
 2024-12-30T13:53:01.820Z,32.8101667,-115.4536667,10.33,1.38,ml,21,66,0.007543,0.3,ci,ci40830087,2024-12-30T13:57:00.051Z,"7 km W of Holtville, CA",earthquake,0.63,0.93,0.151,19,automatic,ci,ci
-2024-12-30T13:45:02.490Z,61.303833333333,-152.297,0.03,-0.06,ml,10,120,0.05775,0.13,av,av93432966,2024-12-31T00:36:49.930Z,"67 km WNW of Tyonek, Alaska",earthquake,0.3,2.6,0.23376139019439,10,reviewed,av,av
