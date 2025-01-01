@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-01T18:36:49.424Z,31.584,-104.568,3.3742,2,ml,8,170,0.1,0.1,tx,tx2025abkw,2025-01-01T18:40:03.980Z,"65 km NNE of Van Horn, Texas",earthquake,0,2.9758770465851,0.1,6,automatic,tx,tx
 2025-01-01T18:29:39.330Z,33.6951667,-117.4296667,10.37,1.12,ml,49,48,0.05839,0.23,ci,ci40831711,2025-01-01T18:40:31.600Z,"10 km WNW of Lake Elsinore, CA",earthquake,0.25,0.44,0.221,30,automatic,ci,ci
+2025-01-01T18:27:51.448Z,-36.0834,-100.6015,10,5.1,mb,134,48,11.618,0.56,us,us6000pgx1,2025-01-01T18:44:24.040Z,"southeast of Easter Island",earthquake,11.37,1.879,0.04,204,reviewed,us,us
 2025-01-01T18:20:53.320Z,38.835334777832,-122.79783630371,2.2200000286102,0.51,md,8,96,0.006608,0.02,nc,nc75110896,2025-01-01T18:22:28.612Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.35000002,0.35,8,automatic,nc,nc
 2025-01-01T18:13:46.589Z,37.3746,-117.1372,0,1.2,ml,17,197.83,0.123,0.2814,nn,nn00891151,2025-01-01T18:16:10.566Z,"38 km SSE of Goldfield, Nevada",earthquake,,13.5,0.28,12,automatic,nn,nn
 2025-01-01T18:11:04.824Z,63.3172,-149.6809,93.2,1.9,ml,,,,0.34,ak,ak0251ybikv,2025-01-01T18:12:21.515Z,"37 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -67,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-01T14:37:22.270Z,33.683,-116.7956667,14.3,0.83,ml,49,30,0.06845,0.17,ci,ci40831439,2025-01-01T16:51:38.110Z,"10 km SW of Idyllwild, CA",earthquake,0.17,0.3,0.215,29,reviewed,ci,ci
 2025-01-01T14:23:19.390Z,33.9373333,-117.2021667,12.41,0.96,ml,49,69,0.02641,0.17,ci,ci40831431,2025-01-01T14:28:05.029Z,"3 km ENE of Moreno Valley, CA",earthquake,0.17,0.36,0.268,29,automatic,ci,ci
 2025-01-01T14:20:17.490Z,33.9365,-117.2011667,12.54,1.26,ml,62,61,0.02597,0.17,ci,ci40831423,2025-01-01T14:31:28.690Z,"3 km ENE of Moreno Valley, CA",earthquake,0.14,0.33,0.138,24,automatic,ci,ci
-2025-01-01T14:18:59.960Z,46.786333333333,-111.58216666667,15.66,3.1,ml,43,156,0.1873,0.27,mb,mb90069928,2025-01-01T18:14:13.385Z,"29 km ENE of Helena Valley Northeast, Montana",earthquake,0.54,0.48,0.22076489450759,52,reviewed,mb,mb
+2025-01-01T14:18:59.960Z,46.786333333333,-111.58216666667,15.66,3.1,ml,43,156,0.1873,0.27,mb,mb90069928,2025-01-01T18:41:00.690Z,"29 km ENE of Helena Valley Northeast, Montana",earthquake,0.54,0.48,0.22076489450759,52,reviewed,mb,mb
 2025-01-01T14:07:45.840Z,33.3331667,-117.9398333,6.01,2.36,ml,82,102,0.2684,0.3,ci,ci40831415,2025-01-01T14:18:39.800Z,"27 km WSW of Dana Point, CA",earthquake,0.27,1.45,0.23,27,automatic,ci,ci
 2025-01-01T13:59:36.810Z,38.791168212891,-122.77783203125,1.8899999856949,1.11,md,19,80,0.008134,0.02,nc,nc75110811,2025-01-01T14:32:15.297Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.409999996,0.12,22,automatic,nc,nc
 2025-01-01T13:59:29.059Z,39.1194,-119.0462,6.8,1.5,ml,16,121.85,0.05,0.1373,nn,nn00891114,2025-01-01T14:01:37.006Z,"17 km NE of Yerington, Nevada",earthquake,,0.6,0.13,9,automatic,nn,nn
@@ -267,4 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-31T18:56:23.673Z,64.6722,-148.3967,7.5,1.4,ml,,,,0.8,ak,ak024gtlqvj6,2024-12-31T18:58:26.424Z,"26 km SW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-12-31T18:54:56.444Z,39.1508,-119.0477,4.7,1.2,ml,11,117.96,0.019,0.1583,nn,nn00891037,2024-12-31T18:57:10.039Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.47,5,automatic,nn,nn
 2024-12-31T18:52:07.239Z,24.3008,121.7217,25.648,3.9,mwr,48,55,0.172,0.73,us,us6000pgpr,2024-12-31T20:20:57.040Z,"37 km NNE of Hualien City, Taiwan",earthquake,1.63,4.704,0.062,25,reviewed,us,us
-2024-12-31T18:46:08.954Z,39.0943,-118.9936,9,1.1,ml,11,138.75,0.082,0.1979,nn,nn00891033,2024-12-31T18:48:30.336Z,"18 km NE of Yerington, Nevada",earthquake,,0.7,0.16,4,automatic,nn,nn
