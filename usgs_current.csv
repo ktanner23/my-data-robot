@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-03T03:04:13.697Z,37.3903,-117.1308,0.8,1.3,ml,19,200.15,0.137,0.311,nn,nn00891286,2025-01-03T03:06:31.362Z,"36 km SSE of Goldfield, Nevada",earthquake,,12.5,0.23,12,automatic,nn,nn
+2025-01-03T03:03:17.950Z,38.824165344238,-122.84666442871,1.8300000429153,0.77,md,10,181,0.008659,0.01,nc,nc75112291,2025-01-03T03:04:56.682Z,"9 km NW of The Geysers, CA",earthquake,0.46,0.620000005,0.33,12,automatic,nc,nc
 2025-01-03T02:58:21.593Z,39.2581,-120.1238,10.6,0.7,ml,8,119.69,0.05,0.0731,nn,nn00891285,2025-01-03T03:00:09.317Z,"5 km NW of Carnelian Bay, California",earthquake,,0.8,0.35,5,automatic,nn,nn
 2025-01-03T02:53:14.630Z,33.7665,-115.9586667,0.28,1.1,ml,39,67,0.1141,0.2,ci,ci40832799,2025-01-03T02:56:45.051Z,"22 km NE of Thermal, CA",earthquake,0.19,0.33,0.118,26,automatic,ci,ci
+2025-01-03T02:52:35.692Z,9.4006,39.9227,10,4.5,mb,40,135,3.57,0.91,us,us6000phcx,2025-01-03T03:05:24.040Z,"52 km SSE of Debre Sīna, Ethiopia",earthquake,12.53,1.944,0.096,32,reviewed,us,us
 2025-01-03T02:52:24.060Z,61.2288,-144.5866,250,2.3,ml,,,,0.88,ak,ak0255043s6,2025-01-03T02:54:28.116Z,"32 km SSW of Chitina, Alaska",earthquake,,5.2,,,automatic,ak,ak
 2025-01-03T02:43:19.000Z,61.5903,-152.0773,90.1,1.8,ml,,,,0.63,ak,ak0255025y4,2025-01-03T02:45:46.621Z,"57 km SW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-03T02:37:11.410Z,19.378999710083,-155.2371673584,0.30000001192093,1.83,ml,9,120,0.006304,0.0799999982,hv,hv74582787,2025-01-03T02:40:12.630Z,"7 km S of Volcano, Hawaii",earthquake,0.2,0.170000002,0.32,4,automatic,hv,hv
@@ -9,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T02:33:22.940Z,33.7656667,-115.9546667,0.73,1.07,ml,36,45,0.1118,0.18,ci,ci40832775,2025-01-03T02:37:37.428Z,"22 km NE of Thermal, CA",earthquake,0.19,0.59,0.116,27,automatic,ci,ci
 2025-01-03T02:33:22.592Z,-58.7538,-25.9594,135.831,5.5,mb,117,38,7.344,0.76,us,us6000phce,2025-01-03T02:53:45.348Z,"South Sandwich Islands region",earthquake,10.57,6.863,0.051,135,reviewed,us,us
 2025-01-03T02:32:10.871Z,37.3768,-117.0981,0,0.7,ml,8,216.34,0.15,0.3106,nn,nn00891283,2025-01-03T02:34:18.877Z,"38 km SSE of Goldfield, Nevada",earthquake,,16.8,0.51,4,automatic,nn,nn
-2025-01-03T02:29:41.572Z,61.2948,-152.2677,9.1,1,ml,,,,0.75,ak,ak0254zz7nx,2025-01-03T02:32:11.408Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-01-03T02:29:41.572Z,61.2948,-152.2677,9.1,1,ml,,,,0.75,ak,ak0254zz7nx,2025-01-03T03:11:08.430Z,"65 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-03T02:28:15.420Z,38.82833480835,-122.80333709717,4.9099998474121,0.69,md,7,166,0.007213,0.04,nc,nc75112281,2025-01-03T02:29:51.550Z,"7 km NNW of The Geysers, CA",earthquake,1.75,2.83999991,0.18,7,automatic,nc,nc
 2025-01-03T02:18:56.390Z,18.793333333333,-155.33316666667,30.85,2.97,ml,54,271,0.3564,0.13,hv,hv74582777,2025-01-03T02:46:54.288Z,"39 km SE of Naalehu, Hawaii",earthquake,0.5,1.47,0.18018906847425,31,reviewed,hv,hv
 2025-01-03T02:12:43.740Z,61.6825,-151.8285,98.7,1.8,ml,,,,0.38,ak,ak0254zvknq,2025-01-03T02:14:41.001Z,"41 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -302,13 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-02T03:18:16.160Z,34.3688333,-120.156,1.08,2.29,ml,34,133,0.1178,0.25,ci,ci40831935,2025-01-02T03:21:44.159Z,"25 km S of Solvang, CA",earthquake,0.39,0.72,0.213,27,automatic,ci,ci
 2025-01-02T03:17:56.869Z,9.0652,40.0418,10,4.2,mb,21,141,3.69,0.75,us,us6000pgzy,2025-01-02T03:53:18.530Z,"16 km WNW of Āwash, Ethiopia",earthquake,8.29,1.797,0.167,10,reviewed,us,us
 2025-01-02T03:17:51.880Z,38.83150100708,-122.78033447266,1.2599999904633,0.78,md,7,93,0.008204,0,nc,nc75111521,2025-01-02T03:19:28.019Z,"5 km WNW of Cobb, CA",earthquake,0.78,1.05999994,0.21,9,automatic,nc,nc
-2025-01-02T03:14:49.110Z,62.1209,-148.0444,40.3,1.7,ml,,,,0.7,ak,ak0253cy3mk,2025-01-02T03:17:15.155Z,"40 km NNW of Glacier View, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-01-02T03:14:05.390Z,38.81583404541,-122.81483459473,9.7700004577637,0.59,md,7,199,0.008416,0.03,nc,nc75111511,2025-01-02T03:15:42.311Z,"7 km NW of The Geysers, CA",earthquake,1.66,5.38000011,0.36,7,automatic,nc,nc
-2025-01-02T03:10:43.540Z,40.201667785645,-121.0753326416,1.9500000476837,1.76,md,10,92,0.1808,0.16,nc,nc75111496,2025-01-02T03:12:17.084Z,"4 km NNE of Canyondam, CA",earthquake,0.65,9.31999969,0.07,6,automatic,nc,nc
-2025-01-02T03:09:49.900Z,38.828666687012,-122.79333496094,0.56000000238419,1.03,md,12,50,0.01,0.04,nc,nc75111491,2025-01-02T03:11:27.998Z,"6 km WNW of Cobb, CA",earthquake,0.26,0.620000005,0.16,12,automatic,nc,nc
-2025-01-02T03:09:40.100Z,38.827835083008,-122.79566955566,1.4900000095367,1.03,md,15,53,0.01135,0.03,nc,nc75111486,2025-01-02T03:11:18.082Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.519999981,0.11,16,automatic,nc,nc
-2025-01-02T03:09:07.577Z,62.1205,-148.0792,32.3,1.7,ml,,,,0.46,ak,ak0253cwxtx,2025-01-02T03:10:57.901Z,"41 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-02T03:08:20.120Z,38.823501586914,-122.78866577148,1.4299999475479,1.02,md,13,74,0.01198,0.02,nc,nc75111476,2025-01-02T03:09:58.014Z,"6 km WNW of Cobb, CA",earthquake,0.28,0.670000017,0.22,15,automatic,nc,nc
-2025-01-02T03:07:55.852Z,31.621,-104.524,7.6379,2.5,ml,12,75,0.1,0.2,tx,tx2025acbz,2025-01-03T01:24:07.040Z,"63 km SSW of Whites City, New Mexico",earthquake,1.8584357488939,0.94804739165119,0.1,27,reviewed,tx,tx
-2025-01-02T03:07:35.530Z,38.827167510986,-122.79699707031,0.79000002145767,0.71,md,11,58,0.01089,0.01,nc,nc75111466,2025-01-02T03:09:12.943Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.930000007,0.1,11,automatic,nc,nc
-2025-01-02T03:04:56.790Z,38.836833953857,-122.78316497803,1.8899999856949,1.85,md,33,67,0.01214,0.04,nc,nc75111436,2025-01-02T03:07:52.110Z,"5 km WNW of Cobb, CA",earthquake,0.21,0.319999993,0.14,35,automatic,nc,nc
