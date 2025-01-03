@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-03T23:28:49.290Z,33.6969986,-117.1101685,0.68,1.19,ml,17,123,0.05492,0.2,ci,ci40833479,2025-01-03T23:30:54.707Z,"3 km WSW of Winchester, CA",earthquake,0.54,0.92,0.117,9,automatic,ci,ci
+2025-01-03T23:28:49.280Z,33.691,-117.1121667,1.35,1.02,ml,32,71,0.05825,0.24,ci,ci40833479,2025-01-03T23:33:01.460Z,"3 km SW of Winchester, CA",earthquake,0.32,0.42,0.239,32,automatic,ci,ci
 2025-01-03T23:22:44.108Z,39.0818,-119.0136,6,1.4,ml,9,125.32,0.089,0.1793,nn,nn00891362,2025-01-03T23:25:10.943Z,"16 km NE of Yerington, Nevada",earthquake,,1.3,0.08,3,automatic,nn,nn
 2025-01-03T23:19:02.690Z,38.90599822998,-122.78067016602,2.3900001049042,0.85,md,4,153,0.07588,0.14,nc,nc75112636,2025-01-03T23:20:38.350Z,"9 km SSE of Kelseyville, CA",earthquake,2.6,10.6599998,0.61,3,automatic,nc,nc
 2025-01-03T23:16:45.359Z,59.9735,-151.8095,58.1,1.5,ml,,,,0.44,ak,ak0255cejcn,2025-01-03T23:18:50.542Z,"5 km NW of Happy Valley, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T18:43:38.190Z,30.861,-103.424,3.075,1.8,ml,9,84,0.1,0.1,tx,tx2025afce,2025-01-03T19:11:48.206Z,"33 km ESE of Balmorhea, Texas",earthquake,0.76994620566576,1.3959647900254,0.2,9,reviewed,tx,tx
 2025-01-03T18:40:17.790Z,31.682,-104.404,6.0999,1.9,ml,15,68,0,0.2,tx,tx2025afbz,2025-01-03T19:03:11.476Z,"54 km S of Whites City, New Mexico",earthquake,0.75780380559013,0.73446913558691,0.1,13,reviewed,tx,tx
 2025-01-03T18:33:54.020Z,34.2426667,-116.8091667,1.46,1.53,ml,57,30,0.09448,0.15,ci,ci40833223,2025-01-03T18:37:57.572Z,"4 km ESE of Big Bear City, CA",earthquake,0.13,0.32,0.141,31,automatic,ci,ci
-2025-01-03T18:24:24.398Z,37.3755,-117.1289,5.3,1.8,ml,12,144.52,0.129,0.1438,nn,nn00891344,2025-01-03T23:10:36.620Z,"38 km SSE of Goldfield, Nevada",earthquake,,4.1,0.28,7,reviewed,nn,nn
+2025-01-03T18:24:24.372Z,37.3754,-117.1283,6,1.8,ml,28,144.55,0.129,0.1396,nn,nn00891344,2025-01-03T23:38:37.348Z,"38 km SSE of Goldfield, Nevada",earthquake,,2.2,0.28,13,reviewed,nn,nn
 2025-01-03T18:15:00.700Z,33.0396667,-116.3476667,13.51,1.18,ml,48,35,0.08479,0.19,ci,ci40833199,2025-01-03T18:18:46.569Z,"23 km WSW of Ocotillo Wells, CA",earthquake,0.18,0.42,0.185,27,automatic,ci,ci
 2025-01-03T18:14:56.969Z,37.3697,-117.1406,4.6,1.4,ml,23,105.14,0.118,0.1878,nn,nn00891341,2025-01-03T18:17:24.136Z,"38 km SSE of Goldfield, Nevada",earthquake,,1.4,0.22,16,automatic,nn,nn
 2025-01-03T18:11:18.568Z,37.3767,-117.1343,6.2,1.8,ml,38,105.63,0.126,0.1458,nn,nn00891338,2025-01-03T22:51:59.361Z,"37 km SSE of Goldfield, Nevada",earthquake,,2.1,0.37,14,reviewed,nn,nn
@@ -130,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-03T08:41:06.590Z,33.0051667,-116.3633333,5.32,0.53,ml,34,86,0.05184,0.16,ci,ci40832935,2025-01-03T08:45:36.578Z,"24 km ESE of Julian, CA",earthquake,0.19,0.59,0.207,9,automatic,ci,ci
 2025-01-03T08:29:22.467Z,61.198,-147.6343,0,1.2,ml,,,,0.21,ak,ak02553jsjy,2025-01-03T10:36:27.825Z,"63 km NW of Tatitlek, Alaska",ice quake,,0,,,reviewed,ak,ak
 2025-01-03T08:24:31.910Z,33.5768333,-116.733,12.22,0.85,ml,36,44,0.01196,0.19,ci,ci40832927,2025-01-03T08:31:58.317Z,"6 km WNW of Anza, CA",earthquake,0.24,0.38,0.222,27,automatic,ci,ci
-2025-01-03T08:24:23.680Z,33.475,-116.9176667,7.1,0.49,ml,17,102,0.008569,0.21,ci,ci40832919,2025-01-03T23:25:38.984Z,"6 km NW of Aguanga, CA",earthquake,0.49,0.66,0.146,13,automatic,ci,ci
+2025-01-03T08:24:23.720Z,33.4773333,-116.92,6.75,0.43,ml,21,54,0.008456,0.17,ci,ci40832919,2025-01-03T23:38:23.267Z,"6 km NW of Aguanga, CA",earthquake,0.25,0.43,0.206,17,reviewed,ci,ci
 2025-01-03T08:20:20.267Z,61.8101,-149.7146,39.2,1.8,ml,,,,0.3,ak,ak02553hu7e,2025-01-03T08:21:53.514Z,"18 km ENE of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-01-03T08:17:01.166Z,31.693,-101.966,3.9592,1.5,ml,25,72,0.1,0.4,tx,tx2025aehl,2025-01-03T08:22:32.082Z,"35 km SSE of Midland, Texas",earthquake,0,1.271452665329,0.1,17,automatic,tx,tx
 2025-01-03T08:16:32.921Z,36.7973,-116.078,6.7,-0.2,ml,14,172.82,0.017,0.0564,nn,nn00891334,2025-01-03T14:59:58.800Z,"44 km NW of Indian Springs, Nevada",earthquake,,1.2,0.09,5,reviewed,nn,nn
