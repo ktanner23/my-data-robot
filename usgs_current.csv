@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-06T19:08:44.750Z,38.792499542236,-122.77899932861,1.960000038147,0.75,md,12,92,0.007003,0.02,nc,nc75113726,2025-01-06T19:10:20.000Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.620000005,0.04,13,automatic,nc,nc
 2025-01-06T19:07:51.610Z,38.791500091553,-122.77700042725,1.5900000333786,1.33,md,27,79,0.008695,0.04,nc,nc75113721,2025-01-06T19:09:30.373Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.310000002,0.17,26,automatic,nc,nc
-2025-01-06T19:04:11.060Z,38.791831970215,-122.7773361206,1.539999961853,1.55,md,30,78,0.008378,0.03,nc,nc75113716,2025-01-06T19:07:07.110Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.12,28,automatic,nc,nc
+2025-01-06T19:04:11.060Z,38.791831970215,-122.7773361206,1.539999961853,1.55,md,30,78,0.008378,0.03,nc,nc75113716,2025-01-06T19:27:15.179Z,"2 km NW of The Geysers, CA",earthquake,0.19,0.289999992,0.12,28,automatic,nc,nc
 2025-01-06T19:02:03.230Z,38.79016494751,-122.76750183106,1.6499999761581,0.84,md,14,76,0.01209,0.02,nc,nc75113711,2025-01-06T19:03:40.052Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.50999999,0.13,16,automatic,nc,nc
 2025-01-06T18:59:18.660Z,39.342334747315,-123.25550079346,1.8500000238419,1.21,md,7,123,0.1037,0.02,nc,nc75113706,2025-01-06T19:17:17.108Z,"10 km NNW of Redwood Valley, CA",earthquake,0.5,6.86999989,0.04,5,automatic,nc,nc
 2025-01-06T18:53:23.660Z,33.8818333,-116.8855,11.58,1.01,ml,26,62,0.08771,0.2,ci,ci40834839,2025-01-06T18:58:35.142Z,"5 km S of Banning, CA",earthquake,0.29,0.9,0.305,29,automatic,ci,ci
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T09:09:33.972Z,39.1355,-119.0726,10.7,0.8,ml,8,126.06,0.042,0.0353,nn,nn00891466,2025-01-06T09:11:31.057Z,"18 km NNE of Yerington, Nevada",earthquake,,0.5,0.19,2,automatic,nn,nn
 2025-01-06T08:59:03.020Z,33.3643333,-116.8243333,8.36,0.85,ml,53,24,0.0338,0.2,ci,ci40834447,2025-01-06T09:03:25.196Z,"4 km ENE of Palomar Observatory, CA",earthquake,0.17,0.53,0.133,26,automatic,ci,ci
 2025-01-06T08:51:04.540Z,38.835998535156,-122.81649780273,1.75,1.11,md,15,64,0.01355,0.01,nc,nc75113506,2025-01-06T09:22:16.992Z,"8 km WNW of Cobb, CA",earthquake,0.24,0.689999998,0.19,17,automatic,nc,nc
-2025-01-06T08:44:11.270Z,35.4163333,-118.1983333,5.05,0.74,ml,26,72,0.129,0.15,ci,ci40834439,2025-01-06T08:47:40.084Z,"33 km SE of Bodfish, CA",earthquake,0.19,1.21,0.14,12,automatic,ci,ci
+2025-01-06T08:44:11.240Z,35.4176667,-118.2,4.36,0.74,ml,26,72,0.1283,0.14,ci,ci40834439,2025-01-06T19:25:14.149Z,"32 km SE of Bodfish, CA",earthquake,0.18,0.72,0.148,12,reviewed,ci,ci
 2025-01-06T08:38:38.266Z,61.3026,-152.2729,3.5,0.4,ml,,,,0.09,ak,ak025a27ryq,2025-01-06T08:40:28.420Z,"66 km WNW of Beluga, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-01-06T08:26:56.290Z,38.795501708984,-122.76533508301,1.0299999713898,0.74,md,6,123,0.006744,0.01,nc,nc75113501,2025-01-06T08:28:32.738Z,"2 km  of The Geysers, CA",earthquake,0.39,2.51999998,0.42,9,automatic,nc,nc
 2025-01-06T08:17:51.657Z,31.669,-104.307,7.4585,2.2,ml,20,67,0,0.1,tx,tx2025ajty,2025-01-06T14:39:25.763Z,"56 km S of Whites City, New Mexico",earthquake,0.964492241468,0.64526450574067,0.1,18,reviewed,tx,tx
@@ -211,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-05T19:53:02.960Z,35.3496667,-117.7926667,4.38,1.07,ml,33,70,0.09286,0.19,ci,ci40834199,2025-01-05T21:38:56.707Z,"15 km W of Johannesburg, CA",earthquake,0.21,0.56,0.192,28,reviewed,ci,ci
 2025-01-05T19:48:50.515Z,9.4181,39.9904,10,4.3,mb,18,232,3.507,0.42,us,us6000pi1v,2025-01-05T21:04:12.040Z,"51 km NNW of Āwash, Ethiopia",earthquake,15.7,2.004,0.178,9,reviewed,us,us
 2025-01-05T19:30:14.965Z,62.0103,-151.3478,81,2.1,ml,,,,0.52,ak,ak0258l6flk,2025-01-05T19:32:06.351Z,"3 km NE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-01-05T19:20:58.960Z,33.1645,-115.9593333,8.73,1.06,ml,31,64,0.1174,0.21,ci,ci40834191,2025-01-05T19:24:58.033Z,"15 km S of Salton City, CA",earthquake,0.23,1.13,0.154,28,automatic,ci,ci
