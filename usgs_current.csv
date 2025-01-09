@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T07:37:09.200Z,40.344665527344,-124.71966552734,15.930000305176,2.72,md,13,311,0.2937,0.08,nc,nc75114831,2025-01-09T08:22:15.452Z,"37 km WNW of Petrolia, CA",earthquake,4.22,1.22000003,0.2,16,automatic,nc,nc
 2025-01-09T07:32:58.724Z,62.0679,-150.2937,55.9,1.5,ml,,,,0.61,ak,ak025f0754g,2025-01-09T07:34:39.216Z,"25 km WSW of Susitna North, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-01-09T07:29:06.900Z,40.258335113525,-124.56116485596,17.110000610352,2.53,ml,19,288,0.1699,0.1,nc,nc75114826,2025-01-09T08:07:18.346Z,"25 km W of Petrolia, CA",earthquake,2.39,0.769999981,1.8,4,automatic,nc,nc
-2025-01-09T07:22:17.294Z,31.659,-104.349,4.2814,2.1,ml,18,69,0.1,0.1,tx,tx2025apev,2025-01-09T07:32:43.063Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3847674131393,0.2,13,automatic,tx,tx
+2025-01-09T07:22:16.709Z,31.665,-104.35,7.8558,2.1,ml,24,69,0.1,0.1,tx,tx2025apev,2025-01-09T13:32:25.110Z,"56 km S of Whites City, New Mexico",earthquake,0.43952083397071,0.62237350978976,0.2,29,reviewed,tx,tx
 2025-01-09T07:12:09.190Z,33.1456667,-116.5156667,8.69,0.89,ml,49,39,0.09421,0.18,ci,ci40836375,2025-01-09T07:16:30.136Z,"11 km NE of Julian, CA",earthquake,0.17,0.53,0.193,28,automatic,ci,ci
 2025-01-09T07:09:20.868Z,31.66,-104.338,4.1838,2.4,ml,23,112,0.1,0.3,tx,tx2025apel,2025-01-09T07:40:32.123Z,"57 km S of Whites City, New Mexico",earthquake,0,1.110851764679,0.2,19,automatic,tx,tx
 2025-01-09T07:04:37.100Z,40.360000610352,-124.72866821289,11.89999961853,2.66,md,13,322,0.3037,0.08,nc,nc75114821,2025-01-09T07:52:17.247Z,"38 km WNW of Petrolia, CA",earthquake,7.46,1.71000004,0.13,10,automatic,nc,nc
@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T05:30:19.578Z,56.1499,-149.5122,5,3.1,ml,,,,0.49,ak,ak025eyzrbs,2025-01-09T07:23:03.893Z,"234 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2025-01-09T05:25:34.267Z,9.1662,40.1913,10,4.5,mb,24,116,3.513,0.88,us,us6000piuk,2025-01-09T07:35:36.040Z,"20 km N of Āwash, Ethiopia",earthquake,8.83,1.876,0.145,14,reviewed,us,us
 2025-01-09T05:23:59.468Z,59.7113,-153.1899,95.7,2,ml,,,,0.39,ak,ak025eyyciy,2025-01-09T07:27:25.040Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-09T05:10:28.270Z,36.889331817627,-121.63933563232,7.0300002098083,3,ml,69,39,0.04524,0.22,nc,nc75114761,2025-01-09T08:06:41.464Z,"0 km E of Aromas, CA",earthquake,0.26,0.769999981,0.249,23,automatic,nc,nc
+2025-01-09T05:10:28.270Z,36.889331817627,-121.63933563232,7.0300002098083,3,ml,69,39,0.04524,0.22,nc,nc75114761,2025-01-09T13:34:30.844Z,"0 km E of Aromas, CA",earthquake,0.26,0.769999981,0.249,23,automatic,nc,nc
 2025-01-09T05:00:12.690Z,38.812000274658,-122.82566833496,2.329999923706,0.74,md,12,79,0.004159,0.03,nc,nc75114756,2025-01-09T05:01:48.436Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.579999983,0.44,15,automatic,nc,nc
 2025-01-09T04:41:49.263Z,32.5285,-104.6325,10.028,2.7,ml,42,53,0.646,0.54,us,us6000pit4,2025-01-09T09:10:24.582Z,"32 km SSE of Hope, New Mexico",earthquake,3.14,8.489,0.091,16,reviewed,us,us
 2025-01-09T04:38:40.264Z,9.2724,40.1191,10,4.5,mb,30,256,3.498,0.87,us,us6000pit5,2025-01-09T05:32:51.772Z,"32 km N of Āwash, Ethiopia",earthquake,8.75,2.007,0.118,21,reviewed,us,us
@@ -71,6 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T03:52:17.871Z,31.666,-104.357,5.946,4.2,ml,28,57,0.1,0.1,tx,tx2025aoxt,2025-01-09T06:00:54.150Z,"56 km S of Whites City, New Mexico",earthquake,0.77887642233657,0.92885686285869,0.1,8,reviewed,tx,tx
 2025-01-09T03:48:18.376Z,36.9226,-116.1477,1.9,0.2,ml,12,111.07,0.074,0.2488,nn,nn00891628,2025-01-09T03:50:05.953Z,"54 km E of Beatty, Nevada",earthquake,,3.1,0.3,9,automatic,nn,nn
 2025-01-09T03:37:53.124Z,37.5798,-117.1734,12.5,1.5,ml,18,164.48,0.61,0.4291,nn,nn00891627,2025-01-09T03:40:36.250Z,"15 km SSE of Goldfield, Nevada",earthquake,,1.1,0.3,12,automatic,nn,nn
+2025-01-09T03:34:01.410Z,48.611333333333,-123.09783333333,10.98,1.33,ml,20,97,0.01891,0.06,uw,uw62061872,2025-01-09T13:30:57.160Z,"10 km NW of Friday Harbor, Washington",earthquake,0.2,0.23,0.22567439273049,11,reviewed,uw,uw
 2025-01-09T03:33:41.956Z,7.1396,-72.8524,182.37,4.3,mb,58,58,1.26,0.81,us,us6000pisv,2025-01-09T04:30:27.040Z,"12 km SW of Silos, Colombia",earthquake,8.05,8.85,0.082,42,reviewed,us,us
 2025-01-09T03:27:45.950Z,38.830165863037,-122.81466674805,1.710000038147,1.25,md,24,44,0.01739,0.03,nc,nc75114736,2025-01-09T04:07:16.634Z,"8 km NNW of The Geysers, CA",earthquake,0.17,0.409999996,0.16,27,automatic,nc,nc
 2025-01-09T03:16:33.595Z,39.0876,-119.0196,6.8,1.2,ml,12,86.13,0.083,0.1387,nn,nn00891625,2025-01-09T03:18:45.182Z,"16 km NE of Yerington, Nevada",earthquake,,0.8,0.25,4,automatic,nn,nn
@@ -127,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T20:58:56.848Z,53.0637,-35.1906,10,4.7,mb,41,153,15.879,0.47,us,us6000piqq,2025-01-08T21:49:00.040Z,"Reykjanes Ridge",earthquake,13.62,1.941,0.089,38,reviewed,us,us
 2025-01-08T20:56:16.094Z,9.0512,40.0639,10,4.6,mb,41,222,3.683,0.56,us,us6000piql,2025-01-08T22:29:27.030Z,"13 km WNW of Āwash, Ethiopia",earthquake,14.9,2.001,0.096,32,reviewed,us,us
 2025-01-08T20:52:25.663Z,62.5274,-150.9095,69.6,1.6,ml,,,,0.77,ak,ak025dkin9i,2025-01-08T20:54:15.098Z,"8 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-08T20:45:54.539Z,36.25633333,-95.82316667,0,1.15,ml,22,207,0.3464320182,0.44,ok,ok2025aojq,2025-01-09T13:29:43.722Z,"3 km ESE of Owasso, Oklahoma",quarry blast,,0.5,0.22,12,reviewed,ok,ok
 2025-01-08T20:42:59.062Z,65.0061,-147.3842,1.6,1.5,ml,,,,0.61,ak,ak025dkgkoi,2025-01-08T20:44:54.773Z,"12 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-08T20:31:45.824Z,31.648,-104.202,3.5938,1.5,ml,13,64,0.1,0.4,tx,tx2025aojd,2025-01-08T21:01:11.330Z,"53 km NW of Toyah, Texas",earthquake,0,1.451553940773,0.3,11,automatic,tx,tx
 2025-01-08T20:30:18.930Z,-23.1512,-70.8177,18.752,4.6,mwr,75,144,0.434,0.83,us,us6000piqd,2025-01-08T20:49:07.040Z,"38 km W of Mejillones, Chile",earthquake,6.03,4.506,0.05,38,reviewed,us,us
