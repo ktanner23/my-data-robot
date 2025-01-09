@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-09T15:58:54.200Z,38.791831970215,-122.77633666992,1.4400000572205,1.48,md,21,79,0.00915,0.03,nc,nc75114916,2025-01-09T16:00:32.983Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.349999994,0.24,22,automatic,nc,nc
+2025-01-09T15:58:54.200Z,38.791831970215,-122.77633666992,1.4400000572205,1.48,md,21,79,0.00915,0.03,nc,nc75114916,2025-01-09T16:22:14.696Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.349999994,0.24,22,automatic,nc,nc
 2025-01-09T15:45:06.990Z,38.791999816895,-122.77633666992,1.3799999952316,1.88,md,32,79,0.009127,0.04,nc,nc75114906,2025-01-09T16:07:17.684Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.280000001,0.14,34,automatic,nc,nc
 2025-01-09T15:42:12.898Z,61.6389,-149.7623,31.6,2.2,ml,,,,0.53,ak,ak025f50nl5,2025-01-09T15:44:02.784Z,"3 km ENE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-09T15:41:06.267Z,61.8111,-150.9721,26.8,1.5,ml,,,,0.5,ak,ak025f50fcy,2025-01-09T15:42:45.090Z,"29 km SE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -20,6 +20,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T13:34:57.787Z,31.664,-104.34,6.9971,1.7,ml,18,68,0.1,0.3,tx,tx2025apqx,2025-01-09T14:38:26.018Z,"56 km S of Whites City, New Mexico",earthquake,0.951247072712,0.85992711910639,0.2,14,reviewed,tx,tx
 2025-01-09T13:05:08.088Z,61.5157,-150.8162,62,1.8,ml,,,,0.48,ak,ak025f3luig,2025-01-09T13:07:37.165Z,"16 km W of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-09T13:00:01.292Z,61.2576,-147.4345,33.8,1.7,ml,,,,0.16,ak,ak025f3krel,2025-01-09T13:02:15.180Z,"59 km NW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-09T12:50:56.320Z,44.584166666667,-112.48583333333,6.87,1.01,ml,10,118,0.06604,0.09,mb,mb90070593,2025-01-09T16:17:43.930Z,"10 km SE of Lima, Montana",earthquake,0.39,0.65,0.24040192514647,11,reviewed,mb,mb
+2025-01-09T12:45:42.130Z,44.5795,-112.4895,7.16,0.85,ml,9,121,0.06942,0.16,mb,mb90070588,2025-01-09T16:11:37.170Z,"10 km SE of Lima, Montana",earthquake,0.57,0.96,0.26090735273226,5,reviewed,mb,mb
 2025-01-09T12:42:49.720Z,44.589166666667,-112.48783333333,7.11,0.71,ml,9,146,0.06696,0.11,mb,mb90070583,2025-01-09T16:02:59.760Z,"9 km ESE of Lima, Montana",earthquake,0.4,0.68,0.15563400805919,4,reviewed,mb,mb
 2025-01-09T12:37:03.110Z,38.81583404541,-122.7816696167,1.4099999666214,1.29,md,14,99,0.002684,0.02,nc,nc75114866,2025-01-09T13:07:16.375Z,"5 km NNW of The Geysers, CA",earthquake,0.3,0.550000012,0.2,15,automatic,nc,nc
 2025-01-09T12:23:37.750Z,32.9528333,-115.4965,7.95,1.27,ml,26,90,0.07443,0.25,ci,ci40836439,2025-01-09T12:27:43.180Z,"4 km SE of Brawley, CA",earthquake,0.32,0.72,0.251,21,automatic,ci,ci
@@ -48,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T07:58:40.370Z,40.304332733154,-124.58699798584,10.289999961853,2.49,md,15,283,0.1876,0.11,nc,nc75114841,2025-01-09T14:32:34.627Z,"26 km W of Petrolia, CA",earthquake,2.33,0.889999986,0.13,11,automatic,nc,nc
 2025-01-09T07:54:43.550Z,45.410666666667,-111.06266666667,12.45,1.36,ml,15,72,0.2446,0.19,mb,mb90070568,2025-01-09T15:32:26.270Z,"22 km WNW of South Glastonbury, Montana",earthquake,0.59,1.67,0.15142539656508,18,reviewed,mb,mb
 2025-01-09T07:52:12.990Z,18.3356,-68.0148,102,3.73,md,11,179,0.9132,0.5,pr,pr2025009001,2025-01-09T08:16:45.444Z,"49 km ESE of Punta Cana, Dominican Republic",earthquake,4.66,3.48,0.09,7,reviewed,pr,pr
-2025-01-09T07:50:10.390Z,33.9481667,-118.3561667,7.11,1.93,ml,43,105,0.01802,0.27,ci,ci40836391,2025-01-09T12:40:30.070Z,"1 km NNW of Lennox, CA",earthquake,0.34,0.52,0.204,25,automatic,ci,ci
+2025-01-09T07:50:10.180Z,33.9495,-118.3521667,8.89,1.84,ml,55,70,0.01457,0.26,ci,ci40836391,2025-01-09T16:17:59.576Z,"1 km SSW of Inglewood, CA",earthquake,0.28,0.45,0.205,69,reviewed,ci,ci
 2025-01-09T07:50:06.650Z,33.8773333,-117.817,9.51,0.9,ml,16,81,0.0415,0.2,ci,ci40836383,2025-01-09T15:28:51.290Z,"1 km SSW of Yorba Linda, CA",earthquake,0.38,0.87,0.179,10,reviewed,ci,ci
 2025-01-09T07:49:20.800Z,38.822498321533,-122.84366607666,2.2300000190735,0.75,md,11,113,0.006774,0.01,nc,nc75114836,2025-01-09T07:50:58.584Z,"9 km NW of The Geysers, CA",earthquake,0.35,0.680000007,0.29,12,automatic,nc,nc
 2025-01-09T07:37:09.200Z,40.344665527344,-124.71966552734,15.930000305176,2.72,md,13,311,0.2937,0.08,nc,nc75114831,2025-01-09T08:22:15.452Z,"37 km WNW of Petrolia, CA",earthquake,4.22,1.22000003,0.2,16,automatic,nc,nc
@@ -80,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T05:30:19.578Z,56.1499,-149.5122,5,3.1,ml,,,,0.49,ak,ak025eyzrbs,2025-01-09T07:23:03.893Z,"234 km SE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
 2025-01-09T05:25:34.267Z,9.1662,40.1913,10,4.5,mb,24,116,3.513,0.88,us,us6000piuk,2025-01-09T07:35:36.040Z,"20 km N of Āwash, Ethiopia",earthquake,8.83,1.876,0.145,14,reviewed,us,us
 2025-01-09T05:23:59.468Z,59.7113,-153.1899,95.7,2,ml,,,,0.39,ak,ak025eyyciy,2025-01-09T07:27:25.040Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-09T05:10:28.270Z,36.889331817627,-121.63933563232,7.0300002098083,3,ml,69,39,0.04524,0.22,nc,nc75114761,2025-01-09T15:15:39.309Z,"0 km E of Aromas, CA",earthquake,0.26,0.769999981,0.249,23,automatic,nc,nc
+2025-01-09T05:10:28.270Z,36.889331817627,-121.63933563232,7.0300002098083,3,ml,69,39,0.04524,0.22,nc,nc75114761,2025-01-09T16:08:42.144Z,"0 km E of Aromas, CA",earthquake,0.26,0.769999981,0.249,23,automatic,nc,nc
 2025-01-09T05:00:12.690Z,38.812000274658,-122.82566833496,2.329999923706,0.74,md,12,79,0.004159,0.03,nc,nc75114756,2025-01-09T05:01:48.436Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.579999983,0.44,15,automatic,nc,nc
 2025-01-09T04:41:49.263Z,32.5285,-104.6325,10.028,2.7,ml,42,53,0.646,0.54,us,us6000pit4,2025-01-09T09:10:24.582Z,"32 km SSE of Hope, New Mexico",earthquake,3.14,8.489,0.091,16,reviewed,us,us
 2025-01-09T04:38:40.264Z,9.2724,40.1191,10,4.5,mb,30,256,3.498,0.87,us,us6000pit5,2025-01-09T05:32:51.772Z,"32 km N of Āwash, Ethiopia",earthquake,8.75,2.007,0.118,21,reviewed,us,us
