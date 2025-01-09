@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-09T17:55:47.837Z,39.1838,-119.0338,6.3,1.2,ml,10,122.3,0.013,0.0608,nn,nn00891662,2025-01-09T17:57:58.555Z,"24 km NNE of Yerington, Nevada",earthquake,,0.4,0.23,4,automatic,nn,nn
-2025-01-09T17:43:27.351Z,59.3566,-152.133,60.1,2.5,ml,,,,0.76,ak,ak025f67rmn,2025-01-09T17:45:49.803Z,"12 km W of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
+2025-01-09T17:43:27.351Z,59.3566,-152.133,60.1,2.5,ml,,,,0.76,ak,ak025f67rmn,2025-01-09T18:01:27.040Z,"12 km W of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-09T17:38:14.812Z,60.0829,-152.0184,49.2,1.6,ml,,,,0.1,ak,ak025f66o2x,2025-01-09T17:39:42.927Z,"19 km W of Ninilchik, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2025-01-09T17:32:44.801Z,37.3817,-117.1328,0.5,0.9,ml,9,193.07,0.13,0.2949,nn,nn00891660,2025-01-09T17:34:57.867Z,"37 km SSE of Goldfield, Nevada",earthquake,,21.5,0.4,6,automatic,nn,nn
 2025-01-09T17:25:36.756Z,36.7714,-115.9658,16,0.2,ml,8,179.81,0.046,0.3089,nn,nn00891659,2025-01-09T17:28:07.811Z,"34 km NW of Indian Springs, Nevada",earthquake,,4.2,0.2,2,automatic,nn,nn
@@ -26,8 +26,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T15:42:12.898Z,61.6389,-149.7623,31.6,2.2,ml,,,,0.53,ak,ak025f50nl5,2025-01-09T15:44:02.784Z,"3 km ENE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-09T15:41:06.267Z,61.8111,-150.9721,26.8,1.5,ml,,,,0.5,ak,ak025f50fcy,2025-01-09T15:42:45.090Z,"29 km SE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-09T15:37:14.800Z,63.2658,-151.0793,4.3,1.8,ml,,,,0.43,ak,ak025f4zl5k,2025-01-09T15:39:37.220Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-09T15:19:40.970Z,32.9426667,-116.3376667,4.14,2.09,ml,70,39,0.06789,0.2,ci,ci40836479,2025-01-09T15:30:42.000Z,"22 km NE of Pine Valley, CA",earthquake,0.14,0.52,0.124,26,automatic,ci,ci
-2025-01-09T15:09:38.820Z,33.3936667,-116.383,5.5,0.96,ml,35,44,0.06807,0.17,ci,ci40836471,2025-01-09T15:14:43.075Z,"15 km N of Borrego Springs, CA",earthquake,0.18,0.7,0.127,21,automatic,ci,ci
+2025-01-09T15:19:40.920Z,32.9428333,-116.3381667,4.51,2.09,ml,66,25,0.06744,0.19,ci,ci40836479,2025-01-09T18:03:37.500Z,"22 km NE of Pine Valley, CA",earthquake,0.14,0.54,0.122,26,reviewed,ci,ci
+2025-01-09T15:09:38.700Z,33.3906667,-116.378,7.46,0.98,ml,26,82,0.06381,0.15,ci,ci40836471,2025-01-09T18:05:45.838Z,"15 km N of Borrego Springs, CA",earthquake,0.21,0.59,0.113,17,reviewed,ci,ci
 2025-01-09T15:08:32.820Z,38.766666412354,-122.72450256348,0.85000002384186,1.59,md,8,84,0.005074,0.04,nc,nc75114896,2025-01-09T16:27:17.732Z,"3 km W of Anderson Springs, CA",earthquake,0.35,0.330000013,0.37,9,automatic,nc,nc
 2025-01-09T15:00:26.450Z,38.826168060303,-122.85333251953,2.5299999713898,1.24,md,22,80,0.003088,0.02,nc,nc75114891,2025-01-09T16:07:17.583Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.19,23,automatic,nc,nc
 2025-01-09T15:00:13.115Z,32.543,-101.143,2.6424,1.2,ml,8,119,0.1,0.3,tx,tx2025aptx,2025-01-09T15:08:16.195Z,"24 km NNW of Westbrook, Texas",earthquake,0,2.0294687747955,0.3,7,automatic,tx,tx
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-09T04:07:03.550Z,38.822498321533,-122.78549957275,-0.17000000178814,0.79,md,8,100,0.009963,0.01,nc,nc75114746,2025-01-09T04:08:37.781Z,"5 km WNW of Cobb, CA",earthquake,0.41,1.59000003,0.22,8,automatic,nc,nc
 2025-01-09T04:04:43.159Z,60.5756,-147.1971,4,2.1,ml,,,,0.8,ak,ak025ey8t23,2025-01-09T04:06:51.952Z,"42 km SW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-09T03:57:00.947Z,31.656,-104.358,7.7917,2,ml,24,70,0.1,0.3,tx,tx2025aoyc,2025-01-09T14:17:24.528Z,"57 km S of Whites City, New Mexico",earthquake,0.60363754558748,0.87641732458611,0.1,19,reviewed,tx,tx
-2025-01-09T03:52:17.871Z,31.666,-104.357,5.946,4.2,ml,28,57,0.1,0.1,tx,tx2025aoxt,2025-01-09T17:11:04.694Z,"56 km S of Whites City, New Mexico",earthquake,0.77887642233657,0.92885686285869,0.1,8,reviewed,tx,tx
+2025-01-09T03:52:17.871Z,31.666,-104.357,5.946,4.2,ml,28,57,0.1,0.1,tx,tx2025aoxt,2025-01-09T18:08:51.858Z,"56 km S of Whites City, New Mexico",earthquake,0.77887642233657,0.92885686285869,0.2,21,reviewed,tx,tx
 2025-01-09T03:48:18.376Z,36.9226,-116.1477,1.9,0.2,ml,12,111.07,0.074,0.2488,nn,nn00891628,2025-01-09T03:50:05.953Z,"54 km E of Beatty, Nevada",earthquake,,3.1,0.3,9,automatic,nn,nn
 2025-01-09T03:37:53.124Z,37.5798,-117.1734,12.5,1.5,ml,18,164.48,0.61,0.4291,nn,nn00891627,2025-01-09T03:40:36.250Z,"15 km SSE of Goldfield, Nevada",earthquake,,1.1,0.3,12,automatic,nn,nn
 2025-01-09T03:34:01.410Z,48.611333333333,-123.09783333333,10.98,1.33,ml,20,97,0.01891,0.06,uw,uw62061872,2025-01-09T13:30:57.160Z,"10 km NW of Friday Harbor, Washington",earthquake,0.2,0.23,0.22567439273049,11,reviewed,uw,uw
@@ -209,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-08T18:49:21.039Z,63.0917,-150.4547,26.9,2.1,ml,,,,1.33,ak,ak025djb4jr,2025-01-08T18:51:36.709Z,"68 km NNE of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-08T18:36:36.817Z,58.0066,-155.5864,1.2,1.2,ml,,,,0.15,ak,ak025dj8dgh,2025-01-08T18:38:09.612Z,"83 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-01-08T18:24:47.152Z,31.566,-104.177,6.9202,1.5,ml,13,71,0,0.1,tx,tx2025aoey,2025-01-09T14:33:43.998Z,"45 km NW of Toyah, Texas",earthquake,1.1671721236533,0.92323394889886,0.2,12,reviewed,tx,tx
-2025-01-08T18:08:39.420Z,36.90950012207,-121.41816711426,6.5599999427795,1.52,md,11,146,0.06358,0.08,nc,nc75114561,2025-01-08T18:42:17.901Z,"7 km  of Hollister, CA",earthquake,0.49,1.19000006,0.17,9,automatic,nc,nc
-2025-01-08T18:01:55.420Z,39.707166666667,-110.82083333333,1.57,1.8,md,10,144,0.06473,0.2,uu,uu80099391,2025-01-08T20:01:08.240Z,"2 km NNW of Kenilworth, Utah",earthquake,0.71,14.13,0.27004641736665,9,reviewed,uu,uu
-2025-01-08T18:01:11.750Z,33.2025,-116.002,7.63,1.3,ml,24,88,0.03537,0.16,ci,ci40836095,2025-01-08T19:04:39.242Z,"12 km SSW of Salton City, CA",earthquake,0.26,0.52,0.296,28,reviewed,ci,ci
