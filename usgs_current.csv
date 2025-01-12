@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-12T23:35:16.484Z,32.413,-102.082,5.5231,1,ml,19,91,0,0.4,tx,tx2025avxf,2025-01-12T23:48:27.950Z,"36 km WSW of Ackerly, Texas",earthquake,0,1.4901062250137,0.2,13,automatic,tx,tx
 2025-01-12T23:31:51.885Z,62.0005,-149.7934,39.2,2.2,ml,,,,0.5,ak,ak025k8bw1g,2025-01-12T23:34:37.953Z,"18 km S of Susitna North, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-12T23:27:03.950Z,33.0318333,-116.3658333,10.79,0.94,ml,47,59,0.07072,0.19,ci,ci40838503,2025-01-12T23:32:14.892Z,"23 km ESE of Julian, CA",earthquake,0.19,0.38,0.138,26,automatic,ci,ci
 2025-01-12T23:16:20.539Z,63.2441,-150.9217,0,2.4,ml,,,,0.93,ak,ak025k88lvp,2025-01-12T23:18:39.142Z,"51 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T17:13:23.996Z,61.7242,-146.9188,22.6,2.1,ml,,,,0.73,ak,ak025k4nddb,2025-01-12T17:15:11.263Z,"27 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-12T17:11:15.780Z,38.793167114258,-122.78199768066,3.579999923706,0.81,md,12,95,0.004627,0.02,nc,nc75116276,2025-01-12T17:12:54.277Z,"3 km NW of The Geysers, CA",earthquake,0.36,0.870000005,0.25,14,automatic,nc,nc
 2025-01-12T16:51:54.690Z,19.170499801636,-155.50166320801,36.619998931885,2.25,ml,54,97,0.04029,0.129999995,hv,hv74590247,2025-01-12T16:55:12.030Z,"4 km SW of Pāhala, Hawaii",earthquake,0.47,0.519999981,0.95,4,automatic,hv,hv
-2025-01-12T16:49:21.980Z,37.960166666667,-122.0425,11.75,3.54,mw,187,21,0.01298,0.27,nc,nc75116271,2025-01-12T23:41:17.069Z,"2 km ENE of Pleasant Hill, CA",earthquake,0.14,0.27,,5,reviewed,nc,nc
+2025-01-12T16:49:21.980Z,37.960166666667,-122.0425,11.75,3.54,mw,187,21,0.01298,0.27,nc,nc75116271,2025-01-12T23:51:48.614Z,"2 km ENE of Pleasant Hill, CA",earthquake,0.14,0.27,,5,reviewed,nc,nc
 2025-01-12T16:38:43.448Z,31.653,-104.486,3.7116,1.4,ml,13,114,0,0.3,tx,tx2025avjm,2025-01-12T16:47:36.077Z,"58 km S of Whites City, New Mexico",earthquake,0,1.6575435400009,0.2,9,automatic,tx,tx
 2025-01-12T16:35:56.350Z,38.838832855225,-122.87683105469,2.670000076294,0.4,md,10,149,0.005207,0.01,nc,nc75116266,2025-01-12T16:37:34.050Z,"12 km NW of The Geysers, CA",earthquake,0.38,0.680000007,0.2,12,automatic,nc,nc
 2025-01-12T16:35:04.180Z,-17.7155,-70.825,94.932,4.4,mb,24,145,0.798,0.86,us,us6000pjkd,2025-01-12T17:14:39.040Z,"13 km SSW of Locumba, Peru",earthquake,8.42,8.281,0.13,17,reviewed,us,us
@@ -144,10 +145,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T01:05:19.000Z,37.520832061768,-122.05549621582,5.1500000953674,2.14,md,6,190,0.3566,0.37,nc,nc75116076,2025-01-12T01:52:17.708Z,"2 km WSW of Newark, CA",earthquake,7.74,21.6700001,,1,automatic,nc,nc
 2025-01-12T01:03:59.980Z,38.824501037598,-122.85083007812,2.0299999713898,0.7,md,8,167,0.005614,0.01,nc,nc75116071,2025-01-12T01:05:35.291Z,"10 km NW of The Geysers, CA",earthquake,0.48,1.08000004,0.08,10,automatic,nc,nc
 2025-01-12T01:02:42.200Z,38.837333679199,-122.83616638184,1.6699999570847,1.37,md,25,77,0.001361,0.03,nc,nc75116066,2025-01-12T01:37:16.619Z,"10 km NW of The Geysers, CA",earthquake,0.19,0.340000004,0.1,26,automatic,nc,nc
+2025-01-12T00:57:03.310Z,61.315,-152.25233333333,4.52,-0.58,ml,7,146,0.06839,0.06,av,av93452986,2025-01-12T23:52:02.040Z,"65 km WNW of Beluga, Alaska",earthquake,0.53,1.34,0.1957167886647,7,reviewed,av,av
 2025-01-12T00:52:52.870Z,36.0355,-117.7778333,2.24,1.02,ml,8,167,0.01447,0.05,ci,ci40838215,2025-01-12T00:56:25.934Z,"15 km E of Coso Junction, CA",earthquake,0.23,0.32,0.108,18,automatic,ci,ci
+2025-01-12T00:48:40.930Z,61.270833333333,-152.25233333333,3.97,-0.27,ml,10,106,0.04733,0.12,av,av93452976,2025-01-12T23:50:12.400Z,"64 km WNW of Tyonek, Alaska",earthquake,0.36,0.21,0.18310132967443,10,reviewed,av,av
 2025-01-12T00:47:12.457Z,-6.1474,147.6047,45.839,4.4,mb,25,104,3.266,0.88,us,us6000pjhh,2025-01-12T04:19:29.040Z,"52 km NNW of Finschhafen, Papua New Guinea",earthquake,10.76,6.278,0.12,22,reviewed,us,us
 2025-01-12T00:38:05.860Z,60.8403,-150.3796,18.2,1.9,ml,,,,0.35,ak,ak025juobl6,2025-01-12T00:39:37.818Z,"19 km ESE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-12T00:31:52.239Z,59.4634,-153.3012,93.5,1.3,ml,,,,0.08,ak,ak025jumx5j,2025-01-12T00:34:12.660Z,"58 km SE of Pedro Bay, Alaska",earthquake,,2,,,automatic,ak,ak
+2025-01-12T00:24:11.890Z,61.330666666667,-152.26233333333,0.66,0.61,ml,8,130,0.08344,0.09,av,av93452936,2025-01-12T23:45:35.090Z,"66 km WNW of Beluga, Alaska",earthquake,0.31,3.21,0.22331591480217,9,reviewed,av,av
 2025-01-12T00:23:25.040Z,61.285333333333,-152.2645,2.9,-0.44,ml,5,202,0.05652,0.1,av,av93029979,2025-01-12T23:37:52.850Z,"65 km WNW of Tyonek, Alaska",earthquake,0.71,1.12,0.19604582552299,5,reviewed,av,av
 2025-01-12T00:23:05.620Z,61.334666666667,-152.263,-2.2,0.3,ml,8,157,0.08681,0.15,av,av93452931,2025-01-12T23:35:52.220Z,"66 km WNW of Beluga, Alaska",earthquake,0.41,1.62,0.24834162898104,8,reviewed,av,av
 2025-01-12T00:22:41.830Z,61.327333333333,-152.25483333333,2.87,-0.13,ml,7,153,0.07857,0.05,av,av93029984,2025-01-12T23:40:28.640Z,"66 km WNW of Beluga, Alaska",earthquake,0.62,1.29,0.16688400923155,7,reviewed,av,av
