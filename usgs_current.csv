@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-13T22:40:10.500Z,36.2476,-115.8152,0.1,1.4,ml,10,279.56,0.431,0.3604,nn,nn00891924,2025-01-13T22:42:26.348Z,"15 km W of Mount Charleston, Nevada",earthquake,,44.3,0.14,8,automatic,nn,nn
-2025-01-13T22:39:33.920Z,37.706001281738,-122.54316711426,8.8800001144409,1.81,md,14,105,0.1042,0.03,nc,nc75116796,2025-01-13T22:41:09.557Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.48,0.970000029,0.23,10,automatic,nc,nc
+2025-01-13T22:39:33.920Z,37.706001281738,-122.54316711426,8.8800001144409,1.81,md,14,105,0.1042,0.03,nc,nc75116796,2025-01-13T22:50:44.799Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.48,0.970000029,0.23,10,automatic,nc,nc
 2025-01-13T22:36:44.718Z,60.3499,-152.255,85.1,1.7,ml,,,,0.51,ak,ak025lvauyf,2025-01-13T22:38:36.661Z,"46 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-01-13T22:26:39.680Z,37.707332611084,-122.55149841309,8.4300003051758,2.3,md,37,108,0.1067,0.06,nc,nc75116786,2025-01-13T22:45:05.654Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.22,0.519999981,0.12,34,automatic,nc,nc
+2025-01-13T22:26:39.680Z,37.707332611084,-122.55149841309,8.4300003051758,2.3,md,37,108,0.1067,0.06,nc,nc75116786,2025-01-13T22:57:17.497Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.22,0.519999981,0.12,34,automatic,nc,nc
 2025-01-13T22:23:32.084Z,-21.3709,-67.9405,187.958,4.4,mb,17,197,1.283,0.49,us,us6000pjtr,2025-01-13T22:35:33.040Z,"36 km ESE of Ollagüe, Chile",earthquake,8.99,8.554,0.155,12,reviewed,us,us
 2025-01-13T22:18:52.708Z,59.0419,-154.1179,92.7,2.2,ml,,,,0.69,ak,ak025lv70om,2025-01-13T22:21:56.489Z,"58 km SE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-13T22:18:11.420Z,37.706165313721,-122.54766845703,7.9200000762939,2.37,md,49,106,0.106,0.12,nc,nc75116781,2025-01-13T22:49:45.022Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.26,0.639999986,0.15,47,automatic,nc,nc
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T08:15:18.480Z,48.022333333333,-123.1685,40.4,1.85,ml,35,53,0.03241,0.15,uw,uw62062207,2025-01-13T16:13:40.670Z,"5 km SSW of River Road, Washington",earthquake,0.41,0.64,0.16317623272505,25,reviewed,uw,uw
 2025-01-13T08:00:30.430Z,38.79666519165,-122.76650238037,3.7799999713898,0.79,md,10,76,0.006617,0.01,nc,nc75116506,2025-01-13T08:02:08.499Z,"2 km  of The Geysers, CA",earthquake,0.51,1.62,0.22,10,automatic,nc,nc
 2025-01-13T07:56:59.850Z,38.821334838867,-122.76483154297,1.8899999856949,1.59,md,26,54,0.009949,0.03,nc,nc75116501,2025-01-13T07:58:38.407Z,"4 km W of Cobb, CA",earthquake,0.22,0.340000004,0.23,29,automatic,nc,nc
-2025-01-13T07:55:59.071Z,32.413,-102.15,8.616,1,ml,12,93,0,0.3,tx,tx2025awnt,2025-01-13T08:09:32.340Z,"37 km ENE of McKinney Acres, Texas",earthquake,0,3.1229765415192,0.2,9,automatic,tx,tx
+2025-01-13T07:56:00.013Z,32.408,-102.161,8.9355,1,ml,12,91,0,0.1,tx,tx2025awnt,2025-01-13T22:57:06.980Z,"36 km ENE of McKinney Acres, Texas",earthquake,0.80422766428016,0.83234908716546,0.1,6,reviewed,tx,tx
 2025-01-13T07:37:28.750Z,33.6775,-116.6838333,17.54,0.6,ml,34,55,0.01198,0.16,ci,ci40838671,2025-01-13T21:07:30.511Z,"8 km SSE of Idyllwild, CA",earthquake,0.2,0.37,0.131,12,reviewed,ci,ci
 2025-01-13T07:08:05.633Z,-6.2073,147.0196,82.174,5,mww,82,41,3.18,0.85,us,us6000pjn2,2025-01-13T11:33:02.702Z,"57 km N of Lae, Papua New Guinea",earthquake,7.59,7.071,0.103,9,reviewed,us,us
 2025-01-13T07:05:33.620Z,33.9303333,-118.2783333,3.43,1.08,ml,17,74,0.02643,0.3,ci,ci40838663,2025-01-13T18:39:21.660Z,"3 km NW of Willowbrook, CA",earthquake,0.51,0.41,0.259,7,reviewed,ci,ci
@@ -137,6 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T06:07:54.139Z,61.0462,-147.1314,18.1,1.8,ml,,,,0.69,ak,ak025lllq7l,2025-01-13T06:11:15.636Z,"31 km NW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-13T06:02:16.550Z,33.8126667,-116.9081667,12.94,0.68,ml,31,85,0.09457,0.19,ci,ci40838639,2025-01-13T14:45:07.721Z,"6 km NE of San Jacinto, CA",earthquake,0.23,0.68,0.092,22,reviewed,ci,ci
 2025-01-13T06:00:02.969Z,-33.7389,-71.8668,35,3.3,ml,22,186,0.528,0.85,us,us6000pjmz,2025-01-13T14:36:00.245Z,"28 km WSW of San Antonio, Chile",earthquake,3.21,2.004,0.056,42,reviewed,us,us
+2025-01-13T05:59:50.790Z,58.170833333333,-155.342,1.38,0.84,ml,8,76,0.03997,0.06,av,av93454711,2025-01-13T22:51:08.550Z,"85 km NW of Karluk, Alaska",earthquake,0.18,0.87,0.25914833292327,8,reviewed,av,av
 2025-01-13T05:55:16.418Z,61.7664,-149.6969,34.3,2.1,ml,,,,0.41,ak,ak025llai3d,2025-01-13T05:56:45.990Z,"16 km NNE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-13T05:53:30.790Z,33.6933333,-116.7163333,17.84,1.21,ml,62,23,0.02104,0.18,ci,ci40838631,2025-01-13T14:46:05.900Z,"5 km S of Idyllwild, CA",earthquake,0.16,0.27,0.194,27,reviewed,ci,ci
 2025-01-13T05:46:31.490Z,33.481,-116.4345,13.33,0.63,ml,27,77,0.132,0.13,ci,ci40838623,2025-01-13T14:45:26.605Z,"23 km SSW of La Quinta, CA",earthquake,0.18,0.53,0.168,17,reviewed,ci,ci
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-12T23:18:19.160Z,45.546166666667,-114.39366666667,5.15,1.42,ml,9,120,0.5493,0.09,mb,mb90070813,2025-01-13T16:45:07.130Z,"45 km SW of Sula, Montana",earthquake,0.36,1.54,0.14565671176375,14,reviewed,mb,mb
 2025-01-12T23:17:35.390Z,39.7825,-111.9835,3.7,0.72,md,5,138,0.1821,0.09,uu,uu80099541,2025-01-13T15:57:01.170Z,"11 km WSW of Mona, Utah",earthquake,0.54,5.59,0.25085948805114,5,reviewed,uu,uu
 2025-01-12T23:16:20.539Z,63.2441,-150.9217,0,2.4,ml,,,,0.93,ak,ak025k88lvp,2025-01-12T23:18:39.142Z,"51 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-12T22:57:45.630Z,33.7625,-115.9503333,1.41,1.96,ml,42,68,0.1071,0.19,ci,ci40838487,2025-01-13T21:32:40.658Z,"22 km NE of Thermal, CA",earthquake,0.21,0.43,0.194,26,reviewed,ci,ci
-2025-01-12T22:57:19.955Z,31.202,-103.493,3.844,1.9,ml,21,46,0,0.1,tx,tx2025avvz,2025-01-13T14:01:55.962Z,"19 km SSE of Lindsay, Texas",earthquake,0.83460664279161,1.2719226237035,0.2,30,reviewed,tx,tx
