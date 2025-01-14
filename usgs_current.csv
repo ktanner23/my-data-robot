@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-14T22:45:29.761Z,59.9491,-153.458,142.8,1.7,ml,,,,0.17,ak,ak025niw3qo,2025-01-14T22:47:18.178Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T22:30:25.683Z,61.9508,-148.6202,16.4,1.8,ml,,,,1.14,ak,ak025nisvoo,2025-01-14T22:32:05.631Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-14T22:28:52.520Z,37.7641,-77.5969,10.895,2.8,mb_lg,30,64,0.299,0.75,us,us6000pk10,2025-01-14T22:45:41.127Z,"7 km N of Wyndham, Virginia",earthquake,2.1,8.461,0.084,37,reviewed,us,us
+2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-14T22:52:39.383Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
 2025-01-14T22:09:22.690Z,33.6666667,-116.7038333,14.51,0.85,ml,25,91,0.02515,0.13,ci,ci40839679,2025-01-14T22:14:24.285Z,"8 km S of Idyllwild, CA",earthquake,0.22,0.33,0.138,17,automatic,ci,ci
 2025-01-14T22:02:13.030Z,34.4555,-119.109,28.32,1.3,ml,15,164,0.1606,0.31,ci,ci40839671,2025-01-14T22:07:04.763Z,"12 km NNW of Santa Paula, CA",earthquake,1.38,1.69,0.315,26,automatic,ci,ci
 2025-01-14T21:45:17.160Z,38.839000701904,-122.76599884033,0.75999999046326,1.34,md,22,152,0.008882,0.04,nc,nc75117296,2025-01-14T21:46:52.113Z,"4 km NW of Cobb, CA",earthquake,0.27,0.330000013,0.16,24,automatic,nc,nc
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T20:00:07.902Z,60.6362,-151.9206,70.1,1.2,ml,,,,0.06,ak,ak025nhfjme,2025-01-14T20:01:58.364Z,"32 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-14T19:54:15.389Z,60.2546,-152.8692,118.9,2,ml,,,,0.12,ak,ak025nh5p9e,2025-01-14T20:48:13.040Z,"70 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-14T19:53:01.480Z,35.0976667,-119.1108333,13.74,1.55,ml,28,71,0.04484,0.16,ci,ci40839543,2025-01-14T21:54:24.797Z,"24 km NW of Grapevine, CA",earthquake,0.25,0.47,0.154,19,reviewed,ci,ci
-2025-01-14T19:52:05.640Z,35.1023333,-119.1076667,13.21,2.19,ml,53,42,0.04782,0.23,ci,ci40839535,2025-01-14T20:02:54.030Z,"24 km NW of Grapevine, CA",earthquake,0.2,0.56,0.159,26,automatic,ci,ci
+2025-01-14T19:52:05.500Z,35.0995,-119.108,13.69,2.24,ml,47,64,0.04538,0.2,ci,ci40839535,2025-01-14T22:55:10.527Z,"24 km NW of Grapevine, CA",earthquake,0.19,0.46,0.185,25,reviewed,ci,ci
 2025-01-14T19:50:59.908Z,57.3698,-154.0433,14.6,2,ml,,,,0.39,ak,ak025nh51hu,2025-01-14T21:04:56.850Z,"19 km SSW of Larsen Bay, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2025-01-14T19:41:49.500Z,38.775665283203,-122.76249694824,2.7000000476837,1.06,md,8,92,0.005552,0.07,nc,nc75117226,2025-01-14T19:43:26.118Z,"1 km W of The Geysers, CA",earthquake,0.72,1.04999995,0.11,8,automatic,nc,nc
 2025-01-14T19:40:23.053Z,-5.0354,149.7982,374.723,5.1,mb,91,43,2.502,1.01,us,us6000pjz0,2025-01-14T20:00:19.040Z,"68 km NNW of Kimbe, Papua New Guinea",earthquake,7.96,6.379,0.039,209,reviewed,us,us
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T09:14:30.406Z,65.5967,-144.7662,0,2.1,ml,,,,0.6,ak,ak025naytqh,2025-01-14T09:17:42.031Z,"3 km NNE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-14T09:10:51.880Z,38.834999084473,-122.81816864014,1.8300000429153,0.71,md,9,78,0.0132,0.01,nc,nc75116976,2025-01-14T09:12:30.579Z,"8 km NNW of The Geysers, CA",earthquake,0.45,1.74000001,0.2,9,automatic,nc,nc
 2025-01-14T08:59:11.330Z,41.525833333333,-111.72833333333,10.41,1.4,md,25,48,0.06859,0.15,uu,uu80099606,2025-01-14T14:19:02.780Z,"7 km E of Avon, Utah",earthquake,0.26,0.61,0.078122372365285,18,reviewed,uu,uu
-2025-01-14T08:49:00.574Z,37.3685,-117.1415,8.1,1.8,ml,11,137.78,0.117,0.1633,nn,nn00891967,2025-01-14T22:40:59.820Z,"38 km SSE of Goldfield, Nevada",earthquake,,3.6,0.27,4,reviewed,nn,nn
+2025-01-14T08:49:00.415Z,37.3791,-117.1265,6.8,1.5,ml,18,139.57,0.133,0.1129,nn,nn00891967,2025-01-14T22:53:29.167Z,"37 km SSE of Goldfield, Nevada",earthquake,,3.3,0.49,6,reviewed,nn,nn
 2025-01-14T08:38:25.390Z,44.9185,-111.50133333333,9.22,0.39,ml,9,108,0.1435,0.17,mb,mb90070933,2025-01-14T15:34:38.570Z,"29 km NW of Hebgen Lake Estates, Montana",earthquake,0.49,1.63,0.30842114198993,5,reviewed,mb,mb
 2025-01-14T08:26:21.420Z,32.7273333,-115.4611667,15.57,1.3,ml,12,243,0.07871,0.2,ci,ci40839223,2025-01-14T18:59:04.121Z,"6 km E of Heber, CA",earthquake,0.94,0.75,0.33,9,reviewed,ci,ci
 2025-01-14T08:18:08.530Z,38.822666168213,-122.84266662598,2.039999961853,0.35,md,8,81,0.005982,0.01,nc,nc75116971,2025-01-14T08:19:45.198Z,"9 km NW of The Geysers, CA",earthquake,0.39,0.930000007,0.23,9,automatic,nc,nc
@@ -161,6 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T05:17:36.370Z,34.2758333,-117.104,3.88,1.39,ml,54,24,0.08106,0.15,ci,ci40839159,2025-01-14T15:03:02.260Z,"8 km N of Running Springs, CA",earthquake,0.14,0.35,0.134,30,reviewed,ci,ci
 2025-01-14T05:16:31.900Z,34.2756667,-117.1041667,3.56,1.49,ml,67,22,0.08087,0.13,ci,ci40839143,2025-01-14T15:03:05.060Z,"8 km N of Running Springs, CA",earthquake,0.11,0.31,0.122,25,reviewed,ci,ci
 2025-01-14T05:10:29.454Z,63.5929,-147.1833,72.1,3,ml,,,,0.42,ak,ak025n8k8ce,2025-01-14T05:12:12.702Z,"86 km SW of Delta Junction, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-01-14T04:55:31.320Z,61.312333333333,-152.252,0.96,-0.44,ml,7,173,0.06636,0.05,av,av93455676,2025-01-14T22:56:01.220Z,"65 km WNW of Beluga, Alaska",earthquake,0.37,1.69,0.13596528581008,7,reviewed,av,av
 2025-01-14T04:46:36.830Z,60.015166666667,-153.101,-1.96,-0.59,ml,4,172,0.04145,0.04,av,av93455666,2025-01-14T22:44:06.960Z,"61 km ENE of Pedro Bay, Alaska",earthquake,0.33,4.08,0.2280633609795,4,reviewed,av,av
 2025-01-14T04:45:59.570Z,44.756666666667,-123.60983333333,47.03,1.74,ml,18,69,0.04878,0.15,uw,uw62062267,2025-01-14T15:26:59.608Z,"13 km N of Summit, Oregon",earthquake,0.45,0.77,0.24805005045288,10,reviewed,uw,uw
 2025-01-14T04:43:07.334Z,38.4792,-118.4853,9.1,1.6,ml,10,96,0.152,0.1258,nn,nn00891944,2025-01-14T20:16:40.159Z,"13 km ESE of Hawthorne, Nevada",earthquake,,1.5,0.39,5,reviewed,nn,nn
