@@ -43,8 +43,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T08:26:21.200Z,32.7365,-115.4533333,18.23,1.48,ml,13,244,0.06885,0.18,ci,ci40839223,2025-01-14T08:29:59.668Z,"7 km E of Heber, CA",earthquake,0.75,0.67,0.364,10,automatic,ci,ci
 2025-01-14T08:18:08.530Z,38.822666168213,-122.84266662598,2.039999961853,0.35,md,8,81,0.005982,0.01,nc,nc75116971,2025-01-14T08:19:45.198Z,"9 km NW of The Geysers, CA",earthquake,0.39,0.930000007,0.23,9,automatic,nc,nc
 2025-01-14T08:05:22.462Z,64.7192,-17.4149,10,5.2,mww,91,42,1.679,1.14,us,us6000pjw8,2025-01-14T08:23:01.040Z,"111 km S of Laugar, Iceland",earthquake,1.91,1.862,0.059,28,reviewed,us,us
-2025-01-14T07:59:09.778Z,31.609,-103.996,5.7285,1.7,ml,16,41,0,0.3,tx,tx2025ayjj,2025-01-14T08:10:57.993Z,"37 km NNW of Toyah, Texas",earthquake,0,2.1488301753998,0.2,12,automatic,tx,tx
-2025-01-14T07:43:35.061Z,31.729,-104.098,4.6086,2.1,ml,21,62,0.1,0.2,tx,tx2025ayiv,2025-01-14T07:53:40.525Z,"47 km W of Mentone, Texas",earthquake,0,1.1211774349213,0.2,17,automatic,tx,tx
+2025-01-14T07:59:09.640Z,31.617,-104.006,7.702,1.7,ml,27,55,0,0.1,tx,tx2025ayjj,2025-01-14T13:57:44.927Z,"39 km NNW of Toyah, Texas",earthquake,0.39186329809757,0.56068321031386,0.2,59,reviewed,tx,tx
+2025-01-14T07:43:34.955Z,31.732,-104.093,6.5485,2.1,ml,21,61,0.1,0.2,tx,tx2025ayiv,2025-01-14T13:56:10.823Z,"46 km W of Mentone, Texas",earthquake,0.45741842878193,0.45075658612963,0.2,17,reviewed,tx,tx
 2025-01-14T07:38:36.268Z,45.2827,150.8942,60.941,4.5,mb,40,144,5.897,0.59,us,us6000pjw5,2025-01-14T10:02:41.040Z,"236 km E of Kuril’sk, Russia",earthquake,12.05,8.086,0.099,30,reviewed,us,us
 2025-01-14T07:35:43.493Z,39.154,-119.0615,6,1.1,ml,10,88.37,0.023,0.1315,nn,nn00891962,2025-01-14T07:37:57.422Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.34,6,automatic,nn,nn
 2025-01-14T07:35:29.170Z,38.834499359131,-122.81549835205,1.6100000143051,0.72,md,10,58,0.01187,0.01,nc,nc75116961,2025-01-14T07:37:05.240Z,"8 km WNW of Cobb, CA",earthquake,0.31,0.959999979,0.3,11,automatic,nc,nc
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T05:43:47.937Z,60.3482,-152.4003,105.5,1,ml,,,,0.29,ak,ak025n8rcfd,2025-01-14T05:45:31.946Z,"52 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-14T05:37:57.448Z,58.4623,-155.7526,142,1.4,ml,,,,0.16,ak,ak025n8q2v4,2025-01-14T05:40:49.492Z,"58 km ESE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-14T05:30:54.970Z,35.6716667,-117.5218333,4.31,0.81,ml,19,61,0.08016,0.14,ci,ci40839183,2025-01-14T05:34:26.749Z,"15 km ENE of Ridgecrest, CA",earthquake,0.2,0.61,0.235,11,automatic,ci,ci
-2025-01-14T05:30:48.487Z,31.604,-104.278,4.6044,1.9,ml,24,75,0.1,0.2,tx,tx2025ayel,2025-01-14T05:59:01.939Z,"56 km NW of Toyah, Texas",earthquake,0,1.2053233385086,0.2,18,automatic,tx,tx
+2025-01-14T05:30:48.525Z,31.616,-104.275,7.9968,1.9,ml,22,70,0.1,0.2,tx,tx2025ayel,2025-01-14T13:51:37.797Z,"56 km NW of Toyah, Texas",earthquake,0.81323050511142,0.98790324064272,0.1,13,reviewed,tx,tx
 2025-01-14T05:29:14.456Z,61.34,-147.9717,19.6,1.2,ml,,,,0.54,ak,ak025n8o9th,2025-01-14T05:32:19.605Z,"52 km ESE of Knik River, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-14T05:23:08.330Z,32.9461667,-116.2346667,13.18,1.06,ml,42,59,0.1501,0.18,ci,ci40839175,2025-01-14T05:28:40.718Z,"24 km SSW of Ocotillo Wells, CA",earthquake,0.18,0.73,0.127,24,automatic,ci,ci
 2025-01-14T05:22:28.120Z,33.9855,-118.3856667,8.29,1.54,ml,36,39,0.01613,0.22,ci,ci40839167,2025-01-14T05:39:04.979Z,"2 km SSW of Baldwin Hills, CA",earthquake,0.28,0.43,0.219,28,automatic,ci,ci
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T14:14:24.563Z,63.2358,-150.9159,0,1.9,ml,,,,1.35,ak,ak025lqemt4,2025-01-13T14:16:16.588Z,"52 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-13T14:09:17.944Z,32.768,-100.666,7.3486,2.1,ml,9,78,0.1,0.1,tx,tx2025axab,2025-01-13T15:41:52.084Z,"17 km NNE of Hermleigh, Texas",earthquake,0.68432209453785,1.4706535362745,0.1,18,reviewed,tx,tx
 2025-01-13T14:02:18.982Z,39.1372,-119.0594,3.2,1.1,ml,10,82.4,0.036,0.1216,nn,nn00891886,2025-01-13T14:04:22.752Z,"19 km NNE of Yerington, Nevada",earthquake,,0.6,0.19,3,automatic,nn,nn
-2025-01-13T13:56:38.540Z,38.825500488281,-122.81500244141,3.170000076294,0.74,md,6,126,0.004386,0,nc,nc75116646,2025-01-13T13:58:13.105Z,"7 km NNW of The Geysers, CA",earthquake,1.06,1.95000005,0.16,7,automatic,nc,nc
-2025-01-13T13:51:42.190Z,51.596833333333,-178.46983333333,15.95,1.82,ml,12,194,0.2191,0.14,av,av93454976,2025-01-13T23:58:17.370Z,"130 km WSW of Adak, Alaska",earthquake,0.64,3.34,0.23601979751701,12,reviewed,av,av
