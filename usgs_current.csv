@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T22:48:01.516Z,31.373,-103.645,5.9616,1.5,ml,10,118,0.1,0.2,tx,tx2025azmq,2025-01-14T22:59:29.672Z,"10 km W of Lindsay, Texas",earthquake,0,3.9131655693054,0.1,8,automatic,tx,tx
 2025-01-14T22:45:29.761Z,59.9491,-153.458,142.8,1.7,ml,,,,0.17,ak,ak025niw3qo,2025-01-14T22:47:18.178Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T22:30:25.683Z,61.9508,-148.6202,16.4,1.8,ml,,,,1.14,ak,ak025nisvoo,2025-01-14T22:32:05.631Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-14T23:35:39.061Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
+2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-14T23:42:22.587Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
 2025-01-14T22:09:22.650Z,33.6645,-116.7063333,14.61,0.79,ml,20,85,0.02749,0.14,ci,ci40839679,2025-01-14T23:34:12.950Z,"8 km S of Idyllwild, CA",earthquake,0.3,0.45,0.137,15,reviewed,ci,ci
 2025-01-14T22:02:16.540Z,34.576,-118.9446667,3.52,0.96,ml,16,94,0.09918,0.22,ci,ci40839671,2025-01-14T23:03:49.631Z,"20 km N of Fillmore, CA",earthquake,0.37,1.1,0.129,13,reviewed,ci,ci
 2025-01-14T21:45:17.160Z,38.839000701904,-122.76599884033,0.75999999046326,1.34,md,22,152,0.008882,0.04,nc,nc75117296,2025-01-14T21:46:52.113Z,"4 km NW of Cobb, CA",earthquake,0.27,0.330000013,0.16,24,automatic,nc,nc
@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T15:52:34.070Z,-1.7711,-78.0652,150.779,4.2,mb,37,80,0.279,0.53,us,us6000pjxc,2025-01-14T18:07:58.040Z,"13 km SW of Palora, Ecuador",earthquake,6.82,7.051,0.1,29,reviewed,us,us
 2025-01-14T15:49:25.290Z,37.705001831055,-122.54716491699,9.6499996185303,1.54,md,10,115,0.1068,0.02,nc,nc75117121,2025-01-14T16:01:07.218Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.36,0.970000029,0.34,7,automatic,nc,nc
 2025-01-14T15:42:58.220Z,32.7401667,-115.522,2.27,1.36,ml,11,154,0.06272,0.25,ci,ci40839335,2025-01-14T21:20:05.942Z,"1 km NE of Heber, CA",earthquake,0.61,0.83,0.324,10,reviewed,ci,ci
-2025-01-14T15:37:38.976Z,39.1608,-119.0544,7.4,1.9,ml,19,57.3,0.015,0.1289,nn,nn00891981,2025-01-14T15:40:02.021Z,"21 km NNE of Yerington, Nevada",earthquake,,0.4,0.3,10,automatic,nn,nn
+2025-01-14T15:37:39.430Z,39.1622,-119.0467,7.2,1.9,ml,22,58.34,0.009,0.1389,nn,nn00891981,2025-01-14T23:39:55.289Z,"22 km NNE of Yerington, Nevada",earthquake,,0.7,0.2,13,reviewed,nn,nn
 2025-01-14T15:32:02.640Z,19.1428,-64.509,50,3.76,md,17,293,0.736,0.33,pr,pr2025014001,2025-01-14T17:36:20.040Z,"94 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,4.26,9.02,0.09,9,reviewed,pr,pr
 2025-01-14T15:31:07.910Z,38.827667236328,-122.88283538818,2.670000076294,0.71,md,8,194,0.01055,0.01,nc,nc75117106,2025-01-14T15:32:45.472Z,"12 km E of Cloverdale, CA",earthquake,1.11,0.860000014,0.12,10,automatic,nc,nc
 2025-01-14T15:29:10.340Z,35.8668333,-117.6818333,10.19,1.14,ml,18,64,0.08483,0.12,ci,ci40839327,2025-01-14T19:18:14.867Z,"22 km ESE of Little Lake, CA",earthquake,0.18,0.4,0.122,14,reviewed,ci,ci
@@ -153,6 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T06:15:11.318Z,39.1507,-119.0395,7.7,1.1,ml,12,81.17,0.018,0.1372,nn,nn00891948,2025-01-14T20:38:15.036Z,"21 km NNE of Yerington, Nevada",earthquake,,1.4,0.17,4,reviewed,nn,nn
 2025-01-14T06:13:50.781Z,63.0944,-150.5519,103.2,2.2,ml,,,,0.43,ak,ak025n96crq,2025-01-14T06:16:06.414Z,"67 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-14T06:10:31.240Z,37.410831451416,-118.73217010498,11.630000114441,1.24,md,12,152,0.1948,0.07,nc,nc75116941,2025-01-14T06:12:10.996Z,"12 km W of Round Valley, CA",earthquake,0.43,2.73000002,0.11,7,automatic,nc,nc
+2025-01-14T06:03:56.180Z,61.312666666667,-152.23983333333,-2.35,-0.25,ml,8,172,0.0626,0.08,av,av93455746,2025-01-14T23:38:21.700Z,"65 km WNW of Beluga, Alaska",earthquake,0.42,1.52,0.31062852091718,8,reviewed,av,av
 2025-01-14T05:58:13.540Z,34.2156667,-118.5765,17.44,1.26,ml,28,69,0.06615,0.18,ci,ci40839199,2025-01-14T15:01:12.624Z,"3 km ENE of Canoga Park, CA",earthquake,0.28,0.58,0.255,32,reviewed,ci,ci
 2025-01-14T05:57:56.280Z,35.6631667,-117.439,6.71,0.98,ml,21,52,0.0126,0.13,ci,ci40839191,2025-01-14T18:55:19.101Z,"12 km SSW of Searles Valley, CA",earthquake,0.21,0.45,0.136,12,reviewed,ci,ci
 2025-01-14T05:43:47.937Z,60.3482,-152.4003,105.5,1,ml,,,,0.29,ak,ak025n8rcfd,2025-01-14T05:45:31.946Z,"52 km NW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -214,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T00:19:40.010Z,59.4578,-151.8469,50.2,1.9,ml,,,,0.59,ak,ak025n5n0lt,2025-01-14T00:22:08.637Z,"7 km WNW of Seldovia, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-01-14T00:05:44.380Z,17.932333333333,-66.961166666667,15.62,2.37,md,7,228,0.08725,0.08,pr,pr71470798,2025-01-14T00:18:38.700Z,"7 km SW of Guánica, Puerto Rico",earthquake,1.14,0.5,0.13564125161679,6,reviewed,pr,pr
 2025-01-14T00:00:49.980Z,38.836833953857,-122.7876663208,0.75999999046326,0.7,md,7,136,0.01052,0.01,nc,nc75116816,2025-01-14T00:02:23.858Z,"6 km WNW of Cobb, CA",earthquake,0.73,1.91999996,0.08,8,automatic,nc,nc
-2025-01-13T23:38:44.264Z,51.8868,-173.8929,73.196,4,ml,18,196,0.367,0.47,us,us6000pjub,2025-01-14T03:31:44.170Z,"40 km SSE of Atka, Alaska",earthquake,14.35,24.302,0.105,12,reviewed,us,us
