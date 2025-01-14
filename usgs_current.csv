@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-14T17:33:47.929Z,59.4247,-153.3917,90.6,2,ml,,,,0.25,ak,ak025nfueiw,2025-01-14T17:36:03.062Z,"57 km SE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-01-14T17:16:50.150Z,19.318332672119,-155.49499511719,7,2.7,ml,57,45,0.06426,0.25999999,hv,hv74592062,2025-01-14T17:51:09.040Z,"12 km N of Pāhala, Hawaii",earthquake,0.28,0.560000002,0.3,43,automatic,hv,hv
+2025-01-14T17:16:50.130Z,19.317,-155.49533333333,8.65,2.69,ml,46,44,0.06554,0.12,hv,hv74592062,2025-01-14T18:04:24.250Z,"12 km N of Pāhala, Hawaii",earthquake,0.23,0.63,0.20039641714874,33,reviewed,hv,hv
 2025-01-14T17:12:38.510Z,31.6833,131.8022,30.176,5.5,mww,114,65,1.165,1.32,us,us6000pjxl,2025-01-14T17:48:03.160Z,"42 km ENE of Nichinan, Japan",earthquake,5.65,5.05,0.11,8,reviewed,us,us
 2025-01-14T17:05:19.240Z,38.592498779297,-122.79083251953,7.0700001716614,1.96,md,47,43,0.0707,0.11,nc,nc75117166,2025-01-14T17:08:38.280Z,"6 km NE of Windsor, CA",earthquake,0.17,0.660000026,0.15,42,automatic,nc,nc
 2025-01-14T17:03:01.770Z,41.392833709717,-123.89766693115,28.270000457764,2.88,ml,25,140,0.2533,0.14,nc,nc75117161,2025-01-14T17:45:21.040Z,"18 km SSE of Klamath, CA",earthquake,0.48,1.67999995,0.191,5,automatic,nc,nc
@@ -50,7 +50,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T12:24:25.285Z,31.73,-104.093,5.6256,1.6,ml,23,58,0,0.1,tx,tx2025aysg,2025-01-14T13:25:05.530Z,"46 km W of Mentone, Texas",earthquake,0.36152946184134,0.6516288799819,0.2,45,reviewed,tx,tx
 2025-01-14T12:19:34.106Z,31.731,-104.092,6.5741,1.6,ml,39,57,0,0.1,tx,tx2025aysb,2025-01-14T13:32:49.602Z,"46 km W of Mentone, Texas",earthquake,0.24625296725191,0.3337278049418,0.2,41,reviewed,tx,tx
 2025-01-14T12:19:10.430Z,38.765167236328,-122.72583007812,1.5299999713898,0.8,md,9,113,0.003649,0.02,nc,nc75117026,2025-01-14T12:20:44.907Z,"3 km SE of The Geysers, CA",earthquake,0.54,0.49000001,0.02,7,automatic,nc,nc
-2025-01-14T12:11:34.905Z,58.4645,-154.9021,60.8,1,ml,,,,1.01,ak,ak025ncqhqq,2025-01-14T12:14:30.310Z,"103 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-01-14T11:56:02.223Z,38.4872,-118.485,0.5,1.6,ml,14,104.51,0.144,0.2089,nn,nn00891973,2025-01-14T11:58:39.789Z,"12 km ESE of Hawthorne, Nevada",earthquake,,9.8,0.33,7,automatic,nn,nn
 2025-01-14T11:32:33.330Z,33.7643333,-115.9536667,0.66,1.03,ml,34,79,0.1103,0.2,ci,ci40839263,2025-01-14T11:36:02.046Z,"22 km NE of Thermal, CA",earthquake,0.29,0.49,0.104,24,automatic,ci,ci
 2025-01-14T11:27:54.430Z,38.734664916992,-122.73249816894,-0.76999998092651,1.26,md,6,206,0.02754,0.07,nc,nc75117021,2025-01-14T11:29:30.695Z,"5 km SSE of The Geysers, CA",earthquake,1.53,2.63000011,0.22,7,automatic,nc,nc
@@ -180,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T20:54:27.122Z,31.559,-104.18,6.7664,1.8,ml,17,71,0,0.1,tx,tx2025axnk,2025-01-14T14:06:59.179Z,"45 km NW of Toyah, Texas",earthquake,0.70237432313873,0.77446492484709,0.2,9,reviewed,tx,tx
 2025-01-13T20:50:19.518Z,74.4639,-92.657,10,4.5,mb,45,37,0.641,0.8,us,us6000pjt7,2025-01-13T21:05:44.040Z,"Devon Island, Nunavut, Canada",earthquake,7.6,1.908,0.062,76,reviewed,us,us
 2025-01-13T20:47:26.946Z,39.1564,-119.0683,10.1,1.4,ml,11,92.41,0.026,0.138,nn,nn00891912,2025-01-13T20:49:25.320Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.2,6,automatic,nn,nn
-2025-01-13T20:44:27.150Z,19.3635,-155.07883333333,7.8,2.88,ml,37,134,0.0389,0.12,hv,hv74591262,2025-01-14T05:42:52.440Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.38,0.48,0.14840330906954,30,reviewed,hv,hv
+2025-01-13T20:44:27.150Z,19.3635,-155.07883333333,7.8,2.88,ml,37,134,0.0389,0.12,hv,hv74591262,2025-01-14T18:00:00.306Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.38,0.48,0.14840330906954,30,reviewed,hv,hv
 2025-01-13T20:38:29.729Z,45.0059,150.9577,10,4.4,mb,30,188,6.037,0.8,us,us6000pjt3,2025-01-13T20:57:13.040Z,"243 km E of Kuril’sk, Russia",earthquake,11.31,1.958,0.114,22,reviewed,us,us
 2025-01-13T20:24:35.321Z,9.1378,40.1902,10,4.8,mb,74,59,3.533,0.63,us,us6000pjsw,2025-01-14T06:08:55.861Z,"17 km N of Āwash, Ethiopia",earthquake,9.68,1.89,0.069,65,reviewed,us,us
 2025-01-13T20:20:56.042Z,36.9611,-117.4448,8.7,1.4,ml,17,173.22,0.072,0.1382,nn,nn00891911,2025-01-13T22:38:04.538Z,"61 km W of Beatty, Nevada",earthquake,,2,0.39,8,reviewed,nn,nn
