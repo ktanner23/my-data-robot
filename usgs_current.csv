@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-14T14:05:29.484Z,59.9374,-152.2753,67.5,1.7,ml,,,,0.42,ak,ak025ndw28k,2025-01-14T14:07:09.213Z,"30 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-01-14T13:58:05.313Z,62.6365,-151.7687,95.3,1.5,ml,,,,0.11,ak,ak025ndlxpv,2025-01-14T14:00:56.652Z,"53 km WNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-14T13:42:48.011Z,62.7326,-148.999,68.3,2,ml,,,,0.86,ak,ak025ndilhi,2025-01-14T13:45:15.510Z,"64 km ENE of Chase, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-01-14T13:25:04.698Z,59.5379,-153.6822,154.8,1.9,ml,,,,0.1,ak,ak025ndev0v,2025-01-14T13:28:27.823Z,"36 km SE of Pedro Bay, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-01-14T13:20:51.763Z,62.346,-151.3187,78.9,1.9,ml,,,,0.51,ak,ak025nddw3c,2025-01-14T13:22:51.806Z,"33 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -136,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T21:35:25.390Z,32.6068333,-116.9781667,3,1.43,ml,35,105,0.0405,0.22,ci,ci40838991,2025-01-13T21:39:25.268Z,"7 km ESE of Chula Vista, CA",earthquake,0.33,0.33,0.117,19,automatic,ci,ci
 2025-01-13T21:32:57.070Z,37.349666595459,-122.15416717529,5.0199999809265,1.48,md,7,168,0.03041,0.08,nc,nc75116756,2025-01-13T21:34:33.621Z,"4 km SW of Los Altos Hills, CA",earthquake,0.67,0.720000029,0.15,8,automatic,nc,nc
 2025-01-13T20:59:07.950Z,38.835334777832,-122.84149932861,1.3799999952316,0.71,md,8,113,0.00571,0.02,nc,nc75116741,2025-01-13T21:00:44.806Z,"10 km NW of The Geysers, CA",earthquake,0.36,0.699999988,0.28,10,automatic,nc,nc
-2025-01-13T20:54:27.191Z,31.546,-104.194,3.6706,1.7,ml,18,73,0.1,0.3,tx,tx2025axnk,2025-01-13T21:00:16.806Z,"45 km NW of Toyah, Texas",earthquake,0,1.4217756986618,0.3,14,automatic,tx,tx
+2025-01-13T20:54:27.122Z,31.559,-104.18,6.7664,1.8,ml,17,71,0,0.1,tx,tx2025axnk,2025-01-14T14:06:59.179Z,"45 km NW of Toyah, Texas",earthquake,0.70237432313873,0.77446492484709,0.2,9,reviewed,tx,tx
 2025-01-13T20:50:19.518Z,74.4639,-92.657,10,4.5,mb,45,37,0.641,0.8,us,us6000pjt7,2025-01-13T21:05:44.040Z,"Devon Island, Nunavut, Canada",earthquake,7.6,1.908,0.062,76,reviewed,us,us
 2025-01-13T20:47:26.946Z,39.1564,-119.0683,10.1,1.4,ml,11,92.41,0.026,0.138,nn,nn00891912,2025-01-13T20:49:25.320Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.2,6,automatic,nn,nn
 2025-01-13T20:44:27.150Z,19.3635,-155.07883333333,7.8,2.88,ml,37,134,0.0389,0.12,hv,hv74591262,2025-01-14T05:42:52.440Z,"12 km SSE of Fern Forest, Hawaii",earthquake,0.38,0.48,0.14840330906954,30,reviewed,hv,hv
@@ -196,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T14:28:11.760Z,61.352333333333,-152.319,5.12,-0.18,ml,6,142,0.09703,0.09,av,av93030029,2025-01-14T00:30:18.820Z,"70 km WNW of Beluga, Alaska",earthquake,0.71,3.93,0.1826035267416,6,reviewed,av,av
 2025-01-13T14:27:44.520Z,61.357833333333,-152.3275,3.79,0.29,ml,7,146,0.1014,0.15,av,av93455016,2025-01-14T00:22:04.230Z,"71 km WNW of Beluga, Alaska",earthquake,0.36,0.59,0.14110822632721,8,reviewed,av,av
 2025-01-13T14:14:24.563Z,63.2358,-150.9159,0,1.9,ml,,,,1.35,ak,ak025lqemt4,2025-01-13T14:16:16.588Z,"52 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-13T14:09:17.944Z,32.768,-100.666,7.3486,2.1,ml,9,78,0.1,0.1,tx,tx2025axab,2025-01-13T15:41:52.084Z,"17 km NNE of Hermleigh, Texas",earthquake,0.68432209453785,1.4706535362745,0.1,18,reviewed,tx,tx
-2025-01-13T14:02:18.982Z,39.1372,-119.0594,3.2,1.1,ml,10,82.4,0.036,0.1216,nn,nn00891886,2025-01-13T14:04:22.752Z,"19 km NNE of Yerington, Nevada",earthquake,,0.6,0.19,3,automatic,nn,nn
