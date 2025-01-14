@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-14T17:33:47.929Z,59.4247,-153.3917,90.6,2,ml,,,,0.25,ak,ak025nfueiw,2025-01-14T17:36:03.062Z,"57 km SE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T17:16:50.150Z,19.318332672119,-155.49499511719,7,2.7,ml,57,45,0.06426,0.25999999,hv,hv74592062,2025-01-14T17:20:08.750Z,"12 km N of Pāhala, Hawaii",earthquake,0.28,0.560000002,0.3,43,automatic,hv,hv
-2025-01-14T17:12:38.510Z,31.6833,131.8022,30.176,5.5,mww,114,65,1.165,1.32,us,us6000pjxl,2025-01-14T17:35:00.626Z,"42 km ENE of Nichinan, Japan",earthquake,5.65,5.05,0.11,8,reviewed,us,us
+2025-01-14T17:12:38.510Z,31.6833,131.8022,30.176,5.5,mww,114,65,1.165,1.32,us,us6000pjxl,2025-01-14T17:45:48.866Z,"42 km ENE of Nichinan, Japan",earthquake,5.65,5.05,0.11,8,reviewed,us,us
 2025-01-14T17:05:19.240Z,38.592498779297,-122.79083251953,7.0700001716614,1.96,md,47,43,0.0707,0.11,nc,nc75117166,2025-01-14T17:08:38.280Z,"6 km NE of Windsor, CA",earthquake,0.17,0.660000026,0.15,42,automatic,nc,nc
-2025-01-14T17:03:01.770Z,41.392833709717,-123.89766693115,28.270000457764,2.88,ml,25,140,0.2533,0.14,nc,nc75117161,2025-01-14T17:27:15.036Z,"18 km SSE of Klamath, CA",earthquake,0.48,1.67999995,0.191,5,automatic,nc,nc
+2025-01-14T17:03:01.770Z,41.392833709717,-123.89766693115,28.270000457764,2.88,ml,25,140,0.2533,0.14,nc,nc75117161,2025-01-14T17:45:21.040Z,"18 km SSE of Klamath, CA",earthquake,0.48,1.67999995,0.191,5,automatic,nc,nc
 2025-01-14T16:16:58.370Z,-8.8414,118.6325,12.034,4.9,mb,45,54,0.846,0.78,us,us6000pjxh,2025-01-14T16:49:50.040Z,"38 km SSE of Dompu, Indonesia",earthquake,4.74,3.688,0.11,31,reviewed,us,us
 2025-01-14T16:06:26.040Z,34.0461667,-117.1343333,5.82,1.17,ml,28,49,0.0211,0.2,ci,ci40839351,2025-01-14T16:10:35.146Z,"3 km S of Mentone, CA",earthquake,0.23,0.55,0.219,33,automatic,ci,ci
 2025-01-14T16:06:15.720Z,38.802833557129,-122.81833648682,2.7200000286102,1.26,md,17,64,0.0104,0.02,nc,nc75117141,2025-01-14T16:07:50.376Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.550000012,0.19,20,automatic,nc,nc
@@ -29,6 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T14:09:22.834Z,-4.5674,-105.1035,10,5.2,mww,150,157,14.695,0.75,us,us6000pjx0,2025-01-14T15:21:23.040Z,"central East Pacific Rise",earthquake,12.67,1.893,0.078,16,reviewed,us,us
 2025-01-14T14:05:29.484Z,59.9374,-152.2753,67.5,1.7,ml,,,,0.42,ak,ak025ndw28k,2025-01-14T14:07:09.213Z,"30 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T13:58:05.313Z,62.6365,-151.7687,95.3,1.5,ml,,,,0.11,ak,ak025ndlxpv,2025-01-14T14:00:56.652Z,"53 km WNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-01-14T13:50:47.450Z,46.101333333333,-122.0295,9.19,0.35,ml,7,326,0.01962,0.15,uw,uw62062292,2025-01-14T17:45:31.850Z,"38 km ENE of Amboy, Washington",earthquake,1.42,0.81,0.10866578838103,3,reviewed,uw,uw
 2025-01-14T13:42:48.011Z,62.7326,-148.999,68.3,2,ml,,,,0.86,ak,ak025ndilhi,2025-01-14T13:45:15.510Z,"64 km ENE of Chase, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-01-14T13:25:04.698Z,59.5379,-153.6822,154.8,1.9,ml,,,,0.1,ak,ak025ndev0v,2025-01-14T13:28:27.823Z,"36 km SE of Pedro Bay, Alaska",earthquake,,3.7,,,automatic,ak,ak
 2025-01-14T13:20:51.763Z,62.346,-151.3187,78.9,1.9,ml,,,,0.51,ak,ak025nddw3c,2025-01-14T13:22:51.806Z,"33 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-13T18:22:59.250Z,38.791667938232,-122.77766418457,1.539999961853,1.26,md,8,105,0.008154,0.02,nc,nc75116696,2025-01-13T18:24:38.632Z,"2 km NW of The Geysers, CA",earthquake,0.56,1.13,0.32,7,automatic,nc,nc
 2025-01-13T17:54:25.280Z,17.9535,-66.944666666667,9.25,2,md,6,205,0.06585,0.07,pr,pr71470778,2025-01-13T18:07:59.000Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.55,0.67,0.086370259063165,5,reviewed,pr,pr
 2025-01-13T17:52:09.166Z,-31.526,57.9935,10,5.1,mb,61,97,10.508,0.6,us,us6000pjqv,2025-01-13T20:32:43.478Z,"Southwest Indian Ridge",earthquake,11.05,1.857,0.08,50,reviewed,us,us
-2025-01-13T17:41:06.180Z,38.823833465576,-122.84317016602,2.0699999332428,0.81,md,11,78,0.006399,0.01,nc,nc75116686,2025-01-13T17:42:43.189Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.600000024,0.29,14,automatic,nc,nc
