@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T21:23:29.210Z,38.830501556396,-122.87449645996,2.960000038147,1.09,md,18,124,0.01041,0.02,nc,nc75117726,2025-01-15T21:25:07.003Z,"12 km NW of The Geysers, CA",earthquake,0.32,0.600000024,0.16,20,automatic,nc,nc
 2025-01-15T21:21:04.767Z,57.676,-155.6698,28.2,1.6,ml,,,,0.16,ak,ak025p5otik,2025-01-15T21:23:12.649Z,"73 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-15T21:17:02.785Z,31.592,-104.522,3.4305,2.3,ml,8,151,0.1,0.3,tx,tx2025bbfr,2025-01-15T21:52:37.740Z,"66 km SSW of Whites City, New Mexico",earthquake,0,2.3076546192169,0.1,7,automatic,tx,tx
-2025-01-15T21:16:42.530Z,31.581,-104.533,3.5492,2.4,ml,7,157,0.1,0.2,tx,tx2025bbfi,2025-01-15T21:27:31.595Z,"66 km NNE of Van Horn, Texas",earthquake,0,3.2791230678558,0.1,7,automatic,tx,tx
+2025-01-15T21:16:42.503Z,31.579,-104.529,3.6721,2.4,ml,8,154,0.1,0.2,tx,tx2025bbfi,2025-01-15T22:03:57.801Z,"66 km NNE of Van Horn, Texas",earthquake,0,3.1570951938629,0.1,6,automatic,tx,tx
 2025-01-15T21:08:57.499Z,31.582,-104.543,3.6493,2.3,ml,8,160,0.1,0.2,tx,tx2025bbfa,2025-01-15T21:53:19.746Z,"66 km NNE of Van Horn, Texas",earthquake,0,2.1116478443146,0.2,6,automatic,tx,tx
 2025-01-15T20:51:34.910Z,36.62183380127,-121.264503479,9.2200002670288,1.96,md,32,76,0.04182,0.17,nc,nc75117706,2025-01-15T20:54:34.280Z,"15 km NW of Pinnacles, CA",earthquake,0.34,0.800000012,0.24,30,automatic,nc,nc
 2025-01-15T20:50:53.167Z,29.0945,87.4173,10,4.4,mb,86,103,2.282,0.76,us,us6000pk9g,2025-01-15T21:14:55.040Z,"140 km NNE of Lobuche, Nepal",earthquake,10.33,1.906,0.064,71,reviewed,us,us
@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T20:35:17.650Z,33.8596667,-117.5191667,1.44,1.63,ml,39,39,0.03837,0.29,ci,ci40840415,2025-01-15T20:40:05.868Z,"2 km S of Home Gardens, CA",earthquake,0.33,0.5,0.384,35,automatic,ci,ci
 2025-01-15T20:27:14.240Z,46.009,-112.45466666667,-2,1.41,ml,7,134,0.07111,0.09,mb,mb90071053,2025-01-15T21:36:48.430Z,"6 km E of Butte, Montana",quarry blast,0.44,31.61,0.22637497272926,12,reviewed,mb,mb
 2025-01-15T20:26:15.450Z,38.78783416748,-122.7688369751,1.2599999904633,0.77,md,9,101,0.01463,0.02,nc,nc75117681,2025-01-15T20:27:52.985Z,"2 km NNW of The Geysers, CA",earthquake,0.32,0.850000024,0.1,9,automatic,nc,nc
-2025-01-15T20:20:23.344Z,61.3255,-150.3772,45.5,3,ml,,,,0.23,ak,ak025p537mm,2025-01-15T21:29:58.802Z,"21 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-01-15T20:20:23.344Z,61.3255,-150.3772,45.5,3,ml,,,,0.23,ak,ak025p537mm,2025-01-15T22:00:04.217Z,"21 km W of Point MacKenzie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-15T20:05:10.640Z,33.168,-116.0368333,7.09,2.44,ml,76,21,0.04986,0.19,ci,ci40840391,2025-01-15T21:53:40.430Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.13,0.46,0.198,108,reviewed,ci,ci
 2025-01-15T20:04:38.671Z,-22.5772,-179.1509,483.606,4.7,mb,25,87,5.478,0.71,us,us6000pk95,2025-01-15T20:25:56.040Z,"south of the Fiji Islands",earthquake,16.93,15.022,0.102,29,reviewed,us,us
 2025-01-15T20:03:43.930Z,46.010833333333,-112.46166666667,-2,1.56,ml,6,202,0.06621,0.14,mb,mb90071033,2025-01-15T21:18:23.420Z,"5 km E of Butte, Montana",quarry blast,1.08,31.61,0.29031012764589,17,reviewed,mb,mb
@@ -38,6 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T17:17:02.557Z,32.411,-101.396,3.3045,1.7,ml,47,41,0,0.4,tx,tx2025baxg,2025-01-15T17:59:37.705Z,"14 km NNW of Sand Springs, Texas",earthquake,0,0.7781143784523,0.2,31,automatic,tx,tx
 2025-01-15T17:05:25.822Z,32.408,-101.402,4.1654,1.3,ml,25,43,0,0.5,tx,tx2025baww,2025-01-15T17:48:58.506Z,"14 km NNW of Sand Springs, Texas",earthquake,0,1.0806791782379,0.2,12,automatic,tx,tx
 2025-01-15T17:01:00.243Z,32.41,-101.398,4.1255,2.1,ml,53,42,0,0.4,tx,tx2025bawt,2025-01-15T17:31:58.390Z,"14 km NNW of Sand Springs, Texas",earthquake,0,0.84262132644653,0.1,31,automatic,tx,tx
+2025-01-15T16:40:48.649Z,19.1037,-155.4005,35.197,2.2,ml,21,195,0.077,0.34,us,us6000pk6u,2025-01-15T19:11:52.040Z,"13 km SE of Pāhala, Hawaii",earthquake,3.89,5.923,0.062,34,reviewed,us,us
 2025-01-15T16:39:30.480Z,38.820167541504,-122.85983276367,2.7300000190735,0.44,md,6,215,0.0196,0.01,nc,nc75117636,2025-01-15T16:41:07.125Z,"10 km NW of The Geysers, CA",earthquake,2.4,1.34000003,0.21,9,automatic,nc,nc
 2025-01-15T16:34:19.160Z,33.1755,-116.0328333,7.7,0.77,ml,23,42,0.04625,0.17,ci,ci40840151,2025-01-15T18:13:51.367Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.22,0.43,0.164,8,reviewed,ci,ci
 2025-01-15T15:44:41.220Z,31.8871667,-115.7008333,5.13,1.33,ml,6,174,0.1201,0.08,ci,ci40840143,2025-01-15T17:53:52.252Z,"63 km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.36,0.69,0.297,4,reviewed,ci,ci
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T15:20:55.120Z,17.9505,-66.816,10.97,2.43,md,10,173,0.05434,0.22,pr,pr71470893,2025-01-15T15:39:43.860Z,"4 km S of Indios, Puerto Rico",earthquake,0.7,0.75,0.08875533987707,7,reviewed,pr,pr
 2025-01-15T15:18:55.210Z,33.0421667,-116.3046667,9.32,1.58,ml,60,47,0.08733,0.18,ci,ci40840127,2025-01-15T21:12:24.030Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.48,0.168,52,reviewed,ci,ci
 2025-01-15T15:12:57.260Z,33.1688333,-116.0363333,6.67,1.7,ml,49,32,0.04936,0.21,ci,ci40840119,2025-01-15T15:23:19.143Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.18,0.54,0.221,28,reviewed,ci,ci
-2025-01-15T15:12:31.460Z,33.1656667,-116.0351667,6.82,1.68,ml,51,33,0.1118,0.2,ci,ci40840111,2025-01-15T15:23:22.420Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.2,0.76,0.144,26,automatic,ci,ci
+2025-01-15T15:12:31.360Z,33.1688333,-116.0358333,6.98,1.69,ml,45,34,0.04894,0.16,ci,ci40840111,2025-01-15T22:03:46.240Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.17,0.45,0.152,23,reviewed,ci,ci
 2025-01-15T15:10:58.604Z,39.0882,-119.0311,7.3,0.9,ml,8,144.88,0.081,0.0302,nn,nn00892021,2025-01-15T15:13:55.300Z,"16 km NE of Yerington, Nevada",earthquake,,1.4,0.36,4,automatic,nn,nn
 2025-01-15T15:06:17.210Z,38.780334472656,-122.75616455078,1.1900000572205,0.74,md,7,91,0.01218,0.02,nc,nc75117621,2025-01-15T15:07:56.346Z,"0 km NNE of The Geysers, CA",earthquake,0.41,0.639999986,0.05,7,automatic,nc,nc
 2025-01-15T15:01:57.650Z,33.6611667,-116.7613333,10.89,0.39,ml,14,100,0.06698,0.11,ci,ci40840087,2025-01-15T15:23:41.947Z,"10 km SSW of Idyllwild, CA",earthquake,0.23,0.55,0.066,6,reviewed,ci,ci
@@ -67,6 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T13:40:36.266Z,39.1886,-119.0546,3.2,1.1,ml,8,129.15,0.022,0.3427,nn,nn00892015,2025-01-15T13:42:54.854Z,"24 km NNE of Yerington, Nevada",earthquake,,0.3,0.33,4,automatic,nn,nn
 2025-01-15T13:35:33.720Z,33.4611667,-116.3803333,9.51,0.86,ml,32,87,0.1149,0.14,ci,ci40839999,2025-01-15T15:24:18.144Z,"23 km N of Borrego Springs, CA",earthquake,0.17,0.68,0.172,23,reviewed,ci,ci
 2025-01-15T13:29:10.070Z,38.791999816895,-122.79716491699,-0.34000000357628,1.68,md,31,72,0.005895,0.05,nc,nc75117586,2025-01-15T13:32:10.260Z,"4 km NW of The Geysers, CA",earthquake,0.17,0.330000013,0.17,31,automatic,nc,nc
+2025-01-15T13:22:57.100Z,46.217333333333,-122.18516666667,-1.78,-0.42,md,4,325,0.01714,0.03,uw,uw62062377,2025-01-15T22:09:52.220Z,"38 km S of Morton, Washington",earthquake,0.61,8.62,0.35658758241092,4,reviewed,uw,uw
 2025-01-15T12:48:03.820Z,36.277000427246,-120.83899688721,7.9499998092651,1.06,md,8,136,0.06818,0.03,nc,nc75117571,2025-01-15T12:49:41.425Z,"21 km SW of New Idria, CA",earthquake,0.39,0.829999983,0.32,7,automatic,nc,nc
 2025-01-15T12:34:08.777Z,63.5419,-151.0418,5.1,1.6,ml,,,,0.64,ak,ak025p0epot,2025-01-15T12:36:41.179Z,"33 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-15T12:26:18.069Z,58.7011,-158.7908,44.6,2.7,ml,,,,0.94,ak,ak025p0d0oe,2025-01-15T12:28:36.180Z,"20 km SW of Clarks Point, Alaska",earthquake,,10.5,,,automatic,ak,ak
@@ -79,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T11:35:20.040Z,37.469166666667,-112.859,22.08,1.32,ml,6,148,0.2211,0.09,uu,uu80099666,2025-01-15T14:33:35.400Z,"24 km S of Brian Head, Utah",earthquake,0.49,1.67,0.42562793117128,3,reviewed,uu,uu
 2025-01-15T11:19:44.589Z,39.0683,-119.0401,1.7,1.1,ml,8,104.64,0.101,0.127,nn,nn00892011,2025-01-15T11:21:44.164Z,"14 km NE of Yerington, Nevada",earthquake,,4.6,0.43,4,automatic,nn,nn
 2025-01-15T11:13:28.610Z,19.170665740967,-155.49600219727,32.409999847412,2.23,ml,58,97,0.03545,0.129999995,hv,hv74592717,2025-01-15T11:16:34.690Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.51,0.660000026,0.52,7,automatic,hv,hv
-2025-01-15T11:12:38.031Z,39.0656,-119.0235,4.4,1.1,ml,14,106.49,0.104,0.1463,nn,nn00892010,2025-01-15T11:15:15.351Z,"14 km NE of Yerington, Nevada",earthquake,,1.4,0.45,5,automatic,nn,nn
+2025-01-15T11:12:38.546Z,39.0769,-119.0217,7.9,1.2,ml,14,102.8,0.093,0.1062,nn,nn00892010,2025-01-15T22:01:49.926Z,"15 km NE of Yerington, Nevada",earthquake,,1.7,0.45,6,reviewed,nn,nn
 2025-01-15T11:08:34.573Z,61.8606,-151.1566,107.8,1.4,ml,,,,0.83,ak,ak025oznrgh,2025-01-15T11:11:20.549Z,"19 km SE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-01-15T11:01:48.928Z,39.0977,-119.0233,10.1,1.1,ml,17,96.26,0.072,0.1195,nn,nn00892008,2025-01-15T21:06:48.235Z,"17 km NE of Yerington, Nevada",earthquake,,1,0.46,10,reviewed,nn,nn
 2025-01-15T11:01:06.580Z,33.1683333,-116.03,7.03,0.6,ml,25,87,0.04413,0.23,ci,ci40839983,2025-01-15T18:27:44.287Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.32,0.76,0.141,7,reviewed,ci,ci
@@ -130,6 +132,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T05:09:51.410Z,34.3718333,-116.9281667,7.46,2.68,ml,100,26,0.08662,0.15,ci,ci40839903,2025-01-15T19:35:54.462Z,"9 km SSE of Lucerne Valley, CA",earthquake,0.1,0.28,0.139,207,reviewed,ci,ci
 2025-01-15T05:06:11.800Z,60.6274,-151.2582,49,1.6,ml,,,,0.5,ak,ak025ow2on0,2025-01-15T05:08:26.737Z,"3 km ENE of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-01-15T04:56:06.720Z,43.2985,147.7059,10,4.4,mb,39,187,3.592,0.53,us,us6000pk2s,2025-01-15T05:14:50.040Z,"97 km SE of Shikotan, Russia",earthquake,11.43,1.962,0.105,26,reviewed,us,us
+2025-01-15T04:43:57.550Z,52.087333333333,-176.2025,4.37,0.86,ml,6,271,0.01663,0.29,av,av93456801,2025-01-15T22:07:26.310Z,"37 km NE of Adak, Alaska",earthquake,1.36,0.7,0.17999415137093,6,reviewed,av,av
 2025-01-15T04:40:36.670Z,40.308334350586,-124.51249694824,17.379999160767,1.57,md,7,314,0.1315,0.05,nc,nc75117426,2025-01-15T04:42:14.846Z,"19 km W of Petrolia, CA",earthquake,6.29,2.08999991,0.05,7,automatic,nc,nc
 2025-01-15T04:28:59.730Z,33.311,-116.8005,9.27,0.81,ml,40,33,0.06718,0.19,ci,ci40839895,2025-01-15T04:35:11.595Z,"8 km SE of Palomar Observatory, CA",earthquake,0.18,0.51,0.123,25,automatic,ci,ci
 2025-01-15T04:26:23.020Z,34.0228333,-117.5863333,5.48,1.18,ml,35,85,0.02743,0.18,ci,ci40839887,2025-01-15T15:25:32.153Z,"5 km SE of Ontario, CA",earthquake,0.24,0.38,0.234,29,reviewed,ci,ci
@@ -182,7 +185,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T22:45:29.761Z,59.9491,-153.458,142.8,1.7,ml,,,,0.17,ak,ak025niw3qo,2025-01-14T22:47:18.178Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T22:45:20.120Z,35.784166666667,-121.28883333333,1.54,1.4,md,13,187,0.1498,0.07,nc,nc75117321,2025-01-15T17:54:29.565Z,"18 km NNW of San Simeon, CA",earthquake,0.44,1.47,0.316,17,reviewed,nc,nc
 2025-01-14T22:30:25.683Z,61.9508,-148.6202,16.4,1.8,ml,,,,1.14,ak,ak025nisvoo,2025-01-14T22:32:05.631Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-15T21:58:47.448Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
+2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-15T22:04:07.079Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
 2025-01-14T22:19:00.000Z,49.394666666667,-120.49416666667,-0.23,1.89,ml,17,211,0.6053,0.43,uw,uw62062337,2025-01-15T19:29:50.910Z,"7 km S of Princeton, Canada",explosion,3.24,31.61,0.11145327007078,11,reviewed,uw,uw
-2025-01-14T22:09:22.650Z,33.6645,-116.7063333,14.61,0.79,ml,20,85,0.02749,0.14,ci,ci40839679,2025-01-14T23:34:12.950Z,"8 km S of Idyllwild, CA",earthquake,0.3,0.45,0.137,15,reviewed,ci,ci
-2025-01-14T22:02:16.540Z,34.576,-118.9446667,3.52,0.96,ml,16,94,0.09918,0.22,ci,ci40839671,2025-01-14T23:03:49.631Z,"20 km N of Fillmore, CA",earthquake,0.37,1.1,0.129,13,reviewed,ci,ci
