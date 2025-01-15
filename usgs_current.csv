@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-15T07:34:38.306Z,56.9506,-155.5518,56.5,2.9,ml,,,,0.33,ak,ak025oxflxy,2025-01-15T07:36:35.069Z,"83 km W of Akhiok, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2025-01-15T07:34:38.637Z,56.9531,-155.5661,37.3,2.9,ml,,,,0.58,ak,ak025oxflxy,2025-01-15T07:47:30.811Z,"84 km W of Akhiok, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-01-15T07:31:17.497Z,63.2857,-151.1066,0,1.7,ml,,,,0.27,ak,ak025oxex6t,2025-01-15T07:33:45.185Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-15T07:22:05.790Z,35.3866653,-117.7574997,5.04,1.86,ml,30,42,0.1113,0.18,ci,ci40839951,2025-01-15T07:32:57.700Z,"11 km W of Johannesburg, CA",earthquake,0.29,1.23,0.297,26,automatic,ci,ci
 2025-01-15T07:21:41.130Z,34.2778333,-117.1131667,2.56,1.06,ml,30,39,0.09165,0.2,ci,ci40839943,2025-01-15T07:25:46.949Z,"8 km ENE of Lake Arrowhead, CA",earthquake,0.25,0.97,0.204,29,automatic,ci,ci
@@ -106,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T17:05:19.240Z,38.592498779297,-122.79083251953,7.0700001716614,1.96,md,47,43,0.0707,0.11,nc,nc75117166,2025-01-14T17:08:38.280Z,"6 km NE of Windsor, CA",earthquake,0.17,0.660000026,0.15,42,automatic,nc,nc
 2025-01-14T17:03:01.740Z,41.3965,-123.9225,28.3,2.97,md,44,125,0.1196,0.15,nc,nc75117161,2025-01-14T22:11:26.040Z,"17 km SSE of Klamath, CA",earthquake,0.28,0.41,0.256,43,reviewed,nc,nc
 2025-01-14T16:16:58.370Z,-8.8414,118.6325,12.034,4.9,mb,45,54,0.846,0.78,us,us6000pjxh,2025-01-14T16:49:50.040Z,"38 km SSE of Dompu, Indonesia",earthquake,4.74,3.688,0.11,31,reviewed,us,us
+2025-01-14T16:15:15.930Z,61.367333333333,-152.33883333333,3.68,0.15,ml,9,151,0.1098,0.08,av,av93456226,2025-01-15T07:47:52.710Z,"71 km WNW of Beluga, Alaska",earthquake,0.24,0.36,0.14212549190565,10,reviewed,av,av
 2025-01-14T16:06:26.040Z,34.0461667,-117.1343333,5.82,1.17,ml,28,49,0.0211,0.2,ci,ci40839351,2025-01-14T16:10:35.146Z,"3 km S of Mentone, CA",earthquake,0.23,0.55,0.219,33,automatic,ci,ci
 2025-01-14T16:06:15.720Z,38.802833557129,-122.81833648682,2.7200000286102,1.26,md,17,64,0.0104,0.02,nc,nc75117141,2025-01-14T16:07:50.376Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.550000012,0.19,20,automatic,nc,nc
 2025-01-14T16:05:22.810Z,38.792499542236,-122.75983428955,2.039999961853,1.28,md,20,70,0.008114,0.02,nc,nc75117136,2025-01-14T16:07:00.600Z,"2 km N of The Geysers, CA",earthquake,0.26,0.449999988,0.22,20,automatic,nc,nc
@@ -153,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T12:44:29.425Z,39.3519,142.0598,63.846,4.3,mb,31,150,1.626,0.6,us,us6000pjwr,2025-01-14T14:13:23.040Z,"13 km E of Ōtsuchi, Japan",earthquake,4.72,9.332,0.126,19,reviewed,us,us
 2025-01-14T12:35:26.810Z,38.818000793457,-122.81566619873,2.4700000286102,1.83,md,36,46,0.006935,0.03,nc,nc75117036,2025-01-14T12:38:38.980Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.289999992,0.14,38,automatic,nc,nc
 2025-01-14T12:29:10.780Z,31.612,-103.981,6.8561,1.6,ml,15,73,0,0.1,tx,tx2025aysk,2025-01-14T14:19:53.389Z,"37 km NNW of Toyah, Texas",earthquake,0.39249029510897,0.44418524054217,0.1,7,reviewed,tx,tx
-2025-01-14T12:24:51.361Z,38.4828,-118.4706,4.7,2.6,ml,18,56.05,0.151,0.1715,nn,nn00891975,2025-01-14T17:16:05.130Z,"14 km ESE of Hawthorne, Nevada",earthquake,,2.2,0.42,8,reviewed,nn,nn
+2025-01-14T12:24:51.361Z,38.4828,-118.4706,4.7,2.6,ml,18,56.05,0.151,0.1715,nn,nn00891975,2025-01-15T07:42:10.040Z,"14 km ESE of Hawthorne, Nevada",earthquake,,2.2,0.42,8,reviewed,nn,nn
 2025-01-14T12:24:25.285Z,31.73,-104.093,5.6256,1.6,ml,23,58,0,0.1,tx,tx2025aysg,2025-01-14T13:25:05.530Z,"46 km W of Mentone, Texas",earthquake,0.36152946184134,0.6516288799819,0.2,45,reviewed,tx,tx
 2025-01-14T12:23:54.680Z,61.362833333333,-152.303,1.66,0.26,ml,10,118,0.1093,0.24,av,av93456076,2025-01-15T06:41:58.170Z,"70 km WNW of Beluga, Alaska",earthquake,0.51,1.58,0.17777097551086,10,reviewed,av,av
 2025-01-14T12:20:39.420Z,61.306833333333,-152.241,1.59,-0.67,ml,6,169,0.0587,0.06,av,av93456071,2025-01-15T06:37:51.770Z,"64 km WNW of Beluga, Alaska",earthquake,0.52,1.58,0.18485132051,6,reviewed,av,av
@@ -201,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T08:05:22.462Z,64.7192,-17.4149,10,5.2,mww,91,42,1.679,1.14,us,us6000pjw8,2025-01-14T08:23:01.040Z,"111 km S of Laugar, Iceland",earthquake,1.91,1.862,0.059,28,reviewed,us,us
 2025-01-14T07:59:09.640Z,31.617,-104.006,7.702,1.7,ml,27,55,0,0.1,tx,tx2025ayjj,2025-01-14T13:57:44.927Z,"39 km NNW of Toyah, Texas",earthquake,0.39186329809757,0.56068321031386,0.2,59,reviewed,tx,tx
 2025-01-14T07:54:51.750Z,58.236166666667,-155.1745,3.75,-0.15,ml,8,77,0.04188,0.14,av,av93455846,2025-01-15T03:13:44.200Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.84,0.20107381772069,9,reviewed,av,av
-2025-01-14T07:43:34.955Z,31.732,-104.093,6.5485,2.1,ml,21,61,0.1,0.2,tx,tx2025ayiv,2025-01-14T13:56:10.823Z,"46 km W of Mentone, Texas",earthquake,0.45741842878193,0.45075658612963,0.2,17,reviewed,tx,tx
-2025-01-14T07:42:16.283Z,39.1618,-119.0476,6.7,1.3,ml,17,78,0.01,0.1478,nn,nn00891963,2025-01-14T22:34:47.270Z,"21 km NNE of Yerington, Nevada",earthquake,,0.9,0.24,8,reviewed,nn,nn
