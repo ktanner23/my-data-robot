@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T08:11:14.497Z,32.364,-102.11,5.3205,1.6,ml,59,42,0,0.4,tx,tx2025bafg,2025-01-15T08:52:34.182Z,"39 km NW of Stanton, Texas",earthquake,0,1.081628203392,0.1,39,automatic,tx,tx
 2025-01-15T07:52:35.860Z,17.9945,-66.933,11.21,2.47,md,21,124,0.03208,0.13,pr,pr71470873,2025-01-15T08:27:39.670Z,"1 km WNW of Fuig, Puerto Rico",earthquake,0.35,0.38,0.070382029048371,12,reviewed,pr,pr
 2025-01-15T07:52:12.640Z,38.821666717529,-122.82333374023,2.4700000286102,0.46,md,9,86,0.00925,0.01,nc,nc75117486,2025-01-15T07:53:51.288Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.28999996,0.3,10,automatic,nc,nc
-2025-01-15T07:50:28.508Z,37.7115,-77.598,5,2.2,mb_lg,14,120,0.336,0.42,us,us6000pk41,2025-01-15T09:47:39.128Z,"1 km NE of Wyndham, Virginia",earthquake,1.33,1.9,0.228,5,reviewed,us,us
+2025-01-15T07:50:28.508Z,37.7115,-77.598,5,2.2,mb_lg,14,120,0.336,0.42,us,us6000pk41,2025-01-15T09:47:39.128Z,"Virginia",earthquake,1.33,1.9,0.228,5,reviewed,us,us
 2025-01-15T07:34:38.637Z,56.9531,-155.5661,37.3,2.9,ml,,,,0.58,ak,ak025oxflxy,2025-01-15T07:47:30.811Z,"84 km W of Akhiok, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-01-15T07:32:21.504Z,-17.4025,168.1387,76.576,5,mww,54,41,4.805,0.63,us,us6000pk3x,2025-01-15T09:59:35.762Z,"41 km NNW of Port-Vila, Vanuatu",earthquake,8.01,7.416,0.11,8,reviewed,us,us
 2025-01-15T07:31:17.497Z,63.2857,-151.1066,0,1.7,ml,,,,0.27,ak,ak025oxex6t,2025-01-15T07:33:45.185Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T01:31:49.035Z,36.7703,70.6715,189.902,4.3,mb,49,246,2.233,0.79,us,us6000pk23,2025-01-15T01:55:08.040Z,"17 km SW of Jurm, Afghanistan",earthquake,10.92,9.159,0.104,26,reviewed,us,us
 2025-01-15T01:21:31.907Z,61.0206,-148.1804,9.3,0.7,ml,,,,1.03,ak,ak025ots7ja,2025-01-15T01:23:55.228Z,"38 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-01-15T01:16:33.130Z,32.3948333,-116.9438333,1.16,1.68,ml,25,167,0.2126,0.21,ci,ci40839799,2025-01-15T01:20:07.812Z,"11 km NE of Rosarito, B.C., MX",earthquake,0.52,0.88,0.147,27,automatic,ci,ci
-2025-01-15T00:21:23.821Z,31.696,-104.15,4.2029,1.6,ml,17,55,0.1,0.3,tx,tx2025azpu,2025-01-15T00:55:42.331Z,"52 km W of Mentone, Texas",earthquake,0,1.2986538410187,0.2,13,automatic,tx,tx
+2025-01-15T00:21:23.731Z,31.702,-104.142,7.1252,1.6,ml,17,57,0.1,0.2,tx,tx2025azpu,2025-01-15T10:12:58.098Z,"51 km W of Mentone, Texas",earthquake,0.68392044390622,0.72115110687015,0.1,7,reviewed,tx,tx
 2025-01-15T00:10:58.960Z,38.788665771484,-122.76716613769,3.0899999141693,0.79,md,17,77,0.01329,0.03,nc,nc75117346,2025-01-15T00:12:33.873Z,"2 km NNW of The Geysers, CA",earthquake,0.39,0.680000007,0.14,19,automatic,nc,nc
 2025-01-15T00:09:41.830Z,38.835998535156,-122.81600189209,1.4500000476837,0.77,md,14,63,0.01341,0.02,nc,nc75117341,2025-01-15T00:11:19.028Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.689999998,0.17,15,automatic,nc,nc
 2025-01-15T00:00:29.206Z,64.9905,-147.4692,1.1,1.1,ml,,,,0.42,ak,ak025ot29ns,2025-01-15T00:02:52.230Z,"7 km ENE of Fox, Alaska",earthquake,,3.6,,,automatic,ak,ak
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-14T22:48:01.516Z,31.373,-103.645,5.9616,1.5,ml,10,118,0.1,0.2,tx,tx2025azmq,2025-01-14T22:59:29.672Z,"10 km W of Lindsay, Texas",earthquake,0,3.9131655693054,0.1,8,automatic,tx,tx
 2025-01-14T22:45:29.761Z,59.9491,-153.458,142.8,1.7,ml,,,,0.17,ak,ak025niw3qo,2025-01-14T22:47:18.178Z,"40 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-14T22:30:25.683Z,61.9508,-148.6202,16.4,1.8,ml,,,,1.14,ak,ak025nisvoo,2025-01-14T22:32:05.631Z,"19 km NNW of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-15T09:57:55.050Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
+2025-01-14T22:28:51.880Z,37.707,-77.605833333333,0.12,2.77,md,12,70,0.3351,0.33,se,se60502898,2025-01-15T10:14:33.458Z,"1 km NNE of Wyndham, Virginia",earthquake,0.62,1.65,0.080619434625133,9,reviewed,se,se
 2025-01-14T22:09:22.650Z,33.6645,-116.7063333,14.61,0.79,ml,20,85,0.02749,0.14,ci,ci40839679,2025-01-14T23:34:12.950Z,"8 km S of Idyllwild, CA",earthquake,0.3,0.45,0.137,15,reviewed,ci,ci
 2025-01-14T22:02:16.540Z,34.576,-118.9446667,3.52,0.96,ml,16,94,0.09918,0.22,ci,ci40839671,2025-01-14T23:03:49.631Z,"20 km N of Fillmore, CA",earthquake,0.37,1.1,0.129,13,reviewed,ci,ci
 2025-01-14T21:45:17.160Z,38.839000701904,-122.76599884033,0.75999999046326,1.34,md,22,152,0.008882,0.04,nc,nc75117296,2025-01-14T21:46:52.113Z,"4 km NW of Cobb, CA",earthquake,0.27,0.330000013,0.16,24,automatic,nc,nc
