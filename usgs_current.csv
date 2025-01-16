@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-16T02:09:21.820Z,34.0446667,-117.1333333,6.41,1.39,ml,60,29,0.01965,0.17,ci,ci40840599,2025-01-16T02:20:08.460Z,"3 km S of Mentone, CA",earthquake,0.13,0.32,0.174,27,automatic,ci,ci
+2025-01-16T01:59:22.210Z,18.022666666667,-66.8325,16.26,2.42,md,12,131,0.06051,0.22,pr,pr71470933,2025-01-16T02:07:21.980Z,"2 km SE of Yauco, Puerto Rico",earthquake,0.5,0.88,0.075361428755686,5,reviewed,pr,pr
 2025-01-16T01:55:52.520Z,38.8313331604,-122.82133483887,2.2699999809265,0.48,md,9,129,0.01184,0.01,nc,nc75117811,2025-01-16T01:57:28.177Z,"8 km NNW of The Geysers, CA",earthquake,0.47,0.829999983,0.28,9,automatic,nc,nc
 2025-01-16T01:49:24.210Z,18.2545,-66.429,39.02,2.3,md,10,117,0.08961,0.07,pr,pr71470923,2025-01-16T02:00:19.900Z,"5 km NW of Orocovis, Puerto Rico",earthquake,0.52,0.7,0.035799866534929,6,reviewed,pr,pr
 2025-01-16T01:49:15.310Z,36.446166992188,-121.00816345215,0.87000000476837,1.66,md,7,125,0.04118,0.06,nc,nc75117806,2025-01-16T01:50:51.945Z,"15 km SE of Pinnacles, CA",earthquake,0.47,1.01999998,0.04,6,automatic,nc,nc
@@ -77,8 +79,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T16:40:48.649Z,19.1037,-155.4005,35.197,2.2,ml,21,195,0.077,0.34,us,us6000pk6u,2025-01-15T19:11:52.040Z,"13 km SE of Pāhala, Hawaii",earthquake,3.89,5.923,0.062,34,reviewed,us,us
 2025-01-15T16:39:30.480Z,38.820167541504,-122.85983276367,2.7300000190735,0.44,md,6,215,0.0196,0.01,nc,nc75117636,2025-01-15T16:41:07.125Z,"10 km NW of The Geysers, CA",earthquake,2.4,1.34000003,0.21,9,automatic,nc,nc
 2025-01-15T16:34:19.160Z,33.1755,-116.0328333,7.7,0.77,ml,23,42,0.04625,0.17,ci,ci40840151,2025-01-15T18:13:51.367Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.22,0.43,0.164,8,reviewed,ci,ci
+2025-01-15T16:28:55.010Z,51.8575,-177.981,3.67,1.24,ml,5,115,0.04153,0.11,av,av93457251,2025-01-16T02:10:53.920Z,"92 km W of Adak, Alaska",earthquake,0.33,1.05,0.25797159039521,5,reviewed,av,av
 2025-01-15T15:44:41.220Z,31.8871667,-115.7008333,5.13,1.33,ml,6,174,0.1201,0.08,ci,ci40840143,2025-01-15T17:53:52.252Z,"63 km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.36,0.69,0.297,4,reviewed,ci,ci
 2025-01-15T15:31:49.745Z,31.622,-104.472,3.5156,1.6,ml,17,126,0,0.4,tx,tx2025batu,2025-01-15T16:07:02.766Z,"62 km S of Whites City, New Mexico",earthquake,0,1.6076226234436,0.1,13,automatic,tx,tx
+2025-01-15T15:26:54.950Z,61.315333333333,-152.25983333333,1.76,-0.35,ml,7,176,0.07116,0.05,av,av93030239,2025-01-16T02:17:50.890Z,"66 km WNW of Beluga, Alaska",earthquake,0.3,1.48,0.27847729155292,8,reviewed,av,av
 2025-01-15T15:23:51.399Z,38.3687,-115.8152,4.5,2.3,ml,8,54.82,0.181,0.1332,nn,nn00892022,2025-01-15T17:17:22.673Z,"80 km N of Rachel, Nevada",earthquake,,2.7,0.24,6,reviewed,nn,nn
 2025-01-15T15:20:55.120Z,17.9505,-66.816,10.97,2.43,md,10,173,0.05434,0.22,pr,pr71470893,2025-01-15T15:39:43.860Z,"4 km S of Indios, Puerto Rico",earthquake,0.7,0.75,0.08875533987707,7,reviewed,pr,pr
 2025-01-15T15:18:55.210Z,33.0421667,-116.3046667,9.32,1.58,ml,60,47,0.08733,0.18,ci,ci40840127,2025-01-15T21:12:24.030Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.15,0.48,0.168,52,reviewed,ci,ci
@@ -156,7 +160,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T07:55:21.940Z,61.313833333333,-152.25566666667,1.97,-0.6,ml,8,152,0.06867,0.07,av,av93030214,2025-01-15T23:44:02.380Z,"65 km WNW of Beluga, Alaska",earthquake,0.26,0.88,0.27025474273406,9,reviewed,av,av
 2025-01-15T07:52:35.860Z,17.9945,-66.933,11.21,2.47,md,21,124,0.03208,0.13,pr,pr71470873,2025-01-15T08:27:39.670Z,"1 km WNW of Fuig, Puerto Rico",earthquake,0.35,0.38,0.070382029048371,12,reviewed,pr,pr
 2025-01-15T07:52:12.640Z,38.821666717529,-122.82333374023,2.4700000286102,0.46,md,9,86,0.00925,0.01,nc,nc75117486,2025-01-15T07:53:51.288Z,"8 km NW of The Geysers, CA",earthquake,0.41,1.28999996,0.3,10,automatic,nc,nc
-2025-01-15T07:50:28.380Z,37.7085,-77.599333333333,0.04,2.31,md,11,158,0.3373,0.19,se,se60502903,2025-01-16T01:36:44.958Z,"1 km NE of Wyndham, Virginia",earthquake,0.4,1.08,0.15491933761939,9,reviewed,se,se
+2025-01-15T07:50:28.380Z,37.7085,-77.599333333333,0.04,2.31,md,11,158,0.3373,0.19,se,se60502903,2025-01-16T02:22:45.901Z,"1 km NE of Wyndham, Virginia",earthquake,0.4,1.08,0.15491933761939,9,reviewed,se,se
 2025-01-15T07:34:38.637Z,56.9531,-155.5661,37.3,2.9,ml,,,,0.58,ak,ak025oxflxy,2025-01-15T07:47:30.811Z,"84 km W of Akhiok, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2025-01-15T07:32:21.504Z,-17.4025,168.1387,76.576,5,mww,54,41,4.805,0.63,us,us6000pk3x,2025-01-15T19:59:45.809Z,"41 km NNW of Port-Vila, Vanuatu",earthquake,8.01,7.416,0.11,8,reviewed,us,us
 2025-01-15T07:31:17.497Z,63.2857,-151.1066,0,1.7,ml,,,,0.27,ak,ak025oxex6t,2025-01-15T07:33:45.185Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-15T03:10:24.590Z,33.3201667,-116.8321667,10.85,0.65,ml,29,29,0.042,0.17,ci,ci40839839,2025-01-15T17:20:53.899Z,"5 km SE of Palomar Observatory, CA",earthquake,0.21,0.4,0.062,12,reviewed,ci,ci
 2025-01-15T03:04:19.648Z,46.3391,152.505,40.035,4.6,mb,59,127,6.737,1.1,us,us6000pk2c,2025-01-15T03:28:10.040Z,"Kuril Islands",earthquake,9.51,7.351,0.086,40,reviewed,us,us
 2025-01-15T02:51:52.590Z,61.298333333333,-152.23333333333,2.41,0.08,ml,9,116,0.05017,0.08,av,av93456721,2025-01-15T21:19:48.020Z,"64 km WNW of Beluga, Alaska",earthquake,0.29,0.55,0.27588116080589,10,reviewed,av,av
-2025-01-15T02:22:02.600Z,61.2785,-152.25883333333,3.07,-0.32,ml,8,109,0.05183,0.12,av,av93456706,2025-01-15T21:12:25.940Z,"64 km WNW of Tyonek, Alaska",earthquake,0.37,0.63,0.22485951389844,8,reviewed,av,av
-2025-01-15T02:16:10.657Z,39.1163,-119.0021,5.6,1.2,ml,15,92.34,0.06,0.0897,nn,nn00891998,2025-01-15T19:13:33.815Z,"20 km NE of Yerington, Nevada",earthquake,,1.3,0.16,7,reviewed,nn,nn
-2025-01-15T02:08:41.039Z,-2.8196,141.4749,26.993,5,mb,48,56,0.828,0.96,us,us6000pk28,2025-01-15T02:36:37.040Z,"24 km SE of Vanimo, Papua New Guinea",earthquake,7.02,4.568,0.075,57,reviewed,us,us
-2025-01-15T02:06:36.450Z,35.9531667,-117.6808333,4.81,1.29,ml,23,61,0.02526,0.17,ci,ci40839823,2025-01-15T15:27:22.164Z,"20 km E of Little Lake, CA",earthquake,0.2,0.34,0.182,25,reviewed,ci,ci
