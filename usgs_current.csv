@@ -1,9 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-17T00:27:48.505Z,39.1491,-119.054,6,1.7,ml,14,80.17,0.023,0.1356,nn,nn00892083,2025-01-17T00:29:55.406Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.23,8,automatic,nn,nn
+2025-01-17T00:25:42.570Z,34.0451667,-117.1318333,5.93,1.31,ml,65,24,0.01881,0.17,ci,ci40841527,2025-01-17T00:30:01.731Z,"3 km S of Mentone, CA",earthquake,0.13,0.36,0.135,27,automatic,ci,ci
+2025-01-17T00:25:37.161Z,31.581,-104.535,3.4009,1.7,ml,7,156,0.1,0.2,tx,tx2025bdgx,2025-01-17T00:29:39.781Z,"66 km NNE of Van Horn, Texas",earthquake,0,3.1821694374084,0.1,7,automatic,tx,tx
+2025-01-17T00:23:16.040Z,38.82149887085,-122.85333251953,2.75,1.07,md,19,114,0.006641,0.02,nc,nc75118221,2025-01-17T00:24:53.526Z,"10 km NW of The Geysers, CA",earthquake,0.26,0.460000008,0.14,19,automatic,nc,nc
+2025-01-17T00:18:39.203Z,61.3432,-146.9437,15.3,2.2,ml,,,,0.56,ak,ak025s48ub4,2025-01-17T00:20:50.054Z,"39 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-17T00:12:06.410Z,33.169,-116.0343333,6.54,0.67,ml,29,62,0.04767,0.22,ci,ci40841503,2025-01-17T00:16:57.937Z,"10 km ENE of Ocotillo Wells, CA",earthquake,0.33,0.7,0.102,8,automatic,ci,ci
 2025-01-17T00:02:27.130Z,33.4066667,-116.4465,11.69,0.84,ml,36,64,0.1108,0.25,ci,ci40841495,2025-01-17T00:08:02.693Z,"18 km NNW of Borrego Springs, CA",earthquake,0.26,0.81,0.195,28,automatic,ci,ci
 2025-01-16T23:59:20.840Z,33.977,-116.8608333,18.29,1.09,ml,47,46,0.07285,0.18,ci,ci40841479,2025-01-17T00:03:56.544Z,"6 km NNE of Banning, CA",earthquake,0.18,0.38,0.292,27,automatic,ci,ci
-2025-01-16T23:50:50.230Z,19.173334121704,-155.49549865723,32.599998474121,2.62,ml,64,93,0.03625,0.109999999,hv,hv74593562,2025-01-16T23:54:06.190Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.38,0.49000001,0.27,32,automatic,hv,hv
+2025-01-16T23:50:50.240Z,19.174,-155.496,32.74,2.86,ml,62,91,0.03699,0.12,hv,hv74593562,2025-01-17T00:31:07.971Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.38,0.46,0.20153475560186,42,reviewed,hv,hv
 2025-01-16T23:28:49.500Z,33.1665,-116.036,6.73,2.22,ml,71,27,0.04936,0.2,ci,ci40841463,2025-01-16T23:39:52.550Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.13,0.5,0.143,26,automatic,ci,ci
-2025-01-16T23:24:12.430Z,61.337,-146.958,4,4.1,ml,,,,0.68,ak,ak025qufoy6,2025-01-16T23:55:03.394Z,"40 km NW of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-01-16T23:24:12.430Z,61.337,-146.958,4,4.1,ml,,,,0.68,ak,ak025qufoy6,2025-01-17T00:25:48.193Z,"40 km NW of Valdez, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-01-16T23:17:57.320Z,35.8953333,-117.7271667,4.46,0.85,ml,21,60,0.08146,0.13,ci,ci40841447,2025-01-16T23:21:47.876Z,"17 km ESE of Little Lake, CA",earthquake,0.17,0.37,0.202,15,automatic,ci,ci
 2025-01-16T22:49:25.440Z,38.838665008545,-122.83850097656,1.8300000429153,0.75,md,16,112,0.002355,0.02,nc,nc75118196,2025-01-16T22:51:03.011Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.409999996,0.15,15,automatic,nc,nc
 2025-01-16T22:43:12.540Z,38.836498260498,-122.80216979981,2.3599998950958,0.31,md,7,137,0.009431,0.01,nc,nc75118191,2025-01-16T22:44:48.750Z,"7 km WNW of Cobb, CA",earthquake,0.65,1.88999999,0.2,8,automatic,nc,nc
@@ -220,9 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-16T00:50:52.090Z,33.1695,-116.0378333,6.58,1.62,ml,51,39,0.05055,0.18,ci,ci40840583,2025-01-16T01:12:57.914Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.51,0.169,26,reviewed,ci,ci
 2025-01-16T00:49:47.130Z,34.2721667,-117.15,7.45,0.98,ml,24,79,0.07788,0.12,ci,ci40840575,2025-01-16T01:07:39.972Z,"4 km NE of Lake Arrowhead, CA",earthquake,0.2,0.51,0.156,13,reviewed,ci,ci
 2025-01-16T00:33:55.500Z,35.0455,-117.6683333,-0.79,1.68,ml,33,70,0.1132,0.18,ci,ci40840567,2025-01-16T01:05:05.959Z,"5 km NNW of Boron, CA",quarry blast,0.37,31.61,0.156,26,reviewed,ci,ci
-2025-01-16T00:27:24.318Z,51.2035,179.7276,17.8,3.7,ml,,,,0.53,ak,ak025qgre7y,2025-01-16T02:57:53.522Z,"263 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2025-01-16T00:24:53.950Z,61.928666666667,-144.15,14.5,-0.12,ml,4,214,0.01163,0.33,av,av93030294,2025-01-16T19:43:26.960Z,"48 km ENE of Kenny Lake, Alaska",earthquake,2.66,1.14,0.13072452283323,4,reviewed,av,av
-2025-01-16T00:24:36.310Z,56.164833333333,-159.42533333333,11.84,0.57,ml,8,70,0.0492,0.24,av,av93457506,2025-01-16T19:36:44.930Z,"29 km N of Ivanof Bay, Alaska",earthquake,0.5,1.17,0.29802998872932,8,reviewed,av,av
-2025-01-16T00:22:57.640Z,38.793834686279,-122.78099822998,3.3099999427795,1.74,md,37,78,0.005447,0.04,nc,nc75117786,2025-01-16T00:26:17.030Z,"3 km NW of The Geysers, CA",earthquake,0.2,0.330000013,0.13,38,automatic,nc,nc
-2025-01-16T00:21:33.379Z,39.1651,-119.0193,4.6,1.2,ml,9,111.36,0.016,0.0838,nn,nn00892039,2025-01-16T01:15:14.271Z,"23 km NNE of Yerington, Nevada",earthquake,,1.4,0.26,5,reviewed,nn,nn
-2025-01-16T00:12:20.251Z,39.1442,-119.0696,4.9,1.4,ml,11,79.61,0.034,0.1107,nn,nn00892038,2025-01-16T01:09:05.420Z,"19 km NNE of Yerington, Nevada",earthquake,,1.5,0.11,5,reviewed,nn,nn
