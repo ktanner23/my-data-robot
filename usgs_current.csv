@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T18:12:36.663Z,32.443,-101.687,4.4056,1.2,ml,16,90,0.1,0.3,tx,tx2025brkp,2025-01-24T18:23:14.127Z,"9 km SSE of Ackerly, Texas",earthquake,0,1.3103835582733,0.1,10,automatic,tx,tx
 2025-01-24T18:08:10.739Z,31.129,-103.257,3.844,2.2,ml,13,66,0,0.1,tx,tx2025brkm,2025-01-24T19:03:53.404Z,"22 km SW of Coyanosa, Texas",earthquake,1.2337229456264,1.3518160406884,0.2,12,reviewed,tx,tx
 2025-01-24T18:06:22.297Z,61.6398,-149.5822,19.9,2,ml,,,,0.92,ak,ak02513zngrg,2025-01-24T18:07:43.923Z,"1 km NNE of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-24T18:02:24.783Z,40.941,-74.0552,7.658,2.4,mb_lg,52,82,0.129,0.6,us,us6000pm5s,2025-01-24T19:30:44.754Z,"1 km ESE of Paramus, New Jersey",earthquake,1.3,4.838,0.147,12,reviewed,us,us
+2025-01-24T18:02:24.783Z,40.941,-74.0552,7.658,2.4,mb_lg,52,82,0.129,0.6,us,us6000pm5s,2025-01-24T19:41:15.277Z,"1 km ESE of Paramus, New Jersey",earthquake,1.3,4.838,0.147,12,reviewed,us,us
 2025-01-24T17:58:12.120Z,47.593,-122.74983333333,27.09,0.85,ml,6,253,0.05851,0.16,uw,uw62072086,2025-01-24T18:25:53.390Z,"3 km SW of Chico, Washington",earthquake,1.23,1,0.17617880959302,3,reviewed,uw,uw
 2025-01-24T17:57:52.120Z,36.445835113525,-120.99333190918,9.6300001144409,1.74,md,18,81,0.05297,0.14,nc,nc75122331,2025-01-24T17:59:31.310Z,"16 km SE of Pinnacles, CA",earthquake,0.4,1.08000004,0.21,15,automatic,nc,nc
 2025-01-24T17:15:40.722Z,59.2915,-151.6342,44.4,2.4,ml,,,,0.39,ak,ak02513z400o,2025-01-24T19:23:55.040Z,"12 km ESE of Port Graham, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -148,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T01:52:40.843Z,59.0036,-154.1336,115.4,1.8,ml,,,,1.5,ak,ak02513pszur,2025-01-24T01:56:52.569Z,"60 km SE of Kokhanok, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-01-24T01:49:44.990Z,36.639667510986,-121.29266357422,7.4099998474121,2.58,md,65,32,0.03376,0.26,nc,nc75121956,2025-01-24T04:50:44.040Z,"17 km S of Tres Pinos, CA",earthquake,0.3,0.860000014,0.12,68,automatic,nc,nc
 2025-01-24T01:47:27.208Z,63.5575,-147.9131,17.9,1.5,ml,,,,0.46,ak,ak02513prw7k,2025-01-24T01:50:24.655Z,"53 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-01-24T01:45:38.250Z,35.2493333,-119.3641667,10.91,2.7,ml,72,52,0.1127,0.23,ci,ci41034816,2025-01-24T19:34:56.164Z,"14 km NE of Taft, CA",earthquake,0.19,0.58,0.206,26,reviewed,ci,ci
+2025-01-24T01:45:38.250Z,35.2493333,-119.3641667,10.91,2.7,ml,72,52,0.1127,0.23,ci,ci41034816,2025-01-24T19:36:03.930Z,"14 km NE of Taft, CA",earthquake,0.19,0.58,0.206,26,reviewed,ci,ci
 2025-01-24T01:29:37.960Z,46.213666666667,-122.33583333333,10.31,0.15,ml,8,147,0.02809,0.09,uw,uw62072006,2025-01-24T16:43:03.500Z,"34 km NNE of Amboy, Washington",earthquake,0.43,0.64,0.048668638500804,4,reviewed,uw,uw
 2025-01-24T01:10:49.090Z,35.547,-96.74266667,6.64,1.92,ml,76,34,0.01169770451,0.17,ok,ok2025bqcx,2025-01-24T13:37:45.442Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.22,33,reviewed,ok,ok
 2025-01-24T01:01:43.693Z,9.3248,40.1013,10,4.7,mb,33,114,3.478,1.19,us,us6000plyr,2025-01-24T01:41:55.040Z,"38 km N of Āwash, Ethiopia",earthquake,12.02,1.938,0.108,26,reviewed,us,us
@@ -187,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-23T19:59:45.626Z,63.4679,-147.4431,24,1.4,ml,,,,0.6,ak,ak02512d0yma,2025-01-23T20:01:23.441Z,"75 km E of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-01-23T19:59:27.975Z,-27.637,-13.3812,10,4.8,mb,57,66,9.446,0.4,us,us6000plwx,2025-01-23T20:59:50.040Z,"southern Mid-Atlantic Ridge",earthquake,10.87,1.864,0.067,70,reviewed,us,us
 2025-01-23T19:56:04.500Z,35.962333679199,-120.52133178711,10.319999694824,1.87,md,30,59,0.02136,0.08,nc,nc75121816,2025-01-23T19:58:58.780Z,"11 km NW of Parkfield, CA",earthquake,0.22,0.319999993,0.22,21,automatic,nc,nc
-2025-01-23T19:41:53.491Z,31.673,-104.337,6.1383,1.7,ml,24,65,0.1,0.1,tx,tx2025bpsc,2025-01-23T20:36:09.067Z,"55 km S of Whites City, New Mexico",earthquake,0.52232313841435,0.60111449885962,0.2,30,reviewed,tx,tx
-2025-01-23T19:40:35.950Z,18.0555,-66.828666666667,20.58,2.3,md,6,127,0.09338,0.09,pr,pr71471348,2025-01-23T20:06:10.540Z,"3 km NE of Yauco, Puerto Rico",earthquake,0.54,1.12,0.061522262383621,5,reviewed,pr,pr
-2025-01-23T19:35:46.710Z,61.0883,-151.2349,61.1,1.7,ml,,,,0.36,ak,ak02512cvtin,2025-01-23T19:37:59.604Z,"5 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
