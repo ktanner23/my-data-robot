@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-27T07:16:54.820Z,33.1368333,-116.6433333,4.69,0.55,ml,27,71,0.06224,0.19,ci,ci40852391,2025-01-27T07:21:01.442Z,"8 km NNW of Julian, CA",earthquake,0.25,0.4,0.127,7,automatic,ci,ci
-2025-01-27T06:55:03.771Z,-17.7488,168.0791,35,5.1,mww,57,70,2.438,0.86,us,us6000pmix,2025-01-27T07:27:24.957Z,"24 km W of Port-Vila, Vanuatu",earthquake,7.88,1.913,0.089,12,reviewed,us,us
+2025-01-27T06:55:03.771Z,-17.7488,168.0791,35,5.1,mww,57,70,2.438,0.86,us,us6000pmix,2025-01-27T07:32:35.786Z,"24 km W of Port-Vila, Vanuatu",earthquake,7.88,1.913,0.089,12,reviewed,us,us
 2025-01-27T06:50:15.420Z,38.83150100708,-122.82050323486,1.4400000572205,0.4,md,7,131,0.01148,0.04,nc,nc75123811,2025-01-27T06:51:51.306Z,"8 km NNW of The Geysers, CA",earthquake,0.53,1.02999997,0.3,9,automatic,nc,nc
-2025-01-27T06:49:57.792Z,31.58,-104.591,3.5104,1.6,ml,8,178,0.1,0.1,tx,tx2025bwap,2025-01-27T07:11:17.712Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.3515787124634,0.2,6,automatic,tx,tx
+2025-01-27T06:49:57.775Z,31.579,-104.587,3.7836,1.6,ml,8,176,0.1,0.1,tx,tx2025bwap,2025-01-27T07:34:12.836Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.2332768440247,0.2,6,automatic,tx,tx
 2025-01-27T06:42:46.896Z,38.1983,-117.8441,1.5,2,ml,22,110.49,0.111,0.3447,nn,nn00892544,2025-01-27T06:45:53.109Z,"31 km SE of Mina, Nevada",earthquake,,1.5,0.2,13,automatic,nn,nn
 2025-01-27T06:40:43.407Z,7.3991,124.4644,396.488,4.5,mb,83,45,1.153,0.76,us,us6000pmiv,2025-01-27T07:06:38.040Z,"6 km ESE of Nuyo, Philippines",earthquake,9.96,6.604,0.056,94,reviewed,us,us
 2025-01-27T06:35:38.260Z,32.8373333,-116.298,14.08,0.7,ml,26,59,0.117,0.17,ci,ci40852383,2025-01-27T06:39:09.274Z,"22 km E of Pine Valley, CA",earthquake,0.25,0.67,0.127,7,automatic,ci,ci
@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T00:20:14.610Z,35.0306667,-117.6803333,-0.77,1.47,ml,42,40,0.09694,0.25,ci,ci40852143,2025-01-27T00:24:12.182Z,"4 km NW of Boron, CA",earthquake,0.33,0.77,0.094,33,automatic,ci,ci
 2025-01-27T00:18:48.370Z,22.6832,121.1193,2.676,5,mb,70,88,0.139,0.91,us,us6000pmhf,2025-01-27T01:30:41.257Z,"73 km ENE of Donggang, Taiwan",earthquake,4.99,4.789,0.075,57,reviewed,us,us
 2025-01-27T00:13:59.090Z,38.7517,-119.2141,5.5,1.8,ml,9,129.72,0.234,0.0518,nn,nn00892539,2025-01-27T00:16:18.034Z,"11 km ESE of Smith, Nevada",earthquake,,2,0.32,6,automatic,nn,nn
-2025-01-27T00:05:07.000Z,40.265998840332,-124.56916809082,21.690000534058,2.7,md,13,289,0.1748,0.08,nc,nc75123626,2025-01-27T00:42:18.646Z,"25 km W of Petrolia, CA",earthquake,3.95,0.879999995,0.06,12,automatic,nc,nc
+2025-01-27T00:05:00.810Z,40.268,-124.96016666667,1.28,2.63,md,70,278,0.4729,0.26,nc,nc75123626,2025-01-27T07:37:05.636Z,"58 km W of Petrolia, CA",earthquake,0.81,1.28,0.206,46,reviewed,nc,nc
 2025-01-27T00:01:09.020Z,38.834167480469,-122.81549835205,1.1900000572205,0.59,md,10,90,0.01156,0.01,nc,nc75123621,2025-01-27T00:02:45.553Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.910000026,0.4,10,automatic,nc,nc
 2025-01-26T23:57:16.080Z,38.823333740234,-122.80950164795,3.2599999904633,0.64,md,7,142,0.0004512,0.01,nc,nc75123616,2025-01-26T23:58:50.509Z,"7 km NNW of The Geysers, CA",earthquake,0.62,2.13000011,0.43,8,automatic,nc,nc
 2025-01-26T23:47:41.325Z,31.274,-103.345,7.5775,1.8,ml,8,163,0,0.6,tx,tx2025bvms,2025-01-26T23:56:09.371Z,"21 km ESE of Lindsay, Texas",earthquake,0,4.0846266746521,0.2,6,automatic,tx,tx
@@ -228,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-26T08:08:54.640Z,33.6873333,-116.7768333,18.31,0.89,ml,36,58,0.06036,0.16,ci,ci40851471,2025-01-26T16:26:51.810Z,"8 km SW of Idyllwild, CA",earthquake,0.26,0.37,0.141,30,reviewed,ci,ci
 2025-01-26T08:04:36.002Z,31.58,-104.591,2.6045,2.1,ml,23,178,0.1,0.3,tx,tx2025buho,2025-01-26T08:42:50.782Z,"64 km NNE of Van Horn, Texas",earthquake,0,2.126326084137,0.2,19,automatic,tx,tx
 2025-01-26T07:57:02.550Z,17.959333333333,-66.908,10.77,2.8,md,14,202,0.01282,0.18,pr,pr71471508,2025-01-26T08:10:48.000Z,"1 km S of Guánica, Puerto Rico",earthquake,0.58,0.38,0.20892100277645,5,reviewed,pr,pr
-2025-01-26T07:32:36.420Z,38.798332214355,-122.81483459473,3.9300000667572,0.44,md,7,116,0.01358,0.01,nc,nc75123186,2025-01-26T07:34:15.252Z,"6 km NW of The Geysers, CA",earthquake,1.11,1.82000005,0.19,8,automatic,nc,nc
