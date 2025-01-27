@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-27T23:47:59.272Z,60.1481,-142.6236,0,1.9,ml,,,,1.1,ak,ak025191hjh3,2025-01-27T23:49:55.816Z,"144 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-27T23:47:03.540Z,40.274833679199,-125.10099792481,6.0900001525879,1.87,md,13,320,0.5803,0.12,nc,nc75124201,2025-01-27T23:48:50.360Z,"69 km W of Petrolia, CA",earthquake,8.83,7.07999992,0.12,7,automatic,nc,nc
-2025-01-27T23:43:24.640Z,40.162666320801,-121.0556640625,4.210000038147,2.14,md,15,150,0.1771,0.18,nc,nc75124196,2025-01-27T23:48:46.714Z,"2 km SE of Canyondam, CA",earthquake,0.69,2.83999991,0.08,15,automatic,nc,nc
+2025-01-27T23:43:24.640Z,40.162666320801,-121.0556640625,4.210000038147,2.14,md,15,150,0.1771,0.18,nc,nc75124196,2025-01-27T23:52:16.945Z,"2 km SE of Canyondam, CA",earthquake,0.69,2.83999991,0.08,15,automatic,nc,nc
 2025-01-27T23:31:44.250Z,38.664501190185,-122.37266540527,6.5,1.89,md,20,69,0.04112,0.12,nc,nc75124191,2025-01-27T23:33:20.316Z,"12 km NE of Angwin, CA",earthquake,0.34,0.800000012,0.12,18,automatic,nc,nc
 2025-01-27T23:19:30.930Z,35.7993333,-117.6205,8.3,1.05,ml,22,61,0.1177,0.17,ci,ci40853119,2025-01-27T23:22:55.280Z,"20 km W of Searles Valley, CA",earthquake,0.22,0.83,0.187,14,automatic,ci,ci
 2025-01-27T23:13:18.170Z,38.778499603271,-122.75816345215,1.3999999761581,0.85,md,7,143,0.009771,0.03,nc,nc75124176,2025-01-27T23:14:56.282Z,"0 km NW of The Geysers, CA",earthquake,0.41,0.560000002,0.15,8,automatic,nc,nc
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T16:26:40.652Z,59.8522,-152.5814,82.4,2,ml,,,,0.46,ak,ak02518x6yrl,2025-01-27T16:29:31.352Z,"42 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-01-27T16:10:43.410Z,40.297164916992,-124.76266479492,4.0700001716614,2.26,md,7,301,0.4545,0.09,nc,nc75123976,2025-01-27T17:16:01.293Z,"41 km W of Petrolia, CA",earthquake,5.48,6.80999994,0.36,4,automatic,nc,nc
 2025-01-27T15:48:57.290Z,35.6348333,-118.2036667,11.04,1.42,ml,23,70,0.0684,0.14,ci,ci40852591,2025-01-27T15:53:06.531Z,"24 km ESE of Kernville, CA",earthquake,0.2,0.43,0.229,26,automatic,ci,ci
-2025-01-27T15:22:56.784Z,43.0621,-70.5657,13.174,3.8,mwr,41,137,0.853,0.86,us,us6000pmk3,2025-01-27T23:47:34.036Z,"10 km SE of York Harbor, Maine",earthquake,2.2,5.911,0.047,43,reviewed,us,us
+2025-01-27T15:22:56.784Z,43.0621,-70.5657,13.174,3.8,mwr,41,137,0.853,0.86,us,us6000pmk3,2025-01-27T23:58:16.392Z,"10 km SE of York Harbor, Maine",earthquake,2.2,5.911,0.047,43,reviewed,us,us
 2025-01-27T15:12:42.960Z,37.473333333333,-118.838,3.07,0.26,md,10,194,0.1167,0.03,nc,nc75123971,2025-01-27T21:23:49.214Z,"17 km WSW of Toms Place, CA",earthquake,0.62,2.83,0.214,6,reviewed,nc,nc
 2025-01-27T15:08:10.730Z,38.832833333333,-122.80233333333,2.6,0.42,md,15,49,0.01089,0.02,nc,nc75123966,2025-01-27T23:24:57.345Z,"7 km WNW of Cobb, CA",earthquake,0.35,0.54,0.229,14,reviewed,nc,nc
 2025-01-27T15:04:59.767Z,65.2219,-150.2353,15.4,1.3,ml,,,,0.38,ak,ak02518wguvs,2025-01-27T15:07:34.932Z,"30 km NE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -138,6 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T08:00:47.780Z,37.653333333333,-118.86766666667,2.03,0.13,md,12,99,0.02481,0.05,nc,nc75123826,2025-01-27T10:32:35.532Z,"10 km E of Mammoth Lakes, CA",earthquake,0.35,0.96,0.195,11,reviewed,nc,nc
 2025-01-27T07:58:58.338Z,61.5762,-151.0527,68,2.1,ml,,,,0.19,ak,ak02518s0yll,2025-01-27T08:00:23.426Z,"28 km W of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-01-27T07:58:39.060Z,33.4833333,-116.4426667,10.75,0.72,ml,49,70,0.1288,0.2,ci,ci40852399,2025-01-27T14:30:28.865Z,"23 km ESE of Anza, CA",earthquake,0.19,0.37,0.181,23,reviewed,ci,ci
+2025-01-27T07:54:36.510Z,57.085,-135.75283333333,6.02,0.52,ml,4,257,0.0278,0.16,av,av93473731,2025-01-27T23:51:53.250Z,"25 km W of Sitka, Alaska",earthquake,1.39,1.05,0.15437688874592,4,reviewed,av,av
 2025-01-27T07:48:55.240Z,37.656666666667,-118.8725,2.58,0.26,md,12,74,0.02287,0.05,nc,nc75123821,2025-01-27T10:30:34.644Z,"10 km E of Mammoth Lakes, CA",earthquake,0.28,0.51,0.118,12,reviewed,nc,nc
 2025-01-27T07:38:27.834Z,9.3347,40.2412,10,4.7,mb,58,92,3.366,0.93,us,us6000pmiy,2025-01-27T20:16:46.915Z,"39 km NNE of Āwash, Ethiopia",earthquake,10.69,1.925,0.084,43,reviewed,us,us
 2025-01-27T07:25:54.820Z,45.132166666667,-121.7515,10.12,0.79,ml,20,97,0.1603,0.16,uw,uw62072476,2025-01-27T19:46:28.620Z,"13 km SSW of Wapanitia, Oregon",earthquake,0.31,1.81,0.19283936014212,6,reviewed,uw,uw
@@ -230,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T00:16:23.570Z,38.737833333333,-122.7145,1.73,0.75,md,8,144,0.003694,0.03,nc,nc75123631,2025-01-27T09:42:50.423Z,"5 km SW of Anderson Springs, CA",earthquake,0.33,0.32,0.271,5,reviewed,nc,nc
 2025-01-27T00:05:00.810Z,40.268,-124.96016666667,1.28,2.63,md,70,278,0.4729,0.26,nc,nc75123626,2025-01-27T08:07:16.587Z,"58 km W of Petrolia, CA",earthquake,0.81,1.28,0.206,46,reviewed,nc,nc
 2025-01-27T00:01:09.020Z,38.834167480469,-122.81549835205,1.1900000572205,0.59,md,10,90,0.01156,0.01,nc,nc75123621,2025-01-27T00:02:45.553Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.910000026,0.4,10,automatic,nc,nc
-2025-01-26T23:57:16.080Z,38.823333740234,-122.80950164795,3.2599999904633,0.64,md,7,142,0.0004512,0.01,nc,nc75123616,2025-01-26T23:58:50.509Z,"7 km NNW of The Geysers, CA",earthquake,0.62,2.13000011,0.43,8,automatic,nc,nc
