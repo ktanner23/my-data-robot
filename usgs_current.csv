@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-01-28T17:37:47.430Z,38.807498931885,-122.75150299072,-0.070000000298023,1.28,md,13,110,0.009394,0.03,nc,nc75124656,2025-01-28T17:39:27.369Z,"3 km WSW of Cobb, CA",earthquake,0.25,0.850000024,0.17,15,automatic,nc,nc
-2025-01-28T17:33:49.250Z,34.0555,-117.2593307,15.41,1.68,ml,77,22,0.07367,0.2,ci,ci40853735,2025-01-28T17:35:54.141Z,"1 km NNE of Loma Linda, CA",earthquake,0.21,0.35,0.329,24,automatic,ci,ci
+2025-01-28T17:33:49.250Z,34.0555,-117.2593307,15.41,1.68,ml,77,22,0.07367,0.2,ci,ci40853735,2025-01-28T17:45:03.940Z,"1 km NNE of Loma Linda, CA",earthquake,0.21,0.35,0.329,24,automatic,ci,ci
 2025-01-28T17:07:12.787Z,32.372,-101.924,5.1878,1.5,ml,41,27,0,0.4,tx,tx2025byqm,2025-01-28T17:25:14.831Z,"26 km SW of Ackerly, Texas",earthquake,0,1.25157725811,0.2,28,automatic,tx,tx
 2025-01-28T16:59:33.260Z,38.825332641602,-122.85299682617,2.2599999904633,0.84,md,13,112,0.003748,0.02,nc,nc75124631,2025-01-28T17:01:10.933Z,"10 km NW of The Geysers, CA",earthquake,0.33,0.50999999,0.19,15,automatic,nc,nc
 2025-01-28T16:59:09.710Z,38.824165344238,-122.85500335693,2.1099998950958,1.49,md,21,114,0.003677,0.03,nc,nc75124626,2025-01-28T17:06:09.563Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.360000014,0.19,26,automatic,nc,nc
@@ -59,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T09:38:35.143Z,61.553,-149.8536,34.5,1.4,ml,,,,0.48,ak,ak0251agmu6y,2025-01-28T09:40:41.545Z,"6 km ENE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-28T09:32:24.175Z,61.6309,-150.7779,43,2.3,ml,,,,0.32,ak,ak0251aglj1t,2025-01-28T09:34:07.864Z,"17 km NW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-28T09:29:49.941Z,59.9455,-143.2452,35.8,2,ml,,,,0.92,ak,ak0251agkxw2,2025-01-28T09:31:43.553Z,"154 km ESE of Cordova, Alaska",earthquake,,4.4,,,automatic,ak,ak
+2025-01-28T09:22:26.070Z,57.009,-136.06433333333,13.72,1.93,ml,5,348,0.1526,0.11,av,av93474921,2025-01-28T17:44:03.520Z,"44 km W of Sitka, Alaska",earthquake,2.82,0.51,0.23246000662833,8,reviewed,av,av
 2025-01-28T09:18:23.800Z,38.812831878662,-122.82499694824,1.8899999856949,0.75,md,8,85,0.005132,0.01,nc,nc75124436,2025-01-28T09:20:01.612Z,"7 km NW of The Geysers, CA",earthquake,0.52,1.03999996,0.2,8,automatic,nc,nc
 2025-01-28T09:12:48.690Z,34.043,-117.0228333,13.38,0.7,ml,31,52,0.07476,0.18,ci,ci40853431,2025-01-28T09:17:24.876Z,"2 km ENE of Yucaipa, CA",earthquake,0.24,0.61,0.233,24,automatic,ci,ci
 2025-01-28T09:11:52.260Z,17.956,-66.924,13.6,2.14,md,7,205,0.04661,0.06,pr,pr71471683,2025-01-28T10:11:05.860Z,"2 km SW of Guánica, Puerto Rico",earthquake,0.63,0.38,0.046422033108012,5,reviewed,pr,pr
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-28T08:11:34.040Z,61.0454,-151.3537,60.7,2.1,ml,,,,0.24,ak,ak0251afvm64,2025-01-28T10:39:57.040Z,"11 km WSW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-01-28T08:01:04.640Z,38.82149887085,-122.81233215332,3.1099998950958,0.76,md,14,66,0.002588,0.03,nc,nc75124426,2025-01-28T08:02:41.237Z,"7 km NNW of The Geysers, CA",earthquake,0.37,1,0.06,15,automatic,nc,nc
 2025-01-28T07:57:42.913Z,15.4967,-93.2222,107.123,4.6,mb,54,130,1.304,0.91,us,us6000pmr8,2025-01-28T14:45:06.654Z,"0 km W of El Palmarcito, Mexico",earthquake,6.72,7.661,0.03,338,reviewed,us,us
-2025-01-28T07:54:47.910Z,34.5128333,-119.1075,7.1,1.11,ml,7,270,0.1376,0.11,ci,ci40853423,2025-01-28T07:59:19.620Z,"14 km ENE of Ojai, CA",earthquake,1.37,3.47,0.37,26,automatic,ci,ci
+2025-01-28T07:54:48.590Z,34.5568333,-119.1478333,0.96,0.7,ml,12,100,0.1139,0.19,ci,ci40853423,2025-01-28T17:41:51.293Z,"15 km NE of Ojai, CA",earthquake,0.32,0.53,0.122,9,reviewed,ci,ci
 2025-01-28T07:50:21.020Z,32.4843333,-115.6003333,7.32,1.28,ml,18,220,0.05564,0.22,ci,ci40853415,2025-01-28T07:54:14.685Z,"11 km S of Progreso, B.C., MX",earthquake,0.93,0.69,0.239,19,automatic,ci,ci
 2025-01-28T07:49:55.710Z,38.796333312988,-122.76533508301,3.5099999904633,0.97,md,11,74,0.006138,0.01,nc,nc75124421,2025-01-28T08:02:42.416Z,"2 km  of The Geysers, CA",earthquake,0.42,0.949999988,0.18,12,automatic,nc,nc
 2025-01-28T07:40:56.980Z,59.3926,-153.2627,103.9,2.8,ml,,,,0.41,ak,ak0251afgg3g,2025-01-28T07:42:47.051Z,"64 km SE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -224,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-27T18:09:59.860Z,61.2656,-152.248,4.9,1.4,ml,,,,0.5,ak,ak02518ya8aa,2025-01-27T22:52:44.130Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-01-27T18:08:56.104Z,-5.6781,152.8089,10,4.6,mb,37,163,1.611,0.69,us,us6000pmm1,2025-01-27T18:28:51.040Z,"159 km SSE of Kokopo, Papua New Guinea",earthquake,9.92,1.92,0.109,25,reviewed,us,us
 2025-01-27T18:00:10.150Z,44.3925,-114.6945,5.16,1.24,ml,12,151,0.3064,0.16,mb,mb90071693,2025-01-27T21:08:57.020Z,"27 km NE of Stanley, Idaho",earthquake,0.75,2.5,0.18250152202801,15,reviewed,mb,mb
-2025-01-27T17:39:51.680Z,38.818833333333,-122.806,3.74,0.21,md,12,75,0.005557,0.01,nc,nc75124016,2025-01-27T23:27:58.142Z,"6 km NNW of The Geysers, CA",earthquake,0.35,0.43,0.408,13,reviewed,nc,nc
