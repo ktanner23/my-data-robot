@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-30T08:52:39.640Z,32.7666667,-115.5186667,12.52,1.22,ml,26,100,0.06615,0.24,ci,ci40175114,2025-01-30T08:56:11.312Z,"4 km NNE of Heber, CA",earthquake,0.39,0.61,0.241,16,automatic,ci,ci
+2025-01-30T08:48:03.411Z,61.4325,-146.6353,24.9,1.7,ml,,,,0.74,ak,ak0251dr66ad,2025-01-30T08:50:00.626Z,"36 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-01-30T08:46:20.620Z,34.0133333,-117.1905,7.41,0.62,ml,25,68,0.06741,0.18,ci,ci40175106,2025-01-30T08:50:58.056Z,"5 km S of Redlands, CA",earthquake,0.26,0.78,0.366,17,automatic,ci,ci
+2025-01-30T08:45:36.049Z,32.407,-102.08,5.798,2.1,ml,63,52,0,0.5,tx,tx2025cbqy,2025-01-30T08:58:53.554Z,"36 km WSW of Ackerly, Texas",earthquake,0,0.91787195205688,0.1,43,automatic,tx,tx
 2025-01-30T08:45:34.230Z,35.44464874,-97.99337006,5,1.59,ml,11,144.5151711,0.03565241769,0.6680744086,ok,ok2025cbqy,2025-01-30T08:48:03.656Z,"7 km NW of Union City, Oklahoma",earthquake,,0,0.25,7,automatic,ok,ok
 2025-01-30T08:41:06.806Z,64.1394,-149.5184,0,2.2,ml,,,,0.68,ak,ak0251dr4ojc,2025-01-30T08:46:09.118Z,"20 km SW of Clear, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-30T08:40:37.329Z,63.5148,-152.9314,2.8,2.9,ml,,,,0.8,ak,ak0251dr4ja6,2025-01-30T08:43:43.263Z,"51 km SW of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -41,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T05:12:21.530Z,31.642,-104.35,4.1471,2.4,ml,21,68,0.1,0.2,tx,tx2025cbke,2025-01-30T05:44:54.469Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2429256439209,0.2,17,automatic,tx,tx
 2025-01-30T05:03:43.207Z,6.7426,-73.0795,152.573,4.7,mb,80,38,0.845,0.57,us,us7000p9zc,2025-01-30T06:07:16.040Z,"2 km ENE of Jordán, Colombia",earthquake,8.54,5.74,0.066,71,reviewed,us,us
 2025-01-30T04:53:11.354Z,51.9315,178.3574,121.645,4.4,mb,61,150,0.135,0.73,us,us7000p9za,2025-01-30T05:54:06.575Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,14.14,11.044,0.064,71,reviewed,us,us
-2025-01-30T04:40:08.758Z,62.9214,-156.3276,8.8,5.2,mww,,,,1.11,ak,ak0251doqqfp,2025-01-30T07:40:57.333Z,"15 km WSW of Takotna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-01-30T04:40:08.758Z,62.9214,-156.3276,8.8,5.2,mww,,,,1.11,ak,ak0251doqqfp,2025-01-30T08:50:20.462Z,"15 km WSW of Takotna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-01-30T04:35:01.280Z,38.836166381836,-122.78283691406,2.1800000667572,0.44,md,8,96,0.006276,0.01,nc,nc75125501,2025-01-30T04:36:37.144Z,"5 km WNW of Cobb, CA",earthquake,0.72,1.38999999,0.25,8,automatic,nc,nc
 2025-01-30T04:00:58.185Z,36.9159,-114.8347,14.1,1.2,ml,9,334.29,0.924,0.228,nn,nn00892725,2025-01-30T04:19:39.875Z,"33 km NW of Moapa Town, Nevada",earthquake,,2.1,0.35,3,automatic,nn,nn
 2025-01-30T03:59:48.860Z,34.0381667,-117.2783333,15.99,1.15,ml,52,54,0.09215,0.16,ci,ci40174666,2025-01-30T04:04:03.560Z,"2 km SW of Loma Linda, CA",earthquake,0.16,0.41,0.273,30,automatic,ci,ci
@@ -225,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-29T09:05:06.430Z,33.1933333,-115.9985,7.1,0.99,ml,40,73,0.02636,0.21,ci,ci40171882,2025-01-29T09:09:59.155Z,"12 km SSW of Salton City, CA",earthquake,0.24,0.45,0.225,17,automatic,ci,ci
 2025-01-29T09:00:36.358Z,36.7964,-115.8329,11.3,0.1,ml,15,253.38,0.088,0.0661,nn,nn00892684,2025-01-29T16:02:56.033Z,"29 km NNW of Indian Springs, Nevada",earthquake,,3,0.22,5,reviewed,nn,nn
 2025-01-29T08:59:11.581Z,41.9272,-119.573,0.4,2.3,ml,4,142.8,0.544,0.0648,nn,nn00892696,2025-01-29T17:50:33.313Z,"48 km E of Fort Bidwell, California",earthquake,,3.1,0.17,3,reviewed,nn,nn
-2025-01-29T08:55:25.186Z,36.8848,-115.9824,8.5,0,ml,12,149.43,0.02,0.119,nn,nn00892688,2025-01-29T15:59:48.800Z,"44 km NW of Indian Springs, Nevada",earthquake,,2.1,0.33,4,reviewed,nn,nn
-2025-01-29T08:54:05.449Z,57.0749,-155.0292,17,3,ml,,,,0.94,ak,ak0251c3o4bx,2025-01-29T08:57:11.841Z,"54 km WNW of Akhiok, Alaska",earthquake,,0.5,,,automatic,ak,ak
