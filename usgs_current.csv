@@ -5,8 +5,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-31T00:22:00.856Z,32.2,-102.141,5.2544,1.3,ml,13,152,0.1,0.3,tx,tx2025ccvv,2025-01-31T00:33:45.456Z,"23 km NNW of Midland, Texas",earthquake,0,3.4758183956146,0.2,10,automatic,tx,tx
 2025-01-30T23:56:49.490Z,37.2763,-116.7378,0,1.1,ml,17,182.45,0.133,0.2588,nn,nn00892764,2025-01-30T23:59:01.965Z,"40 km N of Beatty, Nevada",earthquake,,11.5,0.22,10,automatic,nn,nn
 2025-01-30T23:47:14.638Z,60.5,-151.8407,74.6,1.7,ml,,,,0.54,ak,ak0251e03hif,2025-01-30T23:49:02.910Z,"31 km WSW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-01-30T23:33:09.168Z,39.9497,-120.1541,0,1.4,ml,10,173.27,0.178,0.2257,nn,nn00892762,2025-01-30T23:35:30.000Z,"9 km SSW of Doyle, California",earthquake,,6.5,0.21,7,automatic,nn,nn
+2025-01-30T23:33:10.536Z,39.9327,-120.1489,7.4,1.4,ml,12,162.78,0.175,0.1411,nn,nn00892762,2025-01-31T00:56:02.542Z,"11 km SSW of Doyle, California",earthquake,,1.4,0.21,9,reviewed,nn,nn
 2025-01-30T23:25:41.550Z,38.7865,-122.7465,1.79,0.23,md,10,82,0.008305,0.01,nc,nc75126021,2025-01-31T00:11:16.765Z,"1 km NE of The Geysers, CA",earthquake,0.28,0.6,0.263,9,reviewed,nc,nc
+2025-01-30T23:24:17.280Z,34.3141667,-117.0075,6.56,0.9,ml,20,53,0.05721,0.12,ci,ci40176058,2025-01-31T00:57:38.888Z,"12 km NW of Big Bear Lake, CA",earthquake,0.21,0.56,0.162,12,reviewed,ci,ci
 2025-01-30T23:05:08.460Z,38.825668334961,-122.85416412353,2.4400000572205,0.77,md,11,134,0.002826,0.02,nc,nc75126011,2025-01-30T23:06:45.905Z,"10 km NW of The Geysers, CA",earthquake,0.44,0.610000014,0.13,13,automatic,nc,nc
 2025-01-30T23:04:36.158Z,60.291,-153.0797,148.6,1.6,ml,,,,0.34,ak,ak0251dzubdr,2025-01-30T23:06:46.482Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-01-30T23:04:10.640Z,38.820999145508,-122.84149932861,2.1199998855591,0.76,md,11,114,0.005478,0.01,nc,nc75126006,2025-01-30T23:05:45.198Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.689999998,0.23,12,automatic,nc,nc
@@ -15,7 +16,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T22:53:54.430Z,38.821166992188,-122.82333374023,2.2599999904633,0.32,md,11,84,0.009341,0.02,nc,nc75125996,2025-01-30T22:55:29.909Z,"8 km NW of The Geysers, CA",earthquake,0.33,0.850000024,0.18,13,automatic,nc,nc
 2025-01-30T22:53:52.980Z,19.418333333333,-154.94666666667,0.33,0.11,ml,9,165,0.03269,0.14,hv,hv74605592,2025-01-30T23:21:42.830Z,"6 km SSW of Leilani Estates, Hawaii",earthquake,0.47,0.3,0.057624924922811,1,reviewed,hv,hv
 2025-01-30T22:52:04.100Z,38.819831848145,-122.82283020019,2.4500000476837,1.34,md,25,50,0.01008,0.02,nc,nc75125986,2025-01-30T22:53:40.225Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.449999988,0.18,29,automatic,nc,nc
-2025-01-30T22:41:01.965Z,35.8544,-114.9645,1.7,1.9,ml,13,255.41,0.669,0.4175,nn,nn00892758,2025-01-30T22:45:11.604Z,"18 km SW of Boulder City, Nevada",earthquake,,10.3,0.18,8,automatic,nn,nn
 2025-01-30T22:15:03.980Z,38.835333333333,-122.80533333333,2.57,0.41,md,23,54,0.0121,0.03,nc,nc75125966,2025-01-30T23:41:08.666Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.41,0.132,23,reviewed,nc,nc
 2025-01-30T22:03:42.330Z,47.613666666667,-121.90183333333,1.02,0.57,ml,6,180,0.05552,0.06,uw,uw62065022,2025-01-30T22:33:48.460Z,"3 km SSE of Carnation, Washington",earthquake,0.35,0.6,0.1212604974712,3,reviewed,uw,uw
 2025-01-30T21:59:44.166Z,59.2699,-154.7543,8.6,1.8,ml,,,,0.57,ak,ak0251dyz96k,2025-01-30T22:01:59.728Z,"18 km S of Kokhanok, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -170,6 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T06:40:57.281Z,60.2599,-152.6748,103.6,1.4,ml,,,,0.77,ak,ak0251dpxpi8,2025-01-30T06:43:13.156Z,"60 km WNW of Ninilchik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-01-30T06:36:23.630Z,37.726833343506,-122.54133605957,8.1099996566772,1.59,md,15,99,0.08623,0.01,nc,nc75125531,2025-01-30T06:47:48.085Z,"3 km W of San Francisco Zoo, CA",earthquake,0.28,0.769999981,0.24,10,automatic,nc,nc
 2025-01-30T06:28:59.921Z,61.3266,-152.3578,116.6,1.8,ml,,,,0.34,ak,ak0251dpv548,2025-01-30T06:30:41.043Z,"71 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-01-30T06:28:18.680Z,53.926833333333,-166.56166666667,9.36,-0.16,ml,4,216,0.08181,0.09,av,av93031274,2025-01-31T00:45:41.960Z,"4 km NNW of Dutch Harbor, Alaska",earthquake,0.56,0.93,0.077165090770078,4,reviewed,av,av
 2025-01-30T06:27:47.020Z,17.959833333333,-66.9985,6.33,1.85,md,4,201,0.04456,0.08,pr,pr71471803,2025-01-30T06:44:55.210Z,"5 km ESE of La Parguera, Puerto Rico",earthquake,1.42,0.74,0.11979241623282,3,reviewed,pr,pr
 2025-01-30T06:26:59.002Z,63.5232,-152.2623,5.5,1.6,ml,,,,1.17,ak,ak0251dpupiv,2025-01-30T06:29:33.231Z,"26 km W of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-30T06:26:53.561Z,32.136,-101.101,7.0068,2,ml,15,66,0.2,0.1,tx,tx2025cbmj,2025-01-30T14:17:05.976Z,"25 km E of Forsan, Texas",earthquake,0.78230223862068,1.6826286535478,0.1,28,reviewed,tx,tx
@@ -233,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-30T02:11:53.871Z,23.1725,120.5796,10,5.1,mww,100,47,0.135,0.71,us,us7000p9yj,2025-01-30T16:28:59.120Z,"13 km ENE of Yujing, Taiwan",earthquake,4.86,1.749,0.086,13,reviewed,us,us
 2025-01-30T01:44:33.570Z,38.821334838867,-122.84600067139,2.3199999332428,0.79,md,16,77,0.008752,0.01,nc,nc75125471,2025-01-30T01:46:10.797Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.519999981,0.19,16,automatic,nc,nc
 2025-01-30T01:27:12.650Z,62.0075,-144.16433333333,9.75,0.16,ml,4,160,0.06751,0.07,av,av93031194,2025-01-30T21:21:00.090Z,"52 km NE of Kenny Lake, Alaska",earthquake,0.64,0.38,0.22250322712061,4,reviewed,av,av
-2025-01-30T01:10:56.450Z,38.820667266846,-122.82433319092,2.4900000095367,0.76,md,10,101,0.008706,0.01,nc,nc75125466,2025-01-30T01:12:31.834Z,"8 km NW of The Geysers, CA",earthquake,0.5,0.569999993,0.13,10,automatic,nc,nc
-2025-01-30T01:00:37.969Z,31.612,-103.994,8.4583,1.3,ml,11,62,0,0.1,tx,tx2025cbbp,2025-01-30T12:53:37.234Z,"38 km NNW of Toyah, Texas",earthquake,0.69693354391254,0.62062539475728,0.1,14,reviewed,tx,tx
-2025-01-30T00:56:22.366Z,-9.3885,118.0893,10,4.3,mb,12,97,0.637,1.2,us,us7000p9yf,2025-01-30T01:10:16.040Z,"102 km SSW of Dompu, Indonesia",earthquake,3.81,1.968,0.239,5,reviewed,us,us
