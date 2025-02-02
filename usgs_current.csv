@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-02T17:20:23.480Z,35.0099983,-119.0110016,7.49,1.63,ml,10,218,0.2337,0.13,ci,ci40178490,2025-02-02T17:24:47.720Z,"10 km NW of Grapevine, CA",earthquake,1.13,2.92,0.231,16,automatic,ci,ci
+2025-02-02T17:20:19.460Z,35.054,-119.0301667,7.77,0.59,ml,5,198,0.1513,0.01,ci,ci40178482,2025-02-02T17:24:09.438Z,"15 km NW of Grapevine, CA",earthquake,0.32,0.79,0.089,3,automatic,ci,ci
 2025-02-02T17:02:43.210Z,35.784832000732,-121.13800048828,5.2199997901917,1.02,md,10,215,0.07874,0.06,nc,nc75127166,2025-02-02T17:04:19.208Z,"16 km NNE of San Simeon, CA",earthquake,0.96,0.730000019,0.17,3,automatic,nc,nc
 2025-02-02T16:50:51.280Z,32.7593333,-116.0308333,7.48,1.22,ml,32,38,0.1275,0.16,ci,ci40178474,2025-02-02T16:54:22.578Z,"4 km NW of Ocotillo, CA",earthquake,0.19,0.77,0.233,28,automatic,ci,ci
 2025-02-02T16:50:32.110Z,38.635501861572,-122.84466552734,5.2300000190735,2.2,md,49,46,0.1016,0.11,nc,nc75127161,2025-02-02T17:14:00.634Z,"4 km NE of Healdsburg, CA",earthquake,0.19,0.839999974,0.18,52,automatic,nc,nc
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-02T10:16:22.130Z,38.815334320068,-122.83066558838,14.930000305176,1.01,md,8,179,0.01799,0.18,nc,nc75127086,2025-02-02T10:17:59.519Z,"8 km NW of The Geysers, CA",earthquake,4.7,13.5799999,0.16,10,automatic,nc,nc
 2025-02-02T10:14:29.640Z,33.3071667,-116.3425,10.28,0.87,ml,48,48,0.06156,0.18,ci,ci40178322,2025-02-02T16:19:16.830Z,"6 km NNE of Borrego Springs, CA",earthquake,0.2,0.37,0.151,18,reviewed,ci,ci
 2025-02-02T10:03:14.970Z,36.1141667,-117.783,7.35,1.42,ml,23,50,0.05829,0.18,ci,ci40178314,2025-02-02T16:18:24.125Z,"17 km ENE of Coso Junction, CA",earthquake,0.26,0.6,0.251,23,reviewed,ci,ci
-2025-02-02T09:59:31.750Z,32.1788333,-115.3871667,11.7,2.65,ml,12,243,0.3217,0.2,ci,ci40178306,2025-02-02T10:03:13.227Z,"21 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,3.45,15.91,0.199,26,automatic,ci,ci
+2025-02-02T09:59:31.750Z,32.1788333,-115.3871667,11.7,2.65,ml,12,243,0.3217,0.2,ci,ci40178306,2025-02-02T17:24:20.287Z,"21 km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,3.45,15.91,0.199,26,automatic,ci,ci
 2025-02-02T09:26:47.560Z,46.7895,-112.6495,3.86,1.39,ml,23,89,0.1215,0.17,mb,mb90071998,2025-02-02T14:18:42.270Z,"18 km S of Lincoln, Montana",earthquake,0.32,9.22,0.26846309952484,10,reviewed,mb,mb
 2025-02-02T09:22:30.460Z,32.977,-115.5695,8.2,1.33,ml,32,68,0.07568,0.24,ci,ci40178298,2025-02-02T09:33:12.400Z,"4 km W of Brawley, CA",earthquake,0.26,0.94,0.247,28,automatic,ci,ci
 2025-02-02T09:13:10.084Z,-23.384,-179.4452,538.11,4.6,mb,24,154,5.993,0.51,us,us7000pas9,2025-02-02T09:58:28.040Z,"south of the Fiji Islands",earthquake,19.52,15.707,0.1,30,reviewed,us,us
@@ -186,5 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-01T17:31:43.840Z,38.824333190918,-122.81099700928,2.6800000667572,1.09,md,14,48,0.001182,0.03,nc,nc75126781,2025-02-01T17:33:18.347Z,"7 km NNW of The Geysers, CA",earthquake,0.28,0.800000012,0.06,16,automatic,nc,nc
 2025-02-01T17:27:53.740Z,38.831001281738,-122.81283569336,2.0499999523163,1,md,17,47,0.007896,0.03,nc,nc75126776,2025-02-01T17:29:28.186Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.49000001,0.24,17,automatic,nc,nc
 2025-02-01T17:25:41.208Z,63.447,-150.2272,142,2.1,ml,,,,0.2,ak,ak0251h7gx60,2025-02-01T19:29:00.040Z,"64 km W of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-01T17:21:59.163Z,61.3746,-151.0385,53.2,2.5,ml,,,,0.23,ak,ak0251h7g3os,2025-02-01T19:03:11.040Z,"26 km N of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-02-01T17:16:53.280Z,18.008666666667,-66.758333333333,13.95,2.46,md,19,158,0.03354,0.1,pr,pr71471998,2025-02-01T17:31:53.740Z,"1 km SE of Magas Arriba, Puerto Rico",earthquake,0.3,0.38,0.13839094336205,9,reviewed,pr,pr
