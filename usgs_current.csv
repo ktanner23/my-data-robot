@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-06T16:07:32.450Z,32.8704987,-116.5394974,-0.87,1.26,ml,17,78,0.2155,0.28,ci,ci40180842,2025-02-06T16:09:55.005Z,"6 km N of Pine Valley, CA",earthquake,0.82,1.97,0.318,14,automatic,ci,ci
+2025-02-06T15:56:07.720Z,33.587,-116.8025,9.96,0.76,ml,26,71,0.05717,0.18,ci,ci40180818,2025-02-06T16:00:02.951Z,"12 km WNW of Anza, CA",earthquake,0.24,0.53,0.135,22,automatic,ci,ci
 2025-02-06T15:51:18.890Z,33.1573333,-116.5588333,15.47,0.99,ml,47,36,0.08279,0.19,ci,ci40180810,2025-02-06T15:55:08.406Z,"10 km NNE of Julian, CA",earthquake,0.21,0.43,0.119,27,automatic,ci,ci
 2025-02-06T15:42:45.570Z,38.81233215332,-122.82550048828,2.0099999904633,1.05,md,11,81,0.01309,0.03,nc,nc75128671,2025-02-06T15:44:22.096Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.629999995,0.3,14,automatic,nc,nc
 2025-02-06T15:40:45.021Z,59.9453,-139.2711,14.1,1.6,ml,,,,0.56,ak,ak0251pg20gm,2025-02-06T15:43:13.368Z,"51 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T14:00:42.648Z,64.2986,-149.9235,10.9,1.5,ml,,,,0.98,ak,ak0251pf8014,2025-02-06T14:03:08.141Z,"35 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-06T13:58:04.798Z,61.6462,-149.0425,18.7,1.9,ml,,,,1.24,ak,ak0251peyx1b,2025-02-06T14:00:36.256Z,"5 km E of Farm Loop, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-06T13:54:41.470Z,33.1538333,-116.5636667,15.77,1.64,ml,70,18,0.07802,0.18,ci,ci40180706,2025-02-06T15:24:06.460Z,"9 km NNE of Julian, CA",earthquake,0.14,0.37,0.131,27,reviewed,ci,ci
-2025-02-06T13:51:38.785Z,31.624,-104.081,4.2358,1.6,ml,8,204,0,0.1,tx,tx2025covo,2025-02-06T14:27:43.287Z,"43 km NW of Toyah, Texas",earthquake,0,1.909819483757,0.3,6,automatic,tx,tx
+2025-02-06T13:51:38.823Z,31.623,-104.079,2.6776,1.5,ml,18,55,0,0.1,tx,tx2025covo,2025-02-06T16:05:58.071Z,"43 km NW of Toyah, Texas",earthquake,0.38352579925412,0.42140738065715,0.2,19,reviewed,tx,tx
 2025-02-06T13:40:49.070Z,33.072,-116.4145,5.98,0.24,ml,18,88,0.02059,0.18,ci,ci40180698,2025-02-06T15:23:44.740Z,"18 km E of Julian, CA",earthquake,0.29,0.51,0.155,6,reviewed,ci,ci
 2025-02-06T13:37:06.532Z,61.5036,-146.6044,24.9,1.7,ml,,,,0.72,ak,ak0251peuf4t,2025-02-06T13:38:55.536Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-06T13:29:33.431Z,57.2679,-155.2928,55.5,2,ml,,,,0.72,ak,ak0251pesrhb,2025-02-06T13:31:31.534Z,"60 km SW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -266,7 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T16:36:09.954Z,65.5139,-148.8083,13.1,1.2,ml,,,,1.19,ak,ak0251nt3603,2025-02-05T16:37:34.091Z,"12 km W of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-05T16:18:42.048Z,36.5246,25.7476,10,4.2,mb,54,107,1.417,0.85,us,us7000pbkv,2025-02-05T16:58:39.040Z,"30 km ENE of Mesariá, Greece",earthquake,5.79,1.857,0.102,27,reviewed,us,us
 2025-02-05T16:15:41.070Z,60.6862,-150.779,45,2.1,ml,,,,0.28,ak,ak0251nsyqd7,2025-02-05T16:17:04.279Z,"16 km N of Sterling, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-02-05T16:10:19.830Z,61.303,-152.26483333333,0.94,-0.18,ml,7,168,0.06504,0.08,av,av93485251,2025-02-06T11:25:01.060Z,"66 km WNW of Beluga, Alaska",earthquake,0.34,1.63,0.21413691856405,8,reviewed,av,av
-2025-02-05T16:07:01.030Z,35.00216667,-97.65716667,8.4,1.48,ml,42,75,0.09898057663,0.28,ok,ok2025cnen,2025-02-05T17:21:54.441Z,"4 km SW of Dibble, Oklahoma",earthquake,,1.5,0.22,17,reviewed,ok,ok
-2025-02-05T16:06:18.640Z,61.276,-152.255,2.24,-0.74,ml,6,188,0.04945,0.09,av,av93485246,2025-02-06T11:22:00.000Z,"64 km WNW of Tyonek, Alaska",earthquake,0.4,0.94,0.096556053857936,7,reviewed,av,av
-2025-02-05T16:00:54.370Z,61.313333333333,-152.259,0.63,0.14,ml,7,175,0.06947,0.1,av,av93485241,2025-02-06T11:19:24.180Z,"66 km WNW of Beluga, Alaska",earthquake,0.34,2.02,0.19629890637712,8,reviewed,av,av
