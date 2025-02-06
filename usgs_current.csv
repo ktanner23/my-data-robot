@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T09:25:48.680Z,34.579,-118.0306667,8.29,0.8,ml,19,53,0.05182,0.16,ci,ci40180586,2025-02-06T15:25:53.815Z,"6 km E of Palmdale, CA",earthquake,0.25,0.52,0.25,18,reviewed,ci,ci
 2025-02-06T09:20:11.410Z,38.838333129883,-122.83233642578,20.329999923706,0.93,md,8,169,0.002474,0.08,nc,nc75128586,2025-02-06T09:22:59.346Z,"9 km NNW of The Geysers, CA",earthquake,3.4,1.03999996,0.12,4,automatic,nc,nc
 2025-02-06T09:01:37.099Z,65.3651,-148.2195,5.2,1.5,ml,,,,0.35,ak,ak0251pc91al,2025-02-06T09:03:32.966Z,"23 km SE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-06T08:59:41.690Z,33.9163333,-116.8293333,16.64,0.9,ml,47,36,0.08671,0.17,ci,ci40180578,2025-02-06T09:04:23.162Z,"4 km W of Cabazon, CA",earthquake,0.19,0.5,0.149,27,automatic,ci,ci
+2025-02-06T08:59:41.630Z,33.916,-116.8265,17.29,0.9,ml,50,37,0.03534,0.15,ci,ci40180578,2025-02-06T17:42:30.540Z,"4 km W of Cabazon, CA",earthquake,0.17,0.39,0.13,30,reviewed,ci,ci
 2025-02-06T08:58:18.610Z,38.831832885742,-122.80216979981,1.8799999952316,0.7,md,14,46,0.01045,0.01,nc,nc75128581,2025-02-06T09:01:00.377Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.5,0.09,14,automatic,nc,nc
 2025-02-06T08:47:18.284Z,31.616,-104.512,9.8425,2,ml,19,111,0.1,0.2,tx,tx2025coln,2025-02-06T14:04:49.004Z,"63 km SSW of Whites City, New Mexico",earthquake,0.88363495304764,0.83331576269062,0.1,15,reviewed,tx,tx
 2025-02-06T08:30:40.030Z,35.6131667,-117.4275,8.11,0.89,ml,18,49,0.05192,0.12,ci,ci40180570,2025-02-06T17:21:14.436Z,"17 km S of Searles Valley, CA",earthquake,0.24,0.67,0.091,11,reviewed,ci,ci
@@ -183,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T23:08:06.102Z,-22.1334,-68.6701,130.44,4.3,mb,25,75,0.628,0.79,us,us7000pbp6,2025-02-05T23:21:02.040Z,"44 km NE of Calama, Chile",earthquake,5.59,5.646,0.148,13,reviewed,us,us
 2025-02-05T23:07:49.325Z,63.0715,-151.4255,1.4,0.8,ml,,,,0.88,ak,ak0251nx32f5,2025-02-06T02:54:00.678Z,"54 km SSE of Denali National Park, Alaska",earthquake,,11.6,,,reviewed,ak,ak
 2025-02-05T23:07:23.961Z,60.5123,-153.1547,152,2.1,ml,,,,1.15,ak,ak0251nx30jw,2025-02-05T23:10:27.102Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-02-05T23:04:46.240Z,61.272333333333,-152.25633333333,3.18,-0.57,ml,7,146,0.04944,0.06,av,av93485536,2025-02-06T17:40:42.280Z,"64 km WNW of Tyonek, Alaska",earthquake,0.23,0.41,0.12385963066112,8,reviewed,av,av
 2025-02-05T22:59:37.100Z,17.898166666667,-66.8875,14.55,2.29,md,8,235,0.07605,0.06,pr,pr71472323,2025-02-05T23:25:37.430Z,"8 km SSE of Guánica, Puerto Rico",earthquake,0.65,0.49,0.091896428218616,6,reviewed,pr,pr
 2025-02-05T22:59:24.635Z,36.4664,25.6671,10,4.2,mb,18,111,1.335,1.36,us,us7000pbp4,2025-02-05T23:09:29.040Z,"21 km ENE of Mesariá, Greece",earthquake,5.4,1.796,0.136,16,reviewed,us,us
 2025-02-05T22:57:45.641Z,36.5499,25.6795,10,4,mb,21,85,1.413,0.82,us,us7000pbp3,2025-02-05T23:07:33.040Z,"26 km ENE of Firá, Greece",earthquake,4.73,1.945,0.119,19,reviewed,us,us
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-05T18:05:57.079Z,35.15183333,-98.11683333,13.02,1.07,ml,31,102,0.07378552076,0.27,ok,ok2025cnil,2025-02-06T15:37:32.048Z,"8 km NNW of Verden, Oklahoma",earthquake,,1.2,0.22,20,reviewed,ok,ok
 2025-02-05T17:50:54.559Z,60.3185,-139.2033,0,1.6,ml,,,,0.68,ak,ak0251ntrp2p,2025-02-05T17:53:12.782Z,"90 km NNE of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-05T17:47:26.374Z,36.5579,25.6814,10,4.8,mww,93,91,1.421,0.88,us,us7000pbln,2025-02-05T18:45:43.405Z,"27 km NE of Firá, Greece",earthquake,5.71,1.824,0.06,27,reviewed,us,us
-2025-02-05T17:41:57.650Z,35.6556667,-117.5641667,7.06,1.07,ml,21,81,0.07984,0.16,ci,ci40180050,2025-02-05T17:51:44.060Z,"11 km ENE of Ridgecrest, CA",earthquake,0.22,0.61,0.135,12,reviewed,ci,ci
-2025-02-05T17:35:47.040Z,38.835333333333,-122.7835,1.86,0.37,md,18,63,0.006165,0.02,nc,nc75128236,2025-02-05T20:07:50.718Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.44,0.136,16,reviewed,nc,nc
