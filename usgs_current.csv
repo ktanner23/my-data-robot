@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-07T12:50:56.900Z,35.990501403809,-120.54866790772,4.1500000953674,0.89,md,11,109,0.01621,0.02,nc,nc75128961,2025-02-07T12:52:32.877Z,"15 km NW of Parkfield, CA",earthquake,0.69,0.75999999,0.06,5,automatic,nc,nc
+2025-02-07T12:47:24.270Z,38.791168212891,-122.7773361206,0.91000002622604,1.05,md,10,100,0.00851,0.03,nc,nc75128956,2025-02-07T12:50:07.944Z,"2 km NW of The Geysers, CA",earthquake,0.3,0.670000017,0.16,9,automatic,nc,nc
 2025-02-07T12:26:16.525Z,37.2658,-117.5583,9,0.8,ml,8,165.26,0.077,0.2965,nn,nn00893001,2025-02-07T12:29:34.678Z,"54 km S of Silver Peak, Nevada",earthquake,,1.2,0.47,7,automatic,nn,nn
 2025-02-07T12:24:37.720Z,38.82799911499,-122.86916351318,2.8499999046326,0.86,md,13,123,0.009611,0.02,nc,nc75128946,2025-02-07T12:27:23.957Z,"11 km NW of The Geysers, CA",earthquake,0.34,0.600000024,0.25,13,automatic,nc,nc
 2025-02-07T12:03:29.090Z,19.150333404541,-155.46932983398,31.459999084473,2.22,ml,57,161,0.00849,0.140000001,hv,hv74610882,2025-02-07T12:06:37.250Z,"5 km S of Pāhala, Hawaii",earthquake,0.49,0.579999983,0.77,8,automatic,hv,hv
@@ -7,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T11:32:58.211Z,65.4428,-148.2412,13.8,1.2,ml,,,,0.56,ak,ak0251r15xtu,2025-02-07T11:36:43.540Z,"16 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-07T11:26:57.756Z,56.7909,-157.1554,73.1,2.3,ml,,,,0.62,ak,ak0251r14ni6,2025-02-07T11:40:07.202Z,"81 km S of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-07T11:22:56.456Z,58.0119,-155.2817,107,1,ml,,,,0.28,ak,ak0251r13sj1,2025-02-07T11:25:21.676Z,"69 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-02-07T11:03:13.590Z,40.384666666667,-125.0275,10,3.43,ml,158,234,0.5323,0.27,nc,nc75128926,2025-02-07T12:35:12.550Z,"63 km WNW of Petrolia, CA",earthquake,0.72,31.61,0.198,49,reviewed,nc,nc
+2025-02-07T11:03:13.590Z,40.384666666667,-125.0275,10,3.43,ml,158,234,0.5323,0.27,nc,nc75128926,2025-02-07T12:47:30.602Z,"63 km WNW of Petrolia, CA",earthquake,0.72,31.61,0.198,49,reviewed,nc,nc
 2025-02-07T11:01:48.900Z,61.3146,-149.7708,29.6,1.6,ml,,,,0.53,ak,ak0251r0z9wq,2025-02-07T11:03:29.199Z,"9 km NW of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-07T11:00:33.711Z,62.4278,-149.1499,34.2,2,ml,,,,0.75,ak,ak0251r0z0zw,2025-02-07T11:02:24.389Z,"46 km NE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-07T10:31:46.124Z,61.2599,-152.1485,25.3,0,ml,,,,0.75,ak,ak0251r0k9ps,2025-02-07T10:40:53.046Z,"58 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-06T13:16:23.230Z,33.1543333,-116.5645,15.86,1.28,ml,65,21,0.07824,0.18,ci,ci40180658,2025-02-06T15:25:12.680Z,"9 km NNE of Julian, CA",earthquake,0.15,0.37,0.126,27,reviewed,ci,ci
 2025-02-06T13:15:58.300Z,33.1536667,-116.5583333,16.74,0.56,ml,37,82,0.07961,0.17,ci,ci40180650,2025-02-06T19:52:21.311Z,"9 km NNE of Julian, CA",earthquake,0.22,0.51,0.09,15,reviewed,ci,ci
 2025-02-06T13:12:40.190Z,33.155,-116.5615,15.66,0.89,ml,45,40,0.07978,0.19,ci,ci40180642,2025-02-06T15:25:16.120Z,"9 km NNE of Julian, CA",earthquake,0.19,0.44,0.162,27,reviewed,ci,ci
-2025-02-06T12:51:49.730Z,34.3263333,-118.5675,9.96,1.18,ml,34,39,0.04248,0.2,ci,ci40180634,2025-02-06T19:44:33.193Z,"8 km NNE of Chatsworth, CA",earthquake,0.26,0.57,0.102,13,reviewed,ci,ci
-2025-02-06T12:49:01.903Z,61.6168,-150.0274,30.5,1.8,ml,,,,0.5,ak,ak0251pebjri,2025-02-06T12:50:47.153Z,"11 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
