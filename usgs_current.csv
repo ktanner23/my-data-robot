@@ -8,8 +8,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T17:56:02.030Z,34.168,-117.2643333,7.82,1.87,ml,87,20,0.03715,0.17,ci,ci40183506,2025-02-10T18:46:17.784Z,"5 km NNE of San Bernardino, CA",earthquake,0.12,0.33,0.155,25,automatic,ci,ci
 2025-02-10T17:54:58.580Z,38.81583404541,-122.82333374023,2.4300000667572,0.91,md,19,53,0.008321,0.02,nc,nc75131282,2025-02-10T17:56:34.551Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.540000021,0.19,19,automatic,nc,nc
 2025-02-10T17:51:35.380Z,34.1698333,-117.2695,8.02,1.51,ml,67,26,0.03597,0.19,ci,ci40183498,2025-02-10T18:40:12.405Z,"5 km NNE of San Bernardino, CA",earthquake,0.14,0.35,0.149,28,automatic,ci,ci
-2025-02-10T17:48:52.490Z,34.1694984,-117.2631683,7.31,3.01,ml,106,32,0.03891,0.18,ci,ci40183490,2025-02-10T18:57:30.244Z,"5 km NNE of San Bernardino, CA",earthquake,0.19,0.48,0.177,18,reviewed,ci,ci
-2025-02-10T17:44:55.760Z,34.1693344,-117.2613297,7.5,3.49,mlr,105,21,0.03981,0.2,ci,ci40183482,2025-02-10T18:55:00.934Z,"5 km NNE of San Bernardino, CA",earthquake,0.23,0.75,0.283,18,reviewed,ci,ci
+2025-02-10T17:48:52.440Z,34.1688333,-117.2633333,7.65,2.96,ml,132,20,0.03833,0.16,ci,ci40183490,2025-02-10T19:06:03.064Z,"5 km NNE of San Bernardino, CA",earthquake,0.08,0.27,0.124,257,reviewed,ci,ci
+2025-02-10T17:44:55.760Z,34.1693344,-117.2613297,7.5,3.49,mlr,105,21,0.03981,0.2,ci,ci40183482,2025-02-10T19:05:48.254Z,"5 km NNE of San Bernardino, CA",earthquake,0.23,0.75,0.283,18,reviewed,ci,ci
 2025-02-10T17:41:59.624Z,32.116,-101.481,3.1621,1.5,ml,17,82,0.2,0.4,tx,tx2025cwle,2025-02-10T17:50:26.644Z,"10 km W of Forsan, Texas",earthquake,0,1.3810201883316,0.4,13,automatic,tx,tx
 2025-02-10T17:35:03.290Z,36.9605,-112.5735,21.73,1.66,md,8,128,0.08413,0.12,uu,uu80101961,2025-02-10T18:26:15.610Z,"4 km WNW of Fredonia, Arizona",earthquake,0.51,0.93,0.35143276794541,5,reviewed,uu,uu
 2025-02-10T17:33:54.506Z,60.7072,-149.6269,28.1,2.6,ml,,,,0.42,ak,ak0251w3csd6,2025-02-10T17:41:53.040Z,"22 km SSW of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -135,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T06:23:18.800Z,38.806499481201,-122.7551651001,0.14000000059605,0.27,md,7,173,0.006858,0.14,nc,nc75130997,2025-02-10T06:24:56.012Z,"3 km NNE of The Geysers, CA",earthquake,0.69,1,0.05,7,automatic,nc,nc
 2025-02-10T05:52:05.810Z,33.0935,-116.6203333,16.19,0.98,ml,53,38,0.02284,0.18,ci,ci40183122,2025-02-10T15:40:35.820Z,"2 km NW of Julian, CA",earthquake,0.17,0.39,0.235,27,reviewed,ci,ci
 2025-02-10T05:49:42.720Z,41.696,-111.718,16.16,0.49,md,11,145,0.113,0.1,uu,uu80101936,2025-02-10T15:20:57.930Z,"8 km E of Providence, Utah",earthquake,0.71,1.25,0.21723457100934,9,reviewed,uu,uu
+2025-02-10T05:48:38.400Z,-17.3933,167.6849,10,4.7,mb,24,176,1.99,0.74,us,us7000pckw,2025-02-10T19:02:39.040Z,"76 km WNW of Port-Vila, Vanuatu",earthquake,9.73,1.823,0.124,20,reviewed,us,us
 2025-02-10T05:48:14.933Z,38.4912,-118.4845,0.5,1.5,ml,13,86.2,0.14,0.2685,nn,nn00893152,2025-02-10T05:50:49.032Z,"12 km ESE of Hawthorne, Nevada",earthquake,,10.2,0.25,7,automatic,nn,nn
 2025-02-10T05:46:29.637Z,38.4852,-118.4856,7,2,ml,19,44.88,0.146,0.1898,nn,nn00893149,2025-02-10T17:55:45.265Z,"12 km ESE of Hawthorne, Nevada",earthquake,,2.3,0.33,10,reviewed,nn,nn
 2025-02-10T05:37:56.660Z,37.3804,-117.1236,0.8,0.7,ml,8,192.96,0.135,0.166,nn,nn00893147,2025-02-10T05:40:06.902Z,"37 km SSE of Goldfield, Nevada",earthquake,,16,0.44,6,automatic,nn,nn
@@ -158,7 +159,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T03:58:45.115Z,37.3927,-117.141,3.8,1.4,ml,21,194.67,0.133,0.3736,nn,nn00893142,2025-02-10T04:00:59.639Z,"36 km SSE of Goldfield, Nevada",earthquake,,12.1,0.25,9,automatic,nn,nn
 2025-02-10T03:52:39.783Z,65.2267,-149.1048,10.8,1.3,ml,,,,1.01,ak,ak0251vv4rd6,2025-02-10T03:54:27.533Z,"14 km NE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-10T03:51:39.953Z,-21.5598,-179.3594,602.28,4.5,mb,37,94,4.511,0.54,us,us7000pckn,2025-02-10T04:24:27.040Z,"Fiji region",earthquake,9.78,9.771,0.113,23,reviewed,us,us
-2025-02-10T03:48:50.850Z,35.8925,-117.703,7.36,0.61,ml,23,44,0.06986,0.19,ci,ci40183082,2025-02-10T03:52:15.957Z,"19 km ESE of Little Lake, CA",earthquake,0.24,0.69,0.199,10,automatic,ci,ci
+2025-02-10T03:48:50.840Z,35.89,-117.7036667,7.33,0.61,ml,20,46,0.07217,0.23,ci,ci40183082,2025-02-10T19:04:16.566Z,"19 km ESE of Little Lake, CA",earthquake,0.29,0.89,0.17,9,reviewed,ci,ci
 2025-02-10T03:47:54.750Z,31.645,-104.331,2.7417,1.8,ml,18,70,0.1,0.2,tx,tx2025cvjr,2025-02-10T13:38:15.497Z,"59 km S of Whites City, New Mexico",earthquake,0.60619689924866,0.79559660399439,0.2,14,reviewed,tx,tx
 2025-02-10T03:47:36.100Z,36.6555,-116.0919,6.9,-0.5,ml,8,171.75,0.022,0.0351,nn,nn00893182,2025-02-10T14:53:12.461Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.1,2,reviewed,nn,nn
 2025-02-10T03:35:06.179Z,31.64,-104.33,2.1521,2.2,ml,18,89,0.1,0.2,tx,tx2025cvjf,2025-02-10T13:42:00.515Z,"59 km S of Whites City, New Mexico",earthquake,0.73197851094726,0.68517316765681,0.2,15,reviewed,tx,tx
@@ -233,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-09T19:14:54.010Z,46.192166666667,-122.47083333333,22.18,0.15,ml,6,311,0.1449,0.04,uw,uw62066572,2025-02-10T01:23:30.340Z,"31 km N of Amboy, Washington",earthquake,2.02,1.76,0.093568461214274,3,reviewed,uw,uw
 2025-02-09T19:13:12.940Z,46.871,-123.30666666667,42.36,0.53,ml,8,79,0.04057,0.12,uw,uw62066567,2025-02-10T02:07:26.150Z,"6 km WNW of Oakville, Washington",earthquake,1.04,0.81,0.0074988733867642,4,reviewed,uw,uw
 2025-02-09T19:12:18.167Z,65.4641,-148.2254,11.1,1.2,ml,,,,0.26,ak,ak0251ugvq8o,2025-02-09T19:14:14.974Z,"16 km ESE of Livengood, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-09T19:07:43.590Z,38.8325,-122.809,2.4,0.41,md,18,58,0.00913,0.01,nc,nc75130722,2025-02-09T20:22:27.081Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.67,0.176,18,reviewed,nc,nc
-2025-02-09T19:05:38.592Z,36.6992,25.6236,10,5.2,mww,97,38,1.529,0.8,us,us7000pcih,2025-02-10T05:23:46.829Z,"28 km WSW of Amorgós, Greece",earthquake,5.19,1.839,0.044,49,reviewed,us,us
-2025-02-09T18:59:33.131Z,39.1434,-119.0563,2.6,1.1,ml,9,125.1,0.029,0.101,nn,nn00893130,2025-02-09T19:01:46.490Z,"19 km NNE of Yerington, Nevada",earthquake,,0.8,0.22,4,automatic,nn,nn
