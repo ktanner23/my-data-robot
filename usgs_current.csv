@@ -67,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T06:12:56.930Z,17.941,-66.822166666667,10.84,2.38,md,10,215,0.05389,0.08,pr,pr71472588,2025-02-11T06:24:43.620Z,"5 km S of Indios, Puerto Rico",earthquake,0.52,0.44,0.11223904107852,8,reviewed,pr,pr
 2025-02-11T06:09:53.534Z,60.4588,-151.7366,72,1.6,ml,,,,0.13,ak,ak0251xk77y1,2025-02-11T06:11:08.292Z,"25 km W of Kalifornsky, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-02-11T06:03:50.227Z,47.5027,-115.8195,5,3.3,ml,38,38,0.466,0.8,us,us7000pcu1,2025-02-11T13:50:11.450Z,"3 km NNW of Mullan, Idaho",earthquake,2.88,1.908,0.031,138,reviewed,us,us
-2025-02-11T05:58:54.290Z,34.1710014,-117.262001,8.15,3.55,ml,108,23,0.04068,0.2,ci,ci40184058,2025-02-11T13:44:33.860Z,"5 km NNE of San Bernardino, CA",earthquake,0.23,0.68,0.275,18,reviewed,ci,ci
+2025-02-11T05:58:54.290Z,34.1710014,-117.262001,8.15,3.55,ml,108,23,0.04068,0.2,ci,ci40184058,2025-02-11T13:55:07.678Z,"5 km NNE of San Bernardino, CA",earthquake,0.23,0.68,0.275,18,reviewed,ci,ci
 2025-02-11T05:58:44.760Z,36.6838,25.8015,10,4.7,mww,40,85,1.577,1.01,us,us7000pcu0,2025-02-11T07:42:10.329Z,"18 km SSW of Amorgós, Greece",earthquake,4.67,1.921,0.066,22,reviewed,us,us
 2025-02-11T05:48:12.819Z,31.609,-104.241,4.2318,2.2,ml,21,68,0.1,0.3,tx,tx2025cxjc,2025-02-11T06:08:32.882Z,"53 km NW of Toyah, Texas",earthquake,0,1.3738486766815,0.2,17,automatic,tx,tx
 2025-02-11T05:47:56.360Z,-22.6617,-175.3992,10,5,mb,20,107,6.237,0.94,us,us7000pcty,2025-02-11T06:07:00.040Z,"153 km SSW of ‘Ohonua, Tonga",earthquake,8.87,1.911,0.141,16,reviewed,us,us
@@ -129,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T22:58:45.927Z,39.1995,-119.0166,4.3,1.6,ml,11,132.73,0.035,0.2175,nn,nn00893244,2025-02-10T23:00:55.361Z,"26 km NNE of Yerington, Nevada",earthquake,,0.6,0.23,6,automatic,nn,nn
 2025-02-10T22:51:04.290Z,36.6927,25.5085,10,4.2,mb,16,97,1.489,0.74,us,us7000pcse,2025-02-10T23:55:11.040Z,"20 km E of Íos, Greece",earthquake,4.39,1.954,0.187,8,reviewed,us,us
 2025-02-10T22:48:59.146Z,61.1564,-147.2417,9.9,1.2,ml,,,,0.55,ak,ak0251w6f6hm,2025-02-10T23:54:15.883Z,"44 km NW of Tatitlek, Alaska",earthquake,,1.1,,,reviewed,ak,ak
-2025-02-10T22:48:38.736Z,35.0885,-5.5774,10,5.1,mb,70,77,2.317,0.54,us,us7000pcsb,2025-02-11T13:09:07.566Z,"29 km WSW of Chefchaouen, Morocco",earthquake,5.99,1.787,0.044,170,reviewed,us,us
+2025-02-10T22:48:38.736Z,35.0885,-5.5774,10,5.1,mb,70,77,2.317,0.54,us,us7000pcsb,2025-02-11T13:59:11.436Z,"29 km WSW of Chefchaouen, Morocco",earthquake,5.99,1.787,0.044,170,reviewed,us,us
 2025-02-10T22:47:05.872Z,-23.1497,-66.8109,204.851,4.7,mb,44,47,1.275,1.03,us,us7000pcs9,2025-02-10T23:36:21.040Z,"116 km W of El Aguilar, Argentina",earthquake,10.08,6.911,0.053,110,reviewed,us,us
 2025-02-10T22:44:33.370Z,34.1698333,-117.2663333,6.02,1.14,ml,46,27,0.06765,0.19,ci,ci40183810,2025-02-10T22:49:08.317Z,"5 km NNE of San Bernardino, CA",earthquake,0.16,0.56,0.147,29,automatic,ci,ci
 2025-02-10T22:41:02.620Z,45.088666666667,-111.73216666667,-2,1.5,ml,17,107,0.1195,0.19,mb,mb90072378,2025-02-11T04:45:59.620Z,"28 km SE of Virginia City, Montana",quarry blast,0.71,31.61,0.14835104764878,12,reviewed,mb,mb
@@ -229,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T14:16:24.331Z,61.667,-147.4881,39.6,1.1,ml,,,,0.33,ak,ak0251w1gs1t,2025-02-10T14:17:40.337Z,"17 km SSE of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-10T14:08:26.300Z,38.824,-122.76416666667,1.91,0.43,md,17,85,0.007868,0.02,nc,nc75131187,2025-02-10T21:53:52.011Z,"4 km WNW of Cobb, CA",earthquake,0.3,0.46,0.202,15,reviewed,nc,nc
 2025-02-10T14:03:54.602Z,-10.3678,123.5123,10,4.6,mb,46,64,0.961,0.76,us,us7000pcn2,2025-02-10T16:37:14.040Z,"24 km SSW of Kupang, Indonesia",earthquake,6.01,1.894,0.098,31,reviewed,us,us
-2025-02-10T14:00:16.247Z,-6.5041,149.2707,52.709,4.6,mb,34,66,3.56,0.69,us,us7000pcn1,2025-02-10T16:16:56.040Z,"44 km SW of Kandrian, Papua New Guinea",earthquake,8.61,6.625,0.106,27,reviewed,us,us
-2025-02-10T13:57:14.090Z,33.5856667,-116.8068333,8.32,0.52,ml,22,43,0.05589,0.18,ci,ci40183314,2025-02-10T15:30:44.111Z,"13 km WNW of Anza, CA",earthquake,0.31,0.55,0.196,14,reviewed,ci,ci
