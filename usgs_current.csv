@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-12T22:14:20.820Z,34.155,-116.8746667,-0.93,1.59,ml,9,215,0.2521,0.36,ci,ci40185170,2025-02-12T22:18:34.124Z,"10 km SSE of Big Bear Lake, CA",earthquake,2.49,18.2,0.391,33,automatic,ci,ci
 2025-02-12T22:11:12.050Z,35.9076667,-117.6948333,3.72,1.11,ml,23,43,0.05398,0.13,ci,ci40185162,2025-02-12T22:14:42.936Z,"19 km E of Little Lake, CA",earthquake,0.16,0.45,0.129,20,automatic,ci,ci
+2025-02-12T22:10:36.328Z,17.5228,-83.2766,10,4.8,mww,76,37,5.164,0.91,us,us7000pd93,2025-02-12T22:28:06.040Z,"218 km NNE of Barra Patuca, Honduras",earthquake,7.2,1.866,0.054,33,reviewed,us,us
 2025-02-12T22:10:27.920Z,38.815166473389,-122.82399749756,2.079999923706,1.29,md,21,53,0.007479,0.02,nc,nc75132462,2025-02-12T22:12:01.329Z,"7 km NW of The Geysers, CA",earthquake,0.23,0.400000006,0.2,23,automatic,nc,nc
 2025-02-12T22:03:51.760Z,35.9093333,-117.6956667,3.87,1.32,ml,26,41,0.05322,0.16,ci,ci40185146,2025-02-12T22:07:16.910Z,"19 km E of Little Lake, CA",earthquake,0.17,0.43,0.148,21,automatic,ci,ci
 2025-02-12T22:02:24.340Z,38.81600189209,-122.78783416748,0.97000002861023,0.77,md,9,77,0.006221,0.02,nc,nc75132457,2025-02-12T22:04:02.128Z,"5 km NNW of The Geysers, CA",earthquake,0.39,0.959999979,0.37,11,automatic,nc,nc
@@ -168,6 +168,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-12T04:25:18.552Z,60.5214,-151.1933,67.3,1.5,ml,,,,0.03,ak,ak0251z6n1zj,2025-02-12T04:26:32.201Z,"5 km SE of Kenai, Alaska",earthquake,,3.4,,,automatic,ak,ak
 2025-02-12T04:21:02.971Z,36.5633,25.6666,10,4.4,mb,44,104,1.42,1.22,us,us7000pd26,2025-02-12T05:24:20.040Z,"26 km NE of Firá, Greece",earthquake,4.49,1.184,0.092,34,reviewed,us,us
 2025-02-12T04:20:46.410Z,38.81583404541,-122.79550170898,2.5599999427795,0.7,md,20,37,0.007856,0.01,nc,nc75132027,2025-02-12T04:22:23.857Z,"5 km NNW of The Geysers, CA",earthquake,0.24,0.5,0.39,19,automatic,nc,nc
+2025-02-12T04:17:27.890Z,53.861666666667,-166.79566666667,7.31,-0.09,ml,5,125,0.05338,0.06,av,av93032649,2025-02-12T22:32:34.740Z,"16 km W of Dutch Harbor, Alaska",earthquake,0.38,0.73,0.25236625485922,6,reviewed,av,av
+2025-02-12T04:16:51.810Z,53.851166666667,-166.77733333333,8.13,0.55,ml,8,79,0.04536,0.16,av,av93497231,2025-02-12T22:29:28.840Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.39,0.81,0.16315070403607,8,reviewed,av,av
 2025-02-12T04:12:05.330Z,38.7915,-122.762,1.37,0.12,md,17,64,0.009285,0.02,nc,nc75132022,2025-02-12T09:10:52.662Z,"2 km  of The Geysers, CA",earthquake,0.19,0.31,0.231,13,reviewed,nc,nc
 2025-02-12T04:09:30.604Z,31.624,-104.502,7.1509,1.9,ml,25,75,0,0.2,tx,tx2025czbj,2025-02-12T15:29:01.545Z,"62 km S of Whites City, New Mexico",earthquake,0.90298736657816,0.64733871624165,0.1,19,reviewed,tx,tx
 2025-02-12T04:06:43.090Z,38.768333333333,-122.63233333333,5.91,0.63,md,28,60,0.03807,0.05,nc,nc75132017,2025-02-12T08:34:41.105Z,"2 km NNW of Middletown, CA",earthquake,0.25,0.38,0.177,20,reviewed,nc,nc
@@ -246,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-11T23:07:01.460Z,38.820167541504,-122.8065032959,3.1099998950958,0.76,md,8,86,0.004262,0.01,nc,nc75131912,2025-02-11T23:08:37.144Z,"6 km NNW of The Geysers, CA",earthquake,0.54,1.64999998,0.1,8,automatic,nc,nc
 2025-02-11T22:42:21.820Z,34.1656667,-117.2691667,5.67,0.97,ml,15,100,0.06077,0.15,ci,ci40184530,2025-02-12T15:16:35.898Z,"5 km NNE of San Bernardino, CA",earthquake,0.27,0.69,0.112,13,reviewed,ci,ci
 2025-02-11T22:39:58.320Z,40.224666595459,-121.16316986084,-1.1699999570847,2.35,md,15,137,0.1961,0.2,nc,nc75131907,2025-02-11T23:12:15.824Z,"1 km ENE of Almanor, CA",earthquake,0.69,16.2399998,0.08,14,automatic,nc,nc
-2025-02-11T22:30:45.660Z,32.7743333,-116.8975,-0.34,1.31,ml,24,91,0.05407,0.24,ci,ci40184514,2025-02-12T16:44:19.966Z,"5 km NE of Rancho San Diego, CA",quarry blast,0.59,31.61,0.089,5,reviewed,ci,ci
-2025-02-11T22:25:48.480Z,49.286333333333,-120.52233333333,-0.82,1.93,ml,18,176,0.5961,0.63,uw,uw62066992,2025-02-12T18:54:35.160Z,"19 km S of Princeton, Canada",explosion,1.83,31.61,0.096187462801906,10,reviewed,uw,uw
