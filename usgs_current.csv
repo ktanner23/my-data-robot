@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T00:22:58.099Z,-6.9839,129.5924,156.262,5,mww,68,97,2.465,0.72,us,us7000pdj1,2025-02-14T08:00:20.860Z,"Banda Sea",earthquake,10.33,6.903,0.073,18,reviewed,us,us
 2025-02-14T00:22:54.780Z,44.7155,-112.486,8.46,1.95,ml,19,60,0.1386,0.14,mb,mb90072483,2025-02-14T00:48:35.490Z,"12 km NE of Lima, Montana",earthquake,0.32,1.24,0.16464932184423,36,reviewed,mb,mb
 2025-02-14T00:18:12.083Z,6.6447,-84.4152,10,4.5,mb,19,96,2.847,0.97,us,us7000pdiz,2025-02-14T05:49:30.040Z,"229 km SW of Burica, Panama",earthquake,7.8,1.955,0.222,6,reviewed,us,us
-2025-02-14T00:17:04.540Z,36.082666666667,-120.18383333333,11.92,4.25,ml,68,37,0.03757,0.1,nc,nc75133062,2025-02-14T08:21:31.916Z,"10 km NNW of Avenal, CA",earthquake,0.15,0.22,0.145,160,reviewed,nc,nc
+2025-02-14T00:17:04.540Z,36.082666666667,-120.18383333333,11.92,4.25,ml,68,37,0.03757,0.1,nc,nc75133062,2025-02-14T12:27:14.796Z,"10 km NNW of Avenal, CA",earthquake,0.15,0.22,0.145,160,reviewed,nc,nc
 2025-02-14T00:12:55.783Z,60.1052,-139.3399,0,2.1,ml,,,,0.22,ak,ak02522f9b4a,2025-02-14T00:14:46.106Z,"65 km NNE of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-13T23:59:27.476Z,55.6162,-154.9119,9.1,5.8,mww,,,,0.49,ak,ak025215oy3m,2025-02-14T12:09:42.410Z,"154 km SSW of Akhiok, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2025-02-13T23:47:01.480Z,46.854333333333,-121.7525,2.27,0.18,ml,14,105,0.02155,0.08,uw,uw62075801,2025-02-14T05:27:02.580Z,"23 km ENE of Ashford, Washington",earthquake,0.3,0.45,0.19236848628818,4,reviewed,uw,uw
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T17:10:25.032Z,58.8819,-153.0854,68.4,1.5,ml,,,,0.24,ak,ak025211tu3r,2025-02-13T17:12:51.757Z,"85 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-13T17:09:25.810Z,60.471833333333,-152.74083333333,5.52,-0.87,ml,4,134,0.01843,0.16,av,av93499036,2025-02-14T04:52:00.520Z,"75 km NW of Ninilchik, Alaska",earthquake,0.8,1.27,0.20683186133142,3,reviewed,av,av
 2025-02-13T17:03:05.708Z,38.1415,-118.0034,12.2,2.5,ml,17,69.78,0.06,0.1352,nn,nn00893449,2025-02-13T19:15:26.209Z,"29 km SSE of Mina, Nevada",earthquake,,0.8,0.19,11,reviewed,nn,nn
-2025-02-13T17:00:02.561Z,32.505,-102.115,2.0926,1,ml,5,219,0.1,0.1,tx,tx2025dbwn,2025-02-13T17:05:04.195Z,"30 km SSW of Lamesa, Texas",earthquake,0,4.1034631729126,0.3,5,automatic,tx,tx
+2025-02-13T17:00:03.620Z,32.431,-102.106,7.3975,0.9,ml,15,64,0,0.2,tx,tx2025dbwn,2025-02-14T12:18:28.864Z,"36 km SSW of Los Ybanez, Texas",earthquake,1.6176220416687,1.6242323940617,0.1,10,reviewed,tx,tx
 2025-02-13T16:56:52.520Z,38.828666687012,-122.81266784668,1.4700000286102,1,md,12,78,0.00564,0.01,nc,nc75132882,2025-02-13T20:42:18.241Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.74000001,0.36,13,automatic,nc,nc
 2025-02-13T16:55:31.087Z,38.5067,-118.4805,0,2.1,ml,13,71.58,0.126,0.2955,nn,nn00893446,2025-02-13T16:58:04.803Z,"12 km E of Hawthorne, Nevada",earthquake,,10.1,0.32,6,automatic,nn,nn
 2025-02-13T16:52:36.928Z,60.7651,-150.7932,43.7,2.6,ml,,,,0.31,ak,ak025211hfho,2025-02-13T16:58:05.040Z,"18 km SSW of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -180,6 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T12:41:55.650Z,52.361166666667,-174.14483333333,0.84,0.4,ml,5,199,0.01381,0.15,av,av93498696,2025-02-14T03:05:24.820Z,"18 km NNE of Atka, Alaska",earthquake,0.68,0.95,0.39871965140999,5,reviewed,av,av
 2025-02-13T12:40:00.420Z,38.830665588379,-122.80449676514,1.0800000429153,0.8,md,9,201,0.008467,0.08,nc,nc75132812,2025-02-13T12:41:39.084Z,"7 km WNW of Cobb, CA",earthquake,0.74,0.939999998,0.23,13,automatic,nc,nc
 2025-02-13T12:33:10.310Z,38.791831970215,-122.77866363525,2.4800000190735,0.77,md,13,79,0.007356,0.03,nc,nc75132807,2025-02-13T12:34:48.968Z,"3 km NW of The Geysers, CA",earthquake,0.33,0.670000017,0.11,13,automatic,nc,nc
-2025-02-13T12:18:38.546Z,-20.5962,168.8718,10,4.9,mb,48,91,2.405,0.99,us,us7000pdd4,2025-02-13T12:35:46.040Z,"124 km SSW of Isangel, Vanuatu",earthquake,7.28,1.901,0.092,37,reviewed,us,us
-2025-02-13T12:17:54.372Z,63.7853,-147.9708,29.5,1.4,ml,,,,0.67,ak,ak02520yw8d2,2025-02-13T12:21:38.137Z,"46 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-13T12:16:36.594Z,61.8657,-150.9543,19.6,1.4,ml,,,,0.29,ak,ak02520yvz9n,2025-02-13T12:17:57.941Z,"27 km ESE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
