@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-14T20:02:29.410Z,38.793834686279,-122.78016662598,3.2300000190735,1.54,md,23,78,0.006093,0.02,nc,nc75133512,2025-02-14T20:04:08.080Z,"3 km NW of The Geysers, CA",earthquake,0.26,0.519999981,0.17,24,automatic,nc,nc
 2025-02-14T19:58:04.580Z,38.825164794922,-122.85266876221,1.9700000286102,0.3,md,14,97,0.004054,0.02,nc,nc75133507,2025-02-14T19:59:41.882Z,"10 km NW of The Geysers, CA",earthquake,0.31,0.610000014,0.14,14,automatic,nc,nc
 2025-02-14T19:52:04.100Z,37.900665283203,-121.98950195312,7.7800002098083,1.58,md,9,175,0.04183,0.09,nc,nc75133502,2025-02-14T19:53:42.707Z,"7 km WSW of Clayton, CA",earthquake,0.67,0.910000026,0.17,8,automatic,nc,nc
-2025-02-14T19:45:01.807Z,36.772,-115.959,2.5,0.2,ml,8,242.44,0.048,0.3482,nn,nn00893493,2025-02-14T19:47:00.344Z,"34 km NW of Indian Springs, Nevada",earthquake,,1.1,0.53,6,automatic,nn,nn
+2025-02-14T19:45:02.616Z,36.7248,-116.0076,4.6,0.2,ml,11,114.44,0.018,0.0778,nn,nn00893493,2025-02-14T20:42:28.939Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.7,0.19,2,reviewed,nn,nn
 2025-02-14T19:17:48.440Z,19.2045,-66.4561,7,3.51,md,18,259,0.9081,0.35,pr,pr2025045001,2025-02-14T20:12:04.730Z,"82 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,2.75,2.5,0.11,15,reviewed,pr,pr
 2025-02-14T18:58:08.135Z,36.563,-117.0678,0,1.1,ml,16,96.59,0.178,0.1473,nn,nn00893489,2025-02-14T20:07:50.419Z,"23 km WNW of Furnace Creek, California",earthquake,,0,0.11,2,reviewed,nn,nn
 2025-02-14T18:53:13.450Z,-17.2785,167.5586,11.732,4.9,mww,47,106,1.853,0.53,us,us7000pdth,2025-02-14T19:38:07.040Z,"94 km WNW of Port-Vila, Vanuatu",earthquake,7.31,4.577,0.086,13,reviewed,us,us
@@ -177,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T22:29:37.880Z,38.82466506958,-122.76349639893,1.7699999809265,1.56,md,17,128,0.007664,0.03,nc,nc75133017,2025-02-13T22:31:13.653Z,"4 km WNW of Cobb, CA",earthquake,0.31,0.409999996,0.34,16,automatic,nc,nc
 2025-02-13T22:24:06.810Z,37.644500732422,-122.04900360107,4.710000038147,2.24,md,29,68,0.07633,0.11,nc,nc75133012,2025-02-13T22:47:18.671Z,"2 km E of Hayward, CA",earthquake,0.22,0.720000029,0.18,22,automatic,nc,nc
 2025-02-13T22:01:17.964Z,57.9715,-154.6443,59.1,1.4,ml,,,,0.22,ak,ak025214r250,2025-02-13T22:03:01.653Z,"46 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-13T21:59:16.660Z,37.647166666667,-122.05216666667,5.81,3.57,ml,173,20,0.01227,0.14,nc,nc75132987,2025-02-14T20:20:22.189Z,"2 km E of Hayward, CA",earthquake,0.09,0.18,0.161,147,reviewed,nc,nc
+2025-02-13T21:59:16.660Z,37.647166666667,-122.05216666667,5.81,3.57,ml,173,20,0.01227,0.14,nc,nc75132987,2025-02-14T20:43:26.395Z,"2 km E of Hayward, CA",earthquake,0.09,0.18,0.161,147,reviewed,nc,nc
 2025-02-13T21:38:47.640Z,51.686666666667,179.8835,5.07,1.65,ml,5,257,0.2525,0.16,av,av93499231,2025-02-14T19:39:04.100Z,"241 km W of Adak, Alaska",earthquake,1.21,31.61,0.28434919594433,5,reviewed,av,av
 2025-02-13T21:33:42.229Z,36.4625,-98.81116667,6.49,1.35,ml,36,102,0.01529699821,0.24,ok,ok2025dcfi,2025-02-14T13:58:56.124Z,"14 km SSE of Waynoka, Oklahoma",earthquake,,0.5,0.2,12,reviewed,ok,ok
 2025-02-13T21:29:55.485Z,-20.7723,-178.4451,576.64,4.5,mb,38,203,4.473,1.11,us,us7000pdig,2025-02-13T22:29:22.040Z,"Fiji region",earthquake,14.95,7.28,0.103,28,reviewed,us,us
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-13T20:52:16.190Z,60.408,-152.0455,83.7,3.2,ml,,,,0.25,ak,ak025213v4b7,2025-02-13T21:41:40.422Z,"40 km W of Cohoe, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-13T20:44:56.163Z,45.5356,26.346,120.817,4.3,mb,54,30,0.286,0.85,us,us7000pdhp,2025-02-13T21:34:52.633Z,"8 km NW of Gura Teghii, Romania",earthquake,5.97,3.029,0.101,28,reviewed,us,us
 2025-02-13T20:44:50.738Z,60.9651,-151.4303,61,1.4,ml,,,,0.26,ak,ak025213th8x,2025-02-13T20:46:24.923Z,"19 km SW of Tyonek, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-02-13T20:39:23.250Z,48.069166666667,-115.14,5.1,0.92,ml,6,233,0.3222,0.11,mb,mb90072568,2025-02-14T19:00:24.420Z,"1 km S of Happys Inn, Montana",earthquake,1.48,9.07,0.11331450993834,4,reviewed,mb,mb
