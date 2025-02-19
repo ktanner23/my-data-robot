@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T18:36:12.970Z,32.656,-115.8948333,10.04,1.25,ml,25,77,0.02464,0.18,ci,ci40189098,2025-02-19T20:22:08.377Z,"13 km SE of Ocotillo, CA",earthquake,0.26,0.38,0.123,24,reviewed,ci,ci
 2025-02-19T18:33:26.510Z,36.064498901367,-120.20283508301,9.4700002670288,1.9,md,24,182,0.07724,0.1,nc,nc75136232,2025-02-19T18:36:53.290Z,"9 km NNW of Avenal, CA",earthquake,0.48,0.529999971,0.14,15,automatic,nc,nc
 2025-02-19T18:15:58.051Z,3.7922,127.9173,151.464,4.4,mb,57,70,2.605,0.63,us,us7000perp,2025-02-19T19:22:06.040Z,"228 km N of Tobelo, Indonesia",earthquake,8.5,6.038,0.089,36,reviewed,us,us
-2025-02-19T18:14:48.360Z,34.2858333,-117.5056667,11.19,1.84,ml,21,69,0.05521,0.14,ci,ci40189074,2025-02-19T19:07:08.775Z,"3 km NNW of Lytle Creek, CA",earthquake,0.27,0.45,0.443,38,automatic,ci,ci
+2025-02-19T18:14:48.360Z,34.2858333,-117.5056667,11.19,1.84,ml,21,69,0.05521,0.14,ci,ci40189074,2025-02-19T20:43:45.634Z,"3 km NNW of Lytle Creek, CA",earthquake,0.27,0.45,0.443,38,automatic,ci,ci
 2025-02-19T17:34:56.530Z,38.84049987793,-122.82416534424,1.9099999666214,0.75,md,16,67,0.009045,0.01,nc,nc75136207,2025-02-19T17:36:35.132Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.600000024,0.16,18,automatic,nc,nc
 2025-02-19T17:30:14.960Z,33.5846667,-116.8048333,8.63,0.74,ml,26,41,0.05771,0.15,ci,ci40189034,2025-02-19T18:15:35.269Z,"13 km WNW of Anza, CA",earthquake,0.21,0.44,0.282,21,reviewed,ci,ci
 2025-02-19T17:26:51.490Z,38.841167449951,-122.82283020019,2.1900000572205,1.96,md,26,66,0.01021,0.02,nc,nc75136202,2025-02-19T17:28:29.979Z,"9 km WNW of Cobb, CA",earthquake,0.15,0.519999981,0.19,24,automatic,nc,nc
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T08:04:57.215Z,57.0376,-157.1054,113.8,2.4,ml,,,,0.74,ak,ak0252atnst5,2025-02-19T08:06:42.451Z,"55 km SSE of Ugashik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-02-19T07:46:13.757Z,59.8352,-152.5462,74.6,1.8,ml,,,,0.54,ak,ak0252atb9xb,2025-02-19T07:48:24.110Z,"40 km W of Anchor Point, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-02-19T07:18:03.370Z,37.635166168213,-118.94699859619,6.6100001335144,0.66,md,14,86,0.03135,0.04,nc,nc75136022,2025-02-19T07:19:41.106Z,"3 km ESE of Mammoth Lakes, CA",earthquake,0.34,0.790000021,0.16,13,automatic,nc,nc
-2025-02-19T07:09:49.968Z,55.8,-159.41,74.6,4.7,ml,,,,0.43,ak,ak0252at3f6f,2025-02-19T20:36:40.650Z,"12 km SSE of Ivanof Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-02-19T07:09:49.968Z,55.8,-159.41,74.6,4.7,ml,,,,0.43,ak,ak0252at3f6f,2025-02-19T20:39:51.937Z,"12 km SSE of Ivanof Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-02-19T06:53:08.620Z,34.0678333,-117.276,16.75,1.15,ml,54,47,0.07129,0.16,ci,ci40188754,2025-02-19T06:57:32.619Z,"3 km NNW of Loma Linda, CA",earthquake,0.15,0.38,0.139,29,automatic,ci,ci
 2025-02-19T06:46:16.395Z,-19.3244,-70.1834,55.362,4.6,mb,50,135,0.96,0.99,us,us7000pep7,2025-02-19T18:32:15.417Z,"18 km S of Cuya, Chile",earthquake,5.71,6.378,0.06,83,reviewed,us,us
 2025-02-19T06:41:55.680Z,33.1561667,-116.5456667,14.98,0.51,ml,33,52,0.08671,0.19,ci,ci40188746,2025-02-19T18:21:22.937Z,"10 km NNE of Julian, CA",earthquake,0.25,0.36,0.169,9,reviewed,ci,ci
@@ -202,6 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-18T20:54:05.730Z,42.090666666667,-123.6435,-1.13,1.26,md,4,154,0.06201,0.03,uw,uw62076426,2025-02-19T20:09:50.030Z,"4 km NNW of Takilma, Oregon",explosion,0.54,31.61,0.25052578917531,4,reviewed,uw,uw
 2025-02-18T20:49:58.378Z,60.7795,-149.3198,24.1,2.8,ml,,,,0.59,ak,ak02529djawn,2025-02-19T04:24:53.617Z,"13 km SSE of Sunrise, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-18T20:45:33.930Z,38.829666137695,-122.81632995606,2.0699999332428,0.6,md,12,79,0.016,0.02,nc,nc75135822,2025-02-18T20:47:11.134Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.879999995,0.17,13,automatic,nc,nc
-2025-02-18T20:41:53.650Z,35.3403333,-117.8001667,7.54,2.83,ml,51,36,0.08177,0.17,ci,ci40188442,2025-02-19T17:50:29.190Z,"15 km WSW of Johannesburg, CA",earthquake,0.17,0.62,0.165,90,reviewed,ci,ci
-2025-02-18T20:40:39.307Z,10.2222,-85.7528,18.156,4.4,mb,46,202,0.765,1.08,us,us7000pel7,2025-02-19T13:00:07.646Z,"12 km SE of Tamarindo, Costa Rica",earthquake,4.51,5.376,0.09,35,reviewed,us,us
-2025-02-18T20:37:21.980Z,38.788501739502,-122.77016448975,1.2599999904633,1.1,md,13,84,0.0146,0.03,nc,nc75135807,2025-02-18T20:38:56.141Z,"2 km NNW of The Geysers, CA",earthquake,0.27,0.50999999,0.15,15,automatic,nc,nc
