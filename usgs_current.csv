@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-02-20T21:13:48.570Z,38.820999145508,-122.81283569336,2.6500000953674,0.28,md,13,109,0.003221,0.02,nc,nc75136727,2025-02-20T21:15:26.104Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.779999971,0.15,13,automatic,nc,nc
 2025-02-20T21:02:11.933Z,59.3991,-152.579,65.2,2.7,ml,,,,0.38,ak,ak0252cox95z,2025-02-20T21:03:38.559Z,"37 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-20T20:52:20.320Z,33.8441667,-117.5313333,2.03,1.63,ml,30,212,0.07665,0.16,ci,ci40190010,2025-02-20T21:02:57.130Z,"4 km SSW of Home Gardens, CA",earthquake,0.67,0.32,0.233,33,automatic,ci,ci
+2025-02-20T20:52:20.580Z,33.8453333,-117.4948333,-0.51,1.49,ml,40,44,0.04995,0.25,ci,ci40190010,2025-02-20T21:27:08.150Z,"4 km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.201,56,reviewed,ci,ci
 2025-02-20T20:46:38.050Z,38.806667327881,-122.77083587647,1.3500000238419,1.53,md,31,61,0.01013,0.04,nc,nc75136717,2025-02-20T20:50:02.360Z,"3 km  of The Geysers, CA",earthquake,0.19,0.330000013,0.12,30,automatic,nc,nc
 2025-02-20T20:39:39.588Z,-21.378,-178.7009,547.476,4.8,mb,56,115,4.736,0.72,us,us7000pf3d,2025-02-20T21:02:38.040Z,"Fiji region",earthquake,14.41,8.857,0.077,52,reviewed,us,us
 2025-02-20T20:36:00.065Z,32.437,-102.118,6.7445,1.5,ml,21,98,0,0.5,tx,tx2025doyw,2025-02-20T21:02:47.823Z,"36 km SSW of Los Ybanez, Texas",earthquake,0,1.7065677642822,0.2,15,automatic,tx,tx
@@ -34,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T17:47:36.870Z,61.3135,-152.25916666667,1.76,0.65,ml,9,122,0.06965,0.09,av,av93506376,2025-02-20T19:58:03.890Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,0.71,0.21689630834166,10,reviewed,av,av
 2025-02-20T17:44:52.694Z,60.8579,-150.8829,44.3,1.8,ml,,,,0.61,ak,ak0252cmsm1h,2025-02-20T17:46:43.750Z,"12 km SW of Point Possession, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-02-20T17:37:06.546Z,31.778,-102.008,7.042,1,ml,9,107,0.1,0.4,tx,tx2025dosc,2025-02-20T17:55:06.201Z,"25 km SSE of Midland, Texas",earthquake,0,2.6460416316986,0.4,7,automatic,tx,tx
-2025-02-20T17:36:17.750Z,19.176833333333,-155.71633333333,9.46,2.68,ml,35,113,0.03327,0.26,hv,hv74619697,2025-02-20T20:25:55.765Z,"13 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.59,0.46,0.14577465372196,17,reviewed,hv,hv
+2025-02-20T17:36:17.750Z,19.176833333333,-155.71633333333,9.46,2.68,ml,35,113,0.03327,0.26,hv,hv74619697,2025-02-20T21:20:23.040Z,"13 km NNE of Hawaiian Ocean View, Hawaii",earthquake,0.59,0.46,0.14577465372196,17,reviewed,hv,hv
 2025-02-20T17:27:30.055Z,38.7821,-119.6155,8.4,1.4,ml,19,62.47,0.077,0.1359,nn,nn00893754,2025-02-20T19:05:43.669Z,"9 km SSE of Carter Springs, Nevada",earthquake,,1.1,0.37,8,reviewed,nn,nn
 2025-02-20T17:24:50.264Z,-22.4909,179.3257,571.068,4.9,mb,80,65,4.871,0.89,us,us7000pf1x,2025-02-20T17:57:02.040Z,"south of the Fiji Islands",earthquake,13.17,7.621,0.039,205,reviewed,us,us
 2025-02-20T17:22:42.202Z,52.7725,-162.9556,10,3.3,ml,18,230,2.019,1.12,us,us7000pf1w,2025-02-20T17:49:04.040Z,"233 km S of False Pass, Alaska",earthquake,6.32,2.012,0.081,20,reviewed,us,us
@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-19T22:13:36.310Z,59.3655,-153.44083333333,-0.13,0,ml,4,155,0.003519,0.07,av,av93505621,2025-02-20T18:03:02.150Z,"60 km SE of Pedro Bay, Alaska",earthquake,0.32,0.17,0.41830139483314,4,reviewed,av,av
 2025-02-19T22:00:00.470Z,58.2755,-155.00316666667,2.63,0.15,ml,7,243,0.03796,0.07,av,av93505616,2025-02-20T17:59:26.080Z,"85 km NNW of Karluk, Alaska",earthquake,0.62,0.39,0.34769323532419,7,reviewed,av,av
 2025-02-19T21:55:39.060Z,38.830333709717,-122.81816864014,1.789999961853,0.77,md,10,127,0.00938,0.01,nc,nc75136327,2025-02-19T21:57:15.032Z,"8 km NNW of The Geysers, CA",earthquake,0.4,0.769999981,0.33,10,automatic,nc,nc
-2025-02-19T21:25:54.851Z,59.4085,-152.7917,93.6,2.1,ml,,,,0.23,ak,ak0252b1ixj1,2025-02-19T21:28:32.265Z,"49 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-02-19T21:20:51.750Z,37.416,-119.06933333333,7.89,1.58,md,18,87,0.08109,0.1,nc,nc75136317,2025-02-19T22:27:57.974Z,"26 km SSW of Mammoth Lakes, CA",earthquake,0.35,0.68,0.258,14,reviewed,nc,nc
