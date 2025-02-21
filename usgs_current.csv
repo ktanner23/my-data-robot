@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-21T12:28:13.180Z,33.7083333,-116.8278333,16.18,1.66,ml,75,21,0.07988,0.21,ci,ci40190458,2025-02-21T12:38:53.770Z,"8 km SE of Valle Vista, CA",earthquake,0.15,0.34,0.282,26,automatic,ci,ci
+2025-02-21T12:22:55.040Z,38.807498931885,-122.77666473389,2.1900000572205,0.82,md,10,105,0.006553,0.02,nc,nc75137012,2025-02-21T12:24:30.006Z,"4 km NNW of The Geysers, CA",earthquake,0.44,0.74000001,0.25,11,automatic,nc,nc
+2025-02-21T12:21:29.760Z,38.801666259766,-122.80683135986,1.4400000572205,1.32,md,12,61,0.01099,0.02,nc,nc75137007,2025-02-21T12:23:05.209Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.540000021,0.21,14,automatic,nc,nc
 2025-02-21T12:00:40.463Z,60.8469,-151.806,74,1.4,ml,,,,0.67,ak,ak0252e73c26,2025-02-21T12:02:54.701Z,"33 km WNW of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-21T11:57:03.786Z,61.8563,-153.5041,247.6,1.6,ml,,,,0.9,ak,ak0252e6u1fu,2025-02-21T12:00:10.186Z,"111 km W of Skwentna, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2025-02-21T11:49:54.980Z,38.836334228516,-122.84983062744,0.019999999552965,0.25,md,7,90,0.01036,0.05,nc,nc75137002,2025-02-21T11:51:30.017Z,"10 km NW of The Geysers, CA",earthquake,0.36,1.39999998,0.14,7,automatic,nc,nc
@@ -7,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-21T11:44:11.935Z,64.6934,-149.0345,14,1.4,ml,,,,0.31,ak,ak0252e6r9rd,2025-02-21T11:46:13.706Z,"10 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-21T11:37:26.998Z,35.7007,-115.4626,15.9,1.6,ml,10,309.73,0.841,0.5521,nn,nn00893789,2025-02-21T11:40:33.386Z,"14 km S of Goodsprings, Nevada",earthquake,,2,0.34,7,automatic,nn,nn
 2025-02-21T11:36:42.270Z,32.3605,-115.1508333,9.02,3.05,ml,10,67,0.08551,0.2,ci,ci40190434,2025-02-21T11:40:27.123Z,"4 km E of Delta, B.C., MX",earthquake,1.74,3.72,0.3,26,automatic,ci,ci
+2025-02-21T11:36:26.004Z,31.5804,-114.518,10,3.6,ml,38,261,0.862,0.39,us,us7000pf7l,2025-02-21T12:36:20.040Z,"11 km S of Golfo de Santa Clara, Mexico",earthquake,6.77,2.019,0.048,70,reviewed,us,us
 2025-02-21T11:28:25.130Z,40.48433303833,-125.55416870117,4.789999961853,2.92,md,17,297,1.025,0.12,nc,nc75136987,2025-02-21T11:57:16.993Z,"109 km WNW of Petrolia, CA",earthquake,5.15,12.8100004,0.12,8,automatic,nc,nc
 2025-02-21T11:25:24.149Z,59.9734,-152.6998,96.9,1.9,ml,,,,0.3,ak,ak0252e6n83i,2025-02-21T11:27:07.122Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-21T11:23:55.410Z,38.827167510986,-122.81616973877,1.7000000476837,1.08,md,20,41,0.006071,0.05,nc,nc75136982,2025-02-21T11:25:30.652Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.409999996,0.14,19,automatic,nc,nc
@@ -175,7 +179,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T15:55:09.990Z,38.785831451416,-122.76599884033,3.25,1.06,md,14,76,0.01509,0.02,nc,nc75136617,2025-02-20T15:56:46.473Z,"1 km NNW of The Geysers, CA",earthquake,0.32,0.790000021,0.28,14,automatic,nc,nc
 2025-02-20T15:54:18.350Z,39.696666666667,-110.81566666667,-3.42,2.43,ml,17,58,0.06571,0.17,uu,uu80102441,2025-02-20T16:58:20.820Z,"1 km NW of Kenilworth, Utah",earthquake,0.35,0.92,0.10428805013148,7,reviewed,uu,uu
 2025-02-20T15:42:57.920Z,38.80583190918,-122.77966308594,2.5,0.77,md,8,91,0.007459,0.01,nc,nc75136612,2025-02-20T15:44:36.426Z,"4 km NNW of The Geysers, CA",earthquake,0.64,1.20000005,0.16,9,automatic,nc,nc
-2025-02-20T15:41:05.412Z,54.3779,-118.4885,10,4.7,mb,83,47,0.629,0.85,us,us7000peye,2025-02-21T00:43:54.691Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208,reviewed,us,us
+2025-02-20T15:41:05.412Z,54.3779,-118.4885,10,4.7,mb,83,47,0.629,0.85,us,us7000peye,2025-02-21T12:37:20.296Z,"69 km NE of Grande Cache, Canada",earthquake,4.81,1.72,0.038,208,reviewed,us,us
 2025-02-20T15:38:30.510Z,36.888668060303,-121.48683166504,7.4299998283386,1.49,md,14,84,0.006042,0.09,nc,nc75136607,2025-02-20T15:40:06.490Z,"7 km NE of San Juan Bautista, CA",earthquake,0.4,0.74000001,0.27,12,automatic,nc,nc
 2025-02-20T15:36:26.770Z,38.823665618896,-122.78649902344,0.77999997138977,1.1,md,20,41,0.01134,0.03,nc,nc75136602,2025-02-20T15:38:01.649Z,"5 km WNW of Cobb, CA",earthquake,0.18,0.330000013,0.17,19,automatic,nc,nc
 2025-02-20T15:26:20.298Z,64.619,-147.1607,14.2,1.1,ml,,,,0.15,ak,ak0252clhtfx,2025-02-20T15:27:40.886Z,"7 km SW of Eielson Air Force Base, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -201,8 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-20T12:57:25.570Z,34.287,-116.9358333,7.06,1.62,ml,73,22,0.02762,0.18,ci,ci40189650,2025-02-21T00:22:53.830Z,"5 km NNW of Big Bear Lake, CA",earthquake,0.13,0.32,0.169,19,reviewed,ci,ci
 2025-02-20T12:54:05.910Z,61.211666666667,-152.23033333333,22.67,-0.56,ml,7,116,0.01557,0.12,av,av93033319,2025-02-20T23:05:43.450Z,"61 km WNW of Tyonek, Alaska",earthquake,1.23,0.69,0.32346950969639,7,reviewed,av,av
 2025-02-20T12:42:05.904Z,36.6439,-116.2738,6.6,-0.2,ml,8,241.09,0.089,0.0532,nn,nn00893764,2025-02-21T02:05:53.628Z,"52 km SE of Beatty, Nevada",earthquake,,3.8,0.01,2,reviewed,nn,nn
-2025-02-20T12:39:17.556Z,-56.7182,-26.4034,94.224,5.2,mb,44,137,6.227,0.8,us,us7000pexs,2025-02-20T12:56:19.040Z,"South Sandwich Islands region",earthquake,14.56,8.328,0.072,64,reviewed,us,us
-2025-02-20T12:36:41.761Z,63.104,-151.3575,0,1.6,ml,,,,1.02,ak,ak0252cjrpg0,2025-02-20T12:43:07.631Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-20T12:33:03.463Z,64.3422,-146.7366,7.3,1.2,ml,,,,0.39,ak,ak0252cjqzca,2025-02-20T12:34:23.779Z,"7 km WSW of Harding-Birch Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-02-20T12:24:08.840Z,53.947333333333,-166.56633333333,9.77,0.57,ml,9,130,0.071,0.12,av,av93506191,2025-02-20T22:56:30.820Z,"6 km NNW of Dutch Harbor, Alaska",earthquake,0.35,0.39,0.17329373457967,9,reviewed,av,av
-2025-02-20T12:22:43.350Z,54.772333333333,-163.89033333333,11.51,0.69,ml,4,172,0.07392,0.2,av,av93506186,2025-02-20T19:07:59.910Z,"32 km WSW of False Pass, Alaska",earthquake,1.18,2.01,0.47983918455362,4,reviewed,av,av
