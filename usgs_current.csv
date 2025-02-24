@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-02-24T18:41:41.800Z,36.81816482544,-121.86483001709,6.9099998474121,2.7,md,5,202,0.2933,0.01,nc,nc75138446,2025-02-24T18:44:42.086Z,"7 km WNW of Moss Landing, CA",earthquake,0.64,1.77999997,1.82,4,automatic,nc,nc
+2025-02-24T18:41:41.800Z,36.81816482544,-121.86483001709,6.9099998474121,2.7,md,5,202,0.2933,0.01,nc,nc75138446,2025-02-24T18:52:17.180Z,"7 km WNW of Moss Landing, CA",earthquake,0.64,1.77999997,1.82,4,automatic,nc,nc
 2025-02-24T18:32:04.771Z,61.8255,-150.5883,36,1.3,ml,,,,0.52,ak,ak0252j9grbx,2025-02-24T18:34:18.128Z,"30 km WNW of Willow, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2025-02-24T18:24:25.916Z,61.6157,-146.2578,32.4,1.2,ml,,,,0.72,ak,ak0252j9f38f,2025-02-24T18:26:02.779Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-24T18:19:56.476Z,55.8381,-155.6792,6,2.6,ml,,,,0.9,ak,ak0252j9e6h3,2025-02-24T18:42:52.249Z,"154 km SW of Akhiok, Alaska",earthquake,,1.3,,,reviewed,ak,ak
@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T13:17:20.005Z,62.3181,-149.9394,34.8,1.1,ml,,,,0.85,ak,ak0252j6eeqo,2025-02-24T13:18:59.596Z,"8 km E of Talkeetna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-24T13:17:00.470Z,35.2425,-97.7695,4.11,1.39,ml,49,53,0.01259752794,0.35,ok,ok2025dvrl,2025-02-24T13:53:55.043Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.27,24,reviewed,ok,ok
 2025-02-24T13:09:28.007Z,37.4247,-117.1029,9.6,1,ml,8,219.28,0.177,0.3963,nn,nn00893948,2025-02-24T13:11:39.417Z,"33 km SSE of Goldfield, Nevada",earthquake,,2.2,0.38,5,automatic,nn,nn
-2025-02-24T13:04:46.290Z,35.6736679,-117.4886703,5.79,0.99,ml,16,75,0.05358,0.14,ci,ci40192898,2025-02-24T13:06:49.425Z,"13 km SW of Searles Valley, CA",earthquake,0.39,1.08,0.307,5,automatic,ci,ci
+2025-02-24T13:04:46.210Z,35.6725,-117.482,6.88,0.85,ml,27,39,0.04803,0.14,ci,ci40192898,2025-02-24T18:50:33.533Z,"13 km SW of Searles Valley, CA",earthquake,0.17,0.46,0.081,15,automatic,ci,ci
 2025-02-24T12:46:46.800Z,33.5208333,-116.5178333,13.6,0.56,ml,22,57,0.07515,0.1,ci,ci40192882,2025-02-24T13:56:50.952Z,"15 km ESE of Anza, CA",earthquake,0.17,0.38,0.196,13,reviewed,ci,ci
 2025-02-24T12:28:43.216Z,60.9292,-152.1616,83,0.7,ml,,,,0.09,ak,ak0252j5vdsx,2025-02-24T12:30:04.655Z,"54 km WNW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-02-24T12:26:00.966Z,-45.6245,-77.399,10,4.9,mb,40,182,2.78,1.13,us,us7000pfsi,2025-02-24T13:56:17.040Z,"Off the coast of Aisen, Chile",earthquake,9.23,1.947,0.086,43,reviewed,us,us
@@ -141,7 +141,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T00:52:18.276Z,9.5527,40.2783,10,4.5,mb,47,88,3.2,0.63,us,us7000pfq1,2025-02-24T13:31:51.285Z,"57 km SE of Abomsa, Ethiopia",earthquake,10.23,1.923,0.089,37,reviewed,us,us
 2025-02-24T00:37:29.310Z,46.845500946045,-121.76216888428,0.68999999761581,0.769999981,md,15,78,,0.0500000007,uw,uw62077316,2025-02-24T00:39:04.320Z,"22 km ENE of Ashford, Washington",earthquake,0.32,0.949999988,0.75999999,2,automatic,uw,uw
 2025-02-24T00:32:29.070Z,33.6203333,-116.6871667,13.4,1.49,ml,80,23,0.04971,0.2,ci,ci40192602,2025-02-24T00:43:09.840Z,"7 km N of Anza, CA",earthquake,0.14,0.25,0.216,26,automatic,ci,ci
-2025-02-24T00:32:09.900Z,33.6076667,-116.6953333,6.92,0.6,ml,8,97,0.06366,0.17,ci,ci40192586,2025-02-24T00:36:44.812Z,"6 km NNW of Anza, CA",earthquake,0.71,1.37,0.171,8,automatic,ci,ci
+2025-02-24T00:32:08.860Z,33.6276667,-116.6793333,13.22,0.74,ml,13,70,0.04138,0.11,ci,ci40192586,2025-02-24T18:57:43.269Z,"8 km N of Anza, CA",earthquake,0.28,0.6,0.176,8,reviewed,ci,ci
 2025-02-24T00:30:05.445Z,17.9406,-83.1922,10,4.9,mww,72,80,5.318,0.9,us,us7000pfpx,2025-02-24T04:13:42.938Z,"242 km SW of George Town, Cayman Islands",earthquake,7.99,1.861,0.078,16,reviewed,us,us
 2025-02-24T00:27:10.260Z,35.0283333,-117.6776667,0.59,1.63,ml,41,39,0.09496,0.18,ci,ci40192578,2025-02-24T00:30:45.680Z,"4 km NW of Boron, CA",earthquake,0.24,0.51,0.154,26,automatic,ci,ci
 2025-02-24T00:26:36.960Z,35.24066667,-97.78533333,6.56,0.32,ml,14,113,0.02069593875,0.08,ok,ok2025dusa,2025-02-24T16:03:22.758Z,"4 km W of Bridge Creek, Oklahoma",earthquake,,0.5,0.18,7,reviewed,ok,ok
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-23T19:06:30.620Z,35.24066667,-97.76783333,4.95,1.2,ml,32,88,0.01079788109,0.16,ok,ok2025duhm,2025-02-24T15:53:21.881Z,"2 km WNW of Bridge Creek, Oklahoma",earthquake,,0.3,0.26,14,reviewed,ok,ok
 2025-02-23T19:05:56.665Z,62.0846,-148.0607,22,2.3,ml,,,,1.47,ak,ak0252hmd44p,2025-02-23T19:13:06.194Z,"37 km NW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-23T19:05:24.989Z,35.24333333,-97.77233333,5.52,1.53,ml,81,42,0.01439717478,0.23,ok,ok2025duhl,2025-02-23T19:38:52.507Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.2,0.28,34,reviewed,ok,ok
-2025-02-23T18:55:02.033Z,39.1441,-119.037,4.1,1.8,ml,15,81.97,0.025,0.1735,nn,nn00893927,2025-02-23T18:57:17.156Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.18,8,automatic,nn,nn
