@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-25T21:11:42.790Z,33.8635,-117.5126667,9.54,1.19,ml,37,55,0.07268,0.35,ci,ci40194282,2025-02-25T21:16:28.071Z,"2 km SSE of Home Gardens, CA",earthquake,0.5,1,0.306,29,automatic,ci,ci
 2025-02-25T20:57:10.099Z,35.24616667,-97.78183333,5.58,1.12,ml,15,103,0.01799646848,0.09,ok,ok2025dycd,2025-02-25T21:06:14.006Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.27,8,reviewed,ok,ok
 2025-02-25T20:53:07.669Z,35.24833333,-97.77366667,5.64,0.25,ml,15,87,0.01799646848,0.1,ok,ok2025dyca,2025-02-25T20:59:57.787Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.6,0.24,7,reviewed,ok,ok
 2025-02-25T20:51:13.769Z,35.25116667,-97.77066667,6.16,0.72,ml,14,168,0.01799646848,0.09,ok,ok2025dyby,2025-02-25T20:57:18.451Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.25,5,reviewed,ok,ok
@@ -208,7 +209,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T03:26:50.430Z,47.7305,-113.66416666667,0.44,0.18,ml,4,273,0.08733,0.17,mb,mb90073173,2025-02-25T15:21:36.150Z,"22 km N of Condon, Montana",earthquake,1.78,2,0.10371281982094,2,reviewed,mb,mb
 2025-02-25T03:24:43.050Z,36.021999359131,-120.20016479492,4.960000038147,2,md,13,88,0.05432,0.09,nc,nc75138711,2025-02-25T06:12:17.709Z,"7 km WNW of Avenal, CA",earthquake,0.4,0.860000014,0.39,7,automatic,nc,nc
 2025-02-25T03:21:21.790Z,34.2193333,-117.461,6.25,1.7,ml,81,28,0.02299,0.19,ci,ci40193674,2025-02-25T03:31:42.020Z,"6 km W of Devore, CA",earthquake,0.13,0.25,0.133,26,automatic,ci,ci
-2025-02-25T03:21:16.350Z,33.9496667,-117.2253333,19,1.26,ml,25,105,0.2054,0.36,ci,ci40193666,2025-02-25T03:26:48.314Z,"3 km N of Moreno Valley, CA",earthquake,1.06,1.88,0.299,6,automatic,ci,ci
 2025-02-25T03:16:21.319Z,58.7192,-153.8645,241,1.5,ml,,,,0.93,ak,ak0252knz7kj,2025-02-25T03:19:27.945Z,"92 km NW of Aleneva, Alaska",earthquake,,11.6,,,automatic,ak,ak
 2025-02-25T03:10:11.550Z,38.787998199463,-122.76599884033,2.9300000667572,0.29,md,5,190,0.01353,0,nc,nc75138706,2025-02-25T03:37:15.675Z,"1 km NNW of The Geysers, CA",earthquake,1.08,2.3499999,0.03,7,automatic,nc,nc
 2025-02-25T03:08:00.418Z,-6.4138,102.3188,10,4.8,mb,38,133,2.136,0.9,us,us6000pv99,2025-02-25T03:25:35.040Z,"283 km SSW of Pagar Alam, Indonesia",earthquake,9.31,1.596,0.094,35,reviewed,us,us
@@ -258,5 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-24T21:44:19.860Z,38.564498901367,-123.00833129883,2.2799999713898,2.41,md,9,177,0.4991,0.18,nc,nc75138536,2025-02-25T01:27:17.821Z,"7 km N of Guerneville, CA",earthquake,4.36,2.23000002,0.8,2,automatic,nc,nc
 2025-02-24T21:39:20.590Z,38.78150177002,-122.72316741943,1.7000000476837,1.67,md,6,161,0.01074,0.01,nc,nc75138521,2025-02-25T01:12:15.737Z,"3 km WNW of Anderson Springs, CA",earthquake,0.56,0.850000024,0.11,7,automatic,nc,nc
 2025-02-24T21:21:42.573Z,32.442,-102.109,8.7158,2.7,ml,31,66,0,0.1,tx,tx2025dwhl,2025-02-24T22:12:15.040Z,"35 km SSW of Los Ybanez, Texas",earthquake,0.78810945947292,0.83309346303742,0.2,37,reviewed,tx,tx
-2025-02-24T21:19:59.104Z,32.431,-102.111,9.0088,1.3,ml,12,70,0,0.1,tx,tx2025dwhk,2025-02-25T15:05:26.726Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.76433183032182,0.86325888633485,0.2,12,reviewed,tx,tx
-2025-02-24T21:19:42.110Z,38.783000946045,-122.72533416748,0.99000000953674,1.39,md,18,82,0.02138,0.03,nc,nc75138516,2025-02-25T00:47:20.574Z,"3 km E of The Geysers, CA",earthquake,0.23,0.550000012,0.14,18,automatic,nc,nc
