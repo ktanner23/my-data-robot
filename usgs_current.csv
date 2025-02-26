@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T21:47:14.500Z,38.826831817627,-122.85033416748,2.079999923706,1.07,md,23,101,0.005157,0.02,nc,nc75139601,2025-02-26T21:48:49.219Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.349999994,0.11,25,automatic,nc,nc
 2025-02-26T21:14:41.320Z,32.5371667,-116.2276667,10.13,2.1,ml,39,84,0.1505,0.18,ci,ci40195130,2025-02-26T21:25:29.620Z,"24 km ESE of Campo, CA",earthquake,0.21,0.52,0.261,26,automatic,ci,ci
 2025-02-26T21:13:11.560Z,46.976166666667,-122.24533333333,-0.34,1.61,ml,24,229,0.02093,0.15,uw,uw62078251,2025-02-26T21:49:56.750Z,"1 km SW of Kapowsin, Washington",explosion,0.41,31.61,0.17209403286108,15,reviewed,uw,uw
-2025-02-26T20:55:37.225Z,26.3886,92.2421,10,5.3,mb,116,54,5.711,0.75,us,us6000pvpc,2025-02-26T21:49:13.934Z,"17 km SSE of Khārupatia, India",earthquake,8.03,1.837,0.039,221,reviewed,us,us
+2025-02-26T20:55:37.225Z,26.3886,92.2421,10,5.3,mb,116,54,5.711,0.75,us,us6000pvpc,2025-02-26T21:59:41.756Z,"17 km SSE of Khārupatia, India",earthquake,8.03,1.837,0.039,221,reviewed,us,us
 2025-02-26T20:48:27.812Z,65.1214,-149.3985,13.4,1.5,ml,,,,0.81,ak,ak0252mltsrh,2025-02-26T20:50:52.861Z,"3 km SW of Minto, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-02-26T20:40:01.840Z,33.899,-117.5091667,11.76,1.7,ml,65,34,0.04901,0.17,ci,ci40195106,2025-02-26T20:51:13.320Z,"3 km NNE of Home Gardens, CA",earthquake,0.16,0.29,0.318,31,automatic,ci,ci
 2025-02-26T20:34:50.595Z,57.5681,-154.6347,58.9,2.6,ml,,,,0.2,ak,ak0252mlquhv,2025-02-26T21:16:12.040Z,"10 km W of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T13:56:04.500Z,59.2503,-153.0837,74.3,1.8,ml,,,,0.35,ak,ak0252mhpfgi,2025-02-26T13:58:08.080Z,"67 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-26T13:48:20.859Z,53.0811,-169.4655,94.6,3.6,ml,,,,0.58,ak,ak0252mhnr2c,2025-02-26T17:19:00.170Z,"43 km WNW of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-02-26T13:41:59.640Z,47.611,-122.60766666667,21.36,1.59,ml,23,79,0.1494,0.15,uw,uw62078201,2025-02-26T21:12:12.770Z,"2 km NNW of Enetai, Washington",earthquake,0.34,0.74,0.16729938665713,9,reviewed,uw,uw
-2025-02-26T13:37:28.322Z,39.1541,-119.0693,6.8,2,ml,17,77.43,0.028,0.1135,nn,nn00894061,2025-02-26T13:39:42.796Z,"20 km NNE of Yerington, Nevada",earthquake,,0.5,0.2,9,automatic,nn,nn
+2025-02-26T13:37:28.800Z,39.1587,-119.0691,7,2.1,ml,29,39.35,0.023,0.1731,nn,nn00894061,2025-02-26T21:52:21.209Z,"20 km NNE of Yerington, Nevada",earthquake,,0.7,0.23,17,reviewed,nn,nn
 2025-02-26T13:33:11.390Z,38.791500091553,-122.76049804688,2.170000076294,0.26,md,7,158,0.009132,0.02,nc,nc75139456,2025-02-26T13:57:16.451Z,"2 km  of The Geysers, CA",earthquake,0.55,1.20000005,0.11,8,automatic,nc,nc
 2025-02-26T13:29:41.430Z,36.071666717529,-120.18367004394,10.170000076294,3.31,ml,46,88,0.0312,0.1,nc,nc75139451,2025-02-26T16:57:17.639Z,"9 km NNW of Avenal, CA",earthquake,0.21,0.319999993,0.294,30,automatic,nc,nc
 2025-02-26T13:28:02.740Z,61.591,-150.55,27.4,1.8,ml,,,,0.25,ak,ak0252mhjf9u,2025-02-26T13:29:31.995Z,"5 km NNW of Susitna, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -79,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T12:54:36.345Z,61.7805,-149.6898,34.9,1.2,ml,,,,0.68,ak,ak0252mh3mvm,2025-02-26T12:56:43.779Z,"17 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-26T12:42:17.620Z,35.6011667,-117.4898333,5.82,1.24,ml,30,60,0.0835,0.17,ci,ci40194746,2025-02-26T19:29:41.159Z,"17 km E of Ridgecrest, CA",earthquake,0.18,0.67,0.17,24,reviewed,ci,ci
 2025-02-26T12:41:29.580Z,33.966,-117.0036667,17.28,1.26,ml,51,29,0.04846,0.15,ci,ci40194738,2025-02-26T12:46:16.002Z,"5 km NNW of Beaumont, CA",earthquake,0.14,0.4,0.203,26,automatic,ci,ci
+2025-02-26T12:38:16.450Z,44.392,-114.67516666667,4.75,1.57,ml,14,99,0.3112,0.14,mb,mb90073238,2025-02-26T21:55:44.330Z,"26 km NW of Clayton, Idaho",earthquake,0.34,2.2,0.17996745958757,16,reviewed,mb,mb
 2025-02-26T12:29:47.860Z,33.3775,-116.8796667,4.85,1.55,ml,85,20,0.02776,0.25,ci,ci40194730,2025-02-26T12:40:54.090Z,"3 km NNW of Palomar Observatory, CA",earthquake,0.16,0.45,0.124,25,automatic,ci,ci
 2025-02-26T12:26:04.305Z,63.7892,-150.1193,4.2,1.3,ml,,,,0.24,ak,ak0252mgxkcu,2025-02-26T12:28:34.336Z,"55 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-02-26T12:24:35.370Z,38.792999267578,-122.89866638184,5.1799998283386,1.23,md,22,108,0.02998,0.03,nc,nc75139431,2025-02-26T15:57:17.219Z,"10 km ESE of Cloverdale, CA",earthquake,0.49,0.829999983,0.13,24,automatic,nc,nc
@@ -264,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T22:08:02.319Z,35.24566667,-97.7795,4.89,1.59,ml,16,100,0.01979611533,0.11,ok,ok2025dyem,2025-02-25T22:16:44.648Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.3,7,reviewed,ok,ok
 2025-02-25T22:00:22.289Z,35.246,-97.78116667,5.21,1.69,ml,16,102,0.0188962919,0.1,ok,ok2025dyef,2025-02-25T22:14:37.179Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.5,0.33,8,reviewed,ok,ok
 2025-02-25T22:00:02.372Z,64.485,-147.8906,13.1,1,ml,,,,0.43,ak,ak0252kz6z59,2025-02-25T22:24:33.283Z,"36 km S of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-02-25T21:59:10.487Z,63.9784,-148.792,0.1,1.2,ml,,,,0.67,ak,ak0252kyy7ew,2025-02-25T22:00:58.522Z,"16 km NNE of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-02-25T21:53:16.341Z,61.4273,-147.8125,28.1,1.2,ml,,,,0.57,ak,ak0252kywxki,2025-02-25T21:54:46.586Z,"43 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-02-25T21:51:35.023Z,66.2462,-147.9667,7.8,1.6,ml,,,,0.67,ak,ak0252kywjku,2025-02-25T21:53:39.637Z,"28 km WSW of Beaver, Alaska",earthquake,,0.3,,,automatic,ak,ak
