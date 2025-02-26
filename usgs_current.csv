@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T21:14:41.320Z,32.5371667,-116.2276667,10.13,2.1,ml,39,84,0.1505,0.18,ci,ci40195130,2025-02-26T21:25:29.620Z,"24 km ESE of Campo, CA",earthquake,0.21,0.52,0.261,26,automatic,ci,ci
 2025-02-26T21:13:11.560Z,46.976166666667,-122.24533333333,-0.34,1.61,ml,24,229,0.02093,0.15,uw,uw62078251,2025-02-26T21:49:56.750Z,"1 km SW of Kapowsin, Washington",explosion,0.41,31.61,0.17209403286108,15,reviewed,uw,uw
 2025-02-26T21:12:42.412Z,13.5821,-90.6745,60.308,4.2,mb,24,178,0.926,0.64,us,us6000pvpg,2025-02-26T22:08:36.040Z,"39 km S of Iztapa, Guatemala",earthquake,4.4,13.669,0.305,3,reviewed,us,us
-2025-02-26T20:55:37.225Z,26.3886,92.2421,10,5.3,mb,116,54,5.711,0.75,us,us6000pvpc,2025-02-26T22:05:04.071Z,"17 km SSE of Khārupatia, India",earthquake,8.03,1.837,0.039,221,reviewed,us,us
+2025-02-26T20:55:37.225Z,26.3886,92.2421,10,5.3,mb,116,54,5.711,0.75,us,us6000pvpc,2025-02-26T22:48:13.191Z,"17 km SSE of Khārupatia, India",earthquake,8.03,1.837,0.039,221,reviewed,us,us
 2025-02-26T20:48:27.812Z,65.1214,-149.3985,13.4,1.5,ml,,,,0.81,ak,ak0252mltsrh,2025-02-26T20:50:52.861Z,"3 km SW of Minto, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-02-26T20:40:01.840Z,33.899,-117.5091667,11.76,1.7,ml,65,34,0.04901,0.17,ci,ci40195106,2025-02-26T20:51:13.320Z,"3 km NNE of Home Gardens, CA",earthquake,0.16,0.29,0.318,31,automatic,ci,ci
 2025-02-26T20:34:50.595Z,57.5681,-154.6347,58.9,2.6,ml,,,,0.2,ak,ak0252mlquhv,2025-02-26T21:16:12.040Z,"10 km W of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -70,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T15:09:03.490Z,38.79700088501,-122.78067016602,2.7799999713898,0.76,md,8,141,0.00683,0.01,nc,nc75139471,2025-02-26T15:27:15.034Z,"3 km NNW of The Geysers, CA",earthquake,0.65,1.45000005,0.04,9,automatic,nc,nc
 2025-02-26T14:57:36.680Z,54.769833333333,-164.024,7.77,0.12,ml,4,107,0.04413,0.27,av,av93514031,2025-02-26T20:33:42.010Z,"40 km WSW of False Pass, Alaska",earthquake,1.61,1.93,0.17219845716675,4,reviewed,av,av
 2025-02-26T14:54:57.717Z,61.2622,-151.0596,72.7,1.3,ml,,,,0.18,ak,ak0252miajqj,2025-02-26T14:56:21.227Z,"13 km N of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-02-26T14:41:10.949Z,37.332,-117.5858,2,2,ml,20,228.62,0.26,0.3445,nn,nn00894065,2025-02-26T14:43:43.903Z,"47 km S of Silver Peak, Nevada",earthquake,,13,0.21,14,automatic,nn,nn
+2025-02-26T14:41:10.210Z,37.3215,-117.662,5.4,2.1,ml,13,109.02,0.09,0.1458,nn,nn00894065,2025-02-26T22:47:48.565Z,"48 km S of Silver Peak, Nevada",earthquake,,2.6,0.66,5,reviewed,nn,nn
 2025-02-26T14:38:09.789Z,62.2197,-150.0834,25.1,1.2,ml,,,,0.82,ak,ak0252mi70ky,2025-02-26T14:40:00.955Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-26T14:36:36.340Z,59.9258,-151.1419,43.4,1.7,ml,,,,0.45,ak,ak0252mi6n76,2025-02-26T14:39:05.393Z,"12 km NW of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-02-26T14:33:31.072Z,0.3486,125.0153,41.92,4.7,mb,73,94,2.634,1.02,us,us6000pvlm,2025-02-26T16:05:50.040Z,"65 km E of Modisi, Indonesia",earthquake,7.26,6.859,0.073,61,reviewed,us,us
@@ -176,6 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-26T06:26:42.018Z,32.345,-102.051,8.374,1.2,ml,18,55,0,0.1,tx,tx2025dyuy,2025-02-26T13:51:57.224Z,"34 km NW of Stanton, Texas",earthquake,0.51580770044391,0.60861480321229,0.1,12,reviewed,tx,tx
 2025-02-26T06:23:24.020Z,38.028333333333,-112.45666666667,1.97,1.65,ml,20,79,0.2155,0.29,uu,uu80002733,2025-02-26T17:28:52.420Z,"22 km SW of Circleville, Utah",earthquake,0.46,31.61,0.12049869491187,6,reviewed,uu,uu
 2025-02-26T06:22:30.350Z,59.9684,-150.9176,42.4,1.4,ml,,,,0.44,ak,ak0252mdc5ue,2025-02-26T16:37:31.333Z,"12 km N of Fox River, Alaska",earthquake,,1.1,,,reviewed,ak,ak
+2025-02-26T06:17:08.940Z,44.735,-111.73416666667,12.62,-0.04,ml,6,208,0.04907,0.05,mb,mb90073268,2025-02-26T22:45:24.320Z,"43 km W of Hebgen Lake Estates, Montana",earthquake,0.52,0.69,0.072652488383833,4,reviewed,mb,mb
 2025-02-26T06:17:06.130Z,39.202333333333,-111.28066666667,1.29,1.6,ml,25,63,0.1096,0.23,uu,uu80102671,2025-02-26T14:37:44.940Z,"17 km NW of Ferron, Utah",earthquake,0.39,2.61,0.12678790687542,4,reviewed,uu,uu
 2025-02-26T06:14:41.958Z,39.163,-119.0305,8.7,1.3,ml,22,55.82,0.009,0.1609,nn,nn00894043,2025-02-26T20:38:45.533Z,"22 km NNE of Yerington, Nevada",earthquake,,0.7,0.32,9,reviewed,nn,nn
 2025-02-26T06:14:37.510Z,36.1628333,-118.0621667,0.23,2.27,ml,29,60,0.1738,0.16,ci,ci40194626,2025-02-26T22:18:55.915Z,"14 km SSW of Olancha, CA",earthquake,0.18,0.38,0.257,23,reviewed,ci,ci
@@ -266,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-25T23:01:36.810Z,32.9703333,-115.5331667,11.41,1.54,ml,29,77,0.07247,0.25,ci,ci40194354,2025-02-25T23:05:25.701Z,"1 km SSW of Brawley, CA",earthquake,0.29,0.58,0.268,28,automatic,ci,ci
 2025-02-25T22:58:25.170Z,35.25133333,-97.77016667,3.22,1.19,ml,36,51,0.01799646848,0.34,ok,ok2025dygd,2025-02-26T14:21:34.782Z,"3 km WNW of Bridge Creek, Oklahoma",earthquake,,0.7,0.26,19,reviewed,ok,ok
 2025-02-25T22:55:44.164Z,0.375,124.9411,10,6.1,mww,115,19,1.067,0.81,us,us6000pvgx,2025-02-26T13:37:12.923Z,"56 km E of Modisi, Indonesia",earthquake,4.83,1.731,0.053,34,reviewed,us,us
-2025-02-25T22:47:00.318Z,63.0938,-151.506,0,1.4,ml,,,,0.88,ak,ak0252kzh1n4,2025-02-25T22:49:43.204Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-02-25T22:46:21.240Z,38.512,-112.90533333333,3.17,1.07,md,13,117,0.01798,0.11,uu,uu80102656,2025-02-25T23:10:03.200Z,"15 km NE of Milford, Utah",earthquake,0.3,0.61,0.14556403592982,5,reviewed,uu,uu
