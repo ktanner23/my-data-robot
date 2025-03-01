@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-01T22:45:19.170Z,40.357833862305,-124.7251663208,18.860000610352,3.56,ml,78,233,0.3006,0.17,nc,nc75141231,2025-03-01T22:51:41.558Z,"37 km WNW of Petrolia, CA",earthquake,1.2,0.560000002,0.295,14,automatic,nc,nc
+2025-03-01T22:41:12.479Z,31.631,-104.016,5.9583,1.8,ml,16,41,0,0.2,tx,tx2025efnq,2025-03-01T22:51:35.946Z,"40 km WSW of Mentone, Texas",earthquake,0,2.3662850856781,0.2,12,automatic,tx,tx
 2025-03-01T22:35:31.595Z,36.7869,-115.9869,8.8,1.5,ml,30,58.33,0.037,0.2391,nn,nn00894209,2025-03-01T22:37:45.516Z,"37 km NW of Indian Springs, Nevada",earthquake,,0.5,0.25,21,automatic,nn,nn
 2025-03-01T22:26:13.980Z,38.830833435059,-122.81683349609,1.4299999475479,0.85,md,7,106,0.009113,0.01,nc,nc75141226,2025-03-01T22:27:49.305Z,"8 km NNW of The Geysers, CA",earthquake,0.66,1.34000003,0.31,9,automatic,nc,nc
 2025-03-01T22:12:26.370Z,33.1383333,-116.0285,8.59,1.42,ml,6,141,0.3357,0.18,ci,ci41069568,2025-03-01T22:17:58.058Z,"10 km E of Ocotillo Wells, CA",earthquake,0.85,14.66,0.243,29,automatic,ci,ci
@@ -96,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T11:38:22.150Z,38.839832305908,-122.87633514404,2.4300000667572,0.29,md,12,117,0.005786,0.02,nc,nc75140956,2025-03-01T12:27:17.493Z,"13 km NW of The Geysers, CA",earthquake,0.31,0.819999993,0.11,13,automatic,nc,nc
 2025-03-01T11:36:01.067Z,61.2889,-152.235,4.4,2.7,ml,,,,0.45,ak,ak0252rf0b56,2025-03-01T16:51:20.640Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-03-01T11:34:45.420Z,38.822666168213,-122.76383209228,2.210000038147,0.66,md,7,123,0.009127,0.01,nc,nc75140951,2025-03-01T12:17:19.421Z,"4 km WNW of Cobb, CA",earthquake,0.52,1.24000001,0.34,9,automatic,nc,nc
-2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T22:40:57.825Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
+2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T22:46:41.863Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
 2025-03-01T11:25:59.650Z,34.9205,-119.0405,11.3,1.2,ml,26,92,0.08332,0.17,ci,ci41069192,2025-03-01T11:30:19.830Z,"10 km WSW of Grapevine, CA",earthquake,0.31,0.6,0.195,31,automatic,ci,ci
 2025-03-01T11:25:04.826Z,39.0913,-119.0225,4.3,1.2,ml,8,110.5,0.079,0.0978,nn,nn00894194,2025-03-01T11:27:27.097Z,"16 km NE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
 2025-03-01T11:09:18.890Z,36.0418,-111.1811,9.143,3.4,ml,39,43,0.547,0.63,us,us6000pw9n,2025-03-01T16:59:37.973Z,"8 km SSE of Moenkopi, Arizona",earthquake,2.09,8.554,0.031,140,reviewed,us,us
@@ -198,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T23:00:46.419Z,62.5976,-151.4008,80.4,2,ml,,,,0.43,ak,ak0252pyejmp,2025-02-28T23:02:33.280Z,"34 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-02-28T22:59:36.471Z,32.387,-101.626,6.3721,1.4,ml,27,45,0,0.1,tx,tx2025edti,2025-03-01T13:37:02.382Z,"17 km SSE of Ackerly, Texas",earthquake,0.40515696713725,0.56288726992001,0.1,22,reviewed,tx,tx
 2025-02-28T22:58:56.020Z,34.75483333,-97.56866667,12.36,2.02,ml,81,36,0.1538698055,0.32,ok,ok2025edsr,2025-02-28T23:21:57.442Z,"7 km SSE of Erin Springs, Oklahoma",earthquake,,1.6,0.22,37,reviewed,ok,ok
-2025-02-28T22:50:47.050Z,38.819833333333,-122.827,2.54,-0.31,md,11,76,0.01108,0.02,nc,nc75140721,2025-03-01T00:36:30.639Z,"8 km NW of The Geysers, CA",earthquake,0.49,0.38,0.118,11,reviewed,nc,nc
-2025-02-28T22:49:18.590Z,38.800666809082,-122.81566619873,2.8399999141693,1.06,md,26,65,0.01336,0.02,nc,nc75140716,2025-02-28T23:27:16.315Z,"6 km NW of The Geysers, CA",earthquake,0.22,0.389999986,0.09,25,automatic,nc,nc
-2025-02-28T22:48:00.720Z,38.830333333333,-122.81916666667,2.13,0.23,md,15,62,0.009922,0.01,nc,nc75140711,2025-03-01T00:32:59.436Z,"8 km NNW of The Geysers, CA",earthquake,0.25,0.46,0.368,14,reviewed,nc,nc
