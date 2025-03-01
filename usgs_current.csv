@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-01T15:12:04.140Z,38.826000213623,-122.76316833496,1.8300000429153,0.7,md,8,131,0.006905,0.01,nc,nc75141041,2025-03-01T15:13:42.201Z,"3 km WNW of Cobb, CA",earthquake,0.51,1.08000004,0.12,9,automatic,nc,nc
+2025-03-01T15:12:04.140Z,38.826000213623,-122.76316833496,1.8300000429153,0.7,md,8,131,0.006905,0.01,nc,nc75141041,2025-03-01T15:27:18.681Z,"3 km WNW of Cobb, CA",earthquake,0.51,1.08000004,0.12,9,automatic,nc,nc
 2025-03-01T14:43:30.650Z,47.611999511719,-122.61033630371,21.14999961853,2.266238451004,ml,18,78,,0.0900000036,uw,uw62078691,2025-03-01T14:58:39.174Z,"3 km NNW of Enetai, Washington",earthquake,0.43,1.05999994,0.23502333462238,10,automatic,uw,uw
 2025-03-01T14:19:38.613Z,40.2969,-120.1636,3.6,1.8,ml,8,296.51,0.353,0.0811,nn,nn00894203,2025-03-01T14:22:17.962Z,"17 km N of Herlong, California",earthquake,,4,0.46,4,automatic,nn,nn
 2025-03-01T14:19:01.640Z,17.912833333333,-66.799333333333,9.34,2.5,md,13,230,0.08843,0.09,pr,pr71474073,2025-03-01T14:29:26.660Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.43,0.68,0.26384843934213,9,reviewed,pr,pr
@@ -34,10 +34,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T11:38:22.150Z,38.839832305908,-122.87633514404,2.4300000667572,0.29,md,12,117,0.005786,0.02,nc,nc75140956,2025-03-01T12:27:17.493Z,"13 km NW of The Geysers, CA",earthquake,0.31,0.819999993,0.11,13,automatic,nc,nc
 2025-03-01T11:36:01.067Z,61.2889,-152.235,4.4,2.7,ml,,,,0.45,ak,ak0252rf0b56,2025-03-01T11:37:46.708Z,"63 km WNW of Tyonek, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-03-01T11:34:45.420Z,38.822666168213,-122.76383209228,2.210000038147,0.66,md,7,123,0.009127,0.01,nc,nc75140951,2025-03-01T12:17:19.421Z,"4 km WNW of Cobb, CA",earthquake,0.52,1.24000001,0.34,9,automatic,nc,nc
-2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T15:02:39.543Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
+2025-03-01T11:31:33.280Z,-19.3914,146.7288,9.584,4.1,mb,16,168,0.826,0.8,us,us6000pw9t,2025-03-01T15:21:51.555Z,"1 km ESE of Kelso, Australia",earthquake,6.08,6.046,0.197,7,reviewed,us,us
 2025-03-01T11:25:59.650Z,34.9205,-119.0405,11.3,1.2,ml,26,92,0.08332,0.17,ci,ci41069192,2025-03-01T11:30:19.830Z,"10 km WSW of Grapevine, CA",earthquake,0.31,0.6,0.195,31,automatic,ci,ci
 2025-03-01T11:25:04.826Z,39.0913,-119.0225,4.3,1.2,ml,8,110.5,0.079,0.0978,nn,nn00894194,2025-03-01T11:27:27.097Z,"16 km NE of Yerington, Nevada",earthquake,,2,0.32,4,automatic,nn,nn
-2025-03-01T11:09:18.890Z,36.0418,-111.1811,9.143,3.4,ml,39,43,0.547,0.63,us,us6000pw9n,2025-03-01T15:08:41.890Z,"8 km SSE of Moenkopi, Arizona",earthquake,2.09,8.554,0.031,140,reviewed,us,us
+2025-03-01T11:09:18.890Z,36.0418,-111.1811,9.143,3.4,ml,39,43,0.547,0.63,us,us6000pw9n,2025-03-01T15:27:39.761Z,"8 km SSE of Moenkopi, Arizona",earthquake,2.09,8.554,0.031,140,reviewed,us,us
 2025-03-01T11:02:02.205Z,-32.2919,150.6694,10,3.3,ml,6,180,2.04,0.7,us,us6000pw9p,2025-03-01T12:51:56.666Z,"10 km N of Denman, Australia",earthquake,5.53,2.001,0.148,6,reviewed,us,us
 2025-03-01T10:52:31.042Z,-33.6866,-178.4842,10,4.9,mb,22,173,4.437,1.23,us,us6000pw9m,2025-03-01T11:10:21.040Z,"south of the Kermadec Islands",earthquake,15.36,1.975,0.122,21,reviewed,us,us
 2025-03-01T10:49:16.721Z,64.492,-147.1814,11.2,1.1,ml,,,,0.3,ak,ak0252rehp20,2025-03-01T10:51:36.826Z,"13 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -69,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T08:22:35.550Z,38.818000793457,-122.82299804688,2.0699999332428,0.76,md,13,64,0.01032,0.01,nc,nc75140876,2025-03-01T09:52:19.447Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.689999998,0.17,14,automatic,nc,nc
 2025-03-01T08:04:58.830Z,34.3523333,-116.4545,8.42,1.25,ml,43,51,0.08503,0.12,ci,ci41069152,2025-03-01T08:08:35.363Z,"27 km N of Yucca Valley, CA",earthquake,0.12,0.32,0.144,27,automatic,ci,ci
 2025-03-01T08:02:27.046Z,39.1568,-119.0613,5.3,1.4,ml,15,77.72,0.021,0.1931,nn,nn00894190,2025-03-01T08:04:37.983Z,"20 km NNE of Yerington, Nevada",earthquake,,0.6,0.25,4,automatic,nn,nn
+2025-03-01T08:02:23.019Z,36.6476,-116.2696,7.3,0,ml,6,206.79,0.056,0.0305,nn,nn00894206,2025-03-01T15:19:56.843Z,"52 km ESE of Beatty, Nevada",earthquake,,3,0,1,reviewed,nn,nn
 2025-03-01T07:44:07.440Z,35.538501739502,-120.83583068848,6.6500000953674,1.27,md,11,110,0.0998,0.01,nc,nc75140871,2025-03-01T09:27:16.367Z,"12 km NE of Cayucos, CA",earthquake,0.45,0.920000017,0.2,5,automatic,nc,nc
 2025-03-01T07:39:05.117Z,60.938,-152.8435,20.3,1.5,ml,,,,1.05,ak,ak0252rcn86n,2025-03-01T07:40:33.982Z,"88 km WNW of Nikiski, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-03-01T07:37:05.500Z,18.668666666667,-66.799666666667,11.72,2.9,md,17,239,0.3232,0.24,pr,pr71474023,2025-03-01T08:04:07.930Z,"20 km N of Hatillo, Puerto Rico",earthquake,0.73,0.75,0.077512095179319,7,reviewed,pr,pr
@@ -188,6 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T19:28:30.440Z,32.9105,-116.2423333,8.3,2.31,ml,79,38,0.0676,0.2,ci,ci41068816,2025-02-28T21:07:40.580Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.14,0.52,0.136,26,reviewed,ci,ci
 2025-02-28T19:24:15.140Z,35.2425,-97.79366667,5.6,-0.15,ml,12,229,0.01619682163,0.06,ok,ok2025edlp,2025-02-28T19:30:50.474Z,"5 km W of Bridge Creek, Oklahoma",earthquake,,0.5,0.14,6,reviewed,ok,ok
 2025-02-28T19:15:57.720Z,33.3055,-116.7095,17.2,0.92,ml,30,37,0.08069,0.15,ci,ci41068792,2025-02-28T20:06:04.976Z,"8 km WNW of Warner Springs, CA",earthquake,0.26,0.52,0.121,14,reviewed,ci,ci
+2025-02-28T19:08:50.860Z,45.659833333333,-111.82016666667,0.93,0.13,ml,4,171,0.1259,0.03,mb,mb90073338,2025-03-01T15:20:14.120Z,"5 km SSW of Harrison, Montana",earthquake,5.69,2.62,0.15053771361563,2,reviewed,mb,mb
 2025-02-28T19:01:00.010Z,38.78116607666,-122.75833129883,1.4199999570847,1.08,md,14,63,0.01193,0.03,nc,nc75140586,2025-02-28T19:15:04.602Z,"0 km  of The Geysers, CA",earthquake,0.26,0.479999989,0.12,13,automatic,nc,nc
 2025-02-28T18:49:52.230Z,34.1783333,-117.9356667,-1.1,0.85,ml,7,140,0.05052,0.17,ci,ci41068776,2025-02-28T20:35:19.214Z,"5 km NE of Bradbury, CA",quarry blast,0.77,31.61,0.189,8,reviewed,ci,ci
 2025-02-28T18:38:51.810Z,37.436668395996,-119.00916290283,1.4099999666214,1.56,md,11,99,0.07872,0.04,nc,nc75140581,2025-02-28T21:37:17.587Z,"22 km SSW of Mammoth Lakes, CA",earthquake,0.41,1.91999996,0.24,11,automatic,nc,nc
@@ -232,4 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T15:46:12.052Z,61.9199,-149.181,17.4,2.2,ml,,,,0.3,ak,ak0252ptwv2t,2025-02-28T16:27:02.605Z,"19 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-02-28T15:39:13.730Z,45.335833333333,-121.80783333333,6.38,1.01,ml,10,195,0.04727,0.06,uw,uw62078566,2025-02-28T19:12:57.020Z,"5 km NW of Government Camp, Oregon",earthquake,0.27,0.47,0.095005505130083,5,reviewed,uw,uw
 2025-02-28T15:34:30.849Z,62.0003,-150.6514,57.1,2.2,ml,,,,0.38,ak,ak0252ptubxo,2025-02-28T15:36:31.544Z,"39 km E of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-02-28T15:18:27.190Z,35.253,-97.78583333,5.45,0.06,ml,15,97,0.01169770451,0.08,ok,ok2025eddm,2025-02-28T15:49:43.875Z,"4 km SSE of Tuttle, Oklahoma",earthquake,,0.4,0.24,8,reviewed,ok,ok
