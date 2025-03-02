@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-02T11:51:03.088Z,36.7079,-116.3045,11.6,-0.1,ml,11,117.78,0.024,0.105,nn,nn00894223,2025-03-02T11:53:02.789Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.37,3,automatic,nn,nn
 2025-03-02T11:41:37.480Z,33.9438333,-116.3626667,7.6,1.04,ml,39,44,0.03845,0.17,ci,ci41069816,2025-03-02T11:46:40.004Z,"13 km E of Desert Hot Springs, CA",earthquake,0.2,0.48,0.187,26,automatic,ci,ci
 2025-03-02T11:38:32.750Z,36.122333526611,-120.60483551025,7.3400001525879,1.36,md,10,153,0.05387,0.11,nc,nc75141581,2025-03-02T11:40:10.985Z,"22 km W of Coalinga, CA",earthquake,0.67,1.17999995,0.07,5,automatic,nc,nc
 2025-03-02T11:31:00.175Z,64.3008,-147.7386,3.3,1.4,ml,,,,0.59,ak,ak0252t2ikzl,2025-03-02T11:33:20.432Z,"47 km WSW of Salcha, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -6,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T11:21:52.474Z,65.7857,-143.7446,3.5,1.7,ml,,,,0.39,ak,ak0252t2gjuq,2025-03-02T11:24:25.856Z,"15 km ESE of Circle, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-02T11:20:57.610Z,38.833499908447,-122.81483459473,1.5800000429153,0.65,md,14,55,0.01075,0.02,nc,nc75141566,2025-03-02T11:22:36.878Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.639999986,0.26,14,automatic,nc,nc
 2025-03-02T11:20:50.120Z,38.831665039062,-122.81500244141,1.8200000524521,1.01,md,20,51,0.009111,0.03,nc,nc75141551,2025-03-02T11:22:26.670Z,"8 km NNW of The Geysers, CA",earthquake,0.23,0.519999981,0.24,20,automatic,nc,nc
-2025-03-02T11:20:05.110Z,38.834167480469,-122.81616973877,1.9199999570847,0.29,md,10,93,0.01176,0.03,nc,nc75141546,2025-03-02T11:21:41.927Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.02999997,0.18,10,automatic,nc,nc
+2025-03-02T11:20:05.110Z,38.834167480469,-122.81616973877,1.9199999570847,0.29,md,10,93,0.01176,0.03,nc,nc75141546,2025-03-02T11:57:15.709Z,"8 km WNW of Cobb, CA",earthquake,0.35,1.02999997,0.18,10,automatic,nc,nc
 2025-03-02T11:11:38.289Z,61.1737,-152.2299,10.1,1.6,ml,,,,0.18,ak,ak0252t2edlw,2025-03-02T11:13:04.633Z,"60 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-02T11:08:32.700Z,33.9446667,-116.362,7.79,2.32,ml,81,30,0.03908,0.15,ci,ci41069808,2025-03-02T11:19:48.610Z,"13 km E of Desert Hot Springs, CA",earthquake,0.11,0.39,0.154,25,automatic,ci,ci
 2025-03-02T11:08:12.180Z,32.9136667,-116.2445,8.93,1.53,ml,48,46,0.06417,0.21,ci,ci41069800,2025-03-02T11:19:08.290Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.2,0.79,0.145,26,automatic,ci,ci
@@ -230,6 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T12:23:34.430Z,35.6706667,-117.4755,6.99,1.08,ml,30,43,0.04253,0.19,ci,ci41069208,2025-03-01T12:45:17.371Z,"12 km SSW of Searles Valley, CA",earthquake,0.23,0.52,0.165,20,automatic,ci,ci
 2025-03-01T12:18:05.700Z,19.6238,-67.9941,37,3.55,md,17,223,1.1755,0.46,pr,pr2025060002,2025-03-02T07:33:07.040Z,"123 km NNE of Punta Cana, Dominican Republic",earthquake,3.19,25.89,0.07,9,reviewed,pr,pr
 2025-03-01T12:10:40.570Z,33.4571667,-116.6155,7.64,0.3,ml,23,64,0.02411,0.14,ci,ci41069200,2025-03-01T12:15:40.672Z,"12 km SSE of Anza, CA",earthquake,0.19,0.45,0.168,7,automatic,ci,ci
-2025-03-01T11:58:33.340Z,18.033666666667,-66.748,16.21,2.73,md,25,118,0.04359,0.17,pr,pr71474038,2025-03-01T12:28:49.320Z,"2 km NE of Magas Arriba, Puerto Rico",earthquake,0.3,0.48,0.15605477767118,18,reviewed,pr,pr
-2025-03-01T11:57:21.569Z,68.1289,-148.4654,9.4,3.5,ml,,,,0.48,ak,ak0252rf4uvr,2025-03-02T07:28:54.040Z,"106 km NE of Wiseman, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2025-03-01T11:56:28.720Z,38.7715,-122.726,1.18,0.35,md,7,111,0.009932,0.02,nc,nc75140961,2025-03-02T10:34:57.913Z,"3 km ESE of The Geysers, CA",earthquake,0.62,1.45,0.059,4,reviewed,nc,nc
