@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-03T04:21:24.144Z,32.374,-101.926,5.4381,1.5,ml,58,27,0,0.4,tx,tx2025ehuj,2025-03-03T04:31:09.403Z,"26 km SW of Ackerly, Texas",earthquake,0,1.0348006486893,0.2,43,automatic,tx,tx
-2025-03-03T04:12:56.413Z,31.649,-104.373,4.525,2.4,ml,18,71,0.1,0.3,tx,tx2025ehub,2025-03-03T04:22:39.546Z,"58 km S of Whites City, New Mexico",earthquake,0,1.4097690582275,0.1,13,automatic,tx,tx
+2025-03-03T04:21:24.144Z,32.374,-101.926,5.4381,1.5,ml,58,27,0,0.4,tx,tx2025ehuj,2025-03-03T04:32:30.682Z,"26 km SW of Ackerly, Texas",earthquake,0,1.0348006486893,0.2,43,automatic,tx,tx
+2025-03-03T04:12:56.177Z,31.649,-104.376,5.8925,2.5,ml,21,67,0,0.3,tx,tx2025ehub,2025-03-03T04:35:09.705Z,"58 km S of Whites City, New Mexico",earthquake,0,2.6317639350891,0.1,16,automatic,tx,tx
 2025-03-03T04:07:35.880Z,38.84349822998,-122.83149719238,1.0299999713898,0.45,md,8,120,0.005809,0.01,nc,nc75141946,2025-03-03T04:09:12.826Z,"10 km WNW of Cobb, CA",earthquake,0.35,0.620000005,0.35,8,automatic,nc,nc
 2025-03-03T04:04:38.250Z,33.54,-116.787,9.44,0.82,ml,31,48,0.04075,0.19,ci,ci41070080,2025-03-03T04:09:32.740Z,"11 km W of Anza, CA",earthquake,0.24,0.42,0.231,19,automatic,ci,ci
 2025-03-03T03:54:20.690Z,38.829833984375,-122.81950378418,1.4800000190735,0.77,md,14,60,0.009777,0.02,nc,nc75141931,2025-03-03T04:17:18.159Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.709999979,0.18,15,automatic,nc,nc
@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T22:47:03.966Z,61.2822,-148.903,22.2,1.7,ml,,,,0.47,ak,ak0252t95se4,2025-03-03T01:23:50.725Z,"19 km S of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-02T22:42:45.754Z,69.3175,-147.4517,0,1.7,ml,,,,0.7,ak,ak0252t94t1e,2025-03-02T22:51:01.814Z,"110 km SSE of Prudhoe Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-02T22:32:18.943Z,31.718,-104.273,6.9202,4.2,ml,39,52,0,0.1,tx,tx2025ehit,2025-03-03T03:51:19.096Z,"51 km S of Whites City, New Mexico",earthquake,0.61789799116568,0.6673562062577,0.2,33,reviewed,tx,tx
-2025-03-02T22:23:18.254Z,-20.7118,-69.6214,89.341,4.6,mb,37,54,0.353,0.92,us,us6000pwi1,2025-03-02T23:33:12.184Z,"41 km S of La Tirana, Chile",earthquake,3.86,0.652,0.103,31,reviewed,us,us
+2025-03-02T22:23:18.309Z,-20.7186,-69.5955,91.346,4.6,mb,45,53,0.338,0.76,us,us6000pwi1,2025-03-03T04:39:21.355Z,"42 km S of La Tirana, Chile",earthquake,4.21,5.098,0.068,66,reviewed,us,us
 2025-03-02T22:15:24.950Z,38.816501617432,-122.81866455078,0.88999998569489,0.77,md,11,57,0.009613,0.01,nc,nc75141836,2025-03-02T22:42:14.970Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.540000021,0.16,13,automatic,nc,nc
 2025-03-02T22:12:58.648Z,68.0696,-161.4471,10,2.6,ml,20,151,0.549,0.71,us,us6000pwi3,2025-03-03T00:48:00.040Z,"59 km E of Red Dog Mine, Alaska",earthquake,5.24,2.004,0.071,26,reviewed,us,us
 2025-03-02T22:12:53.630Z,38.5085,-112.89966666667,2.2,2,ml,10,69,0.01234,0.13,uu,uu80102991,2025-03-02T22:49:44.350Z,"15 km NE of Milford, Utah",earthquake,0.46,0.99,0.15417438354554,5,reviewed,uu,uu
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-02T04:59:04.393Z,35.23426437,-97.76521301,8.825431824,1.94,ml,11,77.22180939,0.008838718757,0.6825456067,ok,ok2025egab,2025-03-02T05:51:54.687Z,"2 km W of Bridge Creek, Oklahoma",earthquake,5.037279491,8.825505544,0.24,9,automatic,ok,ok
 2025-03-02T04:48:42.178Z,62.9916,-150.5976,94.1,1.9,ml,,,,0.31,ak,ak0252syga61,2025-03-02T04:50:56.359Z,"55 km N of Petersville, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-03-02T04:47:13.480Z,38.836833953857,-122.81683349609,2.170000076294,0.71,md,12,66,0.01442,0.02,nc,nc75141351,2025-03-02T05:07:24.021Z,"8 km WNW of Cobb, CA",earthquake,0.31,1.08000004,0.13,13,automatic,nc,nc
-2025-03-02T04:39:43.640Z,38.833332061768,-122.8184967041,1.7699999809265,1.43,md,8,141,0.01191,0.01,nc,nc75141346,2025-03-02T06:47:20.645Z,"8 km NNW of The Geysers, CA",earthquake,0.54,1.12,0.3,10,automatic,nc,nc
