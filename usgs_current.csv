@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T19:51:58.390Z,38.839000701904,-122.797996521,2.4800000190735,0.7,md,8,128,0.006005,0.01,nc,nc75143406,2025-03-05T20:07:16.212Z,"7 km WNW of Cobb, CA",earthquake,0.48,1.61000001,0.42,9,automatic,nc,nc
 2025-03-05T19:37:43.130Z,38.81816482544,-122.82416534424,2.329999923706,0.75,md,8,98,0.009822,0.01,nc,nc75143401,2025-03-05T19:57:18.146Z,"7 km NW of The Geysers, CA",earthquake,0.6,1.33000004,0.29,8,automatic,nc,nc
 2025-03-05T19:33:51.201Z,39.1479,-119.0529,5.1,1.3,ml,15,63.35,0.008,0.1377,nn,nn00894339,2025-03-05T20:01:20.514Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,0.43,6,reviewed,nn,nn
-2025-03-05T19:17:17.269Z,31.551,-104.19,3.736,1.8,ml,18,73,0.1,0.3,tx,tx2025emow,2025-03-05T19:23:23.639Z,"45 km NW of Toyah, Texas",earthquake,0,1.4111526012421,0.3,13,automatic,tx,tx
+2025-03-05T19:17:17.175Z,31.566,-104.181,6.6125,1.8,ml,18,70,0,0.2,tx,tx2025emow,2025-03-05T20:38:33.983Z,"46 km NW of Toyah, Texas",earthquake,0.74114338587722,0.78125710719702,0.2,10,reviewed,tx,tx
 2025-03-05T19:13:26.359Z,35.27016667,-97.78933333,5.8,0.84,ml,14,149,0.002699470272,0.09,ok,ok2025emop,2025-03-05T19:31:26.949Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.28,7,reviewed,ok,ok
 2025-03-05T19:08:53.215Z,63.1287,-149.7986,17.7,1.7,ml,,,,0.17,ak,ak0252y5r9xl,2025-03-05T19:11:01.504Z,"51 km SW of Cantwell, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-03-05T19:00:38.890Z,19.2245,-64.8501,41,3.67,md,11,302,0.8783,0.51,pr,pr2025064000,2025-03-05T20:15:02.040Z,"98 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.69,21.15,0.23,8,reviewed,pr,pr
@@ -158,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-05T03:46:03.520Z,38.826831817627,-122.81116485596,0.91000002622604,0.75,md,7,112,0.003536,0.01,nc,nc75143031,2025-03-05T04:12:16.882Z,"7 km NNW of The Geysers, CA",earthquake,0.45,0.980000019,0.42,8,automatic,nc,nc
 2025-03-05T03:44:48.700Z,38.832000732422,-122.81549835205,1.8700000047684,1.38,md,28,51,0.009581,0.02,nc,nc75143026,2025-03-05T05:52:17.543Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.310000002,0.13,28,automatic,nc,nc
 2025-03-05T03:43:02.700Z,35.269,-97.78066667,4.76,0.11,ml,14,190,0.009898057663,0.09,ok,ok2025elkb,2025-03-05T03:48:54.803Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.24,7,reviewed,ok,ok
-2025-03-05T03:37:49.800Z,32.917,-115.4405,17.12,1.22,ml,9,193,0.05514,0.19,ci,ci41071512,2025-03-05T03:42:11.312Z,"11 km SE of Brawley, CA",earthquake,1.04,1.13,0.188,11,automatic,ci,ci
+2025-03-05T03:37:54.020Z,33.2173333,-115.7198333,3.67,1.23,ml,5,293,0.0884,0.18,ci,ci41071512,2025-03-05T20:45:18.001Z,"15 km S of Bombay Beach, CA",earthquake,1.5,0.48,0.166,4,reviewed,ci,ci
 2025-03-05T03:33:18.589Z,35.26766667,-97.79033333,5.32,0.86,ml,14,139,0.00449911712,0.08,ok,ok2025eljs,2025-03-05T03:41:46.395Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.18,7,reviewed,ok,ok
 2025-03-05T03:32:51.376Z,31.645,-104.185,6.2024,1.7,ml,18,64,0.1,0.1,tx,tx2025eljs,2025-03-05T12:59:08.784Z,"52 km NW of Toyah, Texas",earthquake,0.63971608245887,0.67542477663066,0.1,15,reviewed,tx,tx
 2025-03-05T03:29:19.350Z,35.7035,-117.5295,10.32,1.1,ml,28,50,0.09426,0.14,ci,ci41071504,2025-03-05T20:36:48.556Z,"13 km WSW of Searles Valley, CA",earthquake,0.17,0.44,0.16,20,reviewed,ci,ci
@@ -265,6 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-04T20:49:01.210Z,26.2049,125.9455,103.149,4.5,mb,115,42,2.178,0.88,us,us6000pwvq,2025-03-04T21:41:55.040Z,"168 km NNE of Hirara, Japan",earthquake,7.68,7.206,0.054,102,reviewed,us,us
 2025-03-04T20:46:38.210Z,33.3568333,-116.2161667,11.77,0.88,ml,28,55,0.07839,0.15,ci,ci41071072,2025-03-04T21:39:13.324Z,"16 km SW of Oasis, CA",earthquake,0.21,0.41,0.117,10,reviewed,ci,ci
 2025-03-04T20:46:27.880Z,34.1586667,-118.3705,16.96,1.28,ml,14,139,0.01986,0.07,ci,ci41071064,2025-03-04T21:24:17.899Z,"2 km SSE of North Hollywood, CA",earthquake,0.29,0.32,0.16,7,reviewed,ci,ci
-2025-03-04T20:45:45.041Z,64.722,-149.3697,14.8,1.1,ml,,,,1.08,ak,ak0252wj19wo,2025-03-04T20:47:58.079Z,"17 km NW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-04T20:40:20.930Z,61.306333333333,-152.30983333333,1.35,-0.13,ml,10,121,0.05616,0.09,av,av93521536,2025-03-05T08:43:39.280Z,"68 km WNW of Beluga, Alaska",earthquake,0.25,0.95,0.16338464107313,10,reviewed,av,av
-2025-03-04T20:37:42.977Z,62.819,-151.67,6.4,1.6,ml,,,,1,ak,ak0252wizk0p,2025-03-04T20:39:29.371Z,"58 km NW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
