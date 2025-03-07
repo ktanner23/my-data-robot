@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T13:31:17.483Z,61.3088,-150.1358,33.9,1.6,ml,,,,0.73,ak,ak02531de804,2025-03-07T13:33:24.313Z,"10 km SW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-07T13:29:45.353Z,61.2973,-152.2539,20,0,ml,,,,0.3,ak,ak02531ddutp,2025-03-07T13:32:03.100Z,"65 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-07T13:19:29.712Z,39.1384,-119.0551,0.9,1.1,ml,10,107.31,0.033,0.1935,nn,nn00894401,2025-03-07T13:21:35.059Z,"19 km NNE of Yerington, Nevada",earthquake,,0.3,0.39,4,automatic,nn,nn
-2025-03-07T13:14:20.740Z,38.832832336426,-122.83316802978,1.1799999475479,1.09,md,8,154,0.006027,0.01,nc,nc75144446,2025-03-07T13:15:55.819Z,"9 km NW of The Geysers, CA",earthquake,0.76,1.08000004,0.13,9,automatic,nc,nc
+2025-03-07T13:14:20.740Z,38.832832336426,-122.83316802978,1.1799999475479,1.09,md,8,154,0.006027,0.01,nc,nc75144446,2025-03-07T13:37:17.615Z,"9 km NW of The Geysers, CA",earthquake,0.76,1.08000004,0.13,9,automatic,nc,nc
 2025-03-07T13:13:11.872Z,61.6979,-150.8493,48.3,1.9,ml,,,,0.21,ak,ak02531dacoj,2025-03-07T13:14:42.069Z,"24 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-03-07T13:11:51.730Z,38.835334777832,-122.80149841309,3.0299999713898,0.79,md,7,110,0.01368,0.01,nc,nc75144441,2025-03-07T13:32:22.582Z,"7 km WNW of Cobb, CA",earthquake,0.53,1.75999999,0.4,8,automatic,nc,nc
 2025-03-07T12:47:04.960Z,33.9845,-118.3826667,8.52,1.18,ml,25,61,0.01627,0.27,ci,ci41073856,2025-03-07T12:51:34.926Z,"2 km SSW of Baldwin Hills, CA",earthquake,0.37,0.56,0.283,31,automatic,ci,ci
@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T11:43:05.879Z,61.3222,-152.2642,10.5,1.7,ml,,,,0.14,ak,ak02531c9whn,2025-03-07T11:44:17.714Z,"66 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-07T11:39:38.190Z,35.976,-117.875,2.47,1.44,ml,21,92,0.03405,0.11,ci,ci41073816,2025-03-07T11:43:17.671Z,"5 km NNE of Little Lake, CA",earthquake,0.15,0.19,0.21,25,automatic,ci,ci
 2025-03-07T11:32:11.120Z,19.121,-66.338666666667,20.99,2.92,md,14,270,0.6655,0.14,pr,pr71474633,2025-03-07T11:50:08.470Z,"72 km N of Brenas, Puerto Rico",earthquake,0.77,11.77,0.16441251451118,11,reviewed,pr,pr
-2025-03-07T11:12:31.100Z,35.258,-97.79133333,3,0.81,ml,17,77,0.005398940544,0.15,ok,ok2025eppw,2025-03-07T13:38:27.151Z,"4 km SSE of Tuttle, Oklahoma",earthquake,,0.7,0.25,8,reviewed,ok,ok
+2025-03-07T11:12:31.100Z,35.258,-97.79133333,3,0.81,ml,17,77,0.005398940544,0.15,ok,ok2025eppw,2025-03-07T13:38:49.439Z,"4 km SSE of Tuttle, Oklahoma",earthquake,,0.7,0.25,8,reviewed,ok,ok
 2025-03-07T10:52:57.420Z,38.834999084473,-122.79783630371,2.079999923706,0.77,md,8,99,0.00677,0.01,nc,nc75144376,2025-03-07T12:27:19.139Z,"7 km WNW of Cobb, CA",earthquake,0.39,1.13,0.26,8,automatic,nc,nc
 2025-03-07T10:52:18.690Z,38.836498260498,-122.80867004394,2.1500000953674,0.78,md,17,65,0.01313,0.02,nc,nc75144371,2025-03-07T12:07:20.013Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.649999976,0.19,17,automatic,nc,nc
 2025-03-07T10:41:03.215Z,-5.903,127.6448,412.862,4.3,mb,61,60,2.635,0.59,us,us6000pxe0,2025-03-07T11:39:01.040Z,"251 km SSW of Ambon, Indonesia",earthquake,11.07,8.485,0.081,45,reviewed,us,us
@@ -42,6 +42,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T09:44:12.679Z,59.3006,-152.4777,65.6,2,ml,,,,0.46,ak,ak02531b39ir,2025-03-07T09:45:56.656Z,"32 km WSW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-07T09:27:36.590Z,36.091167449951,-120.25416564941,11.390000343323,1.82,md,23,87,0.03875,0.08,nc,nc75144356,2025-03-07T11:27:18.751Z,"11 km SE of Coalinga, CA",earthquake,0.34,0.449999988,0.21,12,automatic,nc,nc
 2025-03-07T09:24:44.343Z,65.9538,-149.0023,7,1.4,ml,,,,0.54,ak,ak02531az1n6,2025-03-07T09:26:49.992Z,"7 km SE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-07T09:12:34.210Z,35.26016667,-97.79966667,3.97,0.63,ml,16,113,0.001799646848,0.14,ok,ok2025eply,2025-03-07T13:44:00.605Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.5,0.27,8,reviewed,ok,ok
+2025-03-07T09:11:17.100Z,35.26016667,-97.79966667,3.59,0.34,ml,16,113,0.001799646848,0.14,ok,ok2025eplw,2025-03-07T13:41:16.576Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.26,8,reviewed,ok,ok
 2025-03-07T09:01:21.350Z,38.808334350586,-122.7936630249,3,0.59,md,8,85,0.001333,0.01,nc,nc75144341,2025-03-07T09:22:18.942Z,"5 km NNW of The Geysers, CA",earthquake,0.49,1.23000002,0.14,8,automatic,nc,nc
 2025-03-07T08:50:04.666Z,59.9435,-153.534,121.4,1.9,ml,,,,0.3,ak,ak02531aj3le,2025-03-07T08:53:28.385Z,"36 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-07T08:34:03.788Z,-2.5284,121.0513,10,5,mww,42,59,0.045,0.86,us,us6000pxdf,2025-03-07T12:23:21.410Z,"80 km E of Masamba, Indonesia",earthquake,4.66,1.041,0.069,20,reviewed,us,us
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T13:56:55.090Z,35.6766667,-117.4898333,6.65,1.53,ml,27,59,0.05506,0.15,ci,ci41073064,2025-03-06T18:51:42.442Z,"13 km SW of Searles Valley, CA",earthquake,0.2,0.49,0.124,24,reviewed,ci,ci
 2025-03-06T13:56:23.940Z,38.76216506958,-122.73083496094,2.0699999332428,1.27,md,14,106,0.004705,0.03,nc,nc75143851,2025-03-06T16:17:21.295Z,"3 km SE of The Geysers, CA",earthquake,0.25,0.389999986,0.14,16,automatic,nc,nc
 2025-03-06T13:54:43.310Z,35.42933333,-98.01333333,4.64,0.94,ml,28,118,0.01349735136,0.28,ok,ok2025enzt,2025-03-06T14:20:52.211Z,"7 km WNW of Union City, Oklahoma",earthquake,,0.8,0.23,12,reviewed,ok,ok
-2025-03-06T13:40:24.894Z,7.6137,124.8114,10,4.6,mb,31,104,0.934,1,us,us6000px74,2025-03-06T14:01:10.040Z,"1 km NNW of Osias, Philippines",earthquake,8.1,1.891,0.107,30,reviewed,us,us
