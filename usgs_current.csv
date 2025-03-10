@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T14:38:40.589Z,-54.279,142.4119,10,4.6,mb,23,120,16.844,0.41,us,us6000pxy2,2025-03-10T15:01:41.040Z,"west of Macquarie Island",earthquake,15.75,1.931,0.119,21,reviewed,us,us
 2025-03-10T14:36:43.534Z,60.1693,-139.5455,2.7,1.8,ml,,,,0.9,ak,ak02536cmtoh,2025-03-10T14:39:40.544Z,"70 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-10T14:35:57.000Z,18.012833333333,-66.773166666667,14.78,2.34,md,23,129,0.01887,0.13,pr,pr71474968,2025-03-10T15:20:26.040Z,"0 km SW of Magas Arriba, Puerto Rico",earthquake,0.28,0.46,0.14461516980135,10,reviewed,pr,pr
-2025-03-10T14:28:02.420Z,46.178165435791,-119.09899902344,11.659999847412,1.8312838077545,ml,31,65,,0.100000001,uw,uw62080226,2025-03-10T15:31:14.911Z,"4 km SE of Kennewick, Washington",earthquake,0.27,0.579999983,0.33969613909721,19,automatic,uw,uw
+2025-03-10T14:28:02.420Z,46.178165435791,-119.09899902344,11.659999847412,1.8312838077545,ml,31,65,0.1604,0.100000001,uw,uw62080226,2025-03-10T15:38:48.596Z,"4 km SE of Kennewick, Washington",earthquake,0.27,0.579999983,0.33969613909721,19,reviewed,uw,uw
 2025-03-10T14:22:15.580Z,32.9101667,-116.2415,7.64,0.96,ml,36,81,0.06835,0.2,ci,ci41076288,2025-03-10T14:33:03.500Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.23,0.51,0.142,15,reviewed,ci,ci
 2025-03-10T14:04:19.800Z,38.77783203125,-122.7303314209,1.0700000524521,1.49,md,24,74,0.007355,0.04,nc,nc75146291,2025-03-10T14:37:16.613Z,"2 km E of The Geysers, CA",earthquake,0.24,0.400000006,0.14,25,automatic,nc,nc
 2025-03-10T14:00:28.995Z,38.1858,-117.7824,7,1.5,ml,10,142.29,0.16,0.1923,nn,nn00894515,2025-03-10T14:03:12.420Z,"36 km SE of Mina, Nevada",earthquake,,0.7,0.41,3,automatic,nn,nn
@@ -176,7 +176,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T20:07:16.320Z,34.0571671,-118.894165,12.24,2.96,ml,94,118,0.0647,0.26,ci,ci41075600,2025-03-10T13:37:00.040Z,"10 km NW of Malibu, CA",earthquake,0.31,0.53,0.372,21,reviewed,ci,ci
 2025-03-09T20:04:41.720Z,34.065,-118.9066667,8.96,2.51,ml,12,147,0.0536,0.21,ci,ci41075592,2025-03-10T13:34:02.040Z,"11 km NW of Malibu, CA",earthquake,0.62,1.52,0.124,2,reviewed,ci,ci
 2025-03-09T20:04:10.372Z,31.71,-104.267,7.2791,1.7,ml,18,52,0,0.3,tx,tx2025etyl,2025-03-10T12:30:44.440Z,"52 km SSE of Whites City, New Mexico",earthquake,0.8173942012574,0.68495442006376,0.2,10,reviewed,tx,tx
-2025-03-09T20:03:20.340Z,34.0681667,-118.8945,11.38,4.06,mw,136,122,0.06366,0.31,ci,ci41075584,2025-03-10T15:36:31.689Z,"10 km NW of Malibu, CA",earthquake,0.29,0.39,,4,reviewed,ci,ci
+2025-03-09T20:03:20.340Z,34.0681667,-118.8945,11.38,4.06,mw,136,122,0.06366,0.31,ci,ci41075584,2025-03-10T15:44:21.382Z,"10 km NW of Malibu, CA",earthquake,0.29,0.39,,4,reviewed,ci,ci
 2025-03-09T20:01:50.060Z,38.822498321533,-122.84783172607,1.6900000572205,0.76,md,12,109,0.008676,0.01,nc,nc75145721,2025-03-09T22:12:20.128Z,"9 km NW of The Geysers, CA",earthquake,0.31,0.550000012,0.33,15,automatic,nc,nc
 2025-03-09T19:52:49.372Z,63.2197,-155.9006,29.7,2.3,ml,,,,1.16,ak,ak02534s634k,2025-03-09T21:47:56.758Z,"27 km NNE of Takotna, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-03-09T19:43:56.150Z,64.0346,-147.2421,15.4,1.5,ml,,,,0.23,ak,ak02534s4673,2025-03-09T19:45:15.408Z,"48 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -206,5 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-09T16:10:16.400Z,34.1761667,-116.8955,6.63,1.05,ml,40,32,0.08843,0.17,ci,ci41075416,2025-03-09T16:15:11.330Z,"8 km S of Big Bear Lake, CA",earthquake,0.21,0.51,0.232,29,reviewed,ci,ci
 2025-03-09T16:02:15.420Z,18.8776,-64.9098,7,3.51,md,18,289,0.5269,0.21,pr,pr2025068001,2025-03-09T17:08:38.040Z,"59 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.89,5.54,0.17,13,reviewed,pr,pr
 2025-03-09T15:47:30.342Z,62.6974,-148.9086,4.9,1.8,ml,,,,0.46,ak,ak02534pr8ne,2025-03-09T15:49:19.365Z,"67 km ENE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-09T15:42:45.690Z,38.832668304443,-122.83249664307,1.210000038147,1.08,md,10,123,0.009741,0.01,nc,nc75145616,2025-03-09T18:07:15.514Z,"9 km NW of The Geysers, CA",earthquake,0.35,0.930000007,0.14,11,automatic,nc,nc
-2025-03-09T15:42:16.710Z,33.489,-117.1076667,13.82,0.9,ml,40,40,0.03077,0.17,ci,ci41075400,2025-03-09T16:15:27.900Z,"4 km E of Temecula, CA",earthquake,0.2,0.5,0.239,26,reviewed,ci,ci
