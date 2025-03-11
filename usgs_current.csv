@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-11T11:38:23.640Z,38.78116607666,-122.7576675415,1.2799999713898,0.29,md,7,74,0.01219,0.01,nc,nc75146931,2025-03-11T11:40:00.071Z,"0 km  of The Geysers, CA",earthquake,0.36,0.720000029,0.09,6,automatic,nc,nc
 2025-03-11T11:29:33.172Z,60.5473,-141.2799,9.3,1.9,ml,,,,0.42,ak,ak02537yccjp,2025-03-11T11:31:11.059Z,"132 km SE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-11T11:26:05.750Z,38.791332244873,-122.7448348999,1.5900000333786,1.38,md,23,89,0.01027,0.04,nc,nc75146926,2025-03-11T11:27:41.299Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.389999986,0.21,25,automatic,nc,nc
+2025-03-11T11:26:05.750Z,38.791332244873,-122.7448348999,1.5900000333786,1.38,md,23,89,0.01027,0.04,nc,nc75146926,2025-03-11T11:47:19.027Z,"2 km NE of The Geysers, CA",earthquake,0.25,0.389999986,0.21,25,automatic,nc,nc
 2025-03-11T11:22:36.830Z,38.84366607666,-122.82299804688,1.9900000095367,0.22,md,6,97,0.01098,0.01,nc,nc75146921,2025-03-11T11:37:16.974Z,"9 km WNW of Cobb, CA",earthquake,0.49,0.699999988,0.05,9,automatic,nc,nc
 2025-03-11T11:19:27.085Z,39.1699,-119.0409,3.1,1.1,ml,8,136.25,0.002,0.0685,nn,nn00894562,2025-03-11T11:21:35.410Z,"23 km NNE of Yerington, Nevada",earthquake,,0.4,0.09,4,automatic,nn,nn
 2025-03-11T11:17:46.344Z,31.676,-104.395,6.1351,1.7,ml,18,98,0,0.5,tx,tx2025ewyb,2025-03-11T11:23:51.411Z,"55 km S of Whites City, New Mexico",earthquake,0,2.9052293300629,0.2,14,automatic,tx,tx
@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-11T09:34:56.468Z,39.1642,-119.039,2.8,1.2,ml,8,78.27,0.005,0.0886,nn,nn00894561,2025-03-11T09:37:04.699Z,"22 km NNE of Yerington, Nevada",earthquake,,0.3,0.21,4,automatic,nn,nn
 2025-03-11T09:34:30.100Z,38.797668457031,-122.76516723633,1.0900000333786,0.96,md,13,65,0.005185,0.01,nc,nc75146876,2025-03-11T09:57:16.340Z,"2 km  of The Geysers, CA",earthquake,0.25,0.479999989,0.21,13,automatic,nc,nc
 2025-03-11T09:31:50.690Z,38.796333312988,-122.76516723633,1.0099999904633,1.21,md,12,75,0.006044,0.02,nc,nc75146866,2025-03-11T09:42:16.232Z,"2 km  of The Geysers, CA",earthquake,0.29,0.540000021,0.23,12,automatic,nc,nc
-2025-03-11T09:31:26.470Z,38.775165557861,-122.7423324585,0.36000001430512,2.68,md,61,39,0.009174,0.07,nc,nc75146861,2025-03-11T09:37:16.194Z,"1 km ESE of The Geysers, CA",earthquake,0.14,0.230000004,0.16,83,automatic,nc,nc
+2025-03-11T09:31:26.470Z,38.775165557861,-122.7423324585,0.36000001430512,2.68,md,61,39,0.009174,0.07,nc,nc75146861,2025-03-11T11:47:20.027Z,"1 km ESE of The Geysers, CA",earthquake,0.14,0.230000004,0.16,83,automatic,nc,nc
 2025-03-11T09:20:02.280Z,39.1649,-119.0359,3.2,1.5,ml,12,78.39,0.005,0.1092,nn,nn00894559,2025-03-11T09:22:16.084Z,"22 km NNE of Yerington, Nevada",earthquake,,0.3,0.19,6,automatic,nn,nn
 2025-03-11T09:16:53.767Z,62.8952,-148.2681,53.1,1.7,ml,,,,0.2,ak,ak02537x2qm8,2025-03-11T09:18:04.944Z,"65 km SSE of Cantwell, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-03-11T09:03:03.475Z,36.26102066,-97.49143219,4.510662079,1.63,ml,16,114.3396454,0.07326876372,0.1462396648,ok,ok2025ewtp,2025-03-11T09:07:44.263Z,"3 km WSW of Lucien, Oklahoma",earthquake,3.461901678,2.494424107,0.37,5,automatic,ok,ok
@@ -237,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-10T11:57:30.500Z,33.9793333,-116.67,17.23,1.14,ml,56,26,0.06181,0.18,ci,ci41076160,2025-03-10T14:34:17.660Z,"11 km SW of Morongo Valley, CA",earthquake,0.17,0.39,0.158,26,reviewed,ci,ci
 2025-03-10T11:55:23.710Z,65.4462,-148.1686,0,1.6,ml,,,,0.97,ak,ak02536ayjxv,2025-03-10T11:57:34.402Z,"19 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-10T11:53:10.450Z,37.3759,-117.132,6.7,1,ml,18,144.39,0.127,0.1764,nn,nn00894511,2025-03-11T02:09:05.362Z,"38 km SSE of Goldfield, Nevada",earthquake,,3.2,0.64,6,reviewed,nn,nn
-2025-03-10T11:46:13.140Z,19.309333333333,-155.20983333333,2,1.67,ml,45,132,0.03126,0.12,hv,hv74631272,2025-03-10T19:39:29.040Z,"14 km S of Volcano, Hawaii",earthquake,0.27,0.61,0.14094394524513,22,reviewed,hv,hv
