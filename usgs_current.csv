@@ -65,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T07:34:03.010Z,17.973,-66.813166666667,15.04,2.51,md,6,262,0.05249,0.12,pr,pr71475638,2025-03-13T07:50:27.610Z,"2 km SSE of Indios, Puerto Rico",earthquake,0.89,0.6,0.077934872420785,4,reviewed,pr,pr
 2025-03-13T07:27:29.711Z,61.1602,-150.8934,78.1,1.1,ml,,,,0.25,ak,ak0253b70vez,2025-03-13T07:29:09.463Z,"10 km ENE of Beluga, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2025-03-13T07:25:56.051Z,32.134,-102.207,6.2256,2,ml,17,86,0,0.1,tx,tx2025fahl,2025-03-13T13:32:37.732Z,"19 km NW of Midland, Texas",earthquake,0.75701701367169,1.4477316081905,0.2,20,reviewed,tx,tx
-2025-03-13T07:25:43.441Z,39.4961,-98.3043,5,3.2,mb_lg,28,45,1.118,0.41,us,us6000pyii,2025-03-13T11:37:04.563Z,"0 km SE of Glen Elder, Kansas",earthquake,3.25,1.996,0.042,150,reviewed,us,us
+2025-03-13T07:25:43.441Z,39.4961,-98.3043,5,3.2,mb_lg,28,45,1.118,0.41,us,us6000pyii,2025-03-13T15:04:01.477Z,"0 km SE of Glen Elder, Kansas",earthquake,3.25,1.996,0.042,150,reviewed,us,us
 2025-03-13T07:18:48.358Z,62.0293,-149.7893,35,1.4,ml,,,,0.56,ak,ak0253b6yzer,2025-03-13T07:20:24.982Z,"15 km SSE of Susitna North, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2025-03-13T07:15:26.420Z,38.791000366211,-122.7688369751,1.7000000476837,0.87,md,16,78,0.01197,0.05,nc,nc75147986,2025-03-13T07:52:18.170Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.439999998,0.16,17,automatic,nc,nc
 2025-03-13T07:12:19.460Z,35.9001667,-117.7278333,2.28,1.13,ml,19,55,0.08793,0.19,ci,ci41078784,2025-03-13T07:16:09.699Z,"17 km ESE of Little Lake, CA",earthquake,0.28,0.42,0.125,20,automatic,ci,ci
@@ -109,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T03:34:14.023Z,64.4168,-147.6834,14.9,2.5,ml,,,,0.48,ak,ak0253b4olsq,2025-03-13T03:36:03.634Z,"39 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T03:17:36.160Z,33.5311667,-116.7245,5.59,0.82,ml,40,32,0.03578,0.16,ci,ci41078736,2025-03-13T14:23:35.694Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.166,24,reviewed,ci,ci
 2025-03-13T03:14:34.140Z,33.5415,-116.697,5.75,0.76,ml,38,48,0.04124,0.17,ci,ci41078728,2025-03-13T14:23:38.917Z,"3 km SW of Anza, CA",earthquake,0.16,0.4,0.135,26,reviewed,ci,ci
-2025-03-13T02:58:27.611Z,31.847,-103.659,9.6406,1.6,ml,10,136,0.1,0.6,tx,tx2025ezyp,2025-03-13T03:05:31.039Z,"16 km NNW of Mentone, Texas",earthquake,0,4.5785799026489,0.1,7,automatic,tx,tx
+2025-03-13T02:58:28.249Z,31.811,-103.655,7.9968,1.7,ml,19,46,0,0.1,tx,tx2025ezyp,2025-03-13T15:00:32.506Z,"12 km NNW of Mentone, Texas",earthquake,0.37766644408449,1.0108561470051,0.1,10,reviewed,tx,tx
 2025-03-13T02:57:44.240Z,17.995333333333,-66.813833333333,14.85,2.38,md,13,171,0.05665,0.13,pr,pr71475558,2025-03-13T03:09:37.130Z,"0 km ENE of Indios, Puerto Rico",earthquake,0.47,0.66,0.12435992060409,7,reviewed,pr,pr
 2025-03-13T02:46:02.260Z,36.4725,-117.9731667,8.68,2.2,ml,19,56,0.0922,0.19,ci,ci41078720,2025-03-13T02:49:52.712Z,"15 km SE of Lone Pine, CA",earthquake,0.27,0.54,0.208,26,automatic,ci,ci
 2025-03-13T02:19:30.460Z,33.9773333,-116.6515,16.69,1.12,ml,44,42,0.0611,0.15,ci,ci41078712,2025-03-13T02:24:58.157Z,"10 km SW of Morongo Valley, CA",earthquake,0.17,0.43,0.165,29,automatic,ci,ci
@@ -226,11 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T15:19:48.050Z,19.158166666667,-155.50433333333,33.56,2.95,ml,35,128,0.04001,0.08,hv,hv74632352,2025-03-12T20:51:48.891Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.83,0.69,0.14953606964318,28,reviewed,hv,hv
 2025-03-12T15:14:26.340Z,17.976833333333,-66.8155,13.34,2.62,md,17,179,0.04862,0.17,pr,pr71475368,2025-03-12T18:20:09.410Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.51,0.33,0.1663046121485,7,reviewed,pr,pr
 2025-03-12T15:10:56.320Z,35.6485,-84.3255,19.33,1.6,md,6,105,0.1077,0.11,se,se60503353,2025-03-13T14:32:40.480Z,"7 km WSW of Tellico Village, Tennessee",earthquake,0.37,1.02,0.033405691283355,5,reviewed,se,se
-2025-03-12T15:10:41.490Z,31.259,-103.555,2.7161,1.7,ml,7,78,0,0.2,tx,tx2025ezbg,2025-03-12T19:57:02.250Z,"12 km S of Lindsay, Texas",earthquake,1.9808303870506,1.6569918340206,0.2,13,reviewed,tx,tx
-2025-03-12T15:09:44.222Z,8.3808,127.597,10,5.7,mww,108,62,2.387,1.06,us,us6000pybu,2025-03-12T17:33:33.361Z,"130 km E of Barcelona, Philippines",earthquake,6.97,1.846,0.056,31,reviewed,us,us
-2025-03-12T15:08:35.256Z,51.3986,-177.4764,33.5,3.6,ml,,,,0.46,ak,ak02539o4xjo,2025-03-12T16:20:32.557Z,"78 km SW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
-2025-03-12T15:08:01.090Z,17.992333333333,-66.819166666667,15.96,2.24,md,6,184,0.05972,0.06,pr,pr71475353,2025-03-12T15:57:14.420Z,"0 km S of Indios, Puerto Rico",earthquake,0.43,0.63,0.15234725251982,5,reviewed,pr,pr
-2025-03-12T15:04:46.730Z,17.995166666667,-66.812833333333,12.82,2.18,md,8,177,0.05745,0.12,pr,pr71475343,2025-03-12T15:37:19.790Z,"0 km E of Indios, Puerto Rico",earthquake,0.77,0.82,0.048675878610653,5,reviewed,pr,pr
-2025-03-12T15:01:59.680Z,60.584833333333,-153.486,13.7,0.14,ml,10,287,0.2758,0.07,av,av93529496,2025-03-13T02:11:40.570Z,"62 km NE of Port Alsworth, Alaska",earthquake,0.55,0.28,0.25322817254852,10,reviewed,av,av
-2025-03-12T15:01:42.850Z,17.979833333333,-66.819666666667,15.46,2.58,md,14,177,0.04689,0.17,pr,pr71475333,2025-03-12T17:48:47.550Z,"1 km S of Indios, Puerto Rico",earthquake,0.48,0.57,0.010150755211326,4,reviewed,pr,pr
-2025-03-12T15:00:50.660Z,17.994,-66.849666666667,14.59,2.08,md,7,148,0.02787,0.14,pr,pr71475328,2025-03-12T17:33:39.470Z,"3 km W of Indios, Puerto Rico",earthquake,1.06,0.9,0.058961355257147,4,reviewed,pr,pr
