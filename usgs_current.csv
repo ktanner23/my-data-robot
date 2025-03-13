@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-13T03:17:36.160Z,33.5311667,-116.7245,5.59,0.82,ml,40,32,0.03578,0.16,ci,ci41078736,2025-03-13T03:21:45.898Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.166,24,automatic,ci,ci
+2025-03-13T03:14:34.140Z,33.5415,-116.697,5.75,0.76,ml,38,48,0.04124,0.17,ci,ci41078728,2025-03-13T03:18:39.101Z,"3 km SW of Anza, CA",earthquake,0.16,0.4,0.135,26,automatic,ci,ci
 2025-03-13T02:58:27.611Z,31.847,-103.659,9.6406,1.6,ml,10,136,0.1,0.6,tx,tx2025ezyp,2025-03-13T03:05:31.039Z,"16 km NNW of Mentone, Texas",earthquake,0,4.5785799026489,0.1,7,automatic,tx,tx
 2025-03-13T02:57:44.240Z,17.995333333333,-66.813833333333,14.85,2.38,md,13,171,0.05665,0.13,pr,pr71475558,2025-03-13T03:09:37.130Z,"0 km ENE of Indios, Puerto Rico",earthquake,0.47,0.66,0.12435992060409,7,reviewed,pr,pr
 2025-03-13T02:46:02.260Z,36.4725,-117.9731667,8.68,2.2,ml,19,56,0.0922,0.19,ci,ci41078720,2025-03-13T02:49:52.712Z,"15 km SE of Lone Pine, CA",earthquake,0.27,0.54,0.208,26,automatic,ci,ci
@@ -60,6 +62,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T19:29:32.170Z,17.967,-66.805,14.98,2.28,md,13,165,0.0605,0.24,pr,pr71475473,2025-03-12T19:43:16.800Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.59,0.93,0.17280082508879,6,reviewed,pr,pr
 2025-03-12T19:24:28.710Z,33.2585,-116.2248333,4.1,0.75,ml,17,149,0.07003,0.17,ci,ci37541997,2025-03-12T22:01:18.188Z,"14 km E of Borrego Springs, CA",earthquake,0.4,0.7,0.154,15,reviewed,ci,ci
 2025-03-12T19:24:05.240Z,33.2818333,-116.122,3.27,1.09,ml,34,46,0.1141,0.2,ci,ci41078448,2025-03-12T21:46:38.870Z,"15 km N of Ocotillo Wells, CA",earthquake,0.22,0.62,0.179,17,reviewed,ci,ci
+2025-03-12T19:18:45.520Z,58.282,-154.97533333333,2.91,-0.33,ml,9,135,0.04858,0.11,av,av93529721,2025-03-13T03:31:00.270Z,"85 km NNW of Karluk, Alaska",earthquake,0.29,0.76,0.26479608207643,9,reviewed,av,av
+2025-03-12T19:05:41.490Z,61.3135,-152.269,1.8,0.74,ml,9,123,0.07315,0.08,av,av93529711,2025-03-13T03:22:57.950Z,"66 km WNW of Beluga, Alaska",earthquake,0.27,0.64,0.19395934291592,11,reviewed,av,av
 2025-03-12T19:04:09.610Z,17.981333333333,-66.815,16.72,2.09,md,8,189,0.05151,0.13,pr,pr71475463,2025-03-12T19:33:39.680Z,"1 km SSE of Indios, Puerto Rico",earthquake,0.57,0.76,0.036573612260366,5,reviewed,pr,pr
 2025-03-12T19:00:34.018Z,17.8021,-82.5689,10,4.2,mb,47,105,4.809,0.66,us,us6000pyfk,2025-03-12T21:53:55.824Z,"207 km SW of George Town, Cayman Islands",earthquake,6.64,1.988,0.095,31,reviewed,us,us
 2025-03-12T18:24:09.178Z,59.8581,-153.405,133.3,2.1,ml,,,,0.31,ak,ak02539q0lud,2025-03-12T18:26:41.342Z,"40 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -166,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T10:23:13.750Z,61.357,-152.31016666667,3.29,-0.22,ml,9,144,0.1027,0.19,av,av93529281,2025-03-13T00:38:15.880Z,"70 km WNW of Beluga, Alaska",earthquake,0.47,0.69,0.23419894316287,9,reviewed,av,av
 2025-03-12T10:15:07.830Z,37.8455,-122.07333333333,1.41,0.81,md,11,101,0.03011,0.08,nc,nc75147521,2025-03-12T21:15:12.189Z,"4 km W of Alamo, CA",earthquake,0.26,1.5,0.147,9,reviewed,nc,nc
 2025-03-12T10:11:09.650Z,40.234664916992,-121.16716766357,2.1199998855591,2.22,md,6,163,0.2486,0.03,nc,nc75147516,2025-03-12T12:17:22.307Z,"2 km NE of Almanor, CA",earthquake,0.62,7.90999985,0.04,9,automatic,nc,nc
-2025-03-12T10:06:13.240Z,37.841331481934,-122.07382965088,6.7199997901917,2.56,md,58,43,0.06661,0.14,nc,nc75147511,2025-03-12T22:36:48.397Z,"4 km W of Alamo, CA",earthquake,0.18,0.360000014,0.12,59,automatic,nc,nc
+2025-03-12T10:06:13.240Z,37.841331481934,-122.07382965088,6.7199997901917,2.56,md,58,43,0.06661,0.14,nc,nc75147511,2025-03-13T03:33:50.357Z,"4 km W of Alamo, CA",earthquake,0.18,0.360000014,0.12,59,automatic,nc,nc
 2025-03-12T10:05:17.880Z,61.170166666667,-152.31466666667,0.65,-0.41,ml,7,228,0.0283,0.07,av,av93529261,2025-03-13T00:04:06.460Z,"64 km W of Tyonek, Alaska",earthquake,0.54,0.97,0.26374100315397,7,reviewed,av,av
 2025-03-12T10:02:21.863Z,6.9145,92.4285,10,4.8,mb,62,143,4.721,0.87,us,us6000pyak,2025-03-12T10:21:43.040Z,"Nicobar Islands, India region",earthquake,8.88,1.912,0.079,49,reviewed,us,us
 2025-03-12T09:58:00.020Z,19.385,-65.885,27.71,3.26,md,12,278,1.09,0.36,pr,pr71475228,2025-03-12T15:07:42.508Z,"104 km NNE of San Juan, Puerto Rico",earthquake,1.71,25.28,0.078596764220446,8,reviewed,pr,pr
@@ -251,4 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T03:53:44.030Z,33.5048333,-116.4493333,5.02,0.81,ml,39,71,0.1069,0.17,ci,ci41077888,2025-03-12T14:30:13.380Z,"22 km ESE of Anza, CA",earthquake,0.19,1.14,0.148,22,reviewed,ci,ci
 2025-03-12T03:35:00.100Z,38.780666351318,-122.75849914551,1.3899999856949,0.75,md,6,85,0.01143,0.02,nc,nc75147356,2025-03-12T05:32:17.868Z,"0 km NNW of The Geysers, CA",earthquake,0.53,1.58000004,0.19,6,automatic,nc,nc
 2025-03-12T03:34:50.973Z,60.9761,-150.7298,16.1,2.2,ml,,,,0.65,ak,ak02539h5c5l,2025-03-12T18:11:56.520Z,"6 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-12T03:22:17.410Z,38.823501586914,-122.78816986084,1.6699999570847,1.08,md,17,71,0.01178,0.03,nc,nc75147346,2025-03-12T03:37:19.072Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.680000007,0.06,18,automatic,nc,nc
