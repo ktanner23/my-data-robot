@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-15T14:04:48.862Z,60.6614,-151.7854,84.6,1.4,ml,,,,0.56,ak,ak0253em4pna,2025-03-15T14:07:08.476Z,"26 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-03-15T14:03:02.130Z,38.838333129883,-122.78566741943,1.4400000572205,0.7,md,9,87,0.003653,0.02,nc,nc75149136,2025-03-15T14:04:39.511Z,"6 km WNW of Cobb, CA",earthquake,0.47,1.13,0.33,9,automatic,nc,nc
-2025-03-15T13:44:52.260Z,38.747833251953,-122.69450378418,0.41999998688698,1.14,md,11,88,0.02065,0.04,nc,nc75149126,2025-03-15T13:46:29.828Z,"3 km SSW of Anderson Springs, CA",earthquake,0.34,0.649999976,0.16,11,automatic,nc,nc
+2025-03-15T13:50:06.488Z,42.8416,141.9514,142.948,4.5,mb,65,74,1.216,0.78,us,us6000pz1e,2025-03-15T14:15:40.040Z,"10 km ENE of Abira, Japan",earthquake,7.79,7.001,0.043,156,reviewed,us,us
+2025-03-15T13:44:52.260Z,38.747833251953,-122.69450378418,0.41999998688698,1.14,md,11,88,0.02065,0.04,nc,nc75149126,2025-03-15T14:17:18.449Z,"3 km SSW of Anderson Springs, CA",earthquake,0.34,0.649999976,0.16,11,automatic,nc,nc
 2025-03-15T13:36:31.780Z,33.2583333,-116.2736667,11.05,1.39,ml,35,39,0.06751,0.26,ci,ci41080072,2025-03-15T13:43:06.253Z,"9 km E of Borrego Springs, CA",earthquake,0.33,0.46,0.134,26,automatic,ci,ci
 2025-03-15T13:36:25.700Z,33.2563333,-116.2668333,10.48,0.67,ml,48,32,0.1117,0.19,ci,ci41080064,2025-03-15T13:47:32.310Z,"10 km E of Borrego Springs, CA",earthquake,0.22,0.6,0.118,9,automatic,ci,ci
 2025-03-15T13:35:04.167Z,31.763,-104.156,3.9724,2.1,ml,11,208,0.2,0.3,tx,tx2025fekp,2025-03-15T13:40:12.287Z,"50 km SSE of Whites City, New Mexico",earthquake,0,2.2745115756988,0.3,9,automatic,tx,tx
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-15T13:18:19.150Z,17.971666666667,-66.812666666667,14.79,2.66,md,25,180,0.05211,0.18,pr,pr71476058,2025-03-15T13:38:13.050Z,"2 km SSE of Indios, Puerto Rico",earthquake,0.39,0.43,0.13314375046826,12,reviewed,pr,pr
 2025-03-15T13:16:46.390Z,38.74983215332,-122.69866943359,1.4500000476837,1.91,md,15,86,0.01832,0.04,nc,nc75149111,2025-03-15T13:52:19.217Z,"3 km SSW of Anderson Springs, CA",earthquake,0.25,0.419999987,0.18,17,automatic,nc,nc
 2025-03-15T13:16:26.273Z,31.588,-103.961,4.1691,1.7,ml,15,67,0,0.4,tx,tx2025fejz,2025-03-15T13:29:42.207Z,"34 km NNW of Toyah, Texas",earthquake,0,1.4165912866592,0.2,12,automatic,tx,tx
-2025-03-15T13:16:25.010Z,38.786499023438,-122.7688369751,3.4800000190735,1.47,md,11,101,0.01594,0.02,nc,nc75149101,2025-03-15T13:32:19.076Z,"1 km NW of The Geysers, CA",earthquake,0.51,1.08000004,0.1,10,automatic,nc,nc
+2025-03-15T13:16:25.010Z,38.786499023438,-122.7688369751,3.4800000190735,1.47,md,11,101,0.01594,0.02,nc,nc75149101,2025-03-15T14:17:18.375Z,"1 km NW of The Geysers, CA",earthquake,0.51,1.08000004,0.1,10,automatic,nc,nc
 2025-03-15T13:10:28.050Z,33.8946667,-117.804,12.49,1.15,ml,46,69,0.03325,0.18,ci,ci41080056,2025-03-15T13:16:19.109Z,"1 km NE of Yorba Linda, CA",earthquake,0.25,0.4,0.252,35,automatic,ci,ci
 2025-03-15T13:03:52.900Z,35.0738333,-119.0846667,12.45,1.75,ml,44,57,0.01521,0.25,ci,ci41080048,2025-03-15T13:08:10.989Z,"20 km NW of Grapevine, CA",earthquake,0.26,0.62,0.18,27,automatic,ci,ci
 2025-03-15T12:51:49.010Z,35.3465,-117.8078333,6.15,1.04,ml,29,70,0.0848,0.17,ci,ci41080040,2025-03-15T12:55:14.015Z,"16 km W of Johannesburg, CA",earthquake,0.23,0.64,0.114,19,automatic,ci,ci
@@ -67,12 +68,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-15T07:21:50.467Z,28.951,47.4618,10,4.3,mb,38,142,5.685,0.57,us,us6000pz09,2025-03-15T07:57:15.444Z,"46 km SSW of Al Jahrā’, Kuwait",earthquake,13.16,1.945,0.102,27,reviewed,us,us
 2025-03-15T07:08:04.573Z,63.2501,-148.3471,66.5,1.7,ml,,,,0.62,ak,ak0253ehzfux,2025-03-15T07:10:10.837Z,"34 km ESE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-15T07:03:58.410Z,33.7323333,-116.8461667,17.81,1.13,ml,41,32,0.07891,0.2,ci,ci41079960,2025-03-15T07:09:07.024Z,"5 km ESE of Valle Vista, CA",earthquake,0.24,0.43,0.297,13,automatic,ci,ci
+2025-03-15T07:01:30.133Z,36.6451,-116.2684,6.3,0,ml,7,200.74,0.057,0.0408,nn,nn00894709,2025-03-15T14:18:31.262Z,"52 km SE of Beatty, Nevada",earthquake,,2.2,0.11,2,reviewed,nn,nn
 2025-03-15T06:57:55.931Z,36.7807,-116.0395,9.5,0.1,ml,10,130.28,0.02,0.1386,nn,nn00894693,2025-03-15T06:59:51.539Z,"40 km NW of Indian Springs, Nevada",earthquake,,0.9,0.45,6,automatic,nn,nn
 2025-03-15T06:50:54.168Z,63.5261,-147.9439,0,1.8,ml,,,,0.71,ak,ak0253ehn45k,2025-03-15T06:53:10.379Z,"52 km ENE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-15T06:39:40.058Z,60.5324,-147.3557,19.7,1.9,ml,,,,0.41,ak,ak0253ehkq6t,2025-03-15T06:41:11.458Z,"52 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-15T06:10:52.600Z,36.1061667,-117.5901667,0.5,1.75,ml,25,58,0.1633,0.15,ci,ci41079952,2025-03-15T06:14:19.403Z,"33 km ENE of Coso Junction, CA",earthquake,0.18,0.36,0.181,26,automatic,ci,ci
 2025-03-15T05:59:53.880Z,35.959666666667,-89.910333333333,8.63,1.86,md,16,70,0.04765,0.08,nm,nm60600886,2025-03-15T13:56:53.260Z,"3 km NNE of Blytheville, Arkansas",earthquake,0.83,1.54,0.16382866376864,11,reviewed,nm,nm
 2025-03-15T05:59:39.700Z,36.836166381836,-121.5804977417,5.460000038147,2.51,md,62,47,0.03816,0.18,nc,nc75149016,2025-03-15T08:07:17.755Z,"4 km W of San Juan Bautista, CA",earthquake,0.23,0.50999999,0.1,69,automatic,nc,nc
+2025-03-15T05:50:28.098Z,36.7859,-116.0269,9.6,-0.3,ml,8,216.24,0.028,0.0744,nn,nn00894708,2025-03-15T14:18:26.249Z,"39 km NW of Indian Springs, Nevada",earthquake,,1.8,0.13,2,reviewed,nn,nn
 2025-03-15T05:47:46.470Z,47.200668334961,-123.18650054932,35.009998321533,2.238098859787,ml,23,41,,0.0599999987,uw,uw62073267,2025-03-15T05:50:13.990Z,"6 km WSW of Shelton, Washington",earthquake,0.4,0.800000012,0.26560872793198,21,automatic,uw,uw
 2025-03-15T05:40:08.320Z,33.7976667,-116.7426667,12.03,2.19,ml,100,25,0.05595,0.19,ci,ci41079936,2025-03-15T05:51:07.120Z,"7 km NNW of Idyllwild, CA",earthquake,0.12,0.31,0.231,25,automatic,ci,ci
 2025-03-15T05:39:52.119Z,18.8646,145.7735,175.695,4.8,mb,97,119,3.604,0.67,us,us6000pyzx,2025-03-15T05:55:42.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.78,8.102,0.049,128,reviewed,us,us
@@ -205,7 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-14T14:23:15.840Z,38.789165496826,-122.76750183106,1.539999961853,1.19,md,7,123,0.01645,0.02,nc,nc75148706,2025-03-14T17:07:16.172Z,"2 km NNW of The Geysers, CA",earthquake,0.49,0.980000019,0.14,7,automatic,nc,nc
 2025-03-14T14:23:05.228Z,63.8961,-149.1298,14,1,ml,,,,0.18,ak,ak0253cypce2,2025-03-14T14:25:26.919Z,"9 km WNW of Healy, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-14T14:21:29.197Z,37.4701,-116.8416,12.7,1.3,ml,22,188.16,0.34,0.1753,nn,nn00894670,2025-03-15T02:08:12.006Z,"43 km SE of Goldfield, Nevada",earthquake,,4.7,0.18,10,reviewed,nn,nn
-2025-03-14T14:21:00.451Z,62.0115,-150.9335,69.2,1.4,ml,,,,0.38,ak,ak0253cyowl9,2025-03-14T14:23:03.901Z,"24 km E of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-03-14T14:13:28.250Z,38.842998504639,-122.87850189209,2.1199998855591,1.1,md,8,142,0.02288,0.02,nc,nc75148701,2025-03-14T16:37:18.475Z,"13 km E of Cloverdale, CA",earthquake,0.45,0.850000024,0.29,8,automatic,nc,nc
-2025-03-14T14:12:57.625Z,63.4411,-150.9172,0,1.6,ml,,,,0.66,ak,ak0253cyn3k2,2025-03-14T14:15:00.785Z,"41 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-14T14:11:46.800Z,37.337501525879,-122.23366546631,6.7199997901917,1.63,md,11,156,0.04175,0.04,nc,nc75148696,2025-03-14T14:32:18.319Z,"5 km S of Portola Valley, CA",earthquake,0.42,0.560000002,0.11,9,automatic,nc,nc
