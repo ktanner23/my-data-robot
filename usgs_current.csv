@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-22T11:26:51.620Z,33.2956667,-116.2095,1.56,1.56,ml,64,34,0.107,0.22,ci,ci40907063,2025-03-22T11:30:42.759Z,"16 km ENE of Borrego Springs, CA",earthquake,0.16,0.38,0.206,27,automatic,ci,ci
+2025-03-22T11:26:51.620Z,33.2956667,-116.2095,1.56,1.56,ml,64,34,0.107,0.22,ci,ci40907063,2025-03-22T11:37:15.160Z,"16 km ENE of Borrego Springs, CA",earthquake,0.16,0.38,0.206,27,automatic,ci,ci
 2025-03-22T11:26:28.840Z,36.6938,-116.2364,16,-0.2,ml,8,123.71,0.039,0.2515,nn,nn00894944,2025-03-22T11:28:14.853Z,"52 km ESE of Beatty, Nevada",earthquake,,2.6,0.28,3,automatic,nn,nn
 2025-03-22T11:25:55.646Z,61.8887,-147.9285,33.2,1.5,ml,,,,0.96,ak,ak0253q58cuk,2025-03-22T11:28:15.182Z,"17 km WNW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-22T11:23:55.860Z,33.2626667,-116.1275,7.97,0.92,ml,50,44,0.1119,0.19,ci,ci40907055,2025-03-22T11:27:55.101Z,"13 km N of Ocotillo Wells, CA",earthquake,0.16,0.96,0.15,20,automatic,ci,ci
@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-22T07:15:13.750Z,34.2136667,-116.99,20.48,1.09,ml,23,208,0.2336,0.33,ci,ci40906951,2025-03-22T07:20:28.445Z,"8 km WSW of Big Bear Lake, CA",earthquake,1.79,2.88,0.288,24,automatic,ci,ci
 2025-03-22T07:04:55.680Z,38.82149887085,-122.81133270264,3.1300001144409,1.48,md,32,40,0.002133,0.03,nc,nc75153117,2025-03-22T09:07:17.486Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.17,30,automatic,nc,nc
 2025-03-22T07:02:13.528Z,60.6481,-151.6754,70.6,1.4,ml,,,,0.62,ak,ak0253q2plpk,2025-03-22T07:03:59.237Z,"19 km W of Salamatof, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"14 km ENE of Baganga, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
+2025-03-22T07:01:27.417Z,7.6198,126.6836,82.124,4.5,mb,41,107,1.224,0.77,us,us7000pltf,2025-03-22T07:16:04.040Z,"Mindanao, Philippines",earthquake,5.86,7.921,0.074,54,reviewed,us,us
 2025-03-22T07:00:44.150Z,31.4953333,-115.6263333,11.03,2.41,ml,9,109,0.17,0.2,ci,ci40906943,2025-03-22T07:04:17.021Z,"92 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,1.29,0.16,20,automatic,ci,ci
 2025-03-22T06:36:05.730Z,33.534,-116.7223333,5.49,0.59,ml,26,41,0.03372,0.13,ci,ci40906927,2025-03-22T06:40:44.909Z,"5 km WSW of Anza, CA",earthquake,0.15,0.37,0.153,17,automatic,ci,ci
 2025-03-22T06:26:06.200Z,59.91,-153.0572,125.4,2.4,ml,,,,0.24,ak,ak0253q29aq4,2025-03-22T07:18:12.040Z,"60 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -269,6 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-21T11:48:16.670Z,38.823833465576,-122.76733398438,2.420000076294,0.37,md,8,113,0.006927,0.01,nc,nc75152592,2025-03-21T13:47:17.620Z,"4 km WNW of Cobb, CA",earthquake,0.61,1.16999996,0.24,9,automatic,nc,nc
 2025-03-21T11:46:31.490Z,35.5328333,-117.5328333,-0.57,0.83,ml,22,90,0.1154,0.22,ci,ci40906111,2025-03-21T18:13:26.006Z,"16 km SE of Ridgecrest, CA",earthquake,0.27,0.55,0.103,10,reviewed,ci,ci
 2025-03-21T11:39:36.400Z,44.748166666667,-111.103,9.2,0.84,ml,10,82,0.04806,0.07,uu,uu80104211,2025-03-21T15:26:56.320Z,"7 km ESE of Hebgen Lake Estates, Montana",earthquake,0.38,0.96,0.31161214642458,2,reviewed,uu,uu
-2025-03-21T11:33:08.831Z,64.6238,-146.843,17.4,1,ml,,,,0.32,ak,ak0253ohqmgz,2025-03-21T11:36:05.535Z,"11 km ESE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-03-21T11:33:04.110Z,61.183666666667,-152.25316666667,4.1,-0.08,ml,10,196,0.02705,0.13,av,av93539316,2025-03-21T23:06:20.080Z,"61 km WNW of Tyonek, Alaska",earthquake,0.37,0.49,0.22460456243593,10,reviewed,av,av
-2025-03-21T11:31:45.278Z,61.2343,-150.9611,46.5,0.6,ml,,,,0.36,ak,ak0253ohqa6x,2025-03-21T11:33:42.274Z,"12 km NNE of Beluga, Alaska",earthquake,,1.9,,,automatic,ak,ak
