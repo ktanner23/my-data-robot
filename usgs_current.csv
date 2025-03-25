@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T08:38:55.960Z,33.6378333,-116.7051667,13.65,0.64,ml,35,38,0.04056,0.17,ci,ci40909455,2025-03-25T14:20:21.817Z,"10 km NNW of Anza, CA",earthquake,0.2,0.36,0.179,18,reviewed,ci,ci
 2025-03-25T08:26:14.560Z,35.3425,-117.7993333,6.35,1.45,ml,37,39,0.084,0.17,ci,ci40909447,2025-03-25T08:29:57.605Z,"15 km WSW of Johannesburg, CA",earthquake,0.18,0.54,0.216,25,automatic,ci,ci
 2025-03-25T08:24:48.020Z,47.432166666667,-121.80933333333,19.02,1.67,ml,48,69,0.00814,0.14,uw,uw62085231,2025-03-25T08:36:29.030Z,"3 km WSW of Wilderness Rim, Washington",earthquake,0.47,0.4,0.17396273200078,43,reviewed,uw,uw
-2025-03-25T08:21:07.240Z,32.104,-114.9558333,10.26,1.78,ml,11,142,0.2369,0.3,ci,ci40909439,2025-03-25T08:24:35.578Z,"11 km SSE of Estacion Coahuila, B.C., MX",earthquake,0.81,2.04,0.228,10,automatic,ci,ci
+2025-03-25T08:21:07.190Z,32.1051667,-114.9558333,12.91,1.86,ml,11,142,0.06085,0.29,ci,ci40909439,2025-03-25T16:52:14.153Z,"11 km SSE of Estacion Coahuila, B.C., MX",earthquake,0.94,1.27,0.092,6,reviewed,ci,ci
 2025-03-25T08:17:11.687Z,63.1016,-151.3515,0,1.4,ml,,,,0.71,ak,ak0253v20ae8,2025-03-25T08:19:28.561Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-25T08:14:04.420Z,33.7875,-116.0773333,1.61,1.75,ml,64,38,0.1204,0.18,ci,ci40909431,2025-03-25T08:24:27.970Z,"15 km ENE of Indio, CA",earthquake,0.13,0.29,0.141,28,automatic,ci,ci
 2025-03-25T08:04:42.640Z,47.752833333333,-113.83466666667,6.91,0.06,ml,4,151,0.06177,0.04,mb,mb90075778,2025-03-25T15:32:32.370Z,"17 km E of Finley Point, Montana",earthquake,0.67,1.68,0.098130738740785,2,reviewed,mb,mb
@@ -117,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T05:45:22.800Z,33.6568333,-116.9305,15.32,1.07,ml,49,38,0.06622,0.19,ci,ci40909351,2025-03-25T16:15:46.462Z,"11 km SSW of Valle Vista, CA",earthquake,0.18,0.29,0.182,29,automatic,ci,ci
 2025-03-25T05:22:51.230Z,44.741333333333,-111.727,15.08,0.03,ml,8,246,0.04518,0.11,mb,mb90075743,2025-03-25T14:59:52.620Z,"42 km W of Hebgen Lake Estates, Montana",earthquake,1.65,0.73,0.12244964897516,4,reviewed,mb,mb
 2025-03-25T05:19:18.120Z,35.788166046143,-120.5205001831,1.0599999427795,0.79,md,8,160,0.08518,0.07,nc,nc75154827,2025-03-25T05:37:16.771Z,"15 km SW of Parkfield, CA",earthquake,0.58,9.38000011,,1,automatic,nc,nc
-2025-03-25T05:18:18.226Z,39.0564,-119.0169,6.7,1.4,ml,16,88.9,0.114,0.1269,nn,nn00895077,2025-03-25T05:20:31.811Z,"14 km ENE of Yerington, Nevada",earthquake,,0.9,0.12,8,automatic,nn,nn
+2025-03-25T05:18:18.718Z,39.055,-119.0155,5.5,1.4,ml,17,88.99,0.09,0.1193,nn,nn00895077,2025-03-25T16:55:47.335Z,"14 km ENE of Yerington, Nevada",earthquake,,1.7,0.15,8,reviewed,nn,nn
 2025-03-25T05:09:38.967Z,61.5266,-149.9216,33.6,1.3,ml,,,,0.59,ak,ak0253v06byg,2025-03-25T05:11:30.128Z,"1 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-25T04:53:54.461Z,14.9513,-61.0103,114.909,5,mb,81,91,0.217,0.92,us,us7000pmfx,2025-03-25T14:38:52.584Z,"14 km NNE of Le Lorrain, Martinique",earthquake,7.56,5.005,0.024,572,reviewed,us,us
 2025-03-25T04:31:46.990Z,33.469,-116.4871667,12.66,0.59,ml,35,61,0.0995,0.21,ci,ci40909335,2025-03-25T14:21:42.033Z,"20 km ESE of Anza, CA",earthquake,0.27,0.61,0.145,17,reviewed,ci,ci
@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T17:18:26.845Z,59.7301,-152.126,43.6,2.4,ml,,,,0.32,ak,ak0253tju38c,2025-03-24T17:38:22.040Z,"17 km WSW of Anchor Point, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-03-24T17:18:16.390Z,38.786334991455,-122.74349975586,1.789999961853,0.64,md,11,83,0.006132,0.02,nc,nc75154532,2025-03-24T19:17:21.598Z,"2 km ENE of The Geysers, CA",earthquake,0.3,0.680000007,0.16,11,automatic,nc,nc
 2025-03-24T17:17:16.937Z,-7.1562,129.2612,171.356,4.4,mb,36,102,2.694,0.66,us,us7000pmam,2025-03-24T17:34:45.040Z,"291 km ENE of Lospalos, Timor Leste",earthquake,9.16,7.746,0.105,26,reviewed,us,us
-2025-03-24T16:53:25.080Z,33.5326667,-116.7253333,5.24,0.57,ml,16,49,0.03414,0.08,ci,ci40908791,2025-03-25T15:04:08.061Z,"5 km WSW of Anza, CA",earthquake,0.15,0.32,0.155,11,reviewed,ci,ci
-2025-03-24T16:53:24.465Z,64.6788,-149.6374,13,1.4,ml,,,,0.68,ak,ak0253tjg5i6,2025-03-24T16:54:59.290Z,"26 km WNW of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
