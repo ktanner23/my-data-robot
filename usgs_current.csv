@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T16:42:50.428Z,37.222,-115.7044,2.6,0.7,ml,8,161.35,0.26,0.4465,nn,nn00895172,2025-03-26T16:45:30.564Z,"47 km S of Rachel, Nevada",earthquake,,14.6,0.67,4,automatic,nn,nn
 2025-03-26T16:30:15.730Z,35.13016667,-97.82666667,5.39,1.07,ml,28,148,0.05398940544,0.12,ok,ok2025fysy,2025-03-26T16:49:29.385Z,"5 km SE of Amber, Oklahoma",earthquake,,0.5,0.18,11,reviewed,ok,ok
 2025-03-26T16:22:53.973Z,39.0605,-119.0156,8,2,ml,16,105.49,0.11,0.1056,nn,nn00895170,2025-03-26T16:25:12.946Z,"15 km ENE of Yerington, Nevada",earthquake,,1.1,0.02,7,automatic,nn,nn
-2025-03-26T16:14:01.920Z,38.804164886475,-122.7748336792,1.289999961853,1.35,md,25,73,0.01017,0.02,nc,nc75155657,2025-03-26T16:15:35.985Z,"3 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.21,24,automatic,nc,nc
+2025-03-26T16:14:01.920Z,38.804164886475,-122.7748336792,1.289999961853,1.35,md,25,73,0.01017,0.02,nc,nc75155657,2025-03-26T16:57:17.975Z,"3 km NNW of The Geysers, CA",earthquake,0.19,0.319999993,0.21,24,automatic,nc,nc
 2025-03-26T16:11:19.266Z,60.0346,-141.7208,2.7,1.4,ml,,,,0.7,ak,ak0253wu9u0p,2025-03-26T16:13:43.257Z,"124 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-26T16:09:17.180Z,38.822498321533,-122.78500366211,0.5799999833107,0.75,md,11,108,0.009823,0.03,nc,nc75155647,2025-03-26T16:37:17.830Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.600000024,0.11,13,automatic,nc,nc
 2025-03-26T15:52:32.130Z,38.823001861572,-122.84400177002,2.0299999713898,1.07,md,19,103,0.007009,0.01,nc,nc75155642,2025-03-26T16:27:15.764Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.19,19,automatic,nc,nc
@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T12:29:25.830Z,35.7678333,-117.5991667,6.69,1.36,ml,29,53,0.129,0.14,ci,ci40910687,2025-03-26T12:32:58.162Z,"18 km W of Searles Valley, CA",earthquake,0.16,0.61,0.15,25,automatic,ci,ci
 2025-03-26T12:24:13.851Z,61.2455,-146.8157,37.2,1.3,ml,,,,0.36,ak,ak0253wryvhl,2025-03-26T12:26:13.431Z,"28 km WNW of Valdez, Alaska",earthquake,,9,,,automatic,ak,ak
 2025-03-26T12:22:37.747Z,36.7122,-114.5515,14,1.6,ml,21,169.97,0.528,0.3059,nn,nn00895157,2025-03-26T12:25:22.985Z,"5 km NE of Moapa Town, Nevada",earthquake,,0.7,0.34,12,automatic,nn,nn
-2025-03-26T12:19:46.784Z,39.052,-119.0156,0.7,2,ml,13,51.64,0.092,0.1288,nn,nn00895154,2025-03-26T16:40:45.839Z,"14 km ENE of Yerington, Nevada",earthquake,,17.9,0.13,3,reviewed,nn,nn
+2025-03-26T12:19:46.677Z,39.0579,-119.0199,5,2.1,ml,27,51.26,0.086,0.2029,nn,nn00895154,2025-03-26T16:56:22.957Z,"14 km ENE of Yerington, Nevada",earthquake,,1.3,0.19,17,reviewed,nn,nn
 2025-03-26T12:11:54.340Z,34.0383333,-117.2373333,14.59,0.76,ml,26,101,0.09903,0.14,ci,ci40910671,2025-03-26T12:16:52.999Z,"2 km ESE of Loma Linda, CA",earthquake,0.22,0.57,0.218,19,automatic,ci,ci
 2025-03-26T12:03:13.400Z,58.0112,-155.828,22.3,1.6,ml,,,,0.2,ak,ak0253wrudf0,2025-03-26T12:04:45.333Z,"89 km SSE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-26T12:01:59.550Z,44.749166666667,-111.03533333333,7.38,0.89,md,13,92,0.02314,0.15,uu,uu80003003,2025-03-26T13:23:45.090Z,"11 km NNE of West Yellowstone, Montana",earthquake,0.36,0.61,0.26219066466985,12,reviewed,uu,uu
@@ -248,5 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-25T17:15:04.050Z,17.981833333333,-66.809666666667,17.05,2.28,md,11,193,0.0417,0.1,pr,pr71477468,2025-03-25T17:32:07.360Z,"1 km SE of Indios, Puerto Rico",earthquake,0.4,0.48,0.15214134963551,9,reviewed,pr,pr
 2025-03-25T17:06:15.107Z,60.3616,-152.0669,82.9,1.3,ml,,,,0.4,ak,ak0253v7au86,2025-03-25T17:08:12.382Z,"39 km WNW of Clam Gulch, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-25T16:59:22.133Z,63.0954,-144.4888,0,1.6,ml,,,,0.65,ak,ak0253v70s45,2025-03-25T17:01:51.748Z,"41 km WNW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-25T16:58:43.738Z,31.511,-104.021,7.1509,2,ml,15,78,0,0.2,tx,tx2025fwyp,2025-03-26T14:42:47.372Z,"30 km NW of Toyah, Texas",earthquake,1.3316118055329,1.1067919533527,0.1,24,reviewed,tx,tx
-2025-03-25T16:58:34.931Z,31.535,-104.013,6.7792,2.1,ml,29,57,0,0.1,tx,tx2025fwyo,2025-03-25T19:03:40.262Z,"32 km NW of Toyah, Texas",earthquake,0.58938176389014,0.50464122991082,0.2,36,reviewed,tx,tx
