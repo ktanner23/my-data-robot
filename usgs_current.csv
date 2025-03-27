@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-27T19:16:57.870Z,35.426998138428,-120.71516418457,8.5100002288818,1.26,md,13,93,0.09761,0.05,nc,nc75156312,2025-03-27T19:18:35.036Z,"8 km SW of Atascadero, CA",earthquake,0.3,1.19000006,0.12,7,automatic,nc,nc
 2025-03-27T19:09:48.980Z,38.835834503174,-122.79383087158,1.5900000333786,0.82,md,8,131,0.003745,0.01,nc,nc75156302,2025-03-27T19:11:23.838Z,"6 km WNW of Cobb, CA",earthquake,0.67,1.17999995,0.22,10,automatic,nc,nc
-2025-03-27T19:05:27.980Z,38.835998535156,-122.79100036621,1.0499999523163,1.39,md,24,79,0.01317,0.04,nc,nc75156292,2025-03-27T19:07:03.893Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.370000005,0.14,24,automatic,nc,nc
+2025-03-27T19:05:27.980Z,38.835998535156,-122.79100036621,1.0499999523163,1.39,md,24,79,0.01317,0.04,nc,nc75156292,2025-03-27T19:27:26.491Z,"6 km WNW of Cobb, CA",earthquake,0.22,0.370000005,0.14,24,automatic,nc,nc
 2025-03-27T19:05:02.540Z,38.834999084473,-122.79083251953,1.8799999952316,2.23,md,42,35,0.003426,0.05,nc,nc75156287,2025-03-27T19:17:21.421Z,"6 km WNW of Cobb, CA",earthquake,0.17,0.25999999,0.17,50,automatic,nc,nc
 2025-03-27T18:53:17.569Z,62.9043,-149.7055,63.4,1.5,ml,,,,0.65,ak,ak0253yj91nw,2025-03-27T18:55:27.814Z,"54 km NNE of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-03-27T18:50:40.115Z,35.3045,140.2951,52.317,4.6,mb,65,121,2.101,0.52,us,us7000pn5c,2025-03-27T19:22:47.049Z,"5 km ENE of Ōtaki, Japan",earthquake,6.48,7.231,0.068,65,reviewed,us,us
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-27T12:19:58.540Z,45.906,-111.537,4.97,0.64,ml,6,150,0.3158,0.1,mb,mb90076038,2025-03-27T15:35:47.990Z,"1 km NE of Three Forks, Montana",earthquake,0.43,8.19,0.16660839380941,4,reviewed,mb,mb
 2025-03-27T12:12:23.680Z,19.465166666667,-155.638,18.93,2.6,ml,47,103,0.03582,0.13,hv,hv74642762,2025-03-27T19:24:06.450Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.5,0.14519119417092,29,reviewed,hv,hv
 2025-03-27T11:57:04.021Z,60.2463,-141.3365,1.1,1.5,ml,,,,1.08,ak,ak0253yf3u8y,2025-03-27T11:58:59.218Z,"119 km NW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-03-27T11:49:39.880Z,19.367500305176,-155.39149475098,8.3900003433228,1.95,ml,54,41,0.03437,0.129999995,hv,hv74642747,2025-03-27T11:52:53.970Z,"18 km WSW of Volcano, Hawaii",earthquake,0.24,0.389999986,0.7,9,automatic,hv,hv
+2025-03-27T11:49:39.810Z,19.367833333333,-155.39366666667,9.02,2.24,md,49,47,0.03508,0.12,hv,hv74642747,2025-03-27T19:34:33.930Z,"18 km WSW of Volcano, Hawaii",earthquake,0.26,0.47,0.13952347692333,14,reviewed,hv,hv
 2025-03-27T11:44:06.540Z,33.9703333,-116.9875,4.06,1.23,ml,60,24,0.04916,0.17,ci,ci40911471,2025-03-27T13:23:03.030Z,"5 km NNW of Beaumont, CA",earthquake,0.13,0.37,0.209,26,reviewed,ci,ci
 2025-03-27T10:57:28.818Z,62.6563,-151.9412,3,1.3,ml,,,,1.16,ak,ak0253yeigk1,2025-03-27T10:59:13.521Z,"63 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-27T10:26:29.530Z,38.813167572021,-122.82649993897,1.9400000572205,0.72,md,5,159,0.004776,0,nc,nc75156162,2025-03-27T10:28:06.544Z,"7 km NW of The Geysers, CA",earthquake,0.64,1.41999996,0.24,9,automatic,nc,nc
@@ -149,6 +149,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-27T00:35:53.480Z,51.981833333333,178.5055,2.62,1.43,ml,4,309,0.0138,0.16,av,av93547901,2025-03-27T02:23:46.820Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.07,0.78,0.10518450345576,3,reviewed,av,av
 2025-03-27T00:33:37.787Z,63.4698,-149.2157,34.8,1.5,ml,,,,0.62,ak,ak0253y8eysw,2025-03-27T00:36:08.480Z,"15 km WNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-27T00:25:59.463Z,63.091,-150.5608,107.9,2.3,ml,,,,0.51,ak,ak0253y8dbvc,2025-03-27T00:38:14.040Z,"67 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-03-27T00:23:57.260Z,51.994666666667,178.49216666667,1.62,-0.51,ml,4,323,0.02901,0.08,av,av93547866,2025-03-27T19:32:53.430Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.9,1.67,0.13083029544292,3,reviewed,av,av
 2025-03-27T00:21:20.590Z,61.306833333333,-152.25383333333,-2.3,-0.63,ml,9,171,0.06324,0.23,av,av93547861,2025-03-27T19:26:36.640Z,"65 km WNW of Beluga, Alaska",earthquake,0.57,2.32,0.2669017172595,9,reviewed,av,av
 2025-03-27T00:13:00.210Z,34.0636667,-118.9015,11.34,2,ml,64,126,0.03541,0.25,ci,ci40911247,2025-03-27T03:28:05.131Z,"11 km NW of Malibu, CA",earthquake,0.28,0.29,0.163,29,automatic,ci,ci
 2025-03-27T00:09:37.840Z,18.011,-66.7285,14.86,2.11,md,6,192,0.1479,0.18,pr,pr71477573,2025-03-27T00:21:37.070Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.8,1.58,0.013720409733086,4,reviewed,pr,pr
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T19:52:56.790Z,33.7305,-116.984,19.8,0.94,ml,7,122,0.02668,0.11,ci,ci40911047,2025-03-26T19:57:58.491Z,"2 km SSW of Hemet, CA",earthquake,0.42,0.4,0.351,9,automatic,ci,ci
 2025-03-26T19:42:40.820Z,35.1325,-97.82216667,6.39,1.31,ml,42,63,0.05218975859,0.21,ok,ok2025fyzg,2025-03-26T20:02:01.716Z,"6 km ESE of Amber, Oklahoma",earthquake,,0.5,0.24,15,reviewed,ok,ok
 2025-03-26T19:42:11.679Z,35.12533333,-97.82833333,5.06,0.98,ml,14,337,0.05938834598,0.05,ok,ok2025fyzh,2025-03-26T20:08:49.590Z,"6 km SE of Amber, Oklahoma",earthquake,,0.6,0.18,6,reviewed,ok,ok
-2025-03-26T19:34:28.620Z,38.831832885742,-122.82066345215,2.1300001144409,0.46,md,9,77,0.01181,0.01,nc,nc75155762,2025-03-26T20:27:17.425Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.25999999,0.33,9,automatic,nc,nc
-2025-03-26T19:31:32.240Z,32.363,-102.06,4.0812,1,ml,17,64,0.1,0.3,tx,tx2025fyzc,2025-03-26T19:41:06.258Z,"36 km NW of Stanton, Texas",earthquake,0,1.2475552558899,0.2,13,automatic,tx,tx
-2025-03-26T19:30:20.050Z,33.7878333,-115.9213333,0.43,1.69,ml,41,44,0.1176,0.19,ci,ci40911023,2025-03-26T19:41:09.150Z,"26 km NE of Thermal, CA",earthquake,0.17,0.34,0.173,27,automatic,ci,ci
