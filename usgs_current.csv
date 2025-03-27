@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-27T23:14:22.490Z,38.785999298096,-122.77283477783,1.710000038147,1.16,md,19,84,0.0138,0.03,nc,nc75156397,2025-03-27T23:16:00.143Z,"2 km NW of The Geysers, CA",earthquake,0.26,0.430000007,0.14,19,automatic,nc,nc
 2025-03-27T22:42:44.645Z,39.0387,-119.0167,2,1.6,ml,8,128.91,0.131,0.1964,nn,nn00895220,2025-03-27T22:44:57.476Z,"13 km ENE of Yerington, Nevada",earthquake,,1.9,0,1,automatic,nn,nn
-2025-03-27T22:42:41.209Z,42.7256,72.9917,10,5.2,mb,87,24,1.111,1.14,us,us7000pn6j,2025-03-27T23:25:59.736Z,"22 km SW of Merke, Kazakhstan",earthquake,3.9,1.832,0.038,229,reviewed,us,us
+2025-03-27T22:42:41.209Z,42.7256,72.9917,10,5.2,mb,87,24,1.111,1.14,us,us7000pn6j,2025-03-27T23:31:13.150Z,"22 km SW of Merke, Kazakhstan",earthquake,3.9,1.832,0.038,229,reviewed,us,us
 2025-03-27T22:30:10.410Z,48.0895,-121.93316666667,-0.25,1.66,ml,11,72,0.01948,0.11,uw,uw62086296,2025-03-27T22:38:06.380Z,"2 km ENE of Granite Falls, Washington",explosion,0.39,31.61,0.022263131414712,6,reviewed,uw,uw
 2025-03-27T22:10:49.390Z,38.786499023438,-122.76916503906,2.789999961853,1.27,md,19,81,0.01592,0.03,nc,nc75156387,2025-03-27T22:12:24.330Z,"2 km NW of The Geysers, CA",earthquake,0.33,0.569999993,0.17,18,automatic,nc,nc
 2025-03-27T22:08:36.830Z,38.787166595459,-122.7679977417,2.9500000476837,0.75,md,9,100,0.01492,0.02,nc,nc75156382,2025-03-27T22:10:14.279Z,"1 km NNW of The Geysers, CA",earthquake,0.51,0.860000014,0.23,8,automatic,nc,nc
@@ -131,6 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-27T05:34:11.778Z,57.9168,-154.5561,67.7,1.1,ml,,,,0.36,ak,ak0253ybechu,2025-03-27T05:44:21.771Z,"39 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-03-27T05:33:41.180Z,38.817001342773,-122.7636642456,1.7799999713898,1.02,md,8,188,0.01381,0.03,nc,nc75155997,2025-03-27T06:07:17.247Z,"4 km W of Cobb, CA",earthquake,0.49,0.829999983,0.31,11,automatic,nc,nc
 2025-03-27T05:32:39.630Z,37.255832672119,-121.63649749756,4.9400000572205,1.3,md,4,138,0.02939,0,nc,nc75155992,2025-03-27T07:17:19.679Z,"14 km NNE of Morgan Hill, CA",earthquake,1.66,2,0.22,6,automatic,nc,nc
+2025-03-27T05:19:09.460Z,51.951666666667,178.42483333333,6.41,-0.15,ml,4,330,0.05363,0.16,av,av93548231,2025-03-27T23:36:55.490Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.81,2.19,0.23502727367591,3,reviewed,av,av
 2025-03-27T05:17:02.520Z,33.4723333,-116.4718333,8.77,0.64,ml,20,65,0.1112,0.13,ci,ci40911367,2025-03-27T21:28:44.307Z,"21 km ESE of Anza, CA",earthquake,0.27,0.72,0.108,12,reviewed,ci,ci
 2025-03-27T05:15:35.828Z,63.6086,-147.6185,82.3,1.9,ml,,,,0.47,ak,ak0253ybaazy,2025-03-27T05:17:31.227Z,"65 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-27T05:13:09.500Z,35.6831667,-117.4883333,6.82,1.6,ml,28,48,0.05562,0.12,ci,ci40911359,2025-03-27T13:22:35.168Z,"12 km SW of Searles Valley, CA",earthquake,0.15,0.42,0.176,27,reviewed,ci,ci
@@ -195,5 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T23:47:33.760Z,37.656833648682,-122.05516815185,3.8199999332428,1.53,md,8,129,0.08126,0.02,nc,nc75155877,2025-03-27T00:07:14.863Z,"2 km ENE of Hayward, CA",earthquake,0.38,0.829999983,0.1,4,automatic,nc,nc
 2025-03-26T23:45:50.110Z,44.6965,-112.02716666667,7.66,1.21,ml,28,48,0.2599,0.16,mb,mb90075983,2025-03-27T14:30:29.560Z,"39 km NNE of Spencer, Idaho",earthquake,0.25,2.45,0.16600085392853,28,reviewed,mb,mb
 2025-03-26T23:44:52.390Z,17.729666666667,-66.713166666667,5.37,2.57,md,9,240,0.2908,0.21,pr,pr71477563,2025-03-27T00:01:53.300Z,"29 km S of Tallaboa, Puerto Rico",earthquake,1.39,2.55,0.10573773189388,5,reviewed,pr,pr
-2025-03-26T23:34:03.150Z,35.0393333,-117.6655,-0.61,1.73,ml,34,88,0.1077,0.19,ci,ci40911223,2025-03-26T23:37:52.658Z,"5 km NNW of Boron, CA",earthquake,0.34,0.67,0.166,27,automatic,ci,ci
-2025-03-26T23:31:54.530Z,33.51,-116.565,6.85,0.44,ml,14,78,0.03463,0.13,ci,ci40911215,2025-03-27T22:41:51.138Z,"11 km ESE of Anza, CA",earthquake,0.24,0.46,0.129,10,reviewed,ci,ci
