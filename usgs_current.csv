@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-27T08:33:19.110Z,33.5375,-116.7235,5.45,0.41,ml,20,51,0.03012,0.15,ci,ci40911431,2025-03-27T08:36:44.030Z,"5 km WSW of Anza, CA",earthquake,0.2,0.49,0.101,8,automatic,ci,ci
 2025-03-27T08:27:02.620Z,33.4705,-116.4791667,8.22,0.67,ml,35,64,0.1056,0.17,ci,ci40911423,2025-03-27T08:31:31.590Z,"20 km ESE of Anza, CA",earthquake,0.2,0.71,0.175,18,automatic,ci,ci
-2025-03-27T08:22:04.600Z,17.987833333333,-66.812833333333,15.49,1.97,md,8,185,0.06449,0.19,pr,pr71477623,2025-03-27T08:32:11.980Z,"0 km SE of Indios, Puerto Rico",earthquake,0.62,1.23,0.16775769429855,6,reviewed,pr,pr
-2025-03-27T08:01:08.540Z,37.69983291626,-121.99617004394,9.539999961853,1.48,md,11,90,0.0664,0.06,nc,nc75156102,2025-03-27T08:02:47.503Z,"5 km ENE of Fairview, CA",earthquake,0.29,0.579999983,0.12,8,automatic,nc,nc
+2025-03-27T08:22:04.600Z,17.987833333333,-66.812833333333,15.49,1.97,md,8,185,0.06449,0.19,pr,pr71477623,2025-03-27T08:39:04.041Z,"0 km SE of Indios, Puerto Rico",earthquake,0.62,1.23,0.16775769429855,6,reviewed,pr,pr
+2025-03-27T08:01:08.540Z,37.69983291626,-121.99617004394,9.539999961853,1.48,md,11,90,0.0664,0.06,nc,nc75156102,2025-03-27T08:37:15.238Z,"5 km ENE of Fairview, CA",earthquake,0.29,0.579999983,0.12,8,automatic,nc,nc
 2025-03-27T08:01:06.947Z,62.6918,-152.0188,0,1.5,ml,,,,1.22,ak,ak0253yczjk6,2025-03-27T08:03:25.966Z,"67 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-03-27T07:47:34.479Z,64.6146,-149.4142,18,0.8,ml,,,,0.33,ak,ak0253yco10n,2025-03-27T07:52:52.420Z,"14 km W of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-27T07:38:30.165Z,63.1166,-150.4885,107.1,2.5,ml,,,,0.66,ak,ak0253ycm37c,2025-03-27T07:40:34.267Z,"70 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-27T07:16:13.120Z,33.5896667,-116.6991667,15.06,0.63,ml,29,57,0.03999,0.14,ci,ci40911415,2025-03-27T07:21:27.216Z,"4 km NNW of Anza, CA",earthquake,0.19,0.3,0.178,18,automatic,ci,ci
 2025-03-27T07:05:24.730Z,33.778,-115.9498333,0.54,1,ml,33,60,0.1195,0.2,ci,ci40911407,2025-03-27T07:09:14.964Z,"23 km NE of Thermal, CA",earthquake,0.23,0.41,0.194,19,automatic,ci,ci
 2025-03-27T07:05:20.210Z,17.9535,-66.9175,11.01,2.39,md,12,209,0.02042,0.14,pr,pr71477618,2025-03-27T07:18:09.550Z,"2 km SSW of Guánica, Puerto Rico",earthquake,0.45,0.41,0.077468205934861,5,reviewed,pr,pr
-2025-03-27T06:57:16.277Z,18.6221,-63.3266,50.36,4.2,mb,75,138,0.999,0.54,us,us7000pmzs,2025-03-27T07:49:55.127Z,"52 km NNW of Sandy Ground Village, Anguilla",earthquake,6.28,9.025,0.085,39,reviewed,us,us
+2025-03-27T06:57:16.277Z,18.6221,-63.3266,50.36,4.2,mb,75,138,0.999,0.54,us,us7000pmzs,2025-03-27T08:40:55.678Z,"52 km NNW of Sandy Ground Village, Anguilla",earthquake,6.28,9.025,0.085,39,reviewed,us,us
 2025-03-27T06:55:53.880Z,57.0512,-155.9354,10.8,2.1,ml,,,,0.93,ak,ak0253yc4cwk,2025-03-27T07:02:07.472Z,"102 km ESE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-03-27T06:44:03.750Z,38.790000915527,-122.77549743652,1.8400000333786,2.24,md,45,81,0.01021,0.06,nc,nc75156072,2025-03-27T07:32:16.785Z,"2 km NW of The Geysers, CA",earthquake,0.18,0.25999999,0.12,47,automatic,nc,nc
 2025-03-27T06:33:37.810Z,19.257833480835,-155.39866638184,33.650001525879,1.93,ml,56,93,0.02025,0.129999995,hv,hv74642332,2025-03-27T06:37:02.280Z,"10 km NE of Pāhala, Hawaii",earthquake,0.47,0.5,0.11,4,automatic,hv,hv
@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-26T09:09:23.783Z,-57.3959,-26.2501,108.895,4.6,mb,37,95,6.554,0.62,us,us7000pmq0,2025-03-26T09:34:52.040Z,"South Sandwich Islands region",earthquake,13.59,8.534,0.086,41,reviewed,us,us
 2025-03-26T09:02:37.901Z,63.2061,-149.6535,19.4,1.9,ml,,,,1.02,ak,ak0253wq1wry,2025-03-26T09:04:46.613Z,"40 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-03-26T08:49:19.220Z,44.820666666667,-111.483,15.79,-0.15,ml,8,118,0.03902,0.18,mb,mb90075978,2025-03-26T21:20:55.600Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,0.62,1.5,0.12245415621087,5,reviewed,mb,mb
-2025-03-26T08:39:09.954Z,37.2283,-117.1379,7.9,1.1,ml,20,145.03,0.122,0.1339,nn,nn00895146,2025-03-27T02:09:59.100Z,"48 km NW of Beatty, Nevada",earthquake,,2.3,0.53,4,reviewed,nn,nn
