@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-03-29T08:05:46.194Z,39.0371,-119.0021,0.7,1.7,ml,16,103.54,0.135,0.2487,nn,nn00895305,2025-03-29T08:08:05.868Z,"15 km ENE of Yerington, Nevada",earthquake,,6.3,0.09,7,automatic,nn,nn
 2025-03-29T07:58:23.631Z,31.516,-104.01,4.6673,1.6,ml,15,68,0,0.2,tx,tx2025gdoo,2025-03-29T08:05:48.416Z,"30 km NW of Toyah, Texas",earthquake,0,1.3314810991287,0.1,13,automatic,tx,tx
-2025-03-29T07:56:01.967Z,61.3892,-150.0332,33.7,2.1,ml,,,,0.28,ak,ak02541nskxw,2025-03-29T07:57:27.389Z,"4 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-03-29T07:56:01.967Z,61.3892,-150.0332,33.7,2.1,ml,,,,0.28,ak,ak02541nskxw,2025-03-29T08:17:23.154Z,"4 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-29T07:49:59.968Z,31.518,-104.011,5.574,2,ml,16,65,0,0.2,tx,tx2025gdoh,2025-03-29T08:05:46.036Z,"30 km NW of Toyah, Texas",earthquake,0,2.7185010910034,0.1,13,automatic,tx,tx
 2025-03-29T07:36:20.254Z,39.0421,-119.012,1.9,1.5,ml,12,128.69,0.129,0.1706,nn,nn00895303,2025-03-29T07:38:33.902Z,"14 km ENE of Yerington, Nevada",earthquake,,3.3,0.29,5,automatic,nn,nn
 2025-03-29T07:27:15.782Z,65.4553,-153.3996,5.1,1.4,ml,,,,0.95,ak,ak02541nme8q,2025-03-29T07:29:24.066Z,"69 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-29T02:30:21.367Z,60.4043,-142.8753,0,1.2,ml,,,,1.13,ak,ak02541knvso,2025-03-29T02:32:47.697Z,"114 km S of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-29T02:27:51.050Z,33.3665,-116.8038333,-1.18,0.99,ml,11,121,0.206,0.3,ci,ci40912375,2025-03-29T02:32:31.145Z,"6 km ENE of Palomar Observatory, CA",earthquake,0.84,7.03,0.301,14,automatic,ci,ci
 2025-03-29T02:19:04.934Z,65.5088,-148.0856,3.6,0.9,ml,,,,0.7,ak,ak02541klhnh,2025-03-29T02:21:40.435Z,"21 km E of Livengood, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-03-29T02:11:07.359Z,12.5721,147.8001,10,5.2,mb,63,82,3.03,0.63,us,us7000pnig,2025-03-29T06:21:09.872Z,"Mariana Islands region",earthquake,8.39,1.87,0.07,68,reviewed,us,us
+2025-03-29T02:11:07.359Z,12.5721,147.8001,10,5.2,mb,63,82,3.03,0.63,us,us7000pnig,2025-03-29T08:21:13.876Z,"Mariana Islands region",earthquake,8.39,1.87,0.07,68,reviewed,us,us
 2025-03-29T02:00:17.690Z,35.151,-97.83066667,7.32,1.38,ml,49,104,0.03419329011,0.15,ok,ok2025gdct,2025-03-29T02:24:45.395Z,"4 km ESE of Amber, Oklahoma",earthquake,,0.3,0.25,23,reviewed,ok,ok
 2025-03-29T01:58:04.671Z,-20.3572,-178.1436,543.298,4.4,mb,48,112,4.438,0.72,us,us7000pnif,2025-03-29T02:36:40.040Z,"Fiji region",earthquake,12.74,8.265,0.05,116,reviewed,us,us
 2025-03-29T01:54:36.567Z,31.619,-104.281,6.8176,2.6,ml,44,70,0.1,0.1,tx,tx2025gdcn,2025-03-29T02:09:10.911Z,"57 km NW of Toyah, Texas",earthquake,0.56669198603285,0.73926434907361,0.2,31,reviewed,tx,tx
@@ -200,5 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-28T08:40:48.872Z,31.688,-104.412,5.5359,1.5,ml,14,67,0,0.2,tx,tx2025gbul,2025-03-28T15:31:37.831Z,"54 km S of Whites City, New Mexico",earthquake,0.87786952037994,1.0459508817735,0.2,6,reviewed,tx,tx
 2025-03-28T08:39:14.650Z,41.898,-112.3295,4.06,1.11,md,9,83,0.03151,0.2,uu,uu80104676,2025-03-28T15:47:20.990Z,"11 km SW of Portage, Utah",earthquake,0.49,1.14,0.080797826197516,6,reviewed,uu,uu
 2025-03-28T08:23:35.670Z,33.4615,-116.6148333,10.68,1.37,ml,49,41,0.03475,0.18,ci,ci40911967,2025-03-28T19:17:42.680Z,"12 km SSE of Anza, CA",earthquake,0.17,0.32,0.16,55,reviewed,ci,ci
-2025-03-28T08:20:23.370Z,38.835998535156,-122.83200073242,1.2599999904633,1.05,md,16,65,0.003756,0.02,nc,nc75156627,2025-03-28T08:21:58.275Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.469999999,0.11,16,automatic,nc,nc
-2025-03-28T08:12:45.730Z,41.502,-112.17716666667,5.07,0.18,md,9,171,0.104,0.11,uu,uu80003013,2025-03-28T18:37:58.430Z,"7 km SW of Corinne, Utah",earthquake,0.53,1.71,0.13064032090723,3,reviewed,uu,uu
