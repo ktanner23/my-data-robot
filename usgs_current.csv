@@ -42,7 +42,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-29T09:04:55.290Z,33.3836667,-116.9696667,8.21,0.62,ml,35,38,0.05228,0.23,ci,ci40912495,2025-03-29T09:09:26.382Z,"10 km ENE of Pala, CA",earthquake,0.24,0.7,0.102,17,automatic,ci,ci
 2025-03-29T08:53:16.290Z,38.819499969482,-122.84166717529,2.1500000953674,0.44,md,12,85,0.006318,0.01,nc,nc75157137,2025-03-29T08:54:54.906Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.75,0.32,12,automatic,nc,nc
 2025-03-29T08:49:26.582Z,39.0397,-119.008,0.2,1.8,ml,14,128.94,0.131,0.2045,nn,nn00895309,2025-03-29T08:51:45.186Z,"14 km ENE of Yerington, Nevada",earthquake,,6.5,0.28,7,automatic,nn,nn
-2025-03-29T08:34:22.451Z,36.5898,-116.262,12.3,0.2,ml,13,125.43,0.083,0.2851,nn,nn00895307,2025-03-29T08:36:04.562Z,"49 km NNW of Pahrump, Nevada",earthquake,,1,0.73,6,automatic,nn,nn
+2025-03-29T08:34:23.180Z,36.6005,-116.2832,7.1,0.2,ml,27,135.61,0.064,0.1042,nn,nn00895307,2025-03-29T14:16:03.255Z,"51 km NNW of Pahrump, Nevada",earthquake,,1,0.4,6,reviewed,nn,nn
 2025-03-29T08:25:51.025Z,59.8353,-153.2727,127,2.2,ml,,,,0.19,ak,ak02541o7h4u,2025-03-29T12:21:53.040Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-03-29T08:22:14.230Z,38.825332641602,-122.81066894531,3.670000076294,0.4,md,8,146,0.00199,0.02,nc,nc75157132,2025-03-29T08:23:48.818Z,"7 km NNW of The Geysers, CA",earthquake,0.67,1.64999998,0.18,8,automatic,nc,nc
 2025-03-29T08:17:13.276Z,-22.9212,-66.3807,232.952,4.3,mb,71,49,1.658,1.01,us,us7000pnk7,2025-03-29T12:13:36.040Z,"73 km WSW of Abra Pampa, Argentina",earthquake,5.19,7.528,0.091,34,reviewed,us,us
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-29T07:36:20.254Z,39.0421,-119.012,1.9,1.5,ml,12,128.69,0.129,0.1706,nn,nn00895303,2025-03-29T07:38:33.902Z,"14 km ENE of Yerington, Nevada",earthquake,,3.3,0.29,5,automatic,nn,nn
 2025-03-29T07:27:15.782Z,65.4553,-153.3996,5.1,1.4,ml,,,,0.95,ak,ak02541nme8q,2025-03-29T07:29:24.066Z,"69 km WNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-03-29T07:20:23.462Z,-34.968,-73.8212,10,4.1,mb,40,106,2.118,0.97,us,us7000pnjq,2025-03-29T07:52:12.040Z,"134 km WNW of Constitución, Chile",earthquake,4.87,1.924,0.214,6,reviewed,us,us
-2025-03-29T07:18:57.788Z,36.6116,-116.2789,7.1,0.7,ml,22,84.4,0.059,0.1969,nn,nn00895302,2025-03-29T07:21:06.534Z,"51 km NNW of Pahrump, Nevada",earthquake,,0.8,0.27,11,automatic,nn,nn
+2025-03-29T07:18:58.164Z,36.6026,-116.2827,7.3,0.7,ml,34,83.88,0.062,0.0875,nn,nn00895302,2025-03-29T14:06:37.747Z,"51 km NNW of Pahrump, Nevada",earthquake,,0.7,0.28,7,reviewed,nn,nn
 2025-03-29T07:17:36.478Z,36.6037,-116.2834,7.3,0.1,ml,24,133.67,0.061,0.1016,nn,nn00895301,2025-03-29T13:57:06.698Z,"51 km NNW of Pahrump, Nevada",earthquake,,1.1,0.56,6,reviewed,nn,nn
 2025-03-29T07:08:49.010Z,38.824001312256,-122.8048324585,2.1600000858307,0.28,md,9,80,0.004139,0.02,nc,nc75157127,2025-03-29T07:10:24.082Z,"7 km NNW of The Geysers, CA",earthquake,0.69,1.34000003,0.16,11,automatic,nc,nc
 2025-03-29T07:05:29.290Z,38.808498382568,-122.77283477783,1.25,1.07,md,15,79,0.00776,0.03,nc,nc75157122,2025-03-29T07:07:04.240Z,"4 km  of The Geysers, CA",earthquake,0.26,0.519999981,0.1,15,automatic,nc,nc
@@ -210,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-28T14:38:07.230Z,19.334,-155.182,28.94,1.77,ml,49,85,0.04677,0.11,hv,hv74643582,2025-03-28T22:41:40.000Z,"13 km SSE of Volcano, Hawaii",earthquake,0.5,0.42,0.40836018856192,32,reviewed,hv,hv
 2025-03-28T14:34:20.770Z,38.821334838867,-122.84233093262,2.3599998950958,1.49,md,28,103,0.005974,0.02,nc,nc75156682,2025-03-28T15:07:17.352Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.330000013,0.18,31,automatic,nc,nc
 2025-03-28T14:26:01.728Z,63.1944,-149.8961,89,2.2,ml,,,,0.56,ak,ak0254048u51,2025-03-28T20:21:56.202Z,"52 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-03-28T14:15:04.125Z,36.6339,-114.5346,16,1.6,ml,10,212.51,0.516,0.3748,nn,nn00895253,2025-03-28T14:17:40.812Z,"7 km SE of Moapa Town, Nevada",earthquake,,0.6,0.37,4,automatic,nn,nn
