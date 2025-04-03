@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T20:05:26.370Z,38.82799911499,-122.79599761963,1.0700000524521,0.77,md,10,94,0.01129,0.02,nc,nc75159497,2025-04-03T20:32:18.849Z,"6 km WNW of Cobb, CA",earthquake,0.31,1.26999998,0.14,10,automatic,nc,nc
 2025-04-03T19:42:13.480Z,38.820835113525,-122.80766296387,1.8799999952316,0.77,md,13,75,0.01607,0.01,nc,nc75159482,2025-04-03T21:42:17.319Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.910000026,0.08,14,automatic,nc,nc
 2025-04-03T19:38:09.629Z,61.7286,-150.9039,71.7,1.5,ml,,,,0.56,ak,ak0254a4iode,2025-04-03T19:40:32.778Z,"29 km NW of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-04-03T19:36:25.190Z,35.7658333,-117.608,9.24,0.9,ml,14,62,0.1345,0.18,ci,ci40915487,2025-04-03T19:42:58.837Z,"17 km NNE of Ridgecrest, CA",earthquake,0.38,1.35,0.213,11,automatic,ci,ci
+2025-04-03T19:36:24.900Z,35.7703333,-117.6041667,13.28,0.91,ml,12,76,0.1361,0.12,ci,ci40915487,2025-04-03T23:41:49.659Z,"18 km NNE of Ridgecrest, CA",earthquake,0.37,1.11,0.124,11,reviewed,ci,ci
 2025-04-03T19:25:00.320Z,38.819831848145,-122.84916687012,2.4100000858307,0.28,md,9,116,0.009775,0.03,nc,nc75159477,2025-04-03T19:42:16.517Z,"9 km NW of The Geysers, CA",earthquake,0.66,1.10000002,0.17,8,automatic,nc,nc
 2025-04-03T19:20:48.440Z,38.955501556396,-123.23466491699,4.3400001525879,2.42,md,29,92,0.03621,0.08,nc,nc75159467,2025-04-03T21:17:19.153Z,"13 km SE of Boonville, CA",earthquake,0.19,0.519999981,0.15,29,automatic,nc,nc
 2025-04-03T18:45:57.400Z,36.0108333,-117.9203333,2.78,0.36,ml,7,210,0.02447,0.07,ci,ci40915447,2025-04-03T23:17:48.555Z,"5 km SSE of Coso Junction, CA",earthquake,0.43,0.33,0.246,5,reviewed,ci,ci
@@ -253,7 +253,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T01:51:18.250Z,38.823166666667,-122.84233333333,1.7,-0.02,md,17,78,0.005705,0.01,nc,nc75159042,2025-04-03T09:48:40.922Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.53,0.371,17,reviewed,nc,nc
 2025-04-03T01:49:09.730Z,51.794333333333,-178.79216666667,12.33,0.43,ml,5,95,0.02496,0.12,av,av93559671,2025-04-03T03:14:37.430Z,"149 km W of Adak, Alaska",earthquake,1.7,0.69,0.26391420530744,5,reviewed,av,av
 2025-04-03T01:36:55.006Z,60.0423,-151.9322,59.6,1.5,ml,,,,0.44,ak,ak02549tsjjw,2025-04-03T01:39:35.418Z,"14 km W of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-04-03T01:34:19.720Z,33.554,-82.286166666667,0.08,1.93,md,9,109,0.5975,0.41,se,se60503443,2025-04-03T21:33:36.040Z,"14 km NW of Grovetown, Georgia",earthquake,0.88,3.99,0.015869321718092,8,reviewed,se,se
+2025-04-03T01:34:19.720Z,33.554,-82.286166666667,0.08,1.93,md,9,109,0.5975,0.41,se,se60503443,2025-04-03T23:41:15.412Z,"14 km NW of Grovetown, Georgia",earthquake,0.88,3.99,0.015869321718092,8,reviewed,se,se
 2025-04-03T01:32:36.821Z,36.6629,-116.2743,7,0.2,ml,31,81.26,0.055,0.079,nn,nn00895584,2025-04-03T14:21:34.484Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.21,7,reviewed,nn,nn
 2025-04-03T01:26:28.860Z,36.531665802002,-121.14499664307,2.2000000476837,2.01,md,30,44,0.05153,0.32,nc,nc75159032,2025-04-03T05:07:18.664Z,"0 km W of Pinnacles, CA",earthquake,0.48,1.95000005,0.16,25,automatic,nc,nc
 2025-04-03T01:25:37.384Z,39.4728,-119.4735,12.8,1,ml,10,155.86,0.274,0.1741,nn,nn00895608,2025-04-03T14:49:31.353Z,"13 km NW of Stagecoach, Nevada",earthquake,,7,0.11,3,reviewed,nn,nn
@@ -283,4 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-03T00:06:23.797Z,59.724,-153.0545,99.5,1.2,ml,,,,0.31,ak,ak02549t0m23,2025-04-03T00:08:40.905Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-02T23:59:15.500Z,36.0088333,-117.918,2.02,1.02,ml,15,67,0.0224,0.14,ci,ci40914927,2025-04-03T00:32:55.420Z,"5 km SE of Coso Junction, CA",earthquake,0.34,0.2,0.217,11,reviewed,ci,ci
 2025-04-02T23:52:42.658Z,64.449,-146.8896,7.5,0.7,ml,,,,0.13,ak,ak02548jg4vd,2025-04-02T23:54:13.582Z,"8 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-04-02T23:45:07.270Z,36.0981667,-117.8576667,2.48,1.37,ml,15,140,0.01951,0.13,ci,ci40914919,2025-04-03T00:11:54.420Z,"10 km NE of Coso Junction, CA",earthquake,0.28,0.2,0.201,12,reviewed,ci,ci
