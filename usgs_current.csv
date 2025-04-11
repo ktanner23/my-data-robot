@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-04-11T18:52:34.910Z,33.1651667,-116.3281667,9.69,0.59,ml,27,55,0.06799,0.21,ci,ci40923127,2025-04-11T18:56:13.300Z,"11 km SSE of Borrego Springs, CA",earthquake,0.29,0.89,0.122,8,automatic,ci,ci
 2025-04-11T18:25:01.430Z,33.6356667,-117.0075,10.41,1.48,ml,20,166,0.0144,0.08,ci,ci40923071,2025-04-11T18:28:40.748Z,"11 km SE of Winchester, CA",earthquake,0.44,0.29,0.165,27,automatic,ci,ci
 2025-04-11T18:24:31.429Z,54.8154,-156.9652,40.4,2.8,ml,,,,0.44,ak,ak0254nc52di,2025-04-11T18:27:06.632Z,"184 km SE of Perryville, Alaska",earthquake,,10,,,automatic,ak,ak
 2025-04-11T18:20:22.592Z,59.6378,-136.0246,1.9,2.5,ml,,,,1.03,ak,ak0254nc46tv,2025-04-11T18:22:55.358Z,"12 km NNE of Mosquito Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -17,7 +18,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T17:22:25.200Z,35.8643333,-117.6496667,5.06,1.83,ml,31,44,0.08339,0.17,ci,ci40922959,2025-04-11T17:33:07.480Z,"24 km ESE of Little Lake, CA",earthquake,0.17,0.92,0.163,26,automatic,ci,ci
 2025-04-11T17:21:45.680Z,35.866,-117.6531667,4.77,1.59,ml,23,47,0.08176,0.17,ci,ci40922943,2025-04-11T17:25:09.556Z,"24 km ESE of Little Lake, CA",earthquake,0.22,0.65,0.176,26,automatic,ci,ci
 2025-04-11T17:21:13.482Z,39.4212,-119.5837,14.4,1.2,ml,14,116.13,0.136,0.173,nn,nn00896086,2025-04-11T17:23:07.382Z,"13 km NNE of Virginia City, Nevada",earthquake,,0.9,0.17,8,automatic,nn,nn
-2025-04-11T17:19:31.100Z,38.3677,-117.5627,0,2,ml,8,155.01,0.535,0.2597,nn,nn00896085,2025-04-11T17:22:25.364Z,"44 km NW of Tonopah, Nevada",earthquake,,7.3,0.63,5,automatic,nn,nn
 2025-04-11T17:13:51.233Z,36.7622,-116.6763,1.9,0.3,ml,10,124.19,0.2,0.2049,nn,nn00896084,2025-04-11T17:15:45.678Z,"17 km SSE of Beatty, Nevada",earthquake,,0,0.31,6,automatic,nn,nn
 2025-04-11T17:07:01.210Z,35.883,-117.4748333,9.96,0.68,ml,9,258,0.2214,0.14,ci,ci40922903,2025-04-11T17:20:50.019Z,"14 km NNW of Searles Valley, CA",earthquake,1.09,1.47,0.149,10,reviewed,ci,ci
 2025-04-11T17:02:12.440Z,38.787666320801,-122.76750183106,2.4700000286102,0.25,md,8,154,0.01688,0.02,nc,nc75163746,2025-04-11T18:42:15.889Z,"2 km NNW of The Geysers, CA",earthquake,0.58,1.39999998,0.03,8,automatic,nc,nc
@@ -172,6 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-11T03:33:48.390Z,38.825668334961,-122.80899810791,2.9400000572205,0.77,md,14,70,0.002421,0.01,nc,nc75163391,2025-04-11T05:07:18.451Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.829999983,0.16,15,automatic,nc,nc
 2025-04-11T03:31:49.940Z,33.176,-115.6135,2.85,1.12,ml,16,54,0.002317,0.13,ci,ci40922127,2025-04-11T03:35:46.648Z,"11 km WNW of Calipatria, CA",earthquake,0.31,0.17,0.18,15,automatic,ci,ci
 2025-04-11T03:30:18.470Z,33.1811667,-115.6005,4.19,1.64,ml,41,44,0.01322,0.2,ci,ci40922119,2025-04-11T03:34:03.092Z,"10 km SW of Niland, CA",earthquake,0.21,0.51,0.216,29,automatic,ci,ci
+2025-04-11T03:30:12.010Z,33.1671667,-115.67,3.52,1.48,ml,7,245,0.04285,0.17,ci,ci40922111,2025-04-11T18:55:58.139Z,"15 km NNW of Westmorland, CA",earthquake,1.72,0.58,0.4,5,reviewed,ci,ci
 2025-04-11T03:23:02.780Z,33.9245,-116.9481667,13.63,1.15,ml,58,19,0.1548,0.14,ci,ci40922103,2025-04-11T17:33:41.070Z,"3 km ESE of Beaumont, CA",earthquake,0.12,0.38,0.163,27,reviewed,ci,ci
 2025-04-11T03:18:18.071Z,18.8695,145.4597,246.863,4.9,mb,80,81,3.622,0.94,us,us6000q5aq,2025-04-11T04:04:07.099Z,"Pagan region, Northern Mariana Islands",earthquake,10.16,7.378,0.028,416,reviewed,us,us
 2025-04-11T03:18:08.711Z,31.659,-104.458,6.2024,1.5,ml,21,71,0,0.1,tx,tx2025hayw,2025-04-11T14:12:22.993Z,"57 km S of Whites City, New Mexico",earthquake,0.81582303310207,0.50141320838707,0.2,28,reviewed,tx,tx
@@ -283,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-10T19:03:02.420Z,33.1521667,-116.6486667,3.11,0.49,ml,25,33,0.04687,0.23,ci,ci40921559,2025-04-10T19:08:05.794Z,"9 km NNW of Julian, CA",earthquake,0.3,0.71,0.176,10,automatic,ci,ci
 2025-04-10T19:02:59.550Z,38.795665740967,-122.79149627685,-0.61000001430511,1.83,md,25,77,0.01949,0.09,nc,nc75163111,2025-04-10T21:37:18.395Z,"4 km NW of The Geysers, CA",earthquake,0.19,0.800000012,0.1,24,automatic,nc,nc
 2025-04-10T18:59:37.720Z,61.1835,-147.0225,0,1.7,ml,,,,0.43,ak,ak0254lot8fg,2025-04-10T19:01:43.953Z,"36 km W of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-04-10T18:55:14.490Z,36.02666667,-96.533,0,1.72,ml,57,80,0.1862634488,0.32,ok,ok2025haig,2025-04-10T19:10:34.554Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.3,0.16,26,reviewed,ok,ok
-2025-04-10T18:52:24.740Z,33.1753333,-115.6063333,3.32,1.67,ml,36,43,0.008091,0.19,ci,ci40921543,2025-04-10T18:55:56.115Z,"10 km WNW of Calipatria, CA",earthquake,0.2,0.22,0.135,28,automatic,ci,ci
