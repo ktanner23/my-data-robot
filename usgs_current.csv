@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-13T17:22:10.760Z,36.03,-117.7786667,1.51,1.02,ml,19,77,0.01187,0.14,ci,ci40925031,2025-04-13T17:25:39.730Z,"15 km E of Coso Junction, CA",earthquake,0.19,0.17,0.103,19,automatic,ci,ci
 2025-04-13T17:19:42.092Z,58.1686,-155.3692,0.3,1.7,ml,,,,0.3,ak,ak0254qmla01,2025-04-13T17:21:56.224Z,"86 km NW of Karluk, Alaska",earthquake,,129.5,,,automatic,ak,ak
-2025-04-13T17:15:02.791Z,-44.1515,-82.0533,10,5,mww,49,143,6.175,1.1,us,us6000q5t8,2025-04-13T17:31:45.040Z,"West Chile Rise",earthquake,10.91,1.904,0.065,23,reviewed,us,us
+2025-04-13T17:15:02.631Z,-44.1913,-82.0541,10,5.1,mww,50,143,6.167,0.84,us,us6000q5t8,2025-04-13T17:38:30.040Z,"West Chile Rise",earthquake,10.84,1.904,0.066,22,reviewed,us,us
 2025-04-13T17:07:09.780Z,32.9305,-116.2706667,5.93,0.95,ml,34,43,0.03653,0.15,ci,ci40925015,2025-04-13T17:11:24.852Z,"27 km SSW of Ocotillo Wells, CA",earthquake,0.17,0.43,0.177,17,automatic,ci,ci
 2025-04-13T16:54:20.100Z,33.5061667,-116.4553333,5.57,0.77,ml,45,31,0.1233,0.19,ci,ci40925007,2025-04-13T16:59:30.877Z,"21 km ESE of Anza, CA",earthquake,0.17,0.83,0.145,20,automatic,ci,ci
 2025-04-13T16:53:40.870Z,33.28,-116.4406667,4.68,1.21,ml,57,26,0.02294,0.2,ci,ci40924999,2025-04-13T17:04:22.850Z,"7 km WNW of Borrego Springs, CA",earthquake,0.14,0.35,0.196,26,automatic,ci,ci
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-13T15:32:28.862Z,-21.741,-70.3343,55.451,4.6,mb,45,134,0.585,0.73,us,us6000q5sj,2025-04-13T15:48:37.040Z,"41 km NNW of Tocopilla, Chile",earthquake,5.43,6.939,0.053,106,reviewed,us,us
 2025-04-13T15:27:53.900Z,32.7851677,-115.8241653,9.76,1.33,ml,15,101,0.1037,0.3,ci,ci40924959,2025-04-13T15:31:15.997Z,"17 km ENE of Ocotillo, CA",earthquake,0.81,1.69,0.539,6,automatic,ci,ci
 2025-04-13T15:22:54.401Z,63.1299,-150.7751,113.7,1.8,ml,,,,0.18,ak,ak0254qlf2w0,2025-04-13T15:25:18.693Z,"65 km SE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-04-13T15:13:49.860Z,38.830833435059,-122.80133056641,1.6799999475479,1.4,md,27,41,0.01009,0.05,nc,nc75164636,2025-04-13T15:42:16.845Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.349999994,0.12,27,automatic,nc,nc
+2025-04-13T15:13:49.860Z,38.830833435059,-122.80133056641,1.6799999475479,1.4,md,27,41,0.01009,0.05,nc,nc75164636,2025-04-13T17:37:18.618Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.349999994,0.12,27,automatic,nc,nc
 2025-04-13T15:13:04.820Z,18.916666666667,-65.249833333333,35.45,3.29,md,23,232,0.6068,0.23,pr,pr71479098,2025-04-13T16:05:05.040Z,"68 km N of Culebra, Puerto Rico",earthquake,1.52,5.4,0.10159845840044,20,reviewed,pr,pr
 2025-04-13T15:12:36.050Z,38.786167144775,-122.764503479,1.7999999523163,1.9,md,36,82,0.01491,0.08,nc,nc75164631,2025-04-13T17:12:19.445Z,"1 km NNW of The Geysers, CA",earthquake,0.23,0.349999994,0.16,34,automatic,nc,nc
 2025-04-13T15:10:11.525Z,59.7557,-153.5467,135.7,2.3,ml,,,,0.2,ak,ak0254qlcezk,2025-04-13T15:35:20.040Z,"31 km E of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -208,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-12T17:56:41.771Z,60.8314,-149.0933,7.2,1.2,ml,,,,0.49,ak,ak0254oz9uz5,2025-04-12T17:59:15.036Z,"13 km SSE of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-04-12T17:52:21.393Z,63.0062,-150.7522,99.3,1.8,ml,,,,0.5,ak,ak0254oz8yjf,2025-04-12T17:54:23.424Z,"56 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-12T17:49:47.908Z,31.649,-104.314,5.3308,1.7,ml,17,69,0,0.3,tx,tx2025hdxc,2025-04-12T17:57:58.335Z,"58 km S of Whites City, New Mexico",earthquake,0,2.5941219329834,0.1,12,automatic,tx,tx
-2025-04-12T17:42:58.379Z,23.2469,124.6081,10,4.2,mb,27,118,1.178,0.86,us,us6000q5n9,2025-04-12T20:46:07.040Z,"129 km SSE of Ishigaki, Japan",earthquake,6.18,1.94,0.187,10,reviewed,us,us
-2025-04-12T17:41:43.370Z,35.355,-117.8088333,7.41,1.27,ml,32,37,0.09247,0.16,ci,ci40924295,2025-04-13T13:53:21.851Z,"16 km W of Johannesburg, CA",earthquake,0.21,0.79,0.174,27,reviewed,ci,ci
-2025-04-12T17:37:06.660Z,19.25283241272,-155.40133666992,31.860000610352,2.12,ml,52,84,0.01567,0.140000001,hv,hv74651877,2025-04-12T17:40:15.560Z,"9 km NE of Pāhala, Hawaii",earthquake,0.44,0.449999988,1.1,3,automatic,hv,hv
