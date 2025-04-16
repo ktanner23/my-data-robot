@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-16T08:30:54.310Z,33.2355,-116.0306667,10,1.07,ml,51,61,0.05821,0.21,ci,ci40929703,2025-04-16T08:35:05.801Z,"10 km SW of Salton City, CA",earthquake,0.19,0.47,0.148,24,automatic,ci,ci
 2025-04-16T08:23:02.660Z,38.827499389648,-122.81533050537,2.329999923706,0.25,md,11,64,0.005801,0.01,nc,nc75166171,2025-04-16T08:24:39.306Z,"8 km NNW of The Geysers, CA",earthquake,0.37,0.860000014,0.11,12,automatic,nc,nc
-2025-04-16T08:21:21.800Z,38.827667236328,-122.80616760254,0.99000000953674,0.36,md,5,160,0.005245,0.03,nc,nc75166166,2025-04-16T08:22:59.025Z,"7 km NNW of The Geysers, CA",earthquake,0.59,1.52999997,0.15,7,automatic,nc,nc
+2025-04-16T08:21:21.800Z,38.827667236328,-122.80616760254,0.99000000953674,0.36,md,5,160,0.005245,0.03,nc,nc75166166,2025-04-16T08:47:20.751Z,"7 km NNW of The Geysers, CA",earthquake,0.59,1.52999997,0.15,7,automatic,nc,nc
 2025-04-16T08:14:50.240Z,33.0438333,-116.4943333,12.45,0.44,ml,27,68,0.05776,0.14,ci,ci40929695,2025-04-16T08:18:17.700Z,"11 km ESE of Julian, CA",earthquake,0.21,0.43,0.091,8,automatic,ci,ci
 2025-04-16T08:08:29.240Z,33.8246667,-117.6791667,3.53,1.13,ml,46,42,0.0507,0.18,ci,ci40929687,2025-04-16T08:11:58.663Z,"12 km WSW of Corona, CA",earthquake,0.18,0.24,0.214,29,automatic,ci,ci
 2025-04-16T07:59:16.920Z,38.820667266846,-122.7620010376,2.1900000572205,0.78,md,8,130,0.01158,0.02,nc,nc75166156,2025-04-16T08:17:18.545Z,"3 km W of Cobb, CA",earthquake,0.44,0.860000014,0.09,9,automatic,nc,nc
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-16T01:30:54.200Z,33.0338333,-116.5881667,14,1.04,ml,54,33,0.04767,0.19,ci,ci40929447,2025-04-16T01:34:25.662Z,"5 km SSE of Julian, CA",earthquake,0.17,0.35,0.147,25,automatic,ci,ci
 2025-04-16T01:27:49.181Z,61.1711,-151.5562,71.4,1.1,ml,,,,0.17,ak,ak0254vbq42u,2025-04-16T01:29:05.693Z,"25 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-04-16T01:26:17.070Z,38.79666519165,-122.77549743652,3.079999923706,1.1,md,20,74,0.01031,0.02,nc,nc75165986,2025-04-16T04:47:19.142Z,"3 km NNW of The Geysers, CA",earthquake,0.27,0.589999974,0.14,20,automatic,nc,nc
-2025-04-16T01:26:09.783Z,37.6137,16.1457,48.482,4.7,mb,97,111,2.2,0.89,us,us6000q6cn,2025-04-16T08:01:03.646Z,"37 km SSE of Palizzi Marina, Italy",earthquake,6.85,7.963,0.063,77,reviewed,us,us
+2025-04-16T01:26:09.783Z,37.6137,16.1457,48.482,4.7,mb,97,111,2.2,0.89,us,us6000q6cn,2025-04-16T08:43:55.746Z,"37 km SSE of Palizzi Marina, Italy",earthquake,6.85,7.963,0.063,77,reviewed,us,us
 2025-04-16T01:16:33.680Z,34.2241667,-117.4613333,9.92,0.81,ml,31,51,0.02003,0.16,ci,ci40929431,2025-04-16T01:20:16.053Z,"5 km SE of Lytle Creek, CA",earthquake,0.3,0.34,0.139,22,automatic,ci,ci
 2025-04-16T01:15:01.530Z,38.787334442139,-122.7679977417,1.8300000429153,0.74,md,11,81,0.01477,0.02,nc,nc75165976,2025-04-16T01:42:18.880Z,"2 km NNW of The Geysers, CA",earthquake,0.3,0.620000005,0.09,10,automatic,nc,nc
 2025-04-16T01:03:46.491Z,62.9289,-149.0793,68.5,1.8,ml,,,,0.67,ak,ak0254vbkyon,2025-04-16T01:06:22.507Z,"51 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -261,6 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-15T09:11:24.300Z,36.021,-117.7815,1.49,0.43,ml,16,67,0.01382,0.13,ci,ci40928079,2025-04-15T14:16:42.401Z,"15 km NE of Little Lake, CA",earthquake,0.18,0.22,0.202,7,reviewed,ci,ci
 2025-04-15T09:02:44.552Z,51.2069,-179.5526,9.6,1.9,ml,,,,0.43,ak,ak0254tssv5z,2025-04-16T08:16:08.226Z,"215 km WSW of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-04-15T08:52:26.360Z,33.3581667,-116.4008333,12.97,0.6,ml,45,52,0.04217,0.21,ci,ci40928071,2025-04-15T14:16:43.402Z,"12 km NNW of Borrego Springs, CA",earthquake,0.22,0.49,0.12,17,reviewed,ci,ci
-2025-04-15T08:50:04.711Z,38.1638,-116.422,0.6,1.3,ml,16,155.36,0.516,0.1644,nn,nn00896252,2025-04-16T02:04:37.106Z,"71 km E of Tonopah, Nevada",earthquake,,3.4,0.18,7,reviewed,nn,nn
-2025-04-15T08:49:17.460Z,33.0498333,-116.5803333,15.5,0.79,ml,47,35,0.03426,0.23,ci,ci40928063,2025-04-15T08:52:50.491Z,"4 km SSE of Julian, CA",earthquake,0.24,0.53,0.093,18,automatic,ci,ci
-2025-04-15T08:47:26.328Z,59.9099,-153.3687,133.7,2,ml,,,,0.46,ak,ak0254tsh2d8,2025-04-16T08:16:02.920Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
