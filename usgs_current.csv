@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-04-23T18:40:22.680Z,35.9500008,-117.6783371,4.83,1.37,ml,13,83,0.02278,0.05,ci,ci40939079,2025-04-23T18:42:27.675Z,"21 km E of Little Lake, CA",earthquake,0.43,0.5,0.089,6,automatic,ci,ci
+2025-04-23T18:40:22.760Z,35.951,-117.6841667,4.05,1.25,ml,21,60,0.02759,0.1,ci,ci40939079,2025-04-23T18:43:52.473Z,"20 km E of Little Lake, CA",earthquake,0.15,0.27,0.103,22,automatic,ci,ci
 2025-04-23T18:39:41.973Z,35.9754,-115.483,2.1,1.2,ml,11,302.32,0.788,0.2049,nn,nn00896726,2025-04-23T18:42:15.044Z,"10 km SW of Blue Diamond, Nevada",earthquake,,20,0.54,6,automatic,nn,nn
 2025-04-23T18:15:29.490Z,18.689333333333,-66.459166666667,58.73,2.8,md,19,238,0.2214,0.13,pr,pr71479898,2025-04-23T18:37:48.280Z,"25 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.73,0.88,0.052689596771162,4,reviewed,pr,pr
 2025-04-23T18:06:26.430Z,33.0381667,-114.9923333,4.03,1.41,ml,13,75,0.06685,0.23,ci,ci40939039,2025-04-23T18:10:00.981Z,"44 km NE of Holtville, CA",earthquake,0.62,2.54,0.225,12,automatic,ci,ci
@@ -88,6 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-23T09:18:42.035Z,61.5704,-150.7557,59,1.5,ml,,,,0.51,ak,ak02557172dn,2025-04-23T09:21:17.443Z,"13 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-23T09:14:27.322Z,31.53,-104.003,6.0999,1.9,ml,15,56,0,0.1,tx,tx2025hxiq,2025-04-23T11:30:45.076Z,"31 km NW of Toyah, Texas",earthquake,1.1823517977061,0.8328492677981,0.1,13,reviewed,tx,tx
 2025-04-23T09:06:37.501Z,-21.9222,-68.5516,138.503,4.7,mb,30,69,0.653,1.19,us,us7000puff,2025-04-23T09:53:18.204Z,"70 km NNE of Calama, Chile",earthquake,7.35,8.031,0.12,21,reviewed,us,us
+2025-04-23T08:49:42.530Z,37.4575,-118.801,5.31,0.78,md,22,152,0.1183,0.07,nc,nc75170191,2025-04-23T18:45:01.715Z,"16 km SW of Toms Place, CA",earthquake,0.61,1.63,0.213,14,reviewed,nc,nc
 2025-04-23T08:42:08.420Z,35.5785,-118.073,10,0.96,ml,18,69,0.06899,0.12,ci,ci40938431,2025-04-23T14:21:32.140Z,"25 km WSW of Inyokern, CA",earthquake,0.2,0.52,0.252,14,reviewed,ci,ci
 2025-04-23T08:26:39.180Z,37.458831787109,-118.80833435059,6.1700000762939,2.2,md,25,194,0.132,0.07,nc,nc75170186,2025-04-23T10:32:19.339Z,"16 km SW of Toms Place, CA",earthquake,0.67,1.84000003,0.23,26,automatic,nc,nc
 2025-04-23T08:23:26.765Z,31.026,-103.712,2.2034,2,ml,10,84,0.2,0.3,tx,tx2025hxgy,2025-04-23T11:42:26.132Z,"5 km NE of Balmorhea, Texas",earthquake,0.97450710612999,1.2348021652344,0.1,6,reviewed,tx,tx
@@ -220,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-22T19:10:41.906Z,-7.4159,128.9263,143.201,4.4,mb,55,38,5.16,0.79,us,us7000pubs,2025-04-22T20:50:58.040Z,"245 km ENE of Lospalos, Timor Leste",earthquake,9.43,8.94,0.085,40,reviewed,us,us
 2025-04-22T19:09:52.070Z,33.7288333,-117.4328333,-0.66,1.4,ml,20,75,0.03781,0.24,ci,ci40937599,2025-04-22T21:00:56.353Z,"12 km NW of Lake Elsinore, CA",quarry blast,0.38,31.61,0.165,41,reviewed,ci,ci
 2025-04-22T19:01:30.170Z,46.008,-112.46066666667,-2,1.54,ml,10,70,0.06537,0.16,mb,mb90079738,2025-04-22T22:11:59.610Z,"5 km E of Butte, Montana",quarry blast,0.52,31.61,0.38817919913575,22,reviewed,mb,mb
-2025-04-22T18:46:10.291Z,61.3388,-152.3376,9.2,1.2,ml,,,,0.41,ak,ak02555j6jxh,2025-04-22T18:47:35.929Z,"70 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-04-22T18:45:00.202Z,36.3515,-114.8947,0,1.1,ml,11,212.58,0.954,0.3832,nn,nn00896691,2025-04-22T23:49:02.671Z,"18 km NE of Nellis Air Force Base, Nevada",explosion,,68.6,0.14,8,automatic,nn,nn
-2025-04-22T18:44:15.110Z,18.802,-64.5565,50.63,3.2,md,12,291,0.3846,0.13,pr,pr71479748,2025-04-22T20:32:42.040Z,"57 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,2.63,2.64,0.22727711312406,5,reviewed,pr,pr
