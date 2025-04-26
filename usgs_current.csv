@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-26T15:31:36.790Z,33.0551667,-116.59,14.21,0.84,ml,33,43,0.02651,0.25,ci,ci41135480,2025-04-26T15:35:08.388Z,"3 km SSE of Julian, CA",earthquake,0.29,0.52,0.165,19,automatic,ci,ci
 2025-04-26T15:31:18.210Z,36.627166748047,-121.27083587647,6.1300001144409,1.62,md,13,67,0.03884,0.18,nc,nc75171901,2025-04-26T16:07:17.256Z,"16 km NW of Pinnacles, CA",earthquake,0.61,1.45000005,0.27,10,automatic,nc,nc
 2025-04-26T15:29:30.180Z,38.794998168945,-122.77916717529,3.2799999713898,0.26,md,8,95,0.007076,0.02,nc,nc75171896,2025-04-26T15:47:21.134Z,"3 km NW of The Geysers, CA",earthquake,0.64,1.85000002,0.04,8,automatic,nc,nc
-2025-04-26T15:27:36.400Z,36.0845,-117.862,2.8,2.03,ml,25,49,0.03351,0.18,ci,ci41135472,2025-04-26T15:31:14.550Z,"9 km ENE of Coso Junction, CA",earthquake,0.21,0.56,0.269,24,automatic,ci,ci
+2025-04-26T15:27:36.400Z,36.0845,-117.862,2.8,1.89,ml,25,49,0.03351,0.18,ci,ci41135472,2025-04-26T16:47:47.076Z,"9 km ENE of Coso Junction, CA",earthquake,0.21,0.56,0.213,27,reviewed,ci,ci
 2025-04-26T15:21:47.850Z,34.1515,-118.3523333,16.59,1.83,ml,65,30,0.0256,0.18,ci,ci41135456,2025-04-26T15:32:59.420Z,"1 km N of Universal City, CA",earthquake,0.19,0.27,0.201,27,automatic,ci,ci
 2025-04-26T15:18:37.583Z,63.7628,-158.765,89.2,2.3,ml,,,,0.36,ak,ak0255c3dp5a,2025-04-26T15:21:21.096Z,"62 km S of Kaltag, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-04-26T15:03:09.640Z,19.254833333333,-66.053666666667,20.11,3.12,md,8,325,0.8953,0.1,pr,pr71480363,2025-04-26T15:27:48.760Z,"87 km N of San Juan, Puerto Rico",earthquake,0.87,11.65,0.11506402317889,5,reviewed,pr,pr
@@ -162,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T20:10:43.367Z,58.1639,-153.1571,45.1,1.7,ml,,,,0.45,ak,ak0255airrjf,2025-04-25T21:15:34.572Z,"18 km NW of Aleneva, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2025-04-25T20:08:20.485Z,58.1434,-153.2934,19.9,2.1,ml,,,,0.27,ak,ak0255airc74,2025-04-25T20:11:35.256Z,"24 km WNW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-04-25T20:06:52.980Z,38.832500457764,-122.80316925049,6.3899998664856,0.82,md,7,95,0.01057,0.05,nc,nc75171491,2025-04-25T20:32:17.475Z,"7 km WNW of Cobb, CA",earthquake,1.17,1.72000003,0.52,8,automatic,nc,nc
-2025-04-25T19:58:58.802Z,38.4822,-117.6105,3,2.9,ml,12,79.1,0.047,0.1299,nn,nn00896808,2025-04-25T20:28:25.881Z,"44 km ENE of Mina, Nevada",earthquake,,2.3,0.36,7,reviewed,nn,nn
+2025-04-25T19:58:58.802Z,38.4822,-117.6105,3,2.9,ml,12,79.1,0.047,0.1299,nn,nn00896808,2025-04-26T16:43:01.040Z,"44 km ENE of Mina, Nevada",earthquake,,2.3,0.36,7,reviewed,nn,nn
 2025-04-25T19:47:29.650Z,38.804164886475,-122.7808303833,1.4400000572205,1.05,md,15,77,0.009082,0.02,nc,nc75171476,2025-04-25T20:22:19.479Z,"4 km NNW of The Geysers, CA",earthquake,0.23,0.460000008,0.12,16,automatic,nc,nc
 2025-04-25T19:39:49.082Z,60.0999,-153.3784,144.5,1.1,ml,,,,0.19,ak,ak0255aiclzw,2025-04-25T19:41:53.049Z,"53 km ESE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-04-25T19:20:38.604Z,38.4819,-117.6077,3.3,2.6,ml,11,81.66,0.048,0.1412,nn,nn00896803,2025-04-26T15:35:58.040Z,"44 km ENE of Mina, Nevada",earthquake,,2,0.34,7,reviewed,nn,nn
@@ -194,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T16:57:24.530Z,38.841167449951,-122.83799743652,1.6900000572205,0.24,md,7,99,0.003236,0,nc,nc75171376,2025-04-25T17:42:18.314Z,"10 km NNW of The Geysers, CA",earthquake,0.56,1.77999997,0.12,8,automatic,nc,nc
 2025-04-25T16:53:16.130Z,38.827667236328,-122.8048324585,1.5700000524521,0.71,md,12,74,0.005913,0.01,nc,nc75171371,2025-04-25T17:32:20.331Z,"7 km NNW of The Geysers, CA",earthquake,0.24,0.769999981,0.14,14,automatic,nc,nc
 2025-04-25T16:50:42.269Z,59.9279,-151.0946,35.2,2,ml,,,,0.67,ak,ak0255agmnj6,2025-04-25T16:52:31.416Z,"10 km NW of Fox River, Alaska",earthquake,,17.3,,,automatic,ak,ak
-2025-04-25T16:47:13.535Z,31.654,-104.297,4.6175,1.5,ml,17,87,0,0.3,tx,tx2025ibos,2025-04-25T16:56:28.247Z,"58 km S of Whites City, New Mexico",earthquake,0,1.2866805791855,0.2,12,automatic,tx,tx
-2025-04-25T16:43:26.450Z,38.830833435059,-122.83750152588,10.60000038147,0.85,md,7,208,0.007902,0.1,nc,nc75171366,2025-04-25T17:22:26.180Z,"9 km NW of The Geysers, CA",earthquake,2.96,9.53999996,0.15,8,automatic,nc,nc
