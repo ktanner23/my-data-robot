@@ -60,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-26T11:30:30.861Z,61.3063,-150.9946,53.9,1.2,ml,,,,0.4,ak,ak0255c12isu,2025-04-26T11:32:48.903Z,"19 km NNE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-04-26T11:25:25.770Z,33.5311667,-116.7218333,5.52,0.96,ml,45,27,0.0365,0.17,ci,ci41135016,2025-04-26T11:30:17.951Z,"5 km WSW of Anza, CA",earthquake,0.14,0.43,0.191,28,automatic,ci,ci
 2025-04-26T11:04:52.180Z,33.6721667,-116.7565,15.69,0.41,ml,20,67,0.05596,0.11,ci,ci41135008,2025-04-26T11:08:19.821Z,"8 km SSW of Idyllwild, CA",earthquake,0.23,0.42,0.166,7,automatic,ci,ci
-2025-04-26T10:54:41.880Z,37.3775,-118.74,6.99,0.8,md,23,184,0.2061,0.07,nc,nc75171796,2025-04-26T17:57:20.953Z,"13 km W of Round Valley, CA",earthquake,0.55,2.14,0.211,13,reviewed,nc,nc
+2025-04-26T10:54:41.880Z,37.3775,-118.74,6.99,0.8,md,23,184,0.2061,0.07,nc,nc75171796,2025-04-26T19:22:19.511Z,"13 km W of Round Valley, CA",earthquake,0.55,2.14,0.211,13,reviewed,nc,nc
 2025-04-26T10:47:25.200Z,38.819000244141,-122.81883239746,2.6500000953674,0.77,md,7,195,0.01295,0.02,nc,nc75171786,2025-04-26T11:42:20.470Z,"7 km NW of The Geysers, CA",earthquake,0.44,0.769999981,0.03,9,automatic,nc,nc
 2025-04-26T10:47:24.100Z,34.2036667,-117.4736667,3.4,0.98,ml,29,72,0.02193,0.19,ci,ci41135000,2025-04-26T10:51:54.720Z,"7 km SSE of Lytle Creek, CA",earthquake,0.27,0.36,0.38,31,automatic,ci,ci
 2025-04-26T10:46:42.230Z,37.759666442871,-121.75700378418,21.680000305176,1.59,md,12,74,0.04032,0.06,nc,nc75171781,2025-04-26T12:57:18.969Z,"9 km NNE of Livermore, CA",earthquake,0.55,1.23000002,0.2,11,automatic,nc,nc
@@ -79,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-26T09:09:35.620Z,35.7693333,-117.5901667,7.97,1.02,ml,23,60,0.1334,0.15,ci,ci41134936,2025-04-26T09:12:57.082Z,"17 km W of Searles Valley, CA",earthquake,0.22,0.91,0.083,17,automatic,ci,ci
 2025-04-26T08:52:46.068Z,58.7703,-154.9601,121.9,2.2,ml,,,,0.47,ak,ak0255bzeyrt,2025-04-26T17:08:54.135Z,"75 km S of Kokhanok, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-04-26T08:44:36.370Z,46.8715,-112.53116666667,9.97,0.1,ml,9,142,0.05236,0.12,mb,mb90080238,2025-04-26T13:37:55.610Z,"14 km SE of Lincoln, Montana",earthquake,0.65,0.68,0.078115350524508,4,reviewed,mb,mb
-2025-04-26T08:44:26.170Z,33.6923333,-118.1515,14.04,2.7,ml,123,88,0.1054,0.27,ci,ci41134928,2025-04-26T18:14:59.889Z,"7 km SW of Seal Beach, CA",earthquake,0.27,0.39,0.244,26,reviewed,ci,ci
+2025-04-26T08:44:26.170Z,33.6923333,-118.1515,14.04,2.7,ml,123,88,0.1054,0.27,ci,ci41134928,2025-04-26T19:20:46.415Z,"7 km SW of Seal Beach, CA",earthquake,0.27,0.39,0.244,26,reviewed,ci,ci
 2025-04-26T08:18:49.973Z,60.4593,-147.0335,19.9,1.7,ml,,,,0.56,ak,ak0255bz7ov9,2025-04-26T08:21:11.864Z,"49 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-04-26T08:08:55.742Z,53.6604,-163.7728,35,3.3,ml,15,208,1.216,0.23,us,us7000pv7h,2025-04-26T17:01:39.518Z,"134 km S of False Pass, Alaska",earthquake,6.31,2.019,0.097,14,reviewed,us,us
 2025-04-26T08:05:56.519Z,57.8371,-155.405,103.413,2.5,ml,35,78,0.771,0.51,us,us7000pv7g,2025-04-26T08:22:35.040Z,"64 km WNW of Karluk, Alaska",earthquake,5.78,14.289,0.049,55,reviewed,us,us
@@ -191,4 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-25T19:58:58.802Z,38.4822,-117.6105,3,2.9,ml,12,79.1,0.047,0.1299,nn,nn00896808,2025-04-26T16:43:01.040Z,"44 km ENE of Mina, Nevada",earthquake,,2.3,0.36,7,reviewed,nn,nn
 2025-04-25T19:47:29.650Z,38.804164886475,-122.7808303833,1.4400000572205,1.05,md,15,77,0.009082,0.02,nc,nc75171476,2025-04-25T20:22:19.479Z,"4 km NNW of The Geysers, CA",earthquake,0.23,0.460000008,0.12,16,automatic,nc,nc
 2025-04-25T19:39:49.082Z,60.0999,-153.3784,144.5,1.1,ml,,,,0.19,ak,ak0255aiclzw,2025-04-25T19:41:53.049Z,"53 km ESE of Port Alsworth, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-04-25T19:20:38.604Z,38.4819,-117.6077,3.3,2.6,ml,11,81.66,0.048,0.1412,nn,nn00896803,2025-04-26T15:35:58.040Z,"44 km ENE of Mina, Nevada",earthquake,,2,0.34,7,reviewed,nn,nn
