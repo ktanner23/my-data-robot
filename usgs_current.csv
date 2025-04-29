@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-04-29T21:57:31.620Z,38.8125,-122.80833435059,2.9800000190735,0.78,md,12,55,0.01096,0.01,nc,nc75173846,2025-04-29T21:59:09.963Z,"6 km NW of The Geysers, CA",earthquake,0.35,0.980000019,0.12,13,automatic,nc,nc
-2025-04-29T21:57:26.040Z,39.266834259033,-123.30766296387,3.420000076294,1.47,md,7,123,0.06121,0.02,nc,nc75173841,2025-04-29T21:59:05.411Z,"9 km WNW of Redwood Valley, CA",earthquake,0.34,2.36999989,0.09,7,automatic,nc,nc
+2025-04-29T21:57:26.040Z,39.266834259033,-123.30766296387,3.420000076294,1.47,md,7,123,0.06121,0.02,nc,nc75173841,2025-04-29T22:12:18.143Z,"9 km WNW of Redwood Valley, CA",earthquake,0.34,2.36999989,0.09,7,automatic,nc,nc
 2025-04-29T21:41:34.960Z,19.413833618164,-155.26516723633,1.210000038147,1.98,ml,28,92,0.005287,0.209999993,hv,hv74662757,2025-04-29T21:44:39.440Z,"4 km SW of Volcano, Hawaii",earthquake,0.2,0.170000002,0.17,19,automatic,hv,hv
 2025-04-29T21:34:58.447Z,61.227,-150.4602,103,1.4,ml,,,,0.79,ak,ak0255h5ntbo,2025-04-29T21:37:08.729Z,"29 km WSW of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-04-29T21:27:51.838Z,63.5985,-148.1514,0,1,ml,,,,0.64,ak,ak0255h5masv,2025-04-29T21:34:43.536Z,"40 km ESE of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-29T08:54:44.380Z,40.742333333333,-112.0405,6.58,-0.06,md,9,102,0.01576,0.15,uu,uu80003213,2025-04-29T17:02:19.120Z,"6 km NE of Magna, Utah",earthquake,0.5,1.18,0.32602810106224,5,reviewed,uu,uu
 2025-04-29T08:17:23.369Z,33.4831,81.902,10,5.2,mb,110,47,7.948,0.82,us,us7000pvry,2025-04-29T09:06:11.918Z,"western Xizang",earthquake,8.76,1.845,0.04,206,reviewed,us,us
 2025-04-29T08:09:58.180Z,48.317833333333,-122.09633333333,12.61,1.35,ml,25,58,0.07317,0.15,uw,uw62090152,2025-04-29T17:38:26.410Z,"5 km W of Lake Cavanaugh, Washington",earthquake,0.36,0.68,0.12294357226582,12,reviewed,uw,uw
-2025-04-29T08:03:40.782Z,60.7454,-150.0185,40.5,4.7,ml,,,,0.7,ak,ak0255gxqhup,2025-04-29T21:43:22.398Z,"28 km SW of Hope, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-04-29T08:03:40.782Z,60.7454,-150.0185,40.5,4.7,ml,,,,0.7,ak,ak0255gxqhup,2025-04-29T22:07:33.190Z,"28 km SW of Hope, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-04-29T08:01:12.850Z,38.831832885742,-122.87566375732,2.9400000572205,1.68,md,35,68,0.008816,0.03,nc,nc75173551,2025-04-29T09:47:18.175Z,"12 km NW of The Geysers, CA",earthquake,0.23,0.340000004,0.14,34,automatic,nc,nc
 2025-04-29T07:51:22.625Z,-20.7739,-68.7931,91.349,4.8,mb,64,51,0.702,0.97,us,us7000pvrq,2025-04-29T16:34:41.804Z,"75 km NW of Ollagüe, Chile",earthquake,5.14,4.997,0.034,267,reviewed,us,us
 2025-04-29T07:48:53.916Z,32.13,-101.491,6.5674,1.2,ml,26,48,0,0.1,tx,tx2025iiev,2025-04-29T15:15:10.393Z,"11 km W of Forsan, Texas",earthquake,0.84546387334911,0.97426185562176,0,6,reviewed,tx,tx
@@ -209,12 +209,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-28T23:12:51.162Z,64.8668,-147.9633,11.6,1.2,ml,,,,0.84,ak,ak0255fj6lor,2025-04-28T23:21:27.944Z,"3 km NE of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-28T23:01:43.077Z,64.9781,-147.3664,4.1,1.2,ml,,,,0.42,ak,ak0255fj4883,2025-04-28T23:03:20.600Z,"12 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-04-28T23:01:07.230Z,41.896833333333,-112.4905,1.21,2.06,ml,19,114,0.128,0.12,uu,uu80106486,2025-04-29T13:12:02.590Z,"11 km NNW of Howell, Utah",earthquake,0.33,2.3,0.13474857628827,4,reviewed,uu,uu
+2025-04-28T23:00:34.760Z,60.483,-152.79166666667,6.5,-0.75,ml,4,164,0.02601,0.27,av,av93590521,2025-04-29T22:10:02.990Z,"78 km NW of Ninilchik, Alaska",earthquake,1.36,1.89,0.27389275019218,4,reviewed,av,av
 2025-04-28T22:51:03.750Z,38.78116607666,-122.76983642578,3.789999961853,1.31,md,30,87,0.01091,0.03,nc,nc75173361,2025-04-28T23:52:17.232Z,"1 km WNW of The Geysers, CA",earthquake,0.27,0.449999988,0.16,28,automatic,nc,nc
 2025-04-28T22:50:02.450Z,57.433,-153.4897,46.7,1.7,ml,,,,0.27,ak,ak0255fit7kl,2025-04-28T22:52:22.390Z,"27 km NNW of Old Harbor, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-04-28T22:35:21.955Z,57.6253,-154.5443,50.9,1.6,ml,,,,0.29,ak,ak0255fiq1c3,2025-04-28T22:38:17.363Z,"8 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-04-28T22:30:26.867Z,61.8157,-150.1072,32.7,1.4,ml,,,,0.8,ak,ak0255fioz4u,2025-04-28T22:32:42.514Z,"8 km NNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-04-28T22:27:56.780Z,48.414666666667,-123.55716666667,-0.2,0.41,md,6,223,0.1546,0.07,uw,uw62090012,2025-04-28T22:40:17.150Z,"3 km NNW of Metchosin, Canada",explosion,0.76,31.61,0.34809607568828,5,reviewed,uw,uw
 2025-04-28T22:16:21.230Z,38.793998718262,-122.76850128174,4.0500001907349,0.69,md,8,160,0.0152,0.01,nc,nc75173356,2025-04-28T23:17:21.001Z,"2 km NNW of The Geysers, CA",earthquake,0.8,1.69000006,0.25,9,automatic,nc,nc
-2025-04-28T22:13:11.909Z,39.5285,-119.6497,9.8,1.9,ml,13,180.56,0.119,0.1287,nn,nn00896912,2025-04-28T23:22:02.979Z,"8 km E of Sparks, Nevada",explosion,,1.2,0.28,7,automatic,nn,nn
-2025-04-28T22:11:17.020Z,35.3246667,-117.8046667,7.3,1.37,ml,32,35,0.0663,0.16,ci,ci41138744,2025-04-29T20:45:01.021Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.63,0.12,23,reviewed,ci,ci
-2025-04-28T22:06:37.924Z,60.8798,-150.5181,17.3,1.6,ml,,,,0.73,ak,ak0255fijusw,2025-04-28T22:08:34.428Z,"10 km ESE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
