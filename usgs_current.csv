@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T14:24:06.410Z,35.3526667,-117.8025,7.58,1.68,ml,35,65,0.09214,0.16,ci,ci41141696,2025-05-01T14:34:32.480Z,"15 km W of Johannesburg, CA",earthquake,0.17,0.69,0.267,27,reviewed,ci,ci
 2025-05-01T14:22:01.720Z,35.3516667,-117.8073333,7.73,2.63,ml,47,36,0.08975,0.17,ci,ci41141680,2025-05-01T14:35:49.563Z,"16 km W of Johannesburg, CA",earthquake,0.16,0.63,0.114,25,automatic,ci,ci
 2025-05-01T14:18:43.790Z,33.5336667,-116.7231667,5.62,0.58,ml,21,40,0.03378,0.15,ci,ci41141672,2025-05-01T14:22:25.462Z,"5 km WSW of Anza, CA",earthquake,0.19,0.47,0.18,18,automatic,ci,ci
-2025-05-01T14:12:53.710Z,35.3526667,-117.8035,7.45,3.4,ml,52,37,0.09182,0.17,ci,ci41141664,2025-05-01T15:13:09.114Z,"16 km W of Johannesburg, CA",earthquake,0.15,0.6,0.164,260,reviewed,ci,ci
+2025-05-01T14:12:53.710Z,35.3526667,-117.8035,7.45,3.4,ml,52,37,0.09182,0.17,ci,ci41141664,2025-05-01T15:35:28.040Z,"16 km W of Johannesburg, CA",earthquake,0.15,0.6,0.164,260,reviewed,ci,ci
 2025-05-01T14:01:08.064Z,61.7874,-150.0586,24.7,2.2,ml,,,,0.49,ak,ak0255kcdak6,2025-05-01T14:02:55.199Z,"4 km NNW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-01T13:57:17.390Z,38.805000305176,-122.75133514404,0.5,0.77,md,8,179,0.007869,0.02,nc,nc75174531,2025-05-01T14:57:15.660Z,"3 km WSW of Cobb, CA",earthquake,0.51,0.709999979,0.2,9,automatic,nc,nc
 2025-05-01T13:55:18.512Z,60.1353,-152.7809,106.3,1.9,ml,,,,0.45,ak,ak0255kc3gff,2025-05-01T14:06:55.616Z,"62 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-01T06:18:26.270Z,38.84366607666,-122.83083343506,1.4099999666214,0.68,md,8,166,0.006238,0.01,nc,nc75174386,2025-05-01T07:32:18.656Z,"10 km WNW of Cobb, CA",earthquake,0.57,0.910000026,0.12,9,automatic,nc,nc
 2025-05-01T06:15:55.699Z,57.6279,-156.2885,143.3,1.9,ml,,,,0.8,ak,ak0255k7oxf5,2025-05-01T06:17:17.104Z,"67 km E of Ugashik, Alaska",earthquake,,8.8,,,automatic,ak,ak
 2025-05-01T06:12:55.710Z,33.4825,-116.512,13.2,0.12,ml,22,50,0.07636,0.17,ci,ci41141336,2025-05-01T06:16:25.823Z,"17 km ESE of Anza, CA",earthquake,0.29,0.59,0.032,2,automatic,ci,ci
-2025-05-01T06:11:18.930Z,40.317333333333,-111.30416666667,13.8,4.15,mw,48,107,0.271,0.2,uu,uu80106731,2025-05-01T15:22:42.179Z,"4 km WNW of Independence, Utah",earthquake,0.37,0.48,,13,reviewed,uu,uu
+2025-05-01T06:11:18.930Z,40.317333333333,-111.30416666667,13.8,4.15,mw,48,107,0.271,0.2,uu,uu80106731,2025-05-01T15:33:09.915Z,"4 km WNW of Independence, Utah",earthquake,0.37,0.48,,13,reviewed,uu,uu
 2025-05-01T06:07:29.123Z,60.6334,-151.0464,56.8,1.8,ml,,,,0.25,ak,ak0255k7n5n4,2025-05-01T06:09:25.209Z,"11 km N of Ridgeway, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-05-01T06:04:31.930Z,-9.5409,159.6111,41.946,5.3,mww,54,80,0.347,1.47,us,us7000pwb3,2025-05-01T10:30:33.727Z,"20 km NW of Malango, Solomon Islands",earthquake,8.32,7.938,0.08,15,reviewed,us,us
 2025-05-01T05:59:03.130Z,38.804000854492,-122.78566741943,-0.11999999731779,0.78,md,8,122,0.008507,0.03,nc,nc75174381,2025-05-01T06:57:17.400Z,"4 km NNW of The Geysers, CA",earthquake,0.32,0.569999993,0.07,10,automatic,nc,nc
@@ -207,7 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-04-30T15:49:17.677Z,31.664,-104.374,6.7151,1.6,ml,30,66,0,0.1,tx,tx2025ikqf,2025-04-30T20:08:30.186Z,"56 km S of Whites City, New Mexico",earthquake,0.76796318656281,0.61310954858773,0.2,31,reviewed,tx,tx
 2025-04-30T15:42:59.590Z,33.5055,-116.4891667,12.8,1.06,ml,49,60,0.09506,0.17,ci,ci41140584,2025-04-30T22:16:23.960Z,"18 km ESE of Anza, CA",earthquake,0.17,0.4,0.189,25,reviewed,ci,ci
 2025-04-30T15:40:15.450Z,33.506,-116.4858333,13.15,0.86,ml,29,62,0.09788,0.16,ci,ci41140576,2025-04-30T20:25:00.848Z,"18 km ESE of Anza, CA",earthquake,0.21,0.52,0.173,18,reviewed,ci,ci
-2025-04-30T15:33:40.140Z,33.4975,-116.5003333,13.07,0.83,ml,31,59,0.08517,0.15,ci,ci41140568,2025-04-30T20:30:38.880Z,"17 km ESE of Anza, CA",earthquake,0.21,0.45,0.159,18,reviewed,ci,ci
-2025-04-30T15:30:12.310Z,19.4145,-155.26383333333,1.88,1.94,ml,13,101,0.004439,0.11,hv,hv74663207,2025-04-30T18:10:08.700Z,"4 km SW of Volcano, Hawaii",earthquake,0.31,0.46,0.18379124618284,9,reviewed,hv,hv
-2025-04-30T15:29:58.170Z,61.197833333333,-152.51883333333,10.06,0.3,ml,6,145,0.07835,0.06,av,av93591921,2025-04-30T21:30:58.240Z,"75 km W of Tyonek, Alaska",earthquake,0.37,0.59,0.17858042714704,7,reviewed,av,av
-2025-04-30T15:28:14.952Z,31.998,-103.825,7.702,2.1,ml,30,45,0,0.1,tx,tx2025ikpm,2025-05-01T11:28:52.639Z,"34 km SE of Malaga, New Mexico",earthquake,0.29427010781002,0.36286409820442,0.2,30,reviewed,tx,tx
