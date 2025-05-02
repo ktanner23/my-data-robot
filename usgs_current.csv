@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-02T23:43:19.590Z,34.3103333,-116.4505005,7.61,1.17,ml,23,70,0.05931,0.15,ci,ci41143408,2025-05-02T23:45:39.391Z,"22 km N of Yucca Valley, CA",earthquake,0.31,0.79,0.139,5,automatic,ci,ci
+2025-05-02T23:43:19.560Z,34.3098333,-116.45,7.78,1.22,ml,33,70,0.05876,0.13,ci,ci41143408,2025-05-02T23:46:49.493Z,"22 km N of Yucca Valley, CA",earthquake,0.15,0.4,0.128,28,automatic,ci,ci
 2025-05-02T23:40:01.794Z,60.3,-152.9035,120.4,1.6,ml,,,,0.42,ak,ak0255m5hvxv,2025-05-02T23:42:43.527Z,"73 km WNW of Ninilchik, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-05-02T23:14:55.463Z,60.5389,-150.5436,13.8,1.6,ml,,,,0.46,ak,ak0255m5cfgq,2025-05-02T23:16:59.634Z,"12 km E of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-05-02T22:59:40.400Z,19.969166666667,-155.29883333333,31,3.58,ml,62,147,0.05899,0.14,hv,hv74664712,2025-05-02T23:36:58.146Z,"6 km WSW of Laupāhoehoe, Hawaii",earthquake,0.4,0.63,0.18266834463187,49,reviewed,hv,hv
+2025-05-02T22:59:40.400Z,19.969166666667,-155.29883333333,31,3.58,ml,62,147,0.05899,0.14,hv,hv74664712,2025-05-02T23:51:47.155Z,"6 km WSW of Laupāhoehoe, Hawaii",earthquake,0.4,0.63,0.18266834463187,49,reviewed,hv,hv
 2025-05-02T22:44:08.984Z,60.546,-150.5616,8.2,1.7,ml,,,,0.55,ak,ak0255m4xbr6,2025-05-02T22:46:04.534Z,"11 km E of Sterling, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-02T22:21:20.164Z,63.0929,-151.4644,1,1.7,ml,,,,0.24,ak,ak0255m4sf5c,2025-05-02T22:22:51.153Z,"51 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-02T22:16:50.330Z,38.819332122803,-122.81099700928,2.6500000953674,1.11,md,29,41,0.004121,0.02,nc,nc75175546,2025-05-02T23:22:19.440Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.13,29,automatic,nc,nc
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T13:09:40.566Z,-57.2338,-67.1691,10,5.7,mb,122,100,3.875,0.59,us,us7000pwkz,2025-05-02T15:53:51.873Z,"279 km SSE of Ushuaia, Argentina",earthquake,7.85,1.776,0.057,110,reviewed,us,us
 2025-05-02T13:07:45.997Z,-56.7882,-68.0954,10,5.4,mb,69,112,3.242,0.35,us,us7000pwl1,2025-05-02T15:58:23.365Z,"220 km S of Ushuaia, Argentina",earthquake,9.5,1.853,0.076,59,reviewed,us,us
 2025-05-02T13:03:15.370Z,38.766166687012,-122.74199676514,1.6699999570847,0.82,md,7,96,0.01357,0.02,nc,nc75175241,2025-05-02T14:17:21.894Z,"2 km SE of The Geysers, CA",earthquake,0.53,0.790000021,0.23,9,automatic,nc,nc
-2025-05-02T12:58:26.322Z,-56.7817,-68.2085,10,7.4,mww,63,69,3.21,0.98,us,us7000pwkn,2025-05-02T23:43:29.349Z,"2025 Drake Passage Earthquake",earthquake,8.99,1.861,0.042,54,reviewed,us,us
+2025-05-02T12:58:26.322Z,-56.7817,-68.2085,10,7.4,mww,63,69,3.21,0.98,us,us7000pwkn,2025-05-02T23:53:54.862Z,"2025 Drake Passage Earthquake",earthquake,8.99,1.861,0.042,54,reviewed,us,us
 2025-05-02T12:57:28.562Z,39.0615,-119.02,6,1.2,ml,19,92.62,0.082,0.1748,nn,nn00897124,2025-05-02T14:22:32.616Z,"14 km NE of Yerington, Nevada",earthquake,,2,0.19,7,reviewed,nn,nn
 2025-05-02T12:37:03.212Z,58.591,-154.3554,7.4,1.6,ml,,,,0.35,ak,ak0255lyxh8x,2025-05-02T12:38:39.583Z,"97 km SSE of Kokhanok, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-05-02T12:31:13.750Z,33.0501667,-116.4605,8.18,0.96,ml,41,61,0.03291,0.18,ci,ci41142880,2025-05-02T17:54:26.110Z,"14 km ESE of Julian, CA",earthquake,0.2,0.71,0.22,19,reviewed,ci,ci
@@ -208,7 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T04:18:59.553Z,60.8956,-150.1527,38,1.7,ml,,,,0.51,ak,ak0255lu225f,2025-05-02T04:21:07.018Z,"27 km W of Hope, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-05-02T04:12:41.104Z,-58.9669,-24.9214,10,4.8,mb,37,180,15.574,0.91,us,us7000pwi5,2025-05-02T04:32:52.040Z,"South Sandwich Islands region",earthquake,16.92,1.951,0.091,37,reviewed,us,us
 2025-05-02T04:11:50.234Z,31.6542,-40.9182,10,5,mb,85,63,20.171,0.8,us,us7000pwi4,2025-05-02T04:27:19.040Z,"northern Mid-Atlantic Ridge",earthquake,11.18,1.881,0.028,394,reviewed,us,us
-2025-05-02T04:05:30.940Z,19.3361,-64.6395,56,3.9,md,18,287,0.9213,0.48,pr,pr2025122000,2025-05-02T04:32:21.860Z,"112 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.1,12.56,0.08,11,reviewed,pr,pr
+2025-05-02T04:05:30.940Z,19.3361,-64.6395,56,3.9,md,18,287,0.9213,0.48,pr,pr2025122000,2025-05-02T23:45:55.040Z,"112 km N of Cruz Bay, U.S. Virgin Islands",earthquake,5.1,12.56,0.08,11,reviewed,pr,pr
 2025-05-02T04:05:24.630Z,33.923,-116.6228333,10.07,0.74,ml,27,62,0.1158,0.16,ci,ci41142600,2025-05-02T17:57:31.660Z,"8 km WNW of Garnet, CA",earthquake,0.22,0.72,0.177,22,reviewed,ci,ci
 2025-05-02T04:01:04.220Z,38.778499603271,-122.74900054932,5.3000001907349,0.78,md,10,109,0.0107,0.05,nc,nc75175021,2025-05-02T04:22:16.000Z,"1 km E of The Geysers, CA",earthquake,0.72,2.28999996,0.08,10,automatic,nc,nc
 2025-05-02T03:53:51.380Z,45.816666666667,-111.12416666667,4.19,0.77,ml,11,136,0.08077,0.26,mb,mb90081233,2025-05-02T22:48:28.570Z,"6 km NE of Belgrade, Montana",earthquake,1.37,7.95,0.18070261862969,8,reviewed,mb,mb
@@ -257,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T00:03:42.150Z,48.1935,-118.0195,-0.8,1.56,md,3,178,0.06634,0.36,uw,uw62091677,2025-05-02T18:09:01.820Z,"17 km SE of Inchelium, Washington",explosion,9.04,31.61,0.057696372914313,4,reviewed,uw,uw
 2025-05-02T00:03:36.760Z,38.819831848145,-122.83899688721,1.4800000190735,0.73,md,16,111,0.004512,0.02,nc,nc75174886,2025-05-02T01:32:17.844Z,"9 km NW of The Geysers, CA",earthquake,0.23,0.430000007,0.13,17,automatic,nc,nc
 2025-05-02T00:01:35.270Z,33.8153333,-117.6893333,7.62,0.31,ml,8,123,0.06976,0.14,ci,ci41142440,2025-05-02T16:52:23.354Z,"11 km ENE of North Tustin, CA",earthquake,0.56,0.71,0.082,4,reviewed,ci,ci
-2025-05-01T23:49:48.550Z,38.848999023438,-122.81666564941,1.6799999475479,0.45,md,10,143,0.007693,0.03,nc,nc75174881,2025-05-02T00:07:17.294Z,"9 km WNW of Cobb, CA",earthquake,0.6,1.48000002,0.28,10,automatic,nc,nc
