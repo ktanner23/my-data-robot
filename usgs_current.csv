@@ -1,13 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-03T15:44:53.370Z,34.2841667,-117.497,11.51,1.32,ml,52,25,,0.19,ci,ci41143928,2025-05-03T15:48:26.046Z,"3 km N of Lytle Creek, CA",earthquake,0.19,0.38,0.251,30,automatic,ci,ci
-2025-05-03T15:34:10.160Z,38.822834014893,-122.84432983398,2.2599999904633,0.92,md,17,104,0.00727,0.01,nc,nc75175981,2025-05-03T15:47:19.911Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.5,0.17,18,automatic,nc,nc
+2025-05-03T15:34:10.160Z,38.822834014893,-122.84432983398,2.2599999904633,0.92,md,17,104,0.00727,0.01,nc,nc75175981,2025-05-03T16:12:20.070Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.5,0.17,18,automatic,nc,nc
 2025-05-03T15:33:58.920Z,34.5808333,-117.7813333,8.76,1.65,ml,68,61,,0.18,ci,ci41143920,2025-05-03T15:44:51.440Z,"6 km SE of Lake Los Angeles, CA",earthquake,0.15,0.36,0.189,25,automatic,ci,ci
 2025-05-03T15:15:22.826Z,60.0951,-145.4394,1.7,2.2,ml,,,,0.59,ak,ak0255no4gbe,2025-05-03T15:17:34.865Z,"52 km SSE of Cordova, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-03T14:58:34.360Z,60.5794,-152.0863,77.9,1.7,ml,,,,0.22,ak,ak0255nns9e4,2025-05-03T15:00:03.737Z,"42 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-03T14:50:14.693Z,-0.6213,-77.9596,10,4.6,mb,28,88,0.244,0.93,us,us7000pwwy,2025-05-03T15:46:16.040Z,"36 km NNW of Archidona, Ecuador",earthquake,4.34,1.943,0.064,73,reviewed,us,us
 2025-05-03T14:41:32.337Z,-57.1289,-67.701,10,4.6,mb,25,147,3.644,0.96,us,us7000pwwx,2025-05-03T16:02:38.040Z,"260 km S of Ushuaia, Argentina",earthquake,9.78,1.876,0.12,21,reviewed,us,us
 2025-05-03T14:38:32.989Z,59.8151,-153.144,94.9,1.9,ml,,,,0.29,ak,ak0255nnnyyq,2025-05-03T14:40:35.754Z,"54 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-03T14:29:25.620Z,39.413333892822,-123.35717010498,1.8500000238419,2.19,md,21,73,0.05765,0.07,nc,nc75175966,2025-05-03T15:27:15.793Z,"0 km  of Willits, CA",earthquake,0.23,8.93999958,0.14,17,automatic,nc,nc
+2025-05-03T14:29:25.620Z,39.413333892822,-123.35717010498,1.8500000238419,2.19,md,21,73,0.05765,0.07,nc,nc75175966,2025-05-03T16:09:08.307Z,"0 km  of Willits, CA",earthquake,0.23,8.93999958,0.14,17,automatic,nc,nc
 2025-05-03T14:25:13.700Z,39.0878,-119.0158,9,0.8,ml,9,85.28,0.083,0.197,nn,nn00897181,2025-05-03T14:27:24.771Z,"17 km NE of Yerington, Nevada",earthquake,,0.8,0.16,4,automatic,nn,nn
 2025-05-03T14:23:40.315Z,61.6993,-149.8182,32,2.1,ml,,,,0.65,ak,ak0255nnkrsf,2025-05-03T14:25:56.337Z,"7 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-03T14:22:35.470Z,38.830833435059,-122.81349945068,2.0099999904633,1.36,md,28,42,0.007895,0.02,nc,nc75175956,2025-05-03T14:57:17.599Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.379999995,0.16,29,automatic,nc,nc
@@ -97,6 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-03T03:59:25.600Z,17.965166666667,-66.896,11.5,2.32,md,8,198,0.01392,0.08,pr,pr71481223,2025-05-03T04:06:46.630Z,"1 km ESE of Guánica, Puerto Rico",earthquake,0.65,0.39,0.12653821723226,6,reviewed,pr,pr
 2025-05-03T03:57:53.720Z,45.804666666667,-111.85616666667,11.76,0.29,ml,6,90,0.03667,0.1,mb,mb90081303,2025-05-03T13:16:57.110Z,"9 km SE of Cardwell, Montana",earthquake,0.43,0.89,0.13570490074686,5,reviewed,mb,mb
 2025-05-03T03:54:09.280Z,44.3585,-116.11766666667,6.61,1.81,ml,7,145,0.05943,0.05,mb,mb90081298,2025-05-03T13:11:10.460Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,0.45,1.1,0.1299285353848,11,reviewed,mb,mb
+2025-05-03T03:48:25.530Z,17.924166666667,-66.8375,9.35,2.36,md,9,222,0.05622,0.06,pr,pr71481238,2025-05-03T16:19:34.970Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.77,0.39,0.051299915940192,4,reviewed,pr,pr
 2025-05-03T03:43:35.850Z,38.803333282471,-122.81716918945,0.0099999997764826,1.09,md,11,161,0.01089,0.15,nc,nc75175736,2025-05-03T03:59:04.873Z,"6 km NW of The Geysers, CA",earthquake,0.53,1.25999999,0.16,12,automatic,nc,nc
 2025-05-03T03:41:47.840Z,19.18416595459,-155.4940032959,31.040000915527,2.32,ml,54,133,0.04155,0.119999997,hv,hv74664847,2025-05-03T04:10:45.040Z,"2 km SW of Pāhala, Hawaii",earthquake,0.49,0.600000024,1.18,13,automatic,hv,hv
 2025-05-03T03:41:36.740Z,33.6911667,-116.7885,16.11,0.52,ml,24,68,0.06783,0.13,ci,ci41143600,2025-05-03T03:50:14.348Z,"8 km SW of Idyllwild, CA",earthquake,0.26,0.5,0.22,13,automatic,ci,ci
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-02T16:38:29.481Z,-56.9984,-68.3772,10,4.2,mb,13,144,3.374,0.52,us,us7000pwp5,2025-05-02T17:45:48.040Z,"243 km S of Ushuaia, Argentina",earthquake,15.07,1.936,0.199,7,reviewed,us,us
 2025-05-02T16:25:25.358Z,-57.3571,-67.4626,10,4.5,mb,27,146,3.907,0.63,us,us7000pwp2,2025-05-02T16:41:33.040Z,"288 km S of Ushuaia, Argentina",earthquake,12.76,1.948,0.116,22,reviewed,us,us
 2025-05-02T16:25:04.060Z,38.82799911499,-122.85266876221,1.8200000524521,2.33,md,55,57,0.003315,0.07,nc,nc75175351,2025-05-03T00:46:24.712Z,"10 km NW of The Geysers, CA",earthquake,0.16,0.219999999,0.16,62,automatic,nc,nc
-2025-05-02T16:16:53.190Z,38.837333679199,-122.82066345215,0.91000002622604,0.31,md,7,135,0.01619,0.04,nc,nc75175341,2025-05-02T17:22:25.118Z,"9 km WNW of Cobb, CA",earthquake,0.49,1.23000002,0.21,7,automatic,nc,nc
