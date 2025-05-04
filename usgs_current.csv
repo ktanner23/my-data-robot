@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T23:28:16.070Z,38.818332672119,-122.76750183106,2.0699999332428,0.58,md,8,101,0.01148,0.01,nc,nc75176516,2025-05-04T23:29:50.743Z,"4 km W of Cobb, CA",earthquake,0.46,0.790000021,0.19,9,automatic,nc,nc
 2025-05-04T23:23:11.010Z,38.831165313721,-122.80100250244,1.7699999809265,0.76,md,14,85,0.01051,0.03,nc,nc75176511,2025-05-04T23:24:45.733Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.670000017,0.17,14,automatic,nc,nc
 2025-05-04T23:15:10.900Z,32.4265,-115.1751667,13.04,2.23,ml,29,58,0.05995,0.33,ci,ci41144784,2025-05-04T23:18:40.394Z,"8 km NNE of Delta, B.C., MX",earthquake,0.44,0.94,0.184,28,automatic,ci,ci
-2025-05-04T23:09:30.590Z,37.465831756592,-118.82583618164,-0.40999999642372,1.25,md,13,233,0.124,0.03,nc,nc75176501,2025-05-04T23:22:17.559Z,"17 km WSW of Toms Place, CA",earthquake,0.82,7.57999992,0.24,13,automatic,nc,nc
+2025-05-04T23:09:30.590Z,37.465831756592,-118.82583618164,-0.40999999642372,1.25,md,13,233,0.124,0.03,nc,nc75176501,2025-05-04T23:37:22.657Z,"17 km WSW of Toms Place, CA",earthquake,0.82,7.57999992,0.24,13,automatic,nc,nc
 2025-05-04T23:07:06.360Z,31.588,-104.51,3.6899,1.8,ml,8,152,0.1,0.2,tx,tx2025isms,2025-05-04T23:15:32.563Z,"66 km S of Whites City, New Mexico",earthquake,0,2.2203598022461,0.1,6,automatic,tx,tx
 2025-05-04T22:38:21.562Z,31.684,-104.357,4.6439,2,ml,18,67,0.1,0.2,tx,tx2025isls,2025-05-04T22:53:19.004Z,"54 km S of Whites City, New Mexico",earthquake,0,1.29601085186,0.2,14,automatic,tx,tx
 2025-05-04T22:22:29.930Z,64.9461,-149.186,0,1.1,ml,,,,0.68,ak,ak0255pfvclt,2025-05-04T22:24:09.733Z,"24 km SSE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T01:56:22.878Z,31.634,-104.457,5.9275,2.2,ml,15,104,0,0.5,tx,tx2025iqwv,2025-05-04T02:27:50.780Z,"60 km S of Whites City, New Mexico",earthquake,0,4.2362775802612,0.1,12,automatic,tx,tx
 2025-05-04T01:54:10.180Z,-32.4971,-178.7563,71.198,5,mb,27,183,3.319,0.67,us,us7000pwzz,2025-05-04T02:21:37.040Z,"south of the Kermadec Islands",earthquake,13.72,11.092,0.141,17,reviewed,us,us
 2025-05-04T01:50:14.479Z,63.2505,-148.9315,78.1,2,ml,,,,0.58,ak,ak0255p3j7rb,2025-05-04T01:52:37.315Z,"15 km S of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-05-04T01:47:05.553Z,31.647,-104.458,7.5354,5.4,ml,12,69,0,0.1,tx,tx2025iqwk,2025-05-04T23:20:42.231Z,"59 km S of Whites City, New Mexico",earthquake,2.0135156122329,0.63320682144029,0.1,35,reviewed,tx,tx
+2025-05-04T01:47:05.553Z,31.647,-104.458,7.5354,5.4,ml,12,69,0,0.1,tx,tx2025iqwk,2025-05-04T23:34:38.123Z,"59 km S of Whites City, New Mexico",earthquake,2.0135156122329,0.63320682144029,0.1,35,reviewed,tx,tx
 2025-05-04T01:45:08.200Z,33.6776667,-116.7138333,15.57,0.73,ml,27,58,0.03451,0.14,ci,ci41144320,2025-05-04T14:49:09.209Z,"7 km S of Idyllwild, CA",earthquake,0.22,0.36,0.204,18,reviewed,ci,ci
 2025-05-04T01:24:26.640Z,38.833000183105,-122.80016326904,1.8500000238419,1.49,md,33,37,0.00938,0.04,nc,nc75176151,2025-05-04T02:22:17.214Z,"7 km WNW of Cobb, CA",earthquake,0.18,0.280000001,0.12,32,automatic,nc,nc
 2025-05-04T01:14:00.592Z,-57.3968,-67.2986,10,4.8,mb,31,146,3.983,1.03,us,us7000pwzm,2025-05-04T01:48:53.040Z,"294 km SSE of Ushuaia, Argentina",earthquake,15.01,1.938,0.109,26,reviewed,us,us
@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T00:26:28.895Z,52.2192,-168.4218,10,4.7,mb,75,135,0.799,1.16,us,us7000pwzd,2025-05-04T02:29:41.201Z,"85 km SSE of Nikolski, Alaska",earthquake,4.83,1.602,0.041,181,reviewed,us,us
 2025-05-04T00:00:14.468Z,-32.0008,-178.1833,35,5.1,mb,19,167,2.739,1.15,us,us7000pwzg,2025-05-04T01:21:43.040Z,"south of the Kermadec Islands",earthquake,9.89,1.962,0.143,16,reviewed,us,us
 2025-05-03T23:51:37.500Z,35.873,-92.918333333333,2.76,2.38,md,13,94,0.4851,0.26,nm,nm60503563,2025-05-04T15:39:07.630Z,"14 km NE of Pelsor, Arkansas",earthquake,0.5,2.07,0.054534779754745,13,reviewed,nm,nm
-2025-05-03T23:37:56.027Z,39.6467,-119.3563,12.1,1.4,ml,16,130.85,0.348,0.1902,nn,nn00897188,2025-05-03T23:40:29.162Z,"6 km WNW of Wadsworth, Nevada",earthquake,,1.1,0.33,10,automatic,nn,nn
