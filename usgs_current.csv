@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-05T19:17:58.851Z,60.5514,-152.4553,90.6,2.2,ml,,,,0.46,ak,ak0255r1ldru,2025-05-05T19:20:18.398Z,"62 km W of Salamatof, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2025-05-05T19:17:19.739Z,32.425,-102.12,6.1275,1.6,ml,28,167,0,0.3,tx,tx2025iubb,2025-05-05T19:23:00.655Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,2.2563178539276,0.2,18,automatic,tx,tx
+2025-05-05T19:17:19.739Z,32.425,-102.12,6.1275,1.6,ml,28,167,0,0.3,tx,tx2025iubb,2025-05-05T19:23:13.663Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,2.2563178539276,0.2,18,automatic,tx,tx
 2025-05-05T18:48:32.260Z,35.6653328,-117.4798355,7.52,1.76,ml,13,72,0.0457,0.11,ci,ci41145248,2025-05-05T18:51:59.901Z,"13 km SSW of Searles Valley, CA",earthquake,0.48,0.85,0.34,3,automatic,ci,ci
 2025-05-05T18:48:01.409Z,35.92266667,-95.16083333,0,1.59,ml,58,105,0.2681473803,0.4,ok,ok2025itzp,2025-05-05T19:01:23.153Z,"2 km WSW of Hulbert, Oklahoma",quarry blast,,0.4,0.22,15,reviewed,ok,ok
 2025-05-05T18:35:23.800Z,33.4681667,-116.884,11.88,0.79,ml,35,36,0.02663,0.19,ci,ci41145240,2025-05-05T18:38:56.807Z,"3 km NNW of Aguanga, CA",earthquake,0.2,0.55,0.113,22,automatic,ci,ci
@@ -153,7 +153,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T22:38:21.456Z,31.691,-104.361,7.7917,2,ml,15,67,0.1,0.1,tx,tx2025isls,2025-05-05T13:27:22.151Z,"53 km S of Whites City, New Mexico",earthquake,0.93922109154756,1.3053019787961,0.2,14,reviewed,tx,tx
 2025-05-04T22:36:06.599Z,36.5145,-113.9755,12.3,2.4,ml,5,167.94,0.637,0.1823,nn,nn00897217,2025-05-05T18:11:12.076Z,"31 km S of Scenic, Arizona",earthquake,,6.1,0,1,reviewed,nn,nn
 2025-05-04T22:22:29.930Z,64.9461,-149.186,0,1.1,ml,,,,0.68,ak,ak0255pfvclt,2025-05-04T22:24:09.733Z,"24 km SSE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-05-04T21:31:13.880Z,33.8771667,-117.8096667,2.46,1.73,ml,16,66,0.04654,0.13,ci,ci41144768,2025-05-05T05:52:45.949Z,"1 km SSE of Yorba Linda, CA",earthquake,0.6,0.7,0.35,40,automatic,ci,ci
+2025-05-04T22:00:34.950Z,47.958666666667,-122.40683333333,29.05,1.03,ml,9,132,0.0238,0.17,uw,uw62093422,2025-05-05T19:25:45.630Z,"4 km WSW of Clinton, Washington",earthquake,0.76,0.61,0.046580865234712,2,reviewed,uw,uw
+2025-05-04T21:31:13.220Z,33.8291667,-117.8668333,7.24,0.79,ml,13,140,0.06446,0.19,ci,ci41144768,2025-05-05T19:27:03.371Z,"2 km ESE of Anaheim, CA",earthquake,0.61,0.82,0.17,6,reviewed,ci,ci
+2025-05-04T21:24:01.360Z,49.342166666667,-120.4985,-0.51,1.96,ml,9,210,0.5715,0.32,uw,uw62093372,2025-05-05T19:27:47.330Z,"12 km S of Princeton, Canada",explosion,2.45,31.61,0.16798050591137,7,reviewed,uw,uw
 2025-05-04T21:17:15.780Z,38.791667938232,-122.80216979981,5.8899998664856,0.24,md,8,97,0.00341,0.04,nc,nc75176491,2025-05-04T21:32:18.900Z,"4 km WNW of The Geysers, CA",earthquake,0.76,1.78999996,0.02,7,automatic,nc,nc
 2025-05-04T21:14:51.293Z,36.8325,142.0025,35,4.4,mb,44,154,3.063,0.57,us,us7000px58,2025-05-04T22:25:10.040Z,"102 km ESE of Iwaki, Japan",earthquake,8.17,1.946,0.102,28,reviewed,us,us
 2025-05-04T21:05:50.782Z,64.1795,-152.9136,0,1.6,ml,,,,1.08,ak,ak0255pf6bfq,2025-05-04T21:08:39.994Z,"44 km NW of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -167,5 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-04T20:17:58.561Z,38.1645,-117.9891,8.8,1.5,ml,9,146.69,0.035,0.1978,nn,nn00897215,2025-05-04T20:20:41.781Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.36,5,automatic,nn,nn
 2025-05-04T19:59:41.673Z,31.655,-104.421,6.0999,2.1,ml,17,71,0,0.2,tx,tx2025isgz,2025-05-05T13:44:09.279Z,"57 km S of Whites City, New Mexico",earthquake,0.78513468316354,0.53675089869012,0.1,13,reviewed,tx,tx
 2025-05-04T19:57:35.843Z,34.853,24.1738,41.261,4.1,mb,42,221,0.73,0.93,us,us7000px4q,2025-05-04T20:45:04.040Z,"8 km ENE of Kastrí, Greece",earthquake,8.08,8.834,0.094,31,reviewed,us,us
-2025-05-04T19:28:26.290Z,37.479167938232,-118.84033203125,-0.20000000298023,1.53,md,17,150,0.111,0.04,nc,nc75176441,2025-05-04T20:32:18.469Z,"17 km WSW of Toms Place, CA",earthquake,0.61,6.86999989,0.16,16,automatic,nc,nc
-2025-05-04T19:26:23.970Z,36.501335144043,-120.99749755859,7.5199999809265,2.01,md,31,68,0.067,0.22,nc,nc75176431,2025-05-04T19:47:19.195Z,"13 km ESE of Pinnacles, CA",earthquake,0.37,1.25,0.19,31,automatic,nc,nc
