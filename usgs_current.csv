@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-07T19:29:27.690Z,38.80933380127,-122.78233337402,1.3600000143051,0.98,md,6,194,0.004126,0,nc,nc75178021,2025-05-07T19:31:05.101Z,"4 km NNW of The Geysers, CA",earthquake,1.32,0.819999993,0.4,9,automatic,nc,nc
+2025-05-07T19:29:27.690Z,38.80933380127,-122.78233337402,1.3600000143051,0.98,md,6,194,0.004126,0,nc,nc75178021,2025-05-07T19:47:18.130Z,"4 km NNW of The Geysers, CA",earthquake,1.32,0.819999993,0.4,9,automatic,nc,nc
 2025-05-07T19:27:00.220Z,38.831832885742,-122.80850219727,2.2599999904633,1.03,md,22,50,0.008515,0.02,nc,nc75178016,2025-05-07T19:42:19.011Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.479999989,0.23,25,automatic,nc,nc
 2025-05-07T19:21:19.580Z,35.6783333,-117.4851667,6.37,1.33,ml,12,109,0.05175,0.16,ci,ci41147032,2025-05-07T19:27:33.611Z,"12 km SW of Searles Valley, CA",earthquake,0.5,0.91,0.166,6,automatic,ci,ci
 2025-05-07T19:04:32.234Z,32.321,-102.233,5.9706,2.2,ml,6,185,0,0.5,tx,tx2025ixrm,2025-05-07T19:12:05.843Z,"27 km E of McKinney Acres, Texas",earthquake,0,5.1207513809204,0.2,6,automatic,tx,tx
@@ -24,6 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-07T17:07:53.900Z,33.7398333,-117.4336667,2.06,1.17,ml,9,116,0.03553,0.14,ci,ci41146832,2025-05-07T17:15:08.882Z,"13 km NW of Lake Elsinore, CA",earthquake,0.44,0.52,0.329,38,automatic,ci,ci
 2025-05-07T17:05:20.050Z,33.986,-118.6978333,15.1,1.46,ml,13,219,0.08755,0.14,ci,ci41146824,2025-05-07T18:11:05.218Z,"5 km S of Malibu Beach, CA",earthquake,0.53,0.54,0.21,7,reviewed,ci,ci
 2025-05-07T17:02:14.789Z,41.9108,-119.5756,11.6,2.1,ml,5,216.61,0.354,0.1508,nn,nn00897341,2025-05-07T17:21:19.828Z,"48 km E of Fort Bidwell, California",earthquake,,4.5,0.41,4,reviewed,nn,nn
+2025-05-07T16:59:37.030Z,54.754,-163.995,5.25,0.42,ml,4,102,0.04466,0.16,av,av93599741,2025-05-07T19:49:24.180Z,"39 km WSW of False Pass, Alaska",earthquake,0.61,1.6,0.29690758341988,4,reviewed,av,av
 2025-05-07T16:53:34.400Z,43.355166666667,-110.86516666667,8.83,0.77,ml,7,220,0.1323,0.09,mb,mb90083103,2025-05-07T18:56:54.800Z,"9 km SW of South Park, Wyoming",earthquake,0.76,1.4,0.13050981261674,5,reviewed,mb,mb
 2025-05-07T16:51:10.320Z,35.3458333,-117.8041667,9.09,0.93,ml,11,78,0.08533,0.09,ci,ci41146816,2025-05-07T18:07:40.768Z,"16 km W of Johannesburg, CA",earthquake,0.21,0.65,0.186,4,reviewed,ci,ci
 2025-05-07T16:46:05.022Z,61.3986,-151.2517,70.9,1.4,ml,,,,0.26,ak,ak0255ub1vpy,2025-05-07T16:47:29.003Z,"30 km NNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -62,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-07T14:23:57.169Z,62.3928,-148.3707,26.4,1.8,ml,,,,0.52,ak,ak0255u9q72c,2025-05-07T14:26:23.622Z,"66 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-07T14:20:51.580Z,44.717,-111.07433333333,12.32,0.65,ml,9,77,0.06444,0.09,uu,uu80107291,2025-05-07T18:19:08.400Z,"6 km NNE of West Yellowstone, Montana",earthquake,0.52,1.11,0.28528307542151,2,reviewed,uu,uu
 2025-05-07T14:20:14.120Z,61.9102,-147.6172,19.6,0.9,ml,,,,0.82,ak,ak0255u9pglg,2025-05-07T14:22:28.399Z,"11 km N of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2025-05-07T14:16:29.500Z,35.3566667,-117.8135,8.36,1.23,ml,29,64,0.09288,0.16,ci,ci41146648,2025-05-07T14:19:59.335Z,"16 km W of Johannesburg, CA",earthquake,0.2,0.72,0.162,26,automatic,ci,ci
+2025-05-07T14:16:29.430Z,35.355,-117.809,8.5,1.26,ml,33,37,0.09242,0.16,ci,ci41146648,2025-05-07T19:47:48.600Z,"16 km W of Johannesburg, CA",earthquake,0.18,0.6,0.184,20,reviewed,ci,ci
 2025-05-07T14:06:53.460Z,41.846833333333,-112.76383333333,6.57,2.36,ml,19,198,0.06763,0.13,uu,uu80107286,2025-05-07T14:51:05.100Z,"13 km SSW of Snowville, Utah",earthquake,0.61,0.54,0.1638475724146,7,reviewed,uu,uu
 2025-05-07T13:52:58.140Z,44.714166666667,-111.08016666667,10.24,1.27,ml,12,79,0.06944,0.14,uu,uu80107281,2025-05-07T18:31:32.410Z,"6 km NNE of West Yellowstone, Montana",earthquake,0.43,0.84,0.35299164905121,4,reviewed,uu,uu
 2025-05-07T13:50:42.428Z,60.182,-151.7023,67.2,1.6,ml,,,,0.57,ak,ak0255u9ainm,2025-05-07T13:52:42.176Z,"14 km N of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -194,6 +195,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-07T04:14:34.320Z,47.592333333333,-113.956,14.18,-0.17,ml,4,167,0.08797,0.16,mb,mb90082998,2025-05-07T15:51:50.990Z,"12 km E of Pablo, Montana",earthquake,0.79,2.68,0.044627855965481,2,reviewed,mb,mb
 2025-05-07T03:58:51.286Z,61.3031,-152.2179,0,0.9,ml,,,,0.38,ak,ak0255u3dx0o,2025-05-07T04:00:56.413Z,"63 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-07T03:58:12.330Z,35.3323333,-117.8085,6.75,1.23,ml,23,66,0.1537,0.17,ci,ci41146400,2025-05-07T04:01:46.316Z,"16 km WSW of Johannesburg, CA",earthquake,0.27,1.25,0.171,26,automatic,ci,ci
+2025-05-07T03:54:03.178Z,32.002,-103.245,6.7664,1.7,ml,17,46,0.1,0.2,tx,tx2025iwnc,2025-05-07T19:51:38.111Z,"13 km SSW of Jal, New Mexico",earthquake,1.0279665475606,1.6378649671618,0.1,7,reviewed,tx,tx
 2025-05-07T03:48:40.352Z,7.9302,126.9961,67.643,4.8,mb,74,106,1.645,0.94,us,us7000pxmi,2025-05-07T04:08:11.040Z,"55 km ENE of Kinablangan, Philippines",earthquake,9.1,6.463,0.048,135,reviewed,us,us
 2025-05-07T03:44:21.367Z,60.1098,-141.9044,9.1,1.4,ml,,,,1.17,ak,ak0255u3auoo,2025-05-07T03:46:13.482Z,"137 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-05-07T03:43:46.340Z,35.3303333,-117.8103333,6.76,1.03,ml,31,95,0.06915,0.21,ci,ci41146392,2025-05-07T14:20:16.872Z,"17 km WSW of Johannesburg, CA",earthquake,0.24,0.6,0.116,21,reviewed,ci,ci
