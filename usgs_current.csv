@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-12T07:24:09.940Z,38.798168182373,-122.77616882324,2.3499999046326,0.74,md,7,155,0.01045,0.01,nc,nc75180146,2025-05-12T07:25:45.754Z,"3 km NNW of The Geysers, CA",earthquake,0.87,1.53999996,0.04,8,automatic,nc,nc
 2025-05-12T07:09:51.910Z,33.9178333,-116.8553333,12.36,0.75,ml,32,57,0.09688,0.15,ci,ci41151328,2025-05-12T07:14:40.753Z,"2 km ESE of Banning, CA",earthquake,0.18,0.6,0.167,19,automatic,ci,ci
+2025-05-12T07:07:47.590Z,17.9435,-66.822833333333,10.98,3.1,md,32,190,0.06221,0.19,pr,pr71482183,2025-05-12T07:38:45.550Z,"5 km S of Indios, Puerto Rico",earthquake,0.34,0.4,0.047100631787058,8,reviewed,pr,pr
 2025-05-12T07:03:49.130Z,33.9135,-116.7641667,18.25,0.76,ml,34,61,0.08436,0.17,ci,ci41151320,2025-05-12T07:07:59.516Z,"2 km ESE of Cabazon, CA",earthquake,0.24,0.49,0.09,24,automatic,ci,ci
 2025-05-12T07:01:29.780Z,38.79683303833,-122.73867034912,0.89999997615814,1.5,md,28,100,0.01366,0.06,nc,nc75180131,2025-05-12T07:32:17.936Z,"3 km NE of The Geysers, CA",earthquake,0.25,0.370000005,0.16,29,automatic,nc,nc
 2025-05-12T07:00:34.550Z,38.798000335693,-122.78466796875,3.1400001049042,0.79,md,18,59,0.005443,0.02,nc,nc75180126,2025-05-12T07:22:18.870Z,"3 km NW of The Geysers, CA",earthquake,0.27,0.670000017,0.08,20,automatic,nc,nc
@@ -164,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T11:38:00.900Z,38.833999633789,-122.71433258057,2.4400000572205,1.31,md,6,207,0.03157,0.01,nc,nc75179776,2025-05-11T13:07:19.443Z,"2 km NE of Cobb, CA",earthquake,1.27,2.51999998,0.12,7,automatic,nc,nc
 2025-05-11T11:28:03.130Z,38.836334228516,-122.81199645996,2.079999923706,0.76,md,12,77,0.01301,0.01,nc,nc75179766,2025-05-11T11:29:40.606Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.709999979,0.47,15,automatic,nc,nc
 2025-05-11T11:24:09.460Z,18.927,-65.1941,48,3.67,md,16,312,0.9039,0.38,pr,pr2025131002,2025-05-11T12:06:25.793Z,"69 km N of Culebra, Puerto Rico",earthquake,3.45,9.95,0.11,9,reviewed,pr,pr
-2025-05-11T11:22:21.617Z,-17.6963,168.2893,60,5.9,mww,135,35,2.467,0.78,us,us7000pyn1,2025-05-12T02:27:01.422Z,"5 km NNW of Port-Vila, Vanuatu",earthquake,7.07,1.889,0.037,70,reviewed,us,us
+2025-05-11T11:22:21.617Z,-17.6963,168.2893,60,5.9,mww,135,35,2.467,0.78,us,us7000pyn1,2025-05-12T07:35:04.897Z,"5 km NNW of Port-Vila, Vanuatu",earthquake,7.07,1.889,0.037,70,reviewed,us,us
 2025-05-11T11:20:02.360Z,38.839500427246,-122.87750244141,1.8799999952316,0.57,md,8,93,0.004819,0.02,nc,nc75179756,2025-05-11T12:07:19.049Z,"13 km NW of The Geysers, CA",earthquake,0.38,0.74000001,0.28,11,automatic,nc,nc
 2025-05-11T11:19:26.843Z,61.9977,-149.6063,27.4,1,ml,,,,0.31,ak,ak02560u2d0s,2025-05-11T11:21:12.083Z,"22 km SE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-11T11:02:41.753Z,31.584,-102.118,2.9017,1.4,mlv,24,76,0.1,0.5,tx,tx2025jekc,2025-05-11T11:18:24.865Z,"30 km NE of Crane, Texas",earthquake,0,1.1872123479843,0.2,17,automatic,tx,tx
@@ -209,6 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-11T08:03:12.920Z,33.2715,-116.4241667,5.07,0.64,ml,40,72,0.00673,0.2,ci,ci41150744,2025-05-11T14:13:53.499Z,"5 km WNW of Borrego Springs, CA",earthquake,0.18,0.34,0.171,13,reviewed,ci,ci
 2025-05-11T07:58:03.723Z,61.6661,-146.5388,29.9,1.1,ml,,,,0.98,ak,ak02560rwxqs,2025-05-11T07:59:56.293Z,"38 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-11T07:45:30.441Z,58.2475,-154.9385,111.3,2.9,ml,,,,0.47,ak,ak02560ru7ie,2025-05-11T08:02:41.040Z,"80 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-11T07:41:18.000Z,37.759666666667,-84.611833333333,29.68,2.75,md,16,62,0.2875,0.23,se,se60503568,2025-05-12T02:14:47.115Z,"11 km SE of High Bridge, Kentucky",earthquake,1.1,2.28,0.063487724926785,15,reviewed,se,se
-2025-05-11T07:34:25.680Z,34.1075,-117.3235,17.97,1.63,ml,92,29,0.03378,0.16,ci,ci41150736,2025-05-11T19:00:16.930Z,"4 km SW of San Bernardino, CA",earthquake,0.12,0.25,0.144,105,reviewed,ci,ci
-2025-05-11T07:34:13.660Z,36.768665313721,-121.27749633789,9.0200004577637,1.08,md,13,134,0.06503,0.17,nc,nc75179696,2025-05-11T08:12:20.537Z,"4 km SE of Tres Pinos, CA",earthquake,0.67,1.35000002,0.24,7,automatic,nc,nc
