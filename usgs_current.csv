@@ -23,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T10:55:11.470Z,38.831165313721,-122.81066894531,1.8500000238419,1.05,md,20,46,0.01744,0.02,nc,nc75181447,2025-05-13T11:17:19.330Z,"8 km NNW of The Geysers, CA",earthquake,0.22,0.479999989,0.1,23,automatic,nc,nc
 2025-05-13T10:39:08.590Z,33.3748333,-116.8501667,10.44,0.64,ml,27,38,0.0236,0.18,ci,ci41152120,2025-05-13T13:12:06.697Z,"2 km NNE of Palomar Observatory, CA",earthquake,0.22,0.48,0.09,19,reviewed,ci,ci
 2025-05-13T10:38:29.610Z,32.373,-101.078,1.8645,1.4,ml,19,124,0.1,0.4,tx,tx2025jhzn,2025-05-13T10:51:18.280Z,"6 km WNW of Westbrook, Texas",earthquake,0,1.4389592409134,0.1,13,automatic,tx,tx
-2025-05-13T10:07:45.456Z,40.8269,14.0789,10,4.4,mb,62,104,0.423,0.53,us,us7000pyym,2025-05-13T13:17:34.040Z,"2 km SW of Pozzuoli, Italy",earthquake,3.33,1.919,0.126,18,reviewed,us,us
+2025-05-13T10:07:45.456Z,40.8269,14.0789,10,4.4,mb,62,104,0.423,0.53,us,us7000pyym,2025-05-13T13:47:51.621Z,"2 km SW of Pozzuoli, Italy",earthquake,3.33,1.919,0.126,18,reviewed,us,us
 2025-05-13T10:00:09.300Z,33.3431667,-116.9093333,14.49,0.65,ml,33,34,0.04044,0.21,ci,ci41152112,2025-05-13T10:03:38.340Z,"4 km WSW of Palomar Observatory, CA",earthquake,0.22,0.49,0.088,16,automatic,ci,ci
 2025-05-13T09:46:46.449Z,61.7955,-149.5398,15.1,1.2,ml,,,,0.41,ak,ak02564440n8,2025-05-13T09:49:06.033Z,"17 km WNW of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-13T09:40:24.539Z,62.1269,-148.9344,39.4,1.5,ml,,,,0.24,ak,ak0256442onp,2025-05-13T09:42:36.335Z,"39 km NNW of Sutton-Alpine, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -61,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T05:06:10.930Z,38.842834472656,-122.79599761963,1.9700000286102,1.29,md,8,202,0.02231,0.18,nc,nc75181372,2025-05-13T06:22:19.352Z,"7 km WNW of Cobb, CA",earthquake,1.42,1.92999995,0.18,10,automatic,nc,nc
 2025-05-13T05:05:55.900Z,35.8745,-117.6818333,7.56,1.09,ml,14,124,0.07757,0.15,ci,ci41152048,2025-05-13T05:09:26.046Z,"21 km ESE of Little Lake, CA",earthquake,0.32,0.75,0.175,18,automatic,ci,ci
 2025-05-13T05:02:32.770Z,38.820499420166,-122.82316589356,2.5,0.87,md,12,73,0.009629,0.01,nc,nc75181367,2025-05-13T05:57:16.191Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.779999971,0.33,13,automatic,nc,nc
-2025-05-13T04:43:49.670Z,39.3605,-88.327333333333,9.66,3.26,md,21,73,0.6506,0.22,nm,nm60606081,2025-05-13T13:41:25.368Z,"7 km SSW of Lerna, Illinois",earthquake,0.28,0.63,0.10272854692622,13,reviewed,nm,nm
+2025-05-13T04:43:49.690Z,39.359333333333,-88.326666666667,9.81,3.26,md,22,73,0.6493,0.22,nm,nm60606081,2025-05-13T13:50:40.987Z,"7 km SSW of Lerna, Illinois",earthquake,0.28,0.63,0.10272854692622,13,reviewed,nm,nm
 2025-05-13T04:40:21.176Z,39.1218,-119.0601,7.5,1.5,ml,17,121.51,0.05,0.1832,nn,nn00897522,2025-05-13T04:42:29.998Z,"17 km NNE of Yerington, Nevada",earthquake,,0.6,0.39,5,automatic,nn,nn
 2025-05-13T04:13:46.043Z,-19.5793,-176.3948,297.739,4.5,mb,31,142,5.074,0.9,us,us7000pyxv,2025-05-13T04:32:14.040Z,"209 km NNW of Houma, Tonga",earthquake,12.97,8.569,0.084,41,reviewed,us,us
 2025-05-13T04:05:34.658Z,62.1516,-149.4254,19.3,1.5,ml,,,,0.46,ak,ak025640w1cp,2025-05-13T04:07:19.796Z,"22 km E of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-12T14:09:08.240Z,33.1361667,-116.6251667,3.51,0.46,ml,9,129,0.06549,0.12,ci,ci41151448,2025-05-12T16:34:36.002Z,"7 km NNW of Julian, CA",earthquake,0.33,0.75,0.121,6,reviewed,ci,ci
 2025-05-12T14:06:41.919Z,64.8551,-147.4814,18.3,0.9,ml,,,,0.32,ak,ak02562jb96n,2025-05-12T14:09:16.246Z,"6 km NNE of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-12T13:59:51.640Z,33.3398333,-116.4275,9.37,1.41,ml,60,24,0.05219,0.21,ci,ci41151432,2025-05-12T14:10:52.950Z,"10 km NNW of Borrego Springs, CA",earthquake,0.17,0.42,0.213,27,reviewed,ci,ci
-2025-05-12T13:46:16.089Z,36.45866667,-98.80833333,6.97,1.44,ml,42,70,0.01079788109,0.13,ok,ok2025jgkc,2025-05-12T14:14:01.879Z,"15 km SSE of Waynoka, Oklahoma",earthquake,,0.2,0.26,16,reviewed,ok,ok
-2025-05-12T13:45:34.675Z,60.0887,-152.1253,60.7,1.7,ml,,,,0.73,ak,ak02562iy5y3,2025-05-12T13:48:01.803Z,"25 km W of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
