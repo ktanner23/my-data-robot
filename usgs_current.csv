@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-14T23:10:15.194Z,61.7227,-149.5634,39.8,1.4,ml,,,,0.54,ak,ak02565zrnf3,2025-05-14T23:11:55.340Z,"11 km N of Meadow Lakes, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-05-14T23:05:19.710Z,38.986667633057,-122.53733062744,4.5199999809265,1.27,md,6,207,0.2355,0.1,nc,nc75182122,2025-05-14T23:06:55.221Z,"8 km E of Clearlake, CA",earthquake,5.95,9.89000034,,1,automatic,nc,nc
+2025-05-14T23:05:19.710Z,38.986667633057,-122.53733062744,4.5199999809265,1.27,md,6,207,0.2355,0.1,nc,nc75182122,2025-05-14T23:22:18.875Z,"8 km E of Clearlake, CA",earthquake,5.95,9.89000034,,1,automatic,nc,nc
 2025-05-14T22:47:24.210Z,34.1195,-116.9686667,5.98,0.89,ml,27,39,0.03755,0.12,ci,ci41153072,2025-05-14T23:11:37.210Z,"12 km NE of Yucaipa, CA",earthquake,0.17,0.35,0.117,10,reviewed,ci,ci
 2025-05-14T22:30:33.864Z,61.4826,-151.2831,78.2,3.6,ml,,,,0.25,ak,ak02565zajkq,2025-05-14T23:02:33.777Z,"39 km NNW of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-14T22:11:18.236Z,63.0172,-150.9567,117.6,2.1,ml,,,,0.31,ak,ak02565z6fti,2025-05-14T22:32:30.040Z,"58 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -107,6 +107,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-14T10:47:56.125Z,-23.9113,70.209,10,4.9,mb,46,98,13.645,0.58,us,us7000pz5p,2025-05-14T11:05:51.040Z,"Mid-Indian Ridge",earthquake,7.77,1.877,0.095,35,reviewed,us,us
 2025-05-14T10:35:27.770Z,19.341999053955,-155.13966369629,4.6399998664856,1.79,ml,50,94,0.0447,0.209999993,hv,hv74672742,2025-05-14T10:39:45.120Z,"13 km S of Fern Forest, Hawaii",earthquake,0.42,0.889999986,0.93,5,automatic,hv,hv
 2025-05-14T10:16:54.320Z,19.588833333333,-156.14616666667,6.28,3.3,ml,32,238,0.1377,0.23,hv,hv74672722,2025-05-14T20:39:45.591Z,"16 km WSW of Kailua-Kona, Hawaii",earthquake,0.74,0.6,0.21468468504233,21,reviewed,hv,hv
+2025-05-14T10:09:32.700Z,58.189666666667,-155.2775,1.42,-0.27,ml,6,143,0.03367,0.03,av,av93606291,2025-05-14T23:22:27.810Z,"84 km NW of Karluk, Alaska",earthquake,0.19,0.78,0.26624801718465,6,reviewed,av,av
+2025-05-14T10:07:23.100Z,58.19,-155.2775,1.97,-0.28,ml,7,143,0.03347,0.05,av,av93041529,2025-05-14T23:18:47.140Z,"84 km NW of Karluk, Alaska",earthquake,0.2,0.46,0.31790897092537,7,reviewed,av,av
+2025-05-14T10:07:15.700Z,58.190666666667,-155.27516666667,2.75,-0.5,ml,6,142,0.03408,0.05,av,av93606286,2025-05-14T23:16:05.300Z,"84 km NW of Karluk, Alaska",earthquake,0.23,0.49,0.23719758477373,6,reviewed,av,av
 2025-05-14T10:06:41.820Z,33.2686667,-116.4273333,4.68,1.02,ml,48,32,0.008536,0.22,ci,ci41152544,2025-05-14T13:58:04.767Z,"5 km WNW of Borrego Springs, CA",earthquake,0.19,0.52,0.179,28,reviewed,ci,ci
 2025-05-14T10:02:16.990Z,38.798667907715,-122.79816436768,1.3300000429153,0.4,md,8,92,0.009552,0.01,nc,nc75181867,2025-05-14T10:37:19.702Z,"4 km NW of The Geysers, CA",earthquake,0.46,0.939999998,0.16,11,automatic,nc,nc
 2025-05-14T10:02:12.539Z,31.4767,69.1273,10,4.4,mb,50,177,3.03,1.29,us,us7000pz5l,2025-05-14T11:40:38.040Z,"34 km WNW of Zhob, Pakistan",earthquake,11.32,1.968,0.084,41,reviewed,us,us
@@ -224,6 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-13T23:49:26.992Z,39.5303,-119.629,1.8,1.6,ml,11,158.01,0.134,0.2277,nn,nn00897571,2025-05-14T00:07:06.880Z,"10 km E of Sparks, Nevada",explosion,,4.8,0.09,7,automatic,nn,nn
 2025-05-13T23:45:00.690Z,17.954,-66.925,10.76,2.03,md,5,209,0.04831,0.05,pr,pr71482353,2025-05-13T23:52:29.180Z,"2 km SW of Guánica, Puerto Rico",earthquake,1.19,0.48,0.11450083066651,5,reviewed,pr,pr
 2025-05-13T23:34:54.040Z,61.183166666667,-152.27083333333,4.73,-0.2,ml,7,244,0.03571,0.07,av,av93605821,2025-05-14T01:36:49.780Z,"62 km WNW of Tyonek, Alaska",earthquake,0.49,0.41,0.18231317262117,7,reviewed,av,av
-2025-05-13T23:22:35.474Z,60.4861,-151.5486,30.8,1.4,ml,,,,0.66,ak,ak02564cax2z,2025-05-13T23:24:24.779Z,"16 km WNW of Kalifornsky, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-13T23:17:13.850Z,38.787166595459,-122.76699829102,2.6300001144409,0.95,md,12,78,0.0146,0.01,nc,nc75181667,2025-05-14T14:52:08.306Z,"1 km NNW of The Geysers, CA",earthquake,0.31,0.74000001,0.16,12,automatic,nc,nc
-2025-05-13T23:14:40.200Z,44.9165,-122.58683333333,16.12,1.67,ml,15,73,0.05742,0.26,uw,uw62098772,2025-05-14T19:38:26.790Z,"14 km N of Mehama, Oregon",earthquake,0.55,0.91,0.14993654609589,9,reviewed,uw,uw
