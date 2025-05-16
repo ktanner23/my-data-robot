@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-16T23:37:57.810Z,61.4066,-146.5012,8.8,3.1,ml,,,,0.63,ak,ak02569b082v,2025-05-16T23:46:51.102Z,"31 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-16T23:35:05.310Z,38.828498840332,-122.8004989624,2.289999961853,0.76,md,8,73,0.00905,0.01,nc,nc75183167,2025-05-16T23:36:42.310Z,"7 km WNW of Cobb, CA",earthquake,0.41,0.920000017,0.23,10,automatic,nc,nc
-2025-05-16T23:34:21.520Z,38.838333129883,-122.78416442871,1.7400000095367,1.04,md,15,81,0.004827,0.03,nc,nc75183162,2025-05-16T23:35:57.213Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.419999987,0.1,18,automatic,nc,nc
+2025-05-16T23:34:21.520Z,38.838333129883,-122.78416442871,1.7400000095367,1.04,md,15,81,0.004827,0.03,nc,nc75183162,2025-05-16T23:52:19.146Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.419999987,0.1,18,automatic,nc,nc
 2025-05-16T23:25:41.785Z,57.7575,-154.5583,60.9,1.7,ml,,,,0.28,ak,ak02569axm76,2025-05-16T23:28:22.078Z,"21 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-05-16T23:09:50.713Z,64.9934,-147.3853,3.3,1.4,ml,,,,0.9,ak,ak02569au7fj,2025-05-16T23:11:55.243Z,"11 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-16T23:01:17.913Z,64.0066,-148.7109,3.4,1.8,ml,,,,0.85,ak,ak02569asf67,2025-05-16T23:03:28.626Z,"19 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -26,9 +26,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T20:07:45.070Z,40.329833333333,-124.80316666667,7.19,2.05,md,34,285,0.3546,0.23,nc,nc75183067,2025-05-16T23:44:27.896Z,"44 km WNW of Petrolia, CA",earthquake,1,1.18,0.174,14,reviewed,nc,nc
 2025-05-16T19:54:31.984Z,61.3474,-150.0364,24,1.5,ml,,,,0.5,ak,ak025698q2se,2025-05-16T19:57:00.662Z,"3 km WSW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-16T19:43:54.230Z,57.709,-152.4806,31,3.4,ml,,,,0.53,ak,ak025698nrkl,2025-05-16T23:41:25.807Z,"9 km SE of Kodiak Station, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-05-16T19:41:13.660Z,49.146,-122.23083333333,-0.86,1.06,md,4,276,0.1761,0.15,uw,uw62101607,2025-05-16T23:54:38.280Z,"5 km ENE of Mission, Canada",explosion,6.29,31.61,0.1297323861547,3,reviewed,uw,uw
 2025-05-16T19:25:28.518Z,-4.7223,153.0394,67.378,4.6,mb,63,117,6.257,0.76,us,us7000pzpk,2025-05-16T21:53:00.040Z,"95 km ESE of Kokopo, Papua New Guinea",earthquake,9.28,5.254,0.075,56,reviewed,us,us
 2025-05-16T19:15:12.285Z,-35.5039,-105.6706,10,4.9,mb,142,143,8.918,0.46,us,us7000pzpi,2025-05-16T21:24:56.040Z,"southern East Pacific Rise",earthquake,12.77,1.899,0.046,151,reviewed,us,us
 2025-05-16T19:11:29.460Z,35.1004982,-119.1171646,12.57,2.02,ml,43,30,0.04996,0.25,ci,ci41154552,2025-05-16T19:22:01.460Z,"24 km NW of Grapevine, CA",earthquake,0.34,0.86,0.221,25,automatic,ci,ci
+2025-05-16T19:09:34.540Z,48.585666666667,-117.974,-0.8,1.33,ml,8,193,0.07388,0.2,uw,uw62101597,2025-05-16T23:52:05.250Z,"6 km ESE of Kettle Falls, Washington",explosion,1.31,31.61,0.011890269470347,4,reviewed,uw,uw
 2025-05-16T19:07:58.855Z,-24.1811,-67.0957,170.108,4.3,mb,28,69,1.576,0.8,us,us7000pzpf,2025-05-16T20:32:47.040Z,"79 km W of San Antonio de los Cobres, Argentina",earthquake,8.89,9.626,0.153,13,reviewed,us,us
 2025-05-16T19:01:24.300Z,33.8786667,-117.503,-0.47,0.98,ml,27,59,0.07784,0.26,ci,ci41154536,2025-05-16T21:13:20.244Z,"2 km E of Home Gardens, CA",quarry blast,0.55,31.61,0.114,18,reviewed,ci,ci
 2025-05-16T19:01:10.270Z,35.7586667,-118.4208333,5.83,1.88,ml,29,76,0.01855,0.16,ci,ci41154528,2025-05-16T21:11:31.002Z,"1 km NE of Kernville, CA",earthquake,0.2,0.38,0.242,21,reviewed,ci,ci
@@ -62,6 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T16:44:32.880Z,33.675,-116.7211667,15.86,2.23,ml,86,16,0.03976,0.18,ci,ci41154408,2025-05-16T19:01:11.880Z,"7 km S of Idyllwild, CA",earthquake,0.13,0.29,0.2,26,reviewed,ci,ci
 2025-05-16T16:41:06.160Z,61.309833333333,-152.24783333333,0.94,0.31,ml,7,121,0.06316,0.06,av,av93608226,2025-05-16T17:06:34.570Z,"65 km WNW of Beluga, Alaska",earthquake,0.28,1.82,0.20144058102434,8,reviewed,av,av
 2025-05-16T16:40:47.020Z,36.955501556396,-121.57933044434,6.8299999237061,1.99,md,43,56,0.002185,0.17,nc,nc75182942,2025-05-16T17:52:16.753Z,"6 km SSW of Gilroy, CA",earthquake,0.29,0.540000021,0.19,35,automatic,nc,nc
+2025-05-16T16:40:19.900Z,56.222166666667,-159.37333333333,3.72,0.45,ml,7,105,0.06474,0.28,av,av93608221,2025-05-16T23:50:54.180Z,"36 km N of Ivanof Bay, Alaska",earthquake,0.99,1.54,0.0855313727914,7,reviewed,av,av
 2025-05-16T16:29:16.170Z,33.533,-116.7218333,5.69,0.5,ml,13,79,0.0348,0.14,ci,ci41154368,2025-05-16T17:56:12.611Z,"5 km WSW of Anza, CA",earthquake,0.25,0.58,0.128,10,reviewed,ci,ci
 2025-05-16T16:19:26.869Z,64.7829,-150.5949,0,1.5,ml,,,,0.6,ak,ak025696q9im,2025-05-16T16:21:39.070Z,"24 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-16T16:17:10.470Z,38.81816482544,-122.82133483887,2.3599998950958,0.79,md,21,58,0.01023,0.02,nc,nc75182932,2025-05-16T16:37:19.266Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.389999986,0.14,22,automatic,nc,nc
@@ -245,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-16T00:00:27.250Z,40.6405,-111.57533333333,9.13,0.02,md,6,144,0.105,0.07,uu,uu80003363,2025-05-16T16:40:16.870Z,"6 km SSW of Snyderville, Utah",earthquake,0.78,1.59,0.096308877038709,4,reviewed,uu,uu
 2025-05-15T23:56:35.950Z,38.801666259766,-122.77249908447,1.3999999761581,0.77,md,9,92,0.01005,0.04,nc,nc75182607,2025-05-16T00:17:26.734Z,"3 km NNW of The Geysers, CA",earthquake,0.42,0.779999971,0.07,11,automatic,nc,nc
 2025-05-15T23:55:20.780Z,33.7248333,-118.0181667,13.82,1.75,ml,23,118,0.006539,0.22,ci,ci41153880,2025-05-16T00:01:02.227Z,"4 km NNW of Huntington Beach, CA",earthquake,0.89,0.47,0.188,29,automatic,ci,ci
-2025-05-15T23:47:29.693Z,61.3406,-146.1371,25.2,1.9,ml,,,,0.59,ak,ak02567niyix,2025-05-15T23:49:40.662Z,"25 km NNE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
