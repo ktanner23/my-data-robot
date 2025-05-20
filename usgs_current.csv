@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-20T05:29:09.970Z,38.82149887085,-122.76216888428,1.960000038147,0.7,md,8,123,0.01081,0.01,nc,nc75183966,2025-05-20T05:30:45.564Z,"3 km W of Cobb, CA",earthquake,0.42,0.74000001,0.09,8,automatic,nc,nc
 2025-05-20T05:28:21.960Z,38.826000213623,-122.80383300781,-0.21999999880791,0.72,md,8,79,0.01626,0.08,nc,nc75183961,2025-05-20T05:30:01.053Z,"7 km NNW of The Geysers, CA",earthquake,0.4,2.11999989,0.41,9,automatic,nc,nc
-2025-05-20T05:11:32.410Z,35.3184,-36.0813,10,5.6,mww,140,43,8.839,0.85,us,us7000q09z,2025-05-20T05:29:53.040Z,"northern Mid-Atlantic Ridge",earthquake,9.34,1.855,0.049,40,reviewed,us,us
+2025-05-20T05:11:32.410Z,35.3184,-36.0813,10,5.6,mww,140,43,8.839,0.85,us,us7000q09z,2025-05-20T05:38:01.269Z,"northern Mid-Atlantic Ridge",earthquake,9.34,1.855,0.049,40,reviewed,us,us
 2025-05-20T05:08:18.313Z,38.8946,-119.6907,0,1.1,ml,11,211.01,0.063,0.2787,nn,nn00897779,2025-05-20T05:10:02.557Z,"4 km E of Gardnerville Ranchos, Nevada",earthquake,,0.4,0.33,6,automatic,nn,nn
 2025-05-20T05:02:14.400Z,33.1868333,-116.7183333,9.2,0.61,ml,29,45,0.05959,0.17,ci,ci41156952,2025-05-20T05:05:41.373Z,"7 km SE of Lake Henshaw, CA",earthquake,0.21,0.55,0.208,11,automatic,ci,ci
 2025-05-20T04:57:37.687Z,61.5467,-150.7932,63.9,1.3,ml,,,,0.27,ak,ak0256flyma0,2025-05-20T04:59:09.345Z,"14 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -165,6 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T12:07:58.186Z,62.0755,-149.6494,39.2,1.4,ml,,,,0.87,ak,ak0256e2w2ei,2025-05-19T12:11:26.426Z,"14 km SE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-05-19T11:53:29.480Z,33.9803333,-118.3306667,11.61,1.06,ml,24,133,0.02975,0.2,ci,ci41156216,2025-05-19T19:03:45.782Z,"2 km SE of View Park-Windsor Hills, CA",earthquake,0.43,0.51,0.15,19,reviewed,ci,ci
 2025-05-19T11:47:06.490Z,38.810665130615,-122.82917022705,2.1099998950958,0.76,md,15,61,0.001795,0.02,nc,nc75184362,2025-05-19T12:37:17.492Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.579999983,0.13,15,automatic,nc,nc
+2025-05-19T11:39:29.930Z,52.077666666667,-176.138,-1.77,-0.49,ml,5,126,0.02218,0.2,av,av93042064,2025-05-20T05:42:16.110Z,"40 km ENE of Adak, Alaska",earthquake,0.57,1.05,0.18486917787056,5,reviewed,av,av
 2025-05-19T11:39:17.360Z,33.7568333,-117.5225,12.52,1.04,ml,32,77,0.08167,0.17,ci,ci41156200,2025-05-19T18:56:25.277Z,"12 km NNE of Trabuco Canyon, CA",earthquake,0.26,0.47,0.153,16,reviewed,ci,ci
 2025-05-19T11:36:39.680Z,60.0548,-140.9644,10.7,1.3,ml,,,,0.89,ak,ak0256e2gt4w,2025-05-19T11:38:49.266Z,"89 km NW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-19T11:34:58.540Z,46.737833333333,-121.93083333333,7.25,0.95,ml,34,82,0.009953,0.11,uw,uw62104437,2025-05-19T14:18:02.620Z,"7 km ESE of Ashford, Washington",earthquake,0.23,0.37,0.12862687438699,18,reviewed,uw,uw
@@ -179,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T10:49:20.000Z,32.0965,-115.1101667,15.89,2.99,ml,29,55,0.1439,0.3,ci,ci41156176,2025-05-19T22:28:30.994Z,"15 km SW of Estacion Coahuila, B.C., MX",earthquake,0.37,0.68,0.254,132,reviewed,ci,ci
 2025-05-19T10:49:08.150Z,32.0868333,-115.1375,6.76,1.97,ml,17,63,0.1689,0.19,ci,ci37725916,2025-05-19T22:36:37.038Z,"16 km S of Alberto Oviedo Mota, B.C., MX",earthquake,0.53,2.74,0.117,1,reviewed,ci,ci
 2025-05-19T10:48:41.300Z,34.3043333,-117.013,4.25,0.97,ml,29,60,0.04779,0.13,ci,ci41156168,2025-05-19T18:51:52.940Z,"12 km NW of Big Bear Lake, CA",earthquake,0.22,0.31,0.13,14,reviewed,ci,ci
-2025-05-19T10:38:32.650Z,35.750166666667,-121.14066666667,7.18,1,md,31,124,0.06856,0.07,nc,nc75184357,2025-05-20T04:59:07.301Z,"13 km NNE of San Simeon, CA",earthquake,0.15,0.35,0.193,14,reviewed,nc,nc
+2025-05-19T10:38:32.650Z,35.750166666667,-121.14066666667,7.18,1,md,31,124,0.06856,0.07,nc,nc75184357,2025-05-20T05:37:19.279Z,"13 km NNE of San Simeon, CA",earthquake,0.15,0.35,0.193,14,reviewed,nc,nc
 2025-05-19T10:33:10.760Z,38.842334747315,-122.83899688721,1.5299999713898,0.76,md,9,104,0.004637,0.01,nc,nc75184347,2025-05-19T11:12:17.886Z,"10 km NNW of The Geysers, CA",earthquake,0.35,0.790000021,0.25,9,automatic,nc,nc
 2025-05-19T10:33:08.560Z,36.803001403809,-121.37533569336,5.8699998855591,1.58,md,18,91,0.06959,0.09,nc,nc75184352,2025-05-19T12:12:18.334Z,"1 km SW of Ridgemark, CA",earthquake,0.33,0.939999998,0.26,16,automatic,nc,nc
 2025-05-19T10:29:52.140Z,35.05366667,-97.80033333,7.76,1.43,ml,49,114,0.1196765154,0.29,ok,ok2025jsye,2025-05-19T11:36:33.420Z,"12 km E of Chickasha, Oklahoma",earthquake,,0.7,0.23,23,reviewed,ok,ok
@@ -239,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T05:49:03.290Z,33.5316667,-116.728,4.29,0.46,ml,30,33,0.03453,0.15,ci,ci41156080,2025-05-19T14:48:41.470Z,"6 km WSW of Anza, CA",earthquake,0.17,0.31,0.123,14,reviewed,ci,ci
 2025-05-19T05:48:31.702Z,-30.1691,-177.2789,10,5.3,mww,62,61,1.081,1.35,us,us7000q040,2025-05-19T12:31:03.040Z,"Kermadec Islands, New Zealand",earthquake,8.55,1.791,0.073,18,reviewed,us,us
 2025-05-19T05:47:33.920Z,58.617833333333,-154.03066666667,15.46,0.67,ml,11,194,0.2978,0.31,av,av93042044,2025-05-20T02:04:35.520Z,"90 km NW of Aleneva, Alaska",earthquake,2.71,1.67,0.15664155434906,10,reviewed,av,av
-2025-05-19T05:41:49.210Z,34.2846667,-118.3738333,8.47,1.99,ml,71,19,0.0113,0.16,ci,ci41156064,2025-05-19T22:18:17.160Z,"2 km NW of Lake View Terrace, CA",earthquake,0.14,0.3,0.247,24,reviewed,ci,ci
-2025-05-19T05:39:07.260Z,53.904166666667,-166.94666666667,10.43,-0.82,ml,5,216,0.05584,0.18,av,av93042039,2025-05-20T01:49:06.040Z,"26 km W of Dutch Harbor, Alaska",earthquake,1.11,1.69,0.25894375870064,5,reviewed,av,av
