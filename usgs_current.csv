@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-20T15:16:33.569Z,61.8118,-150.1859,11.2,1.3,ml,,,,0.52,ak,ak0256fs9l98,2025-05-20T15:18:21.863Z,"10 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-20T15:10:50.907Z,60.8726,-151.8356,79,1,ml,,,,0.28,ak,ak0256fs8caq,2025-05-20T15:13:04.077Z,"36 km NW of Nikiski, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-05-20T15:05:59.000Z,-3.5,144.9,53,6.6,Mi,59,46.799996256,0,1.87,at,at00swkfa5,2025-05-20T15:18:55.604Z,"111 km NE of Angoram, Papua New Guinea",earthquake,0,0,,28,reviewed,at,at
+2025-05-20T15:05:58.710Z,-3.8503,144.7662,10,6.4,mww,152,50,3.156,1.19,us,us7000q0bm,2025-05-20T15:32:05.640Z,"81 km ENE of Angoram, Papua New Guinea",earthquake,8.18,1.874,0.052,35,reviewed,us,us
 2025-05-20T14:46:50.413Z,39.0397,-118.9992,1.8,1.7,ml,10,99.35,0.133,0.2192,nn,nn00897802,2025-05-20T14:48:54.344Z,"15 km ENE of Yerington, Nevada",earthquake,,3.8,0.17,6,automatic,nn,nn
 2025-05-20T14:45:33.860Z,33.9366667,-117.9053333,8.52,1.38,ml,44,59,0.01759,0.22,ci,ci41157304,2025-05-20T14:50:19.112Z,"2 km NNW of Brea, CA",earthquake,0.3,0.47,0.21,29,automatic,ci,ci
 2025-05-20T14:44:18.980Z,35.8768333,-117.7035,7.26,1.07,ml,22,48,0.083,0.16,ci,ci41157296,2025-05-20T14:47:45.976Z,"20 km ESE of Little Lake, CA",earthquake,0.22,0.61,0.193,17,automatic,ci,ci
@@ -81,8 +81,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T05:28:21.960Z,38.826000213623,-122.80383300781,-0.21999999880791,0.72,md,8,79,0.01626,0.08,nc,nc75183961,2025-05-20T06:07:17.476Z,"7 km NNW of The Geysers, CA",earthquake,0.4,2.11999989,0.41,9,automatic,nc,nc
 2025-05-20T05:11:32.410Z,35.3184,-36.0813,10,5.6,mww,140,43,8.839,0.85,us,us7000q09z,2025-05-20T07:37:53.572Z,"northern Mid-Atlantic Ridge",earthquake,9.34,1.855,0.049,40,reviewed,us,us
 2025-05-20T05:08:18.313Z,38.8946,-119.6907,0,1.1,ml,11,211.01,0.063,0.2787,nn,nn00897779,2025-05-20T05:10:02.557Z,"4 km E of Gardnerville Ranchos, Nevada",earthquake,,0.4,0.33,6,automatic,nn,nn
-2025-05-20T05:02:14.400Z,33.1868333,-116.7183333,9.2,0.61,ml,29,45,0.05959,0.17,ci,ci41156952,2025-05-20T05:05:41.373Z,"7 km SE of Lake Henshaw, CA",earthquake,0.21,0.55,0.208,11,automatic,ci,ci
+2025-05-20T05:02:14.360Z,33.1868333,-116.7175,9.62,0.74,ml,31,58,0.05999,0.14,ci,ci41156952,2025-05-20T15:33:13.922Z,"7 km SE of Lake Henshaw, CA",earthquake,0.19,0.43,0.176,12,reviewed,ci,ci
 2025-05-20T04:57:37.687Z,61.5467,-150.7932,63.9,1.3,ml,,,,0.27,ak,ak0256flyma0,2025-05-20T04:59:09.345Z,"14 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-05-20T04:57:15.330Z,33.3603333,-116.3773333,13.44,0.75,ml,22,78,0.03458,0.2,ci,ci37544381,2025-05-20T15:27:04.883Z,"12 km N of Borrego Springs, CA",earthquake,0.3,0.65,0.109,17,reviewed,ci,ci
 2025-05-20T04:57:08.580Z,33.3691667,-116.3925,11.31,0.92,ml,44,33,0.04735,0.21,ci,ci41156944,2025-05-20T15:21:30.297Z,"13 km N of Borrego Springs, CA",earthquake,0.2,0.36,0.1,26,reviewed,ci,ci
 2025-05-20T04:56:43.520Z,35.3343333,-117.8078333,6.86,1.41,ml,36,36,0.07364,0.17,ci,ci41156936,2025-05-20T13:22:11.802Z,"16 km WSW of Johannesburg, CA",earthquake,0.17,0.48,0.179,26,reviewed,ci,ci
 2025-05-20T04:53:16.824Z,31.665,-104.363,7.0227,2.8,ml,35,66,0.1,0.2,tx,tx2025juiq,2025-05-20T05:25:58.087Z,"56 km S of Whites City, New Mexico",earthquake,0.8301802771378,0.75712918943656,0.2,27,reviewed,tx,tx
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T15:57:47.570Z,33.1195,-116.5111667,13.44,0.62,ml,23,56,0.07431,0.18,ci,ci41156424,2025-05-19T23:52:15.292Z,"10 km ENE of Julian, CA",earthquake,0.29,0.64,0.164,16,reviewed,ci,ci
 2025-05-19T15:51:58.610Z,59.7677,-152.2954,88.2,1.4,ml,,,,0.14,ak,ak0256e4xsr9,2025-05-19T15:54:00.315Z,"26 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-19T15:43:15.300Z,59.9664,-139.5529,0.1,1.6,ml,,,,1.04,ak,ak0256e4vzoq,2025-05-19T15:45:03.951Z,"47 km NNE of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-05-19T15:27:39.470Z,17.1631,-68.5288,50,3.79,md,11,270,1.3588,0.28,pr,pr2025139000,2025-05-19T18:50:49.040Z,"134 km S of Boca de Yuma, Dominican Republic",earthquake,2.68,12.39,0.08,8,reviewed,pr,pr
