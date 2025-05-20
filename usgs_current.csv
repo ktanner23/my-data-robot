@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-05-20T02:59:25.110Z,38.799667358398,-122.73867034912,1.3600000143051,2.09,md,40,54,0.01647,0.06,nc,nc75183921,2025-05-20T03:02:23.000Z,"3 km SW of Cobb, CA",earthquake,0.21,0.319999993,0.12,42,automatic,nc,nc
+2025-05-20T02:59:25.110Z,38.799667358398,-122.73867034912,1.3600000143051,2.09,md,40,54,0.01647,0.06,nc,nc75183921,2025-05-20T03:07:17.236Z,"3 km SW of Cobb, CA",earthquake,0.21,0.319999993,0.12,42,automatic,nc,nc
 2025-05-20T02:55:53.460Z,61.5348,-146.5984,32.7,1.5,ml,,,,0.23,ak,ak0256fkrcuq,2025-05-20T02:57:08.002Z,"46 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-20T02:54:46.820Z,33.375,-116.8851667,6.79,0.69,ml,28,48,0.02846,0.21,ci,ci41156880,2025-05-20T02:58:31.081Z,"3 km NW of Palomar Observatory, CA",earthquake,0.25,0.48,0.22,16,automatic,ci,ci
 2025-05-20T02:48:32.730Z,33.463,-116.8293333,-0.57,0.59,ml,8,127,0.1278,0.19,ci,ci41156872,2025-05-20T02:51:59.038Z,"4 km NE of Aguanga, CA",earthquake,0.58,1.83,0.372,9,automatic,ci,ci
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T23:48:47.935Z,38.7878,-118.8276,8.3,1.6,ml,21,125.42,0.287,0.1837,nn,nn00897772,2025-05-20T00:25:10.602Z,"16 km NNW of Walker Lake, Nevada",earthquake,,2.2,0.16,12,reviewed,nn,nn
 2025-05-19T23:47:08.510Z,19.218000411987,-155.42050170898,1.0599999427795,2.3,ml,9,283,0.1571,0.100000001,hv,hv74676457,2025-05-19T23:50:03.890Z,"6 km ENE of Pāhala, Hawaii",earthquake,3.91,14.7299995,0.27,5,automatic,hv,hv
 2025-05-19T23:45:28.860Z,38.802665710449,-122.73533630371,2.0499999523163,0.55,md,8,118,0.01916,0.02,nc,nc75183876,2025-05-19T23:47:03.381Z,"2 km SW of Cobb, CA",earthquake,0.57,0.910000026,0.25,9,automatic,nc,nc
-2025-05-19T23:43:45.643Z,57.3228,-156.7117,105.4,3.4,ml,,,,0.56,ak,ak0256e9nisx,2025-05-20T00:25:59.393Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-05-19T23:43:45.643Z,57.3228,-156.7117,105.4,3.4,ml,,,,0.56,ak,ak0256e9nisx,2025-05-20T03:06:20.040Z,"46 km ESE of Ugashik, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-05-19T23:31:28.562Z,-31.1409,-178.4542,79.971,5.1,mb,49,43,1.944,0.66,us,us7000q08z,2025-05-20T00:00:24.040Z,"Kermadec Islands region",earthquake,12.37,3.479,0.08,50,reviewed,us,us
 2025-05-19T23:12:03.876Z,64.9622,-147.375,3.8,1.2,ml,,,,0.39,ak,ak0256e9gsg3,2025-05-19T23:14:29.578Z,"11 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-19T23:05:14.300Z,38.747333526611,-122.70300292969,1.5900000333786,1.33,md,13,88,0.02102,0.05,nc,nc75183856,2025-05-20T01:17:21.477Z,"3 km SSW of Anderson Springs, CA",earthquake,0.31,0.540000021,0.18,15,automatic,nc,nc
@@ -234,8 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T03:41:29.227Z,7.467,125.7568,62.974,4.9,mb,56,93,0.432,0.73,us,us7000q03f,2025-05-19T09:33:49.801Z,"1 km SSE of Pagsabangan, Philippines",earthquake,8.61,6.207,0.079,50,reviewed,us,us
 2025-05-19T03:39:35.970Z,41.893666666667,-112.4895,5.17,2.07,ml,23,114,0.1281,0.13,uu,uu80108721,2025-05-19T20:14:03.780Z,"11 km NNW of Howell, Utah",earthquake,0.28,1.11,0.1026589253222,8,reviewed,uu,uu
 2025-05-19T03:31:13.670Z,38.838165283203,-122.797996521,2.7799999713898,0.7,md,9,73,0.01668,0,nc,nc75184237,2025-05-19T04:27:16.168Z,"7 km WNW of Cobb, CA",earthquake,0.4,1.46000004,0.23,11,automatic,nc,nc
-2025-05-19T03:14:40.682Z,37.2086,141.4316,10,4.6,mb,65,97,2.671,1.26,us,us7000q03c,2025-05-19T03:34:58.040Z,"39 km ESE of Tomioka, Japan",earthquake,7.34,1.867,0.06,84,reviewed,us,us
-2025-05-19T03:13:29.950Z,33.5365,-116.7141667,5.34,0.52,ml,22,68,0.0347,0.11,ci,ci41156048,2025-05-19T17:25:41.713Z,"4 km WSW of Anza, CA",earthquake,0.18,0.43,0.09,13,reviewed,ci,ci
-2025-05-19T03:08:12.690Z,38.823501586914,-122.84549713135,2.0999999046326,0.44,md,11,87,0.008185,0.01,nc,nc75184232,2025-05-19T03:47:19.893Z,"9 km NW of The Geysers, CA",earthquake,0.35,0.74000001,0.31,12,automatic,nc,nc
-2025-05-19T03:06:30.530Z,38.835498809815,-122.78932952881,1.8099999427795,1.07,md,20,68,0.003012,0.03,nc,nc75184227,2025-05-19T03:32:18.794Z,"6 km WNW of Cobb, CA",earthquake,0.23,0.409999996,0.24,21,automatic,nc,nc
-2025-05-19T03:03:05.700Z,40.371334075928,-125.10116577148,0.33000001311302,2.74,md,22,271,0.5858,0.32,nc,nc75184217,2025-05-19T03:37:17.828Z,"69 km WNW of Petrolia, CA",earthquake,4.9,13.3800001,0.11,15,automatic,nc,nc
