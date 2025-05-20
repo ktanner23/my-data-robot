@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-20T19:41:30.658Z,61.4139,-150.0987,40.2,1,ml,,,,0.47,ak,ak0256fusocp,2025-05-20T19:43:15.387Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-05-20T19:37:37.100Z,19.080165863037,-155.36349487305,30.569999694824,3.6500001,md,60,233,0.1196,0.129999995,hv,hv74676927,2025-05-20T19:47:39.447Z,"18 km SE of Pāhala, Hawaii",earthquake,0.4,0.569999993,0.119999997,17,automatic,hv,hv
+2025-05-20T19:37:37.100Z,19.080165863037,-155.36349487305,30.569999694824,3.6500001,md,60,233,0.1196,0.129999995,hv,hv74676927,2025-05-20T19:53:35.512Z,"18 km SE of Pāhala, Hawaii",earthquake,0.4,0.569999993,0.119999997,17,automatic,hv,hv
 2025-05-20T19:36:31.207Z,59.9965,-150.9381,60.1,1.6,ml,,,,0.37,ak,ak0256furltc,2025-05-20T19:38:04.596Z,"15 km N of Fox River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-20T19:28:23.533Z,31.717,-104.295,4.5591,1.6,ml,31,62,0.1,0.4,tx,tx2025jvmd,2025-05-20T19:31:04.685Z,"51 km S of Whites City, New Mexico",earthquake,0,0.94221615791321,0.2,25,automatic,tx,tx
 2025-05-20T19:24:23.610Z,38.813999176025,-122.82766723633,2.6900000572205,1.06,md,20,62,0.005258,0.02,nc,nc75184176,2025-05-20T19:42:19.867Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.550000012,0.21,21,automatic,nc,nc
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T22:04:52.650Z,34.8918333,-119.042,11.37,2.28,ml,51,36,0.0898,0.24,ci,ci41156744,2025-05-19T22:15:12.310Z,"11 km ENE of Pine Mountain Club, CA",earthquake,0.24,0.62,0.222,26,automatic,ci,ci
 2025-05-19T21:53:09.780Z,38.842998504639,-122.8809967041,2.4500000476837,1.02,md,17,100,0.00514,0.03,nc,nc75183826,2025-05-19T22:27:18.384Z,"13 km E of Cloverdale, CA",earthquake,0.34,0.5,0.13,18,automatic,nc,nc
 2025-05-19T21:47:02.910Z,47.846,-120.86016666667,3.71,1.29,ml,7,129,0.01871,0.19,uw,uw62112956,2025-05-20T00:15:26.390Z,"31 km NNW of Leavenworth, Washington",explosion,1.15,31.61,0.24774873588998,6,reviewed,uw,uw
-2025-05-19T21:46:53.440Z,35.0608333,-118.3371667,5.31,1.54,ml,22,43,0.07016,0.23,ci,ci41156712,2025-05-19T21:53:16.126Z,"13 km SE of Tehachapi, CA",earthquake,0.39,2.08,0.366,31,automatic,ci,ci
+2025-05-19T21:46:52.690Z,35.0611667,-118.3425,-0.9,1.17,ml,18,44,0.07041,0.18,ci,ci41156712,2025-05-20T19:54:02.329Z,"12 km SE of Tehachapi, CA",quarry blast,0.42,31.61,0.11,19,reviewed,ci,ci
 2025-05-19T21:39:58.390Z,36.438331604004,-121.01416778565,-0.66000002622604,1.8,md,10,165,0.03916,0.15,nc,nc75183821,2025-05-19T21:57:16.182Z,"16 km SE of Pinnacles, CA",earthquake,0.9,1.63,0.11,9,automatic,nc,nc
 2025-05-19T21:39:45.497Z,61.6263,-150.8031,46.1,1.5,ml,,,,0.65,ak,ak0256e8fss5,2025-05-19T21:42:45.915Z,"17 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-05-19T21:36:08.182Z,-11.0263,111.1469,10,4.8,mww,55,63,3.902,0.51,us,us7000q08l,2025-05-19T22:27:34.040Z,"south of Java, Indonesia",earthquake,8.69,1.872,0.11,8,reviewed,us,us
@@ -203,5 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-19T20:17:14.840Z,35.9435,-117.5038333,2.52,1.18,ml,24,82,0.119,0.15,ci,ci41156648,2025-05-20T17:47:25.503Z,"22 km NNW of Searles Valley, CA",earthquake,0.25,0.59,0.133,13,reviewed,ci,ci
 2025-05-19T20:08:13.630Z,33.1941667,-115.63,6.39,1.25,ml,15,86,0.01265,0.23,ci,ci41156632,2025-05-20T14:37:24.099Z,"12 km WSW of Niland, CA",earthquake,0.4,0.45,0.223,5,reviewed,ci,ci
 2025-05-19T20:00:43.310Z,38.835834503174,-122.78483581543,1.6900000572205,1.1,md,17,130,0.005011,0.03,nc,nc75183766,2025-05-19T22:42:20.481Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.449999988,0.16,22,automatic,nc,nc
-2025-05-19T19:55:41.690Z,19.3175,-155.22433333333,6.92,1.97,ml,44,121,0.03608,0.09,hv,hv74676332,2025-05-19T20:47:49.750Z,"13 km S of Volcano, Hawaii",earthquake,0.26,0.44,0.2171634787086,33,reviewed,hv,hv
-2025-05-19T19:49:55.740Z,32.6058333,-117.0023333,-0.43,1.5,ml,30,205,0.06092,0.26,ci,ci41156624,2025-05-20T17:57:06.730Z,"5 km ESE of Chula Vista, CA",quarry blast,0.92,31.61,0.162,16,reviewed,ci,ci
