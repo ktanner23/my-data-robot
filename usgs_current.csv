@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-23T21:41:54.513Z,31.655,-104.372,4.8273,1.6,ml,23,70,0.1,0.3,tx,tx2025kbci,2025-05-23T21:44:48.744Z,"57 km S of Whites City, New Mexico",earthquake,0,1.1461311578751,0.2,18,automatic,tx,tx
 2025-05-23T21:39:44.780Z,33.843,-117.4886667,2.65,1.65,ml,60,30,0.0444,0.18,ci,ci40974079,2025-05-23T21:50:48.560Z,"5 km SE of Home Gardens, CA",earthquake,0.15,0.25,0.165,31,automatic,ci,ci
-2025-05-23T21:32:01.910Z,38.917499542236,-122.08383178711,0.38999998569488,3.06,ml,34,58,0.1316,0.38,nc,nc75185631,2025-05-23T21:46:17.306Z,"11 km WNW of Dunnigan, CA",earthquake,0.6,23.2700005,0.208,14,automatic,nc,nc
+2025-05-23T21:32:01.910Z,38.917499542236,-122.08383178711,0.38999998569488,3.06,ml,34,58,0.1316,0.38,nc,nc75185631,2025-05-23T21:56:30.018Z,"11 km WNW of Dunnigan, CA",earthquake,0.6,23.2700005,0.208,14,automatic,nc,nc
 2025-05-23T21:12:59.341Z,60.2197,-153.3402,155.3,1.9,ml,,,,0.21,ak,ak0256kuffhq,2025-05-23T21:15:10.162Z,"54 km E of Port Alsworth, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-23T21:05:04.430Z,33.4595,-116.6123333,10.11,0.6,ml,16,57,0.03611,0.12,ci,ci40974031,2025-05-23T21:09:12.699Z,"12 km SSE of Anza, CA",earthquake,0.23,0.44,0.221,17,automatic,ci,ci
 2025-05-23T21:00:34.190Z,38.838665008545,-122.81050109863,1.8899999856949,0.93,md,19,49,0.01525,0.02,nc,nc75185621,2025-05-23T21:17:20.238Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.569999993,0.16,21,automatic,nc,nc
@@ -186,6 +186,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T04:32:33.240Z,35.5025,-118.5276667,5.86,1.2,ml,20,53,0.2096,0.12,ci,ci40973351,2025-05-23T17:15:08.822Z,"10 km SSW of Bodfish, CA",earthquake,0.19,0.96,0.173,17,reviewed,ci,ci
 2025-05-23T04:05:01.460Z,38.794,-122.77883333333,1.76,0.43,md,18,77,0.007146,0.02,nc,nc75185171,2025-05-23T09:17:47.310Z,"3 km NW of The Geysers, CA",earthquake,0.21,0.43,0.18,16,reviewed,nc,nc
 2025-05-23T03:57:24.233Z,29.1469,86.8525,10,4.4,mb,36,95,1.929,0.58,us,us7000q10f,2025-05-23T04:43:19.040Z,"132 km N of Lobuche, Nepal",earthquake,5.78,1.894,0.09,36,reviewed,us,us
+2025-05-23T03:56:29.658Z,39.4895,-120.1671,8.9,0.8,ml,7,117.87,0.182,0.2074,nn,nn00897905,2025-05-23T21:57:38.667Z,"13 km WSW of Verdi, California",earthquake,,6.1,0.51,6,reviewed,nn,nn
 2025-05-23T03:54:34.644Z,31.717,-101.676,6.2256,1.7,ml,21,65,0.1,0.2,tx,tx2025jzts,2025-05-23T14:16:34.497Z,"24 km SW of Garden City, Texas",earthquake,1.1670077974722,1.8007095347156,0.1,24,reviewed,tx,tx
 2025-05-23T03:48:32.901Z,64.8446,-148.9087,10.8,1.1,ml,,,,0.42,ak,ak0256kjxaca,2025-05-23T03:50:32.985Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-23T03:42:32.900Z,61.304,-152.3205,-3.07,-0.71,ml,8,165,0.05152,0.31,av,av93615191,2025-05-23T20:55:17.040Z,"68 km WNW of Tyonek, Alaska",earthquake,0.79,3.49,0.16553743131872,8,reviewed,av,av
@@ -228,6 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-22T22:21:15.800Z,53.889833333333,-166.88933333333,3.97,0.3,ml,7,157,0.06086,0.1,av,av93614991,2025-05-23T03:38:51.680Z,"22 km W of Dutch Harbor, Alaska",earthquake,0.36,1.09,0.1633881087874,7,reviewed,av,av
 2025-05-22T22:13:58.570Z,48.089833333333,-123.23533333333,4.71,0.82,ml,4,359,0.1807,0.06,uw,uw62114461,2025-05-22T23:09:16.830Z,"4 km W of Carlsborg, Washington",earthquake,8.57,31.61,0.073480152045324,2,reviewed,uw,uw
 2025-05-22T22:13:55.680Z,38.840999603271,-122.87833404541,2.210000038147,0.72,md,13,88,0.004865,0.02,nc,nc75185081,2025-05-22T22:15:30.340Z,"13 km E of Cloverdale, CA",earthquake,0.3,0.550000012,0.12,12,automatic,nc,nc
-2025-05-22T21:57:26.560Z,42.347,-123.35483333333,-0.71,1.46,ml,6,120,0.1578,0.05,uw,uw62114446,2025-05-22T23:05:13.660Z,"2 km SSE of New Hope, Oregon",explosion,0.48,31.61,0.035870562397734,2,reviewed,uw,uw
-2025-05-22T21:56:54.140Z,51.797833333333,-179.04266666667,9.34,1.97,ml,5,342,0.1174,0.14,av,av93614966,2025-05-23T03:33:20.010Z,"166 km W of Adak, Alaska",earthquake,2.13,0.44,0.1915115131534,5,reviewed,av,av
-2025-05-22T21:54:00.290Z,38.809665679932,-122.77317047119,1.0499999523163,0.85,md,10,123,0.00688,0.02,nc,nc75185076,2025-05-22T22:27:18.220Z,"4 km  of The Geysers, CA",earthquake,0.37,0.709999979,0.21,11,automatic,nc,nc
