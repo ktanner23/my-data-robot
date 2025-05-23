@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T17:02:04.470Z,47.245166778564,-123.9323348999,0.72000002861023,1.5638294219971,ml,16,88,,0.200000003,uw,uw62114796,2025-05-23T17:04:17.970Z,"2 km NE of Humptulips, Washington",earthquake,0.49,1.34000003,0.24370731413364,16,automatic,uw,uw
 2025-05-23T16:52:12.340Z,34.2021667,-117.5476667,9.83,1.82,ml,70,27,0.04016,0.14,ci,ci40973759,2025-05-23T18:53:27.110Z,"8 km SW of Lytle Creek, CA",earthquake,0.12,0.22,0.166,25,reviewed,ci,ci
 2025-05-23T16:48:50.110Z,33.1998333,-115.5908333,3.36,1.07,ml,11,95,0.0305,0.17,ci,ci40973735,2025-05-23T18:29:30.823Z,"8 km WSW of Niland, CA",earthquake,0.36,0.34,0.201,18,reviewed,ci,ci
-2025-05-23T16:36:13.790Z,-30.7885,147.3602,8.348,5.3,mb,99,27,1.613,0.83,us,us7000q14n,2025-05-23T19:33:00.870Z,"87 km N of Nyngan, Australia",earthquake,6.8,4.05,0.064,89,reviewed,us,us
+2025-05-23T16:36:13.790Z,-30.7885,147.3602,8.348,5.3,mb,99,27,1.613,0.83,us,us7000q14n,2025-05-23T19:51:12.054Z,"87 km N of Nyngan, Australia",earthquake,6.8,4.05,0.064,89,reviewed,us,us
 2025-05-23T16:33:26.491Z,-56.4944,147.5272,10,6.1,mww,65,69,6.786,1.45,us,us7000q14k,2025-05-23T18:57:25.272Z,"west of Macquarie Island",earthquake,10.12,1.865,0.052,35,reviewed,us,us
 2025-05-23T16:32:17.515Z,31.592,-104.276,3.8997,1.6,ml,27,75,0.1,0.4,tx,tx2025kasx,2025-05-23T16:35:46.546Z,"55 km WNW of Toyah, Texas",earthquake,0,1.1716549396515,0.2,17,automatic,tx,tx
 2025-05-23T16:23:13.673Z,64.8732,-148.7746,15,0.8,ml,,,,0.42,ak,ak0256kriitj,2025-05-23T16:24:42.092Z,"34 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T09:46:58.673Z,62.9263,-151.2672,126.4,1.7,ml,,,,0.39,ak,ak0256knhiiz,2025-05-23T09:49:24.855Z,"54 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-05-23T09:37:22.990Z,41.2515,-111.689,9.48,0.92,md,17,90,0.153,0.18,uu,uu80003423,2025-05-23T16:05:06.070Z,"6 km E of Huntsville, Utah",earthquake,0.44,1.26,0.20581127293661,12,reviewed,uu,uu
 2025-05-23T09:37:11.240Z,41.250833333333,-111.6975,9.83,0.12,md,8,88,0.1468,0.12,uu,uu80003428,2025-05-23T15:59:15.290Z,"6 km E of Huntsville, Utah",earthquake,0.44,1.33,0.21978771976757,3,reviewed,uu,uu
-2025-05-23T09:30:19.190Z,38.837666666667,-122.79783333333,1.5,0.35,md,15,72,0.005896,0.02,nc,nc75185366,2025-05-23T19:16:38.313Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.84,0.187,14,reviewed,nc,nc
+2025-05-23T09:30:19.190Z,38.837666666667,-122.79783333333,1.5,0.35,md,15,72,0.005896,0.02,nc,nc75185366,2025-05-23T19:52:16.625Z,"7 km WNW of Cobb, CA",earthquake,0.28,0.84,0.187,14,reviewed,nc,nc
 2025-05-23T09:23:31.660Z,38.834999084473,-122.79866790772,1.710000038147,1.07,md,17,59,0.007339,0.01,nc,nc75185361,2025-05-23T10:07:17.710Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.620000005,0.29,19,automatic,nc,nc
 2025-05-23T09:02:47.520Z,18.003333333333,-66.3495,13.24,2.24,md,16,137,0.1123,0.29,pr,pr71483408,2025-05-23T09:13:37.860Z,"1 km WNW of Parcelas Peñuelas, Puerto Rico",earthquake,0.62,0.61,0.18916801085702,13,reviewed,pr,pr
 2025-05-23T08:58:41.700Z,38.831665039062,-122.79900360107,1.9900000095367,0.76,md,11,54,0.009544,0.02,nc,nc75185351,2025-05-23T09:00:18.135Z,"7 km WNW of Cobb, CA",earthquake,0.33,1.22000003,0.18,13,automatic,nc,nc
@@ -172,6 +172,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-23T03:54:34.644Z,31.717,-101.676,6.2256,1.7,ml,21,65,0.1,0.2,tx,tx2025jzts,2025-05-23T14:16:34.497Z,"24 km SW of Garden City, Texas",earthquake,1.1670077974722,1.8007095347156,0.1,24,reviewed,tx,tx
 2025-05-23T03:48:32.901Z,64.8446,-148.9087,10.8,1.1,ml,,,,0.42,ak,ak0256kjxaca,2025-05-23T03:50:32.985Z,"28 km NNE of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-05-23T03:16:18.902Z,68.0995,-155.9997,0,2.2,ml,,,,0.71,ak,ak0256kjqeck,2025-05-23T03:19:26.539Z,"137 km NE of Ambler, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-05-23T03:00:56.860Z,58.196,-155.2575,3.64,0.07,ml,6,131,0.07576,0.05,av,av93615146,2025-05-23T19:58:41.140Z,"84 km NW of Karluk, Alaska",earthquake,0.21,0.91,0.31331443773639,6,reviewed,av,av
 2025-05-23T02:56:39.470Z,42.556333333333,-111.4105,-0.25,1.3,md,11,140,0.3098,0.12,uu,uu80003438,2025-05-23T16:47:20.950Z,"8 km NNW of Georgetown, Idaho",earthquake,0.78,1.24,0.027469453803847,3,reviewed,uu,uu
 2025-05-23T02:48:33.120Z,40.743,-111.63966666667,11.01,0.64,ml,14,98,0.09809,0.1,uu,uu80108891,2025-05-23T14:58:02.350Z,"2 km W of Summit Park, Utah",earthquake,0.36,1.18,0.0040663075230252,2,reviewed,uu,uu
 2025-05-23T02:38:35.180Z,58.325,-155.84866666667,9.51,0.76,ml,6,263,0.1286,0.07,av,av93042454,2025-05-23T19:42:11.210Z,"62 km SE of King Salmon, Alaska",earthquake,0.74,0.34,0.20764748711156,6,reviewed,av,av
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-22T20:28:31.200Z,60.224,-152.9185,9.36,0.7,ml,7,192,0.1986,0.1,av,av93614921,2025-05-23T03:14:50.470Z,"72 km WNW of Ninilchik, Alaska",earthquake,1.3,1.14,0.091279393671866,7,reviewed,av,av
 2025-05-22T20:03:50.857Z,29.4591,80.4502,10,4.6,mb,64,100,4.555,0.97,us,us7000q0xq,2025-05-23T15:48:04.029Z,"21 km NW of Dadeldhurā, Nepal",earthquake,9,1.877,0.08,47,reviewed,us,us
 2025-05-22T20:00:40.870Z,18.254666666667,-66.978666666667,17.08,2.81,md,17,92,0.1286,0.26,pr,pr71483338,2025-05-22T20:18:04.900Z,"1 km ENE of Las Marías, Puerto Rico",earthquake,0.43,0.97,0.14268381532435,11,reviewed,pr,pr
-2025-05-22T19:57:36.246Z,-9.5803,-74.9246,10,5.1,mb,70,61,8.276,0.5,us,us7000q0wc,2025-05-22T20:22:59.040Z,"7 km NE of Yuyapichis, Peru",earthquake,10.11,1.807,0.034,283,reviewed,us,us
-2025-05-22T19:52:39.084Z,-4.0046,102.2903,68.077,5.7,mww,115,37,0.752,0.78,us,us7000q0w7,2025-05-23T17:44:00.343Z,"22 km S of Bengkulu, Indonesia",earthquake,6.38,4.806,0.047,44,reviewed,us,us
