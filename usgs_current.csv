@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-26T22:10:32.800Z,33.2835,-116.2845,4.71,1.15,ml,60,23,0.08142,0.23,ci,ci40977119,2025-05-26T22:14:22.275Z,"9 km ENE of Borrego Springs, CA",earthquake,0.18,0.52,0.145,27,automatic,ci,ci
-2025-05-26T22:08:26.660Z,38.83716583252,-122.80833435059,1.8400000333786,0.7,md,13,59,0.01382,0.02,nc,nc75186956,2025-05-26T22:27:17.823Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.730000019,0.44,14,automatic,nc,nc
+2025-05-26T22:08:26.660Z,38.83716583252,-122.80833435059,1.8400000333786,0.7,md,13,59,0.01382,0.02,nc,nc75186956,2025-05-26T22:42:18.915Z,"8 km WNW of Cobb, CA",earthquake,0.34,0.730000019,0.44,14,automatic,nc,nc
 2025-05-26T22:08:11.800Z,38.7823,-118.8249,6.7,1.5,ml,13,84.4,0.382,0.2032,nn,nn00898016,2025-05-26T22:10:46.483Z,"16 km NNW of Walker Lake, Nevada",earthquake,,2.9,0.08,7,automatic,nn,nn
 2025-05-26T22:00:13.934Z,35.74060822,-98.14134979,0.1308999956,2.41,ml,36,49.19848633,0.09407238662,0.7096113221,ok,ok2025kgpm,2025-05-26T22:08:40.710Z,"15 km W of Okarche, Oklahoma",earthquake,1.88852607,1.727435999,0.34,31,automatic,ok,ok
 2025-05-26T21:43:06.421Z,31.673,-104.453,4.6456,1.6,ml,18,70,0,0.5,tx,tx2025kgpm,2025-05-26T21:55:23.339Z,"56 km S of Whites City, New Mexico",earthquake,0,1.3528708219528,0.2,13,automatic,tx,tx
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-26T17:53:11.930Z,38.820499420166,-122.76499938965,2.25,1.15,md,24,115,0.01067,0.03,nc,nc75186886,2025-05-26T18:37:18.302Z,"4 km W of Cobb, CA",earthquake,0.26,0.419999987,0.17,23,automatic,nc,nc
 2025-05-26T17:48:14.882Z,36.7485,-116.2825,9,-0.2,ml,9,98.28,0.013,0.0677,nn,nn00898022,2025-05-26T22:36:51.999Z,"46 km ESE of Beatty, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
 2025-05-26T17:46:18.594Z,31.627,-104.491,3.3265,1.8,ml,25,107,0,0.2,tx,tx2025kght,2025-05-26T18:00:45.803Z,"61 km S of Whites City, New Mexico",earthquake,0,1.3349837064743,0.1,19,automatic,tx,tx
-2025-05-26T17:45:03.987Z,36.7556,-116.2733,8.9,-0.2,ml,9,103.23,0.049,0.0361,nn,nn00898014,2025-05-26T17:46:54.109Z,"46 km ESE of Beatty, Nevada",earthquake,,1.3,0.33,6,automatic,nn,nn
+2025-05-26T17:45:04.487Z,36.755,-116.2774,8.4,-0.1,ml,21,79.95,0.017,0.0693,nn,nn00898014,2025-05-26T22:43:04.945Z,"46 km ESE of Beatty, Nevada",earthquake,,0.8,0.25,5,reviewed,nn,nn
 2025-05-26T17:41:10.898Z,64.3947,-147.3846,4.8,0.8,ml,,,,0.4,ak,ak0256pqtukx,2025-05-26T17:42:22.310Z,"27 km WSW of Salcha, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-05-26T17:38:55.530Z,38.84049987793,-122.83883666992,1.8400000333786,0.32,md,7,215,0.003238,0.01,nc,nc75186871,2025-05-26T18:12:19.141Z,"10 km NW of The Geysers, CA",earthquake,0.82,1.21000004,0.2,7,automatic,nc,nc
 2025-05-26T17:27:03.610Z,35.6601667,-118.0395,-1.09,1.14,ml,8,221,0.2567,0.17,ci,ci40976983,2025-05-26T17:30:30.898Z,"21 km W of Inyokern, CA",earthquake,2.18,5.34,0.192,12,automatic,ci,ci
@@ -187,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-25T23:15:22.491Z,61.2737,-146.8258,0,1.9,ml,,,,0.72,ak,ak0256o6pjzt,2025-05-25T23:17:33.746Z,"30 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-05-25T23:08:16.156Z,64.9876,-147.4784,0,1.1,ml,,,,0.72,ak,ak0256o6o1hr,2025-05-25T23:09:51.007Z,"7 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-05-25T23:00:42.450Z,33.5341667,-116.7211667,5.66,0.44,ml,14,71,0.03394,0.09,ci,ci40976471,2025-05-25T23:04:23.859Z,"5 km WSW of Anza, CA",earthquake,0.19,0.38,0.106,11,automatic,ci,ci
-2025-05-25T22:43:49.700Z,38.821666717529,-122.80699920654,1.039999961853,0.26,md,7,98,0.002958,0.02,nc,nc75186476,2025-05-25T23:27:17.177Z,"7 km NNW of The Geysers, CA",earthquake,0.41,0.660000026,0.14,8,automatic,nc,nc
-2025-05-25T22:40:41.320Z,38.785667419434,-122.43699645996,10.140000343323,1.15,md,6,114,0.02163,0.02,nc,nc75186471,2025-05-26T00:42:19.653Z,"11 km ESE of Hidden Valley Lake, CA",earthquake,0.81,1.33000004,0.04,7,automatic,nc,nc
