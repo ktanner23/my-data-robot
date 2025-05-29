@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-05-29T11:38:39.800Z,38.822498321533,-122.797996521,1.1799999475479,0.45,md,7,70,0.009477,0.02,nc,nc75188181,2025-05-29T11:40:18.071Z,"6 km NNW of The Geysers, CA",earthquake,0.33,0.980000019,0.31,9,automatic,nc,nc
-2025-05-29T11:38:07.358Z,31.895,-103.339,7.785,1.6,ml,9,148,0.1,0.9,tx,tx2025klhw,2025-05-29T11:41:14.393Z,"23 km NW of Wink, Texas",earthquake,0,3.0697164535522,0.4,6,automatic,tx,tx
+2025-05-29T11:38:08.713Z,31.942,-103.408,6.7881,1.4,ml,9,110,0,0.4,tx,tx2025klhw,2025-05-29T11:47:55.457Z,"27 km SW of Jal, New Mexico",earthquake,0,3.7223496437073,0.2,7,automatic,tx,tx
 2025-05-29T11:32:20.990Z,33.4838333,-116.4963333,15.59,0.63,ml,28,60,0.08913,0.15,ci,ci40979527,2025-05-29T11:35:49.968Z,"18 km ESE of Anza, CA",earthquake,0.23,0.48,0.122,15,automatic,ci,ci
 2025-05-29T11:32:08.810Z,38.839332580566,-122.82399749756,1.6200000047684,0.24,md,10,89,0.009004,0.01,nc,nc75188176,2025-05-29T11:33:47.856Z,"9 km WNW of Cobb, CA",earthquake,0.28,0.889999986,0.07,11,automatic,nc,nc
 2025-05-29T11:29:31.553Z,31.663,-104.302,4.2314,2,ml,39,67,0,0.3,tx,tx2025klhp,2025-05-29T11:34:42.184Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91235637664795,0.2,28,automatic,tx,tx
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T17:22:58.719Z,34.51716667,-97.1835,1.43,1.29,ml,39,81,0.1529699821,0.33,ok,ok2025kjxj,2025-05-28T17:39:00.356Z,"6 km WNW of Davis, Oklahoma",earthquake,,0.9,0.26,17,reviewed,ok,ok
 2025-05-28T17:15:15.236Z,61.2236,-147.4419,0,1.5,ml,,,,1.24,ak,ak0256t1qzab,2025-05-28T17:17:18.042Z,"57 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-05-28T17:07:30.590Z,33.1781667,-116.3908333,7.85,0.25,ml,7,79,0.09246,0.11,ci,ci40978687,2025-05-28T21:40:53.234Z,"9 km S of Borrego Springs, CA",earthquake,0.31,1.45,0.171,6,reviewed,ci,ci
-2025-05-28T17:02:02.030Z,38.758166666667,-122.73083333333,0.86,0.54,md,9,65,0.005789,0.02,nc,nc75187726,2025-05-29T11:27:58.238Z,"3 km SE of The Geysers, CA",earthquake,0.3,0.47,0.276,6,reviewed,nc,nc
+2025-05-28T17:02:02.030Z,38.758166666667,-122.73083333333,0.86,0.54,md,9,65,0.005789,0.02,nc,nc75187726,2025-05-29T11:52:20.153Z,"3 km SE of The Geysers, CA",earthquake,0.3,0.47,0.276,6,reviewed,nc,nc
 2025-05-28T16:54:27.130Z,36.1141667,-117.8515,2.87,1.03,ml,17,62,0.004359,0.08,ci,ci40978663,2025-05-28T21:23:26.141Z,"12 km NE of Coso Junction, CA",earthquake,0.2,0.27,0.226,16,reviewed,ci,ci
 2025-05-28T16:52:18.680Z,35.9013333,-117.6863333,4.63,0.58,ml,13,62,0.05487,0.09,ci,ci40978655,2025-05-28T21:16:47.300Z,"20 km E of Little Lake, CA",earthquake,0.16,0.31,0.166,11,reviewed,ci,ci
 2025-05-28T16:40:13.380Z,19.126667022705,-155.60083007812,7.5900001525879,2.37,ml,20,145,0.1196,0.200000003,hv,hv74682412,2025-05-28T16:43:15.490Z,"6 km NNE of Wai‘ōhinu, Hawaii",earthquake,0.56,1.37,0.18,3,automatic,hv,hv
@@ -223,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-28T12:02:30.124Z,31.653,-104.266,6.6638,1.9,ml,36,66,0.1,0.1,tx,tx2025kjni,2025-05-28T16:18:03.284Z,"58 km NW of Toyah, Texas",earthquake,0.61540351859876,0.95707318829961,0.2,38,reviewed,tx,tx
 2025-05-28T12:00:06.530Z,17.81,-67.041,30.99,2.54,md,4,284,0.1586,0.08,pr,pr71483803,2025-05-28T12:26:52.610Z,"18 km S of La Parguera, Puerto Rico",earthquake,2.55,1.66,0.14000244582479,3,reviewed,pr,pr
 2025-05-28T11:57:56.280Z,35.7341667,-118.014,11.6,0.68,ml,22,70,0.139,0.16,ci,ci40978351,2025-05-28T13:30:22.901Z,"21 km WNW of Inyokern, CA",earthquake,0.26,0.82,0.114,13,reviewed,ci,ci
-2025-05-28T11:49:13.700Z,38.815166473389,-122.81816864014,0.75999999046326,0.76,md,13,92,0.01037,0.01,nc,nc75187581,2025-05-28T12:22:16.965Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.660000026,0.15,15,automatic,nc,nc
