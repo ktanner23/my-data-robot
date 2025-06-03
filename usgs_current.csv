@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-03T22:40:02.500Z,35.6636667,-118.62,7.48,1.36,ml,30,53,0.08973,0.14,ci,ci40983343,2025-06-03T22:43:43.320Z,"14 km WNW of Lake Isabella, CA",earthquake,0.19,0.73,0.271,23,automatic,ci,ci
 2025-06-03T22:37:38.952Z,44.3521,-115.0193,15.941,2.7,ml,27,59,0.275,0.52,us,us6000qhsy,2025-06-03T22:44:55.040Z,"16 km NNW of Stanley, Idaho",earthquake,1.87,8.046,0.042,76,reviewed,us,us
-2025-06-03T22:24:54.387Z,17.9291,-66.7304,10.255,3.5,ml,22,182,0.204,0.52,us,us6000qhsu,2025-06-03T22:44:46.952Z,"7 km SSW of Tallaboa, Puerto Rico",earthquake,1.71,5.436,0.058,39,reviewed,us,us
+2025-06-03T22:24:54.980Z,17.9613,-66.749,8,3.71,md,25,163,0.1309,0.24,pr,pr2025154000,2025-06-03T22:52:26.164Z,"5 km SW of Tallaboa, Puerto Rico",earthquake,0.51,1.47,0.13,23,reviewed,pr,pr
 2025-06-03T22:19:34.810Z,38.814666748047,-122.81783294678,2.5499999523163,0.75,md,11,57,0.01059,0.03,nc,nc75190651,2025-06-03T22:21:08.769Z,"7 km NW of The Geysers, CA",earthquake,0.4,1.35000002,0.13,12,automatic,nc,nc
 2025-06-03T22:18:54.230Z,38.81566619873,-122.81749725342,2.75,1.08,md,25,49,0.009653,0.02,nc,nc75190646,2025-06-03T22:20:29.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.17,27,automatic,nc,nc
 2025-06-03T22:12:28.220Z,46.9715,-122.2105,-0.26,1.5,ml,37,54,0.01638,0.13,uw,uw62122556,2025-06-03T22:38:25.460Z,"1 km SE of Kapowsin, Washington",explosion,0.31,31.61,0.2483423302468,24,reviewed,uw,uw
@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T19:37:29.870Z,38.834499359131,-122.81866455078,1.6299999952316,1.04,md,11,73,0.01296,0.01,nc,nc75190596,2025-06-03T19:39:04.642Z,"8 km NNW of The Geysers, CA",earthquake,0.3,0.74000001,0.33,14,automatic,nc,nc
 2025-06-03T19:36:59.280Z,38.853168487549,-122.38333129883,-0.40000000596046,2.1,md,18,70,0.05296,0.33,nc,nc75190591,2025-06-03T20:17:19.246Z,"16 km E of Hidden Valley Lake, CA",earthquake,0.63,2.75,0.18,19,automatic,nc,nc
 2025-06-03T19:36:05.240Z,32.9113333,-116.9356667,-0.18,1.22,ml,26,57,0.07823,0.31,ci,ci40983319,2025-06-03T21:10:02.970Z,"6 km NNW of Lakeside, CA",quarry blast,0.38,31.61,0.189,22,reviewed,ci,ci
+2025-06-03T19:27:56.430Z,47.506833333333,-122.67516666667,-0.11,1.88,ml,6,287,0.1166,0.32,uw,uw62122441,2025-06-03T22:50:11.260Z,"3 km SE of Gorst, Washington",explosion,3.91,31.61,0.28786476159236,4,reviewed,uw,uw
 2025-06-03T19:23:18.610Z,38.777168273926,-122.764503479,0.46000000834465,0.74,md,8,99,0.006511,0.05,nc,nc75190581,2025-06-03T20:17:18.245Z,"1 km W of The Geysers, CA",earthquake,0.37,0.660000026,0.26,8,automatic,nc,nc
 2025-06-03T19:20:26.812Z,44.3594,-115.0124,15.195,2.8,ml,29,57,0.28,0.51,us,us6000qhrx,2025-06-03T19:47:07.040Z,"16 km NNW of Stanley, Idaho",earthquake,1.44,7.873,0.039,86,reviewed,us,us
 2025-06-03T18:55:06.862Z,-45.1423,167.1259,34.005,4.6,mwr,24,91,0.323,0.63,us,us6000qhrt,2025-06-03T20:05:15.040Z,"55 km WNW of Te Anau, New Zealand",earthquake,4.11,4.875,0.052,36,reviewed,us,us
@@ -141,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-03T09:13:19.095Z,59.327,-152.6778,63.9,1.8,ml,,,,0.37,ak,ak02572u769x,2025-06-03T09:15:20.102Z,"43 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-03T09:11:56.563Z,1.3538,126.2067,56.411,4.9,mb,64,79,1.296,0.8,us,us6000qhlq,2025-06-03T09:32:19.040Z,"120 km E of Bitung, Indonesia",earthquake,4.65,6.824,0.055,105,reviewed,us,us
 2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T20:50:23.166Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
+2025-06-03T08:43:14.820Z,60.542666666667,-152.78766666667,3.37,-0.11,ml,6,143,0.04883,0.04,av,av93626141,2025-06-03T22:51:22.870Z,"80 km W of Salamatof, Alaska",earthquake,0.36,0.98,0.13345070189956,6,reviewed,av,av
 2025-06-03T08:41:50.960Z,61.0155,-152.02866666667,13.9,-0.01,ml,8,306,0.2221,0.07,av,av93043469,2025-06-03T22:46:21.380Z,"48 km W of Tyonek, Alaska",earthquake,1.02,1.87,0.1297359554449,8,reviewed,av,av
 2025-06-03T08:40:00.850Z,34.4218333,-118.9081667,6.34,1.58,ml,41,32,0.01635,0.3,ci,ci40983231,2025-06-03T20:04:10.090Z,"3 km NNE of Fillmore, CA",earthquake,0.34,0.72,0.131,58,reviewed,ci,ci
 2025-06-03T08:34:04.420Z,51.9825,178.39133333333,4.26,1.01,ml,4,345,0.07752,0.31,av,av93626136,2025-06-03T22:41:14.880Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.42,3.99,0.14633735501244,3,reviewed,av,av
@@ -235,10 +237,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T23:45:26.806Z,-15.8132,-71.5717,141.165,4.2,mb,13,144,2.672,0.83,us,us6000qhiv,2025-06-03T01:13:33.040Z,"13 km WSW of Huarancante, Peru",earthquake,5.39,15.426,0.176,9,reviewed,us,us
 2025-06-02T23:41:47.068Z,31.54,-104.018,6.0999,1.8,ml,30,90,0,0.2,tx,tx2025ktoc,2025-06-03T15:52:51.879Z,"32 km NW of Toyah, Texas",earthquake,0.87959755211112,0.46683137972095,0.1,19,reviewed,tx,tx
 2025-06-02T23:41:13.020Z,36.011165618896,-120.57583618164,1.6399999856949,1.88,md,21,77,0.03185,0.08,nc,nc75190261,2025-06-03T00:42:18.371Z,"18 km NW of Parkfield, CA",earthquake,0.29,1.25,0.2,10,automatic,nc,nc
-2025-06-02T23:38:10.540Z,35.456001281738,-120.73850250244,5.4299998283386,2.93,ml,43,53,0.1162,0.04,nc,nc75190256,2025-06-03T21:29:10.387Z,"7 km WSW of Atascadero, CA",earthquake,0.21,0.899999976,0.192,12,automatic,nc,nc
+2025-06-02T23:38:10.540Z,35.456001281738,-120.73850250244,5.4299998283386,2.93,ml,43,53,0.1162,0.04,nc,nc75190256,2025-06-03T22:49:05.205Z,"7 km WSW of Atascadero, CA",earthquake,0.21,0.899999976,0.192,12,automatic,nc,nc
 2025-06-02T23:30:23.420Z,19.558333333333,-65.4695,68.92,3.43,md,17,275,1.294,0.26,pr,pr71484203,2025-06-03T00:53:41.040Z,"131 km NNE of Vieques, Puerto Rico",earthquake,2.49,6.83,0.11295166414026,12,reviewed,pr,pr
 2025-06-02T23:17:28.423Z,36.7471,28.2323,74.036,5.8,mww,116,28,0.54,0.88,us,us6000qhiq,2025-06-03T21:03:30.641Z,"5 km S of İçmeler, Turkey",earthquake,4.72,4.818,0.031,103,reviewed,us,us
 2025-06-02T23:16:47.168Z,44.3186,-115.0082,14.516,2.6,ml,20,62,0.242,0.34,us,us6000qhip,2025-06-03T02:01:50.936Z,"12 km NNW of Stanley, Idaho",earthquake,1.81,7.155,0.051,50,reviewed,us,us
 2025-06-02T23:12:27.930Z,57.0495,-135.75916666667,7.5,0.38,ml,4,115,0.01909,0.06,av,av93625856,2025-06-02T23:54:15.990Z,"25 km W of Sitka, Alaska",earthquake,0.9,0.7,0.28858997936332,4,reviewed,av,av
 2025-06-02T22:57:06.336Z,63.2702,-151.1039,0,1.7,ml,,,,0.62,ak,ak02571env61,2025-06-02T22:59:39.610Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-02T22:48:04.040Z,38.7755,-122.724,1.86,0.21,md,18,73,0.01259,0.04,nc,nc75190251,2025-06-03T21:36:26.557Z,"3 km WNW of Anderson Springs, CA",earthquake,0.19,0.3,0.172,12,reviewed,nc,nc
