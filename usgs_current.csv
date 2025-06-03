@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-03T09:13:19.095Z,59.327,-152.6778,63.9,1.8,ml,,,,0.37,ak,ak02572u769x,2025-06-03T09:15:20.102Z,"43 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-06-03T08:59:51.830Z,48.410331726074,-122.39749908447,7.289999961853,3.142787694931,ml,54,31,,0.219999999,uw,uw62121826,2025-06-03T09:15:14.145Z,"4 km WSW of Mount Vernon, Washington",earthquake,0.29,0.949999988,0.36910071969032,161,automatic,uw,uw
+2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T09:29:11.880Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
 2025-06-03T08:40:00.900Z,34.4231667,-118.9086667,6.12,1.79,ml,58,32,0.01714,0.31,ci,ci40983231,2025-06-03T08:50:57.570Z,"3 km NNE of Fillmore, CA",earthquake,0.3,0.63,0.115,27,automatic,ci,ci
 2025-06-03T08:32:51.440Z,38.788166046143,-122.76599884033,1.2699999809265,1.39,md,23,78,0.01338,0.04,nc,nc75190391,2025-06-03T09:07:17.772Z,"1 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.19,23,automatic,nc,nc
 2025-06-03T08:25:36.050Z,17.995166666667,-66.826,15.78,2.5,md,13,172,0.05449,0.15,pr,pr71484273,2025-06-03T08:37:03.030Z,"0 km W of Indios, Puerto Rico",earthquake,0.4,0.72,0.0070449581017813,4,reviewed,pr,pr
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T23:41:13.020Z,36.011165618896,-120.57583618164,1.6399999856949,1.88,md,21,77,0.03185,0.08,nc,nc75190261,2025-06-03T00:42:18.371Z,"18 km NW of Parkfield, CA",earthquake,0.29,1.25,0.2,10,automatic,nc,nc
 2025-06-02T23:38:10.540Z,35.456001281738,-120.73850250244,5.4299998283386,2.93,ml,43,53,0.1162,0.04,nc,nc75190256,2025-06-03T06:23:45.097Z,"7 km WSW of Atascadero, CA",earthquake,0.21,0.899999976,0.192,12,automatic,nc,nc
 2025-06-02T23:30:23.420Z,19.558333333333,-65.4695,68.92,3.43,md,17,275,1.294,0.26,pr,pr71484203,2025-06-03T00:53:41.040Z,"131 km NNE of Vieques, Puerto Rico",earthquake,2.49,6.83,0.11295166414026,12,reviewed,pr,pr
-2025-06-02T23:17:28.423Z,36.7471,28.2323,74.036,5.8,mww,116,28,0.54,0.88,us,us6000qhiq,2025-06-03T09:13:20.546Z,"5 km S of İçmeler, Turkey",earthquake,4.72,4.818,0.031,103,reviewed,us,us
+2025-06-02T23:17:28.423Z,36.7471,28.2323,74.036,5.8,mww,116,28,0.54,0.88,us,us6000qhiq,2025-06-03T09:19:04.732Z,"5 km S of İçmeler, Turkey",earthquake,4.72,4.818,0.031,103,reviewed,us,us
 2025-06-02T23:16:47.168Z,44.3186,-115.0082,14.516,2.6,ml,20,62,0.242,0.34,us,us6000qhip,2025-06-03T02:01:50.936Z,"12 km NNW of Stanley, Idaho",earthquake,1.81,7.155,0.051,50,reviewed,us,us
 2025-06-02T23:12:27.930Z,57.0495,-135.75916666667,7.5,0.38,ml,4,115,0.01909,0.06,av,av93625856,2025-06-02T23:54:15.990Z,"25 km W of Sitka, Alaska",earthquake,0.9,0.7,0.28858997936332,4,reviewed,av,av
 2025-06-02T22:57:06.336Z,63.2702,-151.1039,0,1.7,ml,,,,0.62,ak,ak02571env61,2025-06-02T22:59:39.610Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T20:10:39.514Z,31.673,-104.391,4.121,1.5,ml,17,69,0,0.4,tx,tx2025kthe,2025-06-02T20:16:04.038Z,"55 km S of Whites City, New Mexico",earthquake,0,1.197438955307,0.1,13,automatic,tx,tx
 2025-06-02T20:10:09.900Z,44.5915,-110.7285,7.82,1.3,ml,18,65,0.06251,0.14,uu,uu80109541,2025-06-02T20:41:14.590Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.38,0.52,0.34616979999742,3,reviewed,uu,uu
 2025-06-02T20:03:27.495Z,31.667,-104.373,7.0355,2,ml,28,69,0,0.3,tx,tx2025ktgu,2025-06-03T09:15:23.880Z,"56 km S of Whites City, New Mexico",earthquake,0.55027516488743,0.63058246112886,0.2,12,reviewed,tx,tx
-2025-06-02T20:02:25.849Z,31.672,-104.375,3.452,2.1,ml,27,97,0,0.3,tx,tx2025ktgs,2025-06-02T21:02:34.190Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0571893453598,0.2,20,automatic,tx,tx
+2025-06-02T20:02:25.461Z,31.667,-104.372,6.0999,2,ml,25,69,0,0.3,tx,tx2025ktgs,2025-06-03T09:28:14.927Z,"56 km S of Whites City, New Mexico",earthquake,1.1589283548329,1.4561239955473,0.2,15,reviewed,tx,tx
 2025-06-02T20:01:16.241Z,31.68,-104.374,5.6897,2.5,ml,31,68,0,0.2,tx,tx2025ktgp,2025-06-03T06:50:41.519Z,"54 km S of Whites City, New Mexico",earthquake,0.78366299369902,1.1900858079491,0.2,24,reviewed,tx,tx
 2025-06-02T20:00:37.600Z,44.595333333333,-110.7375,4.85,1.28,md,7,130,0.06812,0.11,uu,uu80109536,2025-06-02T21:59:53.140Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.95,0.65,0.3949253003759,4,reviewed,uu,uu
 2025-06-02T19:50:04.089Z,32.086,-101.483,3.6451,1.6,ml,26,72,0.1,0.4,tx,tx2025ktgf,2025-06-02T19:53:17.711Z,"11 km WSW of Forsan, Texas",earthquake,0,1.1404103040695,0.1,16,automatic,tx,tx
@@ -235,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T09:44:44.900Z,32.791,-115.439,12.6,1.63,ml,29,61,0.01572,0.34,ci,ci40982791,2025-06-02T09:48:20.015Z,"6 km WSW of Holtville, CA",earthquake,0.46,0.74,0.266,28,automatic,ci,ci
 2025-06-02T09:44:03.390Z,32.7835,-115.4316667,10.12,1.26,ml,18,66,0.02521,0.29,ci,ci40982783,2025-06-02T17:30:58.763Z,"6 km WSW of Holtville, CA",earthquake,0.48,0.74,0.119,5,reviewed,ci,ci
 2025-06-02T09:32:22.853Z,61.5953,-146.3799,30.6,2.9,ml,,,,0.4,ak,ak025716rwod,2025-06-02T13:37:28.040Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-02T09:29:52.920Z,46.886,-112.87583333333,7.59,0.92,ml,16,102,0.148,0.17,mb,mb90092188,2025-06-02T23:44:05.880Z,"16 km WSW of Lincoln, Montana",earthquake,0.55,2.81,0.30627229148839,10,reviewed,mb,mb
-2025-06-02T09:23:19.093Z,36.7972,-116.07,5.8,-0.3,ml,9,200.11,0.022,0.0996,nn,nn00898394,2025-06-02T13:32:36.148Z,"43 km NW of Indian Springs, Nevada",earthquake,,1.4,0.05,3,reviewed,nn,nn
