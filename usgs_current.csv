@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-03T09:13:19.095Z,59.327,-152.6778,63.9,1.8,ml,,,,0.37,ak,ak02572u769x,2025-06-03T09:15:20.102Z,"43 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-03T09:11:56.563Z,1.3538,126.2067,56.411,4.9,mb,64,79,1.296,0.8,us,us6000qhlq,2025-06-03T09:32:19.040Z,"120 km E of Bitung, Indonesia",earthquake,4.65,6.824,0.055,105,reviewed,us,us
-2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T09:34:12.935Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
+2025-06-03T08:59:51.900Z,48.4145,-122.38683333333,8.7,2.88,ml,25,37,0.04805,0.21,uw,uw62121826,2025-06-03T09:57:25.177Z,"3 km W of Mount Vernon, Washington",earthquake,0.32,0.6,0.16722938517459,19,reviewed,uw,uw
 2025-06-03T08:40:00.900Z,34.4231667,-118.9086667,6.12,1.79,ml,58,32,0.01714,0.31,ci,ci40983231,2025-06-03T08:50:57.570Z,"3 km NNE of Fillmore, CA",earthquake,0.3,0.63,0.115,27,automatic,ci,ci
 2025-06-03T08:32:51.440Z,38.788166046143,-122.76599884033,1.2699999809265,1.39,md,23,78,0.01338,0.04,nc,nc75190391,2025-06-03T09:07:17.772Z,"1 km NNW of The Geysers, CA",earthquake,0.23,0.370000005,0.19,23,automatic,nc,nc
 2025-06-03T08:25:36.050Z,17.995166666667,-66.826,15.78,2.5,md,13,172,0.05449,0.15,pr,pr71484273,2025-06-03T08:37:03.030Z,"0 km W of Indios, Puerto Rico",earthquake,0.4,0.72,0.0070449581017813,4,reviewed,pr,pr
@@ -110,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T20:03:27.495Z,31.667,-104.373,7.0355,2,ml,28,69,0,0.3,tx,tx2025ktgu,2025-06-03T09:15:23.880Z,"56 km S of Whites City, New Mexico",earthquake,0.55027516488743,0.63058246112886,0.2,12,reviewed,tx,tx
 2025-06-02T20:02:25.461Z,31.667,-104.372,6.0999,2,ml,25,69,0,0.3,tx,tx2025ktgs,2025-06-03T09:28:14.927Z,"56 km S of Whites City, New Mexico",earthquake,1.1589283548329,1.4561239955473,0.2,15,reviewed,tx,tx
 2025-06-02T20:01:16.241Z,31.68,-104.374,5.6897,2.5,ml,31,68,0,0.2,tx,tx2025ktgp,2025-06-03T06:50:41.519Z,"54 km S of Whites City, New Mexico",earthquake,0.78366299369902,1.1900858079491,0.2,24,reviewed,tx,tx
+2025-06-02T20:01:16.194Z,31.673,-104.376,6.5613,2.4,ml,29,69,0,0.3,tx,tx2025ktgq,2025-06-03T09:56:25.073Z,"55 km S of Whites City, New Mexico",earthquake,0.81063639486369,1.2034572033176,0.2,22,reviewed,tx,tx
 2025-06-02T20:00:37.600Z,44.595333333333,-110.7375,4.85,1.28,md,7,130,0.06812,0.11,uu,uu80109536,2025-06-02T21:59:53.140Z,"30 km ESE of West Yellowstone, Montana",earthquake,0.95,0.65,0.3949253003759,4,reviewed,uu,uu
 2025-06-02T19:50:04.089Z,32.086,-101.483,3.6451,1.6,ml,26,72,0.1,0.4,tx,tx2025ktgf,2025-06-02T19:53:17.711Z,"11 km WSW of Forsan, Texas",earthquake,0,1.1404103040695,0.1,16,automatic,tx,tx
 2025-06-02T19:47:05.920Z,44.346666666667,-115.02316666667,5.19,1.68,ml,11,77,0.2719,0.14,mb,mb90092008,2025-06-02T20:08:17.620Z,"15 km NNW of Stanley, Idaho",earthquake,0.46,2.32,0.17879779405515,16,reviewed,mb,mb
@@ -229,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-02T10:07:41.178Z,31.679,-104.376,4.6643,1.8,ml,23,68,0,0.1,tx,tx2025ksne,2025-06-02T20:46:39.349Z,"55 km S of Whites City, New Mexico",earthquake,0.67205025875238,0.81438695966634,0.1,25,reviewed,tx,tx
 2025-06-02T10:06:04.220Z,47.658,-122.20866666667,30.49,1.1,ml,28,53,0.04194,0.22,uw,uw62120691,2025-06-02T20:08:12.410Z,"1 km NNE of Yarrow Point, Washington",earthquake,0.38,0.83,0.11045525702411,8,reviewed,uw,uw
 2025-06-02T10:03:43.011Z,44.3562,-115.0283,5,2.5,ml,30,59,0.282,0.67,us,us6000qhe2,2025-06-02T14:00:11.040Z,"17 km NNW of Stanley, Idaho",earthquake,1.97,1.922,0.047,60,reviewed,us,us
-2025-06-02T09:57:58.970Z,19.270500183106,-155.38400268555,-0.10999999940395,2.18,ml,51,117,0.03521,0.219999999,hv,hv74686387,2025-06-02T10:02:17.300Z,"12 km NE of Pāhala, Hawaii",earthquake,0.26,0.280000001,0.61,15,automatic,hv,hv
-2025-06-02T09:55:26.590Z,33.957,-116.703,13.93,0.73,ml,49,59,0.09329,0.18,ci,ci40982799,2025-06-02T09:58:53.327Z,"9 km ENE of Cabazon, CA",earthquake,0.16,0.41,0.146,24,automatic,ci,ci
-2025-06-02T09:50:40.334Z,32.401,-101.718,6.6162,1.6,ml,40,46,0.1,0.1,tx,tx2025ksmo,2025-06-02T18:56:09.539Z,"13 km S of Ackerly, Texas",earthquake,0.35437714143918,0.58601587649725,0.2,47,reviewed,tx,tx
