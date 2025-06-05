@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T16:20:53.780Z,36.07,-120.21383333333,8.65,0.94,md,22,131,0.05372,0.09,nc,nc75191391,2025-06-05T17:52:16.155Z,"11 km NW of Avenal, CA",earthquake,0.58,0.55,0.147,7,reviewed,nc,nc
 2025-06-05T16:05:16.610Z,38.768501281738,-122.73916625977,0.81999999284744,1.2,md,15,76,0.01314,0.03,nc,nc75191381,2025-06-05T18:32:16.438Z,"2 km SE of The Geysers, CA",earthquake,0.24,0.330000013,0.25,14,automatic,nc,nc
 2025-06-05T16:01:19.210Z,36.865501403809,-121.51667022705,-0.14000000059605,1.71,md,13,76,0.02755,0.28,nc,nc75191376,2025-06-05T18:07:18.255Z,"3 km NE of San Juan Bautista, CA",earthquake,0.49,1.73000002,0.08,13,automatic,nc,nc
-2025-06-05T15:50:19.650Z,35.3378333,-117.8138333,7.56,1.64,ml,41,35,0.07497,0.17,ci,ci41176128,2025-06-05T17:18:47.427Z,"17 km WSW of Johannesburg, CA",earthquake,0.17,0.58,0.156,26,reviewed,ci,ci
+2025-06-05T15:50:19.550Z,35.3373333,-117.8123333,8.4,1.64,ml,41,52,0.07494,0.15,ci,ci41176128,2025-06-05T19:24:55.853Z,"17 km WSW of Johannesburg, CA",earthquake,0.16,0.45,0.179,30,reviewed,ci,ci
 2025-06-05T15:43:53.527Z,54.2378,158.8912,171.863,4.3,mb,41,92,1.225,0.56,us,us6000qi58,2025-06-05T16:02:18.040Z,"53 km SSE of Mil’kovo, Russia",earthquake,13.05,10.327,0.085,39,reviewed,us,us
 2025-06-05T15:41:48.734Z,61.8484,-148.7412,6.9,2.7,ml,,,,1,ak,ak0257690j7l,2025-06-05T18:03:59.105Z,"7 km N of Sutton-Alpine, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-05T15:41:28.160Z,35.3355,-117.807,8.1,0.97,ml,20,80,0.07498,0.14,ci,ci41176120,2025-06-05T19:16:53.756Z,"16 km WSW of Johannesburg, CA",earthquake,0.23,0.59,0.199,16,reviewed,ci,ci
@@ -133,7 +133,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T03:26:21.976Z,27.6484,-102.9146,10,4.9,mww,76,78,1.805,1.12,us,us6000qi1q,2025-06-05T08:20:57.528Z,"63 km NW of Ocampo, Mexico",earthquake,3.82,1.763,0.063,24,reviewed,us,us
 2025-06-05T03:23:15.910Z,35.3203333,-117.801,7.38,0.91,ml,8,86,0.06427,0.08,ci,ci37729436,2025-06-05T17:59:14.590Z,"16 km WSW of Johannesburg, CA",earthquake,0.23,0.55,0.13,7,reviewed,ci,ci
 2025-06-05T03:22:39.610Z,35.317,-117.805,6.76,1.15,ml,27,86,0.05968,0.2,ci,ci41175392,2025-06-05T17:47:54.028Z,"17 km WSW of Johannesburg, CA",earthquake,0.24,0.52,0.223,11,reviewed,ci,ci
+2025-06-05T03:01:23.530Z,51.300333333333,-178.89816666667,12.03,1.54,ml,8,310,0.2589,0.15,av,av93627991,2025-06-05T19:26:04.330Z,"169 km WSW of Adak, Alaska",earthquake,1.13,0.6,0.21740846699734,8,reviewed,av,av
 2025-06-05T03:00:44.400Z,36.7755,-121.291,8.93,1.99,md,61,58,0.01721,0.1,nc,nc75191136,2025-06-05T15:05:01.945Z,"3 km SE of Tres Pinos, CA",earthquake,0.13,0.24,0.13,60,reviewed,nc,nc
+2025-06-05T02:59:56.850Z,51.969,178.51516666667,3.53,-0.55,ml,4,149,0.0003774,0.04,av,av93043719,2025-06-05T19:20:50.840Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.49,0.53,0.18937437725682,3,reviewed,av,av
 2025-06-05T02:59:47.000Z,51.991166666667,178.5,2.65,-0.17,ml,4,318,0.02373,0.13,av,av93627981,2025-06-05T19:17:49.840Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.1,1.11,0.12844115524402,3,reviewed,av,av
 2025-06-05T02:58:14.110Z,51.974333333333,178.48483333333,4.37,0.04,ml,4,318,0.01922,0.16,av,av93043709,2025-06-05T19:15:14.930Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.37,0.87,0.15320044786637,3,reviewed,av,av
 2025-06-05T02:58:06.730Z,51.989666666667,178.48033333333,3.65,-0.41,ml,4,326,0.02951,0.08,av,av93627976,2025-06-05T19:13:12.280Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,0.91,0.82,0.10729512083481,3,reviewed,av,av
@@ -235,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-04T19:29:30.379Z,36.5033,71.1492,229.22,4.2,mb,69,79,2.096,0.8,us,us6000qhyi,2025-06-04T20:42:27.040Z,"39 km WSW of Ashkāsham, Afghanistan",earthquake,7.97,7.099,0.083,41,reviewed,us,us
 2025-06-04T19:28:47.753Z,32.127,-101.498,7.1533,1.5,ml,22,88,0.1,0.1,tx,tx2025kwwi,2025-06-05T10:33:40.644Z,"12 km W of Forsan, Texas",earthquake,0.43103301956122,0.70729651991634,0.2,16,reviewed,tx,tx
 2025-06-04T19:27:08.450Z,33.6768333,-116.7641667,15.78,3.19,ml,135,13,0.05727,0.19,ci,ci41173792,2025-06-05T19:06:05.608Z,"8 km SSW of Idyllwild, CA",earthquake,0.1,0.25,0.143,363,reviewed,ci,ci
-2025-06-04T19:22:04.720Z,47.7685,-122.85366666667,18.79,0.67,ml,7,148,0.05888,0.14,uw,uw62123216,2025-06-04T20:36:41.210Z,"6 km SSE of Quilcene, Washington",earthquake,0.65,0.86,0.096260451144539,3,reviewed,uw,uw
-2025-06-04T19:20:35.409Z,35.666,-97.41,7.65,1.06,ml,47,78,0.03509311353,0.16,ok,ok2025kwvt,2025-06-05T16:20:48.547Z,"6 km ENE of Edmond, Oklahoma",earthquake,,0.3,0.21,19,reviewed,ok,ok
