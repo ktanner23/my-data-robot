@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-06T03:50:37.800Z,38.811500549316,-122.82233428955,3.039999961853,0.75,md,6,139,0.005958,0.02,nc,nc75191601,2025-06-06T03:52:14.667Z,"7 km NW of The Geysers, CA",earthquake,1.36,1.48000002,0.18,8,automatic,nc,nc
 2025-06-06T03:45:07.820Z,33.2128333,-115.9435,7.17,1.21,ml,37,53,0.04862,0.2,ci,ci41176424,2025-06-06T03:48:44.654Z,"10 km S of Salton City, CA",earthquake,0.25,0.58,0.183,27,automatic,ci,ci
-2025-06-06T03:27:22.254Z,31.949,-103.366,7.9024,2.4,ml,27,61,0,0.4,tx,tx2025kzhi,2025-06-06T03:32:09.496Z,"24 km SW of Jal, New Mexico",earthquake,0,1.9514130353928,0.3,20,automatic,tx,tx
+2025-06-06T03:27:22.254Z,31.949,-103.366,7.9024,2.4,ml,27,61,0,0.4,tx,tx2025kzhi,2025-06-06T04:00:16.620Z,"24 km SW of Jal, New Mexico",earthquake,0,1.9514130353928,0.3,20,automatic,tx,tx
 2025-06-06T03:21:27.240Z,33.5353333,-116.7201667,5.44,0.48,ml,14,78,0.03323,0.1,ci,ci41176400,2025-06-06T03:25:01.197Z,"5 km WSW of Anza, CA",earthquake,0.24,0.63,0.136,12,automatic,ci,ci
 2025-06-06T03:20:31.040Z,63.41,-149.013,82.6,1.8,ml,,,,0.52,ak,ak02577pa528,2025-06-06T03:23:10.601Z,"3 km WNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-06-06T03:18:47.724Z,62.1282,-150.1915,59,1.4,ml,,,,0.63,ak,ak02577p9qx0,2025-06-06T03:20:29.011Z,"18 km WSW of Susitna North, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -100,10 +100,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T18:50:07.620Z,47.7155,-113.81883333333,4.75,-0.3,ml,4,183,0.08337,0.05,mb,mb90093863,2025-06-05T22:36:32.820Z,"18 km E of Finley Point, Montana",earthquake,0.65,2.95,0.11779417038107,2,reviewed,mb,mb
 2025-06-05T18:36:28.390Z,-60.7921,-23.634,10,4.7,mb,50,115,13.649,0.9,us,us6000qi8p,2025-06-05T20:42:49.040Z,"South Sandwich Islands region",earthquake,11.22,1.702,0.085,42,reviewed,us,us
 2025-06-05T18:34:13.373Z,59.954,-152.7322,84.2,2,ml,,,,0.5,ak,ak02576ar9ax,2025-06-05T18:36:24.333Z,"54 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-06-05T18:33:30.300Z,51.760666666667,-177.44866666667,1.88,1.86,ml,13,181,0.1327,0.19,av,av93628771,2025-06-06T03:57:13.090Z,"57 km WSW of Adak, Alaska",earthquake,1.11,1.58,0.26867241595759,14,reviewed,av,av
 2025-06-05T18:32:01.570Z,35.3345,-117.8015,8.67,0.53,ml,4,176,0.07611,0.03,ci,ci37729460,2025-06-05T21:23:52.643Z,"16 km WSW of Johannesburg, CA",earthquake,0.26,0.58,0.106,3,reviewed,ci,ci
 2025-06-05T18:31:29.750Z,35.3386667,-117.8021667,9.52,0.65,ml,9,83,0.07955,0.07,ci,ci37729452,2025-06-05T21:17:43.610Z,"16 km WSW of Johannesburg, CA",earthquake,0.18,0.44,0.173,5,reviewed,ci,ci
 2025-06-05T18:31:21.510Z,36.0946667,-117.8586667,3.67,1.24,ml,17,123,0.02307,0.11,ci,ci41176216,2025-06-05T21:13:31.818Z,"10 km NE of Coso Junction, CA",earthquake,0.21,0.33,0.169,21,reviewed,ci,ci
 2025-06-05T18:28:03.532Z,61.2487,-151.748,85.4,0.8,ml,,,,0.33,ak,ak02576apy8x,2025-06-05T18:29:52.332Z,"37 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-06-05T18:25:38.650Z,51.7095,-177.445,8.75,1.23,ml,12,204,0.1405,0.23,av,av93628746,2025-06-06T03:53:32.000Z,"58 km WSW of Adak, Alaska",earthquake,1.09,1.23,0.21606016937849,13,reviewed,av,av
 2025-06-05T18:17:47.870Z,17.959333333333,-66.942833333333,9.08,2.19,md,5,201,0.0625,0.06,pr,pr71484648,2025-06-05T18:37:27.120Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.53,0.63,0.07535374431761,5,reviewed,pr,pr
 2025-06-05T18:04:07.639Z,60.1174,-152.0669,60.1,2.3,ml,,,,0.61,ak,ak02576aktdn,2025-06-05T18:14:45.040Z,"23 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-05T18:00:18.889Z,31.589,-104.564,3.3369,2.1,ml,33,121,0.1,0.2,tx,tx2025kyop,2025-06-05T18:04:52.554Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.3274796009064,0.1,19,automatic,tx,tx
@@ -276,4 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T04:21:00.410Z,51.99,178.49533333333,4.26,-0.23,ml,4,320,0.02397,0.1,av,av93628061,2025-06-05T19:57:47.570Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.1,0.79,0.16566304120408,3,reviewed,av,av
 2025-06-05T04:10:59.330Z,51.9965,178.49,4.2,-0.43,ml,4,325,0.03126,0.09,av,av93628056,2025-06-05T19:54:22.440Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.1,0.99,0.1360028957273,3,reviewed,av,av
 2025-06-05T04:06:16.910Z,36.0605,-117.4138333,2.84,1.75,ml,26,79,0.1996,0.13,ci,ci41175552,2025-06-05T18:27:41.868Z,"33 km N of Searles Valley, CA",earthquake,0.19,0.64,0.154,23,reviewed,ci,ci
-2025-06-05T03:56:41.760Z,17.9675,-66.9435,9.67,2.29,md,7,190,0.06161,0.17,pr,pr71484608,2025-06-05T04:07:38.090Z,"3 km SW of Fuig, Puerto Rico",earthquake,0.67,1.04,0.061256515460927,4,reviewed,pr,pr
