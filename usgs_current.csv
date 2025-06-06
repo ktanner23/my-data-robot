@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-06T09:43:12.952Z,36.3922,-114.9398,3.9,1.1,ml,13,323.77,0.208,0.3058,nn,nn00898578,2025-06-06T09:45:44.132Z,"19 km NNE of Nellis Air Force Base, Nevada",earthquake,,10.9,0.27,7,automatic,nn,nn
-2025-06-06T09:37:10.620Z,38.821166992188,-122.80433654785,3.1300001144409,1.08,md,22,37,0.005004,0.02,nc,nc75191716,2025-06-06T09:38:49.079Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.620000005,0.11,25,automatic,nc,nc
+2025-06-06T09:37:10.620Z,38.821166992188,-122.80433654785,3.1300001144409,1.08,md,22,37,0.005004,0.02,nc,nc75191716,2025-06-06T09:52:18.052Z,"6 km NNW of The Geysers, CA",earthquake,0.23,0.620000005,0.11,25,automatic,nc,nc
 2025-06-06T09:22:50.120Z,38.82149887085,-122.80533599853,2.8900001049042,0.72,md,8,97,0.004157,0.01,nc,nc75191711,2025-06-06T09:42:20.982Z,"6 km NNW of The Geysers, CA",earthquake,0.49,1.32000005,0.16,8,automatic,nc,nc
 2025-06-06T09:15:57.125Z,64.6818,-146.8386,16.9,0.9,ml,,,,0.26,ak,ak02577stq4g,2025-06-06T09:18:09.427Z,"10 km E of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-06T09:14:23.001Z,31.667,-104.195,4.1868,1.9,ml,36,111,0.1,0.4,tx,tx2025kzst,2025-06-06T09:21:18.009Z,"54 km NW of Toyah, Texas",earthquake,0,0.98909473419189,0.2,18,automatic,tx,tx
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T07:28:16.281Z,-23.4623,-67.0836,208.104,4.2,mb,16,90,1.128,0.9,us,us6000qid1,2025-06-06T07:51:14.040Z,"114 km NW of San Antonio de los Cobres, Argentina",earthquake,6.39,8.225,0.176,9,reviewed,us,us
 2025-06-06T07:23:56.060Z,17.918,-66.849666666667,12.13,2.4,md,8,228,0.06335,0.1,pr,pr71484868,2025-06-06T07:45:10.710Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.37,0.13343993397816,5,reviewed,pr,pr
 2025-06-06T07:21:07.135Z,37.3255,-114.6324,1.8,1.5,ml,15,177.73,0.343,0.3382,nn,nn00898577,2025-06-06T07:36:10.834Z,"33 km SSW of Caliente, Nevada",earthquake,,16.9,0.19,3,automatic,nn,nn
-2025-06-06T07:16:12.812Z,37.266,-114.6424,4.3,4.8,ml,12,87.08,0.354,0.1596,nn,nn00898573,2025-06-06T09:36:26.242Z,"40 km SSW of Caliente, Nevada",earthquake,,4.1,0.43,10,reviewed,nn,nn
+2025-06-06T07:16:12.812Z,37.266,-114.6424,4.3,4.8,ml,12,87.08,0.354,0.1596,nn,nn00898573,2025-06-06T09:48:02.714Z,"40 km SSW of Caliente, Nevada",earthquake,,4.1,0.43,10,reviewed,nn,nn
 2025-06-06T07:12:26.970Z,38.825164794922,-122.8553314209,2.2799999713898,0.69,md,11,148,0.002664,0.01,nc,nc75191666,2025-06-06T09:42:21.981Z,"10 km NW of The Geysers, CA",earthquake,0.46,0.889999986,0.14,12,automatic,nc,nc
 2025-06-06T07:07:03.850Z,19.488000869751,-155.29133605957,9.579999923706,2.04,ml,50,44,0.03154,0.159999996,hv,hv74689342,2025-06-06T07:10:25.020Z,"7 km NW of Volcano, Hawaii",earthquake,0.22,0.439999998,0.43,16,automatic,hv,hv
 2025-06-06T07:06:01.120Z,38.875331878662,-122.83249664307,0.86000001430511,1.01,md,9,187,0.01684,0.03,nc,nc75191661,2025-06-06T07:27:17.967Z,"11 km NW of Cobb, CA",earthquake,0.55,0.829999983,0.23,11,automatic,nc,nc
@@ -280,4 +280,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T10:05:08.955Z,4.2734,125.8742,101.009,4.6,mb,45,45,0.603,1.28,us,us6000qi3k,2025-06-05T10:28:59.040Z,"132 km SSE of Sarangani, Philippines",earthquake,7.44,6.439,0.088,38,reviewed,us,us
 2025-06-05T09:58:26.270Z,38.824,-122.809,2.52,0.31,md,21,68,0.001034,0.02,nc,nc75191246,2025-06-05T18:22:18.362Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.49,0.322,21,reviewed,nc,nc
 2025-06-05T09:57:48.604Z,63.4288,-151.3974,0.8,1.8,ml,,,,0.26,ak,ak025765jd1o,2025-06-05T09:59:32.019Z,"20 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-05T09:53:41.110Z,38.833332061768,-122.80200195312,2.6800000667572,0.57,md,13,72,0.01042,0.02,nc,nc75191236,2025-06-05T10:57:16.137Z,"7 km WNW of Cobb, CA",earthquake,0.38,1.03999996,0.36,14,automatic,nc,nc
