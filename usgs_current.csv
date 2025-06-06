@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-06T22:33:38.540Z,35.3301659,-117.8183365,7.49,1.56,ml,19,80,0.06652,0.19,ci,ci41177440,2025-06-06T22:36:06.869Z,"17 km WSW of Johannesburg, CA",earthquake,0.44,1.22,0.291,13,automatic,ci,ci
+2025-06-06T22:33:38.510Z,35.3313333,-117.8081667,7.66,1.25,ml,38,82,0.07081,0.15,ci,ci41177440,2025-06-06T22:37:07.875Z,"16 km WSW of Johannesburg, CA",earthquake,0.17,0.49,0.22,26,automatic,ci,ci
 2025-06-06T22:32:35.552Z,38.1625,-117.9328,0,1.6,ml,9,114.55,0.055,0.2967,nn,nn00898620,2025-06-06T22:35:16.420Z,"29 km SSE of Mina, Nevada",earthquake,,31,0.48,7,automatic,nn,nn
 2025-06-06T22:29:39.815Z,31.659,-104.203,7.2466,2.5,ml,39,115,0.1,1,tx,tx2025latn,2025-06-06T22:33:19.077Z,"54 km NW of Toyah, Texas",earthquake,0,1.9935936927795,0.2,28,automatic,tx,tx
 2025-06-06T22:20:00.090Z,31.67,-104.2,4.2989,1.5,ml,26,72,0.1,0.2,tx,tx2025late,2025-06-06T22:24:36.012Z,"55 km NW of Toyah, Texas",earthquake,0,1.0249754190445,0.2,19,automatic,tx,tx
@@ -163,6 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T08:38:40.000Z,36.2915,-97.5105,9.3,1.56,ml,25,64,0.06658693337,0.24,ok,ok2025kzrp,2025-06-06T10:48:27.886Z,"5 km WNW of Lucien, Oklahoma",earthquake,,1.3,0.25,9,reviewed,ok,ok
 2025-06-06T08:36:00.252Z,65.2704,-151.2711,0,1.3,ml,,,,0.79,ak,ak02577sco6f,2025-06-06T08:38:44.522Z,"39 km ENE of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-06T08:35:37.670Z,38.817501068115,-122.79499816894,2.329999923706,1.21,md,24,35,0.009522,0.01,nc,nc75191706,2025-06-06T10:47:19.432Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.430000007,0.16,25,automatic,nc,nc
+2025-06-06T08:31:29.690Z,51.870666666667,-177.84466666667,8.81,-0.39,ml,5,153,0.05939,0.2,av,av93043829,2025-06-06T22:38:37.160Z,"83 km W of Adak, Alaska",earthquake,0.95,0.98,0.30929777512248,5,reviewed,av,av
 2025-06-06T08:29:46.128Z,36.5976,-116.279,6.2,-0.3,ml,16,133.97,0.068,0.0755,nn,nn00898584,2025-06-06T13:40:11.200Z,"50 km NNW of Pahrump, Nevada",earthquake,,1.8,0.52,4,reviewed,nn,nn
 2025-06-06T08:26:48.998Z,36.7286,-116.293,8.3,-0.4,ml,10,204.06,0.019,0.0551,nn,nn00898583,2025-06-06T13:37:04.285Z,"46 km ESE of Beatty, Nevada",earthquake,,1.7,0,1,reviewed,nn,nn
 2025-06-06T08:25:42.440Z,35.3313333,-117.8061667,7.89,0.95,ml,21,82,0.07154,0.14,ci,ci41176728,2025-06-06T18:17:25.609Z,"16 km WSW of Johannesburg, CA",earthquake,0.21,0.57,0.203,14,reviewed,ci,ci
@@ -264,7 +265,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T02:00:40.700Z,35.3155,-117.8011667,7.76,1.26,ml,27,88,0.06029,0.15,ci,ci41176368,2025-06-06T19:40:27.914Z,"16 km WSW of Johannesburg, CA",earthquake,0.19,0.52,0.272,18,reviewed,ci,ci
 2025-06-06T01:54:31.810Z,17.995166666667,-67.065166666667,13.91,2.29,md,5,144,0.03244,0.11,pr,pr71484828,2025-06-06T02:13:10.100Z,"2 km NW of La Parguera, Puerto Rico",earthquake,1.04,1.09,0.039618785963911,3,reviewed,pr,pr
 2025-06-06T01:54:18.450Z,38.798000335693,-122.80166625977,1.9099999666214,0.31,md,10,53,0.009722,0.02,nc,nc75191566,2025-06-06T03:37:19.359Z,"5 km NW of The Geysers, CA",earthquake,0.4,0.980000019,0.06,11,automatic,nc,nc
-2025-06-06T01:46:25.750Z,32.8933333,-115.5223333,7.64,1.32,ml,25,64,0.03329,0.25,ci,ci41176360,2025-06-06T22:36:42.702Z,"7 km NE of Imperial, CA",earthquake,0.39,0.67,0.225,15,automatic,ci,ci
+2025-06-06T01:46:25.670Z,32.8968333,-115.5276667,7.69,1.34,ml,19,72,0.02818,0.19,ci,ci41176360,2025-06-06T22:36:45.955Z,"7 km NE of Imperial, CA",earthquake,0.33,0.45,0.232,15,reviewed,ci,ci
 2025-06-06T01:42:34.058Z,32.067,-103.723,8.1378,1.5,ml,17,57,0,0.1,tx,tx2025kzdw,2025-06-06T17:01:54.136Z,"37 km ESE of Malaga, New Mexico",earthquake,0.48149558716073,0.63764587919525,0.1,13,reviewed,tx,tx
 2025-06-06T01:42:27.407Z,62.7263,-148.9271,0.8,2,ml,,,,0.98,ak,ak02577o7zb8,2025-06-06T08:54:34.889Z,"67 km ENE of Chase, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-06-06T01:29:54.314Z,38.1478,-117.9474,11.6,1.8,ml,14,102.01,0.059,0.1246,nn,nn00898571,2025-06-06T18:06:31.353Z,"30 km SSE of Mina, Nevada",earthquake,,1.2,0.28,8,reviewed,nn,nn
@@ -303,5 +304,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-05T22:51:31.550Z,47.726,-113.81283333333,6.89,-0.65,ml,4,182,0.07221,0.05,mb,mb90094173,2025-06-06T19:36:02.280Z,"18 km E of Finley Point, Montana",earthquake,0.74,1.96,0.28593429885798,2,reviewed,mb,mb
 2025-06-05T22:48:02.760Z,59.2908,-152.1343,46.5,1.9,ml,,,,0.45,ak,ak02576d7yxg,2025-06-05T22:50:05.824Z,"14 km WSW of Nanwalek, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-05T22:45:05.790Z,33.5231667,-116.7473333,5.15,0.28,ml,7,188,0.04295,0.13,ci,ci37729596,2025-06-06T17:47:54.999Z,"8 km WSW of Anza, CA",earthquake,0.6,0.93,0.16,5,reviewed,ci,ci
-2025-06-05T22:44:57.630Z,33.5281667,-116.7406667,4.41,0.67,ml,25,45,0.03724,0.14,ci,ci41176296,2025-06-06T20:24:02.073Z,"7 km WSW of Anza, CA",earthquake,0.17,0.29,0.116,13,reviewed,ci,ci
-2025-06-05T22:40:00.570Z,56.1875,-158.8979,91.6,1.7,ml,,,,0.36,ak,ak02576d6915,2025-06-05T22:42:06.515Z,"11 km SW of Chignik Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
