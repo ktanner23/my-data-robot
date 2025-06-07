@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-07T10:44:23.126Z,31.673,-104.392,4.1794,1.6,ml,28,86,0,0.4,tx,tx2025lbrx,2025-06-07T10:49:33.766Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0952789783478,0.1,17,automatic,tx,tx
+2025-06-07T10:44:22.896Z,31.672,-104.39,4.8738,1.6,ml,29,86,0,0.5,tx,tx2025lbrx,2025-06-07T11:00:37.835Z,"55 km S of Whites City, New Mexico",earthquake,0,1.0844715833664,0.2,17,automatic,tx,tx
 2025-06-07T10:40:35.272Z,32.099,-101.914,4.4982,1.2,ml,34,36,0.1,0.4,tx,tx2025lbru,2025-06-07T10:43:38.110Z,"12 km WSW of Stanton, Texas",earthquake,0,1.0323889255524,0.1,19,automatic,tx,tx
-2025-06-07T10:40:02.971Z,32.057,-103.745,9.6712,1.5,ml,25,68,0.1,0.7,tx,tx2025lbrt,2025-06-07T10:43:34.106Z,"36 km ESE of Malaga, New Mexico",earthquake,0,2.1995198726654,0.2,15,automatic,tx,tx
+2025-06-07T10:40:02.924Z,32.057,-103.744,9.8848,1.5,ml,25,68,0.1,0.7,tx,tx2025lbrt,2025-06-07T11:00:20.831Z,"36 km ESE of Malaga, New Mexico",earthquake,0,2.202385187149,0.2,15,automatic,tx,tx
 2025-06-07T10:37:27.660Z,36.500999450684,-120.3938369751,11.479999542236,1.97,md,9,158,0.1678,0.08,nc,nc75192216,2025-06-07T10:39:05.997Z,"7 km W of Cantua Creek, CA",earthquake,0.36,0.720000029,0.16,7,automatic,nc,nc
 2025-06-07T10:33:46.287Z,44.3295,-115.0342,14.746,2.9,ml,46,62,0.261,0.47,us,us6000qipf,2025-06-07T10:43:20.040Z,"14 km NNW of Stanley, Idaho",earthquake,2.02,8.306,0.038,90,reviewed,us,us
 2025-06-07T10:29:03.180Z,38.838165283203,-122.78399658203,0.8299999833107,0.75,md,9,114,0.004963,0.01,nc,nc75192211,2025-06-07T10:30:41.958Z,"6 km WNW of Cobb, CA",earthquake,0.34,0.469999999,0.2,9,automatic,nc,nc
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-07T04:49:47.170Z,33.9465,-116.7498333,16.42,1.01,ml,51,50,0.1007,0.16,ci,ci41177744,2025-06-07T04:53:47.447Z,"5 km NE of Cabazon, CA",earthquake,0.15,0.42,0.163,26,automatic,ci,ci
 2025-06-07T04:47:07.640Z,17.950666666667,-66.941666666667,8.54,1.86,md,5,211,0.06416,0.09,pr,pr71484983,2025-06-07T04:57:19.480Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.62,0.78,0.046852995619749,3,reviewed,pr,pr
 2025-06-07T04:46:04.390Z,33.3458333,-116.8713333,10.23,1.45,ml,80,20,0.01063,0.22,ci,ci41177736,2025-06-07T04:57:21.510Z,"1 km SSW of Palomar Observatory, CA",earthquake,0.14,0.37,0.182,27,automatic,ci,ci
-2025-06-07T04:44:12.579Z,-7.0316,155.7367,77.396,4.8,mb,68,59,4.539,1,us,us6000qimd,2025-06-07T05:05:40.040Z,"83 km SSE of Panguna, Papua New Guinea",earthquake,9.08,7.049,0.051,119,reviewed,us,us
+2025-06-07T04:44:12.579Z,-7.0316,155.7367,77.396,4.8,mb,68,59,4.539,1,us,us6000qimd,2025-06-07T11:01:24.676Z,"83 km SSE of Panguna, Papua New Guinea",earthquake,9.08,7.049,0.051,119,reviewed,us,us
 2025-06-07T04:42:49.746Z,61.524,-150.5184,62.8,2.1,ml,,,,0.27,ak,ak02579djocu,2025-06-07T04:44:12.699Z,"2 km S of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-07T04:37:40.956Z,-14.8737,66.5444,10,4.8,mb,35,84,37.005,1.17,us,us6000qime,2025-06-07T05:14:06.040Z,"Mid-Indian Ridge",earthquake,15.26,1.895,0.097,33,reviewed,us,us
 2025-06-07T04:34:15.564Z,61.8395,-148.9734,37.5,1.4,ml,,,,0.4,ak,ak02579dhvzo,2025-06-07T04:35:37.778Z,"12 km WNW of Sutton-Alpine, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -305,7 +305,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-06T11:25:42.200Z,44.3369,-115.0157,4.712,2.6,ml,29,60,0.261,0.56,us,us6000qidz,2025-06-06T11:45:58.040Z,"14 km NNW of Stanley, Idaho",earthquake,1.55,3.083,0.036,102,reviewed,us,us
 2025-06-06T11:21:18.720Z,40.3655,-124.93533333333,10.25,2.71,md,100,242,0.4596,0.21,nc,nc75191766,2025-06-07T09:32:03.953Z,"55 km WNW of Petrolia, CA",earthquake,0.57,1.28,0.285,57,reviewed,nc,nc
 2025-06-06T11:12:04.720Z,19.0005,-155.42283333333,37.07,3.93,ml,56,217,0.1585,0.13,hv,hv74689562,2025-06-06T19:32:30.895Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.42,0.66,0.18771685620829,44,reviewed,hv,hv
-2025-06-06T11:07:36.550Z,47.9175,-121.672,12.58,0.63,md,8,124,0.1309,0.09,uw,uw62124196,2025-06-06T18:57:10.130Z,"7 km NNE of Gold Bar, Washington",earthquake,0.47,1.06,0.16169319356989,7,reviewed,uw,uw
-2025-06-06T11:03:06.430Z,38.832164764404,-122.81833648682,1.9700000286102,0.76,md,15,69,0.01088,0.03,nc,nc75191761,2025-06-06T11:42:16.834Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.769999981,0.16,16,automatic,nc,nc
-2025-06-06T11:02:10.464Z,62.7726,-149.1585,20.1,1.2,ml,,,,1.01,ak,ak02577txpfa,2025-06-06T11:03:42.807Z,"60 km NE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-06-06T10:58:23.420Z,47.921833333333,-121.66233333333,10.18,0.97,ml,11,125,0.138,0.12,uw,uw62124191,2025-06-06T18:40:34.910Z,"7 km N of May Creek, Washington",earthquake,0.42,1.36,0.057639922677825,2,reviewed,uw,uw
