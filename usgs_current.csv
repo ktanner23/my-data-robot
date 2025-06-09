@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-09T20:20:40.803Z,58.5887,-151.3746,38.3,2.2,ml,,,,0.8,ak,ak0257cy0kkw,2025-06-09T20:22:59.836Z,"88 km SSE of Port Graham, Alaska",earthquake,,5.1,,,automatic,ak,ak
 2025-06-09T19:59:19.470Z,38.825164794922,-122.78549957275,1.8799999952316,1.02,md,13,84,0.01247,0.02,nc,nc75193406,2025-06-09T20:00:57.578Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.50999999,0.08,13,automatic,nc,nc
 2025-06-09T19:48:34.761Z,32.429,-102.126,4.1652,1.2,ml,24,97,0,0.5,tx,tx2025lgam,2025-06-09T20:00:21.919Z,"37 km SSW of Los Ybanez, Texas",earthquake,0,1.08680164814,0.1,17,automatic,tx,tx
 2025-06-09T19:46:52.160Z,38.779998779297,-122.75833129883,1.3500000238419,0.85,md,13,82,0.01719,0.02,nc,nc75193391,2025-06-09T19:48:27.636Z,"0 km NNW of The Geysers, CA",earthquake,0.25,0.540000021,0.25,12,automatic,nc,nc
@@ -55,7 +56,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T14:19:22.540Z,38.840831756592,-122.87750244141,2.329999923706,0.84,md,16,89,0.005327,0.03,nc,nc75193271,2025-06-09T14:21:08.539Z,"13 km NW of The Geysers, CA",earthquake,0.33,0.479999989,0.23,19,automatic,nc,nc
 2025-06-09T14:17:24.778Z,31.578,-104.574,3.1716,2,ml,28,123,0.1,0.4,tx,tx2025lfpo,2025-06-09T14:19:58.631Z,"64 km NNE of Van Horn, Texas",earthquake,0,1.3478209972382,0.1,22,automatic,tx,tx
 2025-06-09T14:17:15.923Z,63.2057,-151.3359,0,1.3,ml,,,,0.74,ak,ak0257cuf9vs,2025-06-09T14:19:38.778Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-09T14:13:39.741Z,39.5308,-119.5089,0.8,1.1,ml,10,90.59,0.255,0.1894,nn,nn00898736,2025-06-09T14:16:01.711Z,"20 km NNW of Stagecoach, Nevada",earthquake,,21.7,0.33,5,automatic,nn,nn
 2025-06-09T14:05:35.004Z,38.1827,-117.8711,11.9,1.4,ml,12,54.74,0.091,0.1053,nn,nn00898734,2025-06-09T20:09:39.115Z,"31 km SE of Mina, Nevada",earthquake,,1.8,0.25,7,reviewed,nn,nn
 2025-06-09T13:23:38.810Z,39.5345,-123.3595,9,1.52,md,31,45,0.06762,0.1,nc,nc75193256,2025-06-09T18:15:26.590Z,"10 km NNE of Brooktrails, CA",earthquake,0.17,0.38,0.211,22,reviewed,nc,nc
 2025-06-09T13:13:10.690Z,36.309,-120.26383333333,5.71,0.89,md,15,258,0.08786,0.07,nc,nc75193251,2025-06-09T18:07:53.878Z,"19 km NW of Huron, CA",earthquake,1.52,0.5,0.176,4,reviewed,nc,nc
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-09T04:36:31.809Z,31.585,-104.569,4.0496,1.5,ml,19,122,0.1,0.3,tx,tx2025lewo,2025-06-09T05:00:54.108Z,"65 km NNE of Van Horn, Texas",earthquake,0,1.6794027090073,0.1,12,automatic,tx,tx
 2025-06-09T04:31:47.709Z,31.658,-104.335,4.5359,2.5,ml,40,69,0.1,0.4,tx,tx2025lewj,2025-06-09T04:56:45.040Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91767460107803,0.2,30,automatic,tx,tx
 2025-06-09T04:31:08.838Z,31.665,-104.346,10.0239,1.4,ml,8,179,0.1,0.8,tx,tx2025lewh,2025-06-09T04:33:45.426Z,"56 km S of Whites City, New Mexico",earthquake,0,5.6325612068176,0.5,5,automatic,tx,tx
-2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.24,mw,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T20:07:02.429Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,,6,reviewed,nc,nc
+2025-06-09T04:30:11.740Z,38.011333333333,-122.31383333333,9.72,3.24,mw,190,16,0.03266,0.19,nc,nc75193041,2025-06-09T20:17:20.410Z,"2 km NW of Pinole, CA",earthquake,0.1,0.22,,6,reviewed,nc,nc
 2025-06-09T04:27:55.830Z,38.014999389648,-122.30349731445,7.8200001716614,1.16,md,8,108,0.04964,0.04,nc,nc75193031,2025-06-09T11:06:12.691Z,"1 km  of Pinole, CA",earthquake,0.45,1.40999997,0.09,7,automatic,nc,nc
 2025-06-09T04:25:03.625Z,31.659,-104.337,4.2502,2,ml,39,69,0.1,0.4,tx,tx2025lewc,2025-06-09T04:31:11.028Z,"57 km S of Whites City, New Mexico",earthquake,0,0.91977381706238,0.2,28,automatic,tx,tx
 2025-06-09T04:24:13.660Z,44.835666666667,-111.505,13.55,1.13,ml,17,89,0.05116,0.1,mb,mb90094928,2025-06-09T13:59:46.800Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,0.38,0.77,0.19793121622099,13,reviewed,mb,mb
@@ -220,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-08T20:33:05.200Z,44.3265,-114.99633333333,4.65,2.13,ml,16,70,0.2451,0.14,mb,mb90094828,2025-06-09T17:07:06.790Z,"12 km NNW of Stanley, Idaho",earthquake,0.4,1.89,0.15991101853219,24,reviewed,mb,mb
 2025-06-08T20:31:30.219Z,61.6361,-150.4279,48.8,1.6,ml,,,,0.55,ak,ak0257bajk59,2025-06-08T20:33:32.605Z,"11 km NNE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-08T20:29:57.404Z,21.6634,143.0225,304.411,4.1,mb,53,114,5.462,1.04,us,us6000qj0b,2025-06-09T12:56:04.040Z,"Mariana Islands region",earthquake,11.42,8.656,0.074,49,reviewed,us,us
-2025-06-08T20:23:31.764Z,62.978,-151.454,123.6,1.8,ml,,,,0.91,ak,ak0257bahujc,2025-06-08T20:25:33.422Z,"64 km SSE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-06-08T20:19:39.640Z,47.729833333333,-120.33183333333,3.58,1.05,ml,13,103,0.1254,0.09,uw,uw62125326,2025-06-09T19:28:17.850Z,"11 km WNW of Entiat, Washington",earthquake,0.2,1.38,0.19807290553847,11,reviewed,uw,uw
-2025-06-08T20:17:24.585Z,31.651,-104.305,4.6411,2.2,ml,25,69,0.1,0.2,tx,tx2025legm,2025-06-08T21:00:43.640Z,"58 km S of Whites City, New Mexico",earthquake,0,2.3004491329193,0.2,19,automatic,tx,tx
