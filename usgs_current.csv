@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-11T05:55:23.770Z,33.5323333,-116.729,5.35,0.57,ml,22,34,0.0337,0.09,ci,ci41182424,2025-06-11T05:58:49.902Z,"6 km WSW of Anza, CA",earthquake,0.12,0.31,0.061,13,automatic,ci,ci
+2025-06-11T05:50:00.729Z,61.3413,-151.7193,77.9,0.8,ml,,,,0.57,ak,ak0257g0c3vs,2025-06-11T05:52:00.668Z,"40 km WNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-06-11T05:49:11.764Z,61.416,-147.8197,20,1.3,ml,,,,0.43,ak,ak0257g0bx0o,2025-06-11T05:51:02.604Z,"44 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-11T05:48:15.910Z,38.817501068115,-122.83183288574,7.2800002098083,0.44,md,6,224,0.008866,0.03,nc,nc75194096,2025-06-11T05:49:54.203Z,"8 km NW of The Geysers, CA",earthquake,2.5,5.76000023,0.18,8,automatic,nc,nc
 2025-06-11T05:39:17.050Z,19.339000701904,-155.13966369629,5.4800000190735,2.64,ml,60,95,0.04756,0.189999998,hv,hv74694767,2025-06-11T05:42:53.520Z,"14 km S of Fern Forest, Hawaii",earthquake,0.34,0.430000007,0.34,44,automatic,hv,hv
@@ -112,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T19:26:13.020Z,36.0761667,-117.8338333,4.91,0.62,ml,7,124,0.0447,0.04,ci,ci41181800,2025-06-10T21:06:39.959Z,"11 km ENE of Coso Junction, CA",earthquake,0.18,0.47,0.158,7,reviewed,ci,ci
 2025-06-10T19:23:35.360Z,34.174,-118.056,12.24,1.47,ml,27,51,0.04953,0.12,ci,ci41181784,2025-06-10T20:27:17.072Z,"1 km NNW of Sierra Madre, CA",earthquake,0.19,0.39,0.23,17,reviewed,ci,ci
 2025-06-10T19:19:30.449Z,31.648,-104.29,4.4452,1.7,ml,35,68,0,0.3,tx,tx2025lhvr,2025-06-10T19:22:50.136Z,"59 km S of Whites City, New Mexico",earthquake,0,0.94821959733963,0.2,25,automatic,tx,tx
-2025-06-10T19:15:47.810Z,33.8271667,-118.5516667,10.41,3.25,ml,113,126,0.1486,0.26,ci,ci41181776,2025-06-11T05:42:55.398Z,"14 km WSW of Manhattan Beach, CA",earthquake,0.24,0.49,0.159,309,reviewed,ci,ci
+2025-06-10T19:15:47.810Z,33.8271667,-118.5516667,10.41,3.25,ml,113,126,0.1486,0.26,ci,ci41181776,2025-06-11T05:57:50.844Z,"14 km WSW of Manhattan Beach, CA",earthquake,0.24,0.49,0.159,309,reviewed,ci,ci
 2025-06-10T19:14:14.100Z,52.083666666667,-176.14183333333,-1.77,-0.03,ml,5,143,0.02415,0.26,av,av93633921,2025-06-11T01:20:40.600Z,"41 km NE of Adak, Alaska",earthquake,0.65,1.08,0.42262619110327,5,reviewed,av,av
 2025-06-10T19:12:54.920Z,38.821834564209,-122.81083679199,3.1099998950958,1.08,md,24,48,0.01841,0.02,nc,nc75193871,2025-06-10T19:14:29.006Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.419999987,0.11,25,automatic,nc,nc
 2025-06-10T18:51:20.600Z,46.202,-122.20016666667,-0.03,0.85,md,6,92,0.01034,0.17,uw,uw62126126,2025-06-10T19:35:02.140Z,"37 km NNE of Amboy, Washington",earthquake,0.37,0.92,0.31597014997783,3,reviewed,uw,uw
@@ -266,5 +268,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-10T06:03:48.353Z,31.723,-104.164,5,2.5,ml,8,128,0.1,1.4,tx,tx2025lgud,2025-06-10T07:01:47.482Z,"53 km W of Mentone, Texas",earthquake,0,,0.3,6,automatic,tx,tx
 2025-06-10T06:02:43.507Z,31.658,-104.297,6.9458,3.7,ml,42,67,0,0.2,tx,tx2025lgul,2025-06-10T11:17:57.929Z,"57 km S of Whites City, New Mexico",earthquake,0.60590460941173,0.60817425888495,0.1,34,reviewed,tx,tx
 2025-06-10T05:59:53.861Z,64.9269,-147.5833,7.4,1.6,ml,,,,0.61,ak,ak0257ecusxm,2025-06-10T07:14:22.613Z,"3 km SSE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-10T05:57:51.439Z,61.3941,-150.639,49.7,1.3,ml,,,,0.47,ak,ak0257ecudbb,2025-06-10T05:59:50.600Z,"17 km SSW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-06-10T05:55:33.660Z,31.659,-104.284,7.4841,1.9,ml,36,67,0,0.2,tx,tx2025lgug,2025-06-10T13:08:11.897Z,"57 km S of Whites City, New Mexico",earthquake,0.89855816438641,0.69827923809191,0.2,28,reviewed,tx,tx
