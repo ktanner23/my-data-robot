@@ -35,7 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T12:26:26.600Z,38.019664764404,-122.30100250244,8.3500003814697,1.16,md,13,110,0.05225,0.05,nc,nc75197201,2025-06-18T12:28:03.947Z,"1 km WNW of Hercules, CA",earthquake,0.32,0.769999981,0.16,10,automatic,nc,nc
 2025-06-18T12:20:12.881Z,63.4838,-147.0822,7,1.2,ml,,,,0.65,ak,ak0257rp3614,2025-06-18T12:22:42.573Z,"85 km WNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T12:08:05.646Z,-21.1891,-179.1737,619.92,5.2,mb,79,77,4.311,0.59,us,us6000ql0b,2025-06-18T12:22:38.040Z,"Fiji region",earthquake,12.53,4.537,0.065,77,reviewed,us,us
-2025-06-18T11:57:24.933Z,13.0931,-88.5664,81.191,5.4,mww,98,130,0.442,1.08,us,us6000ql02,2025-06-18T15:34:44.273Z,"21 km S of Puerto El Triunfo, El Salvador",earthquake,6.22,6.166,0.055,32,reviewed,us,us
+2025-06-18T11:57:24.933Z,13.0931,-88.5664,81.191,5.4,mww,98,130,0.442,1.08,us,us6000ql02,2025-06-18T16:04:50.192Z,"21 km S of Puerto El Triunfo, El Salvador",earthquake,6.22,6.166,0.055,32,reviewed,us,us
 2025-06-18T11:56:58.428Z,32.2779,-103.2948,4.506,3.5,mb_lg,37,91,0.249,0.42,us,us6000ql01,2025-06-18T14:07:23.472Z,"20 km NNW of Jal, New Mexico",earthquake,2.31,7.654,0.054,110,reviewed,us,us
 2025-06-18T11:50:25.548Z,31.675,-104.197,5.9973,1.5,ml,34,61,0.1,0.2,tx,tx2025lxhnya,2025-06-18T12:23:14.848Z,"55 km NW of Toyah, Texas",earthquake,0.52647341839713,0.81725365667449,0.2,20,reviewed,tx,tx
 2025-06-18T11:23:53.540Z,33.6986667,-116.809,15.29,0.84,ml,32,44,0.07575,0.16,ci,ci40997679,2025-06-18T14:44:21.224Z,"10 km WSW of Idyllwild, CA",earthquake,0.23,0.44,0.122,15,reviewed,ci,ci
@@ -68,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T08:44:50.063Z,61.5414,-150.5743,61.5,1.2,ml,,,,0.38,ak,ak0257rmunny,2025-06-18T08:47:27.451Z,"3 km W of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-18T08:43:35.904Z,64.9898,-147.5085,14.7,1.2,ml,,,,0.3,ak,ak0257rmueuu,2025-06-18T08:45:32.318Z,"6 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T08:38:17.113Z,32.143,-101.054,5.4443,1.4,ml,18,83,0.2,0.1,tx,tx2025lxbemf,2025-06-18T11:49:52.908Z,"23 km S of Westbrook, Texas",earthquake,0.58585005022082,2.3738637541496,0.1,10,reviewed,tx,tx
-2025-06-18T08:36:12.816Z,31.66,-104.446,4.6221,1.4,ml,19,73,0,0.4,tx,tx2025lxbcnf,2025-06-18T08:39:25.463Z,"57 km S of Whites City, New Mexico",earthquake,0,1.7635766267776,0.2,6,automatic,tx,tx
+2025-06-18T08:36:12.084Z,31.653,-104.448,7.9968,1.4,ml,26,81,0,0.3,tx,tx2025lxbcnf,2025-06-18T16:04:10.777Z,"58 km S of Whites City, New Mexico",earthquake,1.249198195436,0.99397869474068,0.1,10,reviewed,tx,tx
 2025-06-18T08:24:49.310Z,-8.1667,107.149,55.593,4.8,mb,33,99,0.858,1.32,us,us6000qkz6,2025-06-18T11:39:48.950Z,"111 km SSW of Banjar, Indonesia",earthquake,7.02,7.582,0.111,25,reviewed,us,us
 2025-06-18T08:21:27.323Z,62.3055,-146.7903,48.5,1.6,ml,,,,1.51,ak,ak0257rmpofw,2025-06-18T08:23:40.903Z,"12 km WNW of Lake Louise, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-06-18T08:18:54.418Z,31.675,-104.197,6.0999,1.7,ml,36,61,0.1,0.2,tx,tx2025lxanrt,2025-06-18T09:10:33.337Z,"55 km NW of Toyah, Texas",earthquake,0.56345723865083,0.70334253946484,0.2,23,reviewed,tx,tx
@@ -104,8 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T04:22:41.600Z,33.678,-116.7793333,10.18,0.44,ml,19,117,0.06676,0.15,ci,ci40997551,2025-06-18T13:34:55.161Z,"9 km SW of Idyllwild, CA",earthquake,0.28,0.53,0.194,11,reviewed,ci,ci
 2025-06-18T04:20:42.940Z,35.3363333,-117.8113333,7.16,1.91,ml,50,40,0.07432,0.18,ci,ci40997543,2025-06-18T13:35:46.770Z,"16 km WSW of Johannesburg, CA",earthquake,0.15,0.62,0.167,25,reviewed,ci,ci
 2025-06-18T04:18:37.350Z,3.5559,126.7779,50.435,4.6,mb,36,104,1.745,0.94,us,us6000qkyj,2025-06-18T04:35:52.040Z,"244 km NW of Tobelo, Indonesia",earthquake,7.58,7.153,0.1,30,reviewed,us,us
-2025-06-18T04:11:16.873Z,36.3016,-114.97,2.3,1.4,ml,18,294.62,0.253,0.3691,nn,nn00899093,2025-06-18T04:13:39.847Z,"9 km NE of Nellis Air Force Base, Nevada",earthquake,,12.3,0.21,13,automatic,nn,nn
-2025-06-18T03:58:14.386Z,31.543,-104.163,6.0999,3,ml,33,71,0,0.1,tx,tx2025lwrxdx,2025-06-18T04:15:21.865Z,"43 km NW of Toyah, Texas",earthquake,1.0310893065104,0.80508772413423,0.2,25,reviewed,tx,tx
+2025-06-18T03:58:13.943Z,31.5273,-104.1773,5,2.9,ml,31,79,0.237,0.27,us,us6000qkyf,2025-06-18T04:08:05.040Z,"43 km WNW of Toyah, Texas",earthquake,1.25,1.663,0.062,60,reviewed,us,us
 2025-06-18T03:56:30.030Z,38.788501739502,-122.74700164795,1.7999999523163,1.44,md,23,84,0.009599,0.02,nc,nc75197086,2025-06-18T03:58:03.239Z,"1 km NE of The Geysers, CA",earthquake,0.23,0.370000005,0.14,23,automatic,nc,nc
 2025-06-18T03:52:56.360Z,33.256,-116.3836667,2.83,1.13,ml,58,42,0.03059,0.21,ci,ci40997535,2025-06-18T13:35:16.410Z,"1 km W of Borrego Springs, CA",earthquake,0.18,0.29,0.169,25,reviewed,ci,ci
 2025-06-18T03:50:11.750Z,38.826499938965,-122.85383605957,2.5899999141693,0.43,md,8,163,0.002592,0.01,nc,nc75197081,2025-06-18T03:51:48.981Z,"10 km NW of The Geysers, CA",earthquake,0.53,1.11000001,0.24,9,automatic,nc,nc
@@ -146,9 +145,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T01:15:37.520Z,38.786334991455,-122.80383300781,-0.63999998569489,1.35,md,10,126,0.01419,0.18,nc,nc75197011,2025-06-18T01:17:14.203Z,"4 km WNW of The Geysers, CA",earthquake,0.51,1.77999997,0.2,14,automatic,nc,nc
 2025-06-18T01:11:36.350Z,34.2375,-118.0136667,11.06,0.66,ml,11,126,0.0395,0.09,ci,ci40997391,2025-06-18T14:21:47.321Z,"9 km NNE of Sierra Madre, CA",earthquake,0.27,0.52,0.174,6,reviewed,ci,ci
 2025-06-18T01:03:45.900Z,41.8845,-112.48483333333,1.2,0.97,md,11,110,0.2146,0.14,uu,uu80110481,2025-06-18T14:24:44.870Z,"10 km NNW of Howell, Utah",earthquake,0.47,31.61,0.12951020364703,10,reviewed,uu,uu
-2025-06-18T00:49:21.185Z,32.136,-102.231,8.2849,1.1,ml,9,110,0.1,0.6,tx,tx2025lwlqks,2025-06-18T00:51:26.394Z,"19 km NE of Gardendale, Texas",earthquake,0,5.0109601020813,0.3,6,automatic,tx,tx
+2025-06-18T00:49:22.936Z,32.13,-102.204,6.1035,1.2,ml,23,84,0,0.2,tx,tx2025lwlqks,2025-06-18T16:08:01.043Z,"18 km NW of Midland, Texas",earthquake,0.79214266752891,1.033874875223,0.2,19,reviewed,tx,tx
 2025-06-18T00:37:25.320Z,38.761333465576,-122.73217010498,1.6200000047684,1.12,md,16,105,0.00572,0.07,nc,nc75197006,2025-06-18T00:39:04.070Z,"3 km SE of The Geysers, CA",earthquake,0.32,0.430000007,0.2,15,automatic,nc,nc
-2025-06-18T00:24:52.829Z,31.701,-104.13,7.1124,1.9,ml,34,46,0.1,0.2,tx,tx2025lwkusd,2025-06-18T02:12:37.625Z,"50 km W of Mentone, Texas",earthquake,0.3949744354223,0.51520297594999,0.1,21,reviewed,tx,tx
+2025-06-18T00:24:52.902Z,31.699,-104.131,6.7023,1.9,ml,32,46,0.1,0.2,tx,tx2025lwkusd,2025-06-18T16:12:19.797Z,"50 km W of Mentone, Texas",earthquake,0.41918858271318,0.47233112608988,0.2,27,reviewed,tx,tx
 2025-06-18T00:16:54.520Z,35.3148333,-117.8063333,6.78,1.16,ml,30,59,0.05728,0.21,ci,ci40997359,2025-06-18T13:37:28.047Z,"17 km WSW of Johannesburg, CA",earthquake,0.22,0.56,0.198,27,reviewed,ci,ci
 2025-06-18T00:14:16.230Z,32.9035,-116.9476667,5.67,1.69,ml,44,64,0.06721,0.18,ci,ci40997351,2025-06-18T00:17:51.387Z,"6 km NNW of Lakeside, CA",earthquake,0.18,0.5,0.189,36,automatic,ci,ci
 2025-06-18T00:08:14.270Z,37.644166666667,-122.51383333333,7.28,1.46,md,20,109,0.03174,0.03,nc,nc75197001,2025-06-18T06:35:42.923Z,"4 km NNW of Pacifica, CA",earthquake,0.2,0.21,0.221,11,reviewed,nc,nc
@@ -174,7 +173,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T22:56:10.560Z,35.7716667,-117.602,14.37,0.58,ml,14,108,0.1374,0.16,ci,ci40997295,2025-06-18T15:12:55.399Z,"18 km W of Searles Valley, CA",earthquake,0.41,1,0.129,5,reviewed,ci,ci
 2025-06-17T22:50:26.808Z,32.346,-102.057,9.7453,1,mlv,6,118,0,0.5,tx,tx2025lwhryk,2025-06-17T23:12:21.562Z,"34 km NW of Stanton, Texas",earthquake,0,4.5912733078003,0.7,6,automatic,tx,tx
 2025-06-17T22:42:00.720Z,58.258666666667,-155.01366666667,0.76,-0.66,ml,6,205,0.04593,0.12,av,av93044824,2025-06-18T04:53:16.620Z,"83 km NNW of Karluk, Alaska",earthquake,0.45,2.04,0.21894703697787,6,reviewed,av,av
-2025-06-17T22:41:59.443Z,31.568,-104.181,6.6638,2.2,ml,37,71,0,0.2,tx,tx2025lwhkqp,2025-06-17T23:07:57.073Z,"46 km NW of Toyah, Texas",earthquake,0.66787795676745,0.63985379089909,0.1,25,reviewed,tx,tx
+2025-06-17T22:41:59.443Z,31.568,-104.181,6.6638,2.2,ml,37,71,0,0.2,tx,tx2025lwhkqp,2025-06-18T16:13:16.805Z,"46 km NW of Toyah, Texas",earthquake,0.66787795676745,0.63985379089909,0.2,31,reviewed,tx,tx
 2025-06-17T22:29:14.315Z,31.655,-104.294,7.6892,1.9,ml,36,68,0,0.2,tx,tx2025lwgzqu,2025-06-17T22:51:04.979Z,"58 km S of Whites City, New Mexico",earthquake,0.64328100102741,0.70612760794103,0.1,20,reviewed,tx,tx
 2025-06-17T22:11:40.920Z,61.271833333333,-152.221,4.55,-0.15,ml,4,160,0.03252,0.05,av,av93640826,2025-06-18T04:40:17.720Z,"62 km WNW of Tyonek, Alaska",earthquake,0.81,0.83,0.16082753236021,4,reviewed,av,av
 2025-06-17T22:11:07.710Z,61.3045,-152.225,1.27,-0.44,ml,4,165,0.05172,0.09,av,av93640821,2025-06-18T04:31:20.130Z,"64 km WNW of Beluga, Alaska",earthquake,2.17,3.16,0.11048444634379,4,reviewed,av,av
@@ -194,7 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T20:36:57.170Z,58.284,-155.00866666667,3.29,-0.48,ml,6,230,0.03133,0.1,av,av93640756,2025-06-18T04:16:40.910Z,"86 km NNW of Karluk, Alaska",earthquake,0.72,0.52,0.23150909238372,6,reviewed,av,av
 2025-06-17T20:33:13.310Z,33.789,-116.0808333,0.51,1.5,ml,51,38,0.1174,0.2,ci,ci40997143,2025-06-17T20:44:19.620Z,"15 km ENE of Indio, CA",earthquake,0.14,0.31,0.104,26,automatic,ci,ci
 2025-06-17T20:31:33.910Z,38.818332672119,-122.84183502197,2.0499999523163,1.08,md,23,69,0.007146,0.02,nc,nc75196936,2025-06-17T20:33:08.858Z,"9 km NW of The Geysers, CA",earthquake,0.2,0.349999994,0.19,23,automatic,nc,nc
-2025-06-17T20:28:54.032Z,58.3447,-154.6728,12,0.9,ml,,,,0.55,ak,ak0257q6d3a3,2025-06-18T04:13:55.050Z,"87 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-06-17T20:28:54.032Z,58.3447,-154.6728,12,0.9,ml,,,,0.55,ak,ak0257q6d3a3,2025-06-17T20:30:18.522Z,"87 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-06-17T20:26:18.880Z,38.810333251953,-122.83183288574,1.4800000190735,1.48,md,31,54,0.002538,0.05,nc,nc75196931,2025-06-17T20:29:11.700Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.280000001,0.13,29,automatic,nc,nc
 2025-06-17T20:22:06.730Z,36.748333333333,-121.60333333333,-0.26,1.49,md,23,86,0.03464,0.11,nc,nc75196926,2025-06-18T06:06:34.149Z,"7 km SE of Prunedale, CA",quarry blast,0.33,31.61,0.188,17,reviewed,nc,nc
 2025-06-17T20:12:30.193Z,32.408,-102.042,2.025,1,ml,8,123,0.1,0.4,tx,tx2025lwclvm,2025-06-17T20:17:29.091Z,"33 km WSW of Ackerly, Texas",earthquake,0,1.938117980957,0.4,7,automatic,tx,tx
@@ -213,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T19:37:33.543Z,39.9668,-98.826,5,2.6,mb_lg,11,86,1.351,0.38,us,us6000qkw1,2025-06-17T20:12:38.040Z,"14 km SSW of Riverton, Nebraska",earthquake,1.85,1.966,0.082,39,reviewed,us,us
 2025-06-17T19:34:15.370Z,58.166833333333,-155.35616666667,2.78,-0.7,ml,6,186,0.08049,0.09,av,av93044814,2025-06-18T04:01:12.370Z,"85 km NW of Karluk, Alaska",earthquake,0.35,0.77,0.15723425355231,6,reviewed,av,av
 2025-06-17T19:32:05.010Z,19.3375,-155.211,6.59,1.43,ml,35,70,0.03634,0.11,hv,hv74700937,2025-06-17T20:00:32.270Z,"11 km SSE of Volcano, Hawaii",earthquake,0.28,0.57,0.13474481304513,22,reviewed,hv,hv
-2025-06-17T19:30:17.985Z,31.702,-104.135,6.7535,2.3,ml,33,42,0.1,0.2,tx,tx2025lwbbid,2025-06-17T22:10:06.683Z,"50 km W of Mentone, Texas",earthquake,0.44316116344191,0.51169150166235,0.1,19,reviewed,tx,tx
+2025-06-17T19:30:18.003Z,31.697,-104.133,6.3434,2.3,ml,28,48,0.1,0.1,tx,tx2025lwbbid,2025-06-18T16:09:21.610Z,"50 km W of Mentone, Texas",earthquake,0.33630665378606,0.41642945420727,0.2,25,reviewed,tx,tx
 2025-06-17T19:27:13.891Z,31.662,-104.284,7.7405,1.6,ml,34,67,0,0.2,tx,tx2025lwayvc,2025-06-18T10:49:00.102Z,"57 km S of Whites City, New Mexico",earthquake,0.72652400252071,0.77758419856765,0.1,20,reviewed,tx,tx
 2025-06-17T19:16:26.076Z,44.2083,-115.0676,10,2.8,ml,36,70,0.098,0.8,us,us6000qkvw,2025-06-18T15:00:36.523Z,"10 km W of Stanley, Idaho",earthquake,2.02,2.009,0.035,108,reviewed,us,us
 2025-06-17T19:13:36.518Z,61.4067,-148.0153,20,3.4,ml,,,,0.67,ak,ak0257q5oehh,2025-06-18T02:58:16.417Z,"48 km E of Knik River, Alaska",earthquake,,0.5,,,reviewed,ak,ak
@@ -261,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T16:41:35.450Z,52.102,-176.10166666667,11.79,-0.32,ml,4,254,0.02748,0.07,av,av93044804,2025-06-18T03:26:06.330Z,"44 km NE of Adak, Alaska",earthquake,1.31,0.8,0.069827071533855,4,reviewed,av,av
 2025-06-17T16:41:16.067Z,36.8466,-116.1147,3.4,-0.2,ml,9,191.83,0.041,0.0725,nn,nn00899083,2025-06-18T01:05:59.631Z,"50 km NW of Indian Springs, Nevada",earthquake,,1.8,0.46,2,reviewed,nn,nn
 2025-06-17T16:35:03.420Z,37.869666666667,-122.19833333333,8.54,0.72,md,14,81,0.009497,0.04,nc,nc75196851,2025-06-17T23:10:00.884Z,"2 km WSW of Orinda, CA",earthquake,0.32,0.42,0.267,3,reviewed,nc,nc
-2025-06-17T16:08:14.580Z,38.8245,-122.80766666667,2.51,0.33,md,18,68,0.00218,0.01,nc,nc75196846,2025-06-17T17:03:05.928Z,"7 km NNW of The Geysers, CA",earthquake,0.31,0.64,0.238,18,reviewed,nc,nc
-2025-06-17T16:06:23.850Z,36.6581,-116.2714,6.8,-0.3,ml,24,107.6,0.056,0.0901,nn,nn00899057,2025-06-17T22:05:17.041Z,"51 km ESE of Beatty, Nevada",earthquake,,0.8,0.36,5,reviewed,nn,nn
