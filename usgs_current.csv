@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-18T08:43:35.904Z,64.9898,-147.5085,14.7,1.2,ml,,,,0.3,ak,ak0257rmueuu,2025-06-18T08:45:32.318Z,"6 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-18T08:36:12.816Z,31.66,-104.446,4.6221,1.4,ml,19,73,0,0.4,tx,tx2025lxbcnf,2025-06-18T08:39:25.463Z,"57 km S of Whites City, New Mexico",earthquake,0,1.7635766267776,0.2,6,automatic,tx,tx
 2025-06-18T08:21:27.323Z,62.3055,-146.7903,48.5,1.6,ml,,,,1.51,ak,ak0257rmpofw,2025-06-18T08:23:40.903Z,"12 km WNW of Lake Louise, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-06-18T08:18:54.583Z,31.674,-104.202,4.0641,1.7,ml,35,62,0.1,0.2,tx,tx2025lxanrt,2025-06-18T08:22:34.842Z,"55 km NW of Toyah, Texas",earthquake,0,0.90447914600372,0.2,26,automatic,tx,tx
+2025-06-18T08:18:54.568Z,31.674,-104.202,4.0977,1.7,ml,35,62,0.1,0.2,tx,tx2025lxanrt,2025-06-18T09:00:49.287Z,"55 km NW of Toyah, Texas",earthquake,0,0.90469455718994,0.2,26,automatic,tx,tx
 2025-06-18T08:18:32.542Z,64.9967,-147.5194,14.6,1,ml,,,,0.6,ak,ak0257rmp1p2,2025-06-18T08:20:22.916Z,"6 km NE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-18T08:17:46.098Z,61.3918,-150.0656,36.1,1.4,ml,,,,0.33,ak,ak0257rmov0x,2025-06-18T08:19:03.674Z,"5 km NW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-18T08:17:26.931Z,64.9942,-147.5174,14.1,0.8,ml,,,,0.57,ak,ak0257rmotjp,2025-06-18T08:19:06.333Z,"6 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -120,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T20:08:55.001Z,31.701,-104.133,6.933,2.5,ml,40,42,0.1,0.2,tx,tx2025lwcita,2025-06-17T22:24:55.829Z,"50 km W of Mentone, Texas",earthquake,0.45405156951845,0.49676606676205,0.2,25,reviewed,tx,tx
 2025-06-17T20:08:20.831Z,31.663,-104.198,4.4563,1.7,mlv,15,113,0.1,0.5,tx,tx2025lwcigo,2025-06-18T07:05:32.866Z,"54 km NW of Toyah, Texas",earthquake,0,1.4084134101868,0.7,11,automatic,tx,tx
 2025-06-17T20:06:12.054Z,-57.8805,-25.4154,80.427,5,mb,60,46,7.166,0.87,us,us6000qkw9,2025-06-17T20:48:17.040Z,"South Sandwich Islands region",earthquake,11.57,5.472,0.085,44,reviewed,us,us
-2025-06-17T20:04:34.745Z,31.705,-104.137,7.0312,1.7,mlv,36,43,0.1,0.8,tx,tx2025lwcezy,2025-06-18T07:05:28.877Z,"50 km W of Mentone, Texas",earthquake,0,1.7682596445084,0.2,27,automatic,tx,tx
+2025-06-17T20:04:35.558Z,31.702,-104.131,6.5356,1.8,ml,32,77,0.1,0.2,tx,tx2025lwcezy,2025-06-18T08:54:31.822Z,"50 km W of Mentone, Texas",earthquake,0.52672198681589,0.55081229442719,0.1,15,reviewed,tx,tx
 2025-06-17T20:01:25.140Z,33.8708333,-117.4993333,-0.48,1.32,ml,44,45,0.05159,0.18,ci,ci40997135,2025-06-17T20:40:20.249Z,"2 km ESE of Home Gardens, CA",quarry blast,0.25,31.61,0.193,54,reviewed,ci,ci
 2025-06-17T20:01:15.530Z,38.7945,-122.7515,1.63,0.26,md,18,90,0.008865,0.02,nc,nc75196921,2025-06-17T21:33:56.175Z,"2 km NNE of The Geysers, CA",earthquake,0.22,0.39,0.205,14,reviewed,nc,nc
 2025-06-17T19:58:08.670Z,33.512,-116.543,14.98,0.46,ml,16,63,0.05239,0.13,ci,ci40997119,2025-06-17T20:26:08.644Z,"13 km ESE of Anza, CA",earthquake,0.23,0.5,0.168,16,reviewed,ci,ci
@@ -268,9 +268,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-17T09:31:42.815Z,65.476,-148.2354,8.2,0.9,ml,,,,1.05,ak,ak0257pztxwp,2025-06-17T09:33:32.102Z,"15 km ESE of Livengood, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-17T09:27:44.652Z,38.595,-119.435,12.3,1.6,ml,15,65.95,0.224,0.0997,nn,nn00899045,2025-06-17T21:12:42.410Z,"7 km ENE of Coleville, California",earthquake,,3.1,0.24,6,reviewed,nn,nn
 2025-06-17T09:16:30.483Z,-23.1181,-174.9129,10,4.8,mb,16,111,6.151,0.48,us,us6000qksf,2025-06-17T10:43:17.040Z,"196 km S of ‘Ohonua, Tonga",earthquake,14.94,1.939,0.148,14,reviewed,us,us
-2025-06-17T09:09:53.314Z,41.1143,-116.2924,1.7,3.2,ml,16,63.95,0.137,0.114,nn,nn00899041,2025-06-17T09:53:55.755Z,"47 km NNW of Carlin, Nevada",earthquake,,2.3,0.23,10,reviewed,nn,nn
+2025-06-17T09:09:53.314Z,41.1143,-116.2924,1.7,3.2,ml,16,63.95,0.137,0.114,nn,nn00899041,2025-06-18T09:03:41.040Z,"47 km NNW of Carlin, Nevada",earthquake,,2.3,0.23,10,reviewed,nn,nn
 2025-06-17T09:07:49.710Z,19.200332641602,-155.37632751465,31.040000915527,2.2,ml,59,163,0.04204,0.129999995,hv,hv74700582,2025-06-17T09:11:42.400Z,"10 km E of Pāhala, Hawaii",earthquake,0.44,0.49000001,0.58,13,automatic,hv,hv
 2025-06-17T09:05:22.188Z,37.7616,-116.0351,11.5,1.3,ml,11,142.93,0.256,0.1185,nn,nn00899039,2025-06-17T18:55:08.413Z,"28 km WNW of Rachel, Nevada",earthquake,,6.6,0.35,5,reviewed,nn,nn
-2025-06-17T09:00:32.280Z,36.2486667,-118.3015,4.64,1.51,ml,24,96,0.09686,0.23,ci,ci40996543,2025-06-17T13:49:16.942Z,"27 km W of Olancha, CA",earthquake,0.28,1.27,0.177,26,reviewed,ci,ci
-2025-06-17T08:57:35.150Z,33.373,-116.8871667,5.8,0.75,ml,39,31,0.02819,0.22,ci,ci40996535,2025-06-17T09:02:35.259Z,"3 km NW of Palomar Observatory, CA",earthquake,0.21,0.54,0.242,25,automatic,ci,ci
-2025-06-17T08:56:09.038Z,63.1527,-150.7047,104.5,1.4,ml,,,,0.25,ak,ak0257pzdslj,2025-06-17T08:58:12.323Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
