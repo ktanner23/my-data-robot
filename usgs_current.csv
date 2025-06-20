@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-20T23:47:04.850Z,33.0691681,-116.6296692,13.11,1.33,ml,37,36,0.02943,0.23,ci,ci41000031,2025-06-20T23:49:11.307Z,"3 km WSW of Julian, CA",earthquake,0.33,0.79,0.376,10,automatic,ci,ci
+2025-06-20T23:47:04.820Z,33.0723333,-116.6251667,13.34,1.05,ml,43,28,0.02474,0.18,ci,ci41000031,2025-06-20T23:51:00.003Z,"2 km WSW of Julian, CA",earthquake,0.19,0.42,0.195,28,automatic,ci,ci
 2025-06-20T23:36:25.980Z,38.807834625244,-122.83016967773,3.079999923706,0.93,md,13,106,0.00129,0.04,nc,nc75198321,2025-06-20T23:38:01.455Z,"7 km NW of The Geysers, CA",earthquake,0.5,0.99000001,0.34,15,automatic,nc,nc
 2025-06-20T23:32:47.650Z,38.800498962402,-122.81533050537,2.7000000476837,1.08,md,17,65,0.01367,0.02,nc,nc75198316,2025-06-20T23:34:25.388Z,"6 km NW of The Geysers, CA",earthquake,0.29,0.529999971,0.17,17,automatic,nc,nc
 2025-06-20T23:19:35.578Z,65.0042,-148.8215,22.7,1.4,ml,,,,0.33,ak,ak0257v6pgph,2025-06-20T23:20:49.823Z,"29 km ESE of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -33,8 +33,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T19:17:31.276Z,45.8257,148.6136,170.137,4.1,mb,34,168,4.205,0.63,us,us6000qlhx,2025-06-20T19:54:35.040Z,"87 km NE of Kuril’sk, Russia",earthquake,11.75,10.424,0.091,33,reviewed,us,us
 2025-06-20T19:12:29.814Z,32.407,-102.072,6.7627,1.2,ml,18,64,0,0.1,tx,tx2025mbnqpw,2025-06-20T20:45:38.667Z,"35 km WSW of Ackerly, Texas",earthquake,0.59107010067945,0.66158068809997,0.2,15,reviewed,tx,tx
 2025-06-20T19:11:02.068Z,64.9736,-147.295,0,1.1,ml,,,,0.98,ak,ak0257v49xz2,2025-06-20T19:13:20.041Z,"15 km E of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-06-20T19:10:34.580Z,35.3591667,-117.799,6.87,1.48,ml,34,66,0.09922,0.16,ci,ci40999927,2025-06-20T22:08:20.666Z,"15 km W of Johannesburg, CA",earthquake,0.19,0.52,0.203,27,automatic,ci,ci
-2025-06-20T18:51:32.100Z,34.8521667,-118.7795,0.29,1.53,ml,34,69,0.07521,0.25,ci,ci40999887,2025-06-20T18:55:14.883Z,"8 km E of Lebec, CA",earthquake,0.31,0.52,0.242,29,automatic,ci,ci
+2025-06-20T19:10:34.510Z,35.3593333,-117.8006667,7.83,1.51,ml,29,73,0.09886,0.14,ci,ci40999927,2025-06-20T23:56:50.793Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.66,0.182,23,reviewed,ci,ci
+2025-06-20T18:51:31.910Z,34.8473333,-118.7823333,-1.16,1.44,ml,27,69,0.07061,0.24,ci,ci40999887,2025-06-20T23:50:45.002Z,"8 km E of Lebec, CA",quarry blast,0.41,31.61,0.179,22,reviewed,ci,ci
 2025-06-20T18:48:36.750Z,17.915833333333,-66.8515,12.85,2.11,md,5,229,0.06455,0.12,pr,pr71486338,2025-06-20T19:00:39.600Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,1.06,0.53,0.15652284597888,5,reviewed,pr,pr
 2025-06-20T18:46:29.150Z,38.81233215332,-122.8176651001,2.6099998950958,1.07,md,25,53,0.009637,0.02,nc,nc75198221,2025-06-20T19:47:21.457Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.460000008,0.18,24,automatic,nc,nc
 2025-06-20T18:41:35.000Z,38.805500030518,-122.77600097656,2.920000076294,0.76,md,12,73,0.008568,0.02,nc,nc75198211,2025-06-20T19:37:19.284Z,"4 km NNW of The Geysers, CA",earthquake,0.34,0.850000024,0.14,13,automatic,nc,nc
@@ -270,5 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-20T00:09:11.020Z,61.0195,-152.408,9.93,0.21,ml,10,171,0.1798,0.24,av,av93643226,2025-06-20T19:54:02.060Z,"68 km W of Tyonek, Alaska",earthquake,0.86,3.18,0.16596297520356,10,reviewed,av,av
 2025-06-20T00:00:29.029Z,39.2107,-120.3931,4.4,0.7,ml,7,185.93,0.106,0.12,nn,nn00899206,2025-06-20T22:00:49.653Z,"12 km S of Soda Springs, California",earthquake,,5.4,0.62,3,reviewed,nn,nn
 2025-06-19T23:57:14.378Z,31.779,-101.918,5.249,1,ml,18,90,0.1,0.2,tx,tx2025mabjfu,2025-06-20T14:30:35.369Z,"28 km SSE of Midland, Texas",earthquake,0.58092959168606,1.6141298003976,0.2,6,reviewed,tx,tx
-2025-06-19T23:54:38.460Z,51.703666666667,-177.44816666667,8.93,2.13,ml,12,206,0.1446,0.31,av,av93643221,2025-06-20T08:29:46.520Z,"59 km WSW of Adak, Alaska",earthquake,1.42,1.08,0.18411307105644,12,reviewed,av,av
-2025-06-19T23:53:54.950Z,38.841166666667,-122.87833333333,2.58,0.13,md,16,88,0.004962,0.01,nc,nc75197856,2025-06-20T18:32:19.897Z,"13 km E of Cloverdale, CA",earthquake,0.39,0.61,0.22,15,reviewed,nc,nc
