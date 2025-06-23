@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-23T16:37:24.630Z,37.901332855225,-122.02749633789,8.579999923706,1.92,md,28,129,0.0506,0.08,nc,nc75199486,2025-06-23T16:39:25.584Z,"3 km ESE of Walnut Creek, CA",earthquake,0.25,0.409999996,0.14,25,automatic,nc,nc
 2025-06-23T16:36:46.430Z,33.6743333,-117.3963333,8.31,1.14,ml,38,49,0.03534,0.2,ci,ci41001895,2025-06-23T16:40:51.599Z,"6 km NW of Lakeland Village, CA",earthquake,0.22,0.49,0.319,28,automatic,ci,ci
-2025-06-23T16:24:11.780Z,38.3597,-118.0418,8.2,2.1,ml,19,110.76,0.167,0.3097,nn,nn00899360,2025-06-23T16:27:06.112Z,"6 km ESE of Mina, Nevada",earthquake,,0.8,0.4,11,automatic,nn,nn
+2025-06-23T16:24:11.040Z,38.3983,-117.9829,11,1.9,ml,9,43.51,0.199,0.1178,nn,nn00899360,2025-06-23T17:00:07.417Z,"11 km E of Mina, Nevada",earthquake,,3.6,0.48,6,reviewed,nn,nn
 2025-06-23T16:22:11.820Z,38.836833953857,-122.7816696167,2.0199999809265,1.03,md,22,71,0.006955,0.03,nc,nc75199471,2025-06-23T16:23:46.360Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.379999995,0.08,22,automatic,nc,nc
 2025-06-23T16:19:07.390Z,38.836498260498,-122.7825012207,1.8300000429153,0.86,md,13,68,0.006415,0.02,nc,nc75199466,2025-06-23T16:47:19.344Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.50999999,0.19,14,automatic,nc,nc
 2025-06-23T16:00:08.890Z,38.824001312256,-122.80033111572,2.9400000572205,0.73,md,10,92,0.007635,0.01,nc,nc75199461,2025-06-23T16:37:21.171Z,"6 km NNW of The Geysers, CA",earthquake,0.56,1.57000005,0.23,10,automatic,nc,nc
@@ -56,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-23T10:48:49.679Z,23.84,112.9903,10,4,mb,23,115,4.969,0.72,us,us6000qlya,2025-06-23T16:29:43.600Z,"16 km NNW of Qingyuan, China",earthquake,10.17,1.973,0.172,9,reviewed,us,us
 2025-06-23T10:41:45.938Z,-10.3304,161.5904,78.273,4.4,mb,21,113,1.846,0.61,us,us6000qlxm,2025-06-23T11:07:09.040Z,"38 km WNW of Kirakira, Solomon Islands",earthquake,7.48,7.993,0.109,24,reviewed,us,us
 2025-06-23T10:39:53.000Z,36.1716667,-118.162,8.61,1.02,ml,26,66,0.1239,0.16,ci,ci41001647,2025-06-23T10:43:27.237Z,"19 km SW of Olancha, CA",earthquake,0.21,0.83,0.166,18,automatic,ci,ci
-2025-06-23T10:30:07.820Z,19.445333480835,-155.4734954834,6.2800002098083,1.98,ml,50,45,0.04884,0.140000001,hv,hv74706117,2025-06-23T10:33:42.230Z,"25 km W of Volcano, Hawaii",earthquake,0.25,0.50999999,0.13,6,automatic,hv,hv
+2025-06-23T10:30:07.610Z,19.449166666667,-155.4755,9.5,1.7,ml,36,50,0.0467,0.11,hv,hv74706117,2025-06-23T16:54:39.200Z,"25 km W of Volcano, Hawaii",earthquake,0.32,0.62,0.20835105288886,18,reviewed,hv,hv
 2025-06-23T10:29:28.004Z,61.824,-149.5643,38.7,1.3,ml,,,,0.6,ak,ak0257zxmzwg,2025-06-23T10:31:34.619Z,"19 km WNW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-23T10:22:49.423Z,63.1577,-156.2003,0,2,ml,,,,1.27,ak,ak0257zxljji,2025-06-23T10:25:37.626Z,"20 km NNW of Takotna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-23T10:19:42.430Z,47.801666666667,-113.992,9.14,-0.1,ml,5,105,0.06309,0.07,mb,mb90098658,2025-06-23T15:46:44.720Z,"8 km NE of Finley Point, Montana",earthquake,0.36,1.19,0.17305149545391,3,reviewed,mb,mb
@@ -204,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T23:04:59.090Z,35.63,-117.4695,7,0.88,ml,31,50,0.05117,0.14,ci,ci41001135,2025-06-23T13:40:16.851Z,"16 km SSW of Searles Valley, CA",earthquake,0.18,0.44,0.169,14,reviewed,ci,ci
 2025-06-22T22:53:12.242Z,31.037,-103.702,6.0999,2.2,ml,18,65,0.1,0.2,tx,tx2025mfmkpj,2025-06-23T12:32:51.630Z,"7 km NE of Balmorhea, Texas",earthquake,0.89890307784247,1.6973886579103,0.2,6,reviewed,tx,tx
 2025-06-22T22:53:11.744Z,31.05,-103.726,8.5095,2.1,ml,18,63,0.1,0.2,tx,tx2025mfmicz,2025-06-23T12:37:02.905Z,"7 km NNE of Balmorhea, Texas",earthquake,0.79613614092921,1.771005473818,0.2,29,reviewed,tx,tx
-2025-06-22T22:40:44.130Z,51.721166666667,-179.01483333333,11.76,2.69,ml,6,269,0.1135,0.17,av,av93646226,2025-06-23T16:51:03.570Z,"165 km W of Adak, Alaska",earthquake,1.27,2.31,0.34902054660253,6,reviewed,av,av
+2025-06-22T22:40:44.260Z,51.771666666667,-179.03533333333,11.75,2.68,ml,5,338,0.1112,0.07,av,av93646226,2025-06-23T16:56:35.130Z,"165 km W of Adak, Alaska",earthquake,1.28,1.24,0.25832746005441,6,reviewed,av,av
 2025-06-22T22:40:10.890Z,34.0081667,-117.2166667,3.48,1,ml,40,24,0.07076,0.19,ci,ci41001127,2025-06-22T22:43:59.281Z,"6 km SE of Loma Linda, CA",earthquake,0.18,0.57,0.143,26,automatic,ci,ci
 2025-06-22T22:37:56.700Z,51.720333333333,-179.016,11.03,1.7,ml,6,270,0.1145,0.18,av,av93646211,2025-06-23T16:47:42.550Z,"165 km W of Adak, Alaska",earthquake,1.33,2.49,0.26399644221555,6,reviewed,av,av
 2025-06-22T22:30:00.661Z,44.115,86.8413,10,4.2,mb,32,102,3.621,0.64,us,us6000qlv2,2025-06-22T23:34:40.040Z,"38 km WNW of Changji, China",earthquake,10.15,1.958,0.136,15,reviewed,us,us
@@ -262,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T17:16:09.938Z,32.105,-101.93,4.7958,1,mlv,6,94,0.1,0.1,tx,tx2025mfbgen,2025-06-22T23:12:23.905Z,"13 km WSW of Stanton, Texas",earthquake,0,2.3933627605438,0.5,4,automatic,tx,tx
 2025-06-22T17:05:51.880Z,60.8868,-152.5757,20,0.9,ml,,,,0.41,ak,ak0257ye4las,2025-06-23T16:11:47.600Z,"73 km WNW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-22T17:04:10.310Z,33.9358333,-116.5611667,13.06,0.9,ml,45,50,0.112,0.14,ci,ci41000983,2025-06-22T21:04:37.142Z,"4 km NNW of Garnet, CA",earthquake,0.14,0.43,0.136,27,reviewed,ci,ci
-2025-06-22T16:57:51.530Z,39.7144,-119.963,4.8,0.5,ml,7,113.14,0.107,0.0904,nn,nn00899306,2025-06-23T01:49:48.515Z,"3 km NNE of Cold Springs, Nevada",earthquake,,7.5,0.23,5,reviewed,nn,nn
