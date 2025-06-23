@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-06-23T05:18:46.600Z,33.145,-115.9683333,6.75,1.13,ml,49,47,0.02949,0.21,ci,ci41001415,2025-06-23T05:22:21.125Z,"15 km E of Ocotillo Wells, CA",earthquake,0.17,0.45,0.149,28,automatic,ci,ci
 2025-06-23T05:14:46.480Z,33.6805,-116.9596667,12.78,0.59,ml,24,86,0.0306,0.13,ci,ci41001407,2025-06-23T05:18:16.178Z,"8 km S of Hemet, CA",earthquake,0.25,0.37,0.204,11,automatic,ci,ci
-2025-06-23T05:07:15.960Z,39.216667175293,-123.25,3.8900001049042,1.35,md,12,73,0.04117,0.05,nc,nc75199261,2025-06-23T05:08:51.592Z,"7 km SW of Redwood Valley, CA",earthquake,0.29,0.949999988,0.13,8,automatic,nc,nc
+2025-06-23T05:07:15.960Z,39.216667175293,-123.25,3.8900001049042,1.35,md,12,73,0.04117,0.05,nc,nc75199261,2025-06-23T05:37:20.414Z,"7 km SW of Redwood Valley, CA",earthquake,0.29,0.949999988,0.13,8,automatic,nc,nc
 2025-06-23T04:57:54.140Z,33.1491667,-115.973,6.81,1.81,ml,67,26,0.02458,0.22,ci,ci41001391,2025-06-23T05:08:28.110Z,"15 km E of Ocotillo Wells, CA",earthquake,0.16,0.47,0.133,27,automatic,ci,ci
 2025-06-23T04:40:18.760Z,32.987,-115.5355,10.07,1.35,ml,33,40,0.08789,0.28,ci,ci41001375,2025-06-23T04:43:51.924Z,"1 km NNW of Brawley, CA",earthquake,0.29,0.73,0.187,28,automatic,ci,ci
 2025-06-23T04:38:32.180Z,38.830501556396,-122.81583404541,1.6599999666214,0.62,md,6,103,0.01671,0.01,nc,nc75199256,2025-06-23T05:27:18.342Z,"8 km NNW of The Geysers, CA",earthquake,0.51,1.20000005,0.29,8,automatic,nc,nc
@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-23T02:04:04.449Z,51.0802,179.154,20.7,2.3,ml,,,,0.58,ak,ak0257zsq4ma,2025-06-23T02:45:51.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-06-23T01:59:16.377Z,31.654,-104.38,3.1822,1.6,ml,19,88,0,0.5,tx,tx2025mfspaz,2025-06-23T03:00:11.716Z,"57 km S of Whites City, New Mexico",earthquake,0,1.3249254226685,0.2,13,automatic,tx,tx
 2025-06-23T01:56:08.930Z,33.262,-115.636,0.61,1.04,ml,5,189,0.05072,0.17,ci,ci41001255,2025-06-23T01:59:37.636Z,"11 km WNW of Niland, CA",earthquake,1.87,13.34,0.135,13,automatic,ci,ci
-2025-06-23T01:55:18.172Z,37.6013,-117.7278,10.3,3.6,ml,53,55.78,0.374,0.2489,nn,nn00899307,2025-06-23T04:07:34.232Z,"18 km SSW of Silver Peak, Nevada",earthquake,,0.3,0.34,33,automatic,nn,nn
+2025-06-23T01:55:18.610Z,37.596,-117.7355,0,3.8,ml,57,56.24,0.174,0.2097,nn,nn00899307,2025-06-23T05:43:06.343Z,"19 km SSW of Silver Peak, Nevada",earthquake,,0,0.19,20,reviewed,nn,nn
 2025-06-23T01:49:21.919Z,62.101,-148.1426,27.8,1.4,ml,,,,0.6,ak,ak0257zsedb3,2025-06-23T01:51:06.747Z,"37 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-23T01:41:42.717Z,63.0966,-151.099,21,1.6,ml,,,,0.97,ak,ak0257zscp6n,2025-06-23T01:44:24.680Z,"58 km SSE of Denali National Park, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-06-23T01:40:34.028Z,-22.9878,-68.5464,119.065,4.4,mb,26,66,0.341,0.61,us,us6000qlvt,2025-06-23T01:52:21.040Z,"36 km WSW of San Pedro de Atacama, Chile",earthquake,6.28,5.756,0.135,16,reviewed,us,us
@@ -235,7 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T06:17:38.119Z,32.401,-102.126,6.8311,1.2,mlv,6,117,0,0.2,tx,tx2025mefkut,2025-06-22T11:16:10.550Z,"39 km ENE of McKinney Acres, Texas",earthquake,0,3.5985996723175,0.3,6,automatic,tx,tx
 2025-06-22T06:13:27.410Z,33.2863333,-116.2663333,4.2,0.9,ml,36,78,0.08404,0.22,ci,ci41000839,2025-06-22T13:35:28.810Z,"11 km ENE of Borrego Springs, CA",earthquake,0.28,0.75,0.216,17,reviewed,ci,ci
 2025-06-22T05:56:46.726Z,60.2121,-152.3446,71,1.6,ml,,,,0.43,ak,ak0257y7ab5s,2025-06-22T05:59:21.672Z,"41 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-06-22T05:44:39.812Z,58.1724,-155.3929,0,0.9,ml,,,,0.68,ak,ak0257y77q19,2025-06-22T05:46:56.059Z,"87 km NW of Karluk, Alaska",earthquake,,15.6,,,automatic,ak,ak
-2025-06-22T05:44:28.663Z,-26.2094,-177.434,10,5.1,mb,31,121,3.056,1.09,us,us6000qlqv,2025-06-22T06:03:19.040Z,"south of the Fiji Islands",earthquake,10.96,1.892,0.094,37,reviewed,us,us
-2025-06-22T05:43:41.580Z,36.1723333,-118.1615,7.58,2,ml,34,66,0.1244,0.18,ci,ci41000831,2025-06-22T13:36:08.700Z,"19 km SW of Olancha, CA",earthquake,0.22,0.88,0.173,25,reviewed,ci,ci
-2025-06-22T05:35:24.650Z,47.813666666667,-121.88316666667,24.64,1.92,ml,31,57,0.07627,0.22,uw,uw62124907,2025-06-22T18:33:50.650Z,"7 km S of Woods Creek, Washington",earthquake,0.38,0.57,0.16593978464827,25,reviewed,uw,uw
