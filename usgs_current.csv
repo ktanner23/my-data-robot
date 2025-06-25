@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-25T19:06:29.909Z,64.5088,-151.2346,12.5,1,ml,,,,0.83,ak,ak02583dxo0e,2025-06-25T19:17:27.262Z,"61 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-25T19:02:57.464Z,59.7304,-153.0896,109.9,3,ml,,,,0.32,ak,ak02583dwvap,2025-06-25T19:04:40.183Z,"57 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-25T18:54:43.311Z,16.2914,145.5666,518.959,4.8,mb,122,57,1.066,0.73,us,us7000q8s7,2025-06-25T19:13:00.040Z,"121 km N of Saipan, Northern Mariana Islands",earthquake,9.17,7.626,0.027,425,reviewed,us,us
 2025-06-25T18:41:48.670Z,38.826168060303,-122.80666351318,2.289999961853,0.73,md,16,59,0.003842,0.02,nc,nc75200516,2025-06-25T19:07:22.960Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.589999974,0.14,15,automatic,nc,nc
@@ -33,7 +34,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T15:50:54.728Z,32.442,-102.061,9.2529,2,ml,25,57,0.1,0.1,tx,tx2025mklplj,2025-06-25T18:50:26.665Z,"33 km SSW of Los Ybanez, Texas",earthquake,0.43341230847266,0.81476044591708,0.2,42,reviewed,tx,tx
 2025-06-25T15:48:48.830Z,38.838001251221,-122.82499694824,1.6100000143051,1.04,md,20,66,0.008213,0.02,nc,nc75200401,2025-06-25T17:57:19.453Z,"9 km NNW of The Geysers, CA",earthquake,0.22,0.430000007,0.23,20,automatic,nc,nc
 2025-06-25T15:20:53.257Z,61.2705,-146.8714,24.3,1.3,ml,,,,0.48,ak,ak02583bmzf1,2025-06-25T15:22:40.858Z,"32 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-25T15:14:51.856Z,31.998,-102.219,6.2693,2,ml,7,166,0,0.4,tx,tx2025mkkhjo,2025-06-25T16:00:47.712Z,"13 km W of Midland, Texas",earthquake,0,4.4456825256348,0.1,6,automatic,tx,tx
 2025-06-25T15:14:26.920Z,31.535,-104.014,6.1383,1.3,ml,27,57,0,0.3,tx,tx2025mkkjyl,2025-06-25T15:48:38.202Z,"32 km NW of Toyah, Texas",earthquake,0.69312519633888,0.41955664853038,0.2,19,reviewed,tx,tx
 2025-06-25T14:51:41.939Z,61.0129,-152.1441,144.7,1.1,ml,,,,1.37,ak,ak02583b864x,2025-06-25T14:53:41.406Z,"54 km W of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-25T14:51:16.630Z,38.820999145508,-122.85066986084,2.5999999046326,1.68,md,36,55,0.008136,0.03,nc,nc75200366,2025-06-25T16:47:20.956Z,"10 km NW of The Geysers, CA",earthquake,0.17,0.319999993,0.13,36,automatic,nc,nc
@@ -241,7 +241,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-24T21:32:39.019Z,60.9324,-150.6911,45.5,2.3,ml,,,,0.16,ak,ak02581rqs1p,2025-06-24T23:46:55.321Z,"1 km N of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-06-24T21:28:51.556Z,7.937,126.5703,79.272,4.3,mb,39,116,1.307,0.64,us,us7000q8jc,2025-06-25T02:22:52.040Z,"15 km ESE of Santa Maria, Philippines",earthquake,9.71,9.236,0.1,28,reviewed,us,us
 2025-06-24T21:28:50.700Z,35.677166666667,-120.9895,-0.39,1.41,md,25,72,0.1058,0.08,nc,nc75200071,2025-06-24T23:00:27.558Z,"11 km WSW of Lake Nacimiento, CA",quarry blast,0.26,31.61,0.262,12,reviewed,nc,nc
-2025-06-24T21:22:47.950Z,36.0321667,-117.7738333,1.88,0.71,ml,19,52,0.009823,0.11,ci,ci41003103,2025-06-24T21:26:15.617Z,"16 km E of Coso Junction, CA",earthquake,0.15,0.15,0.154,11,automatic,ci,ci
+2025-06-24T21:22:58.740Z,36.0401667,-117.7698333,1.89,0.23,ml,5,207,0.01538,0.05,ci,ci37546333,2025-06-25T19:22:25.860Z,"16 km E of Coso Junction, CA",earthquake,0.32,0.54,0.059,4,reviewed,ci,ci
+2025-06-24T21:22:47.900Z,36.0326667,-117.7756667,2.51,0.71,ml,16,67,0.01125,0.11,ci,ci41003103,2025-06-25T19:23:53.617Z,"16 km E of Coso Junction, CA",earthquake,0.16,0.16,0.082,12,reviewed,ci,ci
 2025-06-24T21:21:43.710Z,36.0321667,-117.7748333,2.13,0.65,ml,10,71,0.01041,0.08,ci,ci41003095,2025-06-25T18:56:38.689Z,"16 km E of Coso Junction, CA",earthquake,0.17,0.18,0.09,7,reviewed,ci,ci
 2025-06-24T21:21:28.500Z,36.0338333,-117.7741667,2.17,0.47,ml,11,121,0.01123,0.05,ci,ci41003087,2025-06-25T18:52:18.115Z,"16 km E of Coso Junction, CA",earthquake,0.14,0.1,0.086,9,reviewed,ci,ci
 2025-06-24T21:20:44.330Z,44.686333333333,-110.07266666667,5.76,0.38,md,4,149,0.1167,0.16,uu,uu80111041,2025-06-24T22:01:50.140Z,"36 km S of Silver Gate, Montana",earthquake,1.8,9.62,0.69617128113325,3,reviewed,uu,uu
@@ -272,4 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-24T19:49:37.910Z,35.938166666667,-120.48066666667,9.55,0.24,md,15,78,0.0112,0.08,nc,nc75200011,2025-06-25T07:07:16.754Z,"6 km NNW of Parkfield, CA",earthquake,0.6,0.88,0.216,2,reviewed,nc,nc
 2025-06-24T19:48:21.460Z,48.386666666667,-116.58833333333,-0.74,1.84,md,5,284,0.3771,0.77,uw,uw62126212,2025-06-24T22:51:16.900Z,"9 km NNW of Ponderay, Idaho",explosion,5.66,31.61,,1,reviewed,uw,uw
 2025-06-24T19:30:09.404Z,56.478,-149.1818,10,2.7,ml,20,201,2.269,0.54,us,us7000q8i7,2025-06-24T20:06:18.040Z,"226 km SE of Chiniak, Alaska",earthquake,4.6,1.99,0.06,36,reviewed,us,us
-2025-06-24T19:22:41.250Z,34.1615,-118.4366667,5.38,2.67,ml,111,48,0.02499,0.19,ci,ci41002943,2025-06-25T17:12:24.378Z,"2 km NE of Sherman Oaks, CA",earthquake,0.13,0.21,0.181,26,reviewed,ci,ci
