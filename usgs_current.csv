@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-06-25T19:31:28.420Z,33.8849983,-116.8913345,13.39,1.02,ml,25,62,0.0935,0.16,ci,ci41004159,2025-06-25T19:33:30.932Z,"5 km SSW of Banning, CA",earthquake,0.35,0.84,0.264,8,automatic,ci,ci
+2025-06-25T19:31:28.500Z,33.8821667,-116.892,12.15,0.96,ml,43,37,0.09246,0.13,ci,ci41004159,2025-06-25T19:36:20.695Z,"5 km SSW of Banning, CA",earthquake,0.15,0.46,0.135,28,automatic,ci,ci
 2025-06-25T19:24:10.940Z,33.5625,-117.501,1.44,1.04,ml,29,119,0.0476,0.15,ci,ci41004143,2025-06-25T19:28:21.557Z,"9 km ESE of Coto De Caza, CA",earthquake,0.19,0.34,0.139,28,automatic,ci,ci
 2025-06-25T19:06:29.909Z,64.5088,-151.2346,12.5,1,ml,,,,0.83,ak,ak02583dxo0e,2025-06-25T19:17:27.262Z,"61 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-25T19:02:57.464Z,59.7304,-153.0896,109.9,3,ml,,,,0.32,ak,ak02583dwvap,2025-06-25T19:27:34.040Z,"57 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -152,6 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T04:46:21.705Z,31.621,-104.361,6.4075,2.7,ml,35,79,0.1,0.1,tx,tx2025mjpoua,2025-06-25T04:58:28.183Z,"61 km S of Whites City, New Mexico",earthquake,0.80393346825066,0.87922284147595,0.1,53,reviewed,tx,tx
 2025-06-25T04:27:15.734Z,32.105,-101.926,8.6182,1.1,ml,18,65,0.1,0,tx,tx2025mjoydn,2025-06-25T11:42:56.733Z,"13 km WSW of Stanton, Texas",earthquake,0.37727493514447,1.2605979191017,0.1,25,reviewed,tx,tx
 2025-06-25T04:26:42.740Z,18.7803,-68.2215,57,3.91,md,24,157,0.3107,0.68,pr,pr2025176003,2025-06-25T05:08:51.940Z,"29 km NE of Punta Cana, Dominican Republic",earthquake,3.68,3.81,0.06,17,reviewed,pr,pr
+2025-06-25T04:26:12.720Z,44.696166666667,-111.02433333333,7.11,0.98,ml,14,64,0.05047,0.17,uu,uu80111066,2025-06-25T19:37:37.480Z,"7 km ENE of West Yellowstone, Montana",earthquake,0.37,0.55,0.055739863689648,3,reviewed,uu,uu
 2025-06-25T04:20:58.880Z,44.6955,-111.02533333333,4.87,0.64,ml,11,84,0.05072,0.14,uu,uu80111061,2025-06-25T14:02:29.850Z,"7 km ENE of West Yellowstone, Montana",earthquake,0.32,0.53,0.098692638991023,2,reviewed,uu,uu
 2025-06-25T04:20:24.291Z,67.5441,-148.6004,0,1.8,ml,,,,1.07,ak,ak02583535j1,2025-06-25T04:38:53.342Z,"66 km ENE of Wiseman, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-06-25T04:15:08.770Z,19.063833333333,-67.3455,44.53,3.42,md,9,321,0.6334,0.27,pr,pr71487143,2025-06-25T04:41:21.340Z,"68 km NNW of San Antonio, Puerto Rico",earthquake,1.8,5.12,0.039894706110057,5,reviewed,pr,pr
@@ -176,7 +177,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T02:43:08.020Z,31.708,-104.168,6.7535,1.6,ml,33,53,0.1,0.2,tx,tx2025mjlmpn,2025-06-25T11:36:38.697Z,"53 km W of Mentone, Texas",earthquake,0.48629478160212,0.71105913511714,0.2,19,reviewed,tx,tx
 2025-06-25T02:39:40.130Z,38.840167999268,-122.82633209228,12.199999809265,0.98,md,8,231,0.01833,0.12,nc,nc75200176,2025-06-25T04:42:17.727Z,"9 km WNW of Cobb, CA",earthquake,2.94,8.72000027,0.19,8,automatic,nc,nc
 2025-06-25T02:29:40.030Z,57.096166666667,-135.71666666667,7.5,0.26,ml,5,232,0.02604,0.18,av,av93647716,2025-06-25T17:33:34.680Z,"23 km WNW of Sitka, Alaska",earthquake,1.53,0.84,0.29389885963258,5,reviewed,av,av
-2025-06-25T02:17:55.337Z,37.1545,-115.4016,9.5,1.3,ml,22,129.82,0.376,0.1307,nn,nn00899433,2025-06-25T18:21:33.319Z,"31 km SW of Alamo, Nevada",earthquake,,9.2,0.22,14,reviewed,nn,nn
+2025-06-25T02:17:55.344Z,37.1554,-115.402,9.6,1.3,ml,24,130.05,0.376,0.1303,nn,nn00899433,2025-06-25T19:41:06.162Z,"31 km SW of Alamo, Nevada",earthquake,,8.9,0.25,16,reviewed,nn,nn
 2025-06-25T02:13:02.536Z,61.9387,-149.2455,0,0.9,ml,,,,0.78,ak,ak025833uqml,2025-06-25T02:15:02.515Z,"21 km N of Fishhook, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-25T02:12:57.370Z,38.82466506958,-123.00533294678,3.6800000667572,1.42,md,17,117,0.05032,0.05,nc,nc75200171,2025-06-25T04:17:22.568Z,"2 km NE of Cloverdale, CA",earthquake,0.3,0.819999993,0.12,18,automatic,nc,nc
 2025-06-25T01:57:59.600Z,38.4403,-119.4919,4.3,1.4,ml,18,82.3,0.077,0.1816,nn,nn00899431,2025-06-25T15:57:55.827Z,"8 km S of Walker, California",earthquake,,1.3,0.16,8,reviewed,nn,nn
