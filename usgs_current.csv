@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-25T09:49:38.215Z,62.8435,-151.1079,26.4,1.4,ml,,,,1.05,ak,ak0258388ke5,2025-06-25T09:52:18.254Z,"42 km NNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-25T09:42:06.028Z,64.0892,-148.6507,0,1.1,ml,,,,1.11,ak,ak0258386zwa,2025-06-25T09:43:53.531Z,"24 km ENE of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-06-25T09:13:36.180Z,33.9905,-117.9651667,3.93,1,ml,20,144,0.02239,0.19,ci,ci41003551,2025-06-25T09:17:05.733Z,"0 km SE of Hacienda Heights, CA",earthquake,1.26,0.71,0.298,35,automatic,ci,ci
 2025-06-25T09:09:03.460Z,33.5128333,-116.5148333,12.49,0.64,ml,40,56,0.07521,0.14,ci,ci41003543,2025-06-25T09:12:47.705Z,"15 km ESE of Anza, CA",earthquake,0.15,0.37,0.113,19,automatic,ci,ci
+2025-06-25T09:08:47.607Z,36.5563,143.8155,10,4.9,mb,68,131,4.514,0.41,us,us7000q8n0,2025-06-25T09:50:34.040Z,"263 km ESE of Tomioka, Japan",earthquake,8.76,1.861,0.029,374,reviewed,us,us
 2025-06-25T09:07:48.332Z,64.6773,-40.3509,10,4.2,mb,49,121,4.222,0.98,us,us7000q8n1,2025-06-25T09:30:16.040Z,"164 km SW of Tasiilaq, Greenland",earthquake,8.3,1.952,0.05,109,reviewed,us,us
 2025-06-25T09:05:41.000Z,36.560501098633,-121.14700317383,0.37000000476837,0.98,md,8,80,0.03287,0.26,nc,nc75200271,2025-06-25T09:42:18.850Z,"3 km N of Pinnacles, CA",earthquake,1.71,16.8600006,0.22,8,automatic,nc,nc
 2025-06-25T09:03:30.230Z,61.043,-141.6343,0,1.6,ml,,,,0.81,ak,ak025837you7,2025-06-25T09:05:35.870Z,"81 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -28,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-25T07:02:05.390Z,60.2513,-152.1038,80.3,1.8,ml,,,,1.41,ak,ak025836rk35,2025-06-25T07:06:42.941Z,"32 km NW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-06-25T06:59:42.351Z,37.524,-117.7406,4.1,0.5,ml,11,146.57,0.241,0.2926,nn,nn00899437,2025-06-25T07:02:15.276Z,"27 km SSW of Silver Peak, Nevada",earthquake,,2,0.76,6,automatic,nn,nn
 2025-06-25T06:53:12.810Z,33.986,-117.993,4.57,1.21,ml,31,165,0.0225,0.23,ci,ci41003527,2025-06-25T06:57:07.618Z,"2 km WSW of Hacienda Heights, CA",earthquake,0.36,0.29,0.397,30,automatic,ci,ci
-2025-06-25T06:40:50.270Z,38.824333190918,-123.00399780273,4.1999998092651,1.69,md,22,82,0.0495,0.02,nc,nc75200236,2025-06-25T07:17:18.826Z,"2 km NE of Cloverdale, CA",earthquake,0.23,0.629999995,0.1,21,automatic,nc,nc
+2025-06-25T06:40:50.270Z,38.824333190918,-123.00399780273,4.1999998092651,1.69,md,22,82,0.0495,0.02,nc,nc75200236,2025-06-25T09:47:21.886Z,"2 km NE of Cloverdale, CA",earthquake,0.23,0.629999995,0.1,21,automatic,nc,nc
 2025-06-25T06:34:43.072Z,63.085,-150.5023,101.5,1.4,ml,,,,0.23,ak,ak025836d27n,2025-06-25T06:36:53.864Z,"66 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-25T06:26:03.340Z,37.169498443604,-118.52500152588,21.129999160767,1.5,md,8,173,0.1859,0.11,nc,nc75200231,2025-06-25T09:22:18.715Z,"17 km WSW of Wilkerson, CA",earthquake,1.71,4.61000013,0.01,3,automatic,nc,nc
 2025-06-25T06:13:21.701Z,64.6004,-40.0889,10,4.5,mb,73,56,4.227,0.61,us,us7000q8m9,2025-06-25T07:19:53.040Z,"161 km SW of Tasiilaq, Greenland",earthquake,8.92,1.883,0.028,368,reviewed,us,us
@@ -276,5 +278,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-24T10:16:58.619Z,9.3789,93.8933,10,4.9,mww,124,43,5.116,0.52,us,us7000q8ea,2025-06-24T11:17:56.040Z,"282 km SSE of Port Blair, India",earthquake,8.6,1.836,0.11,8,reviewed,us,us
 2025-06-24T09:58:14.880Z,19.1273,-67.4235,19,3.73,md,22,202,0.73,0.53,pr,pr2025175012,2025-06-24T12:46:09.040Z,"78 km NNW of San Antonio, Puerto Rico",earthquake,1.61,4.5,0.11,14,reviewed,pr,pr
 2025-06-24T09:57:28.004Z,19.124,-67.4113,22.199,3.1,ml,18,191,0.712,0.61,us,us7000q8e6,2025-06-24T17:35:55.040Z,"77 km NNW of San Antonio, Puerto Rico",earthquake,5.05,12.957,0.063,33,reviewed,us,us
-2025-06-24T09:53:13.440Z,37.578666666667,-118.78933333333,8.83,0.24,md,18,261,0.03357,0.04,nc,nc75199791,2025-06-24T17:42:16.986Z,"10 km WNW of Toms Place, CA",earthquake,1,0.8,0.166,13,reviewed,nc,nc
-2025-06-24T09:52:01.760Z,46.866833333333,-112.539,9.32,0.45,ml,10,116,0.05678,0.03,mb,mb90098803,2025-06-24T13:41:06.920Z,"14 km SE of Lincoln, Montana",earthquake,0.29,0.63,0.16854673084848,6,reviewed,mb,mb
