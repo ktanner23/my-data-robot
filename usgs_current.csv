@@ -52,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T10:17:58.773Z,39.8429,-119.4048,1,1.6,ml,17,129.23,0.338,0.2113,nn,nn00899638,2025-06-28T10:20:06.923Z,"4 km WNW of Nixon, Nevada",earthquake,,41.1,0.28,11,automatic,nn,nn
 2025-06-28T10:12:29.450Z,34.9046667,-118.9571667,14.4,1.35,ml,34,69,0.02291,0.18,ci,ci41007279,2025-06-28T15:13:26.549Z,"5 km SSW of Grapevine, CA",earthquake,0.23,0.36,0.258,30,reviewed,ci,ci
 2025-06-28T10:07:47.943Z,32.355,-102.082,6.3299,0.9,mlv,22,54,0,0.3,tx,tx2025mpnkkw,2025-06-28T11:16:05.298Z,"37 km NW of Stanton, Texas",earthquake,0,1.6135883331299,0.2,17,automatic,tx,tx
-2025-06-28T09:58:39.969Z,-29.7094,-71.2858,52.815,4.8,mb,49,125,0.212,0.95,us,us7000q9cc,2025-06-28T11:37:45.593Z,"21 km N of La Serena, Chile",earthquake,3.88,6.339,0.033,292,reviewed,us,us
+2025-06-28T09:58:39.969Z,-29.7094,-71.2858,52.815,4.8,mb,49,125,0.212,0.95,us,us7000q9cc,2025-06-28T15:29:35.353Z,"21 km N of La Serena, Chile",earthquake,3.88,6.339,0.033,292,reviewed,us,us
 2025-06-28T09:51:30.190Z,72.4026,142.1011,10,5.1,mb,99,28,4.173,1,us,us7000q9cb,2025-06-28T10:09:02.040Z,"285 km NW of Chokurdakh, Russia",earthquake,9.84,1.875,0.023,628,reviewed,us,us
 2025-06-28T09:47:28.880Z,33.5406667,-116.7116667,5.3,0.27,ml,21,45,0.03266,0.1,ci,ci41007271,2025-06-28T09:50:52.839Z,"4 km WSW of Anza, CA",earthquake,0.16,0.33,0.188,9,automatic,ci,ci
 2025-06-28T09:44:44.201Z,32.104,-102.216,3.9451,1.1,mlv,26,75,0,0.4,tx,tx2025mpmqlw,2025-06-28T11:16:03.627Z,"17 km NW of Midland, Texas",earthquake,0,1.0716536045074,0.3,14,automatic,tx,tx
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T23:30:09.800Z,19.107666666667,-66.4685,30.56,3.07,md,20,274,0.6299,0.18,pr,pr71487383,2025-06-28T00:31:33.040Z,"71 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,0.71,5.46,0.11471197351241,15,reviewed,pr,pr
 2025-06-27T23:24:34.220Z,36.723,-116.0005,4.3,-0.3,ml,11,185.38,0.013,0.0978,nn,nn00899611,2025-06-28T02:44:58.774Z,"34 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.35,4,reviewed,nn,nn
 2025-06-27T23:22:36.521Z,61.5818,-146.3856,29.6,2,ml,,,,0.93,ak,ak02586rhjdw,2025-06-27T23:24:52.444Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-06-27T23:07:10.186Z,5.2772,126.0977,101.614,6.1,mww,117,27,0.82,1.2,us,us7000q97d,2025-06-28T15:24:45.074Z,"71 km ESE of Sarangani, Philippines",earthquake,6.58,5.778,0.048,41,reviewed,us,us
+2025-06-27T23:07:10.186Z,5.2772,126.0977,101.614,6.1,mww,117,27,0.82,1.2,us,us7000q97d,2025-06-28T15:35:09.997Z,"71 km ESE of Sarangani, Philippines",earthquake,6.58,5.778,0.048,41,reviewed,us,us
 2025-06-27T22:56:42.407Z,60.718,-151.9191,86.4,1.4,ml,,,,0.37,ak,ak02586r3ekw,2025-06-27T22:58:34.685Z,"34 km W of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-06-27T22:55:29.800Z,38.798332214355,-122.811668396,2.8599998950958,0.95,md,18,69,0.01204,0.02,nc,nc75201476,2025-06-27T23:57:19.031Z,"5 km NW of The Geysers, CA",earthquake,0.3,0.460000008,0.22,18,automatic,nc,nc
 2025-06-27T22:55:04.303Z,41.9351,-119.6211,2.6,2.1,ml,5,211.24,0.313,0.2159,nn,nn00899601,2025-06-28T01:19:08.354Z,"44 km E of Fort Bidwell, California",earthquake,,4.4,0.41,4,reviewed,nn,nn
@@ -266,5 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-27T16:00:40.010Z,54.728666666667,-163.4435,1.85,1.19,ml,4,322,0.1563,0.1,av,av93045639,2025-06-28T03:06:42.850Z,"14 km S of False Pass, Alaska",earthquake,1.03,2.11,0.24029815340548,4,reviewed,av,av
 2025-06-27T16:00:23.470Z,54.730333333333,-163.4285,6.19,1.01,ml,11,177,0.1651,0.3,av,av93650126,2025-06-28T03:01:50.450Z,"13 km S of False Pass, Alaska",earthquake,1.54,1.06,0.19872369332487,11,reviewed,av,av
 2025-06-27T15:49:19.352Z,66.8038,-163.3134,10,2.9,ml,14,179,1.228,0.96,us,us7000q950,2025-06-27T16:26:01.040Z,"33 km WSW of Kotzebue, Alaska",earthquake,6.82,1.988,0.097,14,reviewed,us,us
-2025-06-27T15:35:37.700Z,54.720666666667,-163.4025,4.94,0.68,ml,8,183,0.1801,0.18,av,av93650111,2025-06-28T02:55:54.730Z,"14 km S of False Pass, Alaska",earthquake,1.59,2.6,0.31515258930544,8,reviewed,av,av
-2025-06-27T15:34:18.400Z,18.047833333333,-66.873833333333,10.37,2.02,md,9,77,0.02943,0.19,pr,pr71487358,2025-06-27T16:34:17.950Z,"2 km WNW of Yauco, Puerto Rico",earthquake,0.44,1.02,0.11766835382471,5,reviewed,pr,pr
