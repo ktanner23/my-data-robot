@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-29T18:50:57.050Z,40.305000305176,-124.62750244141,10.590000152588,2.88,md,24,271,0.2185,0.33,nc,nc75202321,2025-06-29T18:52:33.598Z,"29 km W of Petrolia, CA",earthquake,6.57,3.6500001,0.07,18,automatic,nc,nc
+2025-06-29T18:43:08.119Z,61.3092,-150.774,58.8,1.2,ml,,,,0.41,ak,ak02589zpi6z,2025-06-29T18:45:26.742Z,"25 km NE of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-29T18:37:20.880Z,38.4375,-122.48449707031,7.8200001716614,1.49,md,13,112,0.05825,0.12,nc,nc75202316,2025-06-29T18:38:58.390Z,"6 km ENE of Kenwood, CA",earthquake,0.48,1.19000006,0.15,10,automatic,nc,nc
 2025-06-29T18:12:19.940Z,38.795501708984,-122.80699920654,3.0999999046326,0.74,md,9,88,0.007795,0.02,nc,nc75202311,2025-06-29T18:13:58.322Z,"5 km NW of The Geysers, CA",earthquake,0.34,1.03999996,0.25,9,automatic,nc,nc
 2025-06-29T18:05:50.940Z,37.345,-117.8882,3.9,0.9,ml,8,174.41,0.071,0.2337,nn,nn00899765,2025-06-29T18:08:26.707Z,"39 km SSE of Dyer, Nevada",earthquake,,5.4,0.5,5,automatic,nn,nn
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T16:36:20.860Z,33.1521667,-115.9681667,7.32,0.93,ml,40,59,0.02273,0.18,ci,ci41008599,2025-06-29T16:39:49.167Z,"15 km E of Ocotillo Wells, CA",earthquake,0.18,0.35,0.198,19,automatic,ci,ci
 2025-06-29T16:32:48.110Z,17.744333333333,-68.738,32.93,3.42,md,11,342,1.573,0.38,pr,pr71487583,2025-06-29T16:55:21.230Z,"71 km S of Boca de Yuma, Dominican Republic",earthquake,5.59,24.95,0.17026979668936,10,reviewed,pr,pr
 2025-06-29T16:25:04.118Z,61.7232,-148.0086,30.7,1.7,ml,,,,0.6,ak,ak02589yersb,2025-06-29T16:26:47.181Z,"20 km WSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2025-06-29T16:23:00.490Z,37.3285,-117.92666666667,6.01,1.78,md,26,90,0.3005,0.11,nc,nc75003778,2025-06-29T18:32:20.467Z,"7 km SE of Deep Springs, CA",earthquake,0.33,1.53,0.196,18,reviewed,nc,nc
+2025-06-29T16:23:00.490Z,37.3285,-117.92666666667,6.01,1.78,md,26,90,0.3005,0.11,nc,nc75003778,2025-06-29T18:52:16.612Z,"7 km SE of Deep Springs, CA",earthquake,0.33,1.53,0.196,18,reviewed,nc,nc
 2025-06-29T16:22:27.450Z,33.4796667,-116.4953333,13.01,0.68,ml,32,59,0.09056,0.16,ci,ci41008583,2025-06-29T16:25:56.952Z,"18 km ESE of Anza, CA",earthquake,0.19,0.53,0.113,20,automatic,ci,ci
 2025-06-29T16:17:47.940Z,33.374,-116.8621667,8.65,0.5,ml,29,28,0.02034,0.2,ci,ci41008575,2025-06-29T16:21:17.171Z,"2 km N of Palomar Observatory, CA",earthquake,0.22,0.58,0.086,13,automatic,ci,ci
 2025-06-29T16:13:51.200Z,33.7546667,-116.0851667,5.19,0.74,ml,33,84,0.1039,0.18,ci,ci41008567,2025-06-29T16:17:18.964Z,"12 km NE of Coachella, CA",earthquake,0.18,0.55,0.078,12,automatic,ci,ci
@@ -225,5 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T19:27:13.870Z,38.802665710449,-122.77716827393,3.5199999809265,0.99,md,16,69,0.01093,0.03,nc,nc75201866,2025-06-28T20:22:17.929Z,"3 km NNW of The Geysers, CA",earthquake,0.31,0.689999998,0.22,15,automatic,nc,nc
 2025-06-28T19:13:18.184Z,36.7719,-115.8133,3.1,0.5,ml,14,250.26,0.145,0.1008,nn,nn00899668,2025-06-29T03:37:50.089Z,"25 km NNW of Indian Springs, Nevada",earthquake,,12.9,0.34,3,reviewed,nn,nn
 2025-06-28T19:05:04.330Z,34.0415,-117.2351667,15.08,1.26,ml,60,30,0.1021,0.17,ci,ci41007751,2025-06-28T19:16:10.520Z,"2 km ESE of Loma Linda, CA",earthquake,0.15,0.26,0.244,29,automatic,ci,ci
-2025-06-28T18:52:50.500Z,33.2293333,-116.7296667,11.27,0.61,ml,32,33,0.02527,0.2,ci,ci41007743,2025-06-28T18:56:18.593Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.25,0.51,0.158,11,automatic,ci,ci
-2025-06-28T18:46:41.463Z,36.7696,-115.817,5.6,1.9,ml,54,110.43,0.105,0.1396,nn,nn00899662,2025-06-28T19:27:43.370Z,"25 km NNW of Indian Springs, Nevada",earthquake,,1.3,0.32,19,reviewed,nn,nn
