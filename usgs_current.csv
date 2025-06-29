@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-29T02:45:43.770Z,37.315333333333,-117.9195,10.83,2.22,md,35,90,0.302,0.12,nc,nc75202011,2025-06-29T10:47:18.144Z,"8 km SSE of Deep Springs, CA",earthquake,0.34,0.8,0.318,30,reviewed,nc,nc
 2025-06-29T02:43:41.885Z,37.3526,-117.8908,6.1,0.6,ml,6,172.34,0.067,0.1442,nn,nn00899688,2025-06-29T03:53:12.496Z,"38 km SSE of Dyer, Nevada",earthquake,,2.3,0.27,3,reviewed,nn,nn
 2025-06-29T02:42:10.856Z,37.3302,-117.91,8.1,1.7,ml,11,94.97,0.062,0.0679,nn,nn00899685,2025-06-29T03:53:39.737Z,"38 km ENE of Big Pine, California",earthquake,,1.5,0.81,4,reviewed,nn,nn
-2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T12:44:54.625Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
+2025-06-29T02:37:58.310Z,37.316,-117.92066666667,11.6,4.61,mw,65,69,0.3013,0.1,nc,nc75202001,2025-06-29T14:48:10.447Z,"8 km SSE of Deep Springs, CA",earthquake,0.23,0.57,,15,reviewed,nc,nc
 2025-06-29T02:36:21.741Z,29.403,129.4384,10,4.3,mb,25,110,2.275,1.28,us,us7000q9g5,2025-06-29T03:52:13.040Z,"106 km N of Tatsugō, Japan",earthquake,7.52,1.949,0.178,9,reviewed,us,us
 2025-06-29T02:34:27.480Z,36.827499389648,-121.5693359375,6.1599998474121,3.12,ml,72,48,0.02956,0.2,nc,nc75201996,2025-06-29T05:26:08.620Z,"3 km WSW of San Juan Bautista, CA",earthquake,0.24,0.49000001,0.262,26,automatic,nc,nc
 2025-06-29T02:32:53.380Z,30.3299,69.9739,10,4.5,mb,32,96,4.233,1.21,us,us7000q9g2,2025-06-29T03:40:01.040Z,"64 km NE of Barkhan, Pakistan",earthquake,10.84,1.898,0.099,30,reviewed,us,us
@@ -209,7 +209,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T16:36:54.790Z,35.9708333,-117.6653333,4.36,0.64,ml,20,78,0.0259,0.1,ci,ci41007583,2025-06-28T16:40:21.091Z,"22 km E of Little Lake, CA",earthquake,0.16,0.23,0.122,11,automatic,ci,ci
 2025-06-28T16:32:10.716Z,31.475,-104.006,5.5247,1.5,mlv,26,71,0.1,0.5,tx,tx2025mqacir,2025-06-29T10:17:15.238Z,"26 km NW of Toyah, Texas",earthquake,0,2.3854374885559,0.1,20,automatic,tx,tx
 2025-06-28T16:23:51.370Z,33.7123333,-116.7735,15.12,1.26,ml,72,24,0.05138,0.2,ci,ci41007559,2025-06-28T16:27:17.013Z,"6 km WSW of Idyllwild, CA",earthquake,0.16,0.31,0.236,26,automatic,ci,ci
-2025-06-28T16:19:46.611Z,36.9757,-104.8422,5,3.7,ml,14,90,0.154,0.72,us,us7000q9dk,2025-06-29T12:52:56.555Z,"17 km S of Weston, Colorado",earthquake,2.06,1.944,0.048,77,reviewed,us,us
+2025-06-28T16:19:46.611Z,36.9757,-104.8422,5,3.7,ml,14,90,0.154,0.72,us,us7000q9dk,2025-06-29T14:47:40.173Z,"17 km S of Weston, Colorado",earthquake,2.06,1.944,0.048,77,reviewed,us,us
 2025-06-28T16:17:37.413Z,61.0039,-149.4765,31.5,1.4,ml,,,,0.29,ak,ak02588ats4t,2025-06-28T16:19:35.832Z,"13 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-28T16:07:53.149Z,59.5654,-152.9666,84.9,0.6,ml,,,,0.42,ak,ak02588aro6q,2025-06-28T16:09:17.044Z,"63 km WNW of Nanwalek, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-06-28T16:06:43.160Z,38.836334228516,-122.81050109863,2.0199999809265,1.36,md,30,38,0.01292,0.02,nc,nc75201831,2025-06-28T18:07:15.882Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.319999993,0.1,30,automatic,nc,nc
@@ -221,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-28T15:36:51.860Z,57.9338,-155.0449,75.1,0.9,ml,,,,0.13,ak,ak02588acg8y,2025-06-28T15:38:17.764Z,"53 km NW of Karluk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-06-28T15:05:46.760Z,35.995833333333,-83.832833333333,11.77,1.97,md,13,94,0.1258,0.11,se,se60609126,2025-06-29T13:25:17.990Z,"8 km ENE of Knoxville, Tennessee",earthquake,0.51,1.1,0.091194059823683,10,reviewed,se,se
 2025-06-28T15:04:26.291Z,31.645,-104.282,4.6195,1.5,ml,26,68,0,0.3,tx,tx2025mpxgba,2025-06-28T15:07:12.659Z,"59 km NW of Toyah, Texas",earthquake,0,1.0787348747253,0.2,18,automatic,tx,tx
-2025-06-28T14:51:39.350Z,51.793166666667,-178.75283333333,17.17,0.14,ml,5,199,0.01156,0.11,av,av93651396,2025-06-28T22:30:33.720Z,"146 km W of Adak, Alaska",earthquake,2.49,1,0.074219509356607,5,reviewed,av,av
-2025-06-28T14:46:13.150Z,19.318332672119,-155.2200012207,1.5,1.84,ml,53,77,0.03717,0.209999993,hv,hv74710962,2025-06-28T14:49:37.800Z,"13 km S of Volcano, Hawaii",earthquake,0.27,0.460000008,0.51,16,automatic,hv,hv
-2025-06-28T14:44:55.990Z,38.794166564941,-122.75333404541,1.1499999761581,1.48,md,27,88,0.00815,0.04,nc,nc75201801,2025-06-28T16:07:20.060Z,"2 km NNE of The Geysers, CA",earthquake,0.2,0.340000004,0.12,29,automatic,nc,nc
