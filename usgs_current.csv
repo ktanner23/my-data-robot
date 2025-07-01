@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T19:08:56.100Z,61.9939,-149.5685,26.8,0.9,ml,,,,0.41,ak,ak0258db68fe,2025-07-01T19:10:39.270Z,"23 km SE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-01T19:08:06.980Z,31.705,-103.716,1.2897,1.8,ml,9,101,0.1,1,tx,tx2025mvsmmr,2025-07-01T20:00:56.161Z,"11 km W of Mentone, Texas",earthquake,0,2.845401763916,0.3,5,automatic,tx,tx
 2025-07-01T19:07:57.210Z,34.2781667,-116.6951667,11.65,1.06,ml,35,55,0.1113,0.11,ci,ci41011351,2025-07-01T19:11:55.311Z,"14 km E of Big Bear City, CA",earthquake,0.14,0.42,0.209,26,automatic,ci,ci
-2025-07-01T19:07:18.844Z,32.405,-102.066,3.5427,2.6,ml,77,76,0,0.4,tx,tx2025mvslyu,2025-07-01T19:30:21.040Z,"35 km WSW of Ackerly, Texas",earthquake,0,0.63663613796234,0.1,48,automatic,tx,tx
+2025-07-01T19:07:19.203Z,32.401,-102.072,6.9092,2.6,ml,38,49,0,0.1,tx,tx2025mvslyu,2025-07-01T20:16:16.750Z,"36 km WSW of Ackerly, Texas",earthquake,0.38431938032415,0.54375526856815,0.1,19,reviewed,tx,tx
 2025-07-01T19:02:57.583Z,60.7484,-150.5394,12,1.5,ml,,,,0.32,ak,ak0258db4y8u,2025-07-01T19:04:27.767Z,"21 km SSE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-01T19:02:43.430Z,33.671,-117.2368333,5.28,1,ml,25,89,0.0788,0.34,ci,ci41011319,2025-07-01T19:06:15.013Z,"8 km E of Lake Elsinore, CA",earthquake,0.61,1.47,0.353,30,automatic,ci,ci
 2025-07-01T19:01:53.950Z,35.6106667,-117.3811667,2.15,0.96,ml,25,56,0.06444,0.22,ci,ci41011311,2025-07-01T19:05:23.106Z,"17 km S of Trona, CA",earthquake,0.26,0.33,0.129,15,automatic,ci,ci
@@ -151,6 +151,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T06:48:34.910Z,37.392501831055,-118.58850097656,9.3100004196167,2.63,md,40,69,0.1321,0.15,nc,nc75202951,2025-07-01T08:12:18.752Z,"3 km S of Round Valley, CA",earthquake,0.41,1.96000004,0.15,32,automatic,nc,nc
 2025-07-01T06:43:53.119Z,35.898,-97.34183333,7.61,1.89,ml,76,33,0,0.16,ok,ok2025mtfj,2025-07-01T12:27:28.530Z,"7 km ENE of Guthrie, Oklahoma",earthquake,,0.4,0.21,36,reviewed,ok,ok
 2025-07-01T06:40:20.860Z,19.38433265686,-155.4503326416,6.710000038147,1.79,ml,53,32,0.01383,0.200000003,hv,hv74713232,2025-07-01T06:44:01.530Z,"20 km N of Pāhala, Hawaii",earthquake,0.29,0.550000012,0.13,5,automatic,hv,hv
+2025-07-01T06:39:13.600Z,58.282666666667,-154.88916666667,17.22,0.62,ml,7,262,0.09293,0.2,av,av93653996,2025-07-01T20:28:27.450Z,"83 km NNW of Karluk, Alaska",earthquake,1.25,1.01,0.31125076406693,7,reviewed,av,av
 2025-07-01T06:38:02.940Z,58.225833333333,-155.0725,14.3,-0.08,ml,5,148,0.07085,0.23,av,av93045814,2025-07-01T20:10:36.420Z,"81 km NNW of Karluk, Alaska",earthquake,0.96,1.27,0.19034609373325,5,reviewed,av,av
 2025-07-01T06:23:23.210Z,52.053833333333,-176.134,1.56,0.19,ml,5,94,0.007003,0.33,av,av93653986,2025-07-01T19:58:06.530Z,"39 km ENE of Adak, Alaska",earthquake,0.93,1.53,0.30875238788894,5,reviewed,av,av
 2025-07-01T06:20:40.616Z,29.2804,129.36,10,4.4,mb,37,144,2.414,0.94,us,us7000q9xc,2025-07-01T06:43:22.040Z,"94 km NNW of Tatsugō, Japan",earthquake,8.95,1.918,0.106,26,reviewed,us,us
@@ -258,5 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-30T21:04:53.810Z,38.839668273926,-122.8004989624,6.6599998474121,0.45,md,7,148,0.00803,0.02,nc,nc75202771,2025-06-30T21:07:51.451Z,"7 km WNW of Cobb, CA",earthquake,1.35,7.32999992,0.18,7,automatic,nc,nc
 2025-06-30T20:54:00.620Z,60.4775,-152.775,3.69,-0.82,ml,6,138,0.02814,0.1,av,av93653716,2025-07-01T04:11:58.690Z,"77 km NW of Ninilchik, Alaska",earthquake,0.43,1.02,0.22314932314029,6,reviewed,av,av
 2025-06-30T20:48:02.800Z,34.0423333,-117.2676667,16.44,1.96,ml,95,23,0.06415,0.17,ci,ci41010055,2025-06-30T20:58:55.490Z,"1 km SW of Loma Linda, CA",earthquake,0.12,0.27,0.152,25,automatic,ci,ci
-2025-06-30T20:22:12.615Z,56.91,-157.2731,98.5,1.8,ml,,,,0.48,ak,ak0258bob87h,2025-06-30T20:24:39.418Z,"67 km S of Ugashik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2025-06-30T20:21:39.240Z,18.9585,-66.308,33,3.49,md,24,230,0.5299,0.28,pr,pr2025181003,2025-06-30T22:48:45.846Z,"54 km N of Brenas, Puerto Rico",earthquake,0.97,4.3,0.08,21,reviewed,pr,pr
