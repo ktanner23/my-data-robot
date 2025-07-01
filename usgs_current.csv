@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-01T05:55:40.240Z,37.706165313721,-121.9931640625,11.539999961853,3.02,ml,89,24,0.06507,0.17,nc,nc75202946,2025-07-01T05:58:35.753Z,"5 km WNW of Dublin, CA",earthquake,0.18,0.449999988,0.269,39,reviewed,nc,nc
+2025-07-01T05:55:40.240Z,37.706165313721,-121.9931640625,11.539999961853,3.02,ml,89,24,0.06507,0.17,nc,nc75202946,2025-07-01T06:06:57.129Z,"5 km WNW of Dublin, CA",earthquake,0.18,0.449999988,0.269,39,reviewed,nc,nc
 2025-07-01T05:12:37.757Z,-23.5176,-179.8443,519.955,4.4,mb,40,69,5.957,1.05,us,us7000q9x4,2025-07-01T05:35:01.040Z,"south of the Fiji Islands",earthquake,12.22,9.217,0.096,31,reviewed,us,us
 2025-07-01T05:09:03.623Z,62.1526,-149.4703,35.3,1.6,ml,,,,0.44,ak,ak0258d2u9mi,2025-07-01T05:11:26.863Z,"19 km E of Susitna North, Alaska",earthquake,,7.7,,,automatic,ak,ak
-2025-07-01T04:59:39.400Z,37.252666473389,-121.63400268555,4.6500000953674,1.71,md,34,67,0.03184,0.06,nc,nc75202926,2025-07-01T05:32:17.605Z,"14 km NNE of Morgan Hill, CA",earthquake,0.15,0.360000014,0.16,26,automatic,nc,nc
+2025-07-01T04:59:39.400Z,37.252666473389,-121.63400268555,4.6500000953674,1.71,md,34,67,0.03184,0.06,nc,nc75202926,2025-07-01T06:03:12.225Z,"14 km NNE of Morgan Hill, CA",earthquake,0.15,0.360000014,0.16,26,automatic,nc,nc
 2025-07-01T04:57:32.410Z,33.5325,-116.7273333,5.64,0.42,ml,25,40,0.03385,0.16,ci,ci41010543,2025-07-01T05:01:04.147Z,"6 km WSW of Anza, CA",earthquake,0.19,0.42,0.117,8,automatic,ci,ci
 2025-07-01T04:47:27.403Z,12.4295,-89.3765,10,4.5,mb,48,162,1.346,1.14,us,us7000q9wz,2025-07-01T05:11:00.040Z,"117 km S of La Libertad, El Salvador",earthquake,4.9,1.913,0.057,89,reviewed,us,us
 2025-07-01T04:25:36.440Z,32.5711667,-115.6823333,8.35,1.71,ml,31,47,0.08635,0.2,ci,ci41010535,2025-07-01T04:32:02.382Z,"9 km W of Progreso, B.C., MX",earthquake,0.28,0.79,0.152,28,automatic,ci,ci
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T02:00:14.639Z,32.072,-103.731,4.523,1.6,ml,17,69,0,0.4,tx,tx2025mukkct,2025-07-01T03:01:29.399Z,"36 km ESE of Malaga, New Mexico",earthquake,0,1.4026938676834,0.1,10,automatic,tx,tx
 2025-07-01T01:40:43.978Z,61.913,-151.19,85,1.2,ml,,,,0.33,ak,ak0258d0n9il,2025-07-01T01:42:40.836Z,"13 km SE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-01T01:40:21.950Z,36.6992,-116.2881,9.5,2.1,ml,47,65.02,0.04,0.1096,nn,nn00899870,2025-07-01T03:02:52.991Z,"48 km ESE of Beatty, Nevada",earthquake,,0.4,0.29,15,reviewed,nn,nn
-2025-07-01T01:37:54.920Z,37.042667388916,-121.13483428955,2.2999999523163,3.61,ml,93,87,0.04863,0.19,nc,nc75202886,2025-07-01T04:42:41.127Z,"25 km W of Los Banos, CA",earthquake,0.24,1.32000005,0.292,51,reviewed,nc,nc
+2025-07-01T01:37:54.490Z,37.042333333333,-121.13466666667,0.08,3.51,ml,107,33,0.04841,0.2,nc,nc75202886,2025-07-01T06:10:17.105Z,"25 km W of Los Banos, CA",earthquake,0.13,0.31,0.141,152,reviewed,nc,nc
 2025-07-01T01:36:31.270Z,34.2696667,-119.6488333,6.99,1.37,ml,20,123,0.1571,0.27,ci,ci41010375,2025-07-01T01:39:58.275Z,"18 km SSE of Santa Barbara, CA",earthquake,0.57,1.67,0.134,29,automatic,ci,ci
 2025-07-01T01:23:57.116Z,61.5997,-151.8379,79.5,1.4,ml,,,,0.28,ak,ak0258d0jncv,2025-07-01T01:25:19.246Z,"49 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-01T01:16:25.216Z,59.5445,-151.9487,44.3,1.5,ml,,,,0.66,ak,ak0258d0i2vt,2025-07-01T01:18:30.955Z,"17 km NW of Seldovia, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -310,11 +310,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-30T06:13:44.430Z,35.8731667,-117.6661667,6.36,0.54,ml,23,57,0.07567,0.16,ci,ci41009175,2025-06-30T13:47:23.286Z,"23 km ESE of Little Lake, CA",earthquake,0.2,0.52,0.126,9,reviewed,ci,ci
 2025-06-30T06:13:38.580Z,54.744,-163.407,6.48,0.8,ml,10,175,0.1784,0.37,av,av93653121,2025-06-30T22:40:46.280Z,"12 km S of False Pass, Alaska",earthquake,2.8,1.89,0.25424334694078,10,reviewed,av,av
 2025-06-30T06:12:13.410Z,38.790500640869,-122.74883270264,0.51999998092651,0.86,md,9,105,0.01192,0.03,nc,nc75202431,2025-06-30T06:13:49.324Z,"2 km NE of The Geysers, CA",earthquake,0.33,0.689999998,0.13,10,automatic,nc,nc
-2025-06-30T06:11:11.520Z,35.9453333,-117.8875,8.85,0.7,ml,21,56,0.05679,0.08,ci,ci41009167,2025-06-30T13:47:20.432Z,"2 km ENE of Little Lake, CA",earthquake,0.14,0.29,0.177,12,reviewed,ci,ci
-2025-06-30T06:10:05.120Z,38.790333333333,-122.74966666667,0.89,0.19,md,14,106,0.01235,0.03,nc,nc75202426,2025-06-30T12:32:19.293Z,"2 km NNE of The Geysers, CA",earthquake,0.16,0.28,0.275,10,reviewed,nc,nc
-2025-06-30T06:09:00.280Z,35.8416667,-117.689,8.47,0.7,ml,26,48,0.06996,0.14,ci,ci41009159,2025-06-30T06:12:27.946Z,"22 km ESE of Little Lake, CA",earthquake,0.17,0.52,0.146,12,automatic,ci,ci
-2025-06-30T06:03:42.960Z,54.737666666667,-163.41783333333,5.1,0.96,ml,9,175,0.1716,0.21,av,av93653111,2025-06-30T22:33:44.130Z,"12 km S of False Pass, Alaska",earthquake,1.27,1.74,0.26581422618447,9,reviewed,av,av
-2025-06-30T06:01:43.541Z,61.5948,-150.3146,28,1.3,ml,,,,0.46,ak,ak0258bfuq36,2025-06-30T06:03:50.113Z,"11 km ENE of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-06-30T06:01:34.400Z,54.725166666667,-163.44283333333,5.01,0.66,ml,4,323,0.1567,0.16,av,av93045734,2025-06-30T22:29:02.720Z,"14 km S of False Pass, Alaska",earthquake,1.28,1.39,0.26455346894392,4,reviewed,av,av
-2025-06-30T06:01:13.330Z,54.711333333333,-163.4165,6.98,0.66,ml,8,184,0.1725,0.31,av,av93653101,2025-06-30T22:24:41.260Z,"15 km S of False Pass, Alaska",earthquake,2.3,1.63,0.18518557881522,8,reviewed,av,av
-2025-06-30T06:00:02.550Z,54.7275,-163.41416666667,6.09,0.42,ml,7,179,0.1733,0.18,av,av93653096,2025-06-30T22:20:14.920Z,"14 km S of False Pass, Alaska",earthquake,1.67,1.25,0.18750697478702,7,reviewed,av,av
