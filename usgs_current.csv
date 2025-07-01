@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-01T20:47:45.810Z,37.060333251953,-121.49033355713,3.1900000572205,2.47,md,65,52,0.04781,0.16,nc,nc75203271,2025-07-01T20:49:23.207Z,"9 km ENE of Gilroy, CA",earthquake,0.2,0.699999988,0.12,62,automatic,nc,nc
+2025-07-01T20:47:45.810Z,37.060333251953,-121.49033355713,3.1900000572205,2.47,md,65,52,0.04781,0.16,nc,nc75203271,2025-07-01T20:52:19.914Z,"9 km ENE of Gilroy, CA",earthquake,0.2,0.699999988,0.12,62,automatic,nc,nc
 2025-07-01T20:47:08.384Z,36.7103,-116.2808,10,0.9,ml,25,75.19,0.038,0.1657,nn,nn00899947,2025-07-01T20:48:51.345Z,"48 km ESE of Beatty, Nevada",earthquake,,0.5,0.28,18,automatic,nn,nn
 2025-07-01T20:45:41.820Z,38.823165893555,-122.80683135986,2.3699998855591,1.69,md,33,35,0.01765,0.03,nc,nc75203266,2025-07-01T20:47:18.675Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.349999994,0.11,35,automatic,nc,nc
 2025-07-01T20:45:06.280Z,38.82483291626,-122.80750274658,2.4800000190735,0.76,md,13,66,0.002469,0.01,nc,nc75203261,2025-07-01T20:46:44.736Z,"7 km NNW of The Geysers, CA",earthquake,0.33,0.930000007,0.25,14,automatic,nc,nc
@@ -46,7 +46,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T17:23:22.795Z,59.8826,-153.085,117.3,1.5,ml,,,,0.46,ak,ak0258da2idz,2025-07-01T17:25:59.108Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-01T17:16:13.004Z,41.9306,-119.6501,11.5,1.8,ml,5,211.07,0.303,0.1128,nn,nn00899942,2025-07-01T19:50:19.145Z,"42 km E of Fort Bidwell, California",earthquake,,6.6,0.4,4,reviewed,nn,nn
 2025-07-01T17:13:39.227Z,41.9269,-119.6797,9.8,2,ml,3,210.8,0.293,0.0754,nn,nn00899938,2025-07-01T19:28:45.013Z,"39 km E of Fort Bidwell, California",earthquake,,35.8,0.15,2,reviewed,nn,nn
-2025-07-01T17:12:14.970Z,37.276832580566,-121.64566802978,8.2299995422363,2.56,md,75,42,0.02823,0.08,nc,nc75203171,2025-07-01T18:00:09.639Z,"16 km NNE of Morgan Hill, CA",earthquake,0.13,0.310000002,0.12,84,automatic,nc,nc
+2025-07-01T17:12:14.970Z,37.276832580566,-121.64566802978,8.2299995422363,2.56,md,75,42,0.02823,0.08,nc,nc75203171,2025-07-01T20:53:20.898Z,"16 km NNE of Morgan Hill, CA",earthquake,0.13,0.310000002,0.12,84,automatic,nc,nc
 2025-07-01T17:06:34.900Z,33.033,-114.9915,4.25,1.33,ml,12,54,0.1393,0.23,ci,ci41011111,2025-07-01T17:12:30.810Z,"44 km NE of Holtville, CA",earthquake,0.59,3.11,0.2,8,automatic,ci,ci
 2025-07-01T17:05:33.160Z,34.0566667,-116.9681667,13.05,1.05,ml,30,66,0.04552,0.16,ci,ci41011103,2025-07-01T17:08:55.813Z,"7 km ENE of Yucaipa, CA",earthquake,0.26,0.51,0.178,30,automatic,ci,ci
 2025-07-01T16:58:41.660Z,38.886165618896,-122.83950042725,1.3300000429153,1.55,md,22,127,0.02338,0.04,nc,nc75203166,2025-07-01T17:32:17.624Z,"10 km SSW of Kelseyville, CA",earthquake,0.37,0.479999989,0.13,22,automatic,nc,nc
@@ -127,6 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T09:12:20.076Z,31.053,-103.72,7.3303,1.8,ml,22,52,0.1,0.2,tx,tx2025muytfo,2025-07-01T20:29:12.546Z,"7 km NNE of Balmorhea, Texas",earthquake,0.72806350901508,1.3086700724461,0.1,10,reviewed,tx,tx
 2025-07-01T09:09:38.130Z,35.170166666667,-85.3715,16.32,2.25,md,14,79,0.05728,0.1,se,se60609296,2025-07-01T11:17:37.920Z,"3 km S of Lone Oak, Tennessee",earthquake,0.43,0.7,0.054414884440714,13,reviewed,se,se
 2025-07-01T09:00:22.320Z,38.78150177002,-122.74466705322,0.5799999833107,0.96,md,10,86,0.006445,0.02,nc,nc75203016,2025-07-01T09:01:56.898Z,"1 km ENE of The Geysers, CA",earthquake,0.28,0.579999983,0.16,9,automatic,nc,nc
+2025-07-01T08:35:04.410Z,53.927,-166.60383333333,9.49,-0.1,ml,7,192,0.06143,0.21,av,av93654036,2025-07-01T20:55:39.240Z,"5 km NW of Dutch Harbor, Alaska",earthquake,0.67,1.16,0.29166074443528,7,reviewed,av,av
 2025-07-01T08:24:15.230Z,34.2051667,-117.5411667,10.05,0.83,ml,44,43,0.03449,0.15,ci,ci41010615,2025-07-01T08:28:13.473Z,"7 km SSW of Lytle Creek, CA",earthquake,0.19,0.25,0.172,30,automatic,ci,ci
 2025-07-01T08:18:31.100Z,33.3701667,-116.8688333,7.72,1.19,ml,69,22,0.0173,0.21,ci,ci41010599,2025-07-01T13:22:47.210Z,"2 km NNW of Palomar Observatory, CA",earthquake,0.15,0.51,0.151,25,reviewed,ci,ci
 2025-07-01T08:18:14.495Z,38.1629,-117.8378,10.8,1.4,ml,14,109.11,0.121,0.1122,nn,nn00899903,2025-07-01T17:19:50.203Z,"34 km SE of Mina, Nevada",earthquake,,1.7,0.25,8,reviewed,nn,nn
@@ -161,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-01T06:23:23.210Z,52.053833333333,-176.134,1.56,0.19,ml,5,94,0.007003,0.33,av,av93653986,2025-07-01T19:58:06.530Z,"39 km ENE of Adak, Alaska",earthquake,0.93,1.53,0.30875238788894,5,reviewed,av,av
 2025-07-01T06:20:40.616Z,29.2804,129.36,10,4.4,mb,37,144,2.414,0.94,us,us7000q9xc,2025-07-01T06:43:22.040Z,"94 km NNW of Tatsugō, Japan",earthquake,8.95,1.918,0.106,26,reviewed,us,us
 2025-07-01T06:14:58.697Z,32.066,-103.727,7.4969,1.6,ml,36,43,0,0.2,tx,tx2025muswis,2025-07-01T09:35:28.568Z,"37 km ESE of Malaga, New Mexico",earthquake,0.49780913855879,0.50749500177463,0.2,20,reviewed,tx,tx
-2025-07-01T05:55:40.280Z,37.7035,-121.9965,10.58,2.9,md,187,12,0.05043,0.18,nc,nc75202946,2025-07-01T20:01:32.468Z,"5 km ENE of Fairview, CA",earthquake,0.11,0.23,0.15,179,reviewed,nc,nc
+2025-07-01T05:55:40.280Z,37.7035,-121.9965,10.58,2.9,md,187,12,0.05043,0.18,nc,nc75202946,2025-07-01T20:56:28.011Z,"5 km ENE of Fairview, CA",earthquake,0.11,0.23,0.15,179,reviewed,nc,nc
 2025-07-01T05:12:37.757Z,-23.5176,-179.8443,519.955,4.4,mb,40,69,5.957,1.05,us,us7000q9x4,2025-07-01T05:35:01.040Z,"south of the Fiji Islands",earthquake,12.22,9.217,0.096,31,reviewed,us,us
 2025-07-01T05:09:03.623Z,62.1526,-149.4703,35.3,1.6,ml,,,,0.44,ak,ak0258d2u9mi,2025-07-01T05:11:26.863Z,"19 km E of Susitna North, Alaska",earthquake,,7.7,,,automatic,ak,ak
 2025-07-01T04:59:39.400Z,37.252666473389,-121.63400268555,4.6500000953674,1.71,md,34,67,0.03184,0.06,nc,nc75202926,2025-07-01T06:03:12.225Z,"14 km NNE of Morgan Hill, CA",earthquake,0.15,0.360000014,0.16,26,automatic,nc,nc
@@ -262,4 +263,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-30T21:10:49.034Z,32,-102.23,5.3782,2,ml,8,119,0,0.5,tx,tx2025muavku,2025-06-30T22:00:07.577Z,"14 km E of Gardendale, Texas",earthquake,0,3.6680378913879,0.2,7,automatic,tx,tx
 2025-06-30T21:07:55.420Z,34.2108333,-117.9898333,7.93,1.67,ml,74,26,0.05817,0.19,ci,ci41010111,2025-06-30T21:18:39.900Z,"7 km N of Monrovia, CA",earthquake,0.14,0.48,0.167,28,automatic,ci,ci
 2025-06-30T21:04:53.810Z,38.839668273926,-122.8004989624,6.6599998474121,0.45,md,7,148,0.00803,0.02,nc,nc75202771,2025-06-30T21:07:51.451Z,"7 km WNW of Cobb, CA",earthquake,1.35,7.32999992,0.18,7,automatic,nc,nc
-2025-06-30T20:54:00.620Z,60.4775,-152.775,3.69,-0.82,ml,6,138,0.02814,0.1,av,av93653716,2025-07-01T04:11:58.690Z,"77 km NW of Ninilchik, Alaska",earthquake,0.43,1.02,0.22314932314029,6,reviewed,av,av
