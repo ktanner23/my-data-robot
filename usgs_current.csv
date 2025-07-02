@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-02T23:45:47.610Z,38.832000732422,-122.811668396,5.1199998855591,0.27,md,8,85,0.008683,0.02,nc,nc75203811,2025-07-02T23:47:25.652Z,"8 km NNW of The Geysers, CA",earthquake,0.73,3.36999989,0.11,9,automatic,nc,nc
 2025-07-02T23:42:40.478Z,62.6513,-150.6992,9,1.7,ml,,,,0.66,ak,ak0258f1akhb,2025-07-02T23:44:52.955Z,"17 km N of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-02T23:38:53.360Z,38.824001312256,-122.80516815185,2.4800000190735,1.96,md,39,34,0.01777,0.04,nc,nc75203806,2025-07-02T23:41:59.630Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.13,41,automatic,nc,nc
+2025-07-02T23:38:53.360Z,38.824001312256,-122.80516815185,2.4800000190735,1.96,md,39,34,0.01777,0.04,nc,nc75203806,2025-07-02T23:57:16.764Z,"7 km NNW of The Geysers, CA",earthquake,0.17,0.310000002,0.13,41,automatic,nc,nc
 2025-07-02T23:30:42.440Z,38.823001861572,-122.84266662598,2.2200000286102,0.68,md,11,109,0.005966,0.01,nc,nc75203801,2025-07-02T23:32:21.548Z,"9 km NW of The Geysers, CA",earthquake,0.4,0.680000007,0.3,13,automatic,nc,nc
 2025-07-02T23:25:53.937Z,36.6932,25.7455,12.864,4.2,mb,35,102,1.619,0.82,us,us7000qabt,2025-07-02T23:35:57.040Z,"20 km SW of Amorgós, Greece",earthquake,5.13,1.651,0.099,29,reviewed,us,us
 2025-07-02T23:22:01.020Z,19.546333312988,-155.70950317383,5.3200001716614,1.84,ml,34,134,0.04228,0.340000004,hv,hv74715042,2025-07-02T23:25:25.290Z,"19 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.59,0.75999999,0.23,3,automatic,hv,hv
@@ -21,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T22:18:19.710Z,38.776832580566,-122.82150268555,1.0099999904633,0.51,md,10,217,0.01842,0.37,nc,nc75203776,2025-07-02T22:19:56.027Z,"6 km W of The Geysers, CA",earthquake,5.54,1.85000002,0.24,8,automatic,nc,nc
 2025-07-02T22:14:29.250Z,39.059,-110.57983333333,4.59,1.45,ml,17,147,0.06767,0.13,uu,uu80111431,2025-07-02T22:34:14.830Z,"36 km W of Green River, Utah",earthquake,0.52,1.14,0.094145964361359,5,reviewed,uu,uu
 2025-07-02T22:12:16.600Z,33.845,-117.4965,0.68,1.62,ml,68,25,0.05093,0.26,ci,ci41012967,2025-07-02T22:15:54.502Z,"4 km SSE of Home Gardens, CA",earthquake,0.21,0.4,0.194,30,automatic,ci,ci
+2025-07-02T22:08:01.862Z,-9.5719,107.0447,10,4.5,mb,41,70,1.596,0.69,us,us7000qabf,2025-07-02T23:51:00.040Z,"266 km S of Banjar, Indonesia",earthquake,5.91,1.871,0.094,33,reviewed,us,us
 2025-07-02T21:54:22.160Z,34.8568333,-118.968,6.97,1.88,ml,47,59,0.06937,0.17,ci,ci41012951,2025-07-02T22:05:32.480Z,"4 km NNW of Frazier Park, CA",earthquake,0.17,0.45,0.256,27,automatic,ci,ci
 2025-07-02T21:51:33.492Z,62.5847,-148.9738,60.9,1.3,ml,,,,0.5,ak,ak0258f05m6d,2025-07-02T21:53:23.451Z,"60 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-02T21:51:30.242Z,29.353,129.4475,15.206,4.7,mb,47,109,2.318,0.63,us,us7000qabd,2025-07-02T23:26:15.040Z,"101 km N of Tatsugō, Japan",earthquake,6.15,3.882,0.054,103,reviewed,us,us
@@ -283,5 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-02T00:06:48.034Z,29.2677,129.3371,10,4.9,mb,61,105,2.433,0.51,us,us7000qa3f,2025-07-02T01:10:41.040Z,"94 km NNW of Tatsugō, Japan",earthquake,5.47,1.821,0.048,136,reviewed,us,us
 2025-07-02T00:04:47.514Z,38.164,-118.1844,9.2,1.1,ml,11,65.27,0.267,0.1397,nn,nn00899960,2025-07-02T16:35:40.010Z,"25 km SSW of Mina, Nevada",earthquake,,4,0.41,6,reviewed,nn,nn
 2025-07-02T00:02:47.610Z,33.0903333,-116.0518333,9,1.14,ml,51,39,0.1036,0.22,ci,ci41011775,2025-07-02T00:13:40.210Z,"10 km SE of Ocotillo Wells, CA",earthquake,0.18,0.77,0.2,27,automatic,ci,ci
-2025-07-01T23:57:39.955Z,53.6009,-166.9825,100.026,3.8,mb,39,159,0.251,0.6,us,us7000qa5u,2025-07-02T20:51:56.040Z,"42 km SW of Unalaska, Alaska",earthquake,4.88,5.177,0.192,7,reviewed,us,us
-2025-07-01T23:53:38.710Z,38.837665557861,-122.78566741943,1.8600000143051,0.61,md,10,86,0.003727,0.02,nc,nc75203331,2025-07-01T23:55:13.380Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.600000024,0.38,11,automatic,nc,nc
