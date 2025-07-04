@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-04T22:25:51.030Z,34.1585,-117.0331667,8.7,1.4,ml,63,42,0.07487,0.18,ci,ci41014375,2025-07-04T22:36:56.290Z,"9 km SE of Running Springs, CA",earthquake,0.15,0.31,0.169,28,automatic,ci,ci
 2025-07-04T22:18:20.270Z,37.299667358398,-122.1498336792,6.9499998092651,1.1,md,8,81,0.01909,0.12,nc,nc75205497,2025-07-04T22:52:19.294Z,"7 km SW of Loyola, CA",earthquake,0.66,1.48000002,0.2,9,automatic,nc,nc
-2025-07-04T22:00:57.353Z,32.113,-102.16,5.8677,1,ml,11,143,0,0.2,tx,tx2025nblkgp,2025-07-04T22:03:44.289Z,"14 km NNW of Midland, Texas",earthquake,0,2.1689310073853,0.2,7,automatic,tx,tx
+2025-07-04T22:00:57.491Z,32.095,-102.118,3.9787,1,ml,13,108,0,0.6,tx,tx2025nblkgp,2025-07-04T23:00:26.307Z,"11 km NNW of Midland, Texas",earthquake,0,1.5887180566788,0.1,9,automatic,tx,tx
 2025-07-04T21:53:51.180Z,38.817665100098,-122.80216979981,3.2799999713898,0.4,md,11,70,0.008418,0.01,nc,nc75205492,2025-07-04T21:55:25.189Z,"6 km NNW of The Geysers, CA",earthquake,0.44,1.02999997,0.25,12,automatic,nc,nc
 2025-07-04T21:49:17.640Z,38.817665100098,-122.80233001709,3,1.6,md,34,34,0.01113,0.03,nc,nc75205487,2025-07-04T22:22:17.067Z,"6 km NNW of The Geysers, CA",earthquake,0.19,0.340000004,0.1,35,automatic,nc,nc
 2025-07-04T21:29:39.033Z,29.3477,129.2694,10,5.4,mww,91,49,2.384,1.11,us,us7000qarl,2025-07-04T21:57:56.668Z,"104 km NNW of Tatsugō, Japan",earthquake,7.16,1.847,0.071,19,reviewed,us,us
@@ -142,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T06:15:31.010Z,38.835166931152,-122.80316925049,2.0899999141693,1.32,md,24,31,0.01053,0.02,nc,nc75204301,2025-07-04T06:47:18.167Z,"7 km WNW of Cobb, CA",earthquake,0.19,0.460000008,0.08,24,automatic,nc,nc
 2025-07-04T06:04:11.970Z,33.2573333,-116.3716667,3.11,0.43,ml,32,91,0.03963,0.18,ci,ci41013967,2025-07-04T06:07:53.615Z,"0 km ENE of Borrego Springs, CA",earthquake,0.2,0.2,0.223,8,automatic,ci,ci
 2025-07-04T05:57:38.060Z,33.7745,-116.1293333,5.17,0.65,ml,31,89,0.07993,0.17,ci,ci41013959,2025-07-04T06:01:09.509Z,"10 km NE of Indio, CA",earthquake,0.21,0.54,0.062,9,automatic,ci,ci
+2025-07-04T05:44:41.790Z,61.316,-152.49716666667,3.65,-0.53,ml,5,139,0.0521,0.08,av,av93657036,2025-07-04T22:57:40.180Z,"78 km WNW of Tyonek, Alaska",earthquake,0.82,1.07,0.18595587783101,5,reviewed,av,av
 2025-07-04T05:39:52.565Z,6.0331,94.8235,10,4.6,mb,47,72,2.259,1.01,us,us7000qal8,2025-07-04T06:11:25.040Z,"56 km WNW of Sabang, Indonesia",earthquake,8.17,1.874,0.095,33,reviewed,us,us
 2025-07-04T05:38:59.430Z,33.5886667,-116.7551667,11.91,0.43,ml,25,39,0.02759,0.14,ci,ci41013951,2025-07-04T05:42:31.529Z,"8 km WNW of Anza, CA",earthquake,0.24,0.46,0.125,11,automatic,ci,ci
 2025-07-04T05:33:51.772Z,6.102,95.1074,10,5.2,mww,80,43,2.026,1.1,us,us7000qal5,2025-07-04T05:51:27.040Z,"32 km NW of Sabang, Indonesia",earthquake,7.96,1.841,0.11,8,reviewed,us,us
@@ -195,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T23:43:10.420Z,33.8138333,-116.9873333,11.14,1.09,ml,49,26,0.0172,0.18,ci,ci41013895,2025-07-03T23:46:41.167Z,"4 km NW of San Jacinto, CA",earthquake,0.15,0.32,0.158,27,automatic,ci,ci
 2025-07-03T23:37:03.303Z,61.2413,-146.8683,10.3,1.6,ml,,,,0.54,ak,ak0258gosriy,2025-07-03T23:39:02.762Z,"30 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-03T23:29:23.700Z,35.9088333,-117.9186667,6.41,0.7,ml,18,65,0.06726,0.11,ci,ci41013887,2025-07-03T23:32:51.323Z,"3 km SSW of Little Lake, CA",earthquake,0.17,0.36,0.338,10,automatic,ci,ci
-2025-07-03T23:06:36.102Z,61.4657,-146.4284,20,1.6,ml,,,,0.9,ak,ak0258gom6uy,2025-07-03T23:15:55.131Z,"37 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-07-03T23:03:34.867Z,64.9804,-147.4162,0,1.3,ml,,,,0.37,ak,ak0258goljm6,2025-07-03T23:06:30.434Z,"9 km ENE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-07-03T23:02:51.360Z,49.017833333333,-123.56366666667,15.26,1.37,ml,16,169,0.07684,0.22,uw,uw62131582,2025-07-04T04:08:18.550Z,"16 km NE of Chemainus, Canada",earthquake,0.48,0.6,0.10385816356007,7,reviewed,uw,uw
-2025-07-03T22:57:25.851Z,58.6897,-150.2935,44.9,3.4,ml,,,,0.64,ak,ak0258gobnwm,2025-07-04T07:00:45.660Z,"114 km SSE of Halibut Cove, Alaska",earthquake,,0.5,,,reviewed,ak,ak
