@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T04:39:51.890Z,38.832332611084,-122.82917022705,10.75,0.79,md,8,190,0.00796,0.06,nc,nc75204281,2025-07-04T04:41:27.802Z,"9 km NW of The Geysers, CA",earthquake,1.91,8.42000008,0.18,12,automatic,nc,nc
 2025-07-04T04:17:10.750Z,38.820331573486,-122.84432983398,2.4700000286102,1.36,md,30,74,0.007778,0.03,nc,nc75204276,2025-07-04T04:52:16.368Z,"9 km NW of The Geysers, CA",earthquake,0.21,0.340000004,0.14,31,automatic,nc,nc
 2025-07-04T04:06:00.291Z,37.3625,-117.8798,3.5,1,ml,17,185.82,0.074,0.2389,nn,nn00900096,2025-07-04T04:08:45.323Z,"37 km SSE of Dyer, Nevada",earthquake,,1.2,0.31,9,automatic,nn,nn
-2025-07-04T04:04:51.207Z,31.718,-104.299,4.2448,1.8,mlv,35,63,0.1,0.3,tx,tx2025nabsvo,2025-07-04T06:51:20.348Z,"51 km S of Whites City, New Mexico",earthquake,0,0.93814778327942,0.2,25,automatic,tx,tx
+2025-07-04T04:04:51.096Z,31.724,-104.303,6.087,1.7,ml,39,64,0.1,0.1,tx,tx2025nabsvo,2025-07-04T08:47:27.499Z,"50 km S of Whites City, New Mexico",earthquake,0.49490195686473,0.55955248544021,0.2,29,reviewed,tx,tx
 2025-07-04T03:58:09.439Z,31.639,-104.172,2.5238,1.9,ml,43,63,0.1,0.2,tx,tx2025nabmxy,2025-07-04T08:04:55.073Z,"50 km NW of Toyah, Texas",earthquake,0.36723423581845,0.70692731153596,0.2,25,reviewed,tx,tx
 2025-07-04T03:48:15.660Z,33.5365,-116.7113333,4.45,0.23,ml,11,101,0.03607,0.13,ci,ci41013927,2025-07-04T03:51:44.763Z,"4 km WSW of Anza, CA",earthquake,0.25,0.42,0.141,7,automatic,ci,ci
 2025-07-04T03:27:43.894Z,61.0474,-151.069,58.3,1.3,ml,,,,0.46,ak,ak0258i0ddw5,2025-07-04T03:29:15.535Z,"4 km ESE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -137,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T17:34:21.094Z,60.127,-152.1029,63.2,1.7,ml,,,,0.32,ak,ak0258gl7k4d,2025-07-03T17:36:18.956Z,"25 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-03T17:25:17.492Z,32.419,-101.996,4.229,1.1,mlv,18,103,0,0.5,tx,tx2025mzgnpx,2025-07-03T23:13:46.587Z,"28 km WSW of Ackerly, Texas",earthquake,0,1.2278282642365,0.3,13,automatic,tx,tx
 2025-07-03T17:24:22.310Z,34.1138333,-116.8638333,1.64,1.56,ml,65,26,0.06311,0.15,ci,ci41013575,2025-07-03T17:34:52.440Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.11,0.23,0.116,26,automatic,ci,ci
-2025-07-03T17:19:46.373Z,59.1379,-151.5638,55.2,3.8,ml,,,,0.75,ak,ak0258gl4e9k,2025-07-04T06:22:29.465Z,"28 km SSE of Port Graham, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-07-03T17:19:46.373Z,59.1379,-151.5638,55.2,3.8,ml,,,,0.75,ak,ak0258gl4e9k,2025-07-04T08:49:47.570Z,"28 km SSE of Port Graham, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-07-03T17:05:31.050Z,38.845001220703,-122.82583618164,2.0299999713898,0.4,md,6,101,0.009838,0.01,nc,nc75204111,2025-07-03T17:07:07.955Z,"9 km WNW of Cobb, CA",earthquake,0.42,1.03999996,0.28,8,automatic,nc,nc
 2025-07-03T17:04:55.690Z,46.665666666667,-117.12016666667,-0.81,1.9,md,4,164,0.06472,0.29,uw,uw62131402,2025-07-03T21:29:29.960Z,"8 km SSE of Pullman, Washington",explosion,1.39,31.61,0.33115683079938,4,reviewed,uw,uw
 2025-07-03T17:03:38.200Z,46.4985,-123.37783333333,-0.17,1.49,ml,15,85,0.1365,0.36,uw,uw62131397,2025-07-03T18:07:33.880Z,"10 km SW of Pe Ell, Washington",explosion,0.82,31.61,0.15856133953227,10,reviewed,uw,uw
@@ -235,6 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T09:07:46.421Z,62.479,-149.1275,10.7,1.1,ml,,,,0.34,ak,ak0258ggacwi,2025-07-03T09:09:13.484Z,"50 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-03T08:58:58.336Z,36.8038,71.4191,156.77,4.3,mb,51,164,1.728,0.6,us,us7000qae2,2025-07-04T05:47:55.040Z,"16 km NW of Ashkāsham, Afghanistan",earthquake,8.47,9.469,0.089,36,reviewed,us,us
 2025-07-03T08:58:13.120Z,34.1796667,-116.8238333,5.45,1.06,ml,56,25,0.1151,0.17,ci,ci41013279,2025-07-03T09:01:42.736Z,"9 km SSE of Big Bear City, CA",earthquake,0.13,0.5,0.142,27,automatic,ci,ci
-2025-07-03T08:47:42.978Z,-7.5175,127.9689,152.732,4.5,mb,38,53,4.282,0.8,us,us7000qae1,2025-07-03T21:21:00.040Z,"154 km NE of Lospalos, Timor Leste",earthquake,6.97,5.712,0.094,33,reviewed,us,us
-2025-07-03T08:44:55.420Z,46.721333333333,-121.93816666667,1.64,0.97,ml,29,92,0.02391,0.09,uw,uw62131252,2025-07-03T17:57:48.600Z,"8 km ESE of Ashford, Washington",earthquake,0.21,0.58,0.1689099736411,18,reviewed,uw,uw
-2025-07-03T08:44:11.870Z,19.1535,-154.985,47.71,2.99,ml,63,250,0.1894,0.12,hv,hv74715437,2025-07-04T05:45:31.040Z,"35 km SSW of Leilani Estates, Hawaii",earthquake,0.51,0.39,0.15732551836332,47,reviewed,hv,hv
