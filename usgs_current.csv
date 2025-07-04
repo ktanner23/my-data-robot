@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-04T21:22:24.050Z,33.6611671,-118.2458344,10.23,2.32,ml,70,65,0.06508,0.33,ci,ci41014359,2025-07-04T21:24:46.867Z,"9 km SSE of San Pedro, CA",earthquake,0.37,0.78,0.332,24,automatic,ci,ci
+2025-07-04T21:22:24.020Z,33.6685,-118.2476667,9.34,2.4,ml,97,92,0.05847,0.32,ci,ci41014359,2025-07-04T21:33:40.620Z,"8 km SSE of San Pedro, CA",earthquake,0.25,0.56,0.171,24,automatic,ci,ci
 2025-07-04T21:15:44.070Z,47.939167022705,-124.49617004395,43.729999542236,1.951101064682,ml,17,193,,0.119999997,uw,uw62132327,2025-07-04T21:18:40.800Z,"8 km W of Forks, Washington",earthquake,0.86,0.819999993,0.23484653234482,16,automatic,uw,uw
 2025-07-04T21:05:40.090Z,34.0233333,-117.1585,2.49,0.84,ml,9,117,0.04015,0.13,ci,ci41014351,2025-07-04T21:09:10.739Z,"4 km SSE of Redlands, CA",earthquake,0.7,0.69,0.188,29,automatic,ci,ci
 2025-07-04T21:03:42.100Z,19.320333480835,-155.20399475098,1.2599999904633,1.97,ml,51,92,0.04351,0.200000003,hv,hv74716507,2025-07-04T21:07:29.850Z,"13 km SSE of Volcano, Hawaii",earthquake,0.25,0.389999986,0.32,14,automatic,hv,hv
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T17:38:32.230Z,36.849498748779,-121.43033599853,6.3499999046326,1.1,md,4,180,0.05892,0.01,nc,nc75204521,2025-07-04T18:37:20.417Z,"3 km WNW of Hollister, CA",earthquake,1.42,5.82000017,0.19,6,automatic,nc,nc
 2025-07-04T17:38:22.690Z,38.845001220703,-122.87966918945,2.670000076294,1.26,md,15,101,0.007385,0.02,nc,nc75204516,2025-07-04T18:12:17.209Z,"13 km E of Cloverdale, CA",earthquake,0.39,0.540000021,0.12,18,automatic,nc,nc
 2025-07-04T17:36:19.680Z,35.7508333,-117.5431667,9.07,0.91,ml,21,69,0.1295,0.15,ci,ci41014295,2025-07-04T17:39:52.339Z,"13 km W of Searles Valley, CA",earthquake,0.23,0.82,0.07,15,automatic,ci,ci
-2025-07-04T17:21:11.550Z,33.6671667,-118.2505,7.51,2.45,ml,95,93,0.05797,0.29,ci,ci41014279,2025-07-04T17:54:52.631Z,"9 km SSE of San Pedro, CA",earthquake,0.25,0.5,0.199,26,automatic,ci,ci
+2025-07-04T17:21:11.550Z,33.6671667,-118.2505,7.51,2.45,ml,95,93,0.05797,0.29,ci,ci41014279,2025-07-04T21:32:34.293Z,"9 km SSE of San Pedro, CA",earthquake,0.25,0.5,0.199,26,automatic,ci,ci
 2025-07-04T17:02:40.050Z,33.7896667,-116.08,0.71,1.06,ml,36,47,0.1181,0.19,ci,ci41014263,2025-07-04T17:06:09.289Z,"15 km ENE of Indio, CA",earthquake,0.17,0.35,0.145,27,automatic,ci,ci
 2025-07-04T16:53:48.750Z,33.8746667,-117.9438333,15.77,1.48,ml,10,116,0.3241,0.25,ci,ci41014255,2025-07-04T16:57:43.752Z,"2 km WSW of Fullerton, CA",earthquake,0.93,2.56,0.339,35,automatic,ci,ci
 2025-07-04T16:36:53.190Z,33.9238333,-116.7263333,12.74,0.65,ml,31,54,0.1077,0.12,ci,ci41014247,2025-07-04T16:40:48.139Z,"6 km E of Cabazon, CA",earthquake,0.16,0.49,0.108,20,automatic,ci,ci
@@ -200,6 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T22:02:27.220Z,46.850666666667,-121.759,-0.28,0.47,ml,16,80,0.0233,0.05,uw,uw62131547,2025-07-04T03:58:14.940Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.54,0.21368989421249,9,reviewed,uw,uw
 2025-07-03T21:45:32.920Z,44.354666666667,-116.123,7.02,1.36,ml,6,141,0.05744,0.06,mb,mb90100703,2025-07-03T22:18:06.890Z,"6 km NNW of Smiths Ferry, Idaho",earthquake,0.54,1.86,0.18015660470672,6,reviewed,mb,mb
 2025-07-03T21:39:22.416Z,32.187,-102.304,0.3974,1.1,mlv,6,171,0.1,0.5,tx,tx2025mzoyts,2025-07-03T23:16:32.516Z,"19 km NNE of Gardendale, Texas",earthquake,0,4.4671959877014,0.6,5,automatic,tx,tx
-2025-07-03T21:35:03.620Z,33.8245,-117.4835,-0.64,1.42,ml,45,49,0.03282,0.22,ci,ci41013815,2025-07-03T23:53:42.218Z,"7 km SSE of Home Gardens, CA",quarry blast,0.35,31.61,0.193,61,reviewed,ci,ci
-2025-07-03T21:34:28.860Z,32.6513333,-115.9156667,6.14,1.17,ml,21,74,0.006745,0.22,ci,ci41013807,2025-07-03T21:38:00.225Z,"12 km SE of Ocotillo, CA",earthquake,0.42,0.59,0.37,13,automatic,ci,ci
-2025-07-03T21:25:39.663Z,-6.8355,125.214,547.865,4.2,mb,38,74,3.048,0.57,us,us7000qajb,2025-07-03T22:52:06.040Z,"194 km N of Likisá, Timor Leste",earthquake,14.46,6.288,0.11,25,reviewed,us,us
