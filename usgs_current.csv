@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T16:12:24.110Z,34.0103333,-117.142,3.33,1.21,ml,56,33,0.03511,0.17,ci,ci41014191,2025-07-04T16:15:59.986Z,"6 km SE of Redlands, CA",earthquake,0.13,0.23,0.14,28,automatic,ci,ci
 2025-07-04T16:07:54.360Z,38.846332550049,-122.88616943359,0.98000001907349,0.87,md,7,152,0.008371,0.05,nc,nc75204501,2025-07-04T16:09:28.703Z,"12 km E of Cloverdale, CA",earthquake,0.53,0.660000026,0.13,8,automatic,nc,nc
 2025-07-04T15:58:46.225Z,59.9828,-152.9041,99.5,1.6,ml,,,,0.38,ak,ak0258i7p8j2,2025-07-04T16:00:30.791Z,"64 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-04T15:51:35.134Z,41.7961,-119.6408,4.7,2,ml,5,133.37,0.421,0.2058,nn,nn00900119,2025-07-04T17:36:06.385Z,"43 km E of Fort Bidwell, California",earthquake,,2.7,0.47,4,reviewed,nn,nn
+2025-07-04T15:51:35.420Z,41.8103,-119.6591,7.4,2,ml,5,131.72,0.402,0.1696,nn,nn00900119,2025-07-04T17:48:20.504Z,"41 km E of Fort Bidwell, California",earthquake,,6.9,0.47,4,reviewed,nn,nn
 2025-07-04T15:47:46.060Z,-57.02,-67.3292,10,5.6,mww,43,104,2.1,0.76,us,us7000qamr,2025-07-04T16:23:29.240Z,"253 km SSE of Ushuaia, Argentina",earthquake,9.95,1.888,0.08,15,reviewed,us,us
 2025-07-04T15:40:05.800Z,38.824501037598,-122.7988357544,1.9299999475479,0.74,md,9,89,0.01539,0.01,nc,nc75204491,2025-07-04T15:41:44.592Z,"6 km NNW of The Geysers, CA",earthquake,0.33,1.25,0.17,9,automatic,nc,nc
 2025-07-04T15:31:58.325Z,38.1564,-118.1996,1.4,1.3,ml,8,124.59,0.174,0.245,nn,nn00900115,2025-07-04T15:34:47.432Z,"27 km SSW of Mina, Nevada",earthquake,,2.8,0.42,5,automatic,nn,nn
@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-04T10:16:30.405Z,31.716,-104.553,4.6954,1.5,ml,24,106,0,0.5,tx,tx2025naober,2025-07-04T10:19:24.450Z,"53 km SSW of Whites City, New Mexico",earthquake,0,1.3419215679169,0.2,15,automatic,tx,tx
 2025-07-04T10:14:42.462Z,31.623,-104.151,4.7313,1.3,ml,10,99,0,0.6,tx,tx2025nanzjw,2025-07-04T11:00:56.167Z,"48 km NW of Toyah, Texas",earthquake,0,1.8428655862808,0.2,7,automatic,tx,tx
 2025-07-04T10:06:01.178Z,31.061,-103.864,7.1227,1.5,ml,6,214,0.1,0.9,tx,tx2025nansda,2025-07-04T11:00:08.026Z,"14 km NW of Balmorhea, Texas",earthquake,0,7.7400722503662,0.2,4,automatic,tx,tx
-2025-07-04T10:05:39.762Z,31.666,-104.413,4.5477,1.9,ml,35,70,0,0.4,tx,tx2025nanrve,2025-07-04T11:00:26.051Z,"56 km S of Whites City, New Mexico",earthquake,0,0.9808891415596,0.1,23,automatic,tx,tx
+2025-07-04T10:05:39.421Z,31.669,-104.402,7.356,1.8,ml,36,70,0,0.2,tx,tx2025nanrve,2025-07-04T17:50:52.509Z,"56 km S of Whites City, New Mexico",earthquake,0.75211502488808,0.78027722125041,0.1,15,reviewed,tx,tx
 2025-07-04T09:59:50.435Z,59.7112,-152.5037,71.3,1.7,ml,,,,0.28,ak,ak0258i44uxv,2025-07-04T10:01:23.593Z,"38 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-04T09:48:39.234Z,61.9684,-148.3531,12.3,1.3,ml,,,,0.73,ak,ak0258i42h77,2025-07-04T09:50:24.866Z,"19 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-04T09:44:13.600Z,34.0946667,-116.6768333,9.24,0.76,ml,37,44,0.06092,0.15,ci,ci41014007,2025-07-04T09:47:35.008Z,"10 km WNW of Morongo Valley, CA",earthquake,0.16,0.43,0.154,23,automatic,ci,ci
@@ -208,8 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T18:02:05.860Z,46.775166666667,-122.655,-0.1,1.1,ml,15,107,0.1389,0.16,uw,uw62131447,2025-07-03T21:06:08.280Z,"12 km SSE of Rainier, Washington",explosion,0.44,31.61,0.12805082371338,8,reviewed,uw,uw
 2025-07-03T17:59:17.756Z,57.6575,-155.8279,95.4,1.9,ml,,,,0.12,ak,ak0258glcwrj,2025-07-03T18:00:31.755Z,"82 km W of Karluk, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2025-07-03T17:58:27.150Z,47.116,-123.09533333333,-0.23,1.48,ml,13,93,0.07137,0.17,uw,uw62131442,2025-07-03T21:23:08.240Z,"11 km S of Shelton, Washington",explosion,0.43,31.61,0.19464724138706,10,reviewed,uw,uw
-2025-07-03T17:51:05.732Z,7.1587,61.3595,10,5,mb,111,121,18.361,1.35,us,us7000qaif,2025-07-03T19:18:55.040Z,"Carlsberg Ridge",earthquake,12.05,1.896,0.053,113,reviewed,us,us
-2025-07-03T17:49:30.303Z,36.6989,-116.2873,9.4,0.4,ml,27,82.06,0.041,0.103,nn,nn00900064,2025-07-03T18:42:54.182Z,"48 km ESE of Beatty, Nevada",earthquake,,0.6,0.35,7,reviewed,nn,nn
-2025-07-03T17:48:36.100Z,33.2335,-116.7306667,11.31,0.47,ml,26,34,0.02367,0.16,ci,ci41013591,2025-07-03T17:52:00.114Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.21,0.47,0.143,11,automatic,ci,ci
-2025-07-03T17:46:01.774Z,60.1401,-151.209,70.7,1.5,ml,,,,0.38,ak,ak0258gla381,2025-07-03T17:47:52.070Z,"14 km SE of Clam Gulch, Alaska",earthquake,,1.3,,,automatic,ak,ak
-2025-07-03T17:45:59.030Z,33.855,-116.1581667,8.16,2.08,ml,71,38,0.0714,0.15,ci,ci41013583,2025-07-03T17:57:02.970Z,"16 km NNE of Indio, CA",earthquake,0.11,0.35,0.211,26,automatic,ci,ci
