@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-07T11:47:34.260Z,33.7903333,-116.0771667,1.88,1.54,ml,60,38,0.1204,0.16,ci,ci41015983,2025-07-07T11:51:06.999Z,"15 km ENE of Indio, CA",earthquake,0.12,0.25,0.149,26,automatic,ci,ci
+2025-07-07T11:47:34.260Z,33.7903333,-116.0771667,1.88,1.54,ml,60,38,0.1204,0.16,ci,ci41015983,2025-07-07T11:58:17.230Z,"15 km ENE of Indio, CA",earthquake,0.12,0.25,0.149,26,automatic,ci,ci
 2025-07-07T11:32:01.960Z,33.2291667,-116.7438333,8.38,1.48,ml,80,21,0.01424,0.21,ci,ci41015975,2025-07-07T11:42:56.760Z,"2 km SE of Lake Henshaw, CA",earthquake,0.14,0.52,0.25,26,automatic,ci,ci
 2025-07-07T11:26:05.530Z,35.3256667,-117.8153333,8.56,0.9,ml,35,65,0.06324,0.17,ci,ci41015967,2025-07-07T11:29:31.755Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.47,0.165,15,automatic,ci,ci
-2025-07-07T11:24:49.160Z,37.290832519531,-121.67199707031,1.2400000095367,1.3,md,10,63,0.0318,0.05,nc,nc75206627,2025-07-07T11:42:20.010Z,"15 km E of Seven Trees, CA",earthquake,0.28,0.670000017,0.11,8,automatic,nc,nc
+2025-07-07T11:24:49.160Z,37.290832519531,-121.67199707031,1.2400000095367,1.3,md,10,63,0.0318,0.05,nc,nc75206627,2025-07-07T11:57:17.112Z,"15 km E of Seven Trees, CA",earthquake,0.28,0.670000017,0.11,8,automatic,nc,nc
 2025-07-07T11:21:31.940Z,33.529,-116.7326667,5.7,0.3,ml,17,58,0.03651,0.11,ci,ci41015959,2025-07-07T11:24:56.416Z,"6 km WSW of Anza, CA",earthquake,0.18,0.38,0.125,8,automatic,ci,ci
 2025-07-07T10:48:34.260Z,18.631833333333,-64.628833333333,69.21,3.09,md,4,277,0.2107,0.16,pr,pr71488488,2025-07-07T11:51:41.460Z,"37 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,8.03,3.41,0.10744342527443,3,reviewed,pr,pr
 2025-07-07T10:47:28.520Z,33.5418333,-116.6458333,10.65,0.4,ml,29,58,0.02786,0.14,ci,ci41015951,2025-07-07T10:50:55.418Z,"3 km ESE of Anza, CA",earthquake,0.17,0.25,0.145,11,automatic,ci,ci
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-07T09:42:46.222Z,10.6997,93.0888,10,4.9,mb,45,74,11.788,1.4,us,us7000qb45,2025-07-07T10:40:44.040Z,"113 km SSE of Port Blair, India",earthquake,11.39,1.901,0.086,42,reviewed,us,us
 2025-07-07T09:42:21.813Z,1.5521,66.8019,10,4.9,mb,30,73,6.28,1.04,us,us7000qb44,2025-07-07T10:03:50.040Z,"Carlsberg Ridge",earthquake,12.44,1.863,0.122,23,reviewed,us,us
 2025-07-07T09:41:43.748Z,65.2103,-149.0192,12.4,0.8,ml,,,,1.07,ak,ak0258n2n10m,2025-07-07T09:44:54.410Z,"16 km ENE of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-07T09:39:19.828Z,31.861,-101.704,3.3901,1.4,mlv,21,68,0,0.5,tx,tx2025nfzzvf,2025-07-07T11:21:43.667Z,"21 km W of Garden City, Texas",earthquake,0,1.2076036930084,0.1,14,automatic,tx,tx
+2025-07-07T09:39:20.101Z,31.852,-101.706,6.0791,1,ml,8,69,0,0.1,tx,tx2025nfzzvf,2025-07-07T12:09:00.664Z,"21 km W of Garden City, Texas",earthquake,0.93882386684945,1.1256559810835,0.2,13,reviewed,tx,tx
 2025-07-07T09:25:56.925Z,63.5765,-147.7331,8.3,1.3,ml,,,,1.06,ak,ak0258n2jmks,2025-07-07T09:28:16.103Z,"61 km ESE of Denali Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2025-07-07T09:23:24.860Z,38.832164764404,-122.80899810791,2.1500000953674,0.73,md,15,49,0.01585,0.01,nc,nc75206612,2025-07-07T09:25:02.533Z,"8 km WNW of Cobb, CA",earthquake,0.3,0.610000014,0.09,17,automatic,nc,nc
 2025-07-07T09:22:57.255Z,59.0289,-155.0317,241.2,2.2,ml,,,,0.95,ak,ak0258n2izgd,2025-07-07T09:25:26.443Z,"48 km SSW of Kokhanok, Alaska",earthquake,,5.8,,,automatic,ak,ak
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-07T08:28:38.140Z,38.804332733154,-122.77749633789,3.2000000476837,0.26,md,8,70,0.009255,0.01,nc,nc75206582,2025-07-07T08:30:17.043Z,"4 km NNW of The Geysers, CA",earthquake,0.64,1.67999995,0.05,9,automatic,nc,nc
 2025-07-07T08:09:40.750Z,38.837665557861,-122.81233215332,2.5599999427795,0.36,md,6,121,0.01436,0.01,nc,nc75206572,2025-07-07T08:11:16.960Z,"8 km WNW of Cobb, CA",earthquake,0.66,2.18000007,0.2,7,automatic,nc,nc
 2025-07-07T08:04:30.410Z,32.9991667,-116.2305,7.54,0.69,ml,39,66,0.07568,0.18,ci,ci41015903,2025-07-07T08:07:58.581Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.57,0.108,10,automatic,ci,ci
-2025-07-07T07:51:38.398Z,32.146,-101.047,1.7575,1.7,mlv,35,84,0.2,0.4,tx,tx2025nfwlaj,2025-07-07T11:21:40.680Z,"23 km S of Westbrook, Texas",earthquake,0,1.0566341876984,0.1,21,automatic,tx,tx
+2025-07-07T07:51:38.358Z,32.147,-101.05,8.4229,1.7,ml,20,70,0.2,0.1,tx,tx2025nfwlaj,2025-07-07T12:01:24.625Z,"23 km S of Westbrook, Texas",earthquake,0.59662816821345,1.870711725191,0.2,27,reviewed,tx,tx
 2025-07-07T07:47:53.185Z,31.671,-104.371,6.4075,1.5,ml,28,69,0,0.3,tx,tx2025nfwhub,2025-07-07T11:22:20.673Z,"55 km S of Whites City, New Mexico",earthquake,0.92030200131519,0.84124126154906,0.2,22,reviewed,tx,tx
 2025-07-07T07:46:58.999Z,32.361,-102.173,7.7393,1.3,ml,41,55,0,0.2,tx,tx2025nfwhae,2025-07-07T11:47:47.872Z,"34 km E of McKinney Acres, Texas",earthquake,0.48163108179784,0.38121379935538,0.1,31,reviewed,tx,tx
 2025-07-07T07:30:30.320Z,38.841835021973,-122.82333374023,1.8600000143051,0.71,md,14,92,0.01003,0.02,nc,nc75206557,2025-07-07T07:32:06.569Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.680000007,0.41,15,automatic,nc,nc
@@ -60,6 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-07T05:57:05.370Z,38.827499389648,-122.81466674805,2.1600000858307,1.08,md,23,41,0.005447,0.01,nc,nc75206522,2025-07-07T05:58:42.300Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.409999996,0.16,25,automatic,nc,nc
 2025-07-07T05:43:57.130Z,38.82483291626,-122.78783416748,1.4299999475479,1.09,md,16,56,0.01284,0.02,nc,nc75206517,2025-07-07T05:45:31.726Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.409999996,0.13,16,automatic,nc,nc
 2025-07-07T05:42:08.748Z,31.672,-104.315,5.1067,1.8,ml,20,67,0,0.7,tx,tx2025nfsdkr,2025-07-07T05:46:03.994Z,"56 km S of Whites City, New Mexico",earthquake,0,2.4260873794556,0.1,16,automatic,tx,tx
+2025-07-07T05:42:08.028Z,31.665,-104.32,6.7535,1.8,ml,44,68,0,0.2,tx,tx2025nfsdiy,2025-07-07T11:57:23.938Z,"56 km S of Whites City, New Mexico",earthquake,0.51927499143915,0.57680328057921,0.2,24,reviewed,tx,tx
 2025-07-07T05:29:24.590Z,38.844333648682,-122.83683013916,1.8300000429153,0.21,md,10,129,0.005831,0.02,nc,nc75206512,2025-07-07T05:31:01.522Z,"10 km WNW of Cobb, CA",earthquake,0.35,0.800000012,0.08,10,automatic,nc,nc
 2025-07-07T05:18:52.027Z,36.7523,-115.5669,2.3,0.7,ml,18,115.82,0.33,0.2919,nn,nn00900193,2025-07-07T05:20:57.802Z,"22 km NNE of Indian Springs, Nevada",earthquake,,13,0.36,10,automatic,nn,nn
 2025-07-07T05:15:54.510Z,39.504833221435,-122.01466369629,24.75,2.6,md,10,80,0.1056,0.09,nc,nc75206507,2025-07-07T05:52:15.499Z,"16 km ESE of Willows, CA",earthquake,0.52,0.870000005,0.19,8,automatic,nc,nc
@@ -110,6 +111,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-06T23:33:06.230Z,60.4457,-143.2552,13.6,2.3,ml,,,,0.81,ak,ak0258lndydb,2025-07-06T23:35:34.784Z,"111 km S of McCarthy, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-07-06T23:04:59.362Z,31.664,-104.371,6.0999,2.4,ml,35,69,0,0.1,tx,tx2025nfeyyz,2025-07-07T04:12:42.770Z,"56 km S of Whites City, New Mexico",earthquake,0.66823581373211,0.59274727040881,0.1,21,reviewed,tx,tx
 2025-07-06T22:58:45.465Z,32.354,-102.156,7.8178,1.1,mlv,15,93,0,0.3,tx,tx2025nferio,2025-07-07T11:13:41.346Z,"35 km E of McKinney Acres, Texas",earthquake,0,2.2165658473969,0.3,10,automatic,tx,tx
+2025-07-06T22:55:51.252Z,32.361,-102.166,7.6416,0.9,ml,14,66,0,0.1,tx,tx2025nferhp,2025-07-07T12:11:56.434Z,"34 km E of McKinney Acres, Texas",earthquake,0.64575395186967,0.52245483502466,0.2,12,reviewed,tx,tx
 2025-07-06T22:46:10.790Z,38.810333251953,-122.77317047119,1.2200000286102,0.27,md,6,125,0.006558,0.01,nc,nc75206407,2025-07-06T22:47:47.513Z,"4 km  of The Geysers, CA",earthquake,0.53,0.800000012,0.04,8,automatic,nc,nc
 2025-07-06T22:38:03.839Z,-8.5391,118.3308,132.368,5,mb,61,70,0.618,0.63,us,us7000qb29,2025-07-07T02:18:32.040Z,"14 km W of Dompu, Indonesia",earthquake,7.6,4.733,0.077,54,reviewed,us,us
 2025-07-06T22:05:30.450Z,33.1031667,-116.0531667,11.09,0.63,ml,27,53,0.09446,0.19,ci,ci41015663,2025-07-06T22:08:53.898Z,"9 km ESE of Ocotillo Wells, CA",earthquake,0.23,0.55,0.115,8,automatic,ci,ci
@@ -202,9 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-06T12:31:46.870Z,18.940833333333,-68.1305,71.36,3.4,md,18,176,0.486,0.4,pr,pr71488448,2025-07-06T13:28:39.040Z,"49 km NE of Punta Cana, Dominican Republic",earthquake,2.16,3.26,0.1043276685154,13,reviewed,pr,pr
 2025-07-06T12:23:13.993Z,62.9835,-149.4042,82.2,0.8,ml,,,,0.34,ak,ak0258lgs25j,2025-07-06T12:24:46.292Z,"50 km SSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-07-06T12:14:02.400Z,33.9905014,-117.2085037,13.57,0.81,ml,15,143,0.05226,0.19,ci,ci41015415,2025-07-06T17:07:18.611Z,"7 km NNE of Moreno Valley, CA",earthquake,0.58,1.04,0.23,7,reviewed,ci,ci
-2025-07-06T12:12:40.910Z,38.836,-122.7875,2.57,0.36,md,12,73,0.003274,0.02,nc,nc75206242,2025-07-07T09:12:40.113Z,"6 km WNW of Cobb, CA",earthquake,0.42,0.7,0.197,11,reviewed,nc,nc
-2025-07-06T12:12:01.040Z,38.835834503174,-122.80699920654,1.7200000286102,0.72,md,9,108,0.01265,0.04,nc,nc75206237,2025-07-06T12:13:35.386Z,"7 km WNW of Cobb, CA",earthquake,0.41,1.11000001,0.43,9,automatic,nc,nc
-2025-07-06T12:09:50.794Z,61.2882,-152.5163,3.9,1.6,ml,,,,0.84,ak,ak0258lgp1rv,2025-07-06T12:11:35.847Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-06T12:01:42.440Z,33.7216667,-117.4838333,8.06,0.94,ml,19,83,0.08028,0.17,ci,ci41015407,2025-07-06T12:05:07.485Z,"12 km NE of Trabuco Canyon, CA",earthquake,0.25,0.62,0.482,20,automatic,ci,ci
-2025-07-06T11:58:43.510Z,37.324165344238,-122.13233184815,6.0199999809265,2.53,md,70,47,0.0175,0.14,nc,nc75206227,2025-07-06T20:41:26.512Z,"4 km SW of Loyola, CA",earthquake,0.17,0.310000002,0.14,83,automatic,nc,nc
-2025-07-06T11:58:03.710Z,38.768,-122.7255,0.98,0.35,md,10,62,0.006417,0.01,nc,nc75206222,2025-07-07T09:09:38.665Z,"3 km ESE of The Geysers, CA",earthquake,0.33,0.66,0.054,4,reviewed,nc,nc
