@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-07T11:32:01.960Z,33.2291667,-116.7438333,8.38,1.48,ml,80,21,0.01424,0.21,ci,ci41015975,2025-07-07T11:35:38.902Z,"2 km SE of Lake Henshaw, CA",earthquake,0.14,0.52,0.25,26,automatic,ci,ci
+2025-07-07T11:32:01.960Z,33.2291667,-116.7438333,8.38,1.48,ml,80,21,0.01424,0.21,ci,ci41015975,2025-07-07T11:42:56.760Z,"2 km SE of Lake Henshaw, CA",earthquake,0.14,0.52,0.25,26,automatic,ci,ci
 2025-07-07T11:26:05.530Z,35.3256667,-117.8153333,8.56,0.9,ml,35,65,0.06324,0.17,ci,ci41015967,2025-07-07T11:29:31.755Z,"17 km WSW of Johannesburg, CA",earthquake,0.2,0.47,0.165,15,automatic,ci,ci
-2025-07-07T11:24:49.160Z,37.290832519531,-121.67199707031,1.2400000095367,1.3,md,10,63,0.0318,0.05,nc,nc75206627,2025-07-07T11:26:28.436Z,"15 km E of Seven Trees, CA",earthquake,0.28,0.670000017,0.11,8,automatic,nc,nc
+2025-07-07T11:24:49.160Z,37.290832519531,-121.67199707031,1.2400000095367,1.3,md,10,63,0.0318,0.05,nc,nc75206627,2025-07-07T11:42:20.010Z,"15 km E of Seven Trees, CA",earthquake,0.28,0.670000017,0.11,8,automatic,nc,nc
 2025-07-07T11:21:31.940Z,33.529,-116.7326667,5.7,0.3,ml,17,58,0.03651,0.11,ci,ci41015959,2025-07-07T11:24:56.416Z,"6 km WSW of Anza, CA",earthquake,0.18,0.38,0.125,8,automatic,ci,ci
 2025-07-07T10:47:28.520Z,33.5418333,-116.6458333,10.65,0.4,ml,29,58,0.02786,0.14,ci,ci41015951,2025-07-07T10:50:55.418Z,"3 km ESE of Anza, CA",earthquake,0.17,0.25,0.145,11,automatic,ci,ci
 2025-07-07T10:41:07.621Z,-0.1546,130.6635,32.21,4.8,mb,47,43,0.922,0.84,us,us7000qb4f,2025-07-07T11:07:33.040Z,"19 km ENE of Waisai, Indonesia",earthquake,6.71,5.581,0.08,49,reviewed,us,us
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-07T08:04:30.410Z,32.9991667,-116.2305,7.54,0.69,ml,39,66,0.07568,0.18,ci,ci41015903,2025-07-07T08:07:58.581Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.19,0.57,0.108,10,automatic,ci,ci
 2025-07-07T07:51:38.398Z,32.146,-101.047,1.7575,1.7,mlv,35,84,0.2,0.4,tx,tx2025nfwlaj,2025-07-07T11:21:40.680Z,"23 km S of Westbrook, Texas",earthquake,0,1.0566341876984,0.1,21,automatic,tx,tx
 2025-07-07T07:47:53.185Z,31.671,-104.371,6.4075,1.5,ml,28,69,0,0.3,tx,tx2025nfwhub,2025-07-07T11:22:20.673Z,"55 km S of Whites City, New Mexico",earthquake,0.92030200131519,0.84124126154906,0.2,22,reviewed,tx,tx
-2025-07-07T07:46:58.558Z,32.357,-102.163,4.7634,1.3,mlv,41,54,0,0.5,tx,tx2025nfwhae,2025-07-07T11:21:38.672Z,"35 km E of McKinney Acres, Texas",earthquake,0,0.80976611375809,0.2,26,automatic,tx,tx
+2025-07-07T07:46:58.999Z,32.361,-102.173,7.7393,1.3,ml,41,55,0,0.2,tx,tx2025nfwhae,2025-07-07T11:47:47.872Z,"34 km E of McKinney Acres, Texas",earthquake,0.48163108179784,0.38121379935538,0.1,31,reviewed,tx,tx
 2025-07-07T07:30:30.320Z,38.841835021973,-122.82333374023,1.8600000143051,0.71,md,14,92,0.01003,0.02,nc,nc75206557,2025-07-07T07:32:06.569Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.680000007,0.41,15,automatic,nc,nc
 2025-07-07T07:29:32.020Z,33.793,-116.0808333,1.67,0.82,ml,33,46,0.1172,0.23,ci,ci41015895,2025-07-07T07:32:59.802Z,"15 km ENE of Indio, CA",earthquake,0.28,0.51,0.217,14,automatic,ci,ci
 2025-07-07T07:25:58.820Z,33.7913333,-116.078,1.94,0.87,ml,38,87,0.1196,0.18,ci,ci41015887,2025-07-07T07:29:52.015Z,"15 km ENE of Indio, CA",earthquake,0.2,0.32,0.088,18,automatic,ci,ci
@@ -183,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-06T14:34:20.748Z,44.2659,83.3801,10,4.7,mb,43,87,2.641,0.68,us,us7000qb0d,2025-07-06T15:13:04.040Z,"93 km N of Xinyuan, China",earthquake,8.39,1.886,0.057,92,reviewed,us,us
 2025-07-06T14:23:55.164Z,31.253,-103.615,5.3419,1.5,ml,7,111,0,1,tx,tx2025nensea,2025-07-06T14:28:05.037Z,"14 km SSW of Lindsay, Texas",earthquake,0,3.230443239212,0.6,6,automatic,tx,tx
 2025-07-06T14:19:06.092Z,31.706,-104.168,7.0099,1.8,ml,37,53,0.1,0.2,tx,tx2025nenoaj,2025-07-07T01:27:28.983Z,"53 km W of Mentone, Texas",earthquake,0.41645536354951,0.55566093108049,0.1,18,reviewed,tx,tx
+2025-07-06T14:13:27.194Z,32.119,-101.047,3.4424,1.4,ml,24,62,0.2,0.1,tx,tx2025nenjdr,2025-07-07T11:43:27.849Z,"26 km S of Westbrook, Texas",earthquake,0.5935030339244,1.9064428679603,0.2,19,reviewed,tx,tx
 2025-07-06T13:59:20.270Z,33.9445,-117.0528333,16.45,1.67,ml,94,20,0.06434,0.18,ci,ci41015439,2025-07-06T14:10:11.360Z,"5 km S of Calimesa, CA",earthquake,0.12,0.33,0.231,26,automatic,ci,ci
 2025-07-06T13:50:55.860Z,34.0316667,-118.4478333,9.77,1.35,ml,52,96,0.009719,0.24,ci,ci41015431,2025-07-06T14:02:07.100Z,"3 km SSW of Westwood, CA",earthquake,0.21,0.38,0.158,30,automatic,ci,ci
 2025-07-06T13:49:13.190Z,19.949499130249,-155.44332885742,35.060001373291,2.12,ml,51,191,0.1155,0.150000006,hv,hv74717627,2025-07-06T13:52:48.540Z,"12 km SW of Pa‘auilo, Hawaii",earthquake,0.44,0.75999999,0.78,5,automatic,hv,hv
