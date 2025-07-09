@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-07-09T22:56:32.070Z,33.1736679,-116.0940018,9.51,1.32,ml,27,116,0.0975,0.22,ci,ci41018247,2025-07-09T22:58:34.575Z,"5 km NE of Ocotillo Wells, CA",earthquake,0.41,1.35,0.227,8,automatic,ci,ci
+2025-07-09T22:56:32.070Z,33.1675,-116.0991667,9.91,1.17,ml,43,55,0.05884,0.2,ci,ci41018247,2025-07-09T23:00:01.700Z,"4 km NE of Ocotillo Wells, CA",earthquake,0.21,0.41,0.124,26,automatic,ci,ci
 2025-07-09T22:49:52.678Z,38.6625,-118.5544,1.9,1.8,ml,16,72.36,0.413,0.2226,nn,nn00900342,2025-07-09T22:52:36.063Z,"16 km NNE of Hawthorne, Nevada",earthquake,,2.4,0.23,10,automatic,nn,nn
 2025-07-09T22:46:37.089Z,61.2921,-152.5066,2.5,1.5,ml,,,,0.74,ak,ak0258qlhexo,2025-07-09T22:48:20.706Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-09T22:45:01.060Z,34.8501667,-118.9645,13.25,1.61,ml,36,73,0.0748,0.22,ci,ci41018239,2025-07-09T22:53:56.156Z,"4 km NNW of Frazier Park, CA",earthquake,0.28,0.5,0.178,28,automatic,ci,ci
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-09T19:45:15.440Z,19.361,-64.3371,34,3.67,md,16,310,0.9869,0.4,pr,pr2025190000,2025-07-09T20:20:59.655Z,"123 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.95,24.69,0.08,5,reviewed,pr,pr
 2025-07-09T19:33:29.370Z,46.857333333333,-121.76466666667,1.07,0.73,ml,22,76,0.02047,0.07,uw,uw62137027,2025-07-09T20:39:35.340Z,"23 km ENE of Ashford, Washington",earthquake,0.18,0.45,0.22345214209672,14,reviewed,uw,uw
 2025-07-09T19:33:16.900Z,46.852333333333,-121.7585,0.38,0.27,ml,9,127,0.02369,0.04,uw,uw62137022,2025-07-09T21:02:26.980Z,"23 km ENE of Ashford, Washington",earthquake,0.42,1.1,0.24783658655545,4,reviewed,uw,uw
-2025-07-09T19:32:51.650Z,19.316333770752,-155.28633117676,32.20000076294,1.98,ml,36,106,0.02825,0.140000001,hv,hv74720137,2025-07-09T19:36:56.320Z,"15 km SSW of Volcano, Hawaii",earthquake,0.46,0.699999988,0.96,3,automatic,hv,hv
+2025-07-09T19:32:51.730Z,19.3175,-155.295,31.45,1.95,ml,35,92,0.0242,0.12,hv,hv74720137,2025-07-09T23:00:19.040Z,"15 km SSW of Volcano, Hawaii",earthquake,0.45,0.52,0.44222814280904,12,reviewed,hv,hv
 2025-07-09T19:31:56.100Z,46.849166870117,-121.75450134277,0.14000000059605,0.360000014,md,11,101,,0.0299999993,uw,uw62137012,2025-07-09T19:33:25.930Z,"23 km ENE of Ashford, Washington",earthquake,0.37,0.879999995,,1,automatic,uw,uw
 2025-07-09T19:16:41.090Z,35.0741667,-119.5643333,17.38,1.26,ml,20,96,0.07812,0.18,ci,ci41018087,2025-07-09T19:20:11.619Z,"12 km SW of Taft, CA",earthquake,0.36,0.79,0.318,26,automatic,ci,ci
 2025-07-09T19:11:59.494Z,-27.1618,-63.4247,575.373,5.1,mww,113,43,5.222,0.98,us,us7000qbn2,2025-07-09T19:30:36.040Z,"24 km SW of El Hoyo, Argentina",earthquake,10.6,7.633,0.083,14,reviewed,us,us
@@ -295,8 +295,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-08T23:17:29.460Z,46.8485,-121.762,-0.51,0.58,ml,14,85,0.02137,0.06,uw,uw62135752,2025-07-09T04:34:21.490Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.59,0.22699748659599,6,reviewed,uw,uw
 2025-07-08T23:15:12.990Z,46.8495,-121.75783333333,-0.31,0.69,ml,22,70,0.02198,0.08,uw,uw62135742,2025-07-09T04:21:28.070Z,"23 km ENE of Ashford, Washington",earthquake,0.16,0.47,0.14931716132047,14,reviewed,uw,uw
 2025-07-08T23:13:52.290Z,17.989166666667,-66.876666666667,14.65,2.05,md,13,112,0.01425,0.11,pr,pr71488628,2025-07-08T23:24:50.560Z,"1 km NE of Maria Antonia, Puerto Rico",earthquake,0.53,0.59,0.00070918973738987,5,reviewed,pr,pr
-2025-07-08T23:03:06.580Z,33.5238333,-116.5191667,14.06,1.04,ml,26,70,0.07521,0.17,ci,ci41017439,2025-07-09T00:26:04.094Z,"15 km ESE of Anza, CA",earthquake,0.24,0.53,0.151,10,reviewed,ci,ci
-2025-07-08T23:01:23.310Z,46.849,-121.76916666667,0.31,0.47,ml,20,80,0.01643,0.07,uw,uw62135722,2025-07-09T04:10:35.080Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.46,0.21934254346063,11,reviewed,uw,uw
-2025-07-08T23:01:19.270Z,53.856666666667,-166.49483333333,12.46,0.1,ml,5,278,0.01284,0.12,av,av93662441,2025-07-09T02:44:48.090Z,"3 km SE of Unalaska, Alaska",earthquake,0.86,1.08,0.36478951779715,5,reviewed,av,av
-2025-07-08T22:59:19.990Z,33.1698333,-116.2563333,11.32,0.48,ml,21,85,0.02288,0.14,ci,ci41017431,2025-07-08T23:56:36.500Z,"12 km WNW of Ocotillo Wells, CA",earthquake,0.24,0.4,0.135,20,reviewed,ci,ci
-2025-07-08T22:59:04.360Z,35.79733333,-96.65283333,7.55,1.79,ml,90,33,0,0.21,ok,ok2025nhgb,2025-07-09T12:14:40.118Z,"5 km N of Stroud, Oklahoma",earthquake,,0.4,0.24,43,reviewed,ok,ok
