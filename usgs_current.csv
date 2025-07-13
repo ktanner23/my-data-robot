@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-13T18:43:42.250Z,33.7811667,-116.0868333,1.41,0.82,ml,32,46,0.1132,0.18,ci,ci41021911,2025-07-13T18:47:21.460Z,"14 km ENE of Indio, CA",earthquake,0.17,0.34,0.14,15,automatic,ci,ci
-2025-07-13T18:37:06.300Z,36.128665924072,-120.50866699219,7.0199999809265,1.47,md,14,104,0.1157,0.07,nc,nc75209402,2025-07-13T18:38:42.700Z,"14 km W of Coalinga, CA",earthquake,0.29,0.930000007,0.13,7,automatic,nc,nc
+2025-07-13T18:37:06.300Z,36.128665924072,-120.50866699219,7.0199999809265,1.47,md,14,104,0.1157,0.07,nc,nc75209402,2025-07-13T18:52:18.193Z,"14 km W of Coalinga, CA",earthquake,0.29,0.930000007,0.13,7,automatic,nc,nc
 2025-07-13T18:23:26.860Z,38.780498504639,-122.75933074951,1.3700000047684,1.07,md,14,60,0.01098,0.02,nc,nc75209397,2025-07-13T18:25:03.813Z,"0 km NNW of The Geysers, CA",earthquake,0.26,0.479999989,0.22,13,automatic,nc,nc
 2025-07-13T18:20:57.000Z,33.8803333,-116.9528333,12.96,1.35,ml,64,24,0.07322,0.14,ci,ci41021895,2025-07-13T18:31:20.800Z,"6 km SSE of Beaumont, CA",earthquake,0.11,0.4,0.102,26,automatic,ci,ci
 2025-07-13T18:18:09.640Z,46.845832824707,-121.76950073242,0.090000003576279,0.360000014,md,15,111,,0.0299999993,uw,uw62141157,2025-07-13T18:19:53.950Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.810000002,,1,automatic,uw,uw
@@ -98,7 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T10:22:28.250Z,33.8031667,-116.7213333,15.64,0.7,ml,38,37,0.05682,0.16,ci,ci41021647,2025-07-13T10:26:17.881Z,"7 km N of Idyllwild, CA",earthquake,0.19,0.37,0.141,20,automatic,ci,ci
 2025-07-13T10:16:52.317Z,65.4498,-150.8519,10.5,1,ml,,,,0.89,ak,ak0258x0b7cf,2025-07-13T10:19:47.214Z,"32 km WSW of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-13T10:13:57.500Z,35.0716667,-119.094,16.91,1.93,ml,66,23,0.196,0.27,ci,ci41021639,2025-07-13T10:17:32.815Z,"21 km NW of Grapevine, CA",earthquake,0.21,0.77,0.22,26,automatic,ci,ci
-2025-07-13T10:09:17.003Z,36.769,-115.8036,1.6,0.2,ml,17,253.85,0.151,0.1248,nn,nn00900506,2025-07-13T10:11:28.640Z,"25 km NNW of Indian Springs, Nevada",earthquake,,3.7,0.33,10,automatic,nn,nn
+2025-07-13T10:09:17.692Z,36.7626,-115.8041,3.4,0.2,ml,23,254.98,0.149,0.0968,nn,nn00900506,2025-07-13T18:57:01.205Z,"24 km NNW of Indian Springs, Nevada",earthquake,,6.3,0.21,5,reviewed,nn,nn
 2025-07-13T10:08:09.848Z,61.3639,-147.8835,19.9,2,ml,,,,0.51,ak,ak0258x09ec8,2025-07-13T10:09:43.628Z,"50 km SSW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-13T10:05:49.938Z,18.5262,-69.6395,103.397,3.9,mb,35,76,0.271,1.1,us,us7000qcdz,2025-07-13T17:40:40.435Z,"9 km NNW of Boca Chica, Dominican Republic",earthquake,4.7,4.478,0.154,11,reviewed,us,us
 2025-07-13T10:05:32.700Z,38.823665618896,-122.81099700928,1.3799999952316,0.71,md,12,55,0.00077,0.01,nc,nc75209142,2025-07-13T10:07:09.632Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.829999983,0.44,13,automatic,nc,nc
@@ -156,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-13T04:09:21.730Z,40.460498809815,-122.02083587647,12.800000190735,2.44,md,19,72,0.1106,0.13,nc,nc75209102,2025-07-13T12:14:36.863Z,"12 km W of Shingletown, CA",earthquake,0.51,1.03999996,0.11,18,automatic,nc,nc
 2025-07-13T04:03:46.618Z,14.4978,-90.6886,6.024,3.5,ml,10,150,0.188,0.76,us,us7000qccs,2025-07-13T18:11:44.786Z,"2 km E of Santa María de Jesús, Guatemala",earthquake,2.51,5.514,0.085,18,reviewed,us,us
 2025-07-13T03:56:37.491Z,67.4858,-161.4202,3.9,2.8,ml,,,,0.52,ak,ak0258wwdplx,2025-07-13T04:35:07.040Z,"66 km E of Noatak, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-07-13T03:43:29.576Z,36.7618,-115.8288,7.1,0.7,ml,22,135.56,0.099,0.1058,nn,nn00900493,2025-07-13T12:37:19.097Z,"25 km NNW of Indian Springs, Nevada",earthquake,,2.7,0.21,9,reviewed,nn,nn
+2025-07-13T03:43:29.575Z,36.7618,-115.8288,7.1,0.7,ml,22,135.56,0.099,0.1058,nn,nn00900493,2025-07-13T19:00:12.101Z,"25 km NNW of Indian Springs, Nevada",earthquake,,2.7,0.21,9,reviewed,nn,nn
 2025-07-13T03:43:04.140Z,18.023666666667,-66.7925,14,2.51,md,11,157,0.09568,0.21,pr,pr71489063,2025-07-13T04:01:15.800Z,"0 km N of Guayanilla, Puerto Rico",earthquake,0.62,1.37,0.094196122135707,3,reviewed,pr,pr
 2025-07-13T03:39:43.320Z,19.266834259033,-155.30183410644,10.10000038147,1.92,ml,42,151,0.02975,0.129999995,hv,hv74723967,2025-07-13T03:43:36.750Z,"19 km ENE of Pāhala, Hawaii",earthquake,0.32,0.449999988,0.22,4,automatic,hv,hv
 2025-07-13T03:38:19.840Z,38.817001342773,-122.81016540527,3.6099998950958,0.75,md,11,58,0.0147,0.02,nc,nc75209097,2025-07-13T03:39:54.416Z,"6 km NW of The Geysers, CA",earthquake,0.44,1.62,0.11,11,automatic,nc,nc
@@ -248,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-12T19:05:22.920Z,35.6115,-117.587,6.93,1.78,ml,44,39,0.08739,0.15,ci,ci41021271,2025-07-13T13:16:24.810Z,"8 km E of Ridgecrest, CA",earthquake,0.14,0.41,0.179,26,reviewed,ci,ci
 2025-07-12T19:04:32.900Z,54.715333333333,-163.92633333333,6.48,-0.09,ml,4,178,0.04152,0.09,av,av93666151,2025-07-13T05:52:14.190Z,"36 km WSW of False Pass, Alaska",earthquake,0.48,1.13,0.12681274163894,4,reviewed,av,av
 2025-07-12T19:01:13.860Z,34.017,-117.2101667,3.61,1.15,ml,32,72,0.08325,0.16,ci,ci41021263,2025-07-12T19:05:40.154Z,"5 km SSW of Redlands, CA",earthquake,0.18,0.72,0.203,26,automatic,ci,ci
-2025-07-12T18:52:25.740Z,38.82149887085,-122.80583190918,2.6900000572205,1.06,md,15,71,0.01582,0.01,nc,nc75208992,2025-07-12T18:53:59.174Z,"7 km NNW of The Geysers, CA",earthquake,0.34,0.920000017,0.22,17,automatic,nc,nc
