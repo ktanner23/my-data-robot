@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-15T07:37:51.544Z,37.4132,-116.3721,0,0.8,ml,8,256.05,0.205,0.2407,nn,nn00900630,2025-07-15T07:40:11.698Z,"61 km WSW of Rachel, Nevada",earthquake,,11.8,1.05,6,automatic,nn,nn
-2025-07-15T07:32:04.620Z,38.80916595459,-122.8184967041,2.6400001049042,1.13,md,25,55,0.00835,0.03,nc,nc75210107,2025-07-15T07:33:42.340Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.17,26,automatic,nc,nc
+2025-07-15T07:32:04.620Z,38.80916595459,-122.8184967041,2.6400001049042,1.13,md,25,55,0.00835,0.03,nc,nc75210107,2025-07-15T07:52:16.154Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.17,26,automatic,nc,nc
 2025-07-15T07:29:32.374Z,31.655,-104.346,4.095,1.8,ml,19,70,0.1,0.3,tx,tx2025nunmyl,2025-07-15T07:32:34.030Z,"57 km S of Whites City, New Mexico",earthquake,0,1.2790361642838,0.2,14,automatic,tx,tx
 2025-07-15T07:23:15.410Z,38.839500427246,-122.81116485596,1.8899999856949,0.68,md,11,53,0.01788,0.01,nc,nc75210102,2025-07-15T07:24:51.181Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.970000029,0.15,12,automatic,nc,nc
 2025-07-15T07:16:05.044Z,61.4854,-150.0723,31.7,1.1,ml,,,,0.59,ak,ak025909lhvc,2025-07-15T07:17:52.392Z,"7 km WSW of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -232,6 +232,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T10:58:18.590Z,46.847166666667,-121.76833333333,0.91,0.26,ml,19,65,0.01729,0.06,uw,uw62141747,2025-07-14T21:24:42.140Z,"22 km ENE of Ashford, Washington",earthquake,0.2,0.44,0.20556169190163,9,reviewed,uw,uw
 2025-07-14T10:56:25.450Z,37.47200012207,-118.813331604,8.329999923706,2.34,md,27,62,0.1185,0.06,nc,nc75209707,2025-07-14T11:22:18.321Z,"15 km WSW of Toms Place, CA",earthquake,0.29,1.69000006,0.13,31,automatic,nc,nc
 2025-07-14T10:55:26.110Z,58.242833333333,-155.13266666667,1.85,-0.82,ml,5,219,0.04989,0.05,av,av93046484,2025-07-15T01:19:28.680Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,1.14,0.22278963689088,5,reviewed,av,av
+2025-07-14T10:55:17.567Z,40.4922,63.2397,10,4.5,mb,58,109,3.443,0.91,us,us7000qckj,2025-07-15T07:51:39.040Z,"44 km NNW of Gazli, Uzbekistan",earthquake,8.51,1.923,0.081,45,reviewed,us,us
 2025-07-14T10:51:24.330Z,46.850333333333,-121.77,0.2,0.22,ml,13,124,0.01576,0.06,uw,uw62141742,2025-07-14T22:26:07.890Z,"22 km ENE of Ashford, Washington",earthquake,0.23,0.5,0.089274786678366,8,reviewed,uw,uw
 2025-07-14T10:35:12.830Z,35.687,-117.5155,8.67,0.73,ml,33,45,0.07786,0.15,ci,ci41022191,2025-07-14T17:23:31.693Z,"14 km SW of Searles Valley, CA",earthquake,0.18,0.53,0.287,12,reviewed,ci,ci
 2025-07-14T10:34:44.539Z,35.6215,-98.05216667,7.71,1.51,ml,65,37,0.1457713947,0.51,ok,ok2025nrgn,2025-07-14T12:26:01.063Z,"6 km ENE of Calumet, Oklahoma",earthquake,,1.4,0.24,27,reviewed,ok,ok
@@ -244,7 +245,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-14T09:45:15.355Z,39.6181,-120.0009,7.4,0.8,ml,12,80.66,0.032,0.0898,nn,nn00900572,2025-07-14T19:41:07.116Z,"7 km SSW of Cold Springs, Nevada",earthquake,,1.2,0.12,8,reviewed,nn,nn
 2025-07-14T09:38:02.383Z,52.4017,-165.6658,8,2.1,ml,,,,0.36,ak,ak0258yndqzr,2025-07-14T12:56:31.626Z,"173 km SSE of Unalaska, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2025-07-14T09:37:47.370Z,39.412833333333,-111.87366666667,9.11,0.77,md,11,85,0.1041,0.24,uu,uu80004053,2025-07-14T19:10:23.600Z,"16 km S of Levan, Utah",earthquake,0.58,1.02,0.22201078608788,5,reviewed,uu,uu
-2025-07-14T09:28:45.300Z,19.033333333333,-155.4005,33.24,2.83,ml,53,210,0.1347,0.12,hv,hv74725222,2025-07-14T22:13:27.650Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.47,0.74,0.13500771416646,38,reviewed,hv,hv
+2025-07-14T09:28:45.300Z,19.033333333333,-155.4005,33.24,2.83,ml,53,210,0.1347,0.12,hv,hv74725222,2025-07-15T07:54:16.040Z,"19 km ESE of Naalehu, Hawaii",earthquake,0.47,0.74,0.13500771416646,38,reviewed,hv,hv
 2025-07-14T09:27:52.376Z,64.4966,-146.7708,6.2,0.3,ml,,,,0.47,ak,ak0258ynbh45,2025-07-14T09:30:14.397Z,"7 km ESE of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-14T09:24:58.056Z,61.0849,-151.1322,58.7,1.2,ml,,,,0.53,ak,ak0258ynauel,2025-07-14T09:26:40.344Z,"1 km N of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-07-14T09:11:32.020Z,56.142333333333,-159.492,12.09,0.02,ml,5,115,0.04133,0.09,av,av93668026,2025-07-15T00:59:47.800Z,"26 km N of Ivanof Bay, Alaska",earthquake,0.37,1.04,0.24239131592252,6,reviewed,av,av
