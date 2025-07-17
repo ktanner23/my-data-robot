@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-17T19:38:47.170Z,33.2331667,-116.7333333,11.38,0.72,ml,23,61,0.02149,0.15,ci,ci41025119,2025-07-17T19:42:40.367Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.27,0.51,0.196,13,automatic,ci,ci
 2025-07-17T19:38:36.643Z,61.2983,-152.4321,0,2.4,ml,,,,0.85,ak,ak02593ry5ly,2025-07-17T19:40:37.196Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-07-17T19:30:09.560Z,18.249,-67.078166666667,27.12,3.22,md,22,60,0.0667,0.33,pr,pr71489513,2025-07-17T19:55:03.830Z,"5 km SE of Espino, Puerto Rico",earthquake,0.53,1.22,0.079630613348505,17,reviewed,pr,pr
 2025-07-17T19:25:07.043Z,31.446,-103.871,5.6876,1.7,ml,12,69,0.1,0.4,tx,tx2025nzcrgl,2025-07-17T19:27:19.567Z,"16 km NNW of Toyah, Texas",earthquake,0,2.6124227046967,0.2,7,automatic,tx,tx
 2025-07-17T19:18:49.460Z,18.237166666667,-66.126166666667,33.49,2.12,md,5,179,0.2391,0.11,pr,pr71489508,2025-07-17T19:39:36.580Z,"2 km N of Santa Clara, Puerto Rico",earthquake,1.03,1.43,0.069409693514169,5,reviewed,pr,pr
 2025-07-17T19:09:06.080Z,33.7278333,-116.8306667,16.76,0.78,ml,23,48,0.08765,0.15,ci,ci41025095,2025-07-17T19:12:46.171Z,"6 km ESE of Valle Vista, CA",earthquake,0.3,0.59,0.2,13,automatic,ci,ci
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T14:56:55.600Z,34.0025,-117.1056667,12.73,0.98,ml,27,87,0.1039,0.19,ci,ci41024839,2025-07-17T15:00:52.795Z,"5 km WNW of Calimesa, CA",earthquake,0.24,0.75,0.22,27,automatic,ci,ci
 2025-07-17T14:53:14.260Z,33.5428333,-116.7256667,6.55,0.58,ml,24,41,0.02451,0.19,ci,ci41024831,2025-07-17T18:49:28.670Z,"5 km WSW of Anza, CA",earthquake,0.28,0.46,0.239,15,reviewed,ci,ci
 2025-07-17T14:53:09.730Z,19.215999603271,-155.36183166504,28.889999389648,1.91,ml,57,159,0.03992,0.170000002,hv,hv74728042,2025-07-17T14:56:35.900Z,"12 km E of Pāhala, Hawaii",earthquake,0.45,0.5,1.08,3,automatic,hv,hv
-2025-07-17T14:46:07.370Z,35.682,-117.5216667,7.44,0.96,ml,29,43,0.08152,0.16,ci,ci41024823,2025-07-17T14:49:33.019Z,"14 km SW of Searles Valley, CA",earthquake,0.2,0.86,0.228,17,automatic,ci,ci
+2025-07-17T14:46:07.300Z,35.6841667,-117.5173333,8.72,1.07,ml,29,43,0.07856,0.12,ci,ci41024823,2025-07-17T19:54:22.262Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.53,0.248,13,reviewed,ci,ci
 2025-07-17T14:44:19.800Z,38.760166666667,-122.7145,1.59,0.39,md,11,91,0.008225,0.02,nc,nc75211112,2025-07-17T17:43:27.845Z,"3 km WSW of Anderson Springs, CA",earthquake,0.28,0.35,0.078,5,reviewed,nc,nc
 2025-07-17T14:43:29.691Z,59.9761,-152.6497,69.9,1.1,ml,,,,0.51,ak,ak02593p02bt,2025-07-17T14:45:17.426Z,"50 km WNW of Anchor Point, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-07-17T14:43:28.221Z,31.702,-104.165,7.2919,1.8,ml,35,85,0.1,0.2,tx,tx2025nythrg,2025-07-17T15:19:54.811Z,"53 km W of Mentone, Texas",earthquake,0.47182143829649,0.56536671443156,0.2,18,reviewed,tx,tx
@@ -169,12 +170,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T04:06:13.720Z,33.373,-116.8816667,9.43,0.64,ml,23,143,0.02504,0.19,ci,ci41024591,2025-07-17T13:23:46.074Z,"2 km NW of Palomar Observatory, CA",earthquake,0.42,0.61,0.121,24,reviewed,ci,ci
 2025-07-17T04:04:02.910Z,38.769332885742,-122.71616363525,1.8200000524521,1.28,md,17,65,0.01029,0.06,nc,nc75210982,2025-07-17T04:37:16.660Z,"2 km W of Anderson Springs, CA",earthquake,0.23,0.330000013,0.09,16,automatic,nc,nc
 2025-07-17T03:58:57.251Z,61.3222,-152.2401,5.9,0.7,ml,,,,0.15,ak,ak02593ijkk5,2025-07-17T04:51:46.439Z,"65 km WNW of Beluga, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2025-07-17T03:55:33.596Z,61.3054,-152.2254,12.3,1.2,ml,,,,0.4,ak,ak02593iivkf,2025-07-17T03:56:45.033Z,"64 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-17T03:55:33.596Z,61.3054,-152.2254,12.3,1.2,ml,,,,0.4,ak,ak02593iivkf,2025-07-17T19:50:23.370Z,"64 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-17T03:47:06.384Z,37.2931,-117.9887,3.9,0.8,ml,10,248.82,0.076,0.2008,nn,nn00900736,2025-07-17T03:49:53.988Z,"30 km ENE of Big Pine, California",earthquake,,0.9,0.38,7,automatic,nn,nn
 2025-07-17T03:38:54.200Z,46.849166666667,-121.76116666667,-2.11,0.54,ml,15,99,0.02188,0.05,uw,uw62144717,2025-07-17T05:59:54.430Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.28,0.24897983111211,5,reviewed,uw,uw
 2025-07-17T03:12:56.640Z,46.869333333333,-121.7575,-2.7,0.47,ml,18,91,0.01735,0.08,uw,uw62144702,2025-07-17T05:46:55.630Z,"24 km ENE of Ashford, Washington",earthquake,0.19,0.34,0.2608860414429,7,reviewed,uw,uw
 2025-07-17T03:11:30.730Z,40.322334289551,-124.90399932861,1.8500000238419,2.26,md,17,303,0.4465,0.27,nc,nc75210977,2025-07-17T03:32:17.207Z,"52 km W of Petrolia, CA",earthquake,11.43,15.9399996,0.11,8,automatic,nc,nc
-2025-07-17T03:04:03.490Z,41.9457,-119.6365,11.2,2.1,ml,5,208.96,0.298,0.1344,nn,nn00900775,2025-07-17T19:47:02.562Z,"43 km ENE of Fort Bidwell, California",earthquake,,3.8,0.38,3,reviewed,nn,nn
+2025-07-17T03:04:03.490Z,41.9457,-119.6365,11.2,2.1,ml,5,208.96,0.298,0.1344,nn,nn00900775,2025-07-17T19:50:07.225Z,"43 km ENE of Fort Bidwell, California",earthquake,,3.8,0.38,3,reviewed,nn,nn
 2025-07-17T03:01:47.000Z,33.7246667,-116.7618333,15.62,0.74,ml,22,124,0.09209,0.13,ci,ci41024583,2025-07-17T17:56:35.522Z,"4 km WSW of Idyllwild, CA",earthquake,0.38,0.47,0.153,10,reviewed,ci,ci
 2025-07-17T02:40:14.950Z,46.860666666667,-121.76,-0.51,0.16,ml,12,107,0.02155,0.07,uw,uw62144687,2025-07-17T05:32:01.150Z,"23 km ENE of Ashford, Washington",earthquake,0.3,0.7,0.2159361098882,5,reviewed,uw,uw
 2025-07-17T02:25:02.546Z,60.4012,-152.0219,86.5,1.5,ml,,,,0.16,ak,ak02593hqy32,2025-07-17T02:27:34.842Z,"39 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
