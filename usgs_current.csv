@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-17T17:46:52.730Z,38.833999633789,-122.8313369751,2.6500000953674,0.27,md,7,136,0.005613,0.02,nc,nc75211227,2025-07-17T17:48:29.114Z,"9 km NW of The Geysers, CA",earthquake,1.02,1.28999996,0.11,9,automatic,nc,nc
 2025-07-17T17:46:13.320Z,33.8381667,-117.4968333,2.16,1.57,ml,35,44,0.04784,0.22,ci,ci41025007,2025-07-17T17:50:23.047Z,"5 km SSE of Home Gardens, CA",earthquake,0.25,0.38,0.296,36,automatic,ci,ci
-2025-07-17T17:39:44.865Z,55.1402,-156.5069,8.4,3.2,ml,,,,0.71,ak,ak02593qrjg6,2025-07-17T17:43:34.529Z,"175 km SE of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-07-17T17:39:45.594Z,55.2011,-156.5272,8.6,3.2,ml,,,,0.66,ak,ak02593qrjg6,2025-07-17T17:52:48.768Z,"169 km SE of Chignik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-17T17:37:29.419Z,31.651,-104.11,3.9276,1.9,ml,34,50,0,0.4,tx,tx2025nyzcqo,2025-07-17T17:41:38.743Z,"47 km NW of Toyah, Texas",earthquake,0,0.91084569692612,0.2,24,automatic,tx,tx
 2025-07-17T17:36:19.240Z,34.007,-117.187,13.22,1.12,ml,41,51,0.06815,0.18,ci,ci41024999,2025-07-17T17:39:53.447Z,"5 km S of Redlands, CA",earthquake,0.19,0.43,0.181,30,automatic,ci,ci
 2025-07-17T17:32:49.960Z,46.846168518066,-121.76782989502,0.070000000298023,0.360000014,md,18,82,,0.0500000007,uw,uw62144957,2025-07-17T17:34:23.420Z,"22 km ENE of Ashford, Washington",earthquake,0.29,0.850000024,0.349999994,2,automatic,uw,uw
@@ -72,7 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T10:46:22.140Z,33.458,-116.4085,10.34,-0.09,ml,11,87,0.1263,0.14,ci,ci41024663,2025-07-17T14:33:29.905Z,"23 km N of Borrego Springs, CA",earthquake,0.26,1.19,0.133,10,reviewed,ci,ci
 2025-07-17T10:39:15.250Z,38.828834533691,-122.79949951172,1.8300000429153,0.76,md,10,79,0.009886,0.01,nc,nc75211072,2025-07-17T11:30:09.345Z,"7 km WNW of Cobb, CA",earthquake,0.31,0.980000019,0.17,10,automatic,nc,nc
 2025-07-17T10:33:20.143Z,38.5002,-118.4967,3.2,1.5,ml,13,69.75,0.249,0.3644,nn,nn00900759,2025-07-17T10:36:06.987Z,"11 km ESE of Hawthorne, Nevada",earthquake,,9.6,0.34,7,automatic,nn,nn
-2025-07-17T10:24:58.645Z,39.1552,-119.0583,8.1,3.5,mw,28,41.5,0.221,0.1439,nn,nn00900754,2025-07-17T17:29:44.698Z,"20 km NNE of Yerington, Nevada",earthquake,,3.8,,,reviewed,nn,nn
+2025-07-17T10:24:58.621Z,39.1529,-119.0613,11.1,3.5,mw,56,41.47,0.218,0.1329,nn,nn00900754,2025-07-17T17:51:19.471Z,"20 km NNE of Yerington, Nevada",earthquake,,0.8,,,reviewed,nn,nn
 2025-07-17T10:23:10.320Z,63.0394,-149.6463,66.5,1.4,ml,,,,0.62,ak,ak02593mi03c,2025-07-17T10:26:00.149Z,"52 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-17T10:11:50.790Z,38.784999847412,-122.77383422852,4.0999999046326,0.49,md,9,141,0.01371,0.02,nc,nc75211062,2025-07-17T10:13:29.562Z,"2 km NW of The Geysers, CA",earthquake,0.56,1.39999998,0.23,10,automatic,nc,nc
 2025-07-17T09:57:02.735Z,61.8793,-149.3014,20,1.1,ml,,,,0.24,ak,ak02593m3u8x,2025-07-17T09:59:00.611Z,"15 km NNW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T05:06:27.671Z,54.478,-160.0406,38.536,4.2,mb,55,170,0.44,0.64,us,us7000qd50,2025-07-17T05:34:19.040Z,"99 km SSE of Sand Point, Alaska",earthquake,5.69,7.289,0.187,8,reviewed,us,us
 2025-07-17T05:05:43.799Z,65.9626,-151.0668,15.7,2.5,ml,,,,0.54,ak,ak02593jf1rg,2025-07-17T05:15:38.040Z,"65 km NW of Rampart, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-17T05:03:53.900Z,45.278166666667,-122.94316666667,21.06,1.4,ml,29,53,0.172,0.23,uw,uw62144747,2025-07-17T06:29:03.460Z,"3 km SE of Newberg, Oregon",earthquake,0.33,0.87,0.080259027038595,18,reviewed,uw,uw
-2025-07-17T05:00:18.220Z,38.847332000732,-122.82350158691,8.1400003433228,0.18,md,5,128,0.007318,0.05,nc,nc75210997,2025-07-17T05:01:54.151Z,"9 km WNW of Cobb, CA",earthquake,1.9,8.18999958,0.07,8,automatic,nc,nc
+2025-07-17T05:00:19.150Z,38.841333333333,-122.8225,2.3,0.35,md,18,65,0.01051,0.04,nc,nc75210997,2025-07-17T17:52:31.167Z,"9 km WNW of Cobb, CA",earthquake,0.23,0.35,0.194,18,reviewed,nc,nc
 2025-07-17T04:34:12.250Z,46.869333333333,-121.751,-2.74,1.7,ml,22,91,0.01291,0.08,uw,uw62144732,2025-07-17T05:08:58.340Z,"24 km ENE of Ashford, Washington",earthquake,0.18,0.4,0.21740039646836,14,reviewed,uw,uw
 2025-07-17T04:30:37.106Z,54.518,-160.1291,35,5.7,mww,127,94,0.443,0.91,us,us7000qd4n,2025-07-17T06:58:50.735Z,"94 km SSE of Sand Point, Alaska",earthquake,5.01,1.866,0.052,35,reviewed,us,us
 2025-07-17T04:26:02.355Z,32.107,-101.918,8.9111,2.1,ml,58,36,0.1,0.1,tx,tx2025nxyvlz,2025-07-17T07:37:50.601Z,"12 km WSW of Stanton, Texas",earthquake,0.21737117300097,0.56871611974849,0.2,42,reviewed,tx,tx
@@ -157,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-17T03:38:54.200Z,46.849166666667,-121.76116666667,-2.11,0.54,ml,15,99,0.02188,0.05,uw,uw62144717,2025-07-17T05:59:54.430Z,"22 km ENE of Ashford, Washington",earthquake,0.17,0.28,0.24897983111211,5,reviewed,uw,uw
 2025-07-17T03:12:56.640Z,46.869333333333,-121.7575,-2.7,0.47,ml,18,91,0.01735,0.08,uw,uw62144702,2025-07-17T05:46:55.630Z,"24 km ENE of Ashford, Washington",earthquake,0.19,0.34,0.2608860414429,7,reviewed,uw,uw
 2025-07-17T03:11:30.730Z,40.322334289551,-124.90399932861,1.8500000238419,2.26,md,17,303,0.4465,0.27,nc,nc75210977,2025-07-17T03:32:17.207Z,"52 km W of Petrolia, CA",earthquake,11.43,15.9399996,0.11,8,automatic,nc,nc
-2025-07-17T03:01:47.100Z,33.7171667,-116.7641667,15.47,0.84,ml,28,72,0.08941,0.15,ci,ci41024583,2025-07-17T03:05:32.789Z,"5 km WSW of Idyllwild, CA",earthquake,0.35,0.48,0.197,20,automatic,ci,ci
+2025-07-17T03:01:47.000Z,33.7246667,-116.7618333,15.62,0.74,ml,22,124,0.09209,0.13,ci,ci41024583,2025-07-17T17:56:35.522Z,"4 km WSW of Idyllwild, CA",earthquake,0.38,0.47,0.153,10,reviewed,ci,ci
 2025-07-17T02:40:14.950Z,46.860666666667,-121.76,-0.51,0.16,ml,12,107,0.02155,0.07,uw,uw62144687,2025-07-17T05:32:01.150Z,"23 km ENE of Ashford, Washington",earthquake,0.3,0.7,0.2159361098882,5,reviewed,uw,uw
 2025-07-17T02:25:02.546Z,60.4012,-152.0219,86.5,1.5,ml,,,,0.16,ak,ak02593hqy32,2025-07-17T02:27:34.842Z,"39 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-07-17T02:09:43.065Z,54.5602,-160.0426,29.352,5.3,mb,121,65,0.378,0.86,us,us7000qd49,2025-07-17T02:31:47.040Z,"91 km SSE of Sand Point, Alaska",earthquake,5.37,4.981,0.021,743,reviewed,us,us
@@ -190,6 +190,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T22:37:19.098Z,54.4782,-160.2102,25.8,3.7,ml,,,,0.7,ak,ak0259266vk5,2025-07-16T23:06:47.587Z,"97 km S of Sand Point, Alaska",earthquake,,4.6,,,reviewed,ak,ak
 2025-07-16T22:34:26.129Z,54.4895,-159.9299,32.059,3.8,mb,31,230,0.395,0.65,us,us7000qd2y,2025-07-16T23:06:01.040Z,"101 km SSE of Sand Point, Alaska",earthquake,4.84,6.82,0.17,9,reviewed,us,us
 2025-07-16T22:28:30.970Z,46.847166666667,-121.77066666667,-0.05,0.65,ml,19,65,0.01573,0.06,uw,uw62144627,2025-07-17T06:12:13.570Z,"22 km ENE of Ashford, Washington",earthquake,0.18,0.46,0.16596899294814,11,reviewed,uw,uw
+2025-07-16T22:27:11.980Z,38.809,-122.81933333333,3.28,0.29,md,18,60,0.007693,0.03,nc,nc75210922,2025-07-17T17:57:03.027Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.34,0.272,20,reviewed,nc,nc
 2025-07-16T22:25:44.968Z,61.6642,-149.4627,38.2,2.4,ml,,,,0.33,ak,ak0259264cyo,2025-07-16T23:04:17.040Z,"4 km NNW of Tanaina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-16T22:10:49.453Z,54.4027,-160.1113,22.982,5.2,mb,70,165,0.526,1.4,us,us7000qd2q,2025-07-17T00:08:57.131Z,"106 km SSE of Sand Point, Alaska",earthquake,8.06,6.246,0.044,175,reviewed,us,us
 2025-07-16T22:10:35.070Z,39.212,-111.63566666667,19.27,1.87,ml,23,43,0.03044,0.14,uu,uu80112066,2025-07-16T22:27:40.350Z,"5 km ENE of Sterling, Utah",earthquake,0.33,0.61,0.17676284188495,3,reviewed,uu,uu
@@ -245,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-16T18:04:39.200Z,36.2636667,-117.7018333,4.31,1.13,ml,23,99,0.08899,0.12,ci,ci41024375,2025-07-16T18:29:47.131Z,"27 km E of Olancha, CA",earthquake,0.19,0.73,0.13,14,reviewed,ci,ci
 2025-07-16T18:02:57.070Z,46.849833333333,-121.76033333333,-0.34,0.77,ml,20,70,0.02241,0.06,uw,uw62144512,2025-07-16T23:57:43.490Z,"23 km ENE of Ashford, Washington",earthquake,0.16,0.69,0.13041798856226,11,reviewed,uw,uw
 2025-07-16T17:59:22.240Z,38.832166666667,-122.81433333333,1.99,0.23,md,18,91,0.01772,0.01,nc,nc75210847,2025-07-16T19:13:14.816Z,"8 km NNW of The Geysers, CA",earthquake,0.39,0.58,0.284,18,reviewed,nc,nc
-2025-07-16T17:58:40.390Z,33.53,-116.7328333,4.89,0.24,ml,14,63,0.0355,0.08,ci,ci41024367,2025-07-17T14:17:37.296Z,"6 km WSW of Anza, CA",earthquake,0.18,0.42,0.103,6,reviewed,ci,ci
-2025-07-16T17:53:53.970Z,38.83150100708,-122.81383514404,1.960000038147,0.79,md,15,52,0.01833,0.01,nc,nc75210842,2025-07-16T17:55:27.824Z,"8 km NNW of The Geysers, CA",earthquake,0.26,0.720000029,0.22,14,automatic,nc,nc
-2025-07-16T17:50:59.450Z,38.802333831787,-122.81666564941,3.6600000858307,0.74,md,6,126,0.01175,0.01,nc,nc75210837,2025-07-16T17:52:37.846Z,"6 km NW of The Geysers, CA",earthquake,0.82,2.00999999,0.08,8,automatic,nc,nc
