@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-20T11:29:22.110Z,33.2323333,-116.7421667,9.09,1.16,ml,76,21,0.01437,0.21,ci,ci41026919,2025-07-20T11:40:13.660Z,"2 km ESE of Lake Henshaw, CA",earthquake,0.15,0.45,0.244,27,automatic,ci,ci
 2025-07-20T11:21:46.142Z,31.631,-104.063,3.6174,1.6,ml,13,137,0,1.2,tx,tx2025odzvni,2025-07-20T11:24:26.417Z,"43 km NW of Toyah, Texas",earthquake,0,2.0804598331451,0.5,7,automatic,tx,tx
-2025-07-20T11:20:23.246Z,32.7541,-100.6596,1.138,3.3,mb_lg,29,37,0.645,0.47,us,us7000qe0v,2025-07-20T11:39:44.550Z,"16 km NE of Hermleigh, Texas",earthquake,1.74,5.913,0.058,132,reviewed,us,us
+2025-07-20T11:20:22.902Z,32.74,-100.664,6.3232,3.7,ml,21,57,0.1,0.2,tx,tx2025odzuij,2025-07-20T11:47:33.301Z,"14 km NE of Hermleigh, Texas",earthquake,0.79919728822762,2.5131181955421,0.1,31,reviewed,tx,tx
 2025-07-20T11:18:05.320Z,36.1098333,-117.7885,7.47,0.91,ml,26,46,0.05429,0.15,ci,ci41026911,2025-07-20T11:21:28.129Z,"16 km ENE of Coso Junction, CA",earthquake,0.24,0.46,0.211,17,automatic,ci,ci
-2025-07-20T11:16:50.200Z,38.82149887085,-122.81050109863,2.6400001049042,1.92,md,40,39,0.001923,0.04,nc,nc75212447,2025-07-20T11:32:19.147Z,"7 km NNW of The Geysers, CA",earthquake,0.16,0.300000012,0.12,42,automatic,nc,nc
+2025-07-20T11:16:50.200Z,38.82149887085,-122.81050109863,2.6400001049042,1.92,md,40,39,0.001923,0.04,nc,nc75212447,2025-07-20T11:47:20.251Z,"7 km NNW of The Geysers, CA",earthquake,0.16,0.300000012,0.12,42,automatic,nc,nc
 2025-07-20T11:10:48.775Z,63.2476,-150.5797,130.9,1.6,ml,,,,0.38,ak,ak02598lmru5,2025-07-20T11:13:04.917Z,"65 km ESE of Denali National Park, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-20T11:07:00.970Z,38.83150100708,-122.81050109863,1.960000038147,0.76,md,13,66,0.008101,0.01,nc,nc75212427,2025-07-20T11:08:38.787Z,"8 km NNW of The Geysers, CA",earthquake,0.29,0.689999998,0.17,15,automatic,nc,nc
 2025-07-20T10:56:05.860Z,32.8831667,-116.2188333,10.14,0.69,ml,34,51,0.1007,0.16,ci,ci41026903,2025-07-20T10:59:35.546Z,"27 km NW of Ocotillo, CA",earthquake,0.19,0.49,0.253,13,automatic,ci,ci
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-19T21:17:36.169Z,13.1557,-91.018,10,4.4,mb,49,182,1.414,1.41,us,us7000qdw3,2025-07-20T00:29:52.040Z,"87 km SSW of Puerto San José, Guatemala",earthquake,5.79,1.955,0.044,153,reviewed,us,us
 2025-07-19T21:17:24.878Z,32.359,-102.148,5.9357,1.3,mlv,29,52,0,0.5,tx,tx2025ocxvxy,2025-07-19T23:12:45.124Z,"36 km E of McKinney Acres, Texas",earthquake,0,1.6141889095306,0.2,21,automatic,tx,tx
 2025-07-19T21:15:55.270Z,33.2553329,-116.3960037,1.96,1.01,ml,17,112,0.02188,0.12,ci,ci41026543,2025-07-19T21:17:57.754Z,"2 km W of Borrego Springs, CA",earthquake,0.32,0.37,0.32,7,automatic,ci,ci
-2025-07-19T21:03:06.843Z,31.613,-104.238,3.55,1.8,mlv,30,69,0.1,0.3,tx,tx2025ocxjpk,2025-07-20T05:10:51.526Z,"53 km NW of Toyah, Texas",earthquake,0,1.0523186922073,0.2,22,automatic,tx,tx
+2025-07-19T21:03:06.268Z,31.621,-104.235,6.6895,1.7,ml,32,68,0.1,0.2,tx,tx2025ocxjpk,2025-07-20T11:48:08.602Z,"53 km NW of Toyah, Texas",earthquake,0.66929331439991,0.78531350262331,0.2,24,reviewed,tx,tx
 2025-07-19T21:01:49.729Z,54.194,-159.8297,10,3.7,ml,47,188,0.653,0.85,us,us7000qdw2,2025-07-19T23:47:26.040Z,"134 km SSE of Sand Point, Alaska",earthquake,5.1,1.984,0.081,20,reviewed,us,us
 2025-07-19T20:49:08.154Z,63.4023,-151.5489,0,1.9,ml,,,,0.98,ak,ak025973olkv,2025-07-19T22:30:54.457Z,"17 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-19T20:47:43.503Z,63.1634,-148.2084,56.1,1.6,ml,,,,0.62,ak,ak025973o8vi,2025-07-19T20:49:58.441Z,"45 km SE of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -292,6 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-19T11:58:20.370Z,61.2901,-152.523,3.8,2,ml,,,,0.42,ak,ak02596ydnit,2025-07-19T12:00:02.267Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-19T11:56:29.260Z,38.83466720581,-122.79616546631,1.8700000047684,1.03,md,16,76,0.005885,0.01,nc,nc75211982,2025-07-19T11:58:06.506Z,"6 km WNW of Cobb, CA",earthquake,0.24,0.569999993,0.06,16,automatic,nc,nc
 2025-07-19T11:55:47.438Z,61.2952,-152.5052,2.4,1.8,ml,,,,0.84,ak,ak02596yd2gn,2025-07-19T11:57:28.142Z,"77 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-19T11:53:28.590Z,45.4495,-111.74333333333,0.76,1.4,ml,18,67,0.1677,0.06,mb,mb90102823,2025-07-19T13:57:58.550Z,"11 km N of Ennis, Montana",earthquake,0.22,0.58,0.15566358294776,22,reviewed,mb,mb
-2025-07-19T11:53:20.145Z,32.9687,89.9524,10,4.5,mb,56,133,3.407,0.77,us,us7000qdt7,2025-07-19T12:38:18.040Z,"258 km NW of Nagqu, China",earthquake,10.44,1.876,0.068,64,reviewed,us,us
-2025-07-19T11:50:27.523Z,60.5031,-141.3084,26.5,1,ml,,,,0.16,ak,ak02596ybycg,2025-07-19T11:52:24.894Z,"135 km SE of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
