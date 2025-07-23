@@ -49,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-23T18:43:40.260Z,35.0615,-118.3405,-0.98,1.02,ml,22,44,0.07074,0.14,ci,ci41030151,2025-07-23T22:05:15.294Z,"13 km SE of Tehachapi, CA",quarry blast,0.29,31.61,0.111,17,reviewed,ci,ci
 2025-07-23T18:36:22.190Z,32.444,-115.1581667,12.3,2,ml,23,69,0.04177,0.28,ci,ci41030135,2025-07-23T18:40:05.070Z,"10 km NNE of Delta, B.C., MX",earthquake,0.39,0.81,0.247,24,automatic,ci,ci
 2025-07-23T18:15:45.400Z,38.76,-122.72733333333,2.31,0.33,md,3,192,0.002503,0.01,nc,nc75214032,2025-07-23T19:54:09.053Z,"3 km SE of The Geysers, CA",earthquake,1.04,0.57,0.044,2,reviewed,nc,nc
+2025-07-23T18:13:27.671Z,52.5271,-163.6903,29.4,2.4,ml,,,,0.43,ak,ak0259doffmp,2025-07-23T23:41:02.094Z,"226 km SE of Akutan, Alaska",earthquake,,1.6,,,reviewed,ak,ak
 2025-07-23T18:09:53.429Z,61.9263,-150.0616,30.8,1.4,ml,,,,0.58,ak,ak0259doen72,2025-07-23T18:12:20.622Z,"19 km N of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-23T18:05:31.418Z,52.1937,160.3993,10,4.6,mb,77,117,1.352,0.73,us,us6000que3,2025-07-23T19:33:40.040Z,"154 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.79,1.893,0.064,72,reviewed,us,us
 2025-07-23T18:03:52.169Z,61.7788,-149.9998,35.7,1.4,ml,,,,0.74,ak,ak0259dodcsw,2025-07-23T18:06:09.326Z,"4 km NNE of Willow, Alaska",earthquake,,3.2,,,automatic,ak,ak
@@ -217,9 +218,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-23T03:13:58.990Z,17.912666666667,-66.864333333333,14.4,2.27,md,6,230,0.06365,0.17,pr,pr71490148,2025-07-23T04:59:52.600Z,"7 km SSE of Maria Antonia, Puerto Rico",earthquake,0.98,0.82,0.070785896077302,5,reviewed,pr,pr
 2025-07-23T03:03:28.770Z,33.9165,-116.7135,10.21,1.04,ml,53,36,0.1082,0.17,ci,ci41029399,2025-07-23T03:06:59.871Z,"7 km E of Cabazon, CA",earthquake,0.14,0.36,0.088,27,automatic,ci,ci
 2025-07-23T02:59:29.210Z,46.854666666667,-121.75933333333,1.05,1.26,ml,22,74,0.02339,0.07,uw,uw62156986,2025-07-23T04:29:09.750Z,"23 km ENE of Ashford, Washington",earthquake,0.19,0.42,0.28461980762384,15,reviewed,uw,uw
+2025-07-23T02:39:07.420Z,60.026833333333,-153.08766666667,0.23,-0.43,ml,5,109,0.03292,0.05,av,av93684061,2025-07-23T23:42:17.250Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.26,1.28,0.23573145044793,5,reviewed,av,av
 2025-07-23T02:38:41.310Z,35.7646667,-117.5585,7.25,0.21,ml,10,176,0.06003,0.12,ci,ci41029383,2025-07-23T23:31:14.916Z,"14 km W of Searles Valley, CA",earthquake,0.41,0.47,0.118,9,reviewed,ci,ci
 2025-07-23T02:28:02.132Z,54.3451,-159.6675,35,3.3,ml,36,203,0.489,0.77,us,us6000quaa,2025-07-23T03:27:28.040Z,"122 km SSE of Sand Point, Alaska",earthquake,4.08,1.99,0.069,28,reviewed,us,us
 2025-07-23T02:26:17.144Z,60.1842,-153.0022,131.4,1.6,ml,,,,0.39,ak,ak0259dez9w2,2025-07-23T02:28:22.848Z,"72 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-07-23T02:25:18.350Z,58.285833333333,-154.89166666667,4.31,0.02,ml,7,240,0.09158,0.13,av,av93684016,2025-07-23T23:36:19.510Z,"83 km NNW of Karluk, Alaska",earthquake,0.76,0.73,0.12367473011316,7,reviewed,av,av
 2025-07-23T02:20:20.038Z,-16.2817,-74.4306,33.129,4.4,mb,19,158,4.423,0.74,us,us6000qua8,2025-07-23T15:12:39.172Z,"54 km S of Atiquipa, Peru",earthquake,11.61,8.304,0.204,7,reviewed,us,us
 2025-07-23T02:19:57.756Z,-7.0514,125.6319,517.036,4.9,mb,29,72,3.007,0.68,us,us6000qua7,2025-07-23T02:34:10.040Z,"163 km N of Metinaro, Timor Leste",earthquake,14.09,6.7,0.11,26,reviewed,us,us
 2025-07-23T02:19:08.440Z,38.835834503174,-122.78700256348,1.789999961853,0.46,md,7,96,0.003663,0.01,nc,nc75213787,2025-07-23T02:20:46.050Z,"6 km WNW of Cobb, CA",earthquake,0.52,1.38,0.23,8,automatic,nc,nc
@@ -254,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-22T23:58:29.150Z,31.683,-104.408,6.6638,1.1,ml,15,73,0,0.1,tx,tx2025oiqjhz,2025-07-23T20:06:43.053Z,"54 km S of Whites City, New Mexico",earthquake,0.97717469333633,0.69548533602691,0.2,21,reviewed,tx,tx
 2025-07-22T23:58:25.914Z,52.8829,160.7848,10,5.5,mww,110,80,1.299,0.89,us,us6000qu9h,2025-07-23T03:16:30.491Z,"146 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.77,1.78,0.11,8,reviewed,us,us
 2025-07-22T23:53:27.840Z,35.7275,-118.0423333,8.85,0.67,ml,22,62,0.1528,0.11,ci,ci41029311,2025-07-22T23:56:52.707Z,"23 km WNW of Inyokern, CA",earthquake,0.18,0.6,0.166,10,automatic,ci,ci
-2025-07-22T23:42:39.980Z,38.210998535156,-121.7003326416,14.890000343323,0.92,md,9,206,0.1631,0.34,nc,nc75213707,2025-07-22T23:44:17.811Z,"6 km N of Rio Vista, CA",earthquake,10.09,28.3799992,,1,automatic,nc,nc
-2025-07-22T23:34:32.880Z,35.0391667,-117.6685,-0.8,1.94,ml,44,78,0.107,0.21,ci,ci41029303,2025-07-22T23:38:12.377Z,"5 km NNW of Boron, CA",earthquake,0.33,0.61,0.131,28,automatic,ci,ci
