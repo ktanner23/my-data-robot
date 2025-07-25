@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-25T11:16:31.960Z,38.841999053955,-122.75583648682,1.789999961853,0.87,md,9,191,0.01592,0.05,nc,nc75214882,2025-07-25T11:18:07.031Z,"4 km NW of Cobb, CA",earthquake,0.64,0.639999986,0.35,9,automatic,nc,nc
 2025-07-25T11:15:10.269Z,32.178,-101.193,6.9092,1.4,ml,17,62,0.1,0.1,tx,tx2025onegfu,2025-07-25T12:41:13.337Z,"16 km SE of Coahoma, Texas",earthquake,0.92059076570772,1.8262898087834,0.1,18,reviewed,tx,tx
 2025-07-25T11:13:01.488Z,52.7381,160.5338,10,5.2,mb,106,106,1.177,0.96,us,us6000qv1a,2025-07-25T11:31:01.040Z,"133 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.28,1.858,0.027,470,reviewed,us,us
-2025-07-25T11:08:50.199Z,59.6739,-151.6344,59.7,3.6,ml,,,,0.55,ak,ak0259gvb2cb,2025-07-25T15:28:23.684Z,"4 km W of Diamond Ridge, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-07-25T11:08:50.199Z,59.6739,-151.6344,59.7,3.6,ml,,,,0.55,ak,ak0259gvb2cb,2025-07-25T15:37:02.806Z,"4 km W of Diamond Ridge, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-07-25T10:56:45.960Z,35.867,-119.035,17.81,1.07,ml,17,122,0.04804,0.2,ci,ci41031751,2025-07-25T11:00:12.806Z,"22 km ENE of Delano, CA",earthquake,0.47,0.73,0.282,8,automatic,ci,ci
 2025-07-25T10:56:19.514Z,32.107,-101.922,8.96,2,ml,73,35,0.1,0.1,tx,tx2025ondpoi,2025-07-25T12:52:13.426Z,"12 km W of Stanton, Texas",earthquake,0.22975548684212,0.51296405782134,0.2,50,reviewed,tx,tx
 2025-07-25T10:49:30.110Z,40.1638,-117.7186,6.5,3.1,ml,11,79.36,0.457,0.1746,nn,nn00901165,2025-07-25T11:33:21.068Z,"64 km E of Lovelock, Nevada",earthquake,,2,0.15,7,reviewed,nn,nn
@@ -144,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-25T01:48:36.950Z,17.945666666667,-66.860333333333,17.32,2.02,md,3,309,0.03433,0.04,pr,pr71490398,2025-07-25T01:56:41.100Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,4.12,0.65,0.20445375645372,3,reviewed,pr,pr
 2025-07-25T01:42:32.070Z,38.826499938965,-122.80683135986,1.5099999904633,1.1,md,13,71,0.004004,0.02,nc,nc75214697,2025-07-25T02:47:21.466Z,"7 km NNW of The Geysers, CA",earthquake,0.29,0.519999981,0.15,14,automatic,nc,nc
 2025-07-25T01:30:41.790Z,36.529499053955,-121.11533355713,2.170000076294,1.35,md,11,96,0.07041,0.21,nc,nc75214692,2025-07-25T02:22:19.271Z,"3 km ESE of Pinnacles, CA",earthquake,0.56,2.46000004,0.21,8,automatic,nc,nc
-2025-07-25T01:29:02.929Z,37.6856,-17.9725,10,5.5,mww,184,28,4.893,0.5,us,us6000quyn,2025-07-25T15:33:35.269Z,"Azores-Cape St. Vincent Ridge",earthquake,8.42,1.8,0.073,18,reviewed,us,us
+2025-07-25T01:29:02.929Z,37.6856,-17.9725,10,5.5,mww,184,28,4.893,0.5,us,us6000quyn,2025-07-25T15:39:26.011Z,"Azores-Cape St. Vincent Ridge",earthquake,8.42,1.8,0.073,18,reviewed,us,us
 2025-07-25T01:22:51.760Z,38.833168029785,-122.81366729736,1.7599999904633,1.57,md,27,43,0.01015,0.03,nc,nc75214682,2025-07-25T01:57:19.090Z,"8 km WNW of Cobb, CA",earthquake,0.18,0.319999993,0.11,29,automatic,nc,nc
 2025-07-25T01:10:43.940Z,17.929,-66.867333333333,14.61,2.41,md,12,219,0.04719,0.15,pr,pr71490393,2025-07-25T01:23:24.260Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.7,0.51,0.095291395973545,3,reviewed,pr,pr
 2025-07-25T00:58:25.026Z,38.9209,-119.6528,11.2,0.9,ml,9,120.77,0.044,0.05,nn,nn00901176,2025-07-25T12:16:08.607Z,"3 km S of Fish Springs, Nevada",earthquake,,1.3,0.6,2,reviewed,nn,nn
@@ -226,6 +226,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-24T17:53:51.778Z,31.682,-104.427,5.9973,1.3,ml,15,68,0,0.1,tx,tx2025olvsxo,2025-07-25T14:13:11.902Z,"54 km S of Whites City, New Mexico",earthquake,1.1195933408037,0.98429035773749,0.2,23,reviewed,tx,tx
 2025-07-24T17:53:46.464Z,62.7144,-150.765,78,1.2,ml,,,,0.38,ak,ak0259fblz1u,2025-07-24T17:56:13.103Z,"24 km N of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-07-24T17:49:02.761Z,31.898,-102.419,7.7881,1.5,ml,14,76,0.1,0.1,tx,tx2025olvoro,2025-07-24T23:14:02.012Z,"7 km NW of Odessa, Texas",earthquake,0.72735808033519,1.3157263695027,0.1,14,reviewed,tx,tx
+2025-07-24T17:41:00.853Z,31.903,-102.426,1.2451,0.8,ml,16,74,0.1,0.3,tx,tx2025olvhvt,2025-07-25T15:44:33.381Z,"8 km NW of Odessa, Texas",earthquake,1.0861956334241,2.1252905400351,0.1,7,reviewed,tx,tx
 2025-07-24T17:26:26.650Z,38.838001251221,-122.78199768066,1.75,0.72,md,14,73,0.006343,0.01,nc,nc75214507,2025-07-24T17:28:02.765Z,"5 km WNW of Cobb, CA",earthquake,0.3,0.469999999,0.08,14,automatic,nc,nc
 2025-07-24T17:16:07.420Z,61.313333333333,-152.48983333333,2.86,0.13,ml,8,121,0.05212,0.08,av,av93686746,2025-07-25T05:35:51.070Z,"77 km WNW of Tyonek, Alaska",earthquake,0.47,0.56,0.3303808323519,9,reviewed,av,av
 2025-07-24T17:15:16.970Z,61.313333333333,-152.49316666667,3.09,0.36,ml,10,121,0.0511,0.08,av,av93686741,2025-07-25T05:32:40.050Z,"77 km WNW of Tyonek, Alaska",earthquake,0.33,0.35,0.24949758205274,12,reviewed,av,av
@@ -256,4 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-24T15:56:47.937Z,31.718,-104.291,8.1635,1.2,ml,33,58,0,0.1,tx,tx2025olrvzr,2025-07-24T17:48:29.461Z,"51 km S of Whites City, New Mexico",earthquake,0.53716955179215,0.57188937163762,0.2,26,reviewed,tx,tx
 2025-07-24T15:55:43.700Z,38.793334960938,-122.77532958984,3.3599998950958,1.82,md,31,77,0.009839,0.07,nc,nc75214452,2025-07-24T16:37:20.034Z,"2 km NNW of The Geysers, CA",earthquake,0.26,0.449999988,0.15,32,automatic,nc,nc
 2025-07-24T15:52:07.329Z,28.818,-98.955,8.8267,1.8,ml,10,89,0.2,0.2,tx,tx2025olrsbc,2025-07-24T23:32:50.069Z,"15 km ESE of Pearsall, Texas",earthquake,2.8689444983501,1.9986106459198,0.1,12,reviewed,tx,tx
-2025-07-24T15:41:03.129Z,28.836,-98.94,8.8076,1.6,ml,9,103,0.2,0.2,tx,tx2025olrilf,2025-07-24T23:42:42.054Z,"16 km ESE of Pearsall, Texas",earthquake,1.8989650962321,1.7163456949275,0.1,14,reviewed,tx,tx
