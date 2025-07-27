@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-27T05:41:17.065Z,63.1247,-147.7252,4.2,1.4,ml,,,,0.86,ak,ak0259k306ey,2025-07-27T05:43:58.001Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-27T05:36:44.470Z,33.6471667,-116.7626667,10.98,0.96,ml,53,38,0.07306,0.17,ci,ci41033455,2025-07-27T05:40:12.037Z,"11 km SSW of Idyllwild, CA",earthquake,0.15,0.34,0.261,30,automatic,ci,ci
 2025-07-27T05:29:05.675Z,39.4155,-119.9349,8.5,0.7,ml,14,108.7,0.103,0.0855,nn,nn00901258,2025-07-27T05:30:58.426Z,"7 km ENE of Floriston, California",earthquake,,1.1,0.24,8,automatic,nn,nn
 2025-07-27T05:28:39.040Z,40.528167724609,-124.40466308594,20.030000686646,1.62,md,11,271,0.1478,0.07,nc,nc75215677,2025-07-27T05:30:14.442Z,"13 km WSW of Ferndale, CA",earthquake,2.82,0.879999995,0.05,6,automatic,nc,nc
 2025-07-27T05:21:13.840Z,38.758666992188,-122.72566986084,2.7599999904633,0.97,md,9,143,0.002989,0.02,nc,nc75215672,2025-07-27T05:22:49.568Z,"3 km SE of The Geysers, CA",earthquake,0.51,0.910000026,0.33,9,automatic,nc,nc
@@ -80,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-26T20:06:08.390Z,35.0673333,-118.4253333,1.23,1.23,ml,31,52,0.1029,0.14,ci,ci41033151,2025-07-26T20:10:09.431Z,"8 km SSE of Tehachapi, CA",earthquake,0.15,0.34,0.187,29,automatic,ci,ci
 2025-07-26T19:59:14.728Z,61.6756,-150.6506,30.9,1.5,ml,,,,0.57,ak,ak0259inwr3k,2025-07-26T20:01:29.070Z,"16 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-26T19:59:12.800Z,38.791831970215,-122.77649688721,1.8999999761581,1.08,md,24,79,0.009026,0.03,nc,nc75215447,2025-07-26T20:00:49.026Z,"2 km NW of The Geysers, CA",earthquake,0.23,0.370000005,0.08,25,automatic,nc,nc
+2025-07-26T19:52:41.910Z,46.9325,-121.97683333333,8.18,1.2,ml,29,74,0.03414,0.1,uw,uw62151402,2025-07-27T05:44:20.350Z,"17 km SSE of Carbonado, Washington",earthquake,0.24,0.31,0.19780050615056,16,reviewed,uw,uw
 2025-07-26T19:33:49.163Z,62.5597,-151.3008,90.7,1.4,ml,,,,0.64,ak,ak0259inr950,2025-07-26T19:35:58.160Z,"28 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-07-26T19:32:54.779Z,61.9524,-147.1341,38.2,1.6,ml,,,,1.25,ak,ak0259inr1ut,2025-07-26T19:34:42.021Z,"2 km NE of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-26T19:30:23.700Z,38.837001800537,-122.83583068848,1.7699999809265,1.05,md,21,63,0.001607,0.02,nc,nc75215437,2025-07-26T19:31:58.643Z,"10 km NW of The Geysers, CA",earthquake,0.21,0.419999987,0.13,21,automatic,nc,nc
@@ -210,9 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-26T05:56:51.190Z,33.5501667,-117.7175,11.55,1.75,ml,71,107,0.04402,0.21,ci,ci41032687,2025-07-27T00:38:23.996Z,"2 km SSE of Aliso Viejo, CA",earthquake,0.25,0.31,0.181,28,reviewed,ci,ci
 2025-07-26T05:51:41.159Z,54.4726,-159.8239,29.959,3.8,mb,16,185,0.384,0.61,us,us6000qv9r,2025-07-26T08:51:56.870Z,"105 km SSE of Sand Point, Alaska",earthquake,4.61,11.133,0.228,5,reviewed,us,us
 2025-07-26T05:50:33.851Z,52.3414,160.9467,10,4.9,mb,106,143,1.556,1.14,us,us6000qv9s,2025-07-26T06:05:14.040Z,"176 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.09,1.893,0.061,85,reviewed,us,us
-2025-07-26T05:44:46.660Z,38.794666290283,-122.75299835205,1.6599999666214,0.71,md,10,90,0.007932,0.02,nc,nc75215177,2025-07-26T05:46:22.197Z,"2 km NNE of The Geysers, CA",earthquake,0.33,0.75999999,0.09,10,automatic,nc,nc
-2025-07-26T05:43:30.190Z,33.3088333,-116.2548333,6.82,0.52,ml,29,62,0.07038,0.18,ci,ci41032679,2025-07-26T05:47:01.270Z,"13 km ENE of Borrego Springs, CA",earthquake,0.26,0.51,0.108,7,automatic,ci,ci
-2025-07-26T05:39:49.730Z,38.819999694824,-122.85600280762,3.1400001049042,0.31,md,6,181,0.01668,0.03,nc,nc75215172,2025-07-26T05:41:26.115Z,"10 km NW of The Geysers, CA",earthquake,0.68,1.21000004,0.15,7,automatic,nc,nc
-2025-07-26T05:38:05.510Z,46.851333333333,-121.75733333333,0.91,0.35,ml,14,72,0.02293,0.04,uw,uw62151112,2025-07-26T19:57:15.250Z,"23 km ENE of Ashford, Washington",earthquake,0.29,0.47,0.19418395808107,4,reviewed,uw,uw
-2025-07-26T05:33:07.570Z,52.064333333333,-176.16783333333,3.75,0.64,ml,6,180,0.01651,0.29,av,av93688991,2025-07-27T01:17:37.470Z,"38 km ENE of Adak, Alaska",earthquake,1.12,1.38,0.20524890392947,6,reviewed,av,av
-2025-07-26T05:31:46.505Z,-0.4189,131.5485,10,5.7,mww,111,38,2.58,0.6,us,us6000qv9l,2025-07-26T15:17:43.780Z,"60 km NNE of Sorong, Indonesia",earthquake,5.95,1.84,0.068,21,reviewed,us,us
