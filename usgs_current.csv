@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-28T05:33:34.500Z,38.823501586914,-122.81016540527,2.960000038147,0.43,md,6,116,0.0001282,0.01,nc,nc75216072,2025-07-28T05:35:11.129Z,"7 km NNW of The Geysers, CA",earthquake,0.58,2.03999996,0.31,9,automatic,nc,nc
+2025-07-28T05:19:44.340Z,34.0463333,-117.1143333,17.03,1.22,ml,26,88,0.01095,0.22,ci,ci41034103,2025-07-28T05:23:16.067Z,"3 km SE of Mentone, CA",earthquake,0.34,0.79,0.372,22,automatic,ci,ci
+2025-07-28T05:15:56.940Z,19.343166351318,-155.18099975586,4.1900000572205,1.76,ml,47,78,0.03774,0.209999993,hv,hv74737712,2025-07-28T05:19:30.870Z,"12 km SSE of Volcano, Hawaii",earthquake,0.36,1.07000005,0.61,12,automatic,hv,hv
 2025-07-28T05:11:08.688Z,37.2727,-114.9354,11.3,2.1,ml,30,134.92,0.162,0.3496,nn,nn00901294,2025-07-28T05:14:10.737Z,"22 km ESE of Alamo, Nevada",earthquake,,0.5,0.19,22,automatic,nn,nn
 2025-07-28T05:05:17.510Z,19.608165740967,-155.27749633789,1.8200000524521,2.52,ml,56,63,0.1472,0.270000011,hv,hv74737707,2025-07-28T05:09:01.250Z,"18 km WNW of Mountain View, Hawaii",earthquake,0.31,0.870000005,0.3,41,automatic,hv,hv
 2025-07-28T05:03:22.150Z,32.7491667,-117.4121667,15.4,1.42,ml,34,195,0.2052,0.16,ci,ci41034095,2025-07-28T05:07:07.879Z,"17 km SW of La Jolla, CA",earthquake,0.35,0.44,0.229,18,automatic,ci,ci
@@ -22,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T02:22:49.882Z,58.2891,-155.0267,0,0.1,ml,,,,0.37,ak,ak0259lon80s,2025-07-28T02:23:47.803Z,"87 km NNW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-07-28T02:15:20.260Z,37.045333862305,-121.48583221435,2.9000000953674,0.98,md,5,146,0.01995,0.01,nc,nc75216027,2025-07-28T02:17:58.162Z,"9 km ENE of Gilroy, CA",earthquake,0.86,1.21000004,0.09,4,automatic,nc,nc
 2025-07-28T02:09:25.023Z,31.52,-104.004,7.2514,0.8,ml,17,147,0,0.5,tx,tx2025orzipf,2025-07-28T03:01:24.451Z,"30 km NW of Toyah, Texas",earthquake,0,3.4400408267975,0.3,9,automatic,tx,tx
+2025-07-28T02:04:56.762Z,-57.2679,-67.178,10,4.3,mb,17,183,2.355,1.12,us,us6000qvjn,2025-07-28T05:21:25.040Z,"282 km SSE of Ushuaia, Argentina",earthquake,13.49,1.984,0.147,13,reviewed,us,us
 2025-07-28T01:52:06.207Z,61.9296,-150.9424,63.3,1.4,ml,,,,0.97,ak,ak0259lo84j0,2025-07-28T01:54:05.748Z,"24 km ESE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-28T01:28:09.150Z,38.838001251221,-122.78333282471,1.6699999570847,0.54,md,7,81,0.005491,0.01,nc,nc75216017,2025-07-28T01:29:46.137Z,"6 km WNW of Cobb, CA",earthquake,0.93,1.61000001,0.37,8,automatic,nc,nc
 2025-07-28T01:27:08.188Z,-6.6478,149.409,10,4.7,mb,32,128,3.53,1.26,us,us6000qvjj,2025-07-28T03:48:47.040Z,"51 km SSW of Kandrian, Papua New Guinea",earthquake,6.51,1.831,0.096,36,reviewed,us,us
@@ -196,7 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-27T05:59:54.572Z,39.3489,-119.99,7.1,0.6,ml,11,71.75,0.067,0.1555,nn,nn00901276,2025-07-27T14:04:10.835Z,"5 km SSE of Floriston, California",earthquake,,1.8,0.23,8,reviewed,nn,nn
 2025-07-27T05:41:17.065Z,63.1247,-147.7252,4.2,1.4,ml,,,,0.86,ak,ak0259k306ey,2025-07-27T05:43:58.001Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-27T05:36:44.470Z,33.6471667,-116.7626667,10.98,0.96,ml,53,38,0.07306,0.17,ci,ci41033455,2025-07-27T05:40:12.037Z,"11 km SSW of Idyllwild, CA",earthquake,0.15,0.34,0.261,30,automatic,ci,ci
-2025-07-27T05:29:06.348Z,39.4143,-119.9309,7.5,0.8,ml,21,46.18,0.102,0.115,nn,nn00901258,2025-07-27T16:27:47.238Z,"8 km ENE of Floriston, California",earthquake,,1.1,0.26,10,reviewed,nn,nn
-2025-07-27T05:28:39.040Z,40.528167724609,-124.40466308594,20.030000686646,1.62,md,11,271,0.1478,0.07,nc,nc75215677,2025-07-27T06:07:16.870Z,"13 km WSW of Ferndale, CA",earthquake,2.82,0.879999995,0.05,6,automatic,nc,nc
-2025-07-27T05:21:13.840Z,38.758666992188,-122.72566986084,2.7599999904633,0.97,md,9,143,0.002989,0.02,nc,nc75215672,2025-07-27T05:22:49.568Z,"3 km SE of The Geysers, CA",earthquake,0.51,0.910000026,0.33,9,automatic,nc,nc
-2025-07-27T05:21:05.660Z,38.75899887085,-122.72399902344,2.8099999427795,0.75,md,9,145,0.002677,0.03,nc,nc75215667,2025-07-27T05:22:39.516Z,"3 km WSW of Anderson Springs, CA",earthquake,0.63,0.99000001,0.12,9,automatic,nc,nc
