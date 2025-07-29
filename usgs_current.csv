@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-29T05:28:30.570Z,33.6905,-116.7163333,17.87,0.62,ml,24,60,0.0415,0.15,ci,ci41035191,2025-07-29T05:31:58.545Z,"6 km S of Idyllwild, CA",earthquake,0.27,0.53,0.316,17,automatic,ci,ci
+2025-07-29T05:16:22.650Z,18.586833333333,-66.377166666667,103.43,3.21,md,27,198,0.1811,0.14,pr,pr71490923,2025-07-29T05:36:37.480Z,"13 km NNW of Brenas, Puerto Rico",earthquake,0.81,0.43,0.047160495385017,13,reviewed,pr,pr
 2025-07-29T05:16:02.230Z,32.2241667,-116.5643333,17.16,2.3,ml,33,95,0.1222,0.18,ci,ci41035183,2025-07-29T05:19:54.596Z,"33 km E of Primo Tapia, B.C., MX",earthquake,0.3,0.7,0.256,27,automatic,ci,ci
 2025-07-29T04:58:02.405Z,36.7442,-115.5686,1.2,0.5,ml,18,117.42,0.326,0.2335,nn,nn00901380,2025-07-29T05:00:11.336Z,"21 km NNE of Indian Springs, Nevada",earthquake,,30.8,0.27,14,automatic,nn,nn
 2025-07-29T04:46:35.847Z,36.913,-116.2503,1,-0.3,ml,9,107.54,0.012,0.1928,nn,nn00901378,2025-07-29T04:48:38.595Z,"45 km E of Beatty, Nevada",earthquake,,0.2,0.48,6,automatic,nn,nn
@@ -70,6 +72,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T21:35:45.388Z,36.7246,-116.3062,8.1,-0.1,ml,21,88.79,0.014,0.0897,nn,nn00901334,2025-07-29T03:37:34.482Z,"45 km ESE of Beatty, Nevada",earthquake,,0.9,0.82,6,reviewed,nn,nn
 2025-07-28T21:30:42.710Z,19.054832458496,-155.38482666016,33.959999084473,2.09,ml,52,205,0.1239,0.129999995,hv,hv74738402,2025-07-28T21:33:57.530Z,"19 km SSE of Pāhala, Hawaii",earthquake,0.49,0.829999983,0.65,9,automatic,hv,hv
 2025-07-28T21:27:37.060Z,36.7264,-116.3036,7.9,-0.4,ml,13,88.49,0.016,0.0757,nn,nn00901373,2025-07-29T03:28:07.955Z,"45 km ESE of Beatty, Nevada",earthquake,,1,0.33,3,reviewed,nn,nn
+2025-07-28T21:24:43.640Z,34.917833333333,-120.858,1.02,1.84,md,35,197,0.2621,0.29,nc,nc75216297,2025-07-29T05:44:18.962Z,"27 km W of Guadalupe, CA",earthquake,1.21,2.19,0.164,20,reviewed,nc,nc
 2025-07-28T21:12:50.522Z,60.1573,-150.9334,32.6,2.9,ml,,,,0.58,ak,ak0259lzwbf3,2025-07-29T04:28:43.908Z,"26 km ESE of Clam Gulch, Alaska",earthquake,,850.6,,,automatic,ak,ak
 2025-07-28T21:11:43.074Z,65.4906,-149.9951,0,1.7,ml,,,,0.69,ak,ak0259lzw343,2025-07-28T21:13:39.347Z,"8 km ESE of Rampart, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-28T21:08:48.960Z,62.6062,-149.3829,55.2,1.4,ml,,,,0.35,ak,ak0259lzvgf4,2025-07-28T22:20:25.880Z,"40 km ENE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -261,9 +264,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T06:01:12.130Z,61.3005,-152.22516666667,1.96,0.2,ml,10,116,0.03898,0.08,av,av93692216,2025-07-28T22:57:06.780Z,"63 km WNW of Beluga, Alaska",earthquake,0.22,0.54,0.13063734751206,4,reviewed,av,av
 2025-07-28T05:53:56.730Z,36.324833333333,-89.556166666667,8.83,1.76,md,23,49,0.008506,0.03,nm,nm60611486,2025-07-28T16:48:33.370Z,"9 km NW of Ridgely, Tennessee",earthquake,0.73,0.88,0.074621342716279,17,reviewed,nm,nm
 2025-07-28T05:49:30.220Z,44.29,-115.1005,11.57,1.1,ml,8,118,0.05999,0.06,mb,mb90103878,2025-07-28T15:37:02.880Z,"15 km WNW of Stanley, Idaho",earthquake,0.44,0.59,0.19414237819814,13,reviewed,mb,mb
-2025-07-28T05:44:50.970Z,61.314,-152.4975,3.43,1.48,ml,10,120,0.05037,0.07,av,av93047414,2025-07-28T22:46:48.720Z,"78 km WNW of Tyonek, Alaska",earthquake,0.35,0.38,0.17563270833867,11,reviewed,av,av
-2025-07-28T05:44:43.679Z,61.2969,-152.5171,5.5,1.7,ml,,,,0.47,ak,ak0259lqk83z,2025-07-28T22:40:47.000Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-07-28T05:42:52.735Z,61.3087,-152.5301,2.3,1.6,ml,,,,0.96,ak,ak0259lqjtdl,2025-07-28T22:36:25.680Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-07-28T05:35:45.400Z,38.542499542236,-122.73883056641,3.1500000953674,1.35,md,7,204,0.04794,0.04,nc,nc75216077,2025-07-28T06:07:17.365Z,"3 km NNE of Larkfield-Wikiup, CA",earthquake,0.71,1.14999998,0.05,3,automatic,nc,nc
-2025-07-28T05:33:34.500Z,38.823501586914,-122.81016540527,2.960000038147,0.43,md,6,116,0.0001282,0.01,nc,nc75216072,2025-07-28T05:35:11.129Z,"7 km NNW of The Geysers, CA",earthquake,0.58,2.03999996,0.31,9,automatic,nc,nc
-2025-07-28T05:30:50.990Z,11.6353,42.8098,10,4.6,mb,21,118,0.11,0.48,us,us6000qvkg,2025-07-28T10:41:02.213Z,"12 km NNW of Arta, Djibouti",earthquake,5.72,1.906,0.146,14,reviewed,us,us
