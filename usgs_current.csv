@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-29T16:01:38.550Z,37.3802,-115.2075,4.3,0.9,ml,9,184.92,0.127,0.3269,nn,nn00901400,2025-07-29T16:04:02.961Z,"4 km WNW of Alamo, Nevada",earthquake,,154.5,0.27,8,automatic,nn,nn
 2025-07-29T15:57:54.640Z,38.814334869385,-122.8184967041,1.7000000476837,0.39,md,10,60,0.009972,0.02,nc,nc75216597,2025-07-29T16:00:50.658Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.980000019,0.29,11,automatic,nc,nc
+2025-07-29T15:47:24.018Z,9.5198,94.0218,10,5,mb,103,60,2.466,0.92,us,us6000qw00,2025-07-29T16:11:48.040Z,"275 km SSE of Port Blair, India",earthquake,8.65,1.814,0.051,122,reviewed,us,us
 2025-07-29T15:39:44.316Z,31.745,-104.128,3.9879,1.7,ml,31,53,0,0.6,tx,tx2025ouvxtf,2025-07-29T16:01:12.550Z,"50 km W of Mentone, Texas",earthquake,0,0.92680364847183,0.2,23,automatic,tx,tx
 2025-07-29T15:37:29.799Z,64.6936,-149.173,18.7,0.6,ml,,,,0.27,ak,ak0259nk0dkj,2025-07-29T15:39:05.380Z,"10 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-29T15:21:39.402Z,37.2632,-115.573,2,1.1,ml,14,311.4,0.371,0.4101,nn,nn00901398,2025-07-29T15:23:55.380Z,"37 km WSW of Alamo, Nevada",earthquake,,18,0.29,10,automatic,nn,nn
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T13:53:38.290Z,38.81566619873,-122.8193359375,2.5,1.08,md,20,51,0.01026,0.02,nc,nc75216537,2025-07-29T13:56:20.553Z,"7 km NW of The Geysers, CA",earthquake,0.24,0.430000007,0.25,19,automatic,nc,nc
 2025-07-29T13:51:30.287Z,37.2043,-117.3924,5.5,1.1,ml,12,117.77,0.142,0.1585,nn,nn00901388,2025-07-29T13:54:03.349Z,"57 km SSW of Goldfield, Nevada",earthquake,,1.4,0.18,8,automatic,nn,nn
 2025-07-29T13:49:06.000Z,44.733666666667,-111.12333333333,12.01,1.13,ml,12,75,0.05468,0.1,uu,uu80112741,2025-07-29T16:02:01.290Z,"6 km SE of Hebgen Lake Estates, Montana",earthquake,0.37,0.67,0.17043554363247,3,reviewed,uu,uu
+2025-07-29T13:33:19.700Z,47.608,-114.6965,4.97,-0.21,ml,4,127,0.2319,0.02,mb,mb90104248,2025-07-29T16:24:05.310Z,"2 km W of Hot Springs, Montana",earthquake,0.46,6.26,0.087976083989118,2,reviewed,mb,mb
 2025-07-29T13:09:13.070Z,33.1053333,-116.513,11.2,0.48,ml,30,45,0.06873,0.17,ci,ci41035367,2025-07-29T13:13:06.778Z,"9 km ENE of Julian, CA",earthquake,0.22,0.51,0.166,8,automatic,ci,ci
 2025-07-29T13:06:35.944Z,61.2966,-152.443,0.8,1.7,ml,,,,0.84,ak,ak0259nimtby,2025-07-29T13:08:32.728Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-29T12:57:24.350Z,46.848331451416,-121.77416992188,0.81000000238419,1.33000004,md,19,78,,0.0500000007,uw,uw62153112,2025-07-29T12:58:59.960Z,"22 km ENE of Ashford, Washington",earthquake,0.28,0.680000007,1.32000005,2,automatic,uw,uw
@@ -135,8 +137,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T01:36:36.270Z,31.971,-102.312,7.7393,0.8,ml,19,67,0,0.1,tx,tx2025ottzdr,2025-07-29T11:04:47.629Z,"8 km SE of Gardendale, Texas",earthquake,0.56241207659761,0.64034539335799,0.2,10,reviewed,tx,tx
 2025-07-29T01:34:36.110Z,44.636833333333,-112.59266666667,8.6,0.57,ml,7,180,0.04156,0.1,mb,mb90104233,2025-07-29T16:08:21.140Z,"0 km W of Lima, Montana",earthquake,0.66,0.58,0.24046859339073,6,reviewed,mb,mb
 2025-07-29T01:27:11.835Z,32.107,-101.928,8.6182,1.6,ml,55,53,0.1,0.1,tx,tx2025ottqxr,2025-07-29T07:48:06.631Z,"13 km W of Stanton, Texas",earthquake,0.2279565972944,0.50664443339402,0.2,29,reviewed,tx,tx
+2025-07-29T01:19:56.620Z,44.6525,-112.602,9.77,0.83,ml,8,94,0.04629,0.08,mb,mb90104238,2025-07-29T16:15:12.940Z,"1 km NNW of Lima, Montana",earthquake,0.5,0.44,0.17794555858647,7,reviewed,mb,mb
 2025-07-29T01:16:30.837Z,31.971,-102.314,8.2275,2.6,ml,52,39,0,0.2,tx,tx2025otthnz,2025-07-29T07:30:02.017Z,"8 km SE of Gardendale, Texas",earthquake,0.41795235724788,0.42666432839739,0.1,37,reviewed,tx,tx
 2025-07-29T01:14:41.750Z,38.7905,-122.75016666667,0.94,0.21,md,9,140,0.01256,0.01,nc,nc75216382,2025-07-29T10:04:47.126Z,"2 km NNE of The Geysers, CA",earthquake,0.47,0.85,0.098,7,reviewed,nc,nc
+2025-07-29T01:11:57.640Z,45.862,-111.58,13.82,0.31,ml,6,147,0.2097,0.06,mb,mb90104243,2025-07-29T16:19:29.080Z,"4 km SSW of Three Forks, Montana",earthquake,0.45,2.02,0.24348564871927,5,reviewed,mb,mb
 2025-07-29T01:11:31.897Z,-20.0911,66.3828,10,4.8,mb,45,59,2.854,0.67,us,us6000qvux,2025-07-29T01:38:10.040Z,"Mauritius - Reunion region",earthquake,8.82,1.855,0.092,39,reviewed,us,us
 2025-07-29T01:03:17.369Z,36.7239,-116.3073,8,-0.3,ml,17,88.9,0.013,0.0883,nn,nn00901391,2025-07-29T14:03:58.133Z,"45 km ESE of Beatty, Nevada",earthquake,,1,0,1,reviewed,nn,nn
 2025-07-29T00:56:30.770Z,38.835166931152,-122.78900146484,2.0499999523163,0.26,md,7,72,0.003403,0.01,nc,nc75216377,2025-07-29T00:58:07.237Z,"6 km WNW of Cobb, CA",earthquake,0.44,1.46000004,0.12,8,automatic,nc,nc
@@ -261,9 +265,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-28T17:08:46.511Z,28.813,-98.924,6.1883,1.4,ml,16,90,0.2,0.2,tx,tx2025otddpr,2025-07-29T12:57:17.441Z,"18 km ESE of Pearsall, Texas",earthquake,1.8598774569175,1.4216071582336,0.2,7,reviewed,tx,tx
 2025-07-28T17:07:29.830Z,61.310666666667,-152.49316666667,3.17,0.2,ml,9,118,0.04904,0.09,av,av93693036,2025-07-29T02:21:34.220Z,"77 km WNW of Tyonek, Alaska",earthquake,0.42,0.45,0.28090967732233,12,reviewed,av,av
 2025-07-28T16:57:00.870Z,45.338,-112.5295,10.84,0.26,ml,6,96,0.05316,0.05,mb,mb90104073,2025-07-28T22:41:35.850Z,"15 km NNE of Dillon, Montana",earthquake,0.51,1.37,0.098143197314547,4,reviewed,mb,mb
-2025-07-28T16:44:17.520Z,33.6356667,-116.7461667,11.52,1.03,ml,15,156,0.07047,0.19,ci,ci41034471,2025-07-29T16:09:33.854Z,"11 km NW of Anza, CA",earthquake,0.45,0.66,0.43,18,automatic,ci,ci
+2025-07-28T16:44:31.680Z,33.645,-116.7508333,15.41,0.41,ml,17,142,0.06853,0.13,ci,ci37736636,2025-07-29T16:14:29.877Z,"11 km SSW of Idyllwild, CA",earthquake,0.29,0.59,0.16,9,reviewed,ci,ci
+2025-07-28T16:44:17.110Z,33.6353333,-116.7563333,15.27,0.49,ml,17,86,0.07154,0.12,ci,ci41034471,2025-07-29T16:15:17.882Z,"12 km NW of Anza, CA",earthquake,0.32,0.6,0.281,9,reviewed,ci,ci
 2025-07-28T16:28:15.790Z,46.8505,-121.7715,0.64,-0.01,ml,8,83,0.01473,0.06,uw,uw62152637,2025-07-28T19:06:29.060Z,"22 km ENE of Ashford, Washington",earthquake,0.3,0.51,0.089186587702675,4,reviewed,uw,uw
 2025-07-28T16:25:20.380Z,33.294,-116.2511667,5.82,0.57,ml,17,123,0.08392,0.17,ci,ci41034431,2025-07-28T17:13:05.321Z,"12 km ENE of Borrego Springs, CA",earthquake,0.4,0.49,0.121,7,reviewed,ci,ci
-2025-07-28T16:24:51.330Z,51.892,-176.54316666667,0.3,1.68,ml,13,145,0.09043,0.15,av,av93692986,2025-07-29T02:12:36.650Z,"6 km ENE of Adak, Alaska",earthquake,0.49,0.81,0.36202543611139,13,reviewed,av,av
-2025-07-28T16:20:38.337Z,61.6808,-150.7397,35.4,2,ml,,,,0.57,ak,ak0259lwyu65,2025-07-28T16:22:15.908Z,"19 km NW of Susitna, Alaska",earthquake,,7.1,,,automatic,ak,ak
-2025-07-28T16:19:12.220Z,60.048,-153.05333333333,2.11,-0.15,ml,5,180,0.0107,0.09,av,av93692966,2025-07-29T02:03:44.040Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.6,0.85,0.35898391979573,5,reviewed,av,av
