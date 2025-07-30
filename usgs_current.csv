@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-30T17:52:05.250Z,38.779666900635,-122.75716400147,0.80000001192093,0.78,md,10,67,0.01117,0.03,nc,nc75217042,2025-07-30T17:53:43.881Z,"0 km  of The Geysers, CA",earthquake,0.29,0.639999986,0.36,11,automatic,nc,nc
+2025-07-30T17:43:42.190Z,17.984333333333,-66.841166666667,17.51,2.3,md,12,171,0.02843,0.1,pr,pr71491128,2025-07-30T17:54:24.960Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.43,0.48,0.11600097811108,8,reviewed,pr,pr
 2025-07-30T17:37:52.995Z,32.358,-102.163,4.7539,1.4,ml,25,54,0,0.5,tx,tx2025owvols,2025-07-30T17:41:47.545Z,"35 km E of McKinney Acres, Texas",earthquake,0,1.1331716775894,0.2,12,automatic,tx,tx
 2025-07-30T17:37:12.700Z,19.030666351318,-155.37983703613,32.29999923706,2.47,ml,52,212,0.1465,0.180000007,hv,hv74739832,2025-07-30T17:41:09.700Z,"21 km E of Naalehu, Hawaii",earthquake,0.55,0.879999995,0.68,8,automatic,hv,hv
 2025-07-30T17:34:26.860Z,62.1518,-151.2064,75.1,1.4,ml,,,,0.55,ak,ak0259p8pxwe,2025-07-30T17:37:09.617Z,"20 km NNE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -87,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-30T12:36:03.820Z,33.2215,-116.0418333,10.23,0.77,ml,38,70,0.07197,0.23,ci,ci41246304,2025-07-30T12:39:36.194Z,"12 km SW of Salton City, CA",earthquake,0.23,0.51,0.163,14,automatic,ci,ci
 2025-07-30T12:33:05.081Z,51.4619,159.4328,35,4.9,mb,98,121,1.636,0.78,us,us6000qwh9,2025-07-30T12:48:48.040Z,"177 km SSE of Vilyuchinsk, Russia",earthquake,8.62,1.907,0.046,146,reviewed,us,us
 2025-07-30T12:32:08.389Z,-23.9742,-66.8699,200.223,4.6,mb,83,61,1.575,0.86,us,us6000qwh7,2025-07-30T12:52:00.040Z,"62 km WNW of San Antonio de los Cobres, Argentina",earthquake,9.35,6.907,0.033,280,reviewed,us,us
-2025-07-30T12:30:47.111Z,36.7262,-116.3112,8.5,1,ml,28,65.51,0.01,0.1986,nn,nn00901602,2025-07-30T12:33:29.533Z,"44 km ESE of Beatty, Nevada",earthquake,,0.4,0.27,21,automatic,nn,nn
+2025-07-30T12:30:47.601Z,36.723,-116.307,8.5,0.9,ml,30,67.15,0.014,0.0892,nn,nn00901602,2025-07-30T17:50:53.586Z,"45 km ESE of Beatty, Nevada",earthquake,,0.5,0.34,10,reviewed,nn,nn
 2025-07-30T12:29:43.370Z,35.5931667,-117.393,2.31,0.79,ml,18,69,0.07192,0.13,ci,ci41246288,2025-07-30T16:48:18.569Z,"19 km S of Trona, CA",earthquake,0.25,0.44,0.051,7,reviewed,ci,ci
 2025-07-30T12:26:46.280Z,33.5375,-116.7168333,6.09,0.54,ml,27,46,0.03266,0.14,ci,ci41246280,2025-07-30T12:30:14.578Z,"4 km WSW of Anza, CA",earthquake,0.17,0.41,0.132,15,automatic,ci,ci
 2025-07-30T12:26:21.274Z,51.3355,159.0244,10,5,mb,128,107,1.706,0.63,us,us6000qwh6,2025-07-30T12:45:17.040Z,"176 km E of Ozernovskiy, Russia",earthquake,8.86,1.853,0.029,375,reviewed,us,us
@@ -404,7 +406,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-29T18:03:27.321Z,65.4526,-148.3081,14.8,0.9,ml,,,,0.49,ak,ak0259nllduk,2025-07-29T18:06:19.169Z,"13 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-29T18:00:05.870Z,32.6103333,-115.7216667,6.8,1.21,ml,15,93,0.03909,0.18,ci,ci41241000,2025-07-29T18:25:18.491Z,"13 km WNW of Progreso, B.C., MX",earthquake,0.39,0.59,0.238,13,reviewed,ci,ci
 2025-07-29T17:59:04.535Z,31.834,-104.114,7.3816,1.2,ml,18,61,0,0.2,tx,tx2025ovanrw,2025-07-29T18:29:28.499Z,"43 km S of Malaga, New Mexico",earthquake,0.48455649214323,1.7573500784218,0.1,14,reviewed,tx,tx
-2025-07-29T17:54:04.442Z,61.2241,-150.5445,53.9,1.9,ml,,,,0.84,ak,ak0259nlatzw,2025-07-29T17:55:28.937Z,"30 km ENE of Beluga, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2025-07-29T17:53:41.317Z,-23.3521,178.8239,553,6.6,mww,97,24,5.625,0.92,us,us6000qw1a,2025-07-29T20:16:12.885Z,"south of the Fiji Islands",earthquake,9.77,1.959,0.043,52,reviewed,us,us
-2025-07-29T17:51:02.900Z,38.836166381836,-122.80066680908,2.0599999427795,1.64,md,32,38,0.008367,0.03,nc,nc75216622,2025-07-29T18:32:18.427Z,"7 km WNW of Cobb, CA",earthquake,0.17,0.330000013,0.11,26,automatic,nc,nc
-2025-07-29T17:46:37.654Z,-23.445,178.8895,550,5.8,mww,91,26,5.725,0.69,us,us6000qw18,2025-07-29T20:05:25.686Z,"south of the Fiji Islands",earthquake,10.48,1.968,0.056,31,reviewed,us,us
