@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-01T10:29:14.230Z,35.817,-117.6501667,5.09,0.82,ml,24,68,0.04282,0.19,ci,ci41250448,2025-08-01T10:32:46.282Z,"22 km N of Ridgecrest, CA",earthquake,0.23,0.45,0.167,17,automatic,ci,ci
 2025-08-01T10:17:33.130Z,33.2676667,-116.1323333,10.33,0.85,ml,53,36,0.1233,0.22,ci,ci41250440,2025-08-01T10:20:57.410Z,"14 km N of Ocotillo Wells, CA",earthquake,0.21,0.53,0.158,18,automatic,ci,ci
+2025-08-01T10:17:30.034Z,32.411,-102.027,8.9111,2.5,ml,44,67,0,0.1,tx,tx2025ozykow,2025-08-01T10:50:59.929Z,"31 km WSW of Ackerly, Texas",earthquake,0.26343589296978,0.4575985961209,0.2,24,reviewed,tx,tx
 2025-08-01T10:17:29.589Z,32.412,-102.025,4.0196,2.4,ml,76,40,0.1,0.4,tx,tx2025ozyjsj,2025-08-01T10:22:22.511Z,"31 km WSW of Ackerly, Texas",earthquake,0,0.64758157730103,0.2,46,automatic,tx,tx
-2025-08-01T10:17:29.414Z,32.41,-102.023,4.9147,2.4,ml,52,76,0.1,0.4,tx,tx2025ozykow,2025-08-01T10:21:35.116Z,"31 km WSW of Ackerly, Texas",earthquake,0,0.77255845069885,0.2,39,automatic,tx,tx
 2025-08-01T10:15:57.460Z,33.269,-116.1321667,11.12,0.76,ml,42,54,0.1273,0.23,ci,ci41250432,2025-08-01T10:19:21.541Z,"14 km N of Ocotillo Wells, CA",earthquake,0.27,0.57,0.181,13,automatic,ci,ci
 2025-08-01T10:11:01.110Z,33.533,-116.723,5.43,0.33,ml,19,63,0.03445,0.1,ci,ci41250424,2025-08-01T10:15:02.904Z,"5 km WSW of Anza, CA",earthquake,0.17,0.36,0.209,7,automatic,ci,ci
 2025-08-01T10:01:16.140Z,34.1596667,-117.4355,5.99,1.07,ml,82,35,0.03352,0.2,ci,ci41250408,2025-08-01T10:05:20.125Z,"7 km NNE of Fontana, CA",earthquake,0.14,0.39,0.184,28,automatic,ci,ci
@@ -246,7 +246,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T16:36:50.790Z,34.1423333,-117.4101667,5.76,3.09,ml,143,20,0.04881,0.22,ci,ci41249512,2025-08-01T06:39:07.200Z,"5 km NW of Rialto, CA",earthquake,0.11,0.38,0.146,297,reviewed,ci,ci
 2025-07-31T16:36:19.980Z,65.4485,-148.2126,10.9,0.9,ml,,,,0.3,ak,ak0259qvo9ou,2025-07-31T16:38:12.907Z,"17 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-31T16:35:25.794Z,60.3454,-152.1122,91.7,1.4,ml,,,,0.36,ak,ak0259qvo2f7,2025-07-31T16:37:08.682Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-07-31T16:32:24.200Z,34.148,-117.4143333,5.26,4.34,mw,159,16,0.0458,0.23,ci,ci41249496,2025-08-01T10:17:18.648Z,"6 km NW of Rialto, CA",earthquake,0.12,0.31,,6,reviewed,ci,ci
+2025-07-31T16:32:24.200Z,34.148,-117.4143333,5.26,4.34,mw,159,16,0.0458,0.23,ci,ci41249496,2025-08-01T10:49:20.672Z,"6 km NW of Rialto, CA",earthquake,0.12,0.31,,6,reviewed,ci,ci
 2025-07-31T16:28:23.990Z,38.838500976562,-122.81283569336,2.0099999904633,0.78,md,15,58,0.01524,0.02,nc,nc75217507,2025-07-31T16:31:02.995Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.639999986,0.3,16,automatic,nc,nc
 2025-07-31T16:26:47.250Z,51.9005,-178.15516666667,5.38,0.4,ml,5,242,0.02459,0.29,av,av93047649,2025-08-01T01:31:14.920Z,"104 km W of Adak, Alaska",earthquake,1.41,1.34,0.19181652044246,5,reviewed,av,av
 2025-07-31T16:24:45.187Z,63.7635,-150.6377,0.8,1.2,ml,,,,0.89,ak,ak0259qvlr1i,2025-07-31T16:26:59.230Z,"59 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -336,6 +336,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T11:04:00.130Z,33.5373333,-116.7291667,4.49,0.23,ml,19,59,0.02881,0.09,ci,ci41249240,2025-07-31T13:01:05.817Z,"6 km WSW of Anza, CA",earthquake,0.14,0.22,0.084,4,reviewed,ci,ci
 2025-07-31T10:57:33.074Z,65.3684,-156.9993,5.7,1.6,ml,,,,0.79,ak,ak0259qs873v,2025-07-31T10:59:35.279Z,"46 km SW of Huslia, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-07-31T10:55:06.290Z,40.493833333333,-111.51683333333,0.95,0.15,md,10,100,0.08044,0.11,uu,uu80004293,2025-07-31T16:56:48.960Z,"4 km WSW of Midway, Utah",earthquake,0.29,6.65,0.30463372261783,4,reviewed,uu,uu
-2025-07-31T10:48:23.220Z,44.8655,-111.4845,11.18,0.31,ml,8,160,0.05211,0.29,mb,mb90104828,2025-07-31T21:09:50.160Z,"25 km WNW of Hebgen Lake Estates, Montana",earthquake,1.02,1.93,0.16896617830841,6,reviewed,mb,mb
-2025-07-31T10:44:59.420Z,38.830833333333,-122.81116666667,1.53,0.25,md,20,46,0.007476,0.02,nc,nc75217377,2025-07-31T22:35:47.557Z,"8 km NNW of The Geysers, CA",earthquake,0.21,0.41,0.237,19,reviewed,nc,nc
-2025-07-31T10:40:54.040Z,34.0086667,-116.7563333,19.4,1.07,ml,52,31,0.05024,0.18,ci,ci41249232,2025-07-31T13:01:08.757Z,"10 km NNE of Cabazon, CA",earthquake,0.17,0.45,0.175,27,reviewed,ci,ci
