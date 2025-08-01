@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-01T08:02:45.260Z,34.1619987,-117.4339981,5.66,1.25,ml,67,25,0.03101,0.16,ci,ci41250368,2025-08-01T08:07:02.446Z,"7 km SSW of Devore, CA",earthquake,0.19,0.62,0.211,19,automatic,ci,ci
+2025-08-01T08:02:45.240Z,34.1621667,-117.435,6.07,1.32,ml,91,33,0.031,0.2,ci,ci41250368,2025-08-01T08:14:01.190Z,"7 km SSW of Devore, CA",earthquake,0.12,0.33,0.164,25,automatic,ci,ci
 2025-08-01T08:02:28.710Z,34.1611671,-117.4346695,7.19,0.98,ml,42,36,0.03192,0.18,ci,ci41250360,2025-08-01T08:04:31.305Z,"7 km NNE of Fontana, CA",earthquake,0.28,0.56,0.185,12,automatic,ci,ci
-2025-08-01T08:00:23.930Z,34.1631667,-117.434,6.33,1.99,ml,125,33,0.02986,0.2,ci,ci41250352,2025-08-01T08:05:49.609Z,"7 km SSW of Devore, CA",earthquake,0.1,0.27,0.171,25,automatic,ci,ci
+2025-08-01T08:00:23.930Z,34.1631667,-117.434,6.33,1.99,ml,125,33,0.02986,0.2,ci,ci41250352,2025-08-01T08:10:56.890Z,"7 km SSW of Devore, CA",earthquake,0.1,0.27,0.171,25,automatic,ci,ci
 2025-08-01T07:52:35.880Z,33.3531667,-116.949,13.88,0.43,ml,33,43,0.07228,0.16,ci,ci41250336,2025-08-01T07:56:00.805Z,"8 km W of Palomar Observatory, CA",earthquake,0.19,0.46,0.186,13,automatic,ci,ci
 2025-08-01T07:48:38.150Z,39.222332000732,-120.08633422852,3.5299999713898,1.42,md,8,82,0.0341,0.12,nc,nc75217807,2025-08-01T07:50:51.544Z,"4 km WSW of Tahoe Vista, CA",earthquake,0.58,1.36000001,0.13,7,automatic,nc,nc
 2025-08-01T07:44:11.239Z,51.7532,160.4727,10,5.3,mb,96,131,1.693,1.19,us,us6000qx85,2025-08-01T08:01:21.040Z,"192 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.62,1.884,0.023,631,reviewed,us,us
@@ -43,6 +43,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T04:12:59.010Z,34.1596667,-117.4343333,6.37,1.48,ml,91,31,0.03334,0.2,ci,ci41250248,2025-08-01T04:23:58.100Z,"7 km NNE of Fontana, CA",earthquake,0.12,0.31,0.124,27,automatic,ci,ci
 2025-08-01T04:07:20.940Z,34.1511667,-117.4268333,5.75,1.05,ml,61,30,0.04133,0.19,ci,ci41250232,2025-08-01T04:11:33.686Z,"7 km NNE of Fontana, CA",earthquake,0.16,0.46,0.173,31,automatic,ci,ci
 2025-08-01T04:07:13.539Z,49.7057,157.4767,20.707,4.7,mb,53,127,3.403,1.34,us,us6000qx76,2025-08-01T04:37:33.040Z,"144 km SE of Severo-Kuril’sk, Russia",earthquake,7.89,5.046,0.043,165,reviewed,us,us
+2025-08-01T04:05:25.490Z,35.6481667,-117.4611667,10.82,0.63,ml,17,73,0.03488,0.17,ci,ci41250224,2025-08-01T04:09:17.640Z,"14 km SSW of Searles Valley, CA",earthquake,0.31,0.63,0.137,9,automatic,ci,ci
+2025-08-01T04:04:13.960Z,33.6995,-116.733,16.02,0.89,ml,41,39,0.04905,0.15,ci,ci41250216,2025-08-01T04:08:58.010Z,"5 km SSW of Idyllwild, CA",earthquake,0.17,0.35,0.166,27,automatic,ci,ci
 2025-08-01T03:50:55.620Z,35.87,-117.653,5.01,0.93,ml,29,65,0.07046,0.14,ci,ci41250208,2025-08-01T03:54:19.409Z,"24 km ESE of Little Lake, CA",earthquake,0.16,0.59,0.131,18,automatic,ci,ci
 2025-08-01T03:49:31.059Z,57.0197,-147.3532,10,2.9,ml,12,202,2.932,0.64,us,us6000qx73,2025-08-01T05:24:28.040Z,"Gulf of Alaska",earthquake,9.51,2.013,0.085,18,reviewed,us,us
 2025-08-01T03:47:52.880Z,32.9913333,-116.3906667,5.29,0.67,ml,11,140,0.02571,0.08,ci,ci41250200,2025-08-01T03:51:19.471Z,"22 km ESE of Julian, CA",earthquake,0.36,0.28,0.139,11,automatic,ci,ci
@@ -53,6 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-01T03:10:38.920Z,18.2605,-67.9251,118,3.6,md,17,184,0.5219,0.41,pr,pr2025213000,2025-08-01T03:32:45.842Z,"61 km SE of Punta Cana, Dominican Republic",earthquake,3.48,1.76,0.06,7,reviewed,pr,pr
 2025-08-01T03:08:14.817Z,49.9566,157.3509,40.662,4.8,mb,59,137,3.164,0.7,us,us6000qx6w,2025-08-01T03:26:33.040Z,"118 km SE of Severo-Kuril’sk, Russia",earthquake,10.33,4.402,0.048,134,reviewed,us,us
 2025-08-01T03:00:00.983Z,52.0937,161.4957,10,4.5,mb,51,125,1.971,0.54,us,us6000qx6u,2025-08-01T04:24:17.040Z,"222 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,5.96,1.895,0.063,74,reviewed,us,us
+2025-08-01T02:56:21.970Z,46.852,-121.75716666667,0.01,0.54,ml,15,72,0.02331,0.07,uw,uw62155372,2025-08-01T04:12:56.910Z,"23 km ENE of Ashford, Washington",earthquake,0.2,0.44,0.24505216888431,7,reviewed,uw,uw
 2025-08-01T02:54:13.340Z,38.823001861572,-122.8056640625,2.2200000286102,0.88,md,17,42,0.003467,0.04,nc,nc75217737,2025-08-01T02:55:49.994Z,"7 km NNW of The Geysers, CA",earthquake,0.3,0.600000024,0.24,19,automatic,nc,nc
 2025-08-01T02:48:56.267Z,51.0516,158.7369,35,5.1,mb,77,116,1.976,1.34,us,us6000qx6r,2025-08-01T03:09:14.040Z,"163 km ESE of Ozernovskiy, Russia",earthquake,4.55,1.861,0.026,486,reviewed,us,us
 2025-08-01T02:47:51.020Z,37.788501739502,-122.09283447266,10.439999580383,2.01,md,57,55,0.0552,0.11,nc,nc75217732,2025-08-01T02:57:40.944Z,"6 km SSE of Moraga, CA",earthquake,0.16,0.360000014,0.13,41,automatic,nc,nc
@@ -213,7 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T16:36:50.790Z,34.1423333,-117.4101667,5.76,3.09,ml,143,20,0.04881,0.22,ci,ci41249512,2025-08-01T06:39:07.200Z,"5 km NW of Rialto, CA",earthquake,0.11,0.38,0.146,297,reviewed,ci,ci
 2025-07-31T16:36:19.980Z,65.4485,-148.2126,10.9,0.9,ml,,,,0.3,ak,ak0259qvo9ou,2025-07-31T16:38:12.907Z,"17 km ESE of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-07-31T16:35:25.794Z,60.3454,-152.1122,91.7,1.4,ml,,,,0.36,ak,ak0259qvo2f7,2025-07-31T16:37:08.682Z,"41 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-07-31T16:32:24.200Z,34.148,-117.4143333,5.26,4.34,mw,159,16,0.0458,0.23,ci,ci41249496,2025-08-01T07:48:20.367Z,"6 km NW of Rialto, CA",earthquake,0.12,0.31,,6,reviewed,ci,ci
+2025-07-31T16:32:24.200Z,34.148,-117.4143333,5.26,4.34,mw,159,16,0.0458,0.23,ci,ci41249496,2025-08-01T08:14:17.824Z,"6 km NW of Rialto, CA",earthquake,0.12,0.31,,6,reviewed,ci,ci
 2025-07-31T16:28:23.990Z,38.838500976562,-122.81283569336,2.0099999904633,0.78,md,15,58,0.01524,0.02,nc,nc75217507,2025-07-31T16:31:02.995Z,"8 km WNW of Cobb, CA",earthquake,0.27,0.639999986,0.3,16,automatic,nc,nc
 2025-07-31T16:26:47.250Z,51.9005,-178.15516666667,5.38,0.4,ml,5,242,0.02459,0.29,av,av93047649,2025-08-01T01:31:14.920Z,"104 km W of Adak, Alaska",earthquake,1.41,1.34,0.19181652044246,5,reviewed,av,av
 2025-07-31T16:24:45.187Z,63.7635,-150.6377,0.8,1.2,ml,,,,0.89,ak,ak0259qvlr1i,2025-07-31T16:26:59.230Z,"59 km ENE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -323,12 +326,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-31T08:59:40.680Z,60.019166666667,-153.12983333333,-2.96,-0.75,ml,6,164,0.03664,0.29,av,av93696388,2025-07-31T23:20:11.820Z,"60 km ENE of Pedro Bay, Alaska",earthquake,0.71,3.32,0.13354437903353,6,reviewed,av,av
 2025-07-31T08:45:20.510Z,33.9243333,-116.0846667,0.5,1.2,ml,40,43,0.07379,0.2,ci,ci41249200,2025-07-31T16:06:40.554Z,"24 km S of Twentynine Palms, CA",earthquake,0.19,0.42,0.119,14,reviewed,ci,ci
 2025-07-31T08:42:49.860Z,38.841167449951,-122.80982971191,1.7300000190735,0.96,md,13,51,0.01546,0.02,nc,nc75217342,2025-07-31T08:44:27.261Z,"8 km WNW of Cobb, CA",earthquake,0.28,0.75999999,0.07,13,automatic,nc,nc
-2025-07-31T08:21:59.482Z,64.0563,-148.2096,113.2,1,ml,,,,0.45,ak,ak0259qqto5o,2025-07-31T08:24:49.193Z,"43 km ENE of Healy, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-07-31T08:21:37.579Z,31.637,-104.231,1.9086,1.5,ml,37,66,0,0.2,tx,tx2025oxyvyx,2025-07-31T09:22:16.198Z,"54 km NW of Toyah, Texas",earthquake,0.37194915092345,0.56397544849926,0.2,20,reviewed,tx,tx
-2025-07-31T08:18:36.686Z,-5.4288,146.0565,59.026,4.6,mb,33,136,3.608,0.54,us,us6000qwvk,2025-07-31T09:28:57.040Z,"37 km SE of Madang, Papua New Guinea",earthquake,11.03,7.853,0.066,68,reviewed,us,us
-2025-07-31T08:17:06.194Z,32.101,-102.121,7.251,0.8,ml,15,72,0,0.2,tx,tx2025oxyrvt,2025-07-31T11:09:55.015Z,"12 km NNW of Midland, Texas",earthquake,0.75250273316015,0.79144026178932,0.2,8,reviewed,tx,tx
-2025-07-31T08:14:45.970Z,39.515666666667,-111.90533333333,4.18,1.15,ml,13,73,0.3824,0.27,uu,uu80004283,2025-07-31T16:34:38.010Z,"6 km SW of Levan, Utah",earthquake,0.7,2.78,0.20072900224851,3,reviewed,uu,uu
-2025-07-31T08:13:34.411Z,61.1361,-141.0982,11.8,1.4,ml,,,,0.91,ak,ak0259qqrwht,2025-07-31T08:15:21.748Z,"103 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-07-31T08:10:31.730Z,61.287,-152.22066666667,12.27,-0.05,ml,6,130,0.02663,0.22,av,av93696348,2025-08-01T01:27:13.580Z,"63 km WNW of Tyonek, Alaska",earthquake,1.5,1.34,0.19578484060268,6,reviewed,av,av
-2025-07-31T08:09:45.034Z,31.629,-104.302,6.5613,0.9,ml,19,68,0.1,0.1,tx,tx2025oxylta,2025-07-31T14:11:08.008Z,"59 km NW of Toyah, Texas",earthquake,0.86990966675228,0.96901751168984,0.1,14,reviewed,tx,tx
-2025-07-31T08:09:14.710Z,35.9706667,-117.4888333,6.43,1.17,ml,30,45,0.08714,0.16,ci,ci41249192,2025-07-31T13:01:54.687Z,"24 km NNW of Searles Valley, CA",earthquake,0.19,0.5,0.175,22,reviewed,ci,ci
