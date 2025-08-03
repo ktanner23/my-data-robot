@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-03T06:39:55.940Z,36.0750008,-117.8646698,1.42,1.83,ml,20,72,0.04323,0.12,ci,ci41251872,2025-08-03T06:41:58.488Z,"8 km ENE of Coso Junction, CA",earthquake,0.27,0.38,0.178,23,automatic,ci,ci
+2025-08-03T06:39:56.070Z,36.0688333,-117.8656667,2,1.7,ml,33,41,0.04943,0.13,ci,ci41251872,2025-08-03T06:43:37.786Z,"8 km ENE of Coso Junction, CA",earthquake,0.13,0.18,0.227,26,automatic,ci,ci
 2025-08-03T06:32:30.340Z,38.799331665039,-122.80449676514,1.2300000190735,0.79,md,13,95,0.01122,0.03,nc,nc75218532,2025-08-03T06:34:04.781Z,"5 km NW of The Geysers, CA",earthquake,0.25,0.689999998,0.25,15,automatic,nc,nc
 2025-08-03T06:27:16.479Z,60.9562,-152.3242,111.8,1.3,ml,,,,0.06,ak,ak0259voa1en,2025-08-03T06:28:29.034Z,"63 km WNW of Nikiski, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2025-08-03T06:20:26.923Z,31.685,-104.35,4.2775,1.9,ml,30,84,0.1,0.5,tx,tx2025pdiadk,2025-08-03T06:24:25.698Z,"54 km S of Whites City, New Mexico",earthquake,0,1.0150173902512,0.2,21,automatic,tx,tx
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T02:37:25.030Z,18.024166666667,-66.7555,11.56,2.25,md,7,163,0.1191,0.15,pr,pr71491378,2025-08-03T02:47:39.240Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.61,1.42,0.035349060527106,3,reviewed,pr,pr
 2025-08-03T02:37:18.330Z,38.814498901367,-122.79299926758,15.970000267029,1.33,md,6,187,0.006765,0.05,nc,nc75218492,2025-08-03T02:38:49.847Z,"5 km NNW of The Geysers, CA",earthquake,3.02,8.69999981,,1,automatic,nc,nc
 2025-08-03T02:26:17.590Z,-55.5058,-127.7568,10,5.2,mb,30,65,32.408,1.05,us,us6000qxsd,2025-08-03T02:58:30.040Z,"Pacific-Antarctic Ridge",earthquake,15.32,1.172,0.106,29,reviewed,us,us
-2025-08-03T02:18:52.441Z,40.8648,-74.0727,10,3,mb_lg,30,113,0.142,0.39,us,us6000qxsb,2025-08-03T06:37:53.511Z,"0 km NE of Hasbrouck Heights, New Jersey",earthquake,2.26,1.967,0.059,74,reviewed,us,us
+2025-08-03T02:18:52.441Z,40.8648,-74.0727,10,3,mb_lg,30,113,0.142,0.39,us,us6000qxsb,2025-08-03T06:53:25.320Z,"0 km NE of Hasbrouck Heights, New Jersey",earthquake,2.26,1.967,0.059,74,reviewed,us,us
 2025-08-03T02:07:41.880Z,35.8488333,-117.68,9.75,0.8,ml,16,70,0.07472,0.11,ci,ci41251832,2025-08-03T02:11:11.808Z,"23 km ESE of Little Lake, CA",earthquake,0.22,0.44,0.206,13,automatic,ci,ci
 2025-08-03T02:06:50.482Z,36.3908,-115.6122,0.1,1.3,ml,15,316.62,0.391,0.4187,nn,nn00901997,2025-08-03T02:09:23.395Z,"15 km N of Mount Charleston, Nevada",earthquake,,39.2,0.2,11,automatic,nn,nn
 2025-08-03T02:05:59.703Z,34.25,-113.4322,10,2.5,ml,27,36,0.327,0.84,us,us6000qxs8,2025-08-03T04:30:51.152Z,"41 km NW of Aguila, Arizona",earthquake,2.09,2.008,0.04,84,reviewed,us,us
@@ -230,7 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-02T06:58:47.925Z,60.3601,-141.3052,9.9,1.5,ml,,,,0.54,ak,ak0259u0xejc,2025-08-02T07:00:55.462Z,"126 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-02T06:57:28.922Z,60.6047,-147.024,21.6,1.8,ml,,,,0.75,ak,ak0259u0x5cs,2025-08-02T06:59:38.698Z,"34 km SSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-02T06:57:23.340Z,38.814498901367,-122.81983184815,2.7300000190735,1.31,md,26,51,0.009216,0.03,nc,nc75218197,2025-08-02T06:58:57.438Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.430000007,0.07,26,automatic,nc,nc
-2025-08-02T06:50:14.858Z,50.4365,159.9923,10,4.3,mb,39,134,2.722,0.69,us,us6000qxli,2025-08-02T08:28:17.040Z,"272 km ESE of Ozernovskiy, Russia",earthquake,10.21,1.94,0.099,29,reviewed,us,us
-2025-08-02T06:48:12.806Z,-29.0511,-71.5778,10.683,4.6,mb,18,147,0.769,0.88,us,us6000qxlg,2025-08-02T08:27:06.040Z,"95 km WSW of Vallenar, Chile",earthquake,3.6,2.63,0.136,16,reviewed,us,us
-2025-08-02T06:47:52.772Z,63.5988,-149.9673,23.4,1.6,ml,,,,1.09,ak,ak0259u0v219,2025-08-02T06:50:18.740Z,"54 km WSW of Denali Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-08-02T06:43:04.550Z,38.792,-122.75766666667,1.02,0.45,md,22,79,0.008759,0.02,nc,nc75218192,2025-08-02T23:38:46.160Z,"2 km N of The Geysers, CA",earthquake,0.17,0.27,0.246,17,reviewed,nc,nc
