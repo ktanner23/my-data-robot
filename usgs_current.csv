@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-04T11:12:42.730Z,32.5895,-117.2898333,15.16,1.25,ml,19,187,0.1771,0.13,ci,ci41252568,2025-08-04T11:16:08.902Z,"15 km SW of Coronado, CA",earthquake,0.36,0.64,0.166,11,automatic,ci,ci
+2025-08-04T11:06:40.250Z,38.826667785645,-122.80149841309,2.079999923706,1.53,md,32,31,0.007453,0.02,nc,nc75218977,2025-08-04T11:10:08.280Z,"7 km NNW of The Geysers, CA",earthquake,0.19,0.310000002,0.18,32,automatic,nc,nc
 2025-08-04T11:02:28.992Z,62.1552,-148.4292,38.9,1.1,ml,,,,0.32,ak,ak0259xen7zn,2025-08-04T11:03:55.106Z,"39 km N of Chickaloon, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-08-04T11:00:04.639Z,63.5629,-147.2949,0,1.5,ml,,,,0.68,ak,ak0259xemqof,2025-08-04T11:01:46.181Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-04T10:57:58.920Z,33.4265,-116.3866667,10.64,0.53,ml,36,92,0.09082,0.22,ci,ci41252560,2025-08-04T11:03:13.804Z,"19 km N of Borrego Springs, CA",earthquake,0.26,0.53,0.126,11,automatic,ci,ci
@@ -77,6 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-04T02:42:46.120Z,17.951166666667,-66.9535,13.55,2.32,md,15,208,0.07455,0.09,pr,pr71491508,2025-08-04T03:13:41.420Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.38,0.2,0.032265295070968,3,reviewed,pr,pr
 2025-08-04T02:20:43.817Z,59.4227,-155.7998,0.8,1.6,ml,,,,1.47,ak,ak0259x9e7kt,2025-08-04T02:22:51.722Z,"11 km NNE of Igiugig, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-04T02:20:23.430Z,33.8776667,-117.1828333,15.47,1.01,ml,12,93,0.07004,0.25,ci,ci41252400,2025-08-04T02:24:22.358Z,"7 km SE of Moreno Valley, CA",earthquake,0.97,2.69,0.248,31,automatic,ci,ci
+2025-08-04T01:56:22.909Z,31.654,-104.253,7.1765,1.4,ml,37,85,0,0.2,tx,tx2025peuzmn,2025-08-04T11:07:21.879Z,"57 km NW of Toyah, Texas",earthquake,0.65621708678762,0.65882639579225,0.2,17,reviewed,tx,tx
 2025-08-04T01:54:11.800Z,46.6575,-122.3015,16.17,1.16,ml,22,127,0.132,0.14,uw,uw62165451,2025-08-04T04:35:00.870Z,"11 km N of Morton, Washington",earthquake,0.37,0.73,0.17812205378047,9,reviewed,uw,uw
 2025-08-04T01:46:05.610Z,38.782665252685,-122.74416351318,0.68999999761581,1.25,md,21,78,0.005842,0.06,nc,nc75218807,2025-08-04T01:47:45.859Z,"1 km ENE of The Geysers, CA",earthquake,0.23,0.419999987,0.2,22,automatic,nc,nc
 2025-08-04T01:41:44.650Z,38.801498413086,-122.78199768066,2.9100000858307,0.79,md,19,74,0.009509,0.02,nc,nc75218802,2025-08-04T01:47:43.103Z,"3 km NNW of The Geysers, CA",earthquake,0.31,0.600000024,0.13,19,automatic,nc,nc
@@ -225,9 +228,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T11:49:26.850Z,33.471,-116.4631667,2.91,0.92,ml,60,30,0.1186,0.21,ci,ci41252008,2025-08-03T13:28:23.117Z,"22 km ESE of Anza, CA",earthquake,0.16,0.79,0.163,26,reviewed,ci,ci
 2025-08-03T11:47:35.680Z,34.147,-117.4191667,5.69,1.47,ml,103,20,0.046,0.21,ci,ci41252000,2025-08-03T11:58:31.820Z,"6 km NW of Rialto, CA",earthquake,0.13,0.38,0.138,26,automatic,ci,ci
 2025-08-03T11:42:52.813Z,-9.1953,-71.3286,486.711,5,mb,117,61,1.993,0.93,us,us6000qxuq,2025-08-03T21:56:18.328Z,"130 km SSW of Tarauacá, Brazil",earthquake,9.87,6.587,0.02,793,reviewed,us,us
+2025-08-03T11:36:27.622Z,31.463,-103.989,1.8958,1.5,ml,27,74,0.1,0.2,tx,tx2025pdsmkj,2025-08-04T11:14:30.929Z,"24 km NW of Toyah, Texas",earthquake,0.66361688103146,0.70561598552659,0.2,15,reviewed,tx,tx
 2025-08-03T11:33:32.770Z,36.1246667,-118.261,12.9,1.17,ml,29,71,0.05032,0.17,ci,ci41251992,2025-08-03T13:29:25.366Z,"29 km SW of Olancha, CA",earthquake,0.22,0.6,0.244,19,reviewed,ci,ci
 2025-08-03T11:17:27.590Z,33.1586667,-116.4401667,6.49,0.39,ml,32,111,0.08116,0.2,ci,ci41251984,2025-08-03T13:29:32.912Z,"12 km SSW of Borrego Springs, CA",earthquake,0.3,0.71,0.08,9,reviewed,ci,ci
-2025-08-03T11:16:13.334Z,32.411,-102.023,8.7158,2.1,ml,45,37,0.1,0.1,tx,tx2025pdrvbd,2025-08-04T06:51:20.147Z,"31 km WSW of Ackerly, Texas",earthquake,0.28922837113939,0.51543397605813,0.2,27,reviewed,tx,tx
-2025-08-03T11:15:19.160Z,33.2765,-116.8586667,11.18,0.66,ml,44,30,0.07698,0.14,ci,ci41251976,2025-08-03T13:30:02.800Z,"9 km S of Palomar Observatory, CA",earthquake,0.13,0.35,0.13,17,reviewed,ci,ci
-2025-08-03T11:14:51.190Z,36.153833333333,-91.370166666667,14.62,1.69,md,10,130,0.194,0.15,nm,nm60503853,2025-08-03T13:29:42.600Z,"10 km NW of Smithville, Arkansas",earthquake,0.42,0.75,0.12213976131938,8,reviewed,nm,nm
-2025-08-03T11:10:39.679Z,50.3801,158.5647,10,4.3,mb,47,170,2.648,0.67,us,us6000qxuk,2025-08-03T11:35:48.040Z,"175 km ESE of Severo-Kuril’sk, Russia",earthquake,11.6,1.955,0.063,71,reviewed,us,us
