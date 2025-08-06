@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T19:00:23.688Z,60.374,-150.6658,32.9,1.6,ml,,,,0.66,ak,ak025a0ugxz4,2025-08-06T19:03:34.329Z,"15 km SSE of Funny River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-06T18:53:27.360Z,33.2713333,-116.4173333,4.47,0.52,ml,23,75,0.003128,0.18,ci,ci41255016,2025-08-06T19:44:33.183Z,"4 km WNW of Borrego Springs, CA",earthquake,0.22,0.34,0.103,11,reviewed,ci,ci
 2025-08-06T18:48:50.940Z,17.929166666667,-66.912666666667,11.61,1.71,md,7,244,0.04297,0.09,pr,pr71491798,2025-08-06T19:11:56.960Z,"4 km S of Guánica, Puerto Rico",earthquake,0.88,0.26,0.0077267896059084,2,reviewed,pr,pr
-2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T21:35:50.054Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-08-06T18:38:57.240Z,62.4466,-151.2159,84.4,4.6,ml,,,,0.83,ak,ak025a0u3q2q,2025-08-06T21:52:35.865Z,"23 km WSW of Petersville, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-08-06T18:38:36.403Z,29.7198,138.4394,487.37,4.3,mb,37,160,5.577,0.54,us,us6000qypv,2025-08-06T19:06:16.040Z,"Izu Islands, Japan region",earthquake,14.73,11.184,0.106,25,reviewed,us,us
 2025-08-06T18:35:28.960Z,35.0598333,-118.3385,4.03,1.32,ml,34,33,0.06912,0.25,ci,ci41254984,2025-08-06T19:44:50.157Z,"13 km SE of Tehachapi, CA",quarry blast,0.27,1,0.166,28,automatic,ci,ci
 2025-08-06T18:31:38.340Z,36.330833333333,-89.474666666667,6.72,1.61,md,16,64,0.03446,0.06,nm,nm60612516,2025-08-06T21:15:56.289Z,"5 km S of Tiptonville, Tennessee",earthquake,0.24,0.53,0.055324303819798,12,reviewed,nm,nm
@@ -204,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T02:10:31.890Z,19.176166534424,-155.48616027832,30.840000152588,2.76999998,md,58,150,0.03071,0.140000001,hv,hv74744192,2025-08-06T02:19:34.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.46,0.620000005,0.180000007,16,automatic,hv,hv
 2025-08-06T02:09:50.470Z,61.8747,-150.9358,8.2,1.9,ml,,,,0.51,ak,ak025a0kek7b,2025-08-06T02:11:53.202Z,"27 km ESE of Skwentna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-06T02:09:43.188Z,32.129,-101.637,7.251,0.7,ml,9,89,0,0.1,tx,tx2025pimwtw,2025-08-06T14:09:10.135Z,"14 km E of Stanton, Texas",earthquake,0.87181483361024,0.97667632119401,0.2,6,reviewed,tx,tx
-2025-08-06T02:09:38.910Z,33.0031667,-116.4546667,9.27,0.9,ml,35,45,0.04845,0.17,ci,ci41254224,2025-08-06T02:13:07.871Z,"16 km ESE of Julian, CA",earthquake,0.18,0.43,0.172,20,automatic,ci,ci
+2025-08-06T02:09:38.850Z,33.0041667,-116.4553333,9.23,0.8,ml,30,44,0.04952,0.18,ci,ci41254224,2025-08-06T21:50:38.184Z,"16 km ESE of Julian, CA",earthquake,0.22,0.49,0.177,18,reviewed,ci,ci
 2025-08-06T02:09:25.550Z,53.9495,-166.5355,9.78,0.1,ml,10,133,0.08812,0.22,av,av93704083,2025-08-06T19:36:35.220Z,"6 km N of Dutch Harbor, Alaska",earthquake,0.59,0.63,0.29098073994719,10,reviewed,av,av
 2025-08-06T02:08:16.600Z,35.9863333,-117.3433333,1.38,1.34,ml,27,71,0.1069,0.17,ci,ci41254216,2025-08-06T16:54:25.849Z,"25 km N of Trona, CA",earthquake,0.24,0.39,0.174,16,reviewed,ci,ci
 2025-08-06T02:06:28.710Z,44.7685,-110.92466666667,7.66,0.91,md,15,104,0.05877,0.15,uu,uu80113351,2025-08-06T13:36:24.310Z,"18 km NE of West Yellowstone, Montana",earthquake,0.36,0.68,0.2542648195149,8,reviewed,uu,uu
@@ -214,6 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-06T01:32:54.470Z,38.832164764404,-122.797996521,2.1600000858307,0.76,md,19,43,0.008637,0.01,nc,nc75219802,2025-08-06T01:34:31.056Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.49000001,0.11,19,automatic,nc,nc
 2025-08-06T01:32:53.100Z,19.163499832153,-155.49000549316,31.579999923706,1.79,ml,43,116,0.02757,0.140000001,hv,hv74744172,2025-08-06T01:36:19.090Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.63,0.74000001,0.94,3,automatic,hv,hv
 2025-08-06T01:24:12.450Z,31.658,-104.428,6.0999,1.8,ml,30,57,0,0.2,tx,tx2025piljcq,2025-08-06T08:22:04.252Z,"57 km S of Whites City, New Mexico",earthquake,1.0167063474889,0.48455167941321,0.2,14,reviewed,tx,tx
+2025-08-06T01:21:30.930Z,45.022833333333,-114.2475,8.4,1.4,ml,15,79,0.4355,0.12,mb,mb90106033,2025-08-06T21:47:24.000Z,"32 km WSW of Salmon, Idaho",earthquake,0.33,1.28,0.13166080210137,19,reviewed,mb,mb
 2025-08-06T01:20:35.444Z,28.852,-98.973,7.6359,1.7,ml,20,84,0.1,0.4,tx,tx2025pilgmf,2025-08-06T11:53:28.878Z,"12 km ESE of Pearsall, Texas",earthquake,1.9646543004327,1.058033312429,0.1,7,reviewed,tx,tx
 2025-08-06T01:19:34.258Z,61.9025,-150.9139,6.9,3,ml,,,,0.95,ak,ak025a0jv8hy,2025-08-06T06:31:45.270Z,"27 km ESE of Skwentna, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-08-06T01:14:28.890Z,38.821666717529,-122.80533599853,6.9899997711182,0.92,md,10,70,0.004084,0.12,nc,nc75219797,2025-08-06T01:16:05.803Z,"7 km NNW of The Geysers, CA",earthquake,1,1.21000004,0.31,10,automatic,nc,nc
@@ -256,5 +257,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-05T21:59:56.340Z,28.654,-98.235,10.1256,2.2,ml,12,78,0,0.1,tx,tx2025piepnt,2025-08-05T23:36:45.975Z,"22 km NNW of Three Rivers, Texas",earthquake,0.82495201911622,1.5672096360211,0.1,13,reviewed,tx,tx
 2025-08-05T21:58:11.260Z,34.857,-118.9683333,6.66,1.23,ml,23,109,0.06931,0.16,ci,ci41254048,2025-08-06T16:37:48.205Z,"4 km NNW of Frazier Park, CA",earthquake,0.23,0.6,0.173,15,reviewed,ci,ci
 2025-08-05T21:55:05.375Z,57.0526,-155.0921,39.4,2.2,ml,,,,0.36,ak,ak0259z8g7nt,2025-08-05T21:57:19.205Z,"57 km WNW of Akhiok, Alaska",earthquake,,8.9,,,automatic,ak,ak
-2025-08-05T21:51:21.890Z,34.2881667,-116.8736667,7.86,0.58,ml,8,135,0.04675,0.13,ci,ci41254040,2025-08-06T19:00:56.701Z,"4 km NW of Big Bear City, CA",earthquake,0.6,0.47,0.051,3,reviewed,ci,ci
-2025-08-05T21:45:41.345Z,52.3709,160.4836,10,5.2,mb,72,79,1.293,0.61,us,us6000qyf1,2025-08-06T01:41:48.040Z,"147 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.3,1.88,0.069,70,reviewed,us,us
