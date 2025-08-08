@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-08T09:59:56.596Z,60.5309,-152.0506,95.7,1.6,ml,,,,0.23,ak,ak025a3zy0p7,2025-08-08T10:01:42.407Z,"41 km WSW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2025-08-08T09:56:37.190Z,33.2988333,-116.1626667,2.36,1.4,ml,68,36,0.1306,0.22,ci,ci41256232,2025-08-08T10:00:00.201Z,"18 km N of Ocotillo Wells, CA",earthquake,0.15,0.4,0.205,7,automatic,ci,ci
+2025-08-08T09:52:16.174Z,65.5212,-152.9316,0,1.5,ml,,,,1.47,ak,ak025a3zwfkh,2025-08-08T09:54:07.678Z,"55 km NW of Tanana, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-08T09:41:34.640Z,19.16233253479,-155.47933959961,30.319999694824,1.99000001,md,57,112,0.01768,0.109999999,hv,hv74746147,2025-08-08T09:45:02.940Z,"4 km S of Pāhala, Hawaii",earthquake,0.45,0.5,0.170000002,5,automatic,hv,hv
 2025-08-08T09:38:48.890Z,19.405834197998,-155.28083801269,-0.40000000596046,1.7,ml,12,77,0.01216,0.25,hv,hv74746137,2025-08-08T09:41:44.960Z,"6 km SW of Volcano, Hawaii",earthquake,0.27,0.49000001,0.21,16,automatic,hv,hv
 2025-08-08T09:21:34.985Z,59.5269,-153.0064,76.3,1.8,ml,,,,0.51,ak,ak025a3zpttm,2025-08-08T09:23:52.768Z,"64 km WNW of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -28,6 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T06:43:03.054Z,60.2699,-152.3363,96.2,2,ml,,,,0.28,ak,ak025a3y26ap,2025-08-08T06:45:35.670Z,"44 km WNW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-08-08T06:42:30.163Z,32.405,-102.044,8.96,1.8,ml,53,65,0,0.1,tx,tx2025pmnjpd,2025-08-08T07:51:01.418Z,"33 km WSW of Ackerly, Texas",earthquake,0.25858865601617,0.42393086139514,0.2,37,reviewed,tx,tx
 2025-08-08T06:37:52.745Z,32.403,-102.044,7.6904,1.3,ml,36,64,0,0.2,tx,tx2025pmnfpp,2025-08-08T08:40:18.766Z,"33 km WSW of Ackerly, Texas",earthquake,0.32999054061387,0.6128960598375,0.2,16,reviewed,tx,tx
+2025-08-08T06:27:37.492Z,32.403,-102.044,7.3486,0.8,ml,21,80,0,0.2,tx,tx2025pmmwrh,2025-08-08T10:02:03.774Z,"33 km WSW of Ackerly, Texas",earthquake,0.44317525246452,0.78047825343413,0.1,12,reviewed,tx,tx
 2025-08-08T06:22:31.337Z,32.405,-102.044,8.6182,1.4,ml,35,65,0,0.1,tx,tx2025pmmsbs,2025-08-08T08:22:02.650Z,"33 km WSW of Ackerly, Texas",earthquake,0.34022499910569,0.59307975050745,0.2,16,reviewed,tx,tx
 2025-08-08T06:18:12.010Z,18.017666666667,-66.839333333333,16.61,2.3,md,16,135,0.01796,0.28,pr,pr71492098,2025-08-08T06:30:12.850Z,"2 km SSE of Yauco, Puerto Rico",earthquake,0.56,0.77,0.15649733004787,5,reviewed,pr,pr
 2025-08-08T06:17:38.538Z,61.7199,-146.4843,24.3,1.9,ml,,,,0.5,ak,ak025a3xwof1,2025-08-08T06:19:28.355Z,"33 km SSE of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -240,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T10:31:25.860Z,31.714,-104.168,5.946,2,ml,37,78,0,0.2,tx,tx2025pkzfyj,2025-08-07T11:08:27.660Z,"53 km W of Mentone, Texas",earthquake,0.51906343346516,0.87081925985964,0.1,23,reviewed,tx,tx
 2025-08-07T10:29:38.330Z,61.148666666667,-152.3125,2.51,-0.44,ml,6,270,0.04894,0.11,av,av93047934,2025-08-07T23:21:17.240Z,"64 km W of Tyonek, Alaska",earthquake,0.69,0.54,0.13446489376029,6,reviewed,av,av
 2025-08-07T10:26:05.890Z,61.145333333333,-152.32733333333,3.92,1.22,ml,16,113,0.05081,0.21,av,av93706763,2025-08-07T23:15:59.690Z,"64 km W of Tyonek, Alaska",earthquake,0.36,0.35,0.18731601023298,17,reviewed,av,av
-2025-08-07T10:02:51.930Z,33.5191667,-116.519,13.09,0.57,ml,23,71,0.07367,0.1,ci,ci41255368,2025-08-07T12:42:55.311Z,"15 km ESE of Anza, CA",earthquake,0.18,0.32,0.207,9,reviewed,ci,ci
-2025-08-07T10:00:43.590Z,61.310333333333,-152.49116666667,3.05,-0.17,ml,9,118,0.04942,0.08,av,av93706738,2025-08-07T23:10:02.890Z,"77 km WNW of Tyonek, Alaska",earthquake,0.37,0.39,0.25915142105546,10,reviewed,av,av
