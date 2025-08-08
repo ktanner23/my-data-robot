@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-08T22:43:27.314Z,31.207,-103.472,11.2184,1.6,ml,5,125,0.1,0.2,tx,tx2025pntfqx,2025-08-08T22:47:41.498Z,"19 km SSE of Lindsay, Texas",earthquake,0,7.0219883918762,0.3,5,automatic,tx,tx
 2025-08-08T22:33:39.700Z,38.830501556396,-122.81449890137,1.6399999856949,1.05,md,13,62,0.01765,0.02,nc,nc75220887,2025-08-08T22:35:18.043Z,"8 km NNW of The Geysers, CA",earthquake,0.27,0.600000024,0.18,12,automatic,nc,nc
-2025-08-08T22:18:32.328Z,9.5103,40.1191,10,4.6,mb,42,256,3.35,0.95,us,us6000qz8q,2025-08-08T22:47:19.734Z,"54 km SE of Debre Sīna, Ethiopia",earthquake,12.44,1.995,0.083,43,reviewed,us,us
+2025-08-08T22:18:32.328Z,9.5103,40.1191,10,4.6,mb,42,256,3.35,0.95,us,us6000qz8q,2025-08-08T22:55:34.758Z,"54 km SE of Debre Sīna, Ethiopia",earthquake,12.44,1.995,0.083,43,reviewed,us,us
 2025-08-08T22:11:33.840Z,34.0621667,-117.2523333,13.25,1.13,ml,46,33,0.1192,0.18,ci,ci41256824,2025-08-08T22:15:29.213Z,"2 km NNE of Loma Linda, CA",earthquake,0.18,0.44,0.247,31,automatic,ci,ci
 2025-08-08T21:54:32.590Z,38.724666595459,-122.9178314209,7.0500001907349,1.07,md,7,164,0.08719,0.05,nc,nc75220877,2025-08-08T21:56:07.753Z,"12 km SSE of Cloverdale, CA",earthquake,2.88,1.96000004,0.26,7,automatic,nc,nc
 2025-08-08T21:45:49.250Z,36.0255,-117.7718333,1.13,0.84,ml,17,51,0.005336,0.13,ci,ci41256816,2025-08-08T21:52:22.056Z,"16 km NE of Little Lake, CA",earthquake,0.18,0.2,0.086,14,automatic,ci,ci
@@ -89,6 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-08T13:04:58.560Z,35.254666666667,-84.2945,12.45,2.21,md,14,98,0.1493,0.07,se,se60612646,2025-08-08T17:37:55.483Z,"12 km S of Tellico Plains, Tennessee",earthquake,0.3,0.98,0.064145921843877,11,reviewed,se,se
 2025-08-08T13:02:56.113Z,62.2069,-150.1433,9.8,1.6,ml,,,,0.36,ak,ak025a41zj9n,2025-08-08T13:04:28.838Z,"13 km SSE of Trapper Creek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-08T12:52:06.414Z,31.696,-104.496,7.0227,1.2,ml,16,78,0,0.1,tx,tx2025pmzpyi,2025-08-08T20:20:55.098Z,"54 km SSW of Whites City, New Mexico",earthquake,0.9078361465749,0.59413727444825,0.2,12,reviewed,tx,tx
+2025-08-08T12:51:03.200Z,61.332166666667,-152.127,-3.16,-0.43,ml,10,122,0.06489,0.28,av,av93708063,2025-08-08T22:56:04.350Z,"59 km WNW of Beluga, Alaska",earthquake,0.84,4.74,0.12817056883201,9,reviewed,av,av
 2025-08-08T12:50:13.740Z,35.922166666667,-91.334666666667,18.93,1.79,md,7,168,0.1991,0.15,nm,nm60503878,2025-08-08T14:05:58.020Z,"5 km SSW of Strawberry, Arkansas",earthquake,0.51,0.59,0.094127745224888,7,reviewed,nm,nm
 2025-08-08T12:44:49.354Z,51.8794,160.3927,10,4.4,mb,36,128,1.565,0.95,us,us6000qz2x,2025-08-08T13:12:01.040Z,"178 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.76,1.921,0.098,30,reviewed,us,us
 2025-08-08T12:42:05.596Z,51.3091,159.3892,10,4.7,mb,27,217,1.776,0.71,us,us6000qz2w,2025-08-08T13:02:56.040Z,"192 km SSE of Vilyuchinsk, Russia",earthquake,10.95,1.959,0.108,26,reviewed,us,us
@@ -274,6 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-07T23:04:29.170Z,36.021,-117.781,1.88,1.98,ml,36,32,0.01343,0.15,ci,ci41255968,2025-08-07T23:38:07.798Z,"15 km NE of Little Lake, CA",earthquake,0.12,0.14,0.181,25,reviewed,ci,ci
 2025-08-07T23:01:46.950Z,17.959,-66.814,17.94,1.81,md,5,211,0.06413,0.02,pr,pr71492008,2025-08-07T23:41:13.030Z,"3 km S of Indios, Puerto Rico",earthquake,1.1,0.41,0.074636449825425,4,reviewed,pr,pr
 2025-08-07T22:57:42.719Z,54.4629,-159.9359,32.384,3.6,ml,12,228,0.42,0.75,us,us6000qyzk,2025-08-08T06:55:35.241Z,"103 km SSE of Sand Point, Alaska",earthquake,10.13,13.144,0.074,24,reviewed,us,us
-2025-08-07T22:56:35.650Z,36.0236667,-117.7795,1.88,1.86,ml,33,50,0.01165,0.16,ci,ci41255952,2025-08-07T23:38:13.283Z,"15 km NE of Little Lake, CA",earthquake,0.14,0.15,0.189,26,reviewed,ci,ci
-2025-08-07T22:52:43.590Z,36.029,-117.778,2.2,1.26,ml,5,213,0.011,0.05,ci,ci37738236,2025-08-08T17:26:02.152Z,"15 km E of Coso Junction, CA",earthquake,0.25,0.31,0.052,6,reviewed,ci,ci
-2025-08-07T22:52:32.370Z,36.022,-117.7766667,2.33,1.97,ml,29,41,0.009786,0.11,ci,ci41255944,2025-08-08T17:20:33.124Z,"15 km NE of Little Lake, CA",earthquake,0.12,0.1,0.146,25,reviewed,ci,ci
