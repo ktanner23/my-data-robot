@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-11T07:48:07.260Z,33.0089989,-116.4568329,11.94,1.47,ml,15,121,0.05369,0.16,ci,ci41258256,2025-08-11T07:50:42.098Z,"16 km ESE of Julian, CA",earthquake,0.51,1.08,0.365,12,automatic,ci,ci
 2025-08-11T07:37:20.360Z,33.478,-116.5898333,10.38,0.61,ml,39,66,0.0196,0.17,ci,ci41258248,2025-08-11T07:41:03.078Z,"12 km SE of Anza, CA",earthquake,0.18,0.3,0.21,17,automatic,ci,ci
 2025-08-11T07:19:34.030Z,33.474,-116.5713333,10.82,0.35,ml,23,77,0.03304,0.13,ci,ci41258240,2025-08-11T07:23:07.953Z,"13 km SE of Anza, CA",earthquake,0.2,0.35,0.146,10,automatic,ci,ci
 2025-08-11T07:10:28.791Z,32.26,-102.034,5,1,ml,6,130,0.1,0.5,tx,tx2025psbmif,2025-08-11T07:12:17.321Z,"27 km WNW of Stanton, Texas",earthquake,0,,0.2,4,automatic,tx,tx
-2025-08-11T07:04:57.328Z,63.3101,-147.3413,218.4,1.7,ml,,,,0.56,ak,ak025a8x1en8,2025-08-11T07:08:00.416Z,"81 km E of Cantwell, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-08-11T07:02:48.770Z,36.030166625977,-120.60516357422,-0.62999999523163,1.29,md,9,121,0.03924,0.14,nc,nc75221627,2025-08-11T07:04:24.142Z,"21 km NW of Parkfield, CA",earthquake,1.46,8.02000046,0.09,2,automatic,nc,nc
 2025-08-11T06:56:37.330Z,38.826499938965,-122.80466461182,2.2400000095367,0.86,md,8,108,0.005241,0.01,nc,nc75221622,2025-08-11T06:58:15.057Z,"7 km NNW of The Geysers, CA",earthquake,0.42,0.75,0.16,8,automatic,nc,nc
 2025-08-11T06:53:04.260Z,-18.6731,-174.687,88.066,4.8,mb,54,59,4.525,0.75,us,us6000qzrh,2025-08-11T07:19:07.040Z,"74 km W of Neiafu, Tonga",earthquake,9.66,7.558,0.062,79,reviewed,us,us
@@ -26,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T04:16:44.456Z,61.1999,-150.9659,8.8,1.5,ml,,,,1.61,ak,ak025a8vbnfh,2025-08-11T04:19:11.690Z,"9 km NE of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-11T04:16:28.090Z,38.826831817627,-122.78616333008,1.8600000143051,1.03,md,14,48,0.01201,0.02,nc,nc75221597,2025-08-11T04:18:03.843Z,"5 km WNW of Cobb, CA",earthquake,0.28,0.460000008,0.3,13,automatic,nc,nc
 2025-08-11T04:10:57.512Z,-34.3658,-179.7507,35,4.7,mb,27,162,3.558,0.76,us,us6000qzr1,2025-08-11T04:39:02.040Z,"south of the Kermadec Islands",earthquake,12.4,1.954,0.117,22,reviewed,us,us
-2025-08-11T04:07:05.156Z,54.5182,-160.1175,34.548,3.6,mb,20,195,0.439,0.7,us,us6000qzqy,2025-08-11T04:28:13.040Z,"94 km SSE of Sand Point, Alaska",earthquake,5.97,9.414,0.289,3,reviewed,us,us
+2025-08-11T04:07:05.156Z,54.5182,-160.1175,34.548,3.6,mb,20,195,0.439,0.7,us,us6000qzqy,2025-08-11T07:47:28.518Z,"94 km SSE of Sand Point, Alaska",earthquake,5.97,9.414,0.289,3,reviewed,us,us
 2025-08-11T03:59:42.670Z,19.139999389648,-155.49884033203,22.799999237061,2.34,ml,14,233,0.1523,0.129999995,hv,hv74749187,2025-08-11T04:02:46.770Z,"7 km SSW of Pāhala, Hawaii",earthquake,1.25,2.21000004,0.24,6,automatic,hv,hv
 2025-08-11T03:58:30.730Z,35.7218333,-117.5746667,8.12,0.91,ml,30,48,0.09553,0.18,ci,ci41258144,2025-08-11T04:02:08.575Z,"14 km NE of Ridgecrest, CA",earthquake,0.2,0.66,0.195,17,automatic,ci,ci
 2025-08-11T03:41:42.892Z,31.675,-104.347,8.5795,1.7,ml,21,86,0.1,0.5,tx,tx2025pruolp,2025-08-11T04:00:41.441Z,"55 km S of Whites City, New Mexico",earthquake,0,2.513843536377,0.2,14,automatic,tx,tx
@@ -173,5 +173,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T08:18:53.735Z,61.2477,-147.061,17.3,1.1,ml,,,,0.2,ak,ak025a7a6hi5,2025-08-10T08:20:43.559Z,"40 km WNW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-10T08:10:25.340Z,38.822166442871,-122.8424987793,1.8500000238419,1.06,md,18,102,0.005911,0.03,nc,nc75221367,2025-08-10T08:12:01.072Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.400000006,0.26,20,automatic,nc,nc
 2025-08-10T07:52:57.960Z,36.1363333,-118.0825,3.03,1.08,ml,28,59,0.1852,0.17,ci,ci41257768,2025-08-10T12:51:41.103Z,"16 km NW of Coso Junction, CA",earthquake,0.21,0.72,0.19,16,reviewed,ci,ci
-2025-08-10T07:46:10.784Z,32.542,-101.119,1.1366,1.7,ml,26,105,0.1,0.6,tx,tx2025pqgycv,2025-08-10T07:51:23.065Z,"22 km NNW of Westbrook, Texas",earthquake,0,1.1882040500641,0.1,15,automatic,tx,tx
-2025-08-10T07:46:10.563Z,32.541,-101.123,1.941,1.9,mlv,38,93,0.1,0.5,tx,tx2025pqgydf,2025-08-10T11:17:17.388Z,"23 km NNW of Westbrook, Texas",earthquake,0,0.97437024116516,0.2,22,automatic,tx,tx
