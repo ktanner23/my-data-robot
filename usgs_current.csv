@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-11T19:36:39.746Z,-26.8842,-71.1207,23.635,4.8,mwr,44,141,0.337,1,us,us6000qzvz,2025-08-11T19:54:08.040Z,"94 km NW of Copiapó, Chile",earthquake,4.63,4.732,0.043,53,reviewed,us,us
-2025-08-11T19:30:01.918Z,31.625,-104.469,3.0946,2.1,ml,29,104,0,0.3,tx,tx2025pszzpu,2025-08-11T19:33:22.539Z,"61 km S of Whites City, New Mexico",earthquake,0,1.2746102809906,0.1,20,automatic,tx,tx
+2025-08-11T19:30:01.913Z,31.625,-104.469,3.1071,2.1,ml,29,104,0,0.3,tx,tx2025pszzpu,2025-08-11T20:00:29.402Z,"61 km S of Whites City, New Mexico",earthquake,0,1.2745561599731,0.1,20,automatic,tx,tx
 2025-08-11T19:19:51.820Z,38.801166534424,-122.81632995606,2.6500000953674,1.06,md,19,77,0.01265,0.02,nc,nc75221937,2025-08-11T19:21:27.915Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.439999998,0.22,19,automatic,nc,nc
 2025-08-11T19:13:18.070Z,34.9878333,-118.195,0.17,1.55,ml,28,52,0.1122,0.2,ci,ci41258664,2025-08-11T19:26:58.243Z,"7 km SSW of Mojave, CA",earthquake,0.27,0.6,0.264,32,automatic,ci,ci
 2025-08-11T19:09:50.650Z,42.042833333333,-112.51383333333,6.58,1.91,ml,17,142,0.1045,0.15,uu,uu80113646,2025-08-11T19:43:31.490Z,"18 km ENE of Snowville, Utah",earthquake,0.37,0.73,0.10470638627309,4,reviewed,uu,uu
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T08:19:47.690Z,34.0573333,-117.1358333,10.91,1.5,ml,91,28,0.02922,0.16,ci,ci41258272,2025-08-11T12:59:29.110Z,"1 km S of Mentone, CA",earthquake,0.11,0.2,0.206,25,reviewed,ci,ci
 2025-08-11T08:10:01.160Z,60.036666666667,-152.9805,5.44,-0.24,ml,5,273,0.02796,0.13,av,av93711668,2025-08-11T17:22:11.650Z,"68 km ENE of Pedro Bay, Alaska",earthquake,1.12,0.94,0.2717379334428,5,reviewed,av,av
 2025-08-11T08:08:05.260Z,37.202833333333,-112.87733333333,16,0.77,md,6,135,0.1911,0.2,uu,uu80004433,2025-08-11T18:52:21.880Z,"10 km E of Springdale, Utah",earthquake,0.66,2.98,0.1607473301501,5,reviewed,uu,uu
-2025-08-11T08:03:01.380Z,40.429164886475,-125.24516296387,0.62000000476837,2.97,md,46,275,0.7039,0.25,nc,nc75221647,2025-08-11T08:27:16.223Z,"82 km WNW of Petrolia, CA",earthquake,2.48,17.4799995,0.12,24,automatic,nc,nc
+2025-08-11T08:03:01.380Z,40.429164886475,-125.24516296387,0.62000000476837,2.97,md,46,275,0.7039,0.25,nc,nc75221647,2025-08-11T20:07:55.815Z,"82 km WNW of Petrolia, CA",earthquake,2.48,17.4799995,0.12,24,automatic,nc,nc
 2025-08-11T07:56:18.365Z,32.462,-102.027,7.8857,1,ml,37,48,0.1,0.2,tx,tx2025psczvj,2025-08-11T12:46:47.604Z,"30 km WSW of Ackerly, Texas",earthquake,0.37984447610399,0.70660044804588,0.2,18,reviewed,tx,tx
 2025-08-11T07:52:01.530Z,33.9721667,-116.987,6.14,0.81,ml,50,38,0.05093,0.16,ci,ci41258264,2025-08-11T07:55:51.129Z,"5 km N of Beaumont, CA",earthquake,0.13,0.49,0.152,31,automatic,ci,ci
 2025-08-11T07:49:31.782Z,60.1902,-152.1722,82.7,1.8,ml,,,,0.44,ak,ak025a8xazwa,2025-08-11T14:33:18.337Z,"32 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -174,6 +174,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T02:11:41.436Z,-9.7869,120.4698,85.956,4.9,mb,48,54,0.206,0.75,us,us6000qzqm,2025-08-11T02:37:53.776Z,"26 km ESE of Waingapu, Indonesia",earthquake,7.06,3.725,0.112,25,reviewed,us,us
 2025-08-11T02:01:58.210Z,35.661,-117.4923333,9.86,0.98,ml,29,43,0.05603,0.13,ci,ci41258112,2025-08-11T13:00:43.985Z,"14 km SW of Searles Valley, CA",earthquake,0.17,0.4,0.187,17,reviewed,ci,ci
 2025-08-11T01:55:10.637Z,39.2445,28.1807,10,4.1,mb,33,49,1.002,0.71,us,us6000qzqk,2025-08-11T02:09:50.040Z,"0 km NNE of Sındırgı, Turkey",earthquake,3.38,1.868,0.12,19,reviewed,us,us
+2025-08-11T01:52:10.370Z,56.8675,-158.14333333333,11.62,-0.1,ml,6,148,0.02531,0.17,av,av93711268,2025-08-11T20:06:21.530Z,"65 km NNE of Chignik, Alaska",earthquake,0.79,1,0.26239739412752,6,reviewed,av,av
+2025-08-11T01:51:07.530Z,56.843166666667,-158.1905,12.61,-0.15,ml,5,138,0.03421,0.35,av,av93048074,2025-08-11T20:07:47.050Z,"62 km NNE of Chignik, Alaska",earthquake,2.35,2.53,0.26670027370777,5,reviewed,av,av
 2025-08-11T01:50:28.040Z,56.861333333333,-158.12883333333,13.49,0.13,ml,7,173,0.02049,0.23,av,av93711263,2025-08-11T19:28:46.780Z,"65 km NNE of Chignik, Alaska",earthquake,1.3,1,0.37487969905608,7,reviewed,av,av
 2025-08-11T01:49:52.340Z,56.889166666667,-158.14916666667,12.64,-0.48,ml,5,142,0.01462,0.06,av,av93048069,2025-08-11T19:32:01.800Z,"68 km NNE of Chignik, Alaska",earthquake,0.72,0.79,0.20943206586531,5,reviewed,av,av
 2025-08-11T01:49:49.541Z,62.3419,-149.5839,15.2,1.5,ml,,,,0.67,ak,ak025a8tqfmy,2025-08-11T01:51:38.577Z,"24 km NE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -218,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-10T20:31:36.680Z,38.792331695557,-122.77716827393,1.4900000095367,0.44,md,7,102,0.008443,0.02,nc,nc75221492,2025-08-10T20:33:13.012Z,"2 km NW of The Geysers, CA",earthquake,0.4,2.07999992,0.24,9,automatic,nc,nc
 2025-08-10T20:30:47.026Z,2.1592,128.5702,44.42,4.7,mb,51,74,1.83,0.79,us,us6000qzpe,2025-08-10T20:48:12.040Z,"78 km NE of Tobelo, Indonesia",earthquake,6.96,6.498,0.067,67,reviewed,us,us
 2025-08-10T20:10:36.599Z,32.068,-103.732,7.6379,1.7,ml,31,53,0,0.2,tx,tx2025prfpsm,2025-08-11T09:36:15.403Z,"36 km ESE of Malaga, New Mexico",earthquake,0.46684423375478,0.7326769497123,0.1,19,reviewed,tx,tx
-2025-08-10T20:06:38.040Z,34.018,-116.6981667,11.86,1.04,ml,46,28,0.04646,0.13,ci,ci41258040,2025-08-11T18:39:30.229Z,"11 km WSW of Morongo Valley, CA",earthquake,0.13,0.37,0.108,33,reviewed,ci,ci
