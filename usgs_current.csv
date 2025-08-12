@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-12T17:18:05.276Z,57.3353,-152.6268,12.5,1.8,ml,,,,0.35,ak,ak025aaqlz73,2025-08-12T17:21:33.233Z,"36 km SW of Chiniak, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-08-12T17:06:27.980Z,19.162166595459,-155.47866821289,31.010000228882,1.9,ml,51,112,0.01703,0.140000001,hv,hv74750892,2025-08-12T17:10:17.370Z,"4 km S of Pāhala, Hawaii",earthquake,0.52,0.600000024,0.87,5,automatic,hv,hv
+2025-08-12T16:58:31.709Z,-1.9799,139.0088,1.695,5.1,mb,81,42,1.023,1.61,us,us6000r04m,2025-08-12T17:18:33.040Z,"193 km WNW of Abepura, Indonesia",earthquake,4.76,4.277,0.054,113,reviewed,us,us
 2025-08-12T16:52:17.123Z,64.4208,-146.8791,10.2,2,ml,,,,0.23,ak,ak025aaq7uuo,2025-08-12T17:06:38.068Z,"11 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-12T16:32:00.484Z,-6.8437,125.281,522.558,4.5,mb,73,34,3.062,0.51,us,us6000r04g,2025-08-12T16:47:27.040Z,"192 km N of Dili, Timor Leste",earthquake,8.46,8.256,0.065,73,reviewed,us,us
 2025-08-12T16:21:50.716Z,-6.8737,125.2736,524.209,5.4,mww,92,26,3.031,0.87,us,us6000r04e,2025-08-12T16:45:44.585Z,"189 km N of Dili, Timor Leste",earthquake,9.47,6.99,0.069,20,reviewed,us,us
@@ -66,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T10:09:32.370Z,38.790500640869,-122.72383117676,1.9800000190735,1.09,md,7,95,0.01242,0.01,nc,nc75222202,2025-08-12T10:11:10.110Z,"3 km ENE of The Geysers, CA",earthquake,0.42,1.12,0.34,7,automatic,nc,nc
 2025-08-12T10:07:25.680Z,33.269,-116.4238333,4.76,0.61,ml,35,59,0.005647,0.19,ci,ci41259064,2025-08-12T13:25:33.489Z,"5 km WNW of Borrego Springs, CA",earthquake,0.2,0.38,0.13,10,reviewed,ci,ci
 2025-08-12T10:06:50.314Z,31.695,-104.143,5.6384,1.3,ml,13,52,0.1,0.1,tx,tx2025pudbey,2025-08-12T14:15:26.052Z,"51 km W of Mentone, Texas",earthquake,0.75447573656597,1.303501890891,0.2,12,reviewed,tx,tx
+2025-08-12T10:06:07.290Z,31.657,-104.197,2.2034,1.1,ml,17,76,0.1,0.1,tx,tx2025pudaft,2025-08-12T17:22:33.736Z,"53 km NW of Toyah, Texas",earthquake,0.5232796355891,1.1312360422556,0.2,11,reviewed,tx,tx
 2025-08-12T10:05:30.350Z,33.0576667,-116.482,11.2,0,ml,9,251,0.1978,0.13,ci,ci41259056,2025-08-12T10:09:00.658Z,"11 km ESE of Julian, CA",earthquake,1.48,1.82,0.08,2,automatic,ci,ci
 2025-08-12T10:03:13.723Z,59.3483,-153.0297,96.3,1.5,ml,,,,0.3,ak,ak025aamcqvg,2025-08-12T10:06:14.604Z,"63 km W of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-12T10:02:06.979Z,51.3816,159.1864,35,4.5,mb,63,173,1.677,0.61,us,us6000r02q,2025-08-12T10:20:29.040Z,"180 km SSE of Vilyuchinsk, Russia",earthquake,11.18,1.962,0.06,81,reviewed,us,us
@@ -266,7 +270,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-11T17:43:21.550Z,44.806833333333,-111.51583333333,13.28,0.82,ml,11,104,0.03267,0.14,mb,mb90106858,2025-08-11T22:26:03.230Z,"26 km W of Hebgen Lake Estates, Montana",earthquake,0.41,0.85,0.2461879002194,8,reviewed,mb,mb
 2025-08-11T17:31:45.513Z,32.066,-103.727,7.1124,1.2,ml,13,66,0,0.1,tx,tx2025pswalh,2025-08-11T23:49:48.538Z,"37 km ESE of Malaga, New Mexico",earthquake,0.44237116391752,0.75080071361384,0.1,11,reviewed,tx,tx
 2025-08-11T17:25:35.078Z,50.2401,156.9271,53.371,5.1,mww,84,88,2.912,0.64,us,us6000qzuk,2025-08-11T17:43:54.040Z,"74 km SE of Severo-Kuril’sk, Russia",earthquake,8.71,6.072,0.089,12,reviewed,us,us
-2025-08-11T17:20:36.400Z,38.837666666667,-122.782,1.61,0.38,md,16,70,0.006558,0.03,nc,nc75221892,2025-08-12T10:17:13.380Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.33,0.087,14,reviewed,nc,nc
-2025-08-11T17:14:55.670Z,37.282333374023,-121.66066741943,0.37999999523163,1.44,md,8,135,0.02534,0.01,nc,nc75221887,2025-08-11T17:16:32.961Z,"16 km ESE of Seven Trees, CA",earthquake,0.3,0.790000021,0.18,6,automatic,nc,nc
-2025-08-11T17:13:33.468Z,39.0735,28.0839,10,4.4,mwr,30,44,0.917,1.1,us,us6000qzui,2025-08-11T18:04:20.040Z,"20 km SSW of Sındırgı, Turkey",earthquake,3.69,1.808,0.069,20,reviewed,us,us
-2025-08-11T17:12:20.792Z,59.8122,-152.6303,72.2,1.9,ml,,,,0.36,ak,ak025a931dke,2025-08-11T17:13:59.453Z,"45 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
