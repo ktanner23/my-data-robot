@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-13T14:04:05.910Z,38.80899810791,-122.82233428955,2.8699998855591,0.76,md,12,63,0.005349,0.01,nc,nc75222682,2025-08-13T14:05:42.549Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.810000002,0.34,12,automatic,nc,nc
-2025-08-13T14:02:51.170Z,34.0596667,-117.1351667,11.4,2.42,ml,115,17,0.03065,0.17,ci,ci41259936,2025-08-13T14:06:58.553Z,"1 km S of Mentone, CA",earthquake,0.1,0.18,0.173,24,automatic,ci,ci
+2025-08-13T14:02:51.170Z,34.0596667,-117.1351667,11.4,2.42,ml,115,17,0.03065,0.17,ci,ci41259936,2025-08-13T14:13:49.440Z,"1 km S of Mentone, CA",earthquake,0.1,0.18,0.173,24,automatic,ci,ci
 2025-08-13T13:50:06.450Z,32.8501667,-116.5988333,8.2,0.72,ml,11,230,0.06069,0.21,ci,ci41259920,2025-08-13T13:53:43.007Z,"7 km WNW of Pine Valley, CA",earthquake,2.74,1.54,0.072,9,automatic,ci,ci
 2025-08-13T13:24:40.610Z,38.809665679932,-122.81900024414,3.1300001144409,0.39,md,12,86,0.007992,0.01,nc,nc75222677,2025-08-13T13:26:17.158Z,"7 km NW of The Geysers, CA",earthquake,0.35,0.870000005,0.29,13,automatic,nc,nc
 2025-08-13T13:23:03.052Z,59.7888,-159.3055,98.8,2.5,ml,,,,1.32,ak,ak025acbsnoh,2025-08-13T13:25:42.377Z,"69 km NW of Aleknagik, Alaska",earthquake,,5.1,,,automatic,ak,ak
@@ -69,7 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:16:18.935Z,38.5497,-119.4966,4.7,1.2,ml,9,147.06,0.064,0.1505,nn,nn00902534,2025-08-13T07:18:38.153Z,"2 km SSE of Coleville, California",earthquake,,1.3,0.34,6,automatic,nn,nn
 2025-08-13T07:13:35.971Z,32.374,-102.106,7.3486,0.8,ml,25,40,0,0.2,tx,tx2025pvtaui,2025-08-13T08:56:29.443Z,"40 km WSW of Ackerly, Texas",earthquake,0.44636647349762,0.63534506484401,0.2,13,reviewed,tx,tx
 2025-08-13T07:11:45.050Z,34.1491667,-117.425,6.79,1.44,ml,96,22,0.04337,0.18,ci,ci41259720,2025-08-13T08:41:41.321Z,"6 km NNE of Fontana, CA",earthquake,0.12,0.28,0.166,29,automatic,ci,ci
-2025-08-13T07:10:37.510Z,33.9248333,-118.0183333,12.67,2.59,ml,159,17,0.05409,0.26,ci,ci41259712,2025-08-13T13:43:46.781Z,"1 km NW of La Mirada, CA",earthquake,0.14,0.33,0.143,26,automatic,ci,ci
+2025-08-13T07:10:37.510Z,33.9248333,-118.0183333,12.67,2.59,ml,159,17,0.05409,0.26,ci,ci41259712,2025-08-13T14:22:48.549Z,"1 km NW of La Mirada, CA",earthquake,0.14,0.33,0.143,26,automatic,ci,ci
 2025-08-13T07:02:38.890Z,33.977,-116.604,13.34,0.58,ml,30,88,0.0714,0.12,ci,ci41259704,2025-08-13T07:06:08.294Z,"8 km SSW of Morongo Valley, CA",earthquake,0.14,0.46,0.093,13,automatic,ci,ci
 2025-08-13T06:58:41.471Z,39.1323,-119.1054,5,1.2,ml,17,74.09,0.181,0.1723,nn,nn00902532,2025-08-13T07:01:09.832Z,"17 km NNE of Yerington, Nevada",earthquake,,2,0.19,9,automatic,nn,nn
 2025-08-13T06:57:46.136Z,31.621,-104.127,6.0486,0.7,ml,19,56,0,0.1,tx,tx2025pvsnea,2025-08-13T13:38:45.375Z,"46 km NW of Toyah, Texas",earthquake,0.52702166309891,0.72522029879916,0.2,13,reviewed,tx,tx
@@ -247,7 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T14:44:37.000Z,36.743,-94.8095,0,1.6,ml,41,200,0.8386354311,0.52,ok,ok2025psoj,2025-08-13T13:07:53.797Z,"3 km ESE of Fairland, Oklahoma",quarry blast,,0.4,0.19,8,reviewed,ok,ok
 2025-08-12T14:32:40.740Z,61.8579,-149.8842,0,1,ml,,,,0.39,ak,ak025aaowr56,2025-08-12T14:34:36.697Z,"14 km NNE of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-12T14:31:42.264Z,42.2958,144.5577,43.479,4.3,mb,119,118,1.079,0.66,us,us6000r03r,2025-08-12T16:15:30.040Z,"76 km S of Kushiro, Japan",earthquake,7.19,7.302,0.05,113,reviewed,us,us
-2025-08-12T14:21:06.764Z,36.7712,-116.2511,9.2,-0.4,ml,11,124.43,0.037,0.0678,nn,nn00902517,2025-08-12T23:53:06.530Z,"47 km ESE of Beatty, Nevada",earthquake,,1.9,0.17,2,reviewed,nn,nn
-2025-08-12T14:15:00.359Z,62.8548,-149.2331,66.7,1.2,ml,,,,0.54,ak,ak025aaot0ur,2025-08-12T14:17:24.929Z,"61 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-12T14:13:09.342Z,61.7886,-148.6995,31.8,0.9,ml,,,,0.45,ak,ak025aaosm46,2025-08-12T14:25:11.918Z,"3 km ENE of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-12T14:10:37.170Z,34.3065,-116.974,8.47,0.92,ml,33,44,0.05596,0.18,ci,ci41259160,2025-08-12T14:14:31.959Z,"9 km NW of Big Bear Lake, CA",earthquake,0.22,0.36,0.193,21,automatic,ci,ci
