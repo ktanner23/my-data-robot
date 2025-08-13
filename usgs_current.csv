@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:22:49.900Z,37.706832885742,-122.54933166504,6.6199998855591,1.16,md,9,201,0.1115,0.01,nc,nc75222587,2025-08-13T07:24:28.228Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.56,1.36000001,0.3,6,automatic,nc,nc
 2025-08-13T07:21:52.105Z,39.1315,-119.1067,5.5,1.3,ml,19,74.04,0.179,0.1495,nn,nn00902537,2025-08-13T07:24:20.219Z,"16 km NNE of Yerington, Nevada",earthquake,,1.6,0.34,12,automatic,nn,nn
 2025-08-13T07:16:18.935Z,38.5497,-119.4966,4.7,1.2,ml,9,147.06,0.064,0.1505,nn,nn00902534,2025-08-13T07:18:38.153Z,"2 km SSE of Coleville, California",earthquake,,1.3,0.34,6,automatic,nn,nn
-2025-08-13T07:11:45.050Z,34.1491667,-117.425,6.79,1.44,ml,96,22,0.04337,0.18,ci,ci41259720,2025-08-13T07:27:43.160Z,"6 km NNE of Fontana, CA",earthquake,0.12,0.28,0.166,29,automatic,ci,ci
+2025-08-13T07:11:45.050Z,34.1491667,-117.425,6.79,1.44,ml,96,22,0.04337,0.18,ci,ci41259720,2025-08-13T08:41:41.321Z,"6 km NNE of Fontana, CA",earthquake,0.12,0.28,0.166,29,automatic,ci,ci
 2025-08-13T07:10:37.510Z,33.9248333,-118.0183333,12.67,2.59,ml,159,17,0.05409,0.26,ci,ci41259712,2025-08-13T08:26:18.822Z,"1 km NW of La Mirada, CA",earthquake,0.14,0.33,0.143,26,automatic,ci,ci
 2025-08-13T07:02:38.890Z,33.977,-116.604,13.34,0.58,ml,30,88,0.0714,0.12,ci,ci41259704,2025-08-13T07:06:08.294Z,"8 km SSW of Morongo Valley, CA",earthquake,0.14,0.46,0.093,13,automatic,ci,ci
 2025-08-13T06:58:41.471Z,39.1323,-119.1054,5,1.2,ml,17,74.09,0.181,0.1723,nn,nn00902532,2025-08-13T07:01:09.832Z,"17 km NNE of Yerington, Nevada",earthquake,,2,0.19,9,automatic,nn,nn
@@ -63,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T01:33:14.963Z,31.801,-101.675,4.2698,1,ml,16,131,0,0.5,tx,tx2025pvhtng,2025-08-13T02:00:21.780Z,"19 km WSW of Garden City, Texas",earthquake,0,1.549119591713,0.2,9,automatic,tx,tx
 2025-08-13T01:22:00.220Z,34.1328333,-116.95,6.17,0.78,ml,32,65,0.0409,0.19,ci,ci41259568,2025-08-13T01:25:26.422Z,"13 km SSW of Big Bear Lake, CA",earthquake,0.24,0.53,0.163,22,automatic,ci,ci
 2025-08-13T01:11:39.359Z,32.026,-103.765,8.266,2,ml,31,42,0,0.1,tx,tx2025pvhaxh,2025-08-13T07:52:55.092Z,"36 km SE of Malaga, New Mexico",earthquake,0.3764809575552,0.34956552362651,0.2,24,reviewed,tx,tx
-2025-08-13T00:54:34.275Z,-8.9303,-78.9442,68.622,5,mww,53,95,3.675,0.46,us,us6000r08a,2025-08-13T05:57:44.553Z,"33 km W of Puerto Santa, Peru",earthquake,11.32,5.952,0.098,10,reviewed,us,us
+2025-08-13T00:54:34.275Z,-8.9303,-78.9442,68.622,5,mww,53,95,3.675,0.46,us,us6000r08a,2025-08-13T08:36:49.023Z,"33 km W of Puerto Santa, Peru",earthquake,11.32,5.952,0.098,10,reviewed,us,us
 2025-08-13T00:46:44.710Z,38.830833435059,-122.81466674805,1.9299999475479,0.71,md,11,54,0.008249,0.01,nc,nc75222442,2025-08-13T00:48:20.025Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.930000007,0.15,13,automatic,nc,nc
 2025-08-13T00:44:09.170Z,17.931166666667,-66.948166666667,14.79,2.26,md,16,222,0.05551,0.08,pr,pr71492613,2025-08-13T01:01:36.110Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.46,0.36,0.057028978493474,8,reviewed,pr,pr
 2025-08-13T00:37:55.040Z,19.452,-154.84816666667,6.87,2.79,ml,45,285,0.06642,0.16,hv,hv74751262,2025-08-13T03:54:57.040Z,"7 km ESE of Leilani Estates, Hawaii",earthquake,0.67,0.31,0.098059451088397,35,reviewed,hv,hv
@@ -252,8 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-12T08:53:49.848Z,61.5804,-149.7347,33.5,1.4,ml,,,,0.34,ak,ak025aalgo94,2025-08-12T09:21:37.304Z,"7 km SE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-12T08:50:09.540Z,38.8385,-122.78733333333,2.39,0.08,md,8,88,0.002353,0.04,nc,nc75222187,2025-08-12T10:24:46.568Z,"6 km WNW of Cobb, CA",earthquake,0.61,0.31,0.322,8,reviewed,nc,nc
 2025-08-12T08:49:08.690Z,35.7665,-84.119666666667,23.39,1.95,md,9,117,0.1117,0.08,se,se60503908,2025-08-12T15:39:52.870Z,"1 km ENE of Friendsville, Tennessee",earthquake,0.4,0.75,0.10973769375966,8,reviewed,se,se
-2025-08-12T08:44:23.260Z,38.786998748779,-122.74433135986,1.75,0.8,md,10,84,0.007032,0.03,nc,nc75222182,2025-08-12T08:46:00.417Z,"2 km NE of The Geysers, CA",earthquake,0.33,0.610000014,0.08,12,automatic,nc,nc
-2025-08-12T08:44:19.430Z,34.1205,-117.3251667,10.19,0.92,ml,58,48,0.02603,0.13,ci,ci41259016,2025-08-12T18:56:11.380Z,"3 km WSW of San Bernardino, CA",earthquake,0.13,0.26,0.106,32,reviewed,ci,ci
-2025-08-12T08:43:22.680Z,37.329498291016,-122.12149810791,5.8400001525879,1.5,md,14,55,0.02365,0.07,nc,nc75222177,2025-08-12T09:15:48.143Z,"3 km SW of Loyola, CA",earthquake,0.31,0.479999989,0.14,14,automatic,nc,nc
-2025-08-12T08:36:43.558Z,31.243,130.291,171.038,4.5,mb,101,113,0.299,0.7,us,us6000r02s,2025-08-13T06:39:21.040Z,"3 km SW of Makurazaki, Japan",earthquake,7.43,6.557,0.049,122,reviewed,us,us
-2025-08-12T08:36:36.700Z,47.683666666667,-120.20983333333,-0.6,0.52,ml,6,112,0.02258,0.21,uw,uw62169726,2025-08-12T21:26:45.110Z,"0 km N of Entiat, Washington",earthquake,0.54,1.61,0.14152296644894,5,reviewed,uw,uw
