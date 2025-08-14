@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26,48,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:53.394Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15,automatic,ci,ci
+2025-08-14T22:42:37.795Z,28.735,-98.861,10.4878,2.2,ml,9,178,0.2,0.4,tx,tx2025pytofm,2025-08-14T22:46:20.833Z,"20 km SW of Charlotte, Texas",earthquake,0,10.822651863098,0.1,7,automatic,tx,tx
+2025-08-14T22:35:24.650Z,35.6731667,-117.5476667,8.32,0.96,ml,26,48,0.1013,0.18,ci,ci41261016,2025-08-14T22:38:56.182Z,"13 km ENE of Ridgecrest, CA",earthquake,0.25,0.94,0.224,15,automatic,ci,ci
 2025-08-14T22:19:05.962Z,62.4658,-150.0787,25.5,1.8,ml,,,,0.74,ak,ak025ae4o1z8,2025-08-14T22:21:29.261Z,"2 km NNE of Chase, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-08-14T22:07:09.923Z,65.0182,-149.3748,21.5,1,ml,,,,0.6,ak,ak025ae4lhow,2025-08-14T22:09:32.808Z,"14 km S of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-14T21:52:01.894Z,49.7924,156.2335,54.384,5,mb,61,124,3.445,0.95,us,us6000r0ul,2025-08-14T22:06:07.040Z,"98 km S of Severo-Kuril’sk, Russia",earthquake,9.51,6.935,0.048,142,reviewed,us,us
@@ -7,8 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T21:34:50.800Z,33.517,-116.3953333,4.71,0.81,ml,15,72,0.1313,0.17,ci,ci41261000,2025-08-14T21:38:27.442Z,"18 km SSW of La Quinta, CA",earthquake,0.28,0.84,0.096,17,automatic,ci,ci
 2025-08-14T21:07:07.689Z,32.136,-101.652,4.0613,1.2,ml,21,110,0,0.4,tx,tx2025pyqjyu,2025-08-14T22:00:34.941Z,"12 km E of Stanton, Texas",earthquake,0,1.2717841863632,0.2,13,automatic,tx,tx
 2025-08-14T21:04:50.683Z,64.9038,-151.3642,11.3,1.1,ml,,,,0.31,ak,ak025ae3zi30,2025-08-14T21:13:01.210Z,"36 km WSW of Manley Hot Springs, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-14T20:56:43.670Z,34.6636667,-118.5315,19.84,1.79,ml,8,148,0.1143,0.43,ci,ci41260952,2025-08-14T21:00:38.628Z,"8 km W of Lake Hughes, CA",earthquake,4.54,6.1,0.353,37,automatic,ci,ci
-2025-08-14T20:53:51.610Z,35.0801667,-118.7618333,8.09,2.33,ml,9,87,0.05487,0.09,ci,ci41260960,2025-08-14T21:00:39.629Z,"16 km SSE of Arvin, CA",earthquake,0.28,0.43,0.328,35,automatic,ci,ci
+2025-08-14T20:53:51.480Z,35.0831667,-118.7661667,8.62,0.69,ml,8,101,0.05877,0.13,ci,ci41260960,2025-08-14T22:40:39.494Z,"15 km SSE of Arvin, CA",earthquake,0.44,0.66,0.162,6,reviewed,ci,ci
 2025-08-14T20:50:21.779Z,60.2738,-140.8909,16.9,1.3,ml,,,,1.03,ak,ak025ae3nv6p,2025-08-14T20:52:29.413Z,"103 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-14T20:45:42.410Z,36.476333618164,-121.03932952881,4.5700001716614,1.13,md,11,76,0.02583,0.14,nc,nc75223847,2025-08-14T20:47:17.494Z,"11 km SE of Pinnacles, CA",earthquake,0.45,1.07000005,0.12,10,automatic,nc,nc
 2025-08-14T20:42:09.340Z,35.4496667,-118.3508333,4.37,1.05,ml,27,63,0.168,0.16,ci,ci41260936,2025-08-14T20:45:51.329Z,"20 km SE of Bodfish, CA",earthquake,0.2,0.68,0.188,15,automatic,ci,ci
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T15:26:15.120Z,38.838165283203,-122.80300140381,2.2200000286102,0.95,md,6,86,0.009888,0.01,nc,nc75223632,2025-08-14T15:51:26.129Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.41999996,0.06,4,automatic,nc,nc
 2025-08-14T15:21:59.880Z,34.9085,-119.6078333,11.01,1.17,ml,19,56,0.06415,0.17,ci,ci41260720,2025-08-14T16:57:28.164Z,"25 km SW of Maricopa, CA",earthquake,0.31,0.62,0.22,10,reviewed,ci,ci
 2025-08-14T15:16:34.880Z,38.800834655762,-122.81716918945,2.8199999332428,0.34,md,9,86,0.01234,0.03,nc,nc75223622,2025-08-14T15:18:11.698Z,"6 km NW of The Geysers, CA",earthquake,0.54,0.899999976,0.1,10,automatic,nc,nc
-2025-08-14T15:14:17.710Z,35.316333333333,-82.203333333333,5.63,2.73,md,20,59,0.5341,0.4,se,se60612941,2025-08-14T22:36:17.149Z,"7 km N of Columbus, North Carolina",earthquake,0.62,5.58,0.045863173804247,16,reviewed,se,se
+2025-08-14T15:14:17.710Z,35.316333333333,-82.203333333333,5.63,2.73,md,20,59,0.5341,0.4,se,se60612941,2025-08-14T22:46:28.897Z,"7 km N of Columbus, North Carolina",earthquake,0.62,5.58,0.045863173804247,16,reviewed,se,se
 2025-08-14T15:12:20.420Z,38.804832458496,-122.81583404541,2.8099999427795,0.74,md,13,69,0.01118,0.03,nc,nc75223617,2025-08-14T15:13:56.798Z,"6 km NW of The Geysers, CA",earthquake,0.36,0.589999974,0.14,14,automatic,nc,nc
 2025-08-14T15:11:14.950Z,38.808498382568,-122.81549835205,3.4400000572205,0.35,md,6,150,0.01579,0.01,nc,nc75223612,2025-08-14T15:12:51.591Z,"6 km NW of The Geysers, CA",earthquake,0.77,1.41999996,0.1,8,automatic,nc,nc
 2025-08-14T15:10:14.880Z,38.978832244873,-121.99116516113,28.950000762939,2.3,md,11,130,0.1522,0.39,nc,nc75223602,2025-08-14T15:32:17.666Z,"7 km SE of Arbuckle, CA",earthquake,2.18,3.8499999,0.27,11,automatic,nc,nc
@@ -165,7 +165,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T12:49:11.150Z,38.80350112915,-122.8373336792,1.5900000333786,1.36,md,7,136,0.01031,0.05,nc,nc75223072,2025-08-14T12:50:45.986Z,"8 km NW of The Geysers, CA",earthquake,0.36,0.790000021,0.2,7,automatic,nc,nc
 2025-08-14T12:49:01.380Z,38.807334899902,-122.81366729736,2.9800000190735,1.09,md,11,177,0.01221,0.02,nc,nc75223067,2025-08-14T12:50:36.026Z,"6 km NW of The Geysers, CA",earthquake,0.89,1.19000006,0.29,11,automatic,nc,nc
 2025-08-14T12:48:42.190Z,38.806666666667,-122.814,3.38,1.26,md,13,109,0.01206,0.02,nc,nc75223062,2025-08-14T15:16:01.378Z,"6 km NW of The Geysers, CA",earthquake,0.44,1.12,0.238,11,reviewed,nc,nc
-2025-08-14T12:48:04.600Z,38.8005,-122.8165,3.38,3.96,mw,127,20,0.01296,0.08,nc,nc75223077,2025-08-14T21:27:19.246Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.11,,13,reviewed,nc,nc
+2025-08-14T12:48:04.600Z,38.8005,-122.8165,3.38,3.96,mw,127,20,0.01296,0.08,nc,nc75223077,2025-08-14T22:42:23.715Z,"6 km NW of The Geysers, CA",earthquake,0.08,0.11,,13,reviewed,nc,nc
 2025-08-14T12:45:43.300Z,33.874,-117.7005,11.18,0.75,ml,27,64,0.009041,0.16,ci,ci41260648,2025-08-14T16:30:51.781Z,"10 km E of Yorba Linda, CA",earthquake,0.24,0.4,0.196,10,reviewed,ci,ci
 2025-08-14T12:35:35.240Z,40.300834655762,-124.51933288574,10.829999923706,1.63,md,9,277,0.1358,0.21,nc,nc75223057,2025-08-14T12:37:11.123Z,"20 km W of Petrolia, CA",earthquake,7.04,3.3900001,0.07,7,automatic,nc,nc
 2025-08-14T12:10:19.600Z,38.782833099365,-122.76466369629,3.7300000190735,0.54,md,12,93,0.01212,0.02,nc,nc75223052,2025-08-14T12:11:55.962Z,"1 km NW of The Geysers, CA",earthquake,0.46,0.790000021,0.24,11,automatic,nc,nc
@@ -312,4 +312,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T23:05:35.740Z,59.9106,-153.1568,116.7,3.5,ml,,,,0.69,ak,ak025achn778,2025-08-14T02:44:16.525Z,"54 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-08-13T22:57:58.350Z,34.4655,-118.0688333,8.29,0.91,ml,17,47,0.04436,0.1,ci,ci41260368,2025-08-14T14:29:45.329Z,"6 km SE of Vincent, CA",earthquake,0.17,0.38,0.073,5,reviewed,ci,ci
 2025-08-13T22:57:54.280Z,34.273,-117.5296667,7.79,0.36,ml,19,58,0.0697,0.12,ci,ci37551101,2025-08-14T14:43:28.187Z,"3 km WNW of Lytle Creek, CA",earthquake,0.23,0.56,0.132,6,reviewed,ci,ci
-2025-08-13T22:44:35.790Z,34.4673333,-118.0718333,8.8,1.12,ml,15,73,0.04135,0.09,ci,ci41260352,2025-08-13T23:12:41.911Z,"6 km SE of Vincent, CA",earthquake,0.19,0.42,0.2,11,reviewed,ci,ci
