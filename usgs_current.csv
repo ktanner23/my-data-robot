@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T04:54:39.738Z,62.3398,-148.1805,37.5,1.1,ml,,,,1.04,ak,ak025adu5tr9,2025-08-14T04:56:45.856Z,"62 km NNE of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-14T04:42:11.476Z,63.4857,-151.0826,0,1.6,ml,,,,0.95,ak,ak025adu36zf,2025-08-14T05:21:22.503Z,"32 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-14T04:38:14.224Z,-18.3716,-172.5278,10,5.6,mww,110,32,2.562,0.99,us,us6000r0l4,2025-08-14T05:07:48.272Z,"156 km ENE of Neiafu, Tonga",earthquake,9.64,1.714,0.103,9,reviewed,us,us
-2025-08-14T04:37:33.015Z,62.2923,-149.7853,35,3.1,ml,80,24,0.515,1.18,us,us6000r0l1,2025-08-14T05:26:20.288Z,"14 km NNE of Susitna North, Alaska",earthquake,2.56,1.991,0.031,140,reviewed,us,us
+2025-08-14T04:37:33.015Z,62.2923,-149.7853,35,3.1,ml,80,24,0.515,1.18,us,us6000r0l1,2025-08-14T05:53:10.267Z,"14 km NNE of Susitna North, Alaska",earthquake,2.56,1.991,0.031,140,reviewed,us,us
 2025-08-14T04:30:18.626Z,62.9211,-150.722,102.8,1.4,ml,,,,0.28,ak,ak025adu0mxy,2025-08-14T05:21:35.762Z,"47 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-14T04:25:38.040Z,38.82466506958,-122.80966949463,2.3800001144409,1.39,md,25,62,0.001307,0.02,nc,nc75222932,2025-08-14T04:27:15.352Z,"7 km NNW of The Geysers, CA",earthquake,0.22,0.379999995,0.16,27,automatic,nc,nc
 2025-08-14T04:22:47.320Z,34.092,-116.6653333,8.87,1.04,ml,50,39,0.05526,0.16,ci,ci41260464,2025-08-14T04:26:11.443Z,"9 km WNW of Morongo Valley, CA",earthquake,0.15,0.4,0.155,27,automatic,ci,ci
@@ -229,7 +229,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T07:41:58.750Z,34.0575,-117.1383333,10.32,0.81,ml,41,59,0.03076,0.14,ci,ci41259728,2025-08-13T20:24:18.835Z,"1 km SSW of Mentone, CA",earthquake,0.16,0.32,0.166,22,reviewed,ci,ci
 2025-08-13T07:38:28.026Z,49.9498,159.299,10,4.6,mb,57,127,3.105,0.61,us,us6000r0aa,2025-08-13T07:59:01.040Z,"239 km ESE of Severo-Kuril’sk, Russia",earthquake,10.18,1.902,0.039,199,reviewed,us,us
 2025-08-13T07:38:14.910Z,38.77216720581,-122.74433135986,1.2699999809265,1.02,md,9,100,0.01255,0.02,nc,nc75222592,2025-08-13T07:39:53.206Z,"1 km SE of The Geysers, CA",earthquake,0.36,0.699999988,0.16,9,automatic,nc,nc
-2025-08-13T07:22:49.900Z,37.706832885742,-122.54933166504,6.6199998855591,1.16,md,9,201,0.1115,0.01,nc,nc75222587,2025-08-13T07:24:28.228Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.56,1.36000001,0.3,6,automatic,nc,nc
+2025-08-13T07:22:49.900Z,37.706832885742,-122.54933166504,6.6199998855591,1.16,md,9,201,0.1115,0.01,nc,nc75222587,2025-08-14T05:51:20.338Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.56,1.36000001,0.3,6,automatic,nc,nc
 2025-08-13T07:21:52.572Z,39.1325,-119.098,7.2,1.4,ml,25,74.16,0.184,0.1321,nn,nn00902537,2025-08-13T19:08:27.297Z,"17 km NNE of Yerington, Nevada",earthquake,,1.8,0.3,19,reviewed,nn,nn
 2025-08-13T07:16:19.310Z,38.5449,-119.4982,8.6,1,ml,12,103.25,0.062,0.1291,nn,nn00902534,2025-08-13T18:46:57.377Z,"2 km SSE of Coleville, California",earthquake,,1.6,0.23,5,reviewed,nn,nn
 2025-08-13T07:13:35.971Z,32.374,-102.106,7.3486,0.8,ml,25,40,0,0.2,tx,tx2025pvtaui,2025-08-13T08:56:29.443Z,"40 km WSW of Ackerly, Texas",earthquake,0.44636647349762,0.63534506484401,0.2,13,reviewed,tx,tx
@@ -250,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-13T06:12:07.630Z,33.267,-116.4151667,5.28,0.53,ml,22,85,0.002055,0.16,ci,ci41259688,2025-08-13T18:43:48.148Z,"4 km WNW of Borrego Springs, CA",earthquake,0.23,0.35,0.125,7,reviewed,ci,ci
 2025-08-13T06:07:00.240Z,38.841667175293,-122.82083129883,0.58999997377396,1.11,md,20,60,0.01185,0.02,nc,nc75222562,2025-08-13T06:08:36.755Z,"9 km WNW of Cobb, CA",earthquake,0.17,0.419999987,0.13,22,automatic,nc,nc
 2025-08-13T05:59:58.200Z,32.8226667,-115.4685,12.76,1.41,ml,18,78,0.02517,0.29,ci,ci41259680,2025-08-13T15:13:14.913Z,"8 km W of Holtville, CA",earthquake,0.59,0.94,0.194,9,reviewed,ci,ci
-2025-08-13T05:53:12.875Z,-39.9415,176.6917,38.238,4.9,mb,51,95,0.158,1.13,us,us6000r09q,2025-08-14T03:45:06.493Z,"35 km SSW of Raureka, New Zealand",earthquake,4.96,4.278,0.11,26,reviewed,us,us
-2025-08-13T05:52:29.400Z,19.1545,-155.50083333333,34.54,2.35,ml,43,135,0.03662,0.11,hv,hv74751487,2025-08-13T23:26:09.790Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.48,0.57,0.14794313163171,28,reviewed,hv,hv
-2025-08-13T05:49:47.008Z,32.365,-101.08,4.5752,1,ml,14,66,0.1,0.2,tx,tx2025pvqgof,2025-08-13T15:23:50.331Z,"6 km W of Westbrook, Texas",earthquake,0.86148361017409,2.3893332072139,0.1,6,reviewed,tx,tx
