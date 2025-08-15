@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-15T16:09:15.750Z,33.4626667,-116.4356667,12.35,2.06,ml,84,23,0.1472,0.2,ci,ci41261488,2025-08-15T16:13:06.308Z,"24 km NNW of Borrego Springs, CA",earthquake,0.13,0.54,0.171,26,automatic,ci,ci
+2025-08-15T16:09:15.750Z,33.4626667,-116.4356667,12.35,2.06,ml,84,23,0.1472,0.2,ci,ci41261488,2025-08-15T16:20:07.560Z,"24 km NNW of Borrego Springs, CA",earthquake,0.13,0.54,0.171,26,automatic,ci,ci
 2025-08-15T16:00:14.110Z,33.4633333,-116.433,11.6,1.38,ml,61,24,0.147,0.2,ci,ci41261480,2025-08-15T16:04:04.255Z,"24 km NNW of Borrego Springs, CA",earthquake,0.16,0.69,0.203,26,automatic,ci,ci
 2025-08-15T15:56:16.342Z,59.8106,-152.0675,49.5,1.6,ml,,,,0.52,ak,ak025afo9bj6,2025-08-15T15:58:21.618Z,"13 km WNW of Anchor Point, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T15:54:28.965Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-08-15T15:52:37.386Z,58.8465,-154.4941,109.4,2.2,ml,,,,0.28,ak,ak025afo8iai,2025-08-15T16:22:05.040Z,"67 km SSE of Kokhanok, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-15T15:50:19.798Z,45.6945,153.834,25.221,5.1,mww,45,128,7.77,0.57,us,us6000r0zd,2025-08-15T16:07:15.040Z,"east of the Kuril Islands",earthquake,10.33,6.706,0.073,18,reviewed,us,us
 2025-08-15T15:49:53.646Z,61.3056,-152.5256,7.2,1.8,ml,,,,0.26,ak,ak025afo7wec,2025-08-15T15:51:02.831Z,"79 km WNW of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-15T15:38:34.075Z,63.796,-147.6404,0,1,ml,,,,0.56,ak,ak025afo5i0f,2025-08-15T15:40:28.216Z,"63 km E of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-15T04:22:53.870Z,38.94966506958,-123.14649963379,4.210000038147,1.84,md,12,75,0.03701,0.06,nc,nc75223977,2025-08-15T04:24:30.991Z,"20 km NNW of Cloverdale, CA",earthquake,0.33,0.639999986,0.07,12,automatic,nc,nc
 2025-08-15T04:10:17.120Z,19.182167053223,-155.48966979981,28.579999923706,2.19,ml,60,85,0.03724,0.119999997,hv,hv74752777,2025-08-15T04:14:15.220Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.36,0.460000008,0.4,18,automatic,hv,hv
 2025-08-15T04:08:25.116Z,62.7197,-151.2452,87.9,1.6,ml,,,,0.4,ak,ak025afhfa6n,2025-08-15T04:10:30.787Z,"35 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-15T04:05:37.480Z,35.496166229248,-120.80416870117,7.6999998092651,2.39,md,42,46,0.08019,0.06,nc,nc75223972,2025-08-15T14:48:14.795Z,"10 km ENE of Cayucos, CA",earthquake,0.19,0.860000014,0.13,42,automatic,nc,nc
+2025-08-15T04:05:37.480Z,35.496166229248,-120.80416870117,7.6999998092651,2.39,md,42,46,0.08019,0.06,nc,nc75223972,2025-08-15T16:16:18.771Z,"10 km ENE of Cayucos, CA",earthquake,0.19,0.860000014,0.13,42,automatic,nc,nc
 2025-08-15T03:57:24.260Z,33.3738333,-116.2748333,12.46,1.99,ml,78,32,0.09042,0.2,ci,ci41261152,2025-08-15T04:13:21.746Z,"16 km NE of Borrego Springs, CA",earthquake,0.14,0.58,0.164,26,automatic,ci,ci
 2025-08-15T03:45:36.630Z,33.4861667,-116.698,13.29,0.56,ml,9,223,0.09381,0.14,ci,ci41261144,2025-08-15T03:49:26.496Z,"8 km SSW of Anza, CA",earthquake,2.9,2.84,0.118,5,automatic,ci,ci
 2025-08-15T03:37:39.356Z,31.659,-104.469,5.3308,1.6,ml,23,67,0,0.2,tx,tx2025pzdimg,2025-08-15T08:46:25.836Z,"57 km S of Whites City, New Mexico",earthquake,1.2536965637404,0.72452947889711,0.1,14,reviewed,tx,tx
@@ -221,8 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-14T17:01:09.520Z,38.804332733154,-122.81800079346,3.0599999427795,0.75,md,10,84,0.009837,0.02,nc,nc75223727,2025-08-14T17:02:46.546Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.07000005,0.16,13,automatic,nc,nc
 2025-08-14T16:58:27.440Z,47.558,-120.2655,-1.17,1.08,ml,8,111,0.06506,0.08,uw,uw62162937,2025-08-14T19:08:00.290Z,"10 km NNE of Sunnyslope, Washington",explosion,0.99,31.61,0.070782887227315,4,reviewed,uw,uw
 2025-08-14T16:46:56.512Z,49.746,155.8694,54.353,5,mb,79,91,3.556,0.85,us,us6000r0sb,2025-08-14T17:03:31.040Z,"104 km S of Severo-Kuril’sk, Russia",earthquake,5.33,6.708,0.029,378,reviewed,us,us
-2025-08-14T16:22:32.866Z,-11.6356,166.1707,31,6.3,mww,84,41,6.497,0.93,us,us6000r0sa,2025-08-14T18:47:22.563Z,"108 km SSE of Lata, Solomon Islands",earthquake,8.54,1.886,0.038,66,reviewed,us,us
-2025-08-14T16:19:00.260Z,38.814498901367,-122.81816864014,2.5899999141693,1.08,md,18,51,0.01028,0.01,nc,nc75223707,2025-08-14T16:20:37.119Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.439999998,0.2,20,automatic,nc,nc
-2025-08-14T16:15:38.050Z,35.7558333,-117.5968333,12.03,0.99,ml,21,55,0.05978,0.12,ci,ci41260776,2025-08-14T19:15:27.999Z,"17 km NNE of Ridgecrest, CA",earthquake,0.2,0.45,0.263,17,reviewed,ci,ci
-2025-08-14T16:15:18.130Z,33.7416667,-116.8653333,10.52,0.65,ml,17,120,0.07308,0.16,ci,ci41260760,2025-08-14T16:53:40.141Z,"3 km ESE of Valle Vista, CA",earthquake,0.31,0.6,0.096,6,reviewed,ci,ci
-2025-08-14T16:14:47.890Z,38.814998626709,-122.81433105469,2.9700000286102,1.09,md,14,73,0.00902,0.02,nc,nc75223692,2025-08-14T16:16:22.220Z,"7 km NW of The Geysers, CA",earthquake,0.41,0.670000017,0.15,14,automatic,nc,nc
