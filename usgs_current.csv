@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-19T21:20:13.243Z,37.3646,-117.1319,4,1.1,ml,12,196.47,0.121,0.19,nn,nn00902823,2025-08-19T21:22:42.465Z,"39 km SSE of Goldfield, Nevada",earthquake,,13.6,0.36,8,automatic,nn,nn
-2025-08-19T21:18:14.730Z,33.5321667,-116.721,5.02,1.44,ml,61,19,0.03583,0.18,ci,ci40403306,2025-08-19T21:22:48.255Z,"5 km WSW of Anza, CA",earthquake,0.13,0.42,0.201,27,automatic,ci,ci
+2025-08-19T21:18:14.730Z,33.5321667,-116.721,5.02,1.44,ml,61,19,0.03583,0.18,ci,ci40403306,2025-08-19T21:29:12.830Z,"5 km WSW of Anza, CA",earthquake,0.13,0.42,0.201,27,automatic,ci,ci
 2025-08-19T21:13:46.370Z,32.9035,-116.942,4.57,1.43,ml,40,61,0.06894,0.19,ci,ci40403290,2025-08-19T21:17:15.876Z,"6 km NNW of Lakeside, CA",earthquake,0.18,0.61,0.186,35,automatic,ci,ci
 2025-08-19T21:11:31.100Z,38.791168212891,-122.76100158691,1.2400000095367,0.81,md,12,63,0.009497,0.02,nc,nc75225967,2025-08-19T21:13:05.329Z,"2 km  of The Geysers, CA",earthquake,0.31,0.560000002,0.11,14,automatic,nc,nc
 2025-08-19T21:00:07.223Z,37.3917,-117.1299,0.8,1.1,ml,14,200.35,0.138,0.3125,nn,nn00902821,2025-08-19T21:02:43.193Z,"36 km SSE of Goldfield, Nevada",earthquake,,13.2,0.35,8,automatic,nn,nn
@@ -24,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T19:25:04.207Z,51.5759,-175.9982,64.767,3.2,ml,21,207,0.382,0.38,us,us6000r26e,2025-08-19T19:54:45.040Z,"55 km SE of Adak, Alaska",earthquake,10.08,24.766,0.085,18,reviewed,us,us
 2025-08-19T19:17:55.230Z,44.8005,-110.86383333333,7.4,0.86,ml,16,112,0.1094,0.17,uu,uu80114106,2025-08-19T19:31:49.880Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.4,1.51,0.34322429502715,3,reviewed,uu,uu
 2025-08-19T19:10:05.719Z,34.3945,-96.51283333,0,1.36,ml,41,165,0.05218975859,0.98,ok,ok2025qfrq,2025-08-19T19:56:43.423Z,"3 km SSW of Bromide, Oklahoma",quarry blast,,1.7,0.31,14,reviewed,ok,ok
-2025-08-19T19:08:50.890Z,34.991,-118.1865,0.6,1.39,ml,28,58,0.1171,0.19,ci,ci40403074,2025-08-19T19:12:12.059Z,"7 km S of Mojave, CA",earthquake,0.23,0.5,0.115,29,automatic,ci,ci
+2025-08-19T19:08:50.890Z,34.991,-118.1865,0.6,1.39,ml,28,58,0.1171,0.19,ci,ci40403074,2025-08-19T21:24:54.253Z,"7 km S of Mojave, CA",earthquake,0.23,0.5,0.115,29,automatic,ci,ci
 2025-08-19T19:01:07.467Z,60.0477,-152.6948,93.8,0.9,ml,,,,0.59,ak,ak025amcgmuy,2025-08-19T19:04:01.778Z,"54 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-08-19T19:00:18.490Z,44.8035,-110.8505,11.39,2.6,ml,32,36,0.118,0.18,uu,uu80114101,2025-08-19T19:38:46.040Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.32,0.56,0.33561139575387,13,reviewed,uu,uu
 2025-08-19T18:54:13.840Z,46.003666666667,-112.47133333333,-2,1.5,ml,13,113,0.05849,0.08,mb,mb90107948,2025-08-19T19:46:41.450Z,"4 km E of Butte, Montana",quarry blast,0.33,31.61,0.085521382846687,9,reviewed,mb,mb
@@ -197,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T02:32:18.030Z,38.830833435059,-122.81583404541,2.0099999904633,0.83,md,15,104,0.008684,0.02,nc,nc75225647,2025-08-19T02:33:54.829Z,"8 km NNW of The Geysers, CA",earthquake,0.32,0.680000007,0.33,16,automatic,nc,nc
 2025-08-19T02:30:54.690Z,19.4225,-155.38433333333,7.79,2,ml,27,70,0.06453,0.1,hv,hv74755527,2025-08-19T18:45:07.550Z,"15 km W of Volcano, Hawaii",earthquake,0.35,0.82,0.24432035661016,22,reviewed,hv,hv
 2025-08-19T02:30:12.840Z,63.4259,-151.5442,1.1,1.3,ml,,,,1.27,ak,ak025am2ihr8,2025-08-19T02:33:12.236Z,"15 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-19T02:17:24.682Z,48.4336,-124.4146,37.622,3.5,ml,58,108,0.138,0.56,us,us6000r1zc,2025-08-19T20:32:59.723Z,"17 km ENE of Neah Bay, Washington",earthquake,2.46,4.663,0.033,120,reviewed,us,us
+2025-08-19T02:17:24.682Z,48.4336,-124.4146,37.622,3.5,ml,58,108,0.138,0.56,us,us6000r1zc,2025-08-19T21:29:20.726Z,"17 km ENE of Neah Bay, Washington",earthquake,2.46,4.663,0.033,120,reviewed,us,us
 2025-08-19T02:15:53.887Z,32.119,-101.116,8.7158,1.1,ml,24,49,0.2,0.2,tx,tx2025qgjnnm,2025-08-19T09:22:18.389Z,"23 km E of Forsan, Texas",earthquake,1.0963115434699,1.3316833968951,0.2,9,reviewed,tx,tx
 2025-08-19T02:14:35.980Z,18.691833333333,-64.638333333333,39.29,3.43,md,13,272,0.2707,0.38,pr,pr71493058,2025-08-19T02:29:04.940Z,"43 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,3.86,4.7,0.14577849041369,3,reviewed,pr,pr
 2025-08-19T02:11:32.300Z,35.6591667,-117.5403333,7.6,0.87,ml,23,50,0.09515,0.12,ci,ci40402394,2025-08-19T13:28:01.773Z,"13 km ENE of Ridgecrest, CA",earthquake,0.2,0.8,0.218,14,reviewed,ci,ci
