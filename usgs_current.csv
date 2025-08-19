@@ -1,11 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-19T14:02:54.232Z,31.678,-104.35,4.205,1.5,ml,24,90,0.1,0.3,tx,tx2025qhgyti,2025-08-19T14:05:53.392Z,"55 km S of Whites City, New Mexico",earthquake,0,1.1490224599838,0.2,16,automatic,tx,tx
-2025-08-19T13:46:09.740Z,35.9751667,-117.9296667,5.71,0.42,ml,18,83,0.0455,0.09,ci,ci40402674,2025-08-19T13:49:36.883Z,"5 km NNW of Little Lake, CA",earthquake,0.15,0.4,0.21,7,automatic,ci,ci
+2025-08-19T14:08:59.380Z,38.827167510986,-122.80416870117,1.539999961853,1.63,md,19,47,0.005955,0.02,nc,nc75225812,2025-08-19T14:10:36.260Z,"7 km NNW of The Geysers, CA",earthquake,0.2,0.360000014,0.14,20,automatic,nc,nc
+2025-08-19T13:46:09.740Z,35.9751667,-117.9296667,5.71,0.42,ml,18,83,0.0455,0.09,ci,ci40402674,2025-08-19T14:15:02.986Z,"5 km NNW of Little Lake, CA",earthquake,0.15,0.4,0.21,7,reviewed,ci,ci
 2025-08-19T13:45:02.092Z,62.7506,-151.4757,83.9,1.4,ml,,,,0.46,ak,ak025am95gbl,2025-08-19T13:47:16.189Z,"46 km NW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-08-19T13:32:57.110Z,35.9768333,-117.9261667,5.93,0.88,ml,26,45,0.04234,0.13,ci,ci40402658,2025-08-19T13:36:53.191Z,"5 km NNW of Little Lake, CA",earthquake,0.16,0.39,0.194,17,automatic,ci,ci
-2025-08-19T13:25:54.550Z,34.0146667,-116.3983333,6.22,1.1,ml,38,44,0.05495,0.16,ci,ci40402634,2025-08-19T13:29:17.738Z,"11 km ENE of Desert Hot Springs, CA",earthquake,0.18,0.37,0.131,26,automatic,ci,ci
-2025-08-19T13:22:49.810Z,35.9768333,-117.9286667,5.47,1.04,ml,30,46,0.04375,0.11,ci,ci40402626,2025-08-19T13:26:19.562Z,"5 km NNW of Little Lake, CA",earthquake,0.14,0.4,0.129,21,automatic,ci,ci
-2025-08-19T13:21:51.840Z,35.9766667,-117.9283333,5.73,1.1,ml,30,46,0.04368,0.1,ci,ci40402618,2025-08-19T13:25:25.357Z,"5 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.173,21,automatic,ci,ci
+2025-08-19T13:32:57.110Z,35.9768333,-117.9261667,5.93,0.88,ml,26,45,0.04234,0.13,ci,ci40402658,2025-08-19T14:15:00.858Z,"5 km NNW of Little Lake, CA",earthquake,0.16,0.39,0.194,17,reviewed,ci,ci
+2025-08-19T13:25:54.550Z,34.0146667,-116.3983333,6.22,1.1,ml,38,44,0.05495,0.16,ci,ci40402634,2025-08-19T14:15:20.723Z,"11 km ENE of Desert Hot Springs, CA",earthquake,0.18,0.37,0.131,26,reviewed,ci,ci
+2025-08-19T13:22:49.810Z,35.9768333,-117.9286667,5.47,1.04,ml,30,46,0.04375,0.11,ci,ci40402626,2025-08-19T14:15:23.489Z,"5 km NNW of Little Lake, CA",earthquake,0.14,0.4,0.129,21,reviewed,ci,ci
+2025-08-19T13:21:51.840Z,35.9766667,-117.9283333,5.73,1.1,ml,30,46,0.04368,0.1,ci,ci40402618,2025-08-19T14:15:41.373Z,"5 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.173,21,reviewed,ci,ci
 2025-08-19T13:13:55.160Z,33.9423333,-116.9476667,5.63,0.91,ml,46,31,0.03443,0.14,ci,ci40402602,2025-08-19T13:18:33.228Z,"3 km ENE of Beaumont, CA",earthquake,0.13,0.53,0.21,26,automatic,ci,ci
 2025-08-19T13:08:41.200Z,36.80533333,-98.34616667,6,1.73,ml,56,133,0.3158380218,0.2,ok,ok2025qffs,2025-08-19T13:41:19.581Z,"5 km N of Cherokee, Oklahoma",earthquake,,0.5,0.17,26,reviewed,ok,ok
 2025-08-19T13:04:24.382Z,64.5225,-150.5471,4.9,1.3,ml,,,,0.81,ak,ak025am8wpom,2025-08-19T13:06:33.338Z,"53 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -52,6 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-19T07:51:42.210Z,39.035831451416,-123.05549621582,5.6399998664856,1.7,md,24,42,0.04427,0.09,nc,nc75225742,2025-08-19T07:53:20.131Z,"12 km W of Lakeport, CA",earthquake,0.23,0.629999995,0.12,16,automatic,nc,nc
 2025-08-19T07:37:44.530Z,34.0216667,-117.5923333,4.89,1.03,ml,48,64,0.03067,0.15,ci,ci40402466,2025-08-19T13:26:02.560Z,"5 km SE of Ontario, CA",earthquake,0.16,0.29,0.2,32,reviewed,ci,ci
 2025-08-19T07:36:54.300Z,33.5396667,-116.7153333,5.95,0.25,ml,19,78,0.03155,0.1,ci,ci40402458,2025-08-19T13:26:03.560Z,"4 km WSW of Anza, CA",earthquake,0.15,0.33,0.149,8,reviewed,ci,ci
+2025-08-19T07:25:38.689Z,34.40816667,-97.47716667,6.23,1.35,ml,44,70,0.0449911712,0.23,ok,ok2025qeuk,2025-08-19T14:13:04.164Z,"5 km SSE of Ratliff City, Oklahoma",earthquake,,0.5,0.21,18,reviewed,ok,ok
 2025-08-19T07:17:05.273Z,61.4373,-149.6792,32.4,0.8,ml,,,,0.59,ak,ak025am5euvz,2025-08-19T07:19:15.851Z,"3 km SE of Knik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-19T07:08:42.340Z,34.224333333333,-82.059,0.16,1.7,md,4,189,0.1655,0.17,se,se60503943,2025-08-19T13:31:49.744Z,"5 km SE of Coronaca, South Carolina",earthquake,2.22,9.4,0.063826484634736,4,reviewed,se,se
 2025-08-19T06:56:23.313Z,61.3136,-152.245,2.9,0.6,ml,,,,0.8,ak,ak025am51tln,2025-08-19T06:58:12.903Z,"65 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -189,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-18T14:45:53.885Z,31.619,-104.285,7.4329,1.8,ml,22,71,0.1,0.2,tx,tx2025qfmqyq,2025-08-18T15:23:22.267Z,"57 km NW of Toyah, Texas",earthquake,0.93412649656583,2.2775079086167,0.2,11,reviewed,tx,tx
 2025-08-18T14:34:28.610Z,45.836333333333,-122.62883333333,15.88,0.92,ml,15,129,0.1751,0.1,uw,uw62172936,2025-08-18T19:22:00.540Z,"4 km SE of La Center, Washington",earthquake,0.24,0.65,0.13934937231362,6,reviewed,uw,uw
 2025-08-18T14:31:13.739Z,61.5345,-146.6657,30.9,1.3,ml,,,,0.45,ak,ak025akm4kb1,2025-08-18T14:33:06.510Z,"48 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-08-18T14:11:33.124Z,31.668,-104.288,2.7289,2.1,ml,28,85,0,0.2,tx,tx2025qflnjb,2025-08-18T15:33:51.322Z,"56 km S of Whites City, New Mexico",earthquake,0.42646238287982,0.49949361772739,0.2,13,reviewed,tx,tx
-2025-08-18T14:10:18.718Z,60.0756,-152.8228,104.8,1.1,ml,,,,0.39,ak,ak025akm02nj,2025-08-18T14:12:41.482Z,"62 km WNW of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
