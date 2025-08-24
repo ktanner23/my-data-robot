@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-24T19:12:21.010Z,33.4928333,-116.4743333,14.03,0.88,ml,40,48,0.1069,0.2,ci,ci41273536,2025-08-24T19:15:43.759Z,"20 km ESE of Anza, CA",earthquake,0.22,0.48,0.109,26,automatic,ci,ci
-2025-08-24T18:58:18.178Z,39.212,28.1586,11.616,4.8,mww,44,40,0.985,0.39,us,us6000r3ie,2025-08-24T19:17:47.711Z,"3 km SSW of Sındırgı, Turkey",earthquake,3.65,1.371,0.073,18,reviewed,us,us
+2025-08-24T18:58:18.178Z,39.212,28.1586,11.616,4.8,mww,44,40,0.985,0.39,us,us6000r3ie,2025-08-24T19:23:02.886Z,"3 km SSW of Sındırgı, Turkey",earthquake,3.65,1.371,0.073,18,reviewed,us,us
 2025-08-24T18:33:42.930Z,38.801666259766,-122.82033538818,4.8600001335144,0.74,md,7,101,0.009972,0.01,nc,nc75228157,2025-08-24T18:35:21.929Z,"6 km NW of The Geysers, CA",earthquake,0.95,4.96999979,0.36,8,automatic,nc,nc
 2025-08-24T18:32:48.689Z,32.106,-101.932,4.3224,1.5,ml,33,45,0.1,0.4,tx,tx2025qqunmi,2025-08-24T18:37:31.967Z,"13 km W of Stanton, Texas",earthquake,0,1.0901063680649,0.1,25,automatic,tx,tx
 2025-08-24T18:29:49.140Z,38.828998565674,-122.86949920654,2.6099998950958,0.77,md,12,122,0.009968,0.03,nc,nc75228152,2025-08-24T18:31:26.830Z,"11 km NW of The Geysers, CA",earthquake,0.45,0.620000005,0.14,14,automatic,nc,nc
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T09:13:04.330Z,46.0855,-111.654,10.3,1.46,ml,25,59,0.1846,0.16,mb,mb90108613,2025-08-24T14:15:26.740Z,"12 km S of Radersburg, Montana",earthquake,0.3,1.48,0.18292911509638,23,reviewed,mb,mb
 2025-08-24T08:42:57.593Z,61.1562,-148.765,33.5,0.9,ml,,,,0.18,ak,ak025aufuhwf,2025-08-24T08:44:14.142Z,"32 km NE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-24T08:42:12.614Z,31.665,-104.407,4.1331,1.4,mlv,21,70,0,0.5,tx,tx2025qqayuw,2025-08-24T17:10:55.452Z,"56 km S of Whites City, New Mexico",earthquake,0,1.2020757198334,0.2,15,automatic,tx,tx
-2025-08-24T08:40:10.374Z,31.987,-103.831,7.4666,2.1,mlv,30,162,0,0.3,tx,tx2025qqawyb,2025-08-24T17:10:47.040Z,"34 km SE of Malaga, New Mexico",earthquake,0,2.1658115386963,0.2,24,automatic,tx,tx
+2025-08-24T08:40:09.933Z,32.007,-103.812,7.0393,2.2,mlv,49,45,0,0.3,tx,tx2025qqawyb,2025-08-24T19:23:48.493Z,"34 km SE of Malaga, New Mexico",earthquake,0,1.4417921304703,0.2,37,automatic,tx,tx
 2025-08-24T08:38:59.220Z,38.823501586914,-122.80750274658,2.6600000858307,0.76,md,16,56,0.002011,0.01,nc,nc75227987,2025-08-24T08:40:35.103Z,"7 km NNW of The Geysers, CA",earthquake,0.27,0.74000001,0.14,16,automatic,nc,nc
 2025-08-24T08:33:25.620Z,35.2243333,-117.3158333,2.2,1.41,ml,36,53,0.2129,0.18,ci,ci41273184,2025-08-24T08:36:56.425Z,"33 km ESE of Johannesburg, CA",earthquake,0.18,0.81,0.189,26,automatic,ci,ci
 2025-08-24T08:32:44.510Z,38.836498260498,-122.78466796875,1.9500000476837,0.86,md,14,73,0.004826,0.02,nc,nc75227982,2025-08-24T08:34:20.093Z,"6 km WNW of Cobb, CA",earthquake,0.29,0.560000002,0.24,15,automatic,nc,nc
@@ -181,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-23T19:38:25.150Z,33.2595,-116.4196667,4.58,1.24,ml,57,25,0.008927,0.21,ci,ci41272592,2025-08-23T19:42:02.647Z,"4 km W of Borrego Springs, CA",earthquake,0.16,0.35,0.182,27,automatic,ci,ci
 2025-08-23T19:37:48.970Z,19.2381,-64.4996,23,3.6,md,16,301,0.8317,0.14,pr,pr2025235000,2025-08-23T20:37:33.581Z,"105 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,0.87,13.8,0.16,13,reviewed,pr,pr
 2025-08-23T19:33:38.245Z,36.9944,-116.1974,5.1,1,ml,29,63.15,0.018,0.1133,nn,nn00903080,2025-08-24T01:13:06.765Z,"50 km E of Beatty, Nevada",earthquake,,0.7,0.33,12,reviewed,nn,nn
-2025-08-23T19:19:36.750Z,38.822498321533,-122.813331604,1.6399999856949,0.28,md,7,124,0.002698,0.01,nc,nc75227782,2025-08-23T19:21:13.770Z,"7 km NNW of The Geysers, CA",earthquake,0.49,1.14999998,0.16,9,automatic,nc,nc
-2025-08-23T19:19:27.430Z,34.289166666667,-82.112,7.95,2.05,md,10,78,0.1344,0.23,se,se60503983,2025-08-24T15:34:51.634Z,"3 km NNW of Coronaca, South Carolina",earthquake,0.5,1.32,0.044474458992141,7,reviewed,se,se
