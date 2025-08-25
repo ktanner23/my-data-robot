@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-25T23:27:26.440Z,34.1571667,-117.436,6.64,0.97,ml,28,70,0.073,0.17,ci,ci41274920,2025-08-25T23:30:57.994Z,"7 km NNE of Fontana, CA",earthquake,0.27,0.52,0.243,8,automatic,ci,ci
 2025-08-25T23:26:06.769Z,62.8942,-148.229,60.4,0.9,ml,,,,0.36,ak,ak025awc7t38,2025-08-25T23:27:45.210Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-08-25T23:25:56.630Z,48.720833333333,-123.5945,-0.21,0.93,ml,4,243,0.1182,0.07,uw,uw62176396,2025-08-25T23:51:06.990Z,"2 km SE of Cowichan Bay, Canada",explosion,0.91,31.61,0.039518710144031,2,reviewed,uw,uw
 2025-08-25T23:05:02.978Z,32.423,-102.133,3.1507,0.9,ml,14,78,0,0.4,tx,tx2025qszhfw,2025-08-25T23:08:35.656Z,"38 km SSW of Los Ybanez, Texas",earthquake,0,1.3195281028748,0.2,8,automatic,tx,tx
 2025-08-25T23:01:32.550Z,18.232833333333,-67.1105,20.73,2.26,md,10,115,0.03211,0.17,pr,pr71493578,2025-08-25T23:27:40.730Z,"4 km NE of Mayagüez, Puerto Rico",earthquake,0.68,0.86,0.06243566026615,6,reviewed,pr,pr
 2025-08-25T22:55:51.640Z,46.2035,-122.17216666667,8.56,0.13,ml,15,83,0.009831,0.17,uw,uw62176376,2025-08-25T23:23:34.260Z,"38 km NNE of Amboy, Washington",earthquake,0.47,0.52,0.12004873363233,6,reviewed,uw,uw
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T21:35:27.610Z,38.804500579834,-122.7808303833,3.3800001144409,0.77,md,8,102,0.008746,0.01,nc,nc75228712,2025-08-25T21:37:03.857Z,"4 km NNW of The Geysers, CA",earthquake,0.97,1.87,0.04,10,automatic,nc,nc
 2025-08-25T21:08:46.480Z,32.6075,-116.9638333,5.66,1.15,ml,21,93,0.0284,0.2,ci,ci41274776,2025-08-25T21:12:19.246Z,"8 km ESE of Chula Vista, CA",earthquake,0.38,0.97,0.128,10,automatic,ci,ci
 2025-08-25T21:05:26.340Z,35.1098333,-118.216,8.26,0.71,ml,15,41,0.04279,0.1,ci,ci41274768,2025-08-25T21:09:01.232Z,"7 km NNW of Mojave, CA",earthquake,0.17,0.37,0.143,9,automatic,ci,ci
-2025-08-25T21:04:35.030Z,34.277833333333,-82.111,5.47,1.74,md,7,95,0.1307,0.24,se,se60504008,2025-08-25T21:47:38.687Z,"2 km NW of Coronaca, South Carolina",earthquake,2.14,4.5,0.027923667390318,6,reviewed,se,se
+2025-08-25T21:04:35.030Z,34.277833333333,-82.111,5.47,1.74,md,7,95,0.1307,0.24,se,se60504008,2025-08-25T23:49:08.588Z,"2 km NW of Coronaca, South Carolina",earthquake,2.14,4.5,0.027923667390318,6,reviewed,se,se
 2025-08-25T21:01:19.916Z,32.062,-101.933,0.2235,1.1,ml,21,175,0.1,0.7,tx,tx2025qsveqe,2025-08-25T21:05:33.067Z,"15 km ENE of Midland, Texas",earthquake,0,1.2506674528122,0.1,12,automatic,tx,tx
 2025-08-25T20:54:14.587Z,61.2318,-151.8676,93.3,1.6,ml,,,,0.53,ak,ak025awalixe,2025-08-25T20:55:53.636Z,"43 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-25T20:42:53.987Z,63.1597,-147.7153,0,1.5,ml,,,,0.9,ak,ak025awaj1di,2025-08-25T20:44:53.614Z,"67 km ESE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -222,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T00:03:04.100Z,33.2461667,-116.811,15.6,1.17,ml,51,24,0.04494,0.16,ci,ci41273640,2025-08-25T20:40:50.350Z,"4 km W of Lake Henshaw, CA",earthquake,0.14,0.37,0.137,33,reviewed,ci,ci
 2025-08-24T23:54:22.437Z,49.7411,159.674,10,4.4,mb,58,138,3.349,0.59,us,us6000r3jg,2025-08-25T02:34:28.040Z,"273 km ESE of Severo-Kuril’sk, Russia",earthquake,9.33,1.874,0.074,53,reviewed,us,us
 2025-08-24T23:54:10.130Z,38.793334960938,-122.76349639893,3.4300000667572,0.72,md,9,78,0.01909,0.01,nc,nc75228262,2025-08-24T23:55:47.336Z,"2 km  of The Geysers, CA",earthquake,0.4,1.03999996,0.2,12,automatic,nc,nc
-2025-08-24T23:44:39.650Z,44.4745,-110.442,2.28,0.55,md,7,95,0.09045,0.22,uu,uu80004638,2025-08-25T18:20:39.190Z,"56 km ESE of West Yellowstone, Montana",earthquake,0.91,31.61,0.25822485315145,4,reviewed,uu,uu
-2025-08-24T23:44:27.810Z,44.4855,-110.44983333333,2.21,0.21,md,7,88,0.0823,0.2,uu,uu80114581,2025-08-25T18:19:29.210Z,"55 km ESE of West Yellowstone, Montana",earthquake,0.87,31.61,0.23722111218493,3,reviewed,uu,uu
-2025-08-24T23:42:55.180Z,38.837001800537,-122.78433227539,0.76999998092651,2.11,md,40,66,0.004901,0.07,nc,nc75228252,2025-08-25T00:07:19.507Z,"6 km WNW of Cobb, CA",earthquake,0.18,0.25999999,0.17,39,automatic,nc,nc
