@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-25T22:13:12.659Z,49.1525,156.0336,35,5.6,mww,84,121,4.097,0.81,us,us7000qqx7,2025-08-25T22:30:16.040Z,"169 km S of Severo-Kuril’sk, Russia",earthquake,10.29,1.895,0.073,18,reviewed,us,us
+2025-08-25T22:13:12.659Z,49.1525,156.0336,35,5.6,mww,84,121,4.097,0.81,us,us7000qqx7,2025-08-25T22:40:46.770Z,"169 km S of Severo-Kuril’sk, Russia",earthquake,10.29,1.895,0.073,18,reviewed,us,us
 2025-08-25T22:13:08.765Z,62.1102,-150.103,16.2,1.4,ml,,,,0.53,ak,ak025awbjlbw,2025-08-25T22:14:50.589Z,"14 km WSW of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-25T21:35:27.610Z,38.804500579834,-122.7808303833,3.3800001144409,0.77,md,8,102,0.008746,0.01,nc,nc75228712,2025-08-25T21:37:03.857Z,"4 km NNW of The Geysers, CA",earthquake,0.97,1.87,0.04,10,automatic,nc,nc
 2025-08-25T21:08:46.480Z,32.6075,-116.9638333,5.66,1.15,ml,21,93,0.0284,0.2,ci,ci41274776,2025-08-25T21:12:19.246Z,"8 km ESE of Chula Vista, CA",earthquake,0.38,0.97,0.128,10,automatic,ci,ci
@@ -24,10 +24,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T19:18:23.650Z,5.3375,127.0327,120.62,4.8,mb,76,93,1.66,0.78,us,us7000qqw6,2025-08-25T19:34:00.040Z,"147 km SE of Pondaguitan, Philippines",earthquake,6.95,6.815,0.071,61,reviewed,us,us
 2025-08-25T19:00:10.330Z,61.1032,-147.3844,19,1.2,ml,,,,1.59,ak,ak025aw9oibt,2025-08-25T19:02:55.016Z,"46 km NW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-25T18:46:42.940Z,38.816501617432,-122.79733276367,2.5599999427795,1.08,md,17,35,0.008667,0.02,nc,nc75228687,2025-08-25T18:48:17.459Z,"6 km NNW of The Geysers, CA",earthquake,0.26,0.629999995,0.27,18,automatic,nc,nc
-2025-08-25T18:38:29.700Z,33.8685,-117.0011667,2.16,0.98,ml,10,128,0.05546,0.25,ci,ci41274504,2025-08-25T18:41:58.656Z,"7 km SSW of Beaumont, CA",earthquake,1.28,2.55,0.235,23,automatic,ci,ci
+2025-08-25T18:38:30.560Z,33.81,-116.9616667,9.3,0.71,ml,12,155,0.1069,0.12,ci,ci41274504,2025-08-25T22:39:06.682Z,"3 km N of San Jacinto, CA",earthquake,0.37,0.78,0.13,10,reviewed,ci,ci
 2025-08-25T18:37:55.820Z,38.816833496094,-122.79699707031,2.329999923706,1.07,md,24,34,0.008951,0.01,nc,nc75228672,2025-08-25T18:39:32.403Z,"6 km NNW of The Geysers, CA",earthquake,0.2,0.370000005,0.17,25,automatic,nc,nc
 2025-08-25T18:31:21.670Z,38.130165100098,-122.15416717529,3.9400000572205,2.07,md,10,166,0.008313,0.21,nc,nc75228667,2025-08-25T19:27:24.835Z,"7 km E of Vallejo, CA",earthquake,1.5,1.33000004,0.23,10,automatic,nc,nc
-2025-08-25T18:22:38.850Z,33.8026667,-116.9166667,8.72,0.97,ml,29,103,0.04298,0.2,ci,ci41274456,2025-08-25T18:26:09.376Z,"4 km ENE of San Jacinto, CA",earthquake,0.3,0.72,0.203,29,automatic,ci,ci
+2025-08-25T18:22:38.650Z,33.803,-116.9136667,11.04,0.85,ml,18,126,0.04542,0.11,ci,ci41274456,2025-08-25T22:35:07.839Z,"5 km ENE of San Jacinto, CA",earthquake,0.27,0.35,0.119,19,reviewed,ci,ci
 2025-08-25T18:17:32.964Z,31.667,-104.476,6.0999,2.4,ml,20,71,0,0.1,tx,tx2025qsptmn,2025-08-25T19:30:35.170Z,"57 km S of Whites City, New Mexico",earthquake,1.2357367366244,0.76822423039036,0.2,19,reviewed,tx,tx
 2025-08-25T18:15:18.367Z,31.945,-102.333,3.1743,1.4,ml,5,241,0,0.3,tx,tx2025qspovg,2025-08-25T19:02:46.945Z,"9 km SSE of Gardendale, Texas",earthquake,0,4.8638672828674,0.4,5,automatic,tx,tx
 2025-08-25T18:12:49.903Z,31.593,-104.005,6.3947,1.8,ml,19,72,0,0.1,tx,tx2025qsppld,2025-08-25T19:30:28.248Z,"36 km NNW of Toyah, Texas",earthquake,0.40319168704126,0.40630736311098,0.2,28,reviewed,tx,tx
@@ -193,6 +193,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T01:09:58.870Z,38.585666656494,-119.42583465576,14.720000267029,2.29,md,6,164,0.2365,0.03,nc,nc75228327,2025-08-25T17:23:59.007Z,"9 km NE of Walker, CA",earthquake,0.68,2.33999991,0.18,3,automatic,nc,nc
 2025-08-25T01:09:04.840Z,41.853833333333,-112.60316666667,1.72,1.85,ml,16,223,0.2137,0.18,uu,uu80004598,2025-08-25T18:08:17.630Z,"14 km WNW of Howell, Utah",earthquake,1.03,2.21,0.18002496809325,6,reviewed,uu,uu
 2025-08-25T01:08:13.190Z,33.5316667,-116.7195,6.77,0.3,ml,18,59,0.03678,0.14,ci,ci41273800,2025-08-25T13:58:42.745Z,"5 km WSW of Anza, CA",earthquake,0.25,0.38,0.232,6,reviewed,ci,ci
+2025-08-25T01:00:44.690Z,54.737,-164.08516666667,6.76,0.36,ml,5,275,0.05803,0.26,av,av93733093,2025-08-25T22:43:41.260Z,"45 km WSW of False Pass, Alaska",earthquake,1.3,1.62,0.25744878687047,5,reviewed,av,av
 2025-08-25T00:58:46.210Z,38.78466796875,-122.72399902344,1.7400000095367,1.33,md,14,83,0.01005,0.02,nc,nc75228312,2025-08-25T01:00:22.889Z,"3 km E of The Geysers, CA",earthquake,0.27,0.519999981,0.09,15,automatic,nc,nc
 2025-08-25T00:58:33.167Z,61.5651,-149.7243,36.9,1.2,ml,,,,0.62,ak,ak025avypr4k,2025-08-25T01:01:41.426Z,"8 km SE of Houston, Alaska",earthquake,,9.8,,,automatic,ak,ak
 2025-08-25T00:43:22.970Z,37.333666666667,-122.129,6.54,0.65,md,9,140,0.02442,0.06,nc,nc75228302,2025-08-25T21:19:05.544Z,"3 km SW of Loyola, CA",earthquake,0.38,0.55,0.136,6,reviewed,nc,nc
@@ -201,6 +202,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T00:32:04.200Z,33.5218333,-116.5411667,14.52,0.7,ml,26,51,0.05773,0.15,ci,ci41273656,2025-08-25T20:52:52.046Z,"13 km ESE of Anza, CA",earthquake,0.21,0.32,0.141,11,reviewed,ci,ci
 2025-08-25T00:21:55.640Z,37.324001312256,-122.12783050537,6.2699999809265,2.47,md,67,51,0.02089,0.13,nc,nc75228287,2025-08-25T19:35:59.372Z,"4 km SW of Loyola, CA",earthquake,0.17,0.340000004,0.11,72,automatic,nc,nc
 2025-08-25T00:16:37.429Z,62.9099,-150.6908,29.3,1.2,ml,,,,0.99,ak,ak025avygrdq,2025-08-25T00:18:47.692Z,"46 km N of Petersville, Alaska",earthquake,,3.9,,,automatic,ak,ak
+2025-08-25T00:12:42.820Z,54.7395,-164.04233333333,7.09,0.16,ml,4,240,0.03991,0.2,av,av93733053,2025-08-25T22:39:54.980Z,"42 km WSW of False Pass, Alaska",earthquake,1,1.35,0.15183556440328,4,reviewed,av,av
 2025-08-25T00:12:37.004Z,37.5346,-117.2172,11.7,1.2,ml,18,127.68,0.237,0.1648,nn,nn00903131,2025-08-25T16:31:48.250Z,"19 km S of Goldfield, Nevada",earthquake,,1.9,0.67,5,reviewed,nn,nn
 2025-08-25T00:10:55.390Z,38.835498809815,-122.79916381836,2.2400000095367,1.09,md,18,64,0.007476,0.02,nc,nc75228282,2025-08-25T00:12:33.565Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.589999974,0.14,20,automatic,nc,nc
 2025-08-25T00:09:41.794Z,36.2953,71.4705,108.231,4.4,mb,65,76,2.17,0.5,us,us6000r3jj,2025-08-25T03:26:28.040Z,"43 km S of Ashkāsham, Afghanistan",earthquake,6.91,6.932,0.084,41,reviewed,us,us
@@ -223,4 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T23:15:36.577Z,38.7131,-118.7753,5.5,1.2,ml,9,92.96,0.453,0.1212,nn,nn00903128,2025-08-24T23:18:20.944Z,"7 km NNW of Walker Lake, Nevada",earthquake,,2.2,0.13,7,automatic,nn,nn
 2025-08-24T23:11:25.350Z,41.305833333333,-111.82116666667,0.84,0.91,ml,20,122,0.1011,0.17,uu,uu80114576,2025-08-25T18:32:04.760Z,"0 km NW of Eden, Utah",earthquake,0.55,7.38,0.16985710948805,2,reviewed,uu,uu
 2025-08-24T23:04:30.129Z,-6.9331,129.365,158.559,4.6,mb,20,122,4.914,0.43,us,us6000r3j8,2025-08-25T02:03:31.040Z,"Banda Sea",earthquake,9.15,14.195,0.122,20,reviewed,us,us
-2025-08-24T22:42:46.100Z,35.7063333,-117.5551667,4.23,1.17,ml,31,66,0.1145,0.14,ci,ci41273616,2025-08-25T13:04:14.300Z,"14 km NE of Ridgecrest, CA",earthquake,0.16,0.46,0.137,22,reviewed,ci,ci
