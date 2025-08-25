@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-25T16:24:49.490Z,33.534,-116.7183333,5.76,0.87,ml,35,27,0.0351,0.17,ci,ci41274312,2025-08-25T16:29:19.576Z,"5 km WSW of Anza, CA",earthquake,0.17,0.4,0.142,22,automatic,ci,ci
+2025-08-25T16:24:33.270Z,60.1049,-152.5294,75.9,1.3,ml,,,,0.18,ak,ak025aw81egv,2025-08-25T16:25:50.741Z,"47 km WNW of Happy Valley, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-08-25T16:24:03.869Z,63.1308,-149.3068,74.2,0.8,ml,,,,0.46,ak,ak025aw81c76,2025-08-25T16:26:29.659Z,"34 km SSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-25T16:11:48.880Z,33.6861667,-116.7993333,13.93,1.05,ml,47,31,0.06908,0.14,ci,ci41274296,2025-08-25T16:19:19.079Z,"10 km SW of Idyllwild, CA",earthquake,0.15,0.32,0.219,28,automatic,ci,ci
 2025-08-25T16:08:15.176Z,32.305,-101.832,4.5986,1.2,ml,32,38,0,0.5,tx,tx2025qslmbv,2025-08-25T16:11:59.941Z,"19 km NNW of Stanton, Texas",earthquake,0,0.93737119436264,0.1,20,automatic,tx,tx
 2025-08-25T15:46:58.800Z,40.305168151855,-124.45983123779,8.0299997329712,2.14,md,22,275,0.09121,0.12,nc,nc75228572,2025-08-25T16:07:17.408Z,"15 km W of Petrolia, CA",earthquake,2.31,0.620000005,0.11,15,automatic,nc,nc
@@ -127,7 +130,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T00:32:04.230Z,33.5248333,-116.54,14.77,0.81,ml,27,51,0.06003,0.16,ci,ci41273656,2025-08-25T00:36:40.101Z,"13 km ESE of Anza, CA",earthquake,0.22,0.41,0.041,5,automatic,ci,ci
 2025-08-25T00:21:55.640Z,37.324001312256,-122.12783050537,6.2699999809265,2.47,md,67,51,0.02089,0.13,nc,nc75228287,2025-08-25T05:23:23.664Z,"4 km SW of Loyola, CA",earthquake,0.17,0.340000004,0.11,72,automatic,nc,nc
 2025-08-25T00:16:37.429Z,62.9099,-150.6908,29.3,1.2,ml,,,,0.99,ak,ak025avygrdq,2025-08-25T00:18:47.692Z,"46 km N of Petersville, Alaska",earthquake,,3.9,,,automatic,ak,ak
-2025-08-25T00:12:36.545Z,37.5521,-117.2174,3.1,1.2,ml,21,132.23,0.254,0.3185,nn,nn00903131,2025-08-25T00:15:23.058Z,"17 km S of Goldfield, Nevada",earthquake,,8.8,0.24,14,automatic,nn,nn
+2025-08-25T00:12:37.004Z,37.5346,-117.2172,11.7,1.2,ml,18,127.68,0.237,0.1648,nn,nn00903131,2025-08-25T16:31:48.250Z,"19 km S of Goldfield, Nevada",earthquake,,1.9,0.67,5,reviewed,nn,nn
 2025-08-25T00:10:55.390Z,38.835498809815,-122.79916381836,2.2400000095367,1.09,md,18,64,0.007476,0.02,nc,nc75228282,2025-08-25T00:12:33.565Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.589999974,0.14,20,automatic,nc,nc
 2025-08-25T00:09:41.794Z,36.2953,71.4705,108.231,4.4,mb,65,76,2.17,0.5,us,us6000r3jj,2025-08-25T03:26:28.040Z,"43 km S of Ashkāsham, Afghanistan",earthquake,6.91,6.932,0.084,41,reviewed,us,us
 2025-08-25T00:09:37.951Z,65.8181,-150.0515,0,1.4,ml,,,,0.64,ak,ak025avyf9er,2025-08-25T00:11:38.625Z,"35 km N of Rampart, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -192,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-24T16:47:36.368Z,61.2672,-147.468,8.2,1.6,ml,,,,0.7,ak,ak025aukmzok,2025-08-24T16:54:28.062Z,"61 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-24T16:43:22.150Z,38.81266784668,-122.80416870117,2.6800000667572,0.82,md,8,82,0.008367,0.01,nc,nc75228132,2025-08-24T16:44:57.343Z,"6 km NW of The Geysers, CA",earthquake,0.49,1.85000002,0.2,10,automatic,nc,nc
 2025-08-24T16:39:08.330Z,17.936666666667,-66.296833333333,12.7,2.16,md,14,177,0.1092,0.16,pr,pr71493508,2025-08-24T16:53:09.270Z,"4 km S of Salinas, Puerto Rico",earthquake,0.54,0.38,0.24536343499818,10,reviewed,pr,pr
-2025-08-24T16:31:04.070Z,18.1835,-66.482666666667,29.65,2.35,md,18,87,0.1418,0.12,pr,pr71493493,2025-08-24T16:59:41.970Z,"6 km N of Villalba, Puerto Rico",earthquake,0.38,0.56,0.15335953029193,7,reviewed,pr,pr
