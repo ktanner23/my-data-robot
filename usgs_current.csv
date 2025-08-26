@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-26T16:35:10.790Z,33.689,-116.357,9.8,1.16,ml,55,40,0.04452,0.16,ci,ci41275544,2025-08-26T16:38:33.752Z,"4 km SSE of Palm Desert, CA",earthquake,0.14,0.37,0.18,26,automatic,ci,ci
+2025-08-26T16:35:10.790Z,33.689,-116.357,9.8,1.16,ml,55,40,0.04452,0.16,ci,ci41275544,2025-08-26T16:45:35.510Z,"4 km SSE of Palm Desert, CA",earthquake,0.14,0.37,0.18,26,automatic,ci,ci
 2025-08-26T16:18:42.490Z,37.044998168945,-121.49183654785,4.8299999237061,1.41,md,9,137,0.02044,0.11,nc,nc75228987,2025-08-26T16:20:21.826Z,"8 km ENE of Gilroy, CA",earthquake,0.51,0.839999974,0.12,5,automatic,nc,nc
 2025-08-26T16:17:35.570Z,35.3493333,-117.8001667,6.37,1.35,ml,46,36,0.08985,0.19,ci,ci41275488,2025-08-26T16:21:07.679Z,"15 km W of Johannesburg, CA",earthquake,0.17,0.53,0.158,25,automatic,ci,ci
 2025-08-26T16:05:48.900Z,37.158500671387,-121.54683685303,4.4299998283386,1.33,md,10,109,0.06106,0.12,nc,nc75228982,2025-08-26T16:07:25.814Z,"10 km NE of San Martin, CA",earthquake,0.52,1.53999996,0.21,8,automatic,nc,nc
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T08:28:21.950Z,33.4713333,-116.4608333,2.69,0.86,ml,47,33,0.1204,0.23,ci,ci41275096,2025-08-26T13:35:34.640Z,"22 km ESE of Anza, CA",earthquake,0.2,0.8,0.189,25,reviewed,ci,ci
 2025-08-26T08:15:29.138Z,61.7155,-149.8195,35.4,2,ml,,,,0.19,ak,ak025axqrccx,2025-08-26T08:17:21.363Z,"9 km N of Houston, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-08-26T08:03:48.231Z,54.5665,-160.0511,32.632,5.1,mb,21,207,0.377,0.81,us,us7000qqzj,2025-08-26T15:29:11.040Z,"90 km SSE of Sand Point, Alaska",earthquake,7.39,12.484,0.027,439,reviewed,us,us
-2025-08-26T07:49:07.766Z,44.0121,-68.8689,10.143,2.5,mb_lg,15,160,0.793,0.55,us,us7000qqzg,2025-08-26T16:37:53.402Z,"4 km SW of Vinalhaven, Maine",earthquake,2.62,8.546,0.18,8,reviewed,us,us
+2025-08-26T07:49:07.766Z,44.0121,-68.8689,10.143,2.5,mb_lg,15,160,0.793,0.55,us,us7000qqzg,2025-08-26T16:43:10.520Z,"4 km SW of Vinalhaven, Maine",earthquake,2.62,8.546,0.18,8,reviewed,us,us
 2025-08-26T07:46:28.300Z,33.1441667,-115.6263333,7.87,1.32,ml,30,96,0.0344,0.2,ci,ci41275088,2025-08-26T07:49:49.441Z,"11 km W of Calipatria, CA",earthquake,0.37,0.58,0.129,7,automatic,ci,ci
 2025-08-26T07:46:27.180Z,38.796333312988,-122.81099700928,3.3499999046326,2.1,md,55,50,0.01011,0.06,nc,nc75228867,2025-08-26T08:12:18.391Z,"5 km NW of The Geysers, CA",earthquake,0.15,0.25,0.13,49,automatic,nc,nc
 2025-08-26T07:45:32.110Z,33.1405,-115.6381667,6.9,1.78,ml,55,41,0.04143,0.25,ci,ci41275080,2025-08-26T07:56:44.590Z,"12 km N of Westmorland, CA",earthquake,0.2,0.47,0.162,28,automatic,ci,ci
@@ -198,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-25T17:01:05.718Z,32.249,-101.386,3.9795,0.9,ml,14,72,0,0.2,tx,tx2025qsnfpo,2025-08-25T19:51:52.567Z,"4 km SW of Sand Springs, Texas",earthquake,0.72134339004421,1.1938242602418,0.1,6,reviewed,tx,tx
 2025-08-25T16:55:59.681Z,32.423,-102.141,6.7627,1.6,ml,44,76,0,0.2,tx,tx2025qsnaud,2025-08-26T00:41:06.654Z,"38 km ENE of McKinney Acres, Texas",earthquake,0.43034350626339,0.52715323250534,0.1,18,reviewed,tx,tx
 2025-08-25T16:52:31.244Z,63.2744,-150.4267,120.1,1.2,ml,,,,0.19,ak,ak025aw87ed0,2025-08-25T16:55:00.861Z,"71 km ESE of Denali National Park, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-08-25T16:46:02.850Z,35.62366667,-98.037,9,1.47,ml,50,52,0.1565692758,0.14,ok,ok2025qqlx,2025-08-26T14:04:08.903Z,"7 km ENE of Calumet, Oklahoma",earthquake,,1.3,0.29,21,reviewed,ok,ok
-2025-08-25T16:43:39.920Z,38.791000366211,-122.76916503906,1.1900000572205,0.81,md,6,93,0.01482,0.01,nc,nc75228617,2025-08-25T16:45:18.734Z,"2 km NNW of The Geysers, CA",earthquake,0.63,1.88999999,0.39,8,automatic,nc,nc
