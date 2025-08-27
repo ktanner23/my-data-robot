@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-27T02:37:14.218Z,31.634,-104.483,3.411,2.3,ml,30,128,0,0.3,tx,tx2025qvcayy,2025-08-27T02:41:11.746Z,"60 km S of Whites City, New Mexico",earthquake,0,1.1963918209076,0.2,22,automatic,tx,tx
+2025-08-27T02:37:14.218Z,31.634,-104.483,3.411,2.3,ml,30,128,0,0.3,tx,tx2025qvcayy,2025-08-27T03:00:51.885Z,"60 km S of Whites City, New Mexico",earthquake,0,1.1963917016983,0.2,22,automatic,tx,tx
 2025-08-27T02:22:59.188Z,31.654,-104.442,5.946,2.7,ml,35,78,0,0.1,tx,tx2025qvborr,2025-08-27T02:35:47.719Z,"58 km S of Whites City, New Mexico",earthquake,1.0958140033955,0.49673193406396,0.1,50,reviewed,tx,tx
 2025-08-27T02:04:46.220Z,38.770832061768,-122.72799682617,1.1200000047684,1.05,md,11,68,0.009546,0.03,nc,nc75229217,2025-08-27T02:06:21.289Z,"3 km ESE of The Geysers, CA",earthquake,0.28,0.340000004,0.29,11,automatic,nc,nc
 2025-08-27T01:54:27.039Z,35.6265,-98.0445,7.05,1.42,ml,87,52,0.1502705118,0.18,ok,ok2025qszn,2025-08-27T02:33:35.639Z,"7 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.24,37,reviewed,ok,ok
@@ -7,10 +7,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T01:31:08.001Z,-5.6389,151.081,91.997,5,mb,51,70,1.798,1.06,us,us7000qr82,2025-08-27T01:48:07.040Z,"104 km E of Kimbe, Papua New Guinea",earthquake,7.01,7.021,0.066,72,reviewed,us,us
 2025-08-27T01:15:15.095Z,36.9265,-115.441,3.8,1,ml,16,202.36,0.419,0.2019,nn,nn00903213,2025-08-27T01:17:45.037Z,"44 km NNE of Indian Springs, Nevada",earthquake,,10.9,0.28,11,automatic,nn,nn
 2025-08-27T01:06:30.010Z,33.3586667,-115.7875,2.33,1.28,ml,48,31,0.0488,0.23,ci,ci41276144,2025-08-27T01:10:04.547Z,"5 km W of Bombay Beach, CA",earthquake,0.2,0.39,0.111,27,automatic,ci,ci
-2025-08-27T00:10:37.576Z,-24.8691,-175.6461,35,5.2,mb,176,121,9.203,0.63,us,us7000qr7s,2025-08-27T00:48:54.040Z,"south of Tonga",earthquake,12.52,1.85,0.045,160,reviewed,us,us
+2025-08-27T00:10:36.901Z,-24.8889,-175.6076,35,5.2,mb,169,121,9.241,0.54,us,us7000qr7s,2025-08-27T03:08:36.040Z,"south of Tonga",earthquake,12.9,1.862,0.046,152,reviewed,us,us
 2025-08-27T00:10:22.510Z,36.0098333,-117.812,1.43,1.13,ml,28,53,0.02741,0.15,ci,ci41276104,2025-08-27T00:13:49.663Z,"12 km NE of Little Lake, CA",earthquake,0.14,0.18,0.183,24,automatic,ci,ci
 2025-08-27T00:09:21.960Z,34.0295,-116.8275,10.1,1.14,ml,49,27,0.01732,0.16,ci,ci41276096,2025-08-27T00:20:14.990Z,"12 km NNE of Banning, CA",earthquake,0.15,0.3,0.147,29,automatic,ci,ci
-2025-08-27T00:04:38.509Z,-61.904,-64.8417,10,5.2,mb,49,107,2.904,0.78,us,us7000qr7r,2025-08-27T00:22:08.040Z,"Drake Passage",earthquake,12.18,1.874,0.066,76,reviewed,us,us
+2025-08-27T00:04:37.989Z,-61.8842,-64.8627,10,5.2,mb,84,82,2.925,0.88,us,us7000qr7r,2025-08-27T03:00:15.040Z,"Drake Passage",earthquake,11.94,1.758,0.064,79,reviewed,us,us
 2025-08-27T00:00:39.072Z,57.4063,-154.6262,0,2.7,ml,,,,0.39,ak,ak025az9g11f,2025-08-27T02:44:33.040Z,"20 km SSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-08-26T23:55:18.910Z,38.838165283203,-122.87983703613,2.6400001049042,0.91,md,14,111,0.002825,0.02,nc,nc75229202,2025-08-26T23:56:57.277Z,"12 km E of Cloverdale, CA",earthquake,0.4,0.660000026,0.18,16,automatic,nc,nc
 2025-08-26T23:33:49.420Z,33.7763333,-117.561,7.28,1.38,ml,50,53,0.04427,0.19,ci,ci41276072,2025-08-27T00:10:22.676Z,"10 km S of Corona, CA",earthquake,0.19,0.39,0.168,42,reviewed,ci,ci
@@ -207,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-26T03:34:11.920Z,60.003666666667,-153.07733333333,-0.76,-0.41,ml,5,109,0.03216,0.05,av,av93734448,2025-08-26T21:35:04.550Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.2,3.13,0.31588124263049,5,reviewed,av,av
 2025-08-26T03:31:47.330Z,37.654166666667,-119.01333333333,-1.14,0.36,md,8,177,0.003977,0.02,nc,nc75228802,2025-08-26T08:38:03.272Z,"4 km WNW of Mammoth Lakes, CA",earthquake,0.47,0.3,0.104,4,reviewed,nc,nc
 2025-08-26T03:14:37.592Z,60.8688,-149.0971,87,1.9,ml,,,,0.92,ak,ak025axnrz9r,2025-08-26T03:16:55.581Z,"9 km SSE of Girdwood, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-08-26T03:08:43.470Z,52.127833333333,-175.9925,11.86,0.62,ml,7,269,0.05285,0.19,av,av93734408,2025-08-26T21:29:57.860Z,"52 km ENE of Adak, Alaska",earthquake,1.3,0.9,0.25946441473019,7,reviewed,av,av
-2025-08-26T02:54:53.770Z,38.792167663574,-122.76933288574,2.0699999332428,1.31,md,27,76,0.01131,0.03,nc,nc75228792,2025-08-26T02:56:30.431Z,"2 km NNW of The Geysers, CA",earthquake,0.21,0.379999995,0.2,26,automatic,nc,nc
-2025-08-26T02:53:36.090Z,38.822666168213,-122.8433303833,1.4500000476837,0.76,md,15,83,0.006499,0.02,nc,nc75228787,2025-08-26T02:55:15.078Z,"9 km NW of The Geysers, CA",earthquake,0.25,0.5,0.48,16,automatic,nc,nc
