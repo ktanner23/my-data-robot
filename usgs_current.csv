@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T22:45:48.550Z,19.428833007812,-155.26016235352,2.5599999427795,1.79,ml,9,272,0.007308,0.140000001,hv,hv74763986,2025-08-28T22:48:53.030Z,"3 km WSW of Volcano, Hawaii",earthquake,0.89,0.460000008,0.24,17,automatic,hv,hv
 2025-08-28T22:36:03.480Z,33.2961667,-116.211,2.37,0.48,ml,18,161,0.1057,0.18,ci,ci41277736,2025-08-28T22:40:12.129Z,"16 km ENE of Borrego Springs, CA",earthquake,0.3,0.36,0.178,6,automatic,ci,ci
 2025-08-28T22:18:13.490Z,38.771331787109,-122.73899841309,0.70999997854233,0.88,md,8,75,0.01202,0.03,nc,nc75230042,2025-08-28T22:37:20.587Z,"2 km SE of The Geysers, CA",earthquake,0.31,0.670000017,0.38,8,automatic,nc,nc
-2025-08-28T21:44:18.774Z,35.62577438,-98.04270935,4.031110287,1.88,ml,11,112.6898923,0.1519389004,0.3676120871,ok,ok2025qwig,2025-08-28T21:46:16.357Z,"7 km ENE of Calumet, Oklahoma",earthquake,3.920100442,3.14380201,0.31,9,automatic,ok,ok
+2025-08-28T21:44:18.370Z,35.61616667,-98.04616667,7.68,1.46,ml,70,55,0.1529699821,0.14,ok,ok2025qwig,2025-08-28T22:55:38.177Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.3,0.27,33,reviewed,ok,ok
 2025-08-28T21:34:22.150Z,33.2546667,-116.1325,6.75,0.58,ml,9,176,0.1031,0.11,ci,ci41277696,2025-08-28T22:26:13.196Z,"12 km N of Ocotillo Wells, CA",earthquake,0.43,0.93,0.108,6,reviewed,ci,ci
 2025-08-28T21:32:39.122Z,31.318,-103.668,6.7714,1.7,ml,22,51,0.1,0.5,tx,tx2025qyjkdj,2025-08-28T22:00:35.650Z,"11 km E of Toyah, Texas",earthquake,0,2.0230135917664,0.2,16,automatic,tx,tx
 2025-08-28T21:21:35.130Z,35.62966667,-98.0325,7.44,2.04,ml,69,62,0.159268746,0.2,ok,ok2025qwhn,2025-08-28T22:20:19.391Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.5,0.22,39,reviewed,ok,ok
@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T13:14:20.820Z,35.31716667,-97.94016667,5.95,1.34,ml,51,55,0.07558516761,0.3,ok,ok2025qvrk,2025-08-28T13:26:31.393Z,"0 km NE of Minco, Oklahoma",earthquake,,0.5,0.25,23,reviewed,ok,ok
 2025-08-28T13:09:18.010Z,57.056,-135.63816666667,6.55,-0.11,ml,5,163,0.03766,0.12,av,av93739148,2025-08-28T18:26:56.970Z,"18 km W of Sitka, Alaska",earthquake,1.14,0.76,0.19419195976345,5,reviewed,av,av
 2025-08-28T13:04:37.761Z,61.5715,-149.7028,32.4,1.4,ml,,,,0.74,ak,ak025b14qv5s,2025-08-28T13:06:42.140Z,"8 km SW of Meadow Lakes, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2025-08-28T13:03:15.759Z,39.0435,-119.0104,9.4,1.7,ml,15,94.33,0.188,0.1705,nn,nn00903288,2025-08-28T13:05:30.995Z,"14 km ENE of Yerington, Nevada",earthquake,,1.5,0.26,11,automatic,nn,nn
+2025-08-28T13:03:16.267Z,39.0444,-119.0186,6.8,1.6,ml,12,94.47,0.183,0.1397,nn,nn00903288,2025-08-28T22:50:49.465Z,"14 km ENE of Yerington, Nevada",earthquake,,3.5,0.11,7,reviewed,nn,nn
 2025-08-28T12:56:11.640Z,61.9919,-150.8086,61.3,1.5,ml,,,,0.67,ak,ak025b14girw,2025-08-28T12:58:13.906Z,"30 km E of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-08-28T12:46:02.115Z,63.1239,-147.7141,12,1.7,ml,,,,0.68,ak,ak025b14ecvn,2025-08-28T12:47:51.847Z,"68 km ESE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-28T12:38:12.241Z,62.1816,-150.5296,9.1,1.1,ml,,,,0.79,ak,ak025b14cnxk,2025-08-28T12:49:51.335Z,"21 km SW of Trapper Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -261,5 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T23:01:22.040Z,54.743166666667,-164.03083333333,6.36,0.35,ml,5,148,0.03902,0.28,av,av93737948,2025-08-28T02:21:42.900Z,"41 km WSW of False Pass, Alaska",earthquake,0.9,1.86,0.35459261652883,5,reviewed,av,av
 2025-08-27T23:00:36.994Z,31.759,-104.222,6.8176,1.4,ml,22,52,0,0.1,tx,tx2025qwqpeu,2025-08-28T14:18:27.697Z,"48 km SSE of Whites City, New Mexico",earthquake,0.62380773405239,0.65546740902717,0.2,18,reviewed,tx,tx
 2025-08-27T23:00:36.771Z,32.107,-101.926,8.8623,1.5,ml,49,53,0.1,0.1,tx,tx2025qwqpeh,2025-08-28T08:43:30.618Z,"13 km W of Stanton, Texas",earthquake,0.25067900248136,0.93022546687531,0.1,30,reviewed,tx,tx
-2025-08-27T22:53:21.233Z,28.65,-98.264,8.5345,1.1,ml,14,59,0,0.2,tx,tx2025qwqixy,2025-08-28T14:44:17.493Z,"22 km NNW of Three Rivers, Texas",earthquake,0.58447539485843,0.68193304700897,0.2,6,reviewed,tx,tx
-2025-08-27T22:51:14.330Z,33.5106667,-116.4515,7.3,0.45,ml,11,70,0.1269,0.12,ci,ci41276984,2025-08-27T23:23:55.353Z,"21 km ESE of Anza, CA",earthquake,0.28,1.32,0.046,6,reviewed,ci,ci
