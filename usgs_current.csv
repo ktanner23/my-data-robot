@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-28T23:13:12.498Z,64.9338,-147.4916,17.2,1.1,ml,,,,0.85,ak,ak025b1ar2pd,2025-08-28T23:15:04.796Z,"6 km ESE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-08-28T23:01:26.527Z,36.3184,-114.9993,4.2,1.6,ml,11,311.95,0.225,0.3649,nn,nn00903312,2025-08-28T23:04:14.440Z,"9 km NNE of Nellis Air Force Base, Nevada",earthquake,,3,0.36,9,automatic,nn,nn
-2025-08-28T22:52:59.759Z,41.1938,-116.6986,8.5,3.9,ml,12,138.13,0.3,0.1165,nn,nn00903306,2025-08-28T23:15:54.565Z,"57 km NE of Valmy, Nevada",earthquake,,2.7,0.23,11,reviewed,nn,nn
+2025-08-28T22:52:59.759Z,41.1938,-116.6986,8.5,3.9,ml,12,138.13,0.3,0.1165,nn,nn00903306,2025-08-28T23:26:35.040Z,"57 km NE of Valmy, Nevada",earthquake,,2.7,0.23,11,reviewed,nn,nn
 2025-08-28T22:47:23.300Z,37.326831817627,-122.12933349609,5.1799998283386,1.81,md,21,58,0.02068,0.08,nc,nc75230062,2025-08-28T23:22:19.916Z,"4 km SW of Loyola, CA",earthquake,0.22,0.310000002,0.17,20,automatic,nc,nc
 2025-08-28T22:45:48.550Z,19.428833007812,-155.26016235352,2.5599999427795,1.79,ml,9,272,0.007308,0.140000001,hv,hv74763986,2025-08-28T22:48:53.030Z,"3 km WSW of Volcano, Hawaii",earthquake,0.89,0.460000008,0.24,17,automatic,hv,hv
+2025-08-28T22:36:26.200Z,45.084666666667,-112.732,12.07,1.64,ml,21,104,0.1693,0.14,mb,mb90109288,2025-08-28T23:29:58.330Z,"16 km SSW of Dillon, Montana",earthquake,0.41,0.73,0.25149759884288,33,reviewed,mb,mb
 2025-08-28T22:36:03.480Z,33.2961667,-116.211,2.37,0.48,ml,18,161,0.1057,0.18,ci,ci41277736,2025-08-28T22:40:12.129Z,"16 km ENE of Borrego Springs, CA",earthquake,0.3,0.36,0.178,6,automatic,ci,ci
 2025-08-28T22:18:13.490Z,38.771331787109,-122.73899841309,0.70999997854233,0.88,md,8,75,0.01202,0.03,nc,nc75230042,2025-08-28T22:37:20.587Z,"2 km SE of The Geysers, CA",earthquake,0.31,0.670000017,0.38,8,automatic,nc,nc
 2025-08-28T22:10:35.454Z,52.26,160.6741,10,5.1,mb,100,113,1.451,1.33,us,us7000qrrv,2025-08-28T23:11:12.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.83,1.864,0.04,201,reviewed,us,us
@@ -16,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T20:54:27.280Z,36.1766667,-118.0215,4.32,1.44,ml,26,49,0.1472,0.13,ci,ci41277656,2025-08-28T22:22:31.122Z,"12 km S of Olancha, CA",earthquake,0.2,1.28,0.183,28,reviewed,ci,ci
 2025-08-28T20:43:35.850Z,35.614,-98.04333333,6.73,1.82,ml,63,40,0.1556694523,0.18,ok,ok2025qwgg,2025-08-28T22:35:11.881Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.25,30,reviewed,ok,ok
 2025-08-28T20:43:33.536Z,63.4854,-151.1009,1,2.3,ml,,,,0.73,ak,ak025b1958zt,2025-08-28T20:54:47.024Z,"31 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-28T20:34:42.130Z,47.306166666667,-123.68666666667,12.08,0.4,md,6,261,0.08189,0.18,uw,uw62177751,2025-08-28T23:30:08.370Z,"18 km SE of Neilton, Washington",earthquake,0.98,1.61,0.010363496008421,4,reviewed,uw,uw
 2025-08-28T20:31:25.404Z,64.9238,-147.7981,0.2,1.6,ml,,,,0.34,ak,ak025b192nrw,2025-08-28T20:33:27.559Z,"5 km WNW of Farmers Loop, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-08-28T20:30:10.170Z,35.514,-118.4883333,4.95,2.02,ml,42,32,0.1489,0.13,ci,ci41277640,2025-08-28T22:18:45.260Z,"8 km S of Bodfish, CA",earthquake,0.15,1.16,0.205,26,reviewed,ci,ci
 2025-08-28T20:29:29.700Z,33.8261667,-116.9955,12.87,0.95,ml,28,46,0.09579,0.13,ci,ci41277632,2025-08-28T21:48:00.931Z,"6 km NW of San Jacinto, CA",earthquake,0.22,0.46,0.099,20,reviewed,ci,ci
@@ -260,4 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-27T23:52:19.380Z,54.754666666667,-163.97266666667,-0.99,0.27,ml,5,97,0.04748,0.19,av,av93738058,2025-08-28T02:29:54.510Z,"37 km WSW of False Pass, Alaska",earthquake,0.31,0.34,0.24210578285151,5,reviewed,av,av
 2025-08-27T23:44:53.400Z,54.750333333333,-163.98283333333,-0.53,0.27,ml,5,93,0.0418,0.13,av,av93738048,2025-08-28T02:26:34.410Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.31,0.25965331109793,5,reviewed,av,av
 2025-08-27T23:43:50.800Z,56.866666666667,-158.1765,15.56,-0.8,ml,5,107,0.0192,0.28,av,av93049154,2025-08-28T04:22:33.320Z,"65 km NNE of Chignik, Alaska",earthquake,2.59,2.2,0.13522539644777,5,reviewed,av,av
-2025-08-27T23:23:16.730Z,33.5733333,-116.7211667,3.6,0.1,ml,6,124,0.01562,0.1,ci,ci41276992,2025-08-28T17:11:37.935Z,"5 km WNW of Anza, CA",earthquake,0.37,0.42,0.095,6,reviewed,ci,ci
