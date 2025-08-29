@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-29T20:20:22.130Z,36.960834503174,-121.5976638794,2.3900001049042,1.88,md,16,121,0.01368,0.12,nc,nc75230507,2025-08-29T20:22:00.736Z,"6 km SW of Gilroy, CA",earthquake,0.41,0.639999986,0.2,16,automatic,nc,nc
+2025-08-29T20:20:02.910Z,33.3278333,-116.2883333,8.15,0.71,ml,24,46,0.03877,0.18,ci,ci41278744,2025-08-29T20:23:36.431Z,"11 km NE of Borrego Springs, CA",earthquake,0.26,0.56,0.124,13,automatic,ci,ci
 2025-08-29T19:57:15.260Z,38.81916809082,-122.80999755859,2.539999961853,1.09,md,25,41,0.004221,0.02,nc,nc75230482,2025-08-29T19:58:51.668Z,"7 km NNW of The Geysers, CA",earthquake,0.21,0.430000007,0.08,26,automatic,nc,nc
 2025-08-29T19:51:59.290Z,38.82500076294,-122.76616668701,1.8300000429153,1.34,md,24,123,0.006197,0.03,nc,nc75230477,2025-08-29T19:53:35.573Z,"4 km WNW of Cobb, CA",earthquake,0.25,0.349999994,0.12,23,automatic,nc,nc
 2025-08-29T19:35:43.919Z,31.599,-104.122,3.5764,1.5,ml,29,94,0,0.4,tx,tx2025rabgjq,2025-08-29T19:38:47.666Z,"44 km NW of Toyah, Texas",earthquake,0,1.0163372755051,0.2,21,automatic,tx,tx
@@ -213,6 +214,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T02:04:22.690Z,19.7178,-63.535,46,3.85,md,15,328,1.5029,0.29,pr,pr2025241001,2025-08-29T02:32:22.176Z,"173 km NNW of The Valley, Anguilla",earthquake,4.57,18.22,0.16,4,reviewed,pr,pr
 2025-08-29T01:58:28.790Z,33.4055,-116.8651667,14.2,1.37,ml,73,23,0.05179,0.2,ci,ci41277800,2025-08-29T16:42:16.790Z,"4 km S of Aguanga, CA",earthquake,0.14,0.34,0.255,26,reviewed,ci,ci
 2025-08-29T01:58:10.817Z,61.4118,-146.9014,23.4,1.6,ml,,,,0.62,ak,ak025b2lgizd,2025-08-29T01:59:56.181Z,"43 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-08-29T01:51:20.103Z,61.35,-147.35,0,1.4,ml,,,,0.82,ak,ak025b2lf1oq,2025-08-29T20:25:14.470Z,"53 km SSE of Glacier View, Alaska",landslide,,0,,,reviewed,ak,ak
 2025-08-29T01:47:02.408Z,31.669,-104.188,4.1003,0.7,ml,18,68,0.1,0.1,tx,tx2025qyrvmd,2025-08-29T14:41:33.753Z,"54 km NW of Toyah, Texas",earthquake,0.61124967947326,1.4326562913365,0.2,15,reviewed,tx,tx
 2025-08-29T01:41:46.138Z,31.696,-101.975,8.1055,1.1,ml,25,67,0.1,0.1,tx,tx2025qyrqsb,2025-08-29T09:35:34.379Z,"34 km SSE of Midland, Texas",earthquake,0.67465887916989,1.0688058033074,0.2,16,reviewed,tx,tx
 2025-08-29T01:40:11.450Z,38.826999664307,-122.79900360107,2.25,0.77,md,17,48,0.009366,0.02,nc,nc75230147,2025-08-29T02:12:18.105Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.5,0.18,17,automatic,nc,nc
@@ -282,7 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T20:43:35.850Z,35.614,-98.04333333,6.73,1.82,ml,63,40,0.1556694523,0.18,ok,ok2025qwgg,2025-08-28T22:35:11.881Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.25,30,reviewed,ok,ok
 2025-08-28T20:43:33.536Z,63.4854,-151.1009,1,2.3,ml,,,,0.73,ak,ak025b1958zt,2025-08-28T20:54:47.024Z,"31 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-28T20:34:42.130Z,47.306166666667,-123.68666666667,12.08,0.4,md,6,261,0.08189,0.18,uw,uw62177751,2025-08-28T23:30:08.370Z,"18 km SE of Neilton, Washington",earthquake,0.98,1.61,0.010363496008421,4,reviewed,uw,uw
-2025-08-28T20:31:25.404Z,64.9238,-147.7981,0.2,1.6,ml,,,,0.34,ak,ak025b192nrw,2025-08-28T20:33:27.559Z,"5 km WNW of Farmers Loop, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-08-28T20:30:10.170Z,35.514,-118.4883333,4.95,2.02,ml,42,32,0.1489,0.13,ci,ci41277640,2025-08-28T22:18:45.260Z,"8 km S of Bodfish, CA",earthquake,0.15,1.16,0.205,26,reviewed,ci,ci
-2025-08-28T20:29:29.700Z,33.8261667,-116.9955,12.87,0.95,ml,28,46,0.09579,0.13,ci,ci41277632,2025-08-28T21:48:00.931Z,"6 km NW of San Jacinto, CA",earthquake,0.22,0.46,0.099,20,reviewed,ci,ci
-2025-08-28T20:28:34.979Z,35.63016667,-98.03383333,6.8,1.56,ml,72,113,0.1574690992,0.17,ok,ok2025qwft,2025-08-29T00:02:26.233Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.9,0.26,31,reviewed,ok,ok
