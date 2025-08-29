@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-29T09:21:50.490Z,33.5873333,-116.7498333,12.14,0.98,ml,14,121,0.02425,0.11,ci,ci41278064,2025-08-29T09:25:45.595Z,"8 km WNW of Anza, CA",earthquake,0.3,0.46,0.316,5,automatic,ci,ci
-2025-08-29T09:14:24.830Z,51.6164,179.5793,77.8,5.5,ml,,,,0.84,ak,ak025b2pylgm,2025-08-29T09:25:21.058Z,"263 km W of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
+2025-08-29T09:14:25.125Z,51.6321,179.558,83.028,5.5,mb,103,118,0.268,0.57,us,us7000qru7,2025-08-29T09:39:17.248Z,"264 km W of Adak, Alaska",earthquake,6.14,4.606,0.022,743,reviewed,us,us
 2025-08-29T09:11:46.332Z,62.4782,-148.2986,37.7,1.6,ml,,,,0.7,ak,ak025b2pxzwp,2025-08-29T09:13:52.736Z,"76 km N of Chickaloon, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-08-29T09:07:32.830Z,33.0506667,-116.5495,8.18,1.03,ml,16,216,0.1407,0.12,ci,ci41278056,2025-08-29T09:11:48.543Z,"6 km ESE of Julian, CA",earthquake,0.6,1.24,0.195,28,automatic,ci,ci
 2025-08-29T09:07:20.120Z,32.7521667,-115.8655,4.06,1.11,ml,23,45,0.1148,0.31,ci,ci41278048,2025-08-29T09:11:00.326Z,"12 km E of Ocotillo, CA",earthquake,0.39,1.5,0.446,8,automatic,ci,ci
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T07:46:44.900Z,33.4796667,-116.413,13.71,1.07,ml,22,85,0.1455,0.12,ci,ci41278000,2025-08-29T07:50:11.083Z,"22 km SSW of La Quinta, CA",earthquake,0.21,0.62,0.41,7,automatic,ci,ci
 2025-08-29T07:44:33.890Z,35.9188333,-117.9356667,2.04,0.47,ml,21,70,0.08014,0.13,ci,ci41277984,2025-08-29T07:48:02.299Z,"3 km SW of Little Lake, CA",earthquake,0.16,0.22,0.187,9,automatic,ci,ci
 2025-08-29T07:23:42.290Z,33.3255,-116.2856667,8.47,0.33,ml,26,70,0.04187,0.16,ci,ci41277976,2025-08-29T07:27:06.946Z,"11 km NE of Borrego Springs, CA",earthquake,0.23,0.45,0.106,3,automatic,ci,ci
-2025-08-29T07:10:48.550Z,38.829833984375,-122.81616973877,1.8500000238419,1.13,md,23,47,0.008001,0.01,nc,nc75230257,2025-08-29T07:32:16.497Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.349999994,0.14,26,automatic,nc,nc
+2025-08-29T07:10:48.550Z,38.829833984375,-122.81616973877,1.8500000238419,1.13,md,23,47,0.008001,0.01,nc,nc75230257,2025-08-29T09:37:20.415Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.349999994,0.14,26,automatic,nc,nc
 2025-08-29T07:05:00.980Z,38.816833496094,-122.79516601562,2.4800000190735,0.77,md,14,46,0.008853,0.01,nc,nc75230252,2025-08-29T07:22:18.431Z,"6 km NNW of The Geysers, CA",earthquake,0.29,0.620000005,0.15,15,automatic,nc,nc
 2025-08-29T06:57:58.780Z,38.200832366943,-119.27383422852,9.1199998855591,2.3,md,24,84,0.1975,0.17,nc,nc75230247,2025-08-29T09:12:17.217Z,"7 km SW of Bridgeport, CA",earthquake,0.56,2.91000009,0.32,17,automatic,nc,nc
 2025-08-29T06:53:22.239Z,51.5675,159.7142,10,4.9,mb,70,123,1.598,1.03,us,us7000qrtw,2025-08-29T07:10:56.040Z,"176 km SSE of Vilyuchinsk, Russia",earthquake,8.57,1.878,0.05,126,reviewed,us,us
@@ -61,14 +61,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T02:04:22.690Z,19.7178,-63.535,46,3.85,md,15,328,1.5029,0.29,pr,pr2025241001,2025-08-29T02:32:22.176Z,"173 km NNW of The Valley, Anguilla",earthquake,4.57,18.22,0.16,4,reviewed,pr,pr
 2025-08-29T01:58:28.790Z,33.4055,-116.8651667,14.2,1.37,ml,73,23,0.05179,0.2,ci,ci41277800,2025-08-29T02:09:08.370Z,"4 km S of Aguanga, CA",earthquake,0.14,0.34,0.255,26,automatic,ci,ci
 2025-08-29T01:58:10.817Z,61.4118,-146.9014,23.4,1.6,ml,,,,0.62,ak,ak025b2lgizd,2025-08-29T01:59:56.181Z,"43 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-29T01:41:45.950Z,31.688,-101.988,2.9104,1.2,ml,30,63,0.1,0.6,tx,tx2025qyrqsb,2025-08-29T01:46:51.231Z,"35 km SSE of Midland, Texas",earthquake,0,1.1269352436066,0.1,20,automatic,tx,tx
+2025-08-29T01:41:46.138Z,31.696,-101.975,8.1055,1.1,ml,25,67,0.1,0.1,tx,tx2025qyrqsb,2025-08-29T09:35:34.379Z,"34 km SSE of Midland, Texas",earthquake,0.67465887916989,1.0688058033074,0.2,16,reviewed,tx,tx
 2025-08-29T01:40:11.450Z,38.826999664307,-122.79900360107,2.25,0.77,md,17,48,0.009366,0.02,nc,nc75230147,2025-08-29T02:12:18.105Z,"7 km WNW of Cobb, CA",earthquake,0.26,0.5,0.18,17,automatic,nc,nc
 2025-08-29T01:32:57.860Z,38.817665100098,-122.82366943359,2.3699998855591,1.05,md,13,69,0.009782,0.02,nc,nc75230137,2025-08-29T01:57:16.994Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.74000001,0.29,14,automatic,nc,nc
 2025-08-29T01:26:24.180Z,33.4886667,-116.4538333,14.6,0.41,ml,24,58,0.1241,0.15,ci,ci41277792,2025-08-29T01:29:54.656Z,"22 km ESE of Anza, CA",earthquake,0.23,0.51,0.083,7,automatic,ci,ci
 2025-08-29T01:16:16.702Z,36.9162,-115.2263,0,0.7,ml,10,321.66,0.591,0.2638,nn,nn00903322,2025-08-29T01:18:32.923Z,"50 km S of Alamo, Nevada",earthquake,,43.1,0.48,4,automatic,nn,nn
 2025-08-29T01:13:13.303Z,31.621,-104.13,4.915,0.7,ml,22,102,0,0.5,tx,tx2025qyqshs,2025-08-29T02:03:19.019Z,"46 km NW of Toyah, Texas",earthquake,0,1.1610429286957,0.3,15,automatic,tx,tx
 2025-08-29T01:08:30.922Z,36.7437,-115.561,2.1,0.4,ml,10,300.54,0.332,0.1648,nn,nn00903320,2025-08-29T01:10:42.975Z,"21 km NNE of Indian Springs, Nevada",earthquake,,18.4,0.55,6,automatic,nn,nn
-2025-08-29T01:06:10.970Z,38.372165679932,-111.07366943359,21.840000152588,3.18,ml,7,243,1.202,0.600000024,uu,uu80115091,2025-08-29T04:12:48.647Z,"31 km ENE of Torrey, Utah",earthquake,17.98,7.9000001,0.43,4,automatic,uu,uu
+2025-08-29T01:06:07.730Z,38.309,-110.86033333333,16.92,1.29,md,7,281,1.189,0.37,uu,uu80115091,2025-08-29T04:12:48.647Z,"14 km WSW of Hanksville, Utah",earthquake,22.28,31.61,0.41641733278538,3,reviewed,uu,uu
 2025-08-29T01:00:39.938Z,64.8086,-148.9339,1,1.8,ml,,,,0.99,ak,ak025b2l45p5,2025-08-29T01:02:46.515Z,"24 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-29T00:59:34.840Z,18.2103,-67.8455,128,3.53,md,15,185,0.7605,0.43,pr,pr2025241000,2025-08-29T01:27:33.473Z,"64 km W of Stella, Puerto Rico",earthquake,3.86,2.06,0.08,6,reviewed,pr,pr
 2025-08-29T00:57:36.050Z,19.200000762939,-155.3458404541,28.139999389648,2.19,ml,56,182,0.06144,0.129999995,hv,hv74764081,2025-08-29T01:01:27.790Z,"13 km E of Pāhala, Hawaii",earthquake,0.42,0.469999999,0.4,24,automatic,hv,hv
