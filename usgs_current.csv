@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-29T21:31:42.075Z,63.477,-149.6584,2.1,2.9,ml,,,,0.78,ak,ak025b2x7h3w,2025-08-29T21:33:35.879Z,"36 km WNW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-08-29T21:31:25.700Z,33.2485,-116.3805,4.78,0.82,ml,33,42,0.03646,0.18,ci,ci41278832,2025-08-29T21:35:39.444Z,"1 km SSW of Borrego Springs, CA",earthquake,0.2,0.37,0.109,20,automatic,ci,ci
-2025-08-29T21:29:44.400Z,39.747001647949,-122.0316696167,4.5700001716614,1.95,md,4,149,0.143,0.01,nc,nc75230512,2025-08-29T21:31:21.106Z,"2 km WNW of Hamilton City, CA",earthquake,0.58,4.42000008,0.14,5,automatic,nc,nc
+2025-08-29T21:31:25.650Z,33.25,-116.378,5.07,0.8,ml,24,50,0.0375,0.14,ci,ci41278832,2025-08-29T21:47:32.328Z,"1 km SSW of Borrego Springs, CA",earthquake,0.19,0.38,0.125,17,reviewed,ci,ci
+2025-08-29T21:29:44.400Z,39.747001647949,-122.0316696167,4.5700001716614,1.95,md,4,149,0.143,0.01,nc,nc75230512,2025-08-29T21:47:18.664Z,"2 km WNW of Hamilton City, CA",earthquake,0.58,4.42000008,0.14,5,automatic,nc,nc
 2025-08-29T21:29:01.525Z,31.16,-103.482,6.1311,1,ml,10,147,0,0.8,tx,tx2025raezza,2025-08-29T21:33:56.949Z,"23 km SSE of Lindsay, Texas",earthquake,0,3.9901020526886,0.3,7,automatic,tx,tx
 2025-08-29T21:18:52.960Z,33.5348333,-116.712,2.65,0.57,ml,20,54,0.03709,0.12,ci,ci41278808,2025-08-29T21:22:19.506Z,"4 km WSW of Anza, CA",earthquake,0.16,0.19,0.152,15,automatic,ci,ci
 2025-08-29T21:07:46.900Z,61.1333,-152.3777,9.9,1,ml,,,,1.24,ak,ak025b2x2cci,2025-08-29T21:09:16.733Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T18:26:42.046Z,37.3634,-117.1455,8.5,1.1,ml,23,141.19,0.111,0.1612,nn,nn00903396,2025-08-29T21:42:48.244Z,"39 km SSE of Goldfield, Nevada",earthquake,,3.1,0.28,7,reviewed,nn,nn
 2025-08-29T18:15:25.240Z,36.0243333,-117.7765,1.66,0.46,ml,14,115,0.009153,0.1,ci,ci41278608,2025-08-29T19:50:20.982Z,"15 km NE of Little Lake, CA",earthquake,0.16,0.12,0.142,7,reviewed,ci,ci
 2025-08-29T18:14:00.110Z,37.576333333333,-113.32,6.63,1.03,ml,5,187,0.04256,0.04,uu,uu80115221,2025-08-29T19:38:23.310Z,"10 km N of New Harmony, Utah",earthquake,0.5,0.45,0.054695813182557,5,reviewed,uu,uu
+2025-08-29T18:10:42.920Z,33.054,-114.9965,-0.2,1.33,ml,14,80,0.08301,0.28,ci,ci41278600,2025-08-29T21:50:00.342Z,"45 km NE of Holtville, CA",quarry blast,0.63,31.61,0.149,13,reviewed,ci,ci
 2025-08-29T18:07:04.872Z,32.432,-102.149,6.6767,1,ml,16,59,0,0.7,tx,tx2025qzyhqj,2025-08-29T18:10:43.204Z,"38 km SW of Los Ybanez, Texas",earthquake,0,2.5432748794556,0.1,13,automatic,tx,tx
 2025-08-29T18:06:35.839Z,57.0145,-156.2798,0,2,ml,,,,0.7,ak,ak025b2v9syn,2025-08-29T18:08:47.899Z,"87 km SE of Ugashik, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-29T18:02:25.290Z,44.456333333333,-110.35083333333,4.49,1.05,ml,7,97,0.0799,0.07,uu,uu80115216,2025-08-29T19:32:31.170Z,"64 km ESE of West Yellowstone, Montana",earthquake,0.3,0.75,0.1806891770382,3,reviewed,uu,uu
@@ -207,6 +208,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-29T04:14:57.920Z,46.822833333333,-112.22666666667,7.09,0.88,ml,11,128,0.103,0.06,mb,mb90109388,2025-08-29T14:27:33.040Z,"9 km NE of Marysville, Montana",earthquake,0.24,0.74,0.13679966949558,9,reviewed,mb,mb
 2025-08-29T04:13:06.500Z,38.790000915527,-122.84083557129,2.1900000572205,0.44,md,11,110,0.00563,0.02,nc,nc75230192,2025-08-29T06:07:20.884Z,"7 km WNW of The Geysers, CA",earthquake,0.36,0.699999988,0.22,12,automatic,nc,nc
 2025-08-29T04:11:18.310Z,38.507166666667,-112.892,1.81,0.81,md,12,106,0.008235,0.12,uu,uu80115121,2025-08-29T16:17:51.410Z,"16 km NE of Milford, Utah",earthquake,0.31,0.57,0.48190286113887,6,reviewed,uu,uu
+2025-08-29T04:07:17.450Z,57.052833333333,-135.83766666667,6.29,0,ml,4,298,0.03114,0.16,av,av93739943,2025-08-29T21:50:53.900Z,"30 km W of Sitka, Alaska",earthquake,1.21,0.85,0.073665730222013,4,reviewed,av,av
 2025-08-29T04:04:32.340Z,33.2708333,-116.4221667,4.63,0.58,ml,38,73,0.004949,0.19,ci,ci41277848,2025-08-29T16:41:30.391Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.44,0.179,14,reviewed,ci,ci
 2025-08-29T03:45:31.660Z,35.62466667,-98.02933333,7.35,1.7,ml,82,50,0.1619682163,0.16,ok,ok2025qwue,2025-08-29T07:34:47.749Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.27,40,reviewed,ok,ok
 2025-08-29T03:43:58.620Z,38.828834533691,-122.80117034912,1.960000038147,0.26,md,8,134,0.008824,0.01,nc,nc75230187,2025-08-29T05:37:18.664Z,"7 km WNW of Cobb, CA",earthquake,0.5,1.17999995,0.09,8,automatic,nc,nc
@@ -289,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T22:18:13.490Z,38.771331787109,-122.73899841309,0.70999997854233,0.88,md,8,75,0.01202,0.03,nc,nc75230042,2025-08-28T22:37:20.587Z,"2 km SE of The Geysers, CA",earthquake,0.31,0.670000017,0.38,8,automatic,nc,nc
 2025-08-28T22:10:35.454Z,52.26,160.6741,10,5.1,mb,100,113,1.451,1.33,us,us7000qrrv,2025-08-28T23:11:12.040Z,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.83,1.864,0.04,201,reviewed,us,us
 2025-08-28T22:06:48.800Z,48.597666666667,-125.7185,44.39,2.13,ml,8,300,0.4532,0.27,uw,uw62177821,2025-08-29T06:59:43.033Z,"40 km SSW of Ucluelet, Canada",earthquake,2.15,3.48,0.087094342753253,5,reviewed,uw,uw
-2025-08-28T21:48:36.840Z,46.199666666667,-122.164,6.68,-0.14,ml,7,113,0.04241,0.07,uw,uw62177806,2025-08-28T23:40:21.030Z,"38 km NE of Amboy, Washington",earthquake,0.42,0.81,0.095130427606857,3,reviewed,uw,uw
