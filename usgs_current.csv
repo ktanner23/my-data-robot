@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-08-31T03:35:55.520Z,35.9653333,-117.6718333,2.54,1.39,ml,33,41,0.02461,0.15,ci,ci41279776,2025-08-31T03:39:26.321Z,"21 km E of Little Lake, CA",earthquake,0.16,0.22,0.17,26,automatic,ci,ci
+2025-08-31T03:35:04.042Z,41.1747,-116.7264,8.901,2.9,ml,49,35,1.206,0.86,us,us7000qsps,2025-08-31T03:58:27.040Z,"54 km NE of Valmy, Nevada",earthquake,3.71,7.891,0.034,114,reviewed,us,us
 2025-08-31T03:30:48.649Z,61.8017,-149.6804,36,1.3,ml,,,,0.38,ak,ak025b5xk61s,2025-08-31T03:32:15.713Z,"19 km ENE of Willow, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-08-31T03:15:16.920Z,18.162666666667,-65.954166666667,22.77,2.72,md,17,83,0.1022,0.22,pr,pr71494008,2025-08-31T03:33:45.150Z,"3 km SSE of San Lorenzo, Puerto Rico",earthquake,0.45,0.95,0.11142544438012,5,reviewed,pr,pr
 2025-08-31T03:10:53.950Z,38.830501556396,-122.85083007812,1.2699999809265,0.75,md,7,163,0.005567,0.01,nc,nc75231047,2025-08-31T03:12:30.339Z,"10 km NW of The Geysers, CA",earthquake,0.62,1.09000003,0.14,8,automatic,nc,nc
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T11:47:29.590Z,33.9043333,-116.8793333,11.57,0.66,ml,35,38,0.09813,0.16,ci,ci41279272,2025-08-30T11:50:57.402Z,"2 km S of Banning, CA",earthquake,0.19,0.58,0.183,13,automatic,ci,ci
 2025-08-30T11:40:27.080Z,38.838832855225,-122.83699798584,1.7599999904633,1.43,md,25,82,0.001205,0.03,nc,nc75230787,2025-08-30T11:43:30.600Z,"10 km NW of The Geysers, CA",earthquake,0.22,0.330000013,0.14,28,automatic,nc,nc
 2025-08-30T11:39:45.298Z,31.534,-102.363,2.9201,1.8,mlv,21,121,0.2,0.5,tx,tx2025rbhfdb,2025-08-30T23:15:09.559Z,"15 km N of Crane, Texas",earthquake,0,1.3907529115677,0.2,14,automatic,tx,tx
-2025-08-30T11:31:28.391Z,-41.0401,173.8101,77.897,4.9,mb,41,63,0.37,0.72,us,us7000qsjm,2025-08-30T22:41:12.744Z,"32 km NW of Waikawa, New Zealand",earthquake,3.55,4.68,0.126,20,reviewed,us,us
+2025-08-30T11:31:28.391Z,-41.0401,173.8101,77.897,4.9,mb,41,63,0.37,0.72,us,us7000qsjm,2025-08-31T03:59:21.762Z,"32 km NW of Waikawa, New Zealand",earthquake,3.55,4.68,0.126,20,reviewed,us,us
 2025-08-30T11:24:41.690Z,61.6318,-149.8176,30.4,1.1,ml,,,,0.26,ak,ak025b4eqzk9,2025-08-30T11:32:42.603Z,"0 km N of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-30T11:19:28.365Z,58.9617,-153.1924,78.6,1.5,ml,,,,0.8,ak,ak025b4epvyc,2025-08-30T11:21:28.147Z,"84 km WSW of Nanwalek, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-08-30T11:14:54.641Z,31.761,-104.218,7.4463,2.4,ml,29,99,0,0.1,tx,tx2025rbgjgv,2025-08-30T14:31:36.371Z,"48 km SSE of Whites City, New Mexico",earthquake,0.27671648142254,0.45432353832993,0.1,15,reviewed,tx,tx
@@ -235,5 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-30T04:06:00.432Z,32.003,-101.383,9.4727,1.7,ml,12,67,0.2,0.1,tx,tx2025rasece,2025-08-30T14:25:11.338Z,"11 km S of Forsan, Texas",earthquake,0.79358659597498,1.8951188790215,0.1,15,reviewed,tx,tx
 2025-08-30T04:01:54.836Z,64.2843,-148.5623,0,1.7,ml,,,,0.46,ak,ak025b4ag1vf,2025-08-30T04:03:57.870Z,"30 km E of Clear, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-30T04:00:43.018Z,57.6417,-154.0386,41,1.5,ml,,,,0.88,ak,ak025b4aft8t,2025-08-30T04:02:27.118Z,"11 km NNW of Larsen Bay, Alaska",earthquake,,4.5,,,automatic,ak,ak
-2025-08-30T03:54:26.550Z,60.048,-153.09366666667,-0.89,-0.44,ml,5,122,0.01776,0.09,av,av93741198,2025-08-30T22:15:36.760Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.41,2.06,0.22494533296955,4,reviewed,av,av
-2025-08-30T03:54:23.290Z,37.542167663574,-118.82733154297,3.8800001144409,2.4,md,30,63,0.0478,0.05,nc,nc75230617,2025-08-30T06:07:18.363Z,"13 km W of Toms Place, CA",earthquake,0.21,0.709999979,0.21,34,automatic,nc,nc
