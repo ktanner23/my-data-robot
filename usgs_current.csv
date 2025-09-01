@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-01T08:23:01.955Z,37.3648,-117.5495,3.4,1.1,ml,18,187.98,0.239,0.2255,nn,nn00903613,2025-09-01T08:25:43.491Z,"43 km S of Silver Peak, Nevada",earthquake,,9.7,0.32,8,automatic,nn,nn
+2025-09-01T08:23:00.006Z,31.109,-103.742,4.4094,1.5,ml,16,71,0.1,0.6,tx,tx2025resdgr,2025-09-01T08:27:14.351Z,"13 km N of Balmorhea, Texas",earthquake,0,1.5430052280426,0.2,13,automatic,tx,tx
+2025-09-01T08:21:18.585Z,60.6933,-151.82,71,1.4,ml,,,,0.61,ak,ak025b7o0osy,2025-09-01T08:23:05.148Z,"28 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-01T08:12:58.020Z,33.5336667,-116.7218333,5.92,0.65,ml,43,27,0.03418,0.17,ci,ci41280544,2025-09-01T08:16:32.919Z,"5 km WSW of Anza, CA",earthquake,0.16,0.37,0.181,19,automatic,ci,ci
 2025-09-01T07:50:34.630Z,38.76216506958,-122.72550201416,2.4000000953674,1.07,md,13,72,0.0007599,0.03,nc,nc75231542,2025-09-01T08:07:17.849Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.439999998,0.1,14,automatic,nc,nc
 2025-09-01T07:50:10.830Z,33.3881667,-116.964,12.43,0.66,ml,33,37,0.05675,0.17,ci,ci41280536,2025-09-01T07:53:49.957Z,"10 km WNW of Palomar Observatory, CA",earthquake,0.2,0.45,0.167,20,automatic,ci,ci
 2025-09-01T07:18:18.911Z,64.9663,-149.1754,15.9,1.1,ml,,,,0.23,ak,ak025b7nem2r,2025-09-01T07:19:58.112Z,"22 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -192,6 +196,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T12:55:03.557Z,31.962,-103.333,8.2728,1.9,mlv,34,65,0,0.3,tx,tx2025rdfkwu,2025-08-31T19:27:13.281Z,"21 km SW of Jal, New Mexico",earthquake,0,1.7107862234116,0.2,24,automatic,tx,tx
 2025-08-31T12:50:27.737Z,32.423,-102.296,13.601,1.1,mlv,7,171,0.2,0.1,tx,tx2025rdfgxr,2025-08-31T23:13:55.624Z,"25 km ENE of McKinney Acres, Texas",earthquake,0,3.4509248733521,0.3,5,automatic,tx,tx
 2025-08-31T12:49:57.407Z,31.706,-104.185,4.1437,1.8,ml,31,60,0.1,0.3,tx,tx2025rdfebt,2025-08-31T12:53:44.808Z,"55 km SSE of Whites City, New Mexico",earthquake,0,0.96236443519592,0.2,21,automatic,tx,tx
+2025-08-31T12:49:57.150Z,31.709,-104.178,7.3303,1.8,ml,44,62,0.1,0.2,tx,tx2025rdfgme,2025-09-01T08:18:15.329Z,"54 km W of Mentone, Texas",earthquake,0.48280055038498,0.74193272571187,0.2,27,reviewed,tx,tx
 2025-08-31T12:37:04.290Z,31.95,-103.355,8.1618,1.8,mlv,21,70,0,0.5,tx,tx2025rdevix,2025-08-31T19:25:54.442Z,"23 km SW of Jal, New Mexico",earthquake,0,1.9551125764847,0.2,14,automatic,tx,tx
 2025-08-31T12:31:29.224Z,32.7,-102.27,11.5767,2.4,mlv,7,245,0.3,0.4,tx,tx2025rdeqon,2025-08-31T23:13:51.624Z,"27 km SSE of Loop, Texas",earthquake,0,9.1730861663818,0.1,5,automatic,tx,tx
 2025-08-31T12:31:24.385Z,31.704,-104.178,6.0229,2.8,ml,24,59,0.1,0.1,tx,tx2025rdeqmr,2025-08-31T12:41:52.201Z,"54 km W of Mentone, Texas",earthquake,0.51713090584282,1.2796634229139,0.2,43,reviewed,tx,tx
@@ -242,7 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T08:42:54.693Z,-33.6008,-71.6638,37.537,4.4,mb,41,146,0.07,0.63,us,us7000qsrf,2025-08-31T21:31:04.508Z,"5 km W of San Antonio, Chile",earthquake,3.86,6.057,0.097,31,reviewed,us,us
 2025-08-31T08:40:18.320Z,59.9665,-153.3009,131.3,2.2,ml,,,,0.39,ak,ak025b60lewj,2025-08-31T12:43:10.040Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-08-31T08:29:11.060Z,44.817333333333,-111.53666666667,11.21,1.14,ml,24,65,0.02212,0.2,mb,mb90109753,2025-08-31T13:19:11.610Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.34,0.48,0.10652437300214,14,reviewed,mb,mb
-2025-08-31T08:25:59.650Z,40.31583404541,-124.86233520508,0.070000000298023,2.77,md,24,292,0.3984,0.27,nc,nc75231127,2025-08-31T12:10:37.745Z,"49 km W of Petrolia, CA",earthquake,6.32,10.9300003,0.12,18,automatic,nc,nc
-2025-08-31T08:22:34.330Z,63.0886,-151.3534,0,1.3,ml,,,,0.77,ak,ak025b60hl8p,2025-08-31T08:25:02.428Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-08-31T08:16:06.854Z,-6.458,147.3125,74.157,4.9,mb,44,66,2.931,0.64,us,us7000qsr9,2025-08-31T08:46:44.040Z,"45 km NE of Lae, Papua New Guinea",earthquake,8.75,7.68,0.088,40,reviewed,us,us
-2025-08-31T08:14:37.290Z,33.4905,-116.8015,6.66,0.37,ml,32,35,0.01398,0.14,ci,ci41279904,2025-08-31T15:13:15.092Z,"8 km NE of Aguanga, CA",earthquake,0.15,0.33,0.092,13,reviewed,ci,ci
