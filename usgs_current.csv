@@ -1,15 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-01T08:58:24.920Z,33.8918343,-116.8608322,16.23,2.67,ml,121,18,0.06747,0.21,ci,ci41280568,2025-09-01T09:00:39.228Z,"4 km SSE of Banning, CA",earthquake,0.17,0.49,0.286,16,automatic,ci,ci
+2025-09-01T08:58:24.910Z,33.8928333,-116.8615,16.4,2.56,ml,118,21,0.06768,0.19,ci,ci41280568,2025-09-01T09:09:22.980Z,"4 km SSE of Banning, CA",earthquake,0.11,0.29,0.181,26,automatic,ci,ci
 2025-09-01T08:58:24.311Z,60.947,-150.9735,33.5,1.6,ml,,,,0.55,ak,ak025b7o8mqn,2025-09-01T09:00:25.736Z,"15 km W of Point Possession, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-01T08:55:35.178Z,39.4228,-120.3001,3.2,0.6,ml,10,161.61,0.073,0.0812,nn,nn00903616,2025-09-01T08:57:42.276Z,"13 km NNE of Soda Springs, California",earthquake,,1.3,0.33,6,automatic,nn,nn
-2025-09-01T08:51:25.570Z,38.798831939697,-122.75199890137,2.4100000858307,0.78,md,10,97,0.006287,0.02,nc,nc75231552,2025-09-01T08:53:01.831Z,"2 km NNE of The Geysers, CA",earthquake,0.37,0.99000001,0.09,11,automatic,nc,nc
+2025-09-01T08:51:25.570Z,38.798831939697,-122.75199890137,2.4100000858307,0.78,md,10,97,0.006287,0.02,nc,nc75231552,2025-09-01T09:07:21.306Z,"2 km NNE of The Geysers, CA",earthquake,0.37,0.99000001,0.09,11,automatic,nc,nc
 2025-09-01T08:49:24.220Z,34.4341667,-117.8321667,7.88,0.86,ml,35,80,0.02645,0.17,ci,ci41280560,2025-09-01T08:53:06.671Z,"8 km SSW of Llano, CA",earthquake,0.19,0.42,0.14,24,automatic,ci,ci
 2025-09-01T08:30:43.670Z,32.4710007,-115.128334,11.78,2.54,ml,32,65,0.02808,0.31,ci,ci41280552,2025-09-01T08:41:12.610Z,"14 km NNE of Delta, B.C., MX",earthquake,0.42,1.05,0.235,24,automatic,ci,ci
 2025-09-01T08:23:01.955Z,37.3648,-117.5495,3.4,1.1,ml,18,187.98,0.239,0.2255,nn,nn00903613,2025-09-01T08:25:43.491Z,"43 km S of Silver Peak, Nevada",earthquake,,9.7,0.32,8,automatic,nn,nn
 2025-09-01T08:22:59.995Z,31.109,-103.743,4.4104,1.5,ml,16,72,0.1,0.6,tx,tx2025resdgr,2025-09-01T09:00:13.877Z,"13 km N of Balmorhea, Texas",earthquake,0,1.5435526371002,0.2,13,automatic,tx,tx
 2025-09-01T08:21:18.585Z,60.6933,-151.82,71,1.4,ml,,,,0.61,ak,ak025b7o0osy,2025-09-01T08:23:05.148Z,"28 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-01T08:12:58.020Z,33.5336667,-116.7218333,5.92,0.65,ml,43,27,0.03418,0.17,ci,ci41280544,2025-09-01T08:16:32.919Z,"5 km WSW of Anza, CA",earthquake,0.16,0.37,0.181,19,automatic,ci,ci
-2025-09-01T07:50:34.630Z,38.76216506958,-122.72550201416,2.4000000953674,1.07,md,13,72,0.0007599,0.03,nc,nc75231542,2025-09-01T08:07:17.849Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.439999998,0.1,14,automatic,nc,nc
+2025-09-01T07:50:34.630Z,38.76216506958,-122.72550201416,2.4000000953674,1.07,md,13,72,0.0007599,0.03,nc,nc75231542,2025-09-01T09:12:21.338Z,"3 km SE of The Geysers, CA",earthquake,0.27,0.439999998,0.1,14,automatic,nc,nc
 2025-09-01T07:50:10.830Z,33.3881667,-116.964,12.43,0.66,ml,33,37,0.05675,0.17,ci,ci41280536,2025-09-01T07:53:49.957Z,"10 km WNW of Palomar Observatory, CA",earthquake,0.2,0.45,0.167,20,automatic,ci,ci
 2025-09-01T07:18:18.911Z,64.9663,-149.1754,15.9,1.1,ml,,,,0.23,ak,ak025b7nem2r,2025-09-01T07:19:58.112Z,"22 km SSE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-01T07:15:15.830Z,36.1711667,-118.0321667,3.2,1.68,ml,33,51,0.1532,0.15,ci,ci41280528,2025-09-01T07:18:51.637Z,"12 km S of Olancha, CA",earthquake,0.17,0.63,0.181,26,automatic,ci,ci
@@ -240,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T09:31:23.997Z,31.544,-102.382,4.3297,1.8,mlv,23,99,0.2,0.5,tx,tx2025rcyreb,2025-08-31T11:18:58.838Z,"16 km N of Crane, Texas",earthquake,0,1.3227978944778,0.1,16,automatic,tx,tx
 2025-08-31T09:30:51.880Z,33.2406667,-116.1096667,8.9,1.47,ml,73,22,0.09781,0.21,ci,ci41279928,2025-08-31T15:13:10.260Z,"11 km N of Ocotillo Wells, CA",earthquake,0.14,0.55,0.233,27,reviewed,ci,ci
 2025-08-31T09:17:58.233Z,31.623,-102.372,9.0668,1.6,ml,9,180,0.2,0.7,tx,tx2025rcyftx,2025-08-31T09:20:22.960Z,"24 km S of Odessa, Texas",earthquake,0,4.5191597938538,0.2,7,automatic,tx,tx
-2025-08-31T09:12:43.591Z,41.1564,-116.7153,8.9,2.8,ml,11,136.73,0.288,0.1565,nn,nn00903538,2025-08-31T14:56:41.477Z,"53 km NE of Valmy, Nevada",earthquake,,3,0.27,10,reviewed,nn,nn
-2025-08-31T09:10:56.960Z,44.313166666667,-115.17,10.05,2.23,ml,26,66,0.3113,0.24,mb,mb90109758,2025-08-31T13:50:49.830Z,"21 km WNW of Stanley, Idaho",earthquake,0.44,0.78,0.17195752360492,38,reviewed,mb,mb
-2025-08-31T09:08:24.350Z,33.7443333,-116.0041667,2.26,1.08,ml,46,58,0.08972,0.15,ci,ci41279920,2025-08-31T15:12:57.133Z,"17 km NE of Thermal, CA",earthquake,0.14,0.29,0.107,26,reviewed,ci,ci
-2025-08-31T09:06:47.591Z,31.955,-103.32,4.0607,1.8,ml,15,142,0.1,0.6,tx,tx2025rcxuin,2025-08-31T10:00:14.969Z,"21 km SW of Jal, New Mexico",earthquake,0,1.4480059146881,0.2,11,automatic,tx,tx
