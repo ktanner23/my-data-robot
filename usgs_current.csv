@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-01T08:30:43.670Z,32.4710007,-115.128334,11.78,2.54,ml,32,65,0.02808,0.31,ci,ci41280552,2025-09-01T08:41:12.610Z,"14 km NNE of Delta, B.C., MX",earthquake,0.42,1.05,0.235,24,automatic,ci,ci
 2025-09-01T08:23:01.955Z,37.3648,-117.5495,3.4,1.1,ml,18,187.98,0.239,0.2255,nn,nn00903613,2025-09-01T08:25:43.491Z,"43 km S of Silver Peak, Nevada",earthquake,,9.7,0.32,8,automatic,nn,nn
 2025-09-01T08:23:00.006Z,31.109,-103.742,4.4094,1.5,ml,16,71,0.1,0.6,tx,tx2025resdgr,2025-09-01T08:27:14.351Z,"13 km N of Balmorhea, Texas",earthquake,0,1.5430052280426,0.2,13,automatic,tx,tx
 2025-09-01T08:21:18.585Z,60.6933,-151.82,71,1.4,ml,,,,0.61,ak,ak025b7o0osy,2025-09-01T08:23:05.148Z,"28 km WNW of Salamatof, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -195,7 +196,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T13:02:55.160Z,46.1025,-111.79316666667,1.23,1.11,ml,23,62,0.2491,0.15,mb,mb90109763,2025-08-31T13:32:45.090Z,"16 km SW of Radersburg, Montana",earthquake,0.34,1.42,0.21738049331834,12,reviewed,mb,mb
 2025-08-31T12:55:03.557Z,31.962,-103.333,8.2728,1.9,mlv,34,65,0,0.3,tx,tx2025rdfkwu,2025-08-31T19:27:13.281Z,"21 km SW of Jal, New Mexico",earthquake,0,1.7107862234116,0.2,24,automatic,tx,tx
 2025-08-31T12:50:27.737Z,32.423,-102.296,13.601,1.1,mlv,7,171,0.2,0.1,tx,tx2025rdfgxr,2025-08-31T23:13:55.624Z,"25 km ENE of McKinney Acres, Texas",earthquake,0,3.4509248733521,0.3,5,automatic,tx,tx
-2025-08-31T12:49:57.407Z,31.706,-104.185,4.1437,1.8,ml,31,60,0.1,0.3,tx,tx2025rdfebt,2025-08-31T12:53:44.808Z,"55 km SSE of Whites City, New Mexico",earthquake,0,0.96236443519592,0.2,21,automatic,tx,tx
 2025-08-31T12:49:57.150Z,31.709,-104.178,7.3303,1.8,ml,44,62,0.1,0.2,tx,tx2025rdfgme,2025-09-01T08:18:15.329Z,"54 km W of Mentone, Texas",earthquake,0.48280055038498,0.74193272571187,0.2,27,reviewed,tx,tx
 2025-08-31T12:37:04.290Z,31.95,-103.355,8.1618,1.8,mlv,21,70,0,0.5,tx,tx2025rdevix,2025-08-31T19:25:54.442Z,"23 km SW of Jal, New Mexico",earthquake,0,1.9551125764847,0.2,14,automatic,tx,tx
 2025-08-31T12:31:29.224Z,32.7,-102.27,11.5767,2.4,mlv,7,245,0.3,0.4,tx,tx2025rdeqon,2025-08-31T23:13:51.624Z,"27 km SSE of Loop, Texas",earthquake,0,9.1730861663818,0.1,5,automatic,tx,tx
@@ -245,5 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-31T08:48:34.300Z,38.822166442871,-122.80466461182,2.9900000095367,1.08,md,20,49,0.0044,0.01,nc,nc75231137,2025-08-31T08:50:11.015Z,"7 km NNW of The Geysers, CA",earthquake,0.25,0.550000012,0.16,23,automatic,nc,nc
 2025-08-31T08:47:14.530Z,38.829166412354,-122.8176651001,1.8899999856949,0.27,md,12,61,0.008269,0.01,nc,nc75231132,2025-08-31T08:48:51.989Z,"8 km NNW of The Geysers, CA",earthquake,0.33,0.74000001,0.17,13,automatic,nc,nc
 2025-08-31T08:42:54.693Z,-33.6008,-71.6638,37.537,4.4,mb,41,146,0.07,0.63,us,us7000qsrf,2025-08-31T21:31:04.508Z,"5 km W of San Antonio, Chile",earthquake,3.86,6.057,0.097,31,reviewed,us,us
-2025-08-31T08:40:18.320Z,59.9665,-153.3009,131.3,2.2,ml,,,,0.39,ak,ak025b60lewj,2025-08-31T12:43:10.040Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-08-31T08:29:11.060Z,44.817333333333,-111.53666666667,11.21,1.14,ml,24,65,0.02212,0.2,mb,mb90109753,2025-08-31T13:19:11.610Z,"27 km W of Hebgen Lake Estates, Montana",earthquake,0.34,0.48,0.10652437300214,14,reviewed,mb,mb
