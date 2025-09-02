@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-02T09:51:44.697Z,60.1203,-152.0096,48.1,1.4,ml,,,,0.51,ak,ak025b9cbyed,2025-09-02T09:53:59.201Z,"20 km WNW of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2025-09-02T09:50:51.820Z,38.792835235596,-122.80766296387,3.0499999523163,0.99,md,15,92,0.005758,0.02,nc,nc75231972,2025-09-02T09:52:30.874Z,"5 km WNW of The Geysers, CA",earthquake,0.34,0.689999998,0.2,16,automatic,nc,nc
+2025-09-02T09:50:51.820Z,38.792835235596,-122.80766296387,3.0499999523163,0.99,md,15,92,0.005758,0.02,nc,nc75231972,2025-09-02T10:07:18.523Z,"5 km WNW of The Geysers, CA",earthquake,0.34,0.689999998,0.2,16,automatic,nc,nc
 2025-09-02T09:37:30.920Z,38.802333831787,-122.78133392334,2.8099999427795,0.75,md,8,101,0.01049,0.04,nc,nc75231967,2025-09-02T09:57:16.445Z,"4 km NNW of The Geysers, CA",earthquake,0.52,1.83000004,0.1,8,automatic,nc,nc
 2025-09-02T09:34:36.712Z,36.7256,-116.2968,10.9,1,ml,31,66.04,0.021,0.25,nn,nn00903663,2025-09-02T09:37:04.265Z,"45 km ESE of Beatty, Nevada",earthquake,,0.4,0.33,20,automatic,nn,nn
 2025-09-02T09:15:53.197Z,60.9146,-150.5451,17.8,1.4,ml,,,,0.36,ak,ak025b9c499z,2025-09-02T09:18:31.967Z,"7 km E of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -38,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-02T05:32:03.788Z,63.3429,-145.3923,7.1,1.5,ml,,,,0.69,ak,ak025b99u27u,2025-09-02T05:34:51.574Z,"30 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-02T05:28:27.087Z,32.184,-101.192,7.5684,2.3,ml,43,64,0.1,0.1,tx,tx2025rgibtu,2025-09-02T06:56:14.385Z,"16 km SE of Coahoma, Texas",earthquake,0.40069380600887,0.86113863425439,0.2,31,reviewed,tx,tx
 2025-09-02T05:25:36.048Z,54.3575,-159.8524,35,3.9,ml,38,191,0.499,0.86,us,us7000qt79,2025-09-02T06:00:55.040Z,"116 km SSE of Sand Point, Alaska",earthquake,7.99,2.014,0.066,30,reviewed,us,us
-2025-09-02T05:17:13.064Z,32.095,-101.931,2.8677,1.1,ml,32,42,0.1,0.6,tx,tx2025rghscz,2025-09-02T06:02:33.255Z,"13 km WSW of Stanton, Texas",earthquake,0,0.94349789619446,0.1,20,automatic,tx,tx
+2025-09-02T05:17:13.207Z,32.105,-101.931,8.7158,1,ml,32,54,0.1,0.1,tx,tx2025rghscz,2025-09-02T10:05:53.120Z,"13 km WSW of Stanton, Texas",earthquake,0.34603822270076,0.90643029385753,0.2,18,reviewed,tx,tx
 2025-09-02T05:16:04.360Z,18.300166666667,-67.898833333333,78.5,3.43,md,17,179,0.505,0.51,pr,pr71494333,2025-09-02T05:32:57.630Z,"61 km ESE of Punta Cana, Dominican Republic",earthquake,3.64,2.46,0.025195726303325,8,reviewed,pr,pr
 2025-09-02T05:03:44.150Z,38.810501098633,-122.82199859619,2.75,0.76,md,14,78,0.005841,0.02,nc,nc75231877,2025-09-02T05:37:18.561Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.660000026,0.48,16,automatic,nc,nc
 2025-09-02T04:44:50.500Z,38.81566619873,-122.76533508301,1.5499999523163,2.05,md,43,47,0.01223,0.05,nc,nc75231872,2025-09-02T05:12:19.367Z,"4 km W of Cobb, CA",earthquake,0.17,0.25999999,0.1,42,automatic,nc,nc
@@ -209,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-01T10:19:03.779Z,57.869,-155.5991,10.7,1.9,ml,,,,0.9,ak,ak025b7p73ft,2025-09-01T10:21:15.451Z,"75 km WNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-01T10:18:17.397Z,57.1513,-155.0861,45.2,1.9,ml,,,,0.3,ak,ak025b7p6xud,2025-09-01T17:27:09.902Z,"60 km WNW of Akhiok, Alaska",earthquake,,3,,,reviewed,ak,ak
 2025-09-01T10:16:09.880Z,34.2081667,-117.0838333,3.69,0.32,ml,27,52,0.03684,0.17,ci,ci41280584,2025-09-01T10:20:04.346Z,"2 km E of Running Springs, CA",earthquake,0.2,0.35,0.222,8,automatic,ci,ci
-2025-09-01T10:06:38.070Z,37.429164886475,-121.77683258057,9.0500001907349,1.62,md,31,91,0.02825,0.05,nc,nc75231567,2025-09-01T11:12:17.223Z,"8 km NE of Alum Rock, CA",earthquake,0.18,0.340000004,0.2,21,automatic,nc,nc
