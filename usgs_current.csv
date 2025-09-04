@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-04T16:12:31.110Z,38.824165344238,-122.8048324585,2.4400000572205,1.08,md,21,34,0.004166,0.01,nc,nc75233052,2025-09-04T16:14:08.552Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.449999988,0.09,22,automatic,nc,nc
+2025-09-04T16:12:31.110Z,38.824165344238,-122.8048324585,2.4400000572205,1.08,md,21,34,0.004166,0.01,nc,nc75233052,2025-09-04T16:32:18.292Z,"7 km NNW of The Geysers, CA",earthquake,0.23,0.449999988,0.09,22,automatic,nc,nc
 2025-09-04T16:07:56.600Z,33.4396667,-117.6638333,7.38,1.11,ml,24,215,0.1476,0.16,ci,ci41283224,2025-09-04T16:11:20.372Z,"4 km SE of Dana Point, CA",earthquake,0.52,0.92,0.221,29,automatic,ci,ci
 2025-09-04T16:06:41.800Z,36.0366667,-117.8151667,1.69,1.4,ml,7,126,0.04204,0.04,ci,ci41283216,2025-09-04T16:10:04.365Z,"12 km E of Coso Junction, CA",earthquake,0.23,0.5,0.486,6,automatic,ci,ci
 2025-09-04T16:03:37.480Z,33.5416667,-116.7291667,6.89,0.59,ml,10,73,0.02463,0.16,ci,ci41283208,2025-09-04T16:08:58.361Z,"5 km WSW of Anza, CA",earthquake,0.72,1.37,0.098,10,automatic,ci,ci
@@ -101,6 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T06:18:02.840Z,17.968833333333,-66.911666666667,14.3,2.91,md,22,169,0.03146,0.21,pr,pr71494633,2025-09-04T06:34:34.730Z,"0 km SW of Guánica, Puerto Rico",earthquake,0.41,0.41,0.064991526533506,6,reviewed,pr,pr
 2025-09-04T06:17:19.410Z,18.005,-66.8355,11.95,2.11,md,11,113,0.04442,0.2,pr,pr71494628,2025-09-04T06:25:18.430Z,"2 km NW of Indios, Puerto Rico",earthquake,0.45,0.75,0.087665427478273,6,reviewed,pr,pr
 2025-09-04T06:13:04.880Z,44.794666666667,-110.84583333333,5.07,0.96,ml,19,107,0.007155,0.19,uu,uu80116571,2025-09-04T13:22:24.300Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.31,0.82,0.45158762804399,5,reviewed,uu,uu
+2025-09-04T06:08:54.760Z,44.309833333333,-115.16683333333,4.64,1.56,ml,15,66,0.3074,0.17,mb,mb90110328,2025-09-04T16:36:22.520Z,"20 km WNW of Stanley, Idaho",earthquake,0.38,2.3,0.23389370478636,17,reviewed,mb,mb
 2025-09-04T06:06:57.728Z,31.537,-102.349,7.8369,1.6,ml,18,83,0.2,0.2,tx,tx2025rkautk,2025-09-04T09:06:51.207Z,"15 km N of Crane, Texas",earthquake,0.68135274977832,1.9624438218669,0.1,10,reviewed,tx,tx
 2025-09-04T05:50:48.590Z,34.0606667,-117.1348333,9.84,0.66,ml,38,41,0.03128,0.17,ci,ci41282776,2025-09-04T05:55:26.330Z,"1 km S of Mentone, CA",earthquake,0.18,0.37,0.189,18,automatic,ci,ci
 2025-09-04T05:46:34.582Z,31.715,-104.55,5.5359,1.8,ml,30,67,0,0.2,tx,tx2025rkadhn,2025-09-04T09:59:47.330Z,"53 km SSW of Whites City, New Mexico",earthquake,1.021677106447,0.48021488381676,0.2,12,reviewed,tx,tx
@@ -250,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-03T17:02:02.659Z,51.1713,158.1582,60.656,4.5,mb,83,98,1.88,0.73,us,us7000qtkb,2025-09-03T18:46:13.040Z,"121 km ESE of Ozernovskiy, Russia",earthquake,10.23,6.433,0.067,66,reviewed,us,us
 2025-09-03T16:45:19.690Z,36.5699,-116.619,5.4,0.5,ml,26,72.77,0.058,0.1201,nn,nn00903718,2025-09-03T18:00:13.028Z,"24 km ENE of Furnace Creek, California",earthquake,,1.9,0.15,8,reviewed,nn,nn
 2025-09-03T16:41:12.843Z,-1.7907,139.0965,16.885,4.9,mb,75,82,1.176,0.92,us,us7000qtk7,2025-09-03T17:02:09.040Z,"192 km WNW of Abepura, Indonesia",earthquake,5.97,4.617,0.064,78,reviewed,us,us
-2025-09-03T16:36:43.980Z,38.787666320801,-122.76300048828,1.210000038147,1.09,md,16,66,0.01319,0.03,nc,nc75232717,2025-09-03T16:38:21.374Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.5,0.3,16,automatic,nc,nc
-2025-09-03T16:31:11.260Z,38.814167022705,-122.79683685303,3.0599999427795,0.76,md,7,153,0.006305,0.01,nc,nc75232712,2025-09-03T16:32:46.231Z,"5 km NNW of The Geysers, CA",earthquake,0.57,1.58000004,0.03,10,automatic,nc,nc
