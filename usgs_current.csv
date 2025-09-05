@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-05T22:25:38.008Z,35.31177902,-97.93966675,6.393915176,1.92,ml,11,97.09049988,0.08075882494,0.6710524481,ok,ok2025rkzq,2025-09-05T22:27:35.044Z,"0 km ESE of Minco, Oklahoma",earthquake,3.879076862,6.521058963,0.28,10,automatic,ok,ok
+2025-09-05T22:25:38.008Z,35.31177902,-97.93966675,6.393915176,1.92,ml,11,97.09049988,0.08075882494,0.6710524481,ok,ok2025rkzq,2025-09-05T22:28:41.594Z,"0 km ESE of Minco, Oklahoma",earthquake,3.879076862,6.521058963,0.28,10,automatic,ok,ok
 2025-09-05T22:23:30.170Z,36.2131667,-118.0146667,2.31,1.1,ml,22,54,0.1607,0.15,ci,ci41284392,2025-09-05T22:27:00.617Z,"8 km S of Olancha, CA",earthquake,0.22,0.88,0.109,19,automatic,ci,ci
 2025-09-05T22:16:38.390Z,33.5308333,-116.7178333,5.37,1.2,ml,46,27,0.03812,0.19,ci,ci41284384,2025-09-05T22:20:33.337Z,"5 km WSW of Anza, CA",earthquake,0.16,0.44,0.14,28,automatic,ci,ci
 2025-09-05T22:06:37.252Z,32.499,-101.085,3.0239,1.4,ml,14,108,0.1,0.3,tx,tx2025rnciou,2025-09-05T22:11:03.882Z,"17 km NNW of Westbrook, Texas",earthquake,0,1.7709077596664,0.1,10,automatic,tx,tx
@@ -28,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-05T20:00:21.870Z,35.057,-118.3395,-0.77,1.29,ml,34,43,0.06627,0.2,ci,ci41284264,2025-09-05T20:03:49.573Z,"13 km SE of Tehachapi, CA",earthquake,0.22,0.51,0.201,31,automatic,ci,ci
 2025-09-05T19:50:57.014Z,60.4561,-142.9999,3,1.1,ml,,,,1.06,ak,ak025begw55x,2025-09-05T19:51:58.389Z,"108 km S of McCarthy, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-09-05T19:48:06.750Z,45.0835,-111.73416666667,-2,1.3,ml,7,169,0.1149,0.02,mb,mb90110483,2025-09-05T19:56:11.970Z,"28 km SE of Virginia City, Montana",quarry blast,0.65,31.61,0.18023712032889,11,reviewed,mb,mb
+2025-09-05T19:47:56.734Z,41.287,-116.7312,5,2.3,ml,7,260.1,0.383,0.1524,nn,nn00903894,2025-09-05T22:36:30.184Z,"64 km NNE of Valmy, Nevada",earthquake,,3,0.13,3,reviewed,nn,nn
 2025-09-05T19:45:19.970Z,38.840999603271,-122.875831604,2.3399999141693,1.15,md,17,82,0.005719,0.01,nc,nc75233562,2025-09-05T22:27:19.300Z,"13 km NW of The Geysers, CA",earthquake,0.27,0.449999988,0.13,18,automatic,nc,nc
 2025-09-05T19:42:50.210Z,35.9766667,-117.3898333,2.05,0.91,ml,22,74,0.1142,0.17,ci,ci41284232,2025-09-05T19:46:40.709Z,"23 km N of Searles Valley, CA",earthquake,0.25,0.44,0.147,13,automatic,ci,ci
 2025-09-05T19:23:47.430Z,38.745834350586,-122.90616607666,4.1599998474121,1.55,md,32,69,0.05197,0.07,nc,nc75233552,2025-09-05T21:37:19.964Z,"12 km SE of Cloverdale, CA",earthquake,0.26,1.03999996,0.14,29,automatic,nc,nc
@@ -306,6 +307,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-04T22:43:46.535Z,58.9632,-156.4635,214,2.2,ml,,,,1.13,ak,ak025bcv3knx,2025-09-04T22:46:23.374Z,"28 km SE of Levelock, Alaska",earthquake,,4.5,,,automatic,ak,ak
 2025-09-04T22:39:58.022Z,41.18,-116.6859,10.8,2,ml,5,253.15,0.313,0.1464,nn,nn00903850,2025-09-04T23:04:38.020Z,"56 km NE of Valmy, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
 2025-09-04T22:39:32.480Z,33.9751667,-116.8988333,13.21,1.12,ml,49,32,0.09644,0.15,ci,ci41283576,2025-09-04T22:43:02.179Z,"6 km NNW of Banning, CA",earthquake,0.13,0.36,0.118,28,automatic,ci,ci
-2025-09-04T22:38:41.614Z,52.4012,160.6787,35,5.2,mww,69,133,1.383,0.99,us,us7000qtxp,2025-09-04T22:55:19.040Z,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.23,1.911,0.098,10,reviewed,us,us
-2025-09-04T22:36:40.360Z,49.106,-122.1565,-0.84,1.29,ml,7,244,0.1176,0.21,uw,uw62182106,2025-09-04T23:43:53.840Z,"8 km NE of Abbotsford, Canada",explosion,1.4,31.61,0.098567984223068,5,reviewed,uw,uw
-2025-09-04T22:35:28.990Z,39.799167633057,-122.85199737549,10.5,2.17,md,21,40,0.1743,0.18,nc,nc75233222,2025-09-05T00:42:18.941Z,"20 km NNW of Alder Springs, CA",earthquake,0.39,2.6500001,0.27,14,automatic,nc,nc
