@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-07T17:05:50.090Z,33.9328333,-117.2005,14.06,0.98,ml,23,91,0.07112,0.16,ci,ci41285712,2025-09-07T17:09:34.820Z,"3 km ENE of Moreno Valley, CA",earthquake,0.27,0.6,0.389,25,automatic,ci,ci
-2025-09-07T17:03:50.970Z,37.708831787109,-121.86367034912,13.720000267029,3.21,ml,87,31,0.0878,0.18,nc,nc75234557,2025-09-07T17:18:59.370Z,"5 km N of Pleasanton, CA",earthquake,0.19,0.460000008,0.264,46,reviewed,nc,nc
-2025-09-07T17:01:01.800Z,40.540500640869,-123.8313369751,21.809999465942,2.02,md,13,169,0.1636,0.13,nc,nc75234547,2025-09-07T17:07:17.719Z,"22 km ESE of Hydesville, CA",earthquake,0.93,1.55999994,0.21,4,automatic,nc,nc
+2025-09-07T17:03:50.970Z,37.708831787109,-121.86367034912,13.720000267029,3.21,ml,87,31,0.0878,0.18,nc,nc75234557,2025-09-07T17:29:42.150Z,"5 km N of Pleasanton, CA",earthquake,0.19,0.460000008,0.264,46,reviewed,nc,nc
+2025-09-07T17:01:01.800Z,40.540500640869,-123.8313369751,21.809999465942,2.02,md,13,169,0.1636,0.13,nc,nc75234547,2025-09-07T17:22:18.820Z,"22 km ESE of Hydesville, CA",earthquake,0.93,1.55999994,0.21,4,automatic,nc,nc
 2025-09-07T16:54:28.883Z,61.4744,-146.5093,16.3,1.6,ml,,,,0.72,ak,ak025bhq7c14,2025-09-07T16:56:28.565Z,"39 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-07T16:27:22.636Z,62.575,-151.2674,88.6,1.5,ml,,,,0.32,ak,ak025bhq1j7r,2025-09-07T16:29:22.146Z,"27 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-07T16:03:26.840Z,33.6463333,-116.759,11,0.83,ml,46,41,0.07454,0.15,ci,ci41285688,2025-09-07T16:06:57.192Z,"11 km SSW of Idyllwild, CA",earthquake,0.14,0.32,0.237,29,automatic,ci,ci
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T15:29:10.854Z,-6.4896,130.773,84.132,4.9,mb,71,49,3.84,0.78,us,us7000qukq,2025-09-07T15:58:37.040Z,"238 km WSW of Tual, Indonesia",earthquake,7.97,7.524,0.067,69,reviewed,us,us
 2025-09-07T15:23:33.440Z,19.408832550049,-155.26266479492,0.31000000238419,1.84,ml,12,53,0.004172,0.230000004,hv,hv74769507,2025-09-07T15:26:27.440Z,"4 km SW of Volcano, Hawaii",earthquake,0.22,0.340000004,0.2,18,automatic,hv,hv
 2025-09-07T15:16:31.940Z,35.32522202,-97.92792511,5.356290817,1.82,ml,12,76.98189354,0.06570944935,0.3027717133,ok,ok2025rocm,2025-09-07T15:19:14.105Z,"2 km NE of Minco, Oklahoma",earthquake,4.449944046,6.944248834,0.26,12,automatic,ok,ok
-2025-09-07T15:00:09.235Z,51.4793,-130.5291,10,4,mb,22,191,0.914,0.74,us,us7000qukk,2025-09-07T15:39:08.267Z,"260 km WNW of Port McNeill, Canada",earthquake,8.36,2.001,0.056,86,reviewed,us,us
+2025-09-07T15:00:09.235Z,51.4793,-130.5291,10,4,mb,22,191,0.914,0.74,us,us7000qukk,2025-09-07T17:25:05.075Z,"260 km WNW of Port McNeill, Canada",earthquake,8.36,2.001,0.056,86,reviewed,us,us
 2025-09-07T14:57:53.666Z,32.495,-104.6571,8.216,2.9,ml,21,96,0.692,0.45,us,us7000qukj,2025-09-07T15:26:22.040Z,"35 km SSE of Hope, New Mexico",earthquake,2.81,8.542,0.048,56,reviewed,us,us
 2025-09-07T14:45:42.476Z,60.5114,-151.6054,66.1,1.3,ml,,,,0.28,ak,ak025bhoykfb,2025-09-07T14:47:53.029Z,"19 km SW of Salamatof, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-09-07T14:42:57.438Z,61.5531,-150.9123,61.9,2.7,ml,,,,0.28,ak,ak025bhoxyfj,2025-09-07T15:31:05.040Z,"21 km W of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -184,6 +184,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T21:18:09.960Z,38.813499450684,-122.7620010376,1.7200000286102,1.08,md,18,109,0.01298,0.02,nc,nc75234092,2025-09-06T21:37:17.265Z,"4 km W of Cobb, CA",earthquake,0.27,0.449999988,0.17,16,automatic,nc,nc
 2025-09-06T21:14:03.371Z,52.3874,160.0053,57.568,4.6,mb,43,137,1.042,0.81,us,us7000qugk,2025-09-06T22:27:17.040Z,"119 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.9,6.944,0.079,50,reviewed,us,us
 2025-09-06T21:09:21.545Z,52.5127,160.2061,59.143,4.7,mb,41,137,1.075,1.03,us,us7000qugj,2025-09-06T22:14:42.040Z,"122 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.67,5.232,0.088,39,reviewed,us,us
+2025-09-06T21:00:02.550Z,33.3661667,-116.6898333,11.82,0.56,ml,15,73,0.1004,0.16,ci,ci41285128,2025-09-07T17:26:44.845Z,"11 km NNW of Warner Springs, CA",earthquake,0.32,0.79,0.129,8,reviewed,ci,ci
 2025-09-06T20:46:02.440Z,33.9818333,-116.798,16.01,1.47,ml,66,27,0.0538,0.18,ci,ci41285120,2025-09-06T20:56:28.590Z,"7 km N of Cabazon, CA",earthquake,0.15,0.39,0.129,27,automatic,ci,ci
 2025-09-06T20:44:08.720Z,36.460998535156,-121.06716918945,6.2399997711182,1.38,md,16,62,0.009354,0.19,nc,nc75234077,2025-09-06T23:12:17.979Z,"10 km SSE of Pinnacles, CA",earthquake,0.53,1.16999996,0.13,11,automatic,nc,nc
 2025-09-06T20:40:41.246Z,52.3501,-169.5398,23.991,5.4,mww,59,80,0.75,1.11,us,us7000qug7,2025-09-07T15:46:21.040Z,"80 km SW of Nikolski, Alaska",earthquake,6.58,5.847,0.046,45,reviewed,us,us
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T17:35:14.649Z,35.32581329,-97.92877197,5.539413929,2.23,ml,14,71.09876251,0.06523475796,0.3677942578,ok,ok2025rmlo,2025-09-06T17:37:43.095Z,"2 km NE of Minco, Oklahoma",earthquake,3.52410461,5.487225848,0.25,13,automatic,ok,ok
 2025-09-06T17:34:11.750Z,39.251,-123.21116666667,5.32,1.12,md,16,46,0.05474,0.06,nc,nc75233967,2025-09-06T22:07:19.498Z,"2 km SSW of Redwood Valley, CA",earthquake,0.16,0.59,0.18,11,reviewed,nc,nc
 2025-09-06T17:29:59.760Z,36.0636667,-117.443,3.86,1.32,ml,29,79,0.03771,0.15,ci,ci41285000,2025-09-07T00:28:39.480Z,"33 km N of Searles Valley, CA",earthquake,0.22,0.36,0.183,24,reviewed,ci,ci
-2025-09-06T17:24:06.520Z,38.797832489014,-122.81366729736,3.170000076294,1.04,md,25,69,0.0126,0.02,nc,nc75233962,2025-09-06T18:22:18.878Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.5,0.27,25,automatic,nc,nc
