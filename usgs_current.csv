@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-10T14:18:47.810Z,35.3491669,-117.7975006,4.39,1.48,ml,28,88,0.09063,0.19,ci,ci41288088,2025-09-10T14:30:22.160Z,"15 km W of Johannesburg, CA",earthquake,0.3,0.79,0.374,4,automatic,ci,ci
-2025-09-10T14:12:22.567Z,31.665,-104.426,4.6936,2.3,ml,29,71,0,0.4,tx,tx2025rvrghg,2025-09-10T14:15:37.675Z,"56 km S of Whites City, New Mexico",earthquake,0,1.0443341732025,0.1,21,automatic,tx,tx
+2025-09-10T14:12:22.753Z,31.682,-104.412,6.0999,2.2,ml,31,73,0,0.2,tx,tx2025rvrghg,2025-09-10T14:31:06.763Z,"54 km S of Whites City, New Mexico",earthquake,0.76441005998322,0.44109783109251,0.2,23,reviewed,tx,tx
 2025-09-10T14:09:30.413Z,60.1634,-152.7209,98.8,1.7,ml,,,,0.39,ak,ak025bmncv75,2025-09-10T14:11:48.749Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-10T14:00:02.599Z,28.617,-98.23,12.9555,2.5,ml,8,191,0,0.3,tx,tx2025rvqvrm,2025-09-10T14:02:45.554Z,"17 km NNW of Three Rivers, Texas",earthquake,0,5.6509065628052,0.1,6,automatic,tx,tx
 2025-09-10T13:24:43.770Z,37.390666666667,-113.80683333333,1.57,1.16,ml,6,129,0.08143,0.09,uu,uu80117121,2025-09-10T14:13:24.760Z,"11 km WNW of Veyo, Utah",earthquake,0.44,31.61,0.04425466944219,3,reviewed,uu,uu
@@ -63,9 +63,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-10T06:01:47.190Z,38.780834197998,-122.76950073242,3.7300000190735,0.81,md,17,96,0.01052,0.02,nc,nc75235832,2025-09-10T06:17:23.162Z,"1 km WNW of The Geysers, CA",earthquake,0.31,0.75999999,0.22,17,automatic,nc,nc
 2025-09-10T05:56:32.940Z,38.790668487549,-122.76983642578,2.8199999332428,2.31,md,66,43,0.01271,0.08,nc,nc75235827,2025-09-10T07:17:19.606Z,"2 km NNW of The Geysers, CA",earthquake,0.15,0.230000004,0.13,71,automatic,nc,nc
 2025-09-10T05:54:59.350Z,38.789833068848,-122.76933288574,3.4700000286102,2.61,md,77,36,0.01314,0.08,nc,nc75235822,2025-09-10T07:07:17.528Z,"2 km NNW of The Geysers, CA",earthquake,0.12,0.189999998,0.12,97,automatic,nc,nc
+2025-09-10T05:49:11.367Z,31.685,-104.426,5.8435,1.3,ml,19,66,0,0.1,tx,tx2025rvaorp,2025-09-10T14:32:51.782Z,"54 km S of Whites City, New Mexico",earthquake,0.9594703372004,0.84265209877911,0.1,29,reviewed,tx,tx
 2025-09-10T05:40:27.250Z,33.4783325,-116.5156631,12.26,1.25,ml,22,55,0.07414,0.14,ci,ci41287848,2025-09-10T05:42:33.765Z,"17 km ESE of Anza, CA",earthquake,0.35,1.04,0.488,15,automatic,ci,ci
 2025-09-10T05:34:23.250Z,33.4770012,-116.5224991,12.29,1.28,ml,39,45,0.06891,0.16,ci,ci41287840,2025-09-10T05:36:29.757Z,"16 km ESE of Anza, CA",earthquake,0.33,0.64,0.235,15,automatic,ci,ci
-2025-09-10T05:23:58.650Z,34.840168,-116.4086685,1.31,2.94,ml,74,68,0.06154,0.18,ci,ci41287832,2025-09-10T06:08:41.040Z,"26 km WNW of Ludlow, CA",earthquake,0.15,0.34,0.284,23,automatic,ci,ci
+2025-09-10T05:23:58.640Z,34.8416667,-116.4101667,1.6,3.06,ml,36,68,0.06303,0.16,ci,ci41287832,2025-09-10T14:32:26.630Z,"26 km WNW of Ludlow, CA",earthquake,0.17,0.38,0.167,183,reviewed,ci,ci
 2025-09-10T05:22:43.960Z,33.4785004,-116.5171661,11.48,1.18,ml,41,55,0.07288,0.15,ci,ci41287824,2025-09-10T05:25:08.338Z,"17 km ESE of Anza, CA",earthquake,0.26,0.74,0.233,14,automatic,ci,ci
 2025-09-10T05:20:36.190Z,38.811668395996,-122.8261642456,0.33000001311302,1.31,md,20,89,0.003656,0.03,nc,nc75235812,2025-09-10T06:32:20.277Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.469999999,0.24,21,automatic,nc,nc
 2025-09-10T05:14:21.141Z,19.2136,-108.496,10,4.4,mb,62,186,6.572,0.96,us,us7000qv60,2025-09-10T05:44:07.040Z,"Revilla Gigedo Islands region",earthquake,6.32,1.939,0.034,258,reviewed,us,us
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T22:58:29.800Z,19.198,-155.372,31.18,1.79,ml,51,169,0.0461,0.12,hv,hv74771707,2025-09-09T23:13:08.300Z,"11 km E of Pāhala, Hawaii",earthquake,0.4,0.49,0.26373021596032,28,reviewed,hv,hv
 2025-09-09T22:58:27.814Z,-8.3211,123.9132,154.785,4.3,mb,13,127,1.687,0.75,us,us7000qv5g,2025-09-10T03:33:56.040Z,"110 km NNW of Pante Makasar, Timor Leste",earthquake,8.12,9.074,0.148,13,reviewed,us,us
 2025-09-09T22:52:00.911Z,37.36,-117.5374,0.9,0.7,ml,11,143.77,0.228,0.1329,nn,nn00904061,2025-09-09T23:27:32.376Z,"44 km S of Silver Peak, Nevada",earthquake,,9.2,0.58,4,reviewed,nn,nn
-2025-09-09T22:46:47.600Z,33.2608333,-116.4026667,4.95,2.29,ml,7,172,0.01419,0.04,ci,ci41287640,2025-09-09T23:26:34.676Z,"3 km WNW of Borrego Springs, CA",earthquake,0.26,0.18,0.404,35,automatic,ci,ci
+2025-09-09T22:46:47.580Z,33.2601667,-116.4048333,5.42,0.34,ml,10,185,0.01307,0.09,ci,ci41287640,2025-09-10T14:39:04.080Z,"3 km W of Borrego Springs, CA",earthquake,0.37,0.35,0.142,9,reviewed,ci,ci
 2025-09-09T22:34:21.630Z,42.4278,-126.4597,10,2.7,ml,47,266,1.568,0.5,us,us7000qv5b,2025-09-10T03:04:11.040Z,"164 km WSW of Port Orford, Oregon",earthquake,9.74,2.022,0.041,80,reviewed,us,us
 2025-09-09T22:29:31.970Z,38.794666290283,-122.80766296387,4.789999961853,0.26,md,8,118,0.007278,0.03,nc,nc75235722,2025-09-09T23:07:18.139Z,"5 km NW of The Geysers, CA",earthquake,0.9,1.59000003,0.07,7,automatic,nc,nc
 2025-09-09T22:25:36.290Z,38.799331665039,-122.81400299072,3.1400001049042,0.82,md,11,93,0.01392,0.02,nc,nc75235717,2025-09-09T22:52:17.013Z,"6 km NW of The Geysers, CA",earthquake,0.42,0.930000007,0.17,12,automatic,nc,nc
@@ -200,6 +201,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T16:31:51.011Z,41.1815,-116.6894,10.5,2.8,ml,13,159.83,0.287,0.1373,nn,nn00904045,2025-09-09T17:28:54.040Z,"56 km NE of Valmy, Nevada",earthquake,,1.6,0.22,8,reviewed,nn,nn
 2025-09-09T16:31:29.733Z,42.3833,-127.1084,13.367,3.6,ml,22,203,2.047,0.43,us,us7000qv0v,2025-09-09T17:07:44.040Z,"218 km WSW of Port Orford, Oregon",earthquake,8.75,8.686,0.094,20,reviewed,us,us
 2025-09-09T16:17:09.520Z,38.823001861572,-122.80699920654,2.3399999141693,1.02,md,8,129,0.01757,0.02,nc,nc75235552,2025-09-09T16:18:47.531Z,"7 km NNW of The Geysers, CA",earthquake,0.65,0.910000026,0.32,9,automatic,nc,nc
+2025-09-09T16:15:11.047Z,31.669,-104.363,5.8435,1.3,ml,19,69,0.1,0.1,tx,tx2025rtzpfw,2025-09-10T14:38:14.811Z,"56 km S of Whites City, New Mexico",earthquake,0.82855801645701,0.87424245238466,0.2,18,reviewed,tx,tx
 2025-09-09T16:13:02.410Z,33.4755,-116.5005,12.67,0.79,ml,28,59,0.08712,0.17,ci,ci41287224,2025-09-09T16:24:56.382Z,"18 km ESE of Anza, CA",earthquake,0.25,0.49,0.11,21,reviewed,ci,ci
 2025-09-09T16:07:42.910Z,36.2091667,-117.9241667,7.66,0.89,ml,19,47,0.1072,0.16,ci,ci41287208,2025-09-09T16:11:29.668Z,"11 km SE of Olancha, CA",earthquake,0.26,0.92,0.154,14,automatic,ci,ci
 2025-09-09T16:04:05.220Z,19.415666666667,-154.89483333333,37.96,3.63,ml,59,235,0.04566,0.13,hv,hv74771322,2025-09-10T09:02:34.482Z,"6 km SSE of Leilani Estates, Hawaii",earthquake,0.76,0.32,0.18337791535305,45,reviewed,hv,hv
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T14:58:09.230Z,42.4804,-126.1097,18.936,2.7,ml,74,177,1.315,0.61,us,us7000qv0b,2025-09-09T18:42:50.040Z,"135 km WSW of Port Orford, Oregon",earthquake,6.93,7.976,0.033,124,reviewed,us,us
 2025-09-09T14:54:05.100Z,52.061166666667,-176.22283333333,18.51,1.61,ml,4,262,0.04283,0.33,av,av93758123,2025-09-09T23:16:52.660Z,"35 km NE of Adak, Alaska",earthquake,4.19,1.97,0.23513237784828,4,reviewed,av,av
 2025-09-09T14:53:01.327Z,32.143,-101.08,6.5674,2.1,ml,23,67,0.2,0.1,tx,tx2025rtwwkk,2025-09-09T16:47:46.414Z,"24 km SSW of Westbrook, Texas",earthquake,1.1448659376312,1.9069020193567,0.2,24,reviewed,tx,tx
-2025-09-09T14:39:56.008Z,59.82,-150.981,45.6,1.9,ml,,,,0.64,ak,ak025bl0005s,2025-09-09T14:42:21.375Z,"4 km SSW of Fox River, Alaska",earthquake,,1.2,,,automatic,ak,ak
