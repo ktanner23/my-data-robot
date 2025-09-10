@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-10T13:16:26.891Z,32.093,-101.921,3.309,1.2,ml,33,32,0.1,0.5,tx,tx2025rvpjyg,2025-09-10T13:20:00.469Z,"13 km WSW of Stanton, Texas",earthquake,0,0.95846968889236,0.2,23,automatic,tx,tx
-2025-09-10T13:13:47.980Z,36.687168121338,-121.360496521,5.5700001716614,1.64,md,24,68,0.02316,0.15,nc,nc75235947,2025-09-10T13:15:23.758Z,"12 km SSW of Tres Pinos, CA",earthquake,0.37,0.970000029,0.29,21,automatic,nc,nc
-2025-09-10T12:59:00.722Z,31.643,-104.004,6.5383,1.6,ml,32,32,0,0.4,tx,tx2025rvoutl,2025-09-10T13:01:19.081Z,"38 km W of Mentone, Texas",earthquake,0,1.7097311019897,0.2,23,automatic,tx,tx
+2025-09-10T13:13:47.980Z,36.687168121338,-121.360496521,5.5700001716614,1.64,md,24,68,0.02316,0.15,nc,nc75235947,2025-09-10T13:32:18.363Z,"12 km SSW of Tres Pinos, CA",earthquake,0.37,0.970000029,0.29,21,automatic,nc,nc
+2025-09-10T12:59:00.936Z,31.639,-103.999,7.9071,1.7,ml,29,45,0,0.1,tx,tx2025rvoutl,2025-09-10T13:35:05.422Z,"38 km W of Mentone, Texas",earthquake,0.36526175142625,0.34696625652148,0.2,15,reviewed,tx,tx
 2025-09-10T12:57:48.003Z,64.9855,-149.9572,16.4,1.2,ml,,,,0.42,ak,ak025bmmgbps,2025-09-10T12:59:17.573Z,"31 km E of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-10T12:40:33.547Z,57.2447,-155.9324,12.5,2.1,ml,,,,0.38,ak,ak025bmmcnfe,2025-09-10T12:42:38.613Z,"93 km ESE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-10T12:30:52.160Z,40.299331665039,-124.39783477783,9.3500003814697,1.35,md,16,270,0.04363,0.09,nc,nc75235942,2025-09-10T12:47:20.024Z,"10 km W of Petrolia, CA",earthquake,1.53,0.50999999,0.06,8,automatic,nc,nc
@@ -112,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T21:42:43.398Z,60.1901,-151.8676,56.2,1.6,ml,,,,0.73,ak,ak025bl46nkj,2025-09-09T21:52:13.386Z,"19 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-09T21:40:50.118Z,66.2544,-150.096,1.2,1.5,ml,,,,0.77,ak,ak025bl468nn,2025-09-09T21:42:53.757Z,"53 km WNW of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-09T21:31:38.970Z,17.960833333333,-66.784,12.38,2.09,md,10,167,0.05928,0.08,pr,pr71495218,2025-09-09T21:42:23.760Z,"5 km SE of Indios, Puerto Rico",earthquake,0.41,0.32,0.030911064610834,5,reviewed,pr,pr
-2025-09-09T21:31:27.950Z,32.455,-102.072,4.7375,1.3,mlv,41,94,0.1,0.5,tx,tx2025rukbul,2025-09-09T23:17:53.865Z,"32 km SSW of Los Ybanez, Texas",earthquake,0,0.82741665840149,0.2,28,automatic,tx,tx
+2025-09-09T21:31:28.321Z,32.451,-102.079,8.667,1.4,ml,31,65,0,0.1,tx,tx2025rukbul,2025-09-10T13:30:25.530Z,"33 km SSW of Los Ybanez, Texas",earthquake,0.54590727199322,0.62136042912808,0.2,32,reviewed,tx,tx
 2025-09-09T21:30:23.670Z,44.5405,-122.84966666667,-0.77,1.44,ml,7,159,0.08189,0.14,uw,uw62177827,2025-09-10T04:06:15.670Z,"4 km E of Lebanon, Oregon",explosion,0.84,31.61,0.19973925295574,4,reviewed,uw,uw
 2025-09-09T21:25:51.424Z,51.4876,159.8179,10,5.2,mb,56,114,1.697,0.99,us,us7000qv51,2025-09-10T02:21:11.040Z,"187 km SSE of Vilyuchinsk, Russia",earthquake,8.82,1.879,0.045,162,reviewed,us,us
 2025-09-09T21:22:52.520Z,35.9658333,-117.3275,3.67,0.92,ml,11,280,0.16,0.09,ci,ci41287544,2025-09-09T21:26:24.086Z,"23 km NNE of Trona, CA",earthquake,0.77,0.99,0.263,12,automatic,ci,ci
@@ -219,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T14:03:03.510Z,40.296001434326,-124.47200012207,11.199999809265,2.21,md,17,270,0.09927,0.17,nc,nc75235487,2025-09-09T15:27:19.894Z,"16 km W of Petrolia, CA",earthquake,3.08,0.860000014,0.11,12,automatic,nc,nc
 2025-09-09T14:00:04.210Z,38.502666666667,-112.90783333333,2.22,1.71,ml,13,49,0.01082,0.1,uu,uu80117051,2025-09-09T14:28:52.090Z,"14 km NE of Milford, Utah",earthquake,0.33,0.76,0.21612942078649,9,reviewed,uu,uu
 2025-09-09T13:56:42.138Z,39.1866,-120.4406,3.4,0.7,ml,6,216.47,0.136,0.0824,nn,nn00904035,2025-09-09T14:49:08.068Z,"14 km S of Kingvale, California",earthquake,,7,0.32,3,reviewed,nn,nn
-2025-09-09T13:31:38.261Z,63.5625,-150.7922,1.4,1.1,ml,,,,0.54,ak,ak025bkzctgi,2025-09-09T13:33:34.719Z,"46 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-09T13:31:32.400Z,54.748666666667,-163.982,-2.62,0.46,ml,5,95,0.04027,0.19,av,av93757963,2025-09-09T19:54:49.090Z,"38 km WSW of False Pass, Alaska",earthquake,0.43,1.01,0.48179287593665,5,reviewed,av,av
