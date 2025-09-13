@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-13T04:38:39.763Z,61.3386,-151.9524,89.6,1.8,ml,,,,0.45,ak,ak025brg6t2y,2025-09-13T04:45:13.692Z,"51 km WNW of Beluga, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-09-13T04:32:09.092Z,-55.624,-28.0637,54.849,5.4,mb,47,72,5.038,0.8,us,us7000qvx7,2025-09-13T04:48:17.040Z,"South Sandwich Islands region",earthquake,10.67,7.081,0.062,89,reviewed,us,us
+2025-09-13T04:32:09.092Z,-55.624,-28.0637,54.849,5.4,mb,47,72,5.038,0.8,us,us7000qvx7,2025-09-13T04:54:08.803Z,"South Sandwich Islands region",earthquake,10.67,7.081,0.062,89,reviewed,us,us
 2025-09-13T04:31:35.530Z,18.041166666667,-66.775833333333,10.46,2.41,md,9,144,0.1115,0.29,pr,pr71495528,2025-09-13T04:45:17.120Z,"2 km NNW of Magas Arriba, Puerto Rico",earthquake,0.68,2.59,0.12650909849053,3,reviewed,pr,pr
 2025-09-13T04:18:34.660Z,38.832668304443,-122.87616729736,2.5599999427795,0.81,md,10,123,0.007946,0.02,nc,nc75237182,2025-09-13T04:37:17.770Z,"12 km NW of The Geysers, CA",earthquake,0.39,0.689999998,0.49,13,automatic,nc,nc
 2025-09-13T04:10:09.128Z,62.7662,-145.8133,241.2,2.8,ml,,,,0.88,ak,ak025brg0qpc,2025-09-13T04:12:47.933Z,"37 km SSW of Paxson, Alaska",earthquake,,10.1,,,automatic,ak,ak
@@ -169,6 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T13:03:23.860Z,54.763833333333,-163.96533333333,-2.72,0.29,ml,6,78,0.05139,0.22,av,av93763083,2025-09-12T20:32:23.400Z,"37 km WSW of False Pass, Alaska",earthquake,0.49,1.66,0.18326672928164,6,reviewed,av,av
 2025-09-12T13:00:58.610Z,31.628,-104.379,6.0999,1.4,ml,24,73,0.1,0.1,tx,tx2025rzgijw,2025-09-12T13:53:50.957Z,"60 km S of Whites City, New Mexico",earthquake,0.95371354854625,1.0497998924145,0.2,24,reviewed,tx,tx
 2025-09-12T12:52:38.810Z,36.723667144775,-121.34349822998,6.5900001525879,1.97,md,21,113,0.05622,0.08,nc,nc75236907,2025-09-12T14:57:20.014Z,"8 km SSW of Tres Pinos, CA",earthquake,0.34,0.99000001,0.16,25,automatic,nc,nc
+2025-09-12T12:40:54.940Z,58.168,-155.36866666667,2.29,0.39,ml,11,127,0.04747,0.09,av,av93763023,2025-09-13T04:55:23.470Z,"85 km NW of Karluk, Alaska",earthquake,0.19,0.36,0.17153069606013,11,reviewed,av,av
 2025-09-12T12:40:50.760Z,42.65,-125.05516666667,4.66,2.24,ml,25,256,0.4987,1.46,uw,uw62179677,2025-09-12T20:46:25.010Z,"46 km WSW of Port Orford, Oregon",earthquake,13.23,22.87,0.20622173752808,12,reviewed,uw,uw
 2025-09-12T12:39:11.920Z,38.791831970215,-122.72783660889,0.77999997138977,1.05,md,12,176,0.01104,0.03,nc,nc75236897,2025-09-12T13:17:19.276Z,"3 km ENE of The Geysers, CA",earthquake,0.37,0.5,0.09,11,automatic,nc,nc
 2025-09-12T12:30:22.800Z,35.1648333,-119.2288333,23.27,1.28,ml,36,42,0.1573,0.23,ci,ci41289840,2025-09-12T12:33:53.177Z,"20 km NE of Maricopa, CA",earthquake,0.3,0.91,0.175,29,automatic,ci,ci
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T05:03:51.960Z,38.820499420166,-122.76433563232,1.3500000238419,1.21,md,21,103,0.01087,0.04,nc,nc75236792,2025-09-12T07:07:20.577Z,"4 km W of Cobb, CA",earthquake,0.23,0.330000013,0.23,20,automatic,nc,nc
 2025-09-12T05:03:47.030Z,38.821666717529,-122.76100158691,1.75,1.65,md,11,206,0.01121,0.02,nc,nc75236787,2025-09-12T06:37:17.366Z,"3 km W of Cobb, CA",earthquake,0.8,0.819999993,0.1,9,automatic,nc,nc
 2025-09-12T05:03:19.254Z,31.619,-104.126,6.5356,1,ml,14,57,0,0.1,tx,tx2025ryqmyp,2025-09-12T14:22:24.358Z,"46 km NW of Toyah, Texas",earthquake,0.62943816523624,0.9123387385583,0.1,12,reviewed,tx,tx
-2025-09-12T04:54:50.330Z,38.789665222168,-122.76550292969,1.4800000190735,0.87,md,14,109,0.01184,0.03,nc,nc75236782,2025-09-12T05:22:19.821Z,"2 km NNW of The Geysers, CA",earthquake,0.32,0.550000012,0.2,13,automatic,nc,nc
-2025-09-12T04:50:35.974Z,-16.3434,167.2667,10,5,mb,24,143,0.893,0.65,us,us7000qvmd,2025-09-12T05:06:16.040Z,"31 km SSW of Lakatoro, Vanuatu",earthquake,6.56,1.818,0.137,17,reviewed,us,us
