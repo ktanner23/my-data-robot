@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-13T08:25:20.930Z,34.32,-118.7103333,26.19,1.42,ml,48,30,0.08224,0.22,ci,ci41290480,2025-09-13T08:29:19.850Z,"6 km NNE of Simi Valley, CA",earthquake,0.25,0.45,0.257,31,automatic,ci,ci
-2025-09-13T08:24:11.460Z,32.643,-115.7375,6,1.73,ml,43,46,0.01131,0.23,ci,ci41290472,2025-09-13T08:28:02.254Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.54,0.177,28,automatic,ci,ci
+2025-09-13T08:24:11.460Z,32.643,-115.7375,6,1.73,ml,43,46,0.01131,0.23,ci,ci41290472,2025-09-13T08:35:08.110Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.54,0.177,28,automatic,ci,ci
 2025-09-13T08:22:25.454Z,60.2554,-140.6052,14.9,1.7,ml,,,,0.56,ak,ak025brih2z5,2025-09-13T08:25:28.054Z,"92 km NNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-13T08:21:44.270Z,40.432998657227,-124.77416992188,23.219999313354,2.04,md,9,304,0.3522,0.11,nc,nc75237247,2025-09-13T08:23:23.240Z,"43 km WNW of Petrolia, CA",earthquake,5.6,8.36999989,0.04,3,automatic,nc,nc
 2025-09-13T08:08:59.290Z,32.6483333,-115.729,6.47,1.5,ml,38,70,0.002423,0.28,ci,ci41290464,2025-09-13T08:12:28.812Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.31,0.58,0.163,16,automatic,ci,ci
@@ -90,6 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T22:51:29.650Z,33.337,-116.4076667,11.93,1.19,ml,55,23,0.03544,0.21,ci,ci41290280,2025-09-12T23:02:08.110Z,"10 km NNW of Borrego Springs, CA",earthquake,0.17,0.42,0.16,26,automatic,ci,ci
 2025-09-12T22:47:52.180Z,36.069499969482,-120.20866394043,7.8899998664856,1.08,md,5,228,0.08747,0.02,nc,nc75237067,2025-09-12T23:17:23.459Z,"10 km NNW of Avenal, CA",earthquake,1.42,0.810000002,0.18,3,automatic,nc,nc
 2025-09-12T22:45:24.800Z,18.9845,-65.013,48.35,3.08,md,11,255,0.6735,0.1,pr,pr71495478,2025-09-12T23:02:14.690Z,"71 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.6,3.69,0.063910473105754,5,reviewed,pr,pr
+2025-09-12T22:45:04.800Z,52.317166666667,-173.957,18.93,1.33,ml,8,286,0.06366,0.12,av,av93764328,2025-09-13T08:34:04.520Z,"21 km NE of Atka, Alaska",earthquake,1.1,0.71,0.42307825133458,8,reviewed,av,av
 2025-09-12T22:34:54.056Z,37.0421,-117.6595,5.5,1.2,ml,21,173.48,0.239,0.1459,nn,nn00904241,2025-09-13T00:49:56.670Z,"55 km ENE of Independence, California",earthquake,,1.6,0.54,4,reviewed,nn,nn
 2025-09-12T22:29:25.598Z,52.2202,159.7401,35,4.9,mb,69,123,1.043,1.13,us,us7000qvtx,2025-09-12T23:14:01.040Z,"120 km SE of Vilyuchinsk, Russia",earthquake,7.64,1.91,0.048,135,reviewed,us,us
 2025-09-12T22:13:10.110Z,38.826332092285,-122.85182952881,1.6100000143051,0.39,md,8,91,0.004121,0.01,nc,nc75237057,2025-09-12T22:42:18.204Z,"10 km NW of The Geysers, CA",earthquake,0.39,0.850000024,0.26,8,automatic,nc,nc
@@ -286,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T08:58:00.887Z,-21.7798,170.8323,174.862,4.7,mb,32,78,3.245,1.26,us,us7000qvnd,2025-09-12T09:18:13.040Z,"295 km SSE of Isangel, Vanuatu",earthquake,11.09,9.587,0.108,26,reviewed,us,us
 2025-09-12T08:51:11.996Z,31.713,-104.292,6.3562,0.9,ml,12,70,0,0.1,tx,tx2025ryybhn,2025-09-12T14:58:26.144Z,"51 km S of Whites City, New Mexico",earthquake,0.84628371020918,1.0405465716207,0.1,23,reviewed,tx,tx
 2025-09-12T08:45:36.790Z,61.318333333333,-152.26066666667,1.47,1.67,ml,10,125,0.08022,0.08,av,av93762528,2025-09-12T23:53:18.620Z,"66 km WNW of Beluga, Alaska",earthquake,0.2,0.67,0.1699211478382,11,reviewed,av,av
-2025-09-12T08:41:36.539Z,31.667,-104.367,5.177,1.1,ml,14,67,0.1,0.1,tx,tx2025ryxtae,2025-09-12T15:16:55.695Z,"56 km S of Whites City, New Mexico",earthquake,1.0391548740815,1.3809032709564,0.2,21,reviewed,tx,tx
