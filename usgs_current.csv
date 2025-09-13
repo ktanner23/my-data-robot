@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-13T20:15:17.240Z,35.7341667,-117.5401667,9.29,0.48,ml,20,60,0.09381,0.14,ci,ci41290920,2025-09-13T20:18:45.911Z,"13 km WSW of Searles Valley, CA",earthquake,0.22,0.67,0.11,10,automatic,ci,ci
-2025-09-13T20:03:23.870Z,38.798000335693,-122.75016784668,1.1499999761581,1.54,md,29,49,0.007905,0.04,nc,nc75237507,2025-09-13T20:05:00.692Z,"2 km NNE of The Geysers, CA",earthquake,0.21,0.310000002,0.16,29,automatic,nc,nc
+2025-09-13T20:03:23.870Z,38.798000335693,-122.75016784668,1.1499999761581,1.54,md,29,49,0.007905,0.04,nc,nc75237507,2025-09-13T20:22:18.595Z,"2 km NNE of The Geysers, CA",earthquake,0.21,0.310000002,0.16,29,automatic,nc,nc
 2025-09-13T19:56:01.200Z,36.1271667,-117.9071667,3.89,0.9,ml,29,49,0.04342,0.18,ci,ci41290904,2025-09-13T19:59:30.080Z,"10 km NNE of Coso Junction, CA",earthquake,0.22,0.43,0.178,18,automatic,ci,ci
 2025-09-13T19:51:49.870Z,40.505500793457,-124.44799804688,16.239999771118,1.83,md,15,280,0.1718,0.08,nc,nc75237502,2025-09-13T20:07:17.474Z,"17 km WSW of Ferndale, CA",earthquake,2.28,0.879999995,0.12,7,automatic,nc,nc
 2025-09-13T19:37:16.390Z,37.46883392334,-118.86100006103,2.9300000667572,1.17,md,13,214,0.1236,0.05,nc,nc75237497,2025-09-13T19:57:19.412Z,"19 km WSW of Toms Place, CA",earthquake,0.87,3.33999991,0.28,12,automatic,nc,nc
@@ -81,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T11:49:37.260Z,36.1826667,-118.022,2.27,1.2,ml,25,54,0.1501,0.16,ci,ci41290664,2025-09-13T11:53:02.202Z,"11 km S of Olancha, CA",earthquake,0.22,0.85,0.145,16,automatic,ci,ci
 2025-09-13T11:49:36.358Z,-17.6904,-65.8984,10,4.6,mb,25,87,1.943,0.9,us,us7000qvzb,2025-09-13T14:28:23.040Z,"11 km SSE of Cliza, Bolivia",earthquake,7.19,1.933,0.136,18,reviewed,us,us
 2025-09-13T11:41:03.460Z,33.0535,-116.6036667,12.98,1.45,ml,61,22,0.02788,0.19,ci,ci41290656,2025-09-13T11:44:40.157Z,"3 km S of Julian, CA",earthquake,0.15,0.4,0.233,26,automatic,ci,ci
-2025-09-13T11:28:43.910Z,36.074,-120.19466666667,10.31,1.58,md,34,81,0.04024,0.14,nc,nc75237327,2025-09-13T18:57:18.991Z,"10 km NW of Avenal, CA",earthquake,0.24,0.31,0.328,12,reviewed,nc,nc
+2025-09-13T11:28:43.910Z,36.074,-120.19466666667,10.31,1.58,md,34,81,0.04024,0.14,nc,nc75237327,2025-09-13T20:22:19.596Z,"10 km NW of Avenal, CA",earthquake,0.24,0.31,0.328,12,reviewed,nc,nc
 2025-09-13T11:20:49.920Z,34.4376667,-117.8936667,10.1,1.99,ml,15,45,0.0449,0.16,ci,ci41290648,2025-09-13T11:24:26.053Z,"8 km S of Pearblossom, CA",earthquake,0.28,0.55,0.227,33,automatic,ci,ci
 2025-09-13T11:16:57.749Z,-24.1806,-67.07,179.787,4,mb,67,63,1.591,0.98,us,us7000qvz5,2025-09-13T12:21:44.040Z,"76 km W of San Antonio de los Cobres, Argentina",earthquake,8.38,4.679,0.081,41,reviewed,us,us
 2025-09-13T11:14:46.916Z,31.667,-104.439,4.1345,1.6,mlv,25,64,0,0.6,tx,tx2025saynxc,2025-09-13T17:07:44.436Z,"56 km S of Whites City, New Mexico",earthquake,0,1.1045609712601,0.1,19,automatic,tx,tx
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-12T20:42:58.873Z,62.4195,-148.7609,50,1.7,ml,,,,0.69,ak,ak025bq27an3,2025-09-12T20:45:24.582Z,"63 km ENE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-12T20:40:28.330Z,53.902166666667,-167.06416666667,3.57,0.22,ml,6,282,0.1116,0.27,av,av93764053,2025-09-13T07:55:23.330Z,"34 km W of Dutch Harbor, Alaska",earthquake,1.18,0.88,0.19784834106603,6,reviewed,av,av
 2025-09-12T20:31:48.077Z,59.4519,-138.6187,3.1,2.9,ml,,,,0.58,ak,ak025bq24wxj,2025-09-13T15:04:05.040Z,"63 km E of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-12T20:20:50.605Z,54.8519,-156.1369,57.2,3.4,ml,,,,0.37,ak,ak025bq22k90,2025-09-13T14:34:25.040Z,"215 km SE of Chignik, Alaska",earthquake,,12.7,,,automatic,ak,ak
