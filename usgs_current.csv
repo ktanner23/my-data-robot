@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-14T08:33:28.487Z,59.5908,-151.9224,51.5,3.1,ml,,,,0.4,ak,ak025bt62sjz,2025-09-14T08:34:53.032Z,"19 km NW of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2025-09-14T08:33:28.487Z,59.5908,-151.9224,51.5,3.1,ml,,,,0.4,ak,ak025bt62sjz,2025-09-14T08:43:04.769Z,"19 km NW of Seldovia Village, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-14T08:16:09.563Z,37.0524,-117.6567,9.5,1.2,ml,26,172.01,0.239,0.2206,nn,nn00904326,2025-09-14T08:18:42.185Z,"55 km ENE of Independence, California",earthquake,,0.9,0.22,14,automatic,nn,nn
 2025-09-14T08:10:13.016Z,35.32364273,-97.94140625,2.326792717,2.35,ml,59,34.25912476,0.06974194199,0.9442601694,ok,ok2025saiy,2025-09-14T08:13:10.384Z,"1 km NNE of Minco, Oklahoma",earthquake,1.733161103,1.175266102,0.28,40,automatic,ok,ok
 2025-09-14T08:04:39.560Z,46.192665100098,-121.55449676514,1.5499999523163,1.9756219387054,ml,61,86,,0.140000001,uw,uw62180522,2025-09-14T08:07:19.960Z,"21 km N of Trout Lake, Washington",earthquake,0.28,1.22000003,0.23952850699425,41,automatic,uw,uw
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T07:38:00.210Z,35.6801667,-117.5601667,3.95,0.65,ml,20,73,0.1121,0.13,ci,ci41291240,2025-09-14T07:41:28.265Z,"12 km ENE of Ridgecrest, CA",earthquake,0.21,0.78,0.17,8,automatic,ci,ci
 2025-09-14T07:32:37.470Z,36.192,-118.0868333,2.45,0.64,ml,24,57,0.1874,0.21,ci,ci41291232,2025-09-14T07:36:09.999Z,"12 km SW of Olancha, CA",earthquake,0.27,1.02,0.064,6,automatic,ci,ci
 2025-09-14T07:18:35.870Z,63.2174,-151.2601,1.1,1,ml,,,,0.52,ak,ak025bt5e5sz,2025-09-14T07:20:25.073Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-14T07:12:17.489Z,6.9494,-76.1732,50.192,5.4,mww,78,83,2.786,1.22,us,us7000qw4k,2025-09-14T08:27:03.732Z,"5 km N of Uramita, Colombia",earthquake,7,7.024,0.046,45,reviewed,us,us
+2025-09-14T07:12:17.489Z,6.9494,-76.1732,50.192,5.4,mww,78,83,2.786,1.22,us,us7000qw4k,2025-09-14T08:36:56.722Z,"5 km N of Uramita, Colombia",earthquake,7,7.024,0.046,45,reviewed,us,us
 2025-09-14T07:11:34.180Z,33.5038333,-116.5068333,12.53,0.48,ml,31,57,0.08021,0.14,ci,ci41291224,2025-09-14T07:19:25.003Z,"16 km ESE of Anza, CA",earthquake,0.17,0.42,0.189,11,automatic,ci,ci
 2025-09-14T07:06:53.958Z,60.1052,-153.0392,114.6,0.9,ml,,,,0.23,ak,ak025bt5bmlv,2025-09-14T07:09:16.688Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,2,,,automatic,ak,ak
 2025-09-14T06:48:07.908Z,35.32404327,-97.94551849,6.563539028,1.64,ml,12,81.48948669,0.07044610381,0.3593235388,ok,ok2025sagg,2025-09-14T06:50:48.210Z,"1 km N of Minco, Oklahoma",earthquake,4.000957142,6.538459011,0.22,11,automatic,ok,ok
@@ -233,8 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-13T09:03:45.920Z,32.6456667,-115.7351667,7.21,2.14,ml,52,63,0.008264,0.25,ci,ci41290520,2025-09-13T09:14:42.950Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.24,0.51,0.199,27,automatic,ci,ci
 2025-09-13T09:00:19.990Z,33.6458333,-116.7575,11.78,0.68,ml,47,38,0.07351,0.16,ci,ci41290512,2025-09-13T09:04:10.388Z,"11 km SSW of Idyllwild, CA",earthquake,0.15,0.33,0.229,19,automatic,ci,ci
 2025-09-13T08:45:41.690Z,33.5368333,-116.717,5.88,0.65,ml,38,29,0.03315,0.14,ci,ci41290504,2025-09-13T08:49:22.091Z,"4 km WSW of Anza, CA",earthquake,0.14,0.34,0.167,18,automatic,ci,ci
-2025-09-13T08:44:39.086Z,34.382,23.8293,10,4.5,mb,30,249,2.973,0.86,us,us7000qvyu,2025-09-13T12:28:48.040Z,"55 km SSW of Kastrí, Greece",earthquake,10.87,1.986,0.108,25,reviewed,us,us
-2025-09-13T08:44:28.350Z,38.841835021973,-122.87733459473,2.4700000286102,0.45,md,9,102,0.005987,0.02,nc,nc75237252,2025-09-13T09:12:15.762Z,"13 km NW of The Geysers, CA",earthquake,0.59,0.460000008,0.24,11,automatic,nc,nc
-2025-09-13T08:44:07.290Z,32.6426667,-115.739,5.99,2.17,ml,52,46,0.01255,0.26,ci,ci41290496,2025-09-13T08:55:17.490Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.28,0.55,0.248,27,automatic,ci,ci
-2025-09-13T08:43:12.460Z,35.3635,-117.7966667,6.06,1.01,ml,33,72,0.1039,0.16,ci,ci41290488,2025-09-13T08:46:48.123Z,"15 km W of Johannesburg, CA",earthquake,0.17,0.64,0.16,19,automatic,ci,ci
-2025-09-13T08:42:36.460Z,40.373333333333,-121.98966666667,10.49,1.87,md,34,106,0.1656,0.18,nc,nc75237257,2025-09-13T19:42:18.300Z,"12 km WSW of Manton, CA",earthquake,0.44,1.11,0.202,24,reviewed,nc,nc
