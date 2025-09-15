@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-15T08:59:51.740Z,38.837501525879,-122.78283691406,1.9400000572205,1.04,md,11,134,0.02427,0.03,nc,nc75237942,2025-09-15T09:01:29.083Z,"5 km WNW of Cobb, CA",earthquake,0.34,0.660000026,0.08,11,automatic,nc,nc
+2025-09-15T08:58:42.070Z,33.649,-116.72,13.7,0.41,ml,26,56,0.04335,0.13,ci,ci41291632,2025-09-15T09:05:48.207Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.39,0.223,11,automatic,ci,ci
 2025-09-15T08:55:38.671Z,61.3091,-150.1667,41,1.3,ml,,,,0.46,ak,ak025butqvm3,2025-09-15T08:57:08.881Z,"11 km WSW of Point MacKenzie, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-15T08:54:55.690Z,37.588001251221,-122.45783233643,8.6000003814697,1,md,9,131,0.03055,0.03,nc,nc75237937,2025-09-15T08:56:34.092Z,"4 km SSE of Pacifica, CA",earthquake,0.67,1.04999995,0.28,6,automatic,nc,nc
 2025-09-15T08:48:49.500Z,33.991,-116.9373333,5.67,0.87,ml,46,54,0.07819,0.14,ci,ci41291624,2025-09-15T08:56:45.174Z,"8 km NNE of Beaumont, CA",earthquake,0.14,0.53,0.215,29,automatic,ci,ci
@@ -146,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T12:36:08.550Z,37.787666320801,-122.19550323486,0.93000000715256,1.04,md,12,99,0.0162,0.05,nc,nc75237687,2025-09-14T13:12:18.778Z,"3 km ESE of Oakland, CA",earthquake,0.29,0.400000006,0.16,8,automatic,nc,nc
 2025-09-14T12:24:53.080Z,40.518333435059,-124.46366882324,16.520000457764,2.97,md,36,249,0.1891,0.09,nc,nc75237677,2025-09-14T22:23:09.360Z,"18 km W of Ferndale, CA",earthquake,1.07,0.330000013,0.08,31,automatic,nc,nc
 2025-09-14T12:21:18.880Z,32.431,-116.291,21.09,0.98,ml,25,86,0.2283,0.17,ci,ci41291296,2025-09-14T12:24:48.401Z,"26 km SE of Campo, CA",earthquake,0.3,0.82,0.154,9,automatic,ci,ci
-2025-09-14T12:10:21.691Z,32.003,-101.725,3.6445,1.5,mlv,53,49,0.1,0.4,tx,tx2025scwcqe,2025-09-14T23:12:06.876Z,"15 km SSE of Stanton, Texas",earthquake,0,0.80397939682007,0.2,37,automatic,tx,tx
+2025-09-14T12:10:22.026Z,32.006,-101.727,8.374,1.4,ml,41,75,0.1,0.2,tx,tx2025scwcqe,2025-09-15T09:06:09.706Z,"14 km SSE of Stanton, Texas",earthquake,0.38036358636677,0.99855030726714,0.2,28,reviewed,tx,tx
 2025-09-14T12:10:06.158Z,60.007,-153.3242,127.3,2.6,ml,,,,0.38,ak,ak025bt8bjuy,2025-09-14T12:11:51.094Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-14T12:08:17.030Z,46.652667999268,-120.54000091553,6.960000038147,2.17000008,md,16,95,,0.0799999982,uw,uw62180637,2025-09-14T12:12:03.900Z,"0 km W of Selah, Washington",earthquake,0.24,0.360000014,1.08000004,3,automatic,uw,uw
 2025-09-14T11:49:50.250Z,33.9295,-116.8053333,17.29,0.56,ml,36,52,0.09589,0.17,ci,ci41291288,2025-09-14T13:48:52.285Z,"2 km NW of Cabazon, CA",earthquake,0.23,0.5,0.218,14,reviewed,ci,ci
@@ -173,5 +175,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-14T09:29:56.570Z,36.1826667,-118.0243333,2.35,1.46,ml,29,55,0.1518,0.18,ci,ci41291264,2025-09-14T13:49:22.657Z,"11 km S of Olancha, CA",earthquake,0.21,0.96,0.204,26,reviewed,ci,ci
 2025-09-14T09:23:51.394Z,29.206,-97.481,9.1437,1.6,mlv,12,61,0.1,0.4,tx,tx2025scqpfe,2025-09-14T10:10:33.442Z,"16 km ESE of Smiley, Texas",earthquake,0,3.7179429531097,0.1,10,automatic,tx,tx
 2025-09-14T09:11:09.875Z,61.1451,-147.3788,42.4,1.4,ml,,,,1.15,ak,ak025bt6jgzv,2025-09-14T09:12:49.169Z,"49 km NW of Tatitlek, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2025-09-14T09:08:53.492Z,63.604,-147.4929,0,1.4,ml,,,,0.87,ak,ak025bt6ix7p,2025-09-14T09:11:38.155Z,"71 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-09-14T09:00:53.400Z,52.0237,-176.4035,127.028,4,mb,129,83,0.129,0.69,us,us7000qw4u,2025-09-14T18:13:03.816Z,"22 km NE of Adak, Alaska",earthquake,8.22,3.374,0.045,134,reviewed,us,us
