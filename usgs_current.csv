@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-16T20:06:31.660Z,59.9851,-151.5066,60.4,1.8,ml,,,,0.3,ak,ak025bwo4wqm,2025-09-16T20:08:18.689Z,"11 km SE of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-09-16T19:48:01.823Z,32.107,-102.145,4.6221,1.7,ml,45,54,0,0.5,tx,tx2025shcsnv,2025-09-16T19:52:25.363Z,"13 km NNW of Midland, Texas",earthquake,0,0.79755759239197,0.1,27,automatic,tx,tx
+2025-09-16T19:48:02.451Z,32.108,-102.144,6.4941,1.6,ml,46,46,0,0.1,tx,tx2025shcsnv,2025-09-16T20:12:16.988Z,"13 km NNW of Midland, Texas",earthquake,0.3842622238914,1.4256497763963,0.1,19,reviewed,tx,tx
 2025-09-16T19:38:04.324Z,66.2234,-157.1939,0,1.8,ml,,,,0.86,ak,ak025bwnq9xs,2025-09-16T19:40:57.902Z,"68 km NNW of Huslia, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-16T19:29:19.980Z,57.1797,-155.0688,62.2,1.9,ml,,,,0.21,ak,ak025bwnodpa,2025-09-16T19:30:46.094Z,"56 km SW of Karluk, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2025-09-16T19:11:34.580Z,19.401833333333,-155.29016666667,-0.53,1.54,ml,13,61,0.01044,0.12,hv,hv74777217,2025-09-16T19:38:41.570Z,"7 km SW of Volcano, Hawaii",earthquake,0.12,0.27,0.28099042393346,11,reviewed,hv,hv
 2025-09-16T19:10:30.323Z,51.6649,178.1724,111.493,4.5,mb,81,84,0.382,0.56,us,us7000qwjm,2025-09-16T19:49:25.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.6,5.193,0.054,101,reviewed,us,us
 2025-09-16T19:01:59.123Z,63.1206,-150.7935,115.6,1.8,ml,,,,0.34,ak,ak025bwnigo8,2025-09-16T19:04:11.988Z,"66 km SE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-09-16T18:41:59.260Z,36.545166015625,-121.08899688721,5.6300001144409,2.04,md,30,59,0.05186,0.16,nc,nc75238507,2025-09-16T19:07:20.226Z,"5 km E of Pinnacles, CA",earthquake,0.35,1.23000002,0.24,33,automatic,nc,nc
+2025-09-16T18:41:59.260Z,36.545166015625,-121.08899688721,5.6300001144409,2.04,md,30,59,0.05186,0.16,nc,nc75238507,2025-09-16T20:17:26.733Z,"5 km E of Pinnacles, CA",earthquake,0.35,1.23000002,0.24,33,automatic,nc,nc
 2025-09-16T18:38:30.990Z,36.0518333,-117.8461667,2.37,0.36,ml,8,160,0.06599,0.06,ci,ci41292392,2025-09-16T18:41:53.893Z,"9 km E of Coso Junction, CA",earthquake,0.45,0.3,0.119,5,automatic,ci,ci
 2025-09-16T18:34:57.739Z,36.7699,-116.2572,9.4,0.1,ml,25,59.34,0.034,0.0766,nn,nn00904440,2025-09-16T19:01:53.922Z,"47 km ESE of Beatty, Nevada",earthquake,,0.7,0.38,6,reviewed,nn,nn
 2025-09-16T18:18:20.221Z,36.7685,-116.2589,9.8,-0.2,ml,18,91.18,0.032,0.0918,nn,nn00904438,2025-09-16T18:46:30.109Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.21,4,reviewed,nn,nn
@@ -65,14 +65,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T09:50:20.809Z,36.7703,-116.255,9.1,-0.5,ml,21,62.84,0.035,0.089,nn,nn00904419,2025-09-16T17:50:56.542Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.17,3,reviewed,nn,nn
 2025-09-16T09:36:49.340Z,36.447833333333,-89.5105,7.81,1.78,md,24,60,0.05229,0.12,nm,nm60613896,2025-09-16T15:56:11.560Z,"8 km NNW of Tiptonville, Tennessee",earthquake,0.23,0.53,0.16156385485993,20,reviewed,nm,nm
 2025-09-16T09:31:17.060Z,36.0796667,-117.627,2.25,0.97,ml,19,73,0.1139,0.16,ci,ci41292272,2025-09-16T13:14:45.069Z,"29 km E of Coso Junction, CA",earthquake,0.24,0.94,0.184,16,reviewed,ci,ci
+2025-09-16T09:22:44.260Z,54.7505,-163.9775,6.45,0.39,ml,4,110,0.04268,0.33,av,av93771568,2025-09-16T20:23:22.040Z,"38 km WSW of False Pass, Alaska",earthquake,1.34,2.43,0.39573018017535,4,reviewed,av,av
 2025-09-16T09:17:35.190Z,33.1051667,-116.2215,10.36,0.44,ml,40,43,0.06754,0.22,ci,ci41292264,2025-09-16T09:21:00.268Z,"9 km WSW of Ocotillo Wells, CA",earthquake,0.22,0.53,0.255,5,automatic,ci,ci
 2025-09-16T09:14:01.140Z,33.1305,-116.0253333,8.06,0.69,ml,41,44,0.05858,0.23,ci,ci41292256,2025-09-16T13:30:00.324Z,"10 km E of Ocotillo Wells, CA",earthquake,0.24,0.84,0.132,10,reviewed,ci,ci
 2025-09-16T09:12:21.953Z,32.368,-102.16,8.1299,0.5,ml,18,69,0,0.1,tx,tx2025sghqvs,2025-09-16T10:51:24.536Z,"35 km ENE of McKinney Acres, Texas",earthquake,0.57355731259028,0.57608840321531,0.2,9,reviewed,tx,tx
+2025-09-16T09:08:27.200Z,54.749333333333,-163.98083333333,-0.64,0.3,ml,5,96,0.04107,0.1,av,av93771533,2025-09-16T20:18:35.610Z,"38 km WSW of False Pass, Alaska",earthquake,0.23,0.31,0.22006961091613,5,reviewed,av,av
 2025-09-16T09:02:35.518Z,51.9896,-169.7646,10,5.2,mb,106,149,1.13,0.86,us,us7000qwg4,2025-09-16T15:12:41.502Z,"122 km SSW of Nikolski, Alaska",earthquake,6.99,1.893,0.023,644,reviewed,us,us
 2025-09-16T08:59:17.767Z,62.4683,-151.2742,85.9,1.8,ml,,,,0.8,ak,ak025bwhb1cw,2025-09-16T09:01:55.414Z,"26 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-16T08:58:55.280Z,35.894,-117.6776667,2.64,0.61,ml,14,107,0.05817,0.08,ci,ci41292248,2025-09-16T13:30:17.115Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.23,0.15,9,reviewed,ci,ci
 2025-09-16T08:56:09.379Z,29.217,-97.499,7.5303,1.3,ml,16,57,0.1,0.4,tx,tx2025sghdck,2025-09-16T11:23:48.847Z,"14 km ESE of Smiley, Texas",earthquake,1.6988924941264,0.84755096321654,0.1,7,reviewed,tx,tx
 2025-09-16T08:52:36.812Z,59.8641,-151.0463,33.7,2.1,ml,,,,0.48,ak,ak025bwh9ktd,2025-09-16T08:54:11.206Z,"4 km W of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-16T08:51:16.610Z,54.7535,-163.9875,-1.16,0.28,ml,4,106,0.04449,0.16,av,av93771473,2025-09-16T20:13:03.890Z,"38 km WSW of False Pass, Alaska",earthquake,0.34,0.8,0.33214449036241,4,reviewed,av,av
 2025-09-16T08:46:05.420Z,44.771666666667,-110.52733333333,5.06,0.76,md,17,137,0.0551,0.22,uu,uu80117506,2025-09-16T13:36:35.240Z,"26 km SSE of Mammoth, Wyoming",earthquake,0.49,1.33,0.32122447910625,12,reviewed,uu,uu
 2025-09-16T08:44:07.600Z,33.0265,-116.2883333,7.09,0.43,ml,32,108,0.07281,0.17,ci,ci41292240,2025-09-16T13:30:34.036Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.25,0.53,0.077,5,reviewed,ci,ci
 2025-09-16T08:39:04.023Z,59.2621,-151.8047,34.4,3.1,ml,,,,0.37,ak,ak025bwh6pyr,2025-09-16T08:49:44.040Z,"10 km S of Port Graham, Alaska",earthquake,,1023.2,,,automatic,ak,ak
@@ -201,7 +204,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T20:42:19.880Z,32.7928333,-115.4556667,11.35,1.31,ml,22,60,0.01452,0.22,ci,ci41291984,2025-09-15T20:45:51.221Z,"7 km WSW of Holtville, CA",earthquake,0.36,0.49,0.208,14,automatic,ci,ci
 2025-09-15T20:39:45.590Z,33.661,-116.727,13.2,0.55,ml,21,87,0.04506,0.12,ci,ci41291976,2025-09-16T13:35:30.204Z,"9 km S of Idyllwild, CA",earthquake,0.26,0.39,0.092,9,reviewed,ci,ci
 2025-09-15T20:32:34.329Z,31.666,-104.233,7.1765,1,ml,20,83,0,0.1,tx,tx2025sfimij,2025-09-16T15:06:54.401Z,"57 km NW of Toyah, Texas",earthquake,0.74550768226843,0.91660835120462,0.2,19,reviewed,tx,tx
+2025-09-15T20:32:31.060Z,46.010166666667,-112.4535,-2,1.06,ml,12,72,0.07023,0.12,mb,mb90112093,2025-09-16T20:17:46.890Z,"6 km E of Butte, Montana",quarry blast,0.34,31.61,0.24974046362053,15,reviewed,mb,mb
 2025-09-15T20:29:45.910Z,33.5,-116.5231667,14.49,0.82,ml,26,54,0.06625,0.13,ci,ci41291968,2025-09-16T13:35:45.205Z,"15 km ESE of Anza, CA",earthquake,0.23,0.45,0.155,20,reviewed,ci,ci
 2025-09-15T20:29:22.163Z,-17.8408,-177.8029,639.511,4.9,mb,50,93,3.023,1.19,us,us7000qwdj,2025-09-15T20:44:14.040Z,"Fiji region",earthquake,13.54,9.453,0.076,55,reviewed,us,us
-2025-09-15T20:24:47.140Z,32.7816667,-115.4511667,8.12,1.36,ml,23,100,0.02387,0.23,ci,ci41291960,2025-09-15T20:28:16.040Z,"7 km WSW of Holtville, CA",earthquake,0.43,0.63,0.186,16,automatic,ci,ci
-2025-09-15T20:17:44.700Z,35.3531667,-117.7928333,6.41,0.8,ml,30,100,0.0959,0.15,ci,ci41291952,2025-09-15T20:30:25.994Z,"14 km W of Johannesburg, CA",earthquake,0.23,0.52,0.107,14,reviewed,ci,ci
