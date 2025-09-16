@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-16T09:31:16.990Z,36.0836678,-117.6241684,2.15,1.11,ml,15,86,0.1284,0.13,ci,ci41292272,2025-09-16T09:33:31.344Z,"30 km E of Coso Junction, CA",earthquake,0.42,0.87,0.23,9,automatic,ci,ci
+2025-09-16T09:31:17.060Z,36.0796667,-117.627,2.25,0.97,ml,19,73,0.1139,0.16,ci,ci41292272,2025-09-16T09:35:06.344Z,"29 km E of Coso Junction, CA",earthquake,0.24,0.94,0.184,16,automatic,ci,ci
 2025-09-16T09:17:35.190Z,33.1051667,-116.2215,10.36,0.44,ml,40,43,0.06754,0.22,ci,ci41292264,2025-09-16T09:21:00.268Z,"9 km WSW of Ocotillo Wells, CA",earthquake,0.22,0.53,0.255,5,automatic,ci,ci
 2025-09-16T09:14:01.140Z,33.1305,-116.0253333,8.06,0.69,ml,41,44,0.05858,0.23,ci,ci41292256,2025-09-16T09:24:28.366Z,"10 km E of Ocotillo Wells, CA",earthquake,0.24,0.84,0.132,10,automatic,ci,ci
-2025-09-16T09:02:35.518Z,51.9896,-169.7646,10,5.2,mb,106,149,1.13,0.86,us,us7000qwg4,2025-09-16T09:29:17.441Z,"122 km SSW of Nikolski, Alaska",earthquake,6.99,1.893,0.023,644,reviewed,us,us
+2025-09-16T09:02:35.518Z,51.9896,-169.7646,10,5.2,mb,106,149,1.13,0.86,us,us7000qwg4,2025-09-16T09:42:41.479Z,"122 km SSW of Nikolski, Alaska",earthquake,6.99,1.893,0.023,644,reviewed,us,us
 2025-09-16T08:59:17.767Z,62.4683,-151.2742,85.9,1.8,ml,,,,0.8,ak,ak025bwhb1cw,2025-09-16T09:01:55.414Z,"26 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-16T08:58:55.280Z,35.894,-117.6776667,2.64,0.61,ml,14,107,0.05817,0.08,ci,ci41292248,2025-09-16T09:02:26.163Z,"21 km ESE of Little Lake, CA",earthquake,0.13,0.23,0.15,9,automatic,ci,ci
 2025-09-16T08:52:36.812Z,59.8641,-151.0463,33.7,2.1,ml,,,,0.48,ak,ak025bwh9ktd,2025-09-16T08:54:11.206Z,"4 km W of Fox River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -168,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T13:24:30.670Z,46.157666666667,-122.13416666667,24.08,0.27,ml,9,159,0.03625,0.11,uw,uw62189701,2025-09-16T05:04:48.180Z,"36 km NE of Amboy, Washington",earthquake,0.9,0.61,0.18864809337884,6,reviewed,uw,uw
 2025-09-15T13:19:22.807Z,37.1029,-117.0167,6.1,1.9,ml,23,111.84,0.123,0.1518,nn,nn00904383,2025-09-15T17:24:58.737Z,"31 km NW of Beatty, Nevada",earthquake,,2.2,0.52,5,reviewed,nn,nn
 2025-09-15T13:16:37.060Z,38.829666137695,-122.8176651001,1.9700000286102,0.77,md,7,133,0.008624,0.01,nc,nc75238002,2025-09-15T14:07:16.605Z,"8 km NNW of The Geysers, CA",earthquake,0.4,1.01999998,0.14,10,automatic,nc,nc
-2025-09-15T13:10:29.590Z,36.770333333333,-120.80016666667,5.92,2.1,md,63,105,0.07897,0.19,nc,nc75237997,2025-09-16T07:07:20.076Z,"25 km SSW of South Dos Palos, CA",earthquake,0.21,0.66,0.137,61,reviewed,nc,nc
+2025-09-15T13:10:29.590Z,36.770333333333,-120.80016666667,5.92,2.1,md,63,105,0.07897,0.19,nc,nc75237997,2025-09-16T09:37:18.130Z,"25 km SSW of South Dos Palos, CA",earthquake,0.21,0.66,0.137,61,reviewed,nc,nc
 2025-09-15T13:07:12.320Z,19.396,-155.2895,-0.72,1.21,ml,19,55,0.007321,0.27,hv,hv74776432,2025-09-15T18:05:54.690Z,"7 km SW of Volcano, Hawaii",earthquake,0.16,0.31,0.22418704631224,13,reviewed,hv,hv
 2025-09-15T13:04:49.720Z,33.5431667,-116.709,3.83,0.09,ml,16,89,0.03241,0.1,ci,ci41291768,2025-09-15T13:40:24.491Z,"4 km WSW of Anza, CA",earthquake,0.2,0.27,0.068,5,reviewed,ci,ci
 2025-09-15T13:03:36.340Z,57.053666666667,-135.62466666667,4.88,0.95,ml,5,167,0.04535,0.07,av,av93769963,2025-09-16T02:25:18.020Z,"17 km W of Sitka, Alaska",earthquake,0.75,0.73,0.23431305342948,5,reviewed,av,av
@@ -222,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-15T09:55:12.470Z,34.4083,16.3452,10,5.1,mww,114,67,2.064,0.72,us,us7000qw9u,2025-09-15T17:07:14.412Z,"228 km SE of Birżebbuġa, Malta",earthquake,7.43,1.849,0.056,31,reviewed,us,us
 2025-09-15T09:51:43.510Z,33.5168333,-116.4516667,3.63,0.61,ml,39,43,0.1277,0.19,ci,ci41291648,2025-09-15T13:42:22.028Z,"21 km SW of La Quinta, CA",earthquake,0.16,0.54,0.093,13,reviewed,ci,ci
 2025-09-15T09:48:46.408Z,38.8341,-119.0344,11.9,1.1,ml,15,102.54,0.221,0.0986,nn,nn00904379,2025-09-15T18:14:07.181Z,"20 km SSE of Yerington, Nevada",earthquake,,1.9,0.24,9,reviewed,nn,nn
-2025-09-15T09:40:29.230Z,46.201333333333,-122.16133333333,7.13,-0.12,md,5,173,0.04663,0.08,uw,uw62181347,2025-09-15T23:33:07.250Z,"39 km NE of Amboy, Washington",earthquake,0.66,0.69,0.046204280883038,2,reviewed,uw,uw
-2025-09-15T09:39:31.290Z,60.042166666667,-153.09616666667,-2.31,-0.4,ml,5,107,0.02234,0.12,av,av93769733,2025-09-16T04:47:28.110Z,"63 km ENE of Pedro Bay, Alaska",earthquake,0.26,2.98,0.11286576583407,4,reviewed,av,av
