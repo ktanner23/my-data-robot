@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-17T16:49:31.202Z,36.7667,-116.2642,12.4,-0.1,ml,13,103.61,0.056,0.0736,nn,nn00904492,2025-09-17T16:51:30.713Z,"46 km ESE of Beatty, Nevada",earthquake,,1,0.18,9,automatic,nn,nn
-2025-09-17T16:43:01.740Z,33.1751667,-116.5095,14.43,1.4,ml,66,26,0.1145,0.2,ci,ci41293136,2025-09-17T16:46:30.126Z,"14 km NE of Julian, CA",earthquake,0.15,0.33,0.202,27,automatic,ci,ci
+2025-09-17T16:43:01.740Z,33.1751667,-116.5095,14.43,1.4,ml,66,26,0.1145,0.2,ci,ci41293136,2025-09-17T16:53:31.440Z,"14 km NE of Julian, CA",earthquake,0.15,0.33,0.202,27,automatic,ci,ci
 2025-09-17T16:25:02.140Z,35.33816667,-97.94683333,10.62,0.88,ml,18,101,0.05758869913,0.09,ok,ok2025sglu,2025-09-17T16:44:52.937Z,"2 km N of Minco, Oklahoma",earthquake,,0.7,0.22,9,reviewed,ok,ok
 2025-09-17T16:20:31.730Z,35.606,-98.0495,6.41,1.86,ml,83,58,0.1538698055,0.17,ok,ok2025sglq,2025-09-17T16:39:08.383Z,"6 km E of Calumet, Oklahoma",earthquake,,0.4,0.24,37,reviewed,ok,ok
 2025-09-17T16:17:15.440Z,37.336666666667,-112.7,1.59,1.16,ml,13,78,0.2873,0.21,uu,uu80117561,2025-09-17T16:35:07.920Z,"8 km NW of Orderville, Utah",earthquake,0.44,31.61,0.17149248465521,4,reviewed,uu,uu
@@ -110,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T05:41:57.770Z,35.8971667,-117.6735,3.56,0.14,ml,13,92,0.05399,0.08,ci,ci41292792,2025-09-17T05:45:23.551Z,"22 km ESE of Little Lake, CA",earthquake,0.14,0.48,0.074,5,automatic,ci,ci
 2025-09-17T05:36:58.700Z,33.4548333,-116.4301667,12.17,0.77,ml,29,143,0.1367,0.21,ci,ci41292784,2025-09-17T05:40:25.348Z,"23 km NNW of Borrego Springs, CA",earthquake,0.5,0.87,0.129,27,automatic,ci,ci
 2025-09-17T05:21:09.110Z,33.4656667,-116.4265,10.95,1.16,ml,68,28,0.142,0.2,ci,ci41292776,2025-09-17T13:30:33.359Z,"24 km NNW of Borrego Springs, CA",earthquake,0.17,0.34,0.162,26,reviewed,ci,ci
-2025-09-17T05:18:09.000Z,32.749,-115.5058333,15.86,2.14,ml,41,45,0.07502,0.3,ci,ci41292768,2025-09-17T05:29:17.210Z,"3 km NE of Heber, CA",earthquake,0.32,0.46,0.209,26,automatic,ci,ci
+2025-09-17T05:18:09.000Z,32.7528333,-115.508,15.04,2.19,ml,39,44,0.07346,0.28,ci,ci41292768,2025-09-17T16:53:28.210Z,"3 km NE of Heber, CA",earthquake,0.3,0.48,0.162,25,reviewed,ci,ci
 2025-09-17T05:05:13.830Z,33.1323333,-116.0275,7.71,0.9,ml,38,41,0.05854,0.23,ci,ci41292760,2025-09-17T05:09:09.169Z,"10 km E of Ocotillo Wells, CA",earthquake,0.22,0.64,0.094,16,automatic,ci,ci
 2025-09-17T05:04:28.480Z,33.4636667,-116.4268333,10.97,1.22,ml,71,28,0.1408,0.19,ci,ci41292752,2025-09-17T13:30:48.362Z,"24 km NNW of Borrego Springs, CA",earthquake,0.14,0.29,0.135,26,reviewed,ci,ci
 2025-09-17T05:03:40.245Z,60.0749,-153.0783,118.7,1.7,ml,,,,0.28,ak,ak025by2q4o8,2025-09-17T05:05:48.046Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -234,6 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T17:21:16.379Z,35.3295,-97.93266667,6.76,1.11,ml,55,54,0.06208781625,0.19,ok,ok2025sesd,2025-09-16T17:57:30.111Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.3,0.22,26,reviewed,ok,ok
 2025-09-16T17:10:01.450Z,58.363666666667,-154.71933333333,4.52,0.21,ml,13,172,0.04734,0.18,av,av93772418,2025-09-17T02:46:18.990Z,"89 km N of Karluk, Alaska",earthquake,0.66,0.74,0.2443551583959,13,reviewed,av,av
 2025-09-16T17:05:46.571Z,31.606,-103.973,7.2278,1.1,ml,17,70,0,0.1,tx,tx2025sgxjac,2025-09-17T14:30:53.824Z,"36 km NNW of Toyah, Texas",earthquake,0.55881993585571,0.5842229582696,0.2,19,reviewed,tx,tx
-2025-09-16T16:59:51.491Z,-5.4693,153.7519,77.666,6,mww,164,43,2.029,0.71,us,us7000qwir,2025-09-16T21:37:07.491Z,"206 km SE of Kokopo, Papua New Guinea",earthquake,6.97,6.471,0.042,55,reviewed,us,us
-2025-09-16T16:56:34.649Z,57.0352,-154.695,6.9,2.8,ml,,,,0.39,ak,ak025bwm1wco,2025-09-16T17:22:58.040Z,"33 km WNW of Akhiok, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-16T16:53:12.090Z,40.297500610352,-124.51132965088,22.420000076294,1.89,md,9,307,0.1586,0.16,nc,nc75238442,2025-09-16T17:57:17.722Z,"19 km W of Petrolia, CA",earthquake,5.39,1.13999999,0.1,5,automatic,nc,nc
