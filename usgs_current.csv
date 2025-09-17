@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-17T06:44:52.329Z,57.5908,-153.4923,40,2.2,ml,,,,0.99,ak,ak025by3kdkg,2025-09-17T06:46:57.674Z,"29 km E of Larsen Bay, Alaska",earthquake,,11.4,,,automatic,ak,ak
-2025-09-17T06:35:38.805Z,56.6187,-152.1292,0,4.7,ml,,,,0.87,ak,ak025by3iekl,2025-09-17T06:43:38.916Z,"96 km SE of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2025-09-17T06:35:40.812Z,56.3453,-152.176,11.8,4.6,ml,,,,0.85,ak,ak025by3iekl,2025-09-17T06:55:19.742Z,"117 km SE of Old Harbor, Alaska",earthquake,,3.1,,,reviewed,ak,ak
 2025-09-17T06:10:07.030Z,35.8995,-117.6888333,3.29,0.55,ml,15,88,0.0575,0.1,ci,ci41292816,2025-09-17T06:13:37.724Z,"20 km ESE of Little Lake, CA",earthquake,0.16,0.56,0.126,11,automatic,ci,ci
 2025-09-17T05:59:14.150Z,33.1315,-116.0256667,8.01,0.88,ml,39,50,0.05805,0.23,ci,ci41292808,2025-09-17T06:02:46.388Z,"10 km E of Ocotillo Wells, CA",earthquake,0.24,0.81,0.137,12,automatic,ci,ci
 2025-09-17T05:53:42.960Z,35.6986667,-117.5163333,4.48,0.52,ml,25,68,0.08251,0.15,ci,ci41292800,2025-09-17T05:57:11.909Z,"13 km SW of Searles Valley, CA",earthquake,0.21,0.56,0.061,11,automatic,ci,ci
@@ -33,8 +33,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T03:39:07.115Z,32.38,-101.645,3.1963,1.7,ml,57,35,0,0.5,tx,tx2025shsitz,2025-09-17T03:43:58.750Z,"17 km SSE of Ackerly, Texas",earthquake,0,0.70506906509399,0.1,36,automatic,tx,tx
 2025-09-17T03:34:14.460Z,34.1403333,-116.7763333,9.11,1.1,ml,46,33,0.1081,0.17,ci,ci41292688,2025-09-17T03:42:46.888Z,"15 km SSE of Big Bear City, CA",earthquake,0.16,0.4,0.152,26,automatic,ci,ci
 2025-09-17T03:25:30.390Z,38.833000183105,-122.78866577148,1.6699999570847,0.79,md,9,113,0.005558,0.01,nc,nc75238637,2025-09-17T05:07:20.554Z,"6 km WNW of Cobb, CA",earthquake,0.4,0.370000005,0.13,9,automatic,nc,nc
-2025-09-17T03:24:14.042Z,61.3116,-152.2858,6,0.8,ml,,,,0.09,ak,ak025by1nph8,2025-09-17T03:25:48.396Z,"67 km WNW of Beluga, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2025-09-17T03:17:17.048Z,61.3089,-152.2817,7,0.4,ml,,,,0.1,ak,ak025by1m7p4,2025-09-17T03:18:54.779Z,"67 km WNW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-09-17T03:08:28.644Z,36.7192,-116.0461,5.7,-0.3,ml,9,84.96,0.042,0.0538,nn,nn00904463,2025-09-17T03:10:15.726Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.2,0.29,5,automatic,nn,nn
 2025-09-17T03:04:58.291Z,63.0245,-150.8685,101.7,1.6,ml,,,,0.4,ak,ak025by1jikl,2025-09-17T03:07:37.848Z,"59 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-09-17T02:58:14.120Z,38.799499511719,-122.79816436768,1.0199999809265,1.06,md,12,66,0.008747,0.05,nc,nc75238632,2025-09-17T04:42:21.373Z,"4 km NW of The Geysers, CA",earthquake,0.25,0.479999989,0.31,13,automatic,nc,nc
@@ -219,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T07:13:17.340Z,46.911833333333,-112.51733333333,8.51,0.62,ml,8,133,0.06697,0.07,mb,mb90112108,2025-09-16T20:50:05.490Z,"13 km ESE of Lincoln, Montana",earthquake,0.5,0.63,0.16023689032795,8,reviewed,mb,mb
 2025-09-16T07:00:58.940Z,47.380666666667,-113.1135,20,0.68,ml,10,86,0.2918,0.08,mb,mb90112148,2025-09-16T22:46:31.100Z,"35 km NE of Seeley Lake, Montana",earthquake,0.33,31.61,0.061758684283234,5,reviewed,mb,mb
 2025-09-16T07:00:51.850Z,32.927,-115.815,7.31,1.15,ml,31,61,0.02206,0.18,ci,ci41292200,2025-09-16T23:54:08.120Z,"22 km SW of Westmorland, CA",earthquake,0.22,0.44,0.204,26,reviewed,ci,ci
-2025-09-16T06:54:34.440Z,54.728833333333,-163.39366666667,6.06,1.53,ml,13,180,0.1286,0.3,av,av93771268,2025-09-17T00:09:15.830Z,"13 km S of False Pass, Alaska",earthquake,0.83,0.92,0.49712713900655,13,reviewed,av,av
