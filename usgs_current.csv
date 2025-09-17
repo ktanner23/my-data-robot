@@ -1,7 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-17T21:23:08.470Z,39.845001220703,-123.34549713135,6.0300002098083,1.77,md,14,112,0.0663,0.16,nc,nc75238942,2025-09-17T21:24:43.570Z,"10 km NW of Covelo, CA",earthquake,0.51,1.33000004,0.04,5,automatic,nc,nc
 2025-09-17T21:22:39.866Z,59.8761,-152.1241,78.3,1.5,ml,,,,0.36,ak,ak025bycd4xe,2025-09-17T21:24:11.952Z,"19 km NW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-17T21:16:15.124Z,36.0164,-115.209,0,2,ml,17,220.05,0.49,0.3824,nn,nn00904516,2025-09-17T21:19:14.819Z,"3 km ESE of Enterprise, Nevada",earthquake,,38.8,0.28,13,automatic,nn,nn
 2025-09-17T21:10:38.370Z,20.125667572021,-155.76800537109,26.459999084473,2.45,ml,45,197,0.008465,0.180000007,hv,hv74778277,2025-09-17T21:24:00.327Z,"12 km S of Hala‘ula, Hawaii",earthquake,0.67,1.30999994,0.1,3,automatic,hv,hv
 2025-09-17T20:57:47.900Z,52.6496,159.2085,62.041,5.4,mww,100,72,0.505,0.78,us,us7000qwst,2025-09-17T21:21:08.514Z,"60 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,7.49,5.355,0.086,13,reviewed,us,us
 2025-09-17T20:56:26.654Z,38.1556,-117.9396,9,0.9,ml,8,140.64,0.056,0.2616,nn,nn00904512,2025-09-17T20:59:20.779Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0,1,automatic,nn,nn
@@ -55,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T17:07:52.450Z,46.932833333333,-123.0755,-0.21,1.22,ml,8,97,0.05903,0.26,uw,uw62190826,2025-09-17T20:34:34.960Z,"12 km N of Rochester, Washington",explosion,0.62,31.61,0.12497322863019,4,reviewed,uw,uw
 2025-09-17T17:04:54.310Z,33.3843333,-116.8966667,14.65,0.46,ml,37,33,0.04182,0.18,ci,ci41293152,2025-09-17T17:45:23.392Z,"4 km NW of Palomar Observatory, CA",earthquake,0.21,0.47,0.208,4,reviewed,ci,ci
 2025-09-17T16:49:31.850Z,36.7702,-116.2594,10.3,-0.1,ml,17,57,0.033,0.0613,nn,nn00904492,2025-09-17T20:26:09.812Z,"47 km ESE of Beatty, Nevada",earthquake,,1,0.35,5,reviewed,nn,nn
+2025-09-17T16:45:05.856Z,54.4762,161.2403,50.622,4.5,mb,130,114,2.118,0.74,us,us7000qwr9,2025-09-17T21:50:03.040Z,"162 km SE of Atlasovo, Russia",earthquake,8.69,7.562,0.048,126,reviewed,us,us
 2025-09-17T16:43:01.740Z,33.1751667,-116.5095,14.43,1.4,ml,66,26,0.1145,0.2,ci,ci41293136,2025-09-17T17:45:39.740Z,"14 km NE of Julian, CA",earthquake,0.15,0.33,0.202,27,reviewed,ci,ci
 2025-09-17T16:35:04.240Z,51.2608,156.9799,119.394,4.4,mb,49,161,1.903,0.69,us,us7000qwr8,2025-09-17T17:03:25.040Z,"42 km SE of Ozernovskiy, Russia",earthquake,11.2,6.804,0.063,73,reviewed,us,us
 2025-09-17T16:25:02.140Z,35.33816667,-97.94683333,10.62,0.88,ml,18,101,0.05758869913,0.09,ok,ok2025sglu,2025-09-17T16:44:52.937Z,"2 km N of Minco, Oklahoma",earthquake,,0.7,0.22,9,reviewed,ok,ok
@@ -287,4 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T21:57:55.410Z,52.399833333333,-174.14216666667,4.11,0.59,ml,6,214,0.01462,0.33,av,av93050209,2025-09-17T05:01:33.390Z,"23 km N of Atka, Alaska",earthquake,2.09,1.48,0.37197837726741,6,reviewed,av,av
 2025-09-16T21:56:29.880Z,34.0143333,-116.9516667,12.95,1.34,ml,52,51,0.0801,0.15,ci,ci41292536,2025-09-16T21:59:59.751Z,"9 km ESE of Yucaipa, CA",earthquake,0.14,0.4,0.19,27,automatic,ci,ci
 2025-09-16T21:56:03.370Z,33.1363333,-116.0235,9.08,0.94,ml,32,74,0.05335,0.2,ci,ci41292528,2025-09-16T21:59:30.279Z,"10 km E of Ocotillo Wells, CA",earthquake,0.21,0.59,0.109,14,automatic,ci,ci
-2025-09-16T21:55:01.029Z,36.7709,-116.2577,9.4,0.6,ml,33,57.93,0.034,0.0955,nn,nn00904447,2025-09-16T22:57:48.871Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.21,10,reviewed,nn,nn
