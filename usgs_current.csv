@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-17T17:44:13.820Z,36.2616667,-117.9018333,2.72,1.45,ml,27,72,0.1487,0.16,ci,ci41293184,2025-09-17T17:47:54.621Z,"10 km ESE of Olancha, CA",earthquake,0.21,0.7,0.174,26,automatic,ci,ci
-2025-09-17T17:38:19.250Z,35.8255,-118.1241667,9.77,1.76,ml,35,33,0.06663,0.11,ci,ci41293176,2025-09-17T17:45:22.392Z,"23 km WSW of Little Lake, CA",earthquake,0.13,0.32,0.286,25,reviewed,ci,ci
+2025-09-17T17:38:19.250Z,35.8255,-118.1241667,9.77,1.76,ml,35,33,0.06663,0.11,ci,ci41293176,2025-09-17T17:48:59.160Z,"23 km WSW of Little Lake, CA",earthquake,0.13,0.32,0.286,25,reviewed,ci,ci
 2025-09-17T17:37:30.580Z,46.321834564209,-122.39566802979,15.569999694824,1.00999999,md,29,106,,0.100000001,uw,uw62190846,2025-09-17T17:39:58.110Z,"24 km SSE of Mossyrock, Washington",earthquake,0.42,0.819999993,0.330000013,3,automatic,uw,uw
 2025-09-17T17:35:39.650Z,63.1026,-150.521,28.6,1.4,ml,,,,1.92,ak,ak025bya26st,2025-09-17T17:37:49.732Z,"68 km N of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-09-17T17:28:43.015Z,56.7845,-153.209,114.3,2.5,ml,,,,0.86,ak,ak025bya022u,2025-09-17T17:32:20.229Z,"46 km S of Old Harbor, Alaska",earthquake,,3.8,,,automatic,ak,ak
@@ -170,7 +170,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T01:55:43.250Z,38.771667480469,-122.72616577148,1.3500000238419,1.28,md,12,71,0.01011,0.03,nc,nc75238617,2025-09-17T03:27:18.821Z,"3 km ESE of The Geysers, CA",earthquake,0.26,0.479999989,0.1,11,automatic,nc,nc
 2025-09-17T01:54:34.854Z,63.0476,-150.2267,87.3,1.3,ml,,,,0.36,ak,ak025by0nbct,2025-09-17T01:56:24.875Z,"67 km N of Chase, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-09-17T01:40:43.860Z,35.8988333,-117.6748333,3.27,0.55,ml,14,91,0.05283,0.1,ci,ci41292648,2025-09-17T01:44:12.554Z,"21 km ESE of Little Lake, CA",earthquake,0.16,0.62,0.101,10,automatic,ci,ci
-2025-09-17T01:23:20.004Z,39.4507,-118.4346,16,1.8,ml,14,93.03,0.444,0.2915,nn,nn00904462,2025-09-17T01:26:06.777Z,"24 km E of Fallon Station, Nevada",earthquake,,1,0.35,6,automatic,nn,nn
+2025-09-17T01:23:20.431Z,39.4511,-118.4573,13.5,1.7,ml,12,92.59,0.297,0.1261,nn,nn00904462,2025-09-17T17:55:28.131Z,"22 km E of Fallon Station, Nevada",earthquake,,1.3,0.25,8,reviewed,nn,nn
 2025-09-17T01:21:50.000Z,33.1325,-116.0385,7.9,0.88,ml,15,106,0.06534,0.13,ci,ci41292632,2025-09-17T01:25:17.114Z,"9 km E of Ocotillo Wells, CA",earthquake,0.29,0.66,0.159,16,automatic,ci,ci
 2025-09-17T01:17:35.670Z,64.7433,-146.8304,8.5,1.1,ml,,,,0.26,ak,ak025by0fdxb,2025-09-17T01:20:00.758Z,"13 km NE of Eielson Air Force Base, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-17T01:16:48.853Z,32.13,-101.642,6.5918,0.9,ml,20,68,0,0.2,tx,tx2025shnqdo,2025-09-17T08:44:24.762Z,"13 km E of Stanton, Texas",earthquake,0.7094866158813,0.75275251867989,0.2,5,reviewed,tx,tx
@@ -239,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-16T18:13:04.729Z,29.553,-99.218,6.3212,2,ml,9,75,0.1,0.3,tx,tx2025sgzpae,2025-09-17T15:59:02.353Z,"23 km SW of Bandera, Texas",earthquake,3.4190243193685,1.44309136748,0.1,7,reviewed,tx,tx
 2025-09-16T18:02:48.464Z,36.77,-116.2578,9.6,-0.1,ml,19,58.66,0.034,0.065,nn,nn00904435,2025-09-16T18:37:25.210Z,"47 km ESE of Beatty, Nevada",earthquake,,0.9,0.17,3,reviewed,nn,nn
 2025-09-16T17:57:30.199Z,34.405,-97.475,6,1.1,ml,19,96,0.0413918775,0.3,ok,ok2025seti,2025-09-17T14:33:02.700Z,"5 km SSE of Ratliff City, Oklahoma",earthquake,,1.2,0.23,10,reviewed,ok,ok
-2025-09-16T17:55:41.360Z,36.534,-121.11283333333,9.51,1.73,md,39,74,0.0695,0.12,nc,nc75238477,2025-09-17T00:07:17.384Z,"3 km E of Pinnacles, CA",earthquake,0.2,0.51,0.14,32,reviewed,nc,nc
-2025-09-16T17:52:11.633Z,36.7701,-116.2579,9.7,-0.5,ml,23,71.33,0.034,0.0857,nn,nn00904453,2025-09-16T23:10:08.904Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.18,6,reviewed,nn,nn
-2025-09-16T17:50:03.410Z,54.753666666667,-163.9725,-0.9,0.21,ml,6,84,0.04656,0.19,av,av93772473,2025-09-16T22:17:19.570Z,"37 km WSW of False Pass, Alaska",earthquake,0.33,0.32,0.27807392203082,6,reviewed,av,av
-2025-09-16T17:49:46.678Z,36.7702,-116.2567,9.5,0.3,ml,35,59.58,0.034,0.0773,nn,nn00904434,2025-09-16T18:27:59.173Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.25,8,reviewed,nn,nn
