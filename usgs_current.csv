@@ -43,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T13:13:18.800Z,46.419666666667,-111.35233333333,4.98,0.41,ml,5,130,0.2871,0.08,mb,mb90112513,2025-09-18T15:30:36.130Z,"17 km NE of Townsend, Montana",earthquake,0.39,6.99,0.23648226343342,6,reviewed,mb,mb
 2025-09-18T13:10:50.842Z,51.5921,159.6964,35,4.5,mb,22,224,1.571,0.5,us,us7000qwyl,2025-09-18T13:29:31.040Z,"173 km SSE of Vilyuchinsk, Russia",earthquake,9.17,1.952,0.108,25,reviewed,us,us
 2025-09-18T13:02:27.300Z,35.338,-97.92216667,5.69,1.15,ml,62,60,0.05218975859,0.42,ok,ok2025siap,2025-09-18T13:21:44.917Z,"3 km NE of Minco, Oklahoma",earthquake,,0.7,0.25,29,reviewed,ok,ok
-2025-09-18T13:01:24.660Z,35.525333333333,-84.483,15.85,1.69,md,9,76,0.08163,0.08,se,se60504143,2025-09-18T15:41:09.250Z,"5 km ENE of Niota, Tennessee",earthquake,0.39,0.98,0.1038127706007,8,reviewed,se,se
+2025-09-18T13:01:24.660Z,35.525333333333,-84.483,15.85,1.69,md,9,76,0.08163,0.08,se,se60504143,2025-09-18T15:41:09.250Z,"eastern Tennessee",earthquake,0.39,0.98,0.1038127706007,8,reviewed,se,se
 2025-09-18T12:57:25.886Z,62.6871,-148.9485,52.5,1.4,ml,,,,0.96,ak,ak025bzur1yk,2025-09-18T12:59:38.733Z,"64 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-18T12:53:58.132Z,64.6814,-149.46,4.3,1.5,ml,,,,1.26,ak,ak025bzuq9l1,2025-09-18T12:56:13.663Z,"18 km WNW of Four Mile Road, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-18T12:48:57.483Z,1.6323,126.4783,51.278,4.6,mb,56,105,1.233,1,us,us7000qwxs,2025-09-18T13:16:51.040Z,"137 km NW of Ternate, Indonesia",earthquake,6.69,7.457,0.079,48,reviewed,us,us
@@ -82,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-18T09:55:36.431Z,36.7722,-116.2557,9.1,-0.4,ml,13,59.95,0.036,0.0701,nn,nn00904579,2025-09-18T13:21:41.192Z,"47 km ESE of Beatty, Nevada",earthquake,,1.4,0,1,reviewed,nn,nn
 2025-09-18T09:52:36.390Z,33.409,-116.4485,12.36,0.87,ml,53,54,0.1066,0.19,ci,ci40443562,2025-09-18T13:31:33.229Z,"18 km NNW of Borrego Springs, CA",earthquake,0.18,0.52,0.159,26,reviewed,ci,ci
 2025-09-18T09:52:02.216Z,36.7713,-116.2571,9.6,0,ml,34,53.18,0.035,0.0881,nn,nn00904560,2025-09-18T13:18:33.731Z,"47 km ESE of Beatty, Nevada",earthquake,,0.6,0.16,8,reviewed,nn,nn
-2025-09-18T09:44:57.225Z,38.1758,-118.2262,4.2,1.1,ml,8,110.46,0.232,0.1704,nn,nn00904559,2025-09-18T09:47:34.870Z,"25 km SSW of Mina, Nevada",earthquake,,2.8,0.3,2,automatic,nn,nn
+2025-09-18T09:44:57.420Z,38.1419,-118.228,12.2,0.8,ml,13,66.93,0.2,0.1854,nn,nn00904559,2025-09-18T16:58:48.696Z,"29 km SSW of Mina, Nevada",earthquake,,2.5,0.32,6,reviewed,nn,nn
 2025-09-18T09:41:51.690Z,38.451833333333,-112.80316666667,4.59,0.3,md,12,172,0.03987,0.05,uu,uu80004878,2025-09-18T13:28:03.260Z,"19 km ENE of Milford, Utah",earthquake,0.55,0.79,0.50105745054103,4,reviewed,uu,uu
 2025-09-18T09:41:46.810Z,38.4505,-112.80416666667,4.49,0.83,md,15,104,0.04138,0.05,uu,uu80117591,2025-09-18T13:28:09.510Z,"18 km ENE of Milford, Utah",earthquake,0.32,0.61,0.59728573246312,5,reviewed,uu,uu
 2025-09-18T09:36:02.610Z,34.8383333,-116.4098333,1.84,1.78,ml,27,73,0.0622,0.15,ci,ci40443402,2025-09-18T13:31:59.535Z,"26 km WNW of Ludlow, CA",earthquake,0.19,0.3,0.143,27,reviewed,ci,ci
@@ -279,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-17T17:22:53.390Z,33.4726667,-116.5683333,10.62,0.62,ml,21,49,0.03583,0.11,ci,ci41293168,2025-09-17T19:42:10.207Z,"13 km SE of Anza, CA",earthquake,0.18,0.27,0.174,10,reviewed,ci,ci
 2025-09-17T17:21:24.296Z,59.814,-151.3494,50,1.4,ml,,,,0.76,ak,ak025by9z5l9,2025-09-17T17:23:22.012Z,"9 km NNW of Fritz Creek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-09-17T17:07:52.450Z,46.932833333333,-123.0755,-0.21,1.22,ml,8,97,0.05903,0.26,uw,uw62190826,2025-09-17T20:34:34.960Z,"12 km N of Rochester, Washington",explosion,0.62,31.61,0.12497322863019,4,reviewed,uw,uw
-2025-09-17T17:04:54.310Z,33.3843333,-116.8966667,14.65,0.46,ml,37,33,0.04182,0.18,ci,ci41293152,2025-09-17T17:45:23.392Z,"4 km NW of Palomar Observatory, CA",earthquake,0.21,0.47,0.208,4,reviewed,ci,ci
-2025-09-17T17:04:01.130Z,51.991,178.39883333333,2.58,0.22,ml,4,345,0.07496,0.08,av,av93774753,2025-09-18T03:29:53.830Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.55,3.35,0.26618418261094,4,reviewed,av,av
