@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-21T09:30:43.800Z,33.2666667,-116.611,16.72,1.19,ml,70,20,0.07388,0.2,ci,ci40447474,2025-09-21T09:34:20.973Z,"3 km SE of Warner Springs, CA",earthquake,0.15,0.41,0.206,26,automatic,ci,ci
-2025-09-21T09:30:30.000Z,51.359,-178.1339,35,5.5,Ml,34,201.599983872,0.5479723,1.12,at,at00t2xmeu,2025-09-21T09:36:12.673Z,"118 km WSW of Adak, Alaska",earthquake,0,0,,22,reviewed,at,at
+2025-09-21T09:30:27.572Z,51.1736,-178.0079,19.8,5.6,ml,,,,0.57,ak,ak025c4rf0bd,2025-09-21T09:43:11.663Z,"123 km SW of Adak, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-09-21T09:25:55.980Z,33.2306667,-116.1033333,9.91,1.7,ml,73,32,0.09232,0.18,ci,ci40447466,2025-09-21T09:29:28.939Z,"10 km NNE of Ocotillo Wells, CA",earthquake,0.12,0.39,0.148,27,automatic,ci,ci
 2025-09-21T09:23:29.940Z,33.2686667,-116.6065,17.09,0.99,ml,56,23,0.07729,0.2,ci,ci40447458,2025-09-21T09:27:04.755Z,"3 km ESE of Warner Springs, CA",earthquake,0.17,0.43,0.213,27,automatic,ci,ci
-2025-09-21T09:13:51.660Z,38.81583404541,-122.8184967041,2.2200000286102,1.08,md,14,55,0.01001,0.02,nc,nc75240187,2025-09-21T09:15:29.601Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.639999986,0.16,15,automatic,nc,nc
+2025-09-21T09:13:51.660Z,38.81583404541,-122.8184967041,2.2200000286102,1.08,md,14,55,0.01001,0.02,nc,nc75240187,2025-09-21T09:42:18.208Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.639999986,0.16,15,automatic,nc,nc
 2025-09-21T09:08:58.898Z,-31.9244,-66.9156,138.171,4.6,mb,99,51,1.542,0.68,us,us7000qxnx,2025-09-21T09:28:39.040Z,"93 km NNW of Villa General Roca, Argentina",earthquake,6.85,7.301,0.035,251,reviewed,us,us
 2025-09-21T08:52:36.120Z,38.84349822998,-122.87916564941,2.3099999427795,1.26,md,15,143,0.006242,0.02,nc,nc75240182,2025-09-21T09:27:17.095Z,"13 km E of Cloverdale, CA",earthquake,0.39,0.460000008,0.1,15,automatic,nc,nc
 2025-09-21T08:50:27.816Z,61.899,-148.358,16.4,1.4,ml,,,,0.85,ak,ak025c4qxv5p,2025-09-21T08:52:25.893Z,"12 km NNE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
@@ -100,7 +100,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T22:40:21.320Z,33.5391667,-116.7231667,6.49,0.47,ml,13,92,0.0287,0.14,ci,ci40447250,2025-09-20T22:43:48.955Z,"5 km WSW of Anza, CA",earthquake,0.44,0.85,0.121,14,automatic,ci,ci
 2025-09-20T22:38:50.400Z,38.815498352051,-122.8261642456,1.9800000190735,0.85,md,10,72,0.007027,0.02,nc,nc75240022,2025-09-20T23:07:17.612Z,"7 km NW of The Geysers, CA",earthquake,0.31,0.75,0.23,9,automatic,nc,nc
 2025-09-20T22:23:17.175Z,61.831,-146.8733,29.9,1.5,ml,,,,1.3,ak,ak025c3bkrz9,2025-09-20T22:25:26.838Z,"18 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-20T22:13:05.050Z,17.975166666667,-66.845166666667,18.04,2.26,md,11,190,0.0222,0.13,pr,pr71496113,2025-09-20T22:34:10.680Z,"3 km SW of Indios, Puerto Rico",earthquake,0.45,0.63,0.08062454258013,6,reviewed,pr,pr
+2025-09-20T22:13:05.050Z,17.975166666667,-66.845166666667,18.04,2.26,md,11,190,0.0222,0.13,pr,pr71496113,2025-09-20T22:34:10.680Z,"Puerto Rico",earthquake,0.45,0.63,0.08062454258013,6,reviewed,pr,pr
 2025-09-20T22:08:55.150Z,38.81266784668,-122.77966308594,0.56999999284744,0.77,md,9,72,0.0009929,0.02,nc,nc75240012,2025-09-20T22:10:31.275Z,"4 km NNW of The Geysers, CA",earthquake,0.3,0.610000014,0.36,9,automatic,nc,nc
 2025-09-20T22:06:12.740Z,38.840667724609,-122.83466339111,1.8400000333786,1.98,md,31,58,0.002173,0.05,nc,nc75240002,2025-09-21T01:07:18.492Z,"10 km NNW of The Geysers, CA",earthquake,0.2,0.300000012,0.16,38,automatic,nc,nc
 2025-09-20T22:04:30.553Z,63.1142,-149.1881,67.4,1.7,ml,,,,0.52,ak,ak025c3bgqen,2025-09-20T22:11:59.681Z,"33 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -116,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-20T20:23:04.425Z,60.1423,-152.4412,93.6,1.6,ml,,,,0.43,ak,ak025c3advsa,2025-09-20T20:25:20.256Z,"44 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-20T20:01:17.817Z,52.5346,-169.5608,35,3.8,ml,,,,0.54,ak,ak025c3a970j,2025-09-21T02:58:33.092Z,"65 km SW of Nikolski, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2025-09-20T19:49:04.980Z,33.1988333,-116.7296667,8.81,0.83,ml,38,36,0.04435,0.18,ci,ci40447138,2025-09-20T19:52:33.612Z,"6 km SSE of Lake Henshaw, CA",earthquake,0.17,0.53,0.17,24,automatic,ci,ci
-2025-09-20T19:46:46.264Z,63.2892,-151.3422,4.1,1.7,ml,,,,0.54,ak,ak025c39xgvm,2025-09-20T19:50:03.282Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-09-20T19:46:46.264Z,63.2892,-151.3422,4.1,1.7,ml,,,,0.54,ak,ak025c39xgvm,2025-09-20T19:50:03.282Z,"33 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-20T19:45:18.590Z,19.7583,-66.8568,42,3.6,md,14,229,1.3155,0.43,pr,pr2025263001,2025-09-20T20:45:33.821Z,"140 km N of Isabela, Puerto Rico",earthquake,3.19,24.09,0.04,8,reviewed,pr,pr
 2025-09-20T19:42:36.994Z,61.8881,-151.4923,84,1.8,ml,,,,0.46,ak,ak025c39wlbm,2025-09-20T19:44:02.539Z,"12 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-20T19:35:12.830Z,32.9993333,-116.228,5.5,0.59,ml,22,67,0.07749,0.19,ci,ci40447122,2025-09-20T19:38:38.533Z,"18 km SSW of Ocotillo Wells, CA",earthquake,0.22,0.8,0.144,8,automatic,ci,ci
