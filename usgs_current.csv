@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-24T17:14:44.368Z,31.585,-104.022,4.2139,2.3,ml,43,57,0,0.4,tx,tx2025svpltf,2025-09-24T17:18:54.979Z,"37 km NW of Toyah, Texas",earthquake,0,0.83641517162323,0.1,7,automatic,tx,tx
+2025-09-24T17:14:44.368Z,31.585,-104.022,4.2137,2.1,ml,43,57,0,0.4,tx,tx2025svpltf,2025-09-24T17:21:29.995Z,"western Texas",earthquake,0,0.83642077445984,0.2,31,automatic,tx,tx
 2025-09-24T17:13:49.909Z,31.53,-104.018,5.921,2.3,ml,42,58,0,0.3,tx,tx2025svpkzk,2025-09-24T17:17:48.194Z,"32 km NW of Toyah, Texas",earthquake,0,1.818648815155,0.2,31,automatic,tx,tx
 2025-09-24T17:06:54.530Z,34.0063333,-116.8386667,15.78,1.11,ml,31,69,0.03853,0.15,ci,ci40449858,2025-09-24T17:10:21.504Z,"10 km NNE of Banning, CA",earthquake,0.19,0.48,0.233,29,automatic,ci,ci
 2025-09-24T17:03:21.329Z,31.522,-104.018,4.2849,1.5,ml,28,61,0,0.3,tx,tx2025svpbsj,2025-09-24T17:07:11.508Z,"31 km NW of Toyah, Texas",earthquake,0,1.1031711101532,0.1,18,automatic,tx,tx
@@ -39,9 +39,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T13:04:29.170Z,38.836833953857,-122.78450012207,2.3900001049042,1.22,md,19,73,0.004827,0.02,nc,nc75241362,2025-09-24T14:32:16.630Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.460000008,0.18,21,automatic,nc,nc
 2025-09-24T12:55:33.499Z,36.7253,-116.2577,7.5,0.2,ml,34,63.94,0.018,0.1015,nn,nn00904931,2025-09-24T13:45:03.410Z,"49 km ESE of Beatty, Nevada",earthquake,,0.5,0.29,9,reviewed,nn,nn
 2025-09-24T12:37:06.962Z,31.524,-104.017,7.7917,1.3,ml,17,60,0,0.1,tx,tx2025svggnw,2025-09-24T14:56:53.923Z,"31 km NW of Toyah, Texas",earthquake,0.91549073974385,0.74367282450604,0.1,28,reviewed,tx,tx
-2025-09-24T12:33:01.520Z,20.15950012207,-155.71183776856,10.390000343323,2.95,ml,60,274,0.07009,0.239999995,hv,hv74784242,2025-09-24T17:18:00.296Z,"11 km SE of Hala‘ula, Hawaii",earthquake,2.49,3.52999997,0.35,20,automatic,hv,hv
+2025-09-24T12:33:01.520Z,20.15950012207,-155.71183776856,10.390000343323,2.95,ml,60,274,0.07009,0.239999995,hv,hv74784242,2025-09-24T17:25:27.272Z,"11 km SE of Hala‘ula, Hawaii",earthquake,2.49,3.52999997,0.35,20,automatic,hv,hv
 2025-09-24T12:22:39.740Z,31.52,-104.019,7.9071,2.4,ml,32,67,0,0.1,tx,tx2025svfuca,2025-09-24T12:49:18.298Z,"31 km NW of Toyah, Texas",earthquake,0.52954966649595,0.40570517847176,0,6,reviewed,tx,tx
 2025-09-24T12:20:46.606Z,13.7961,144.9025,127.061,4.5,mb,30,81,0.208,0.72,us,us6000rcig,2025-09-24T13:08:32.928Z,"28 km N of Yigo Village, Guam",earthquake,6.39,4.643,0.108,25,reviewed,us,us
+2025-09-24T12:18:09.530Z,45.066166666667,-116.58733333333,2.28,0.85,md,4,198,0.4165,0.34,uw,uw62193441,2025-09-24T17:22:28.410Z,"southern Idaho",earthquake,5.99,3.18,,1,reviewed,uw,uw
 2025-09-24T12:15:56.063Z,31.533,-104.016,7.7917,1.8,ml,42,57,0,0.2,tx,tx2025svfoho,2025-09-24T12:54:55.341Z,"32 km NW of Toyah, Texas",earthquake,0.77876484814946,0.57078070749758,0.2,29,reviewed,tx,tx
 2025-09-24T12:08:37.894Z,31.526,-104.017,7.9071,2.4,ml,46,58,0,0.1,tx,tx2025svfhzo,2025-09-24T12:40:24.242Z,"31 km NW of Toyah, Texas",earthquake,0.52405342244737,0.40603843330578,0.1,27,reviewed,tx,tx
 2025-09-24T11:52:14.510Z,35.6816667,-117.5146667,6.54,0.6,ml,18,73,0.07588,0.13,ci,ci40449594,2025-09-24T13:19:37.092Z,"14 km SW of Searles Valley, CA",earthquake,0.3,0.75,0.127,7,reviewed,ci,ci
@@ -52,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T11:04:37.150Z,38.760334014893,-122.71549987793,1.1499999761581,1.06,md,10,117,0.007426,0.02,nc,nc75241297,2025-09-24T12:27:17.842Z,"3 km WSW of Anderson Springs, CA",earthquake,0.31,0.400000006,0.21,8,automatic,nc,nc
 2025-09-24T10:31:08.550Z,33.5036667,-116.503,14.68,0.46,ml,20,59,0.08337,0.12,ci,ci40449570,2025-09-24T10:35:32.363Z,"17 km ESE of Anza, CA",earthquake,0.25,0.51,0.13,9,automatic,ci,ci
 2025-09-24T10:24:34.576Z,31.717,-104.258,6.4972,1.6,ml,29,61,0,0.2,tx,tx2025svbwhj,2025-09-24T11:42:27.971Z,"52 km SSE of Whites City, New Mexico",earthquake,0.52886115753334,0.50680416381374,0,7,reviewed,tx,tx
-2025-09-24T10:23:15.883Z,37.183,-117.1183,0,1,ml,12,140.31,0.163,0.2393,nn,nn00904921,2025-09-24T10:25:27.367Z,"44 km NW of Beatty, Nevada",earthquake,,16.2,0.39,8,automatic,nn,nn
+2025-09-24T10:23:16.845Z,37.1429,-117.1388,2.4,1,ml,23,130.59,0.185,0.1204,nn,nn00904921,2025-09-24T17:22:28.163Z,"Nevada",earthquake,,4.6,0.13,7,reviewed,nn,nn
 2025-09-24T10:22:48.670Z,38.83483505249,-122.79582977295,0.81999999284744,0.21,md,8,98,0.005576,0.01,nc,nc75241282,2025-09-24T11:32:20.428Z,"6 km WNW of Cobb, CA",earthquake,0.34,1.01999998,0.08,8,automatic,nc,nc
 2025-09-24T10:22:27.843Z,31.711,-104.269,6.5613,1.3,ml,17,55,0,0.1,tx,tx2025svbumw,2025-09-24T14:35:00.781Z,"52 km S of Whites City, New Mexico",earthquake,0.85621122258186,0.82954651396124,0.1,20,reviewed,tx,tx
 2025-09-24T09:55:05.437Z,37.1647,69.1077,10,4.3,mb,13,266,1.49,0.8,us,us6000rci1,2025-09-24T11:15:57.040Z,"6 km WNW of Dasht-e Archī, Afghanistan",earthquake,4.96,2.001,0.267,4,reviewed,us,us
@@ -217,5 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T17:42:18.543Z,32.403,-102.044,8.0811,3,ml,43,64,0,0.1,tx,tx2025stupyb,2025-09-24T02:51:15.411Z,"33 km WSW of Ackerly, Texas",earthquake,0.60929820340211,1.7365819982769,0.2,65,reviewed,tx,tx
 2025-09-23T17:39:19.418Z,-15.7448,-75.2904,8.981,5.5,mww,107,130,4.027,0.74,us,us6000rcdc,2025-09-23T20:03:36.604Z,"44 km SSW of San Juan, Peru",earthquake,7.8,4.091,0.089,12,reviewed,us,us
 2025-09-23T17:38:18.990Z,34.1423333,-116.973,9.84,1.21,ml,49,30,0.05759,0.13,ci,ci40448922,2025-09-23T18:45:01.285Z,"13 km SSW of Big Bear Lake, CA",earthquake,0.13,0.23,0.232,28,reviewed,ci,ci
-2025-09-23T17:26:42.942Z,52.1724,158.3384,79.144,4.6,mb,27,201,0.873,0.63,us,us6000rcdb,2025-09-23T20:13:17.040Z,"84 km S of Vilyuchinsk, Russia",earthquake,12.42,8.545,0.088,38,reviewed,us,us
-2025-09-23T17:25:14.580Z,38.839000701904,-122.78450012207,1.7300000190735,0.71,md,9,169,0.004602,0.02,nc,nc75241017,2025-09-23T18:07:18.691Z,"6 km WNW of Cobb, CA",earthquake,0.46,0.560000002,0.16,10,automatic,nc,nc
