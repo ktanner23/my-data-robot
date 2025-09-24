@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T22:31:29.156Z,32.162,-101.804,4.5179,1.3,ml,11,104,0.1,0.2,tx,tx2025svzysq,2025-09-24T22:34:37.901Z,"3 km NNW of Stanton, Texas",earthquake,0,1.6243094205856,0.2,9,automatic,tx,tx
 2025-09-24T22:27:35.000Z,38.813167572021,-122.81749725342,2.8399999141693,1.07,md,18,53,0.01009,0.02,nc,nc75241567,2025-09-24T22:29:09.223Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.519999981,0.06,20,automatic,nc,nc
 2025-09-24T22:27:20.970Z,38.813667297363,-122.81800079346,2.5899999141693,1.49,md,28,52,0.009961,0.03,nc,nc75241562,2025-09-24T22:30:40.840Z,"7 km NW of The Geysers, CA",earthquake,0.21,0.389999986,0.15,28,automatic,nc,nc
-2025-09-24T22:21:55.207Z,9.9222,-70.7174,7.815,6.2,mww,61,55,1.035,1.03,us,us6000rcnw,2025-09-24T22:47:01.040Z,"24 km ENE of Mene Grande, Venezuela",earthquake,5.27,6.004,0.052,36,reviewed,us,us
+2025-09-24T22:21:55.207Z,9.9222,-70.7174,7.815,6.2,mww,61,55,1.035,1.03,us,us6000rcnw,2025-09-24T22:53:34.167Z,"24 km ENE of Mene Grande, Venezuela",earthquake,5.27,6.004,0.052,36,reviewed,us,us
 2025-09-24T22:12:02.510Z,35.726,-117.5568333,3.72,0.89,ml,22,62,0.09546,0.13,ci,ci41096903,2025-09-24T22:15:45.695Z,"14 km WSW of Searles Valley, CA",earthquake,0.17,0.53,0.136,19,automatic,ci,ci
 2025-09-24T22:04:30.080Z,35.8761667,-117.7173333,7.88,0.82,ml,21,38,0.07774,0.15,ci,ci41096895,2025-09-24T22:07:56.433Z,"18 km ESE of Little Lake, CA",earthquake,0.2,0.54,0.175,17,automatic,ci,ci
 2025-09-24T22:01:16.230Z,31.527,-104.019,4.4176,2.1,ml,43,58,0,0.2,tx,tx2025svyyph,2025-09-24T22:06:58.072Z,"31 km NW of Toyah, Texas",earthquake,0,0.89761728048325,0.2,30,automatic,tx,tx
@@ -48,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T16:48:42.576Z,63.0896,-151.3565,0,1.5,ml,,,,0.67,ak,ak025c9uaz6p,2025-09-24T16:51:34.817Z,"53 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-24T16:47:10.570Z,33.4185,-116.3761667,11.39,0.69,ml,29,96,0.07896,0.18,ci,ci40449842,2025-09-24T17:49:58.692Z,"18 km N of Borrego Springs, CA",earthquake,0.23,0.37,0.154,13,reviewed,ci,ci
 2025-09-24T16:46:48.037Z,31.525,-104.014,7.8943,1.8,ml,39,57,0,0.2,tx,tx2025svonry,2025-09-24T18:58:19.211Z,"31 km NW of Toyah, Texas",earthquake,0.48348141379329,0.48539141619482,0.1,24,reviewed,tx,tx
-2025-09-24T16:45:14.710Z,33.4198333,-116.375,10.87,0.62,ml,24,98,0.07924,0.16,ci,ci40449826,2025-09-24T17:49:55.977Z,"18 km N of Borrego Springs, CA",earthquake,0.24,0.48,0.162,10,reviewed,ci,ci
+2025-09-24T16:45:14.710Z,33.4198333,-116.375,10.87,0.62,ml,24,98,0.07924,0.16,ci,ci40449826,2025-09-24T22:50:28.621Z,"18 km N of Borrego Springs, CA",earthquake,0.24,0.48,0.162,10,reviewed,ci,ci
 2025-09-24T16:42:11.220Z,33.5341667,-116.7235,5.18,0.69,ml,25,44,0.03321,0.12,ci,ci40449810,2025-09-24T17:50:15.539Z,"5 km WSW of Anza, CA",earthquake,0.16,0.41,0.179,18,reviewed,ci,ci
 2025-09-24T16:42:03.382Z,63.2136,-151.5592,14.8,3.1,ml,,,,0.96,ak,ak025c9u9lsp,2025-09-24T16:44:12.440Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-09-24T16:36:57.770Z,38.814998626709,-122.81666564941,2.8499999046326,0.93,md,9,106,0.009839,0.01,nc,nc75241467,2025-09-24T16:38:35.548Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.769999981,0.31,13,automatic,nc,nc
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T23:10:27.910Z,38.837333679199,-122.78299713135,1.8400000333786,0.69,md,10,105,0.005837,0.01,nc,nc75241147,2025-09-23T23:12:02.406Z,"5 km WNW of Cobb, CA",earthquake,0.43,0.460000008,0.24,10,automatic,nc,nc
 2025-09-23T23:07:54.895Z,28.815,-99.087,4.4454,2.2,ml,28,60,0.1,0.4,tx,tx2025suflgs,2025-09-24T10:33:35.946Z,"8 km S of Pearsall, Texas",earthquake,1.3656238033649,0.89670251042672,0.1,12,reviewed,tx,tx
 2025-09-23T23:00:47.119Z,35.88516667,-97.91533333,4.45,1.71,ml,82,35,0.09088216582,0.16,ok,ok2025srxw,2025-09-24T14:20:26.519Z,"3 km NNE of Kingfisher, Oklahoma",earthquake,,0.3,0.25,37,reviewed,ok,ok
-2025-09-23T22:48:19.100Z,33.1326667,-115.9418333,7.14,0.9,ml,32,56,0.05065,0.18,ci,ci40449178,2025-09-23T22:52:21.089Z,"18 km E of Ocotillo Wells, CA",earthquake,0.21,0.49,0.198,14,automatic,ci,ci
