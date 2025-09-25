@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-25T22:50:04.490Z,36.455001831055,-121.0693359375,5.6100001335144,1.74,md,20,78,0.009164,0.12,nc,nc75242082,2025-09-25T22:51:43.107Z,"11 km SSE of Pinnacles, CA",earthquake,0.32,0.779999971,0.2,19,automatic,nc,nc
-2025-09-25T22:41:57.160Z,31.524,-104.023,4.6447,1.5,ml,32,61,0,0.3,tx,tx2025sxwapy,2025-09-25T22:45:03.024Z,"31 km NW of Toyah, Texas",earthquake,0,1.0326788425446,0.2,23,automatic,tx,tx
+2025-09-25T22:41:57.064Z,31.526,-104.022,5.2131,1.5,ml,32,60,0,0.3,tx,tx2025sxwapy,2025-09-25T23:00:51.685Z,"31 km NW of Toyah, Texas",earthquake,0,2.1244895458221,0.2,23,automatic,tx,tx
 2025-09-25T22:41:00.490Z,38.789001464844,-122.76782989502,2.0999999046326,0.75,md,10,78,0.01323,0.01,nc,nc75242077,2025-09-25T22:42:37.927Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.589999974,0.06,11,automatic,nc,nc
 2025-09-25T22:29:33.572Z,62.1554,-152.0962,99.3,2.2,ml,,,,0.58,ak,ak025cblau0d,2025-09-25T22:32:34.464Z,"40 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-25T22:21:56.920Z,19.307666778564,-155.21282958984,6.6399998664856,3.79,ml,59,98,0.02857,0.180000007,hv,hv74785512,2025-09-25T22:53:25.534Z,"15 km S of Volcano, Hawaii",earthquake,0.27,0.349999994,0.34,45,automatic,hv,hv
+2025-09-25T22:21:56.960Z,19.311,-155.21683333333,7.35,3.63,ml,60,88,0.03052,0.1,hv,hv74785512,2025-09-25T23:03:37.144Z,"14 km S of Volcano, Hawaii",earthquake,0.22,0.26,0.3476104806112,45,reviewed,hv,hv
 2025-09-25T22:16:02.815Z,63.1814,-151.3341,0,1.9,ml,,,,0.75,ak,ak025cbl7zbt,2025-09-25T22:17:57.581Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-25T22:13:55.352Z,63.1565,-151.3235,0,1.7,ml,,,,0.69,ak,ak025cbl7g7y,2025-09-25T22:16:34.069Z,"47 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-09-25T22:10:11.461Z,31.472,-103.836,5.3036,1.5,ml,11,59,0.1,0.4,tx,tx2025sxuzel,2025-09-25T22:13:12.239Z,"17 km NNW of Toyah, Texas",earthquake,0,2.5650861263275,0.1,8,automatic,tx,tx
@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T21:17:51.760Z,33.6356667,-116.7291667,17.39,1.33,ml,47,39,0.05685,0.16,ci,ci41097815,2025-09-25T21:22:01.488Z,"10 km NNW of Anza, CA",earthquake,0.17,0.31,0.266,27,automatic,ci,ci
 2025-09-25T21:17:07.853Z,64.4627,-146.9189,6.9,1.4,ml,,,,0.53,ak,ak025cbkmrtt,2025-09-25T21:18:46.567Z,"6 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-09-25T21:11:10.740Z,38.253833770752,-122.83933258057,9.1300001144409,0.85,md,6,218,0.1334,0.03,nc,nc75242037,2025-09-25T21:37:20.176Z,"6 km E of Tomales, CA",earthquake,2.97,0.769999981,,1,automatic,nc,nc
+2025-09-25T21:11:06.290Z,17.717,-94.2285,180.575,4.7,mb,65,112,2.458,0.77,us,us6000rcxw,2025-09-25T23:02:15.040Z,"25 km SSE of Cuichapa, Mexico",earthquake,7.74,8.057,0.04,193,reviewed,us,us
 2025-09-25T21:10:52.410Z,44.250166666667,-114.36583333333,5.12,0.99,ml,7,167,0.06907,0.07,mb,mb90113258,2025-09-25T21:33:47.920Z,"2 km ESE of Clayton, Idaho",earthquake,0.44,0.96,0.29456299940833,8,reviewed,mb,mb
 2025-09-25T21:09:50.000Z,32.8171667,-117.0668333,3.37,1.15,ml,22,135,0.07849,0.24,ci,ci41097807,2025-09-25T21:13:17.287Z,"7 km NW of La Mesa, CA",earthquake,0.52,0.66,0.177,15,automatic,ci,ci
 2025-09-25T21:09:32.570Z,38.836334228516,-122.79083251953,1.75,1,md,10,142,0.002107,0.02,nc,nc75242032,2025-09-25T21:57:20.332Z,"6 km WNW of Cobb, CA",earthquake,0.58,0.769999981,0.15,12,automatic,nc,nc
@@ -52,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T18:26:18.881Z,64.5264,-146.918,9.9,3.4,ml,,,,1.02,ak,ak025cbiwf34,2025-09-25T19:45:02.836Z,"0 km WNW of Salcha, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2025-09-25T18:19:04.440Z,38.793334960938,-122.75499725342,0.69999998807907,1.67,md,25,86,0.008159,0.04,nc,nc75241947,2025-09-25T19:42:18.473Z,"2 km NNE of The Geysers, CA",earthquake,0.21,0.310000002,0.19,25,automatic,nc,nc
 2025-09-25T18:11:43.772Z,-19.5034,-69.3284,106.938,5.3,mww,69,94,0.207,1.32,us,us6000rcw8,2025-09-25T22:52:45.417Z,"23 km SSE of Camiña, Chile",earthquake,4.8,3.146,0.071,19,reviewed,us,us
-2025-09-25T18:11:25.165Z,31.524,-104.021,4.4642,1.4,ml,29,62,0,0.2,tx,tx2025sxnbmy,2025-09-25T18:14:15.287Z,"31 km NW of Toyah, Texas",earthquake,0,1.0764224529266,0.2,20,automatic,tx,tx
+2025-09-25T18:11:25.173Z,31.534,-104.02,6.9586,1.5,ml,27,58,0,0.1,tx,tx2025sxnbmy,2025-09-25T23:05:36.719Z,"32 km NW of Toyah, Texas",earthquake,0.59559176403958,0.45637646758719,0.1,18,reviewed,tx,tx
 2025-09-25T18:02:42.340Z,51.4573,159.6642,10,5,mb,88,133,1.688,0.75,us,us6000rcw7,2025-09-25T18:23:40.040Z,"185 km SSE of Vilyuchinsk, Russia",earthquake,8.74,1.885,0.048,137,reviewed,us,us
 2025-09-25T17:59:35.861Z,-47.4183,-13.2064,10,5.2,mb,54,74,10.364,0.56,us,us6000rcw6,2025-09-25T18:20:21.040Z,"southern Mid-Atlantic Ridge",earthquake,9.4,1.862,0.071,65,reviewed,us,us
 2025-09-25T17:56:55.522Z,36.9304,-115.5479,6.2,1,ml,25,285.31,0.333,0.1555,nn,nn00904998,2025-09-25T21:28:00.263Z,"41 km NNE of Indian Springs, Nevada",earthquake,,6,0.24,12,reviewed,nn,nn
@@ -107,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T13:14:44.790Z,34.019,-118.3378333,10.57,1.11,ml,27,51,0.03465,0.21,ci,ci41097391,2025-09-25T15:41:08.870Z,"3 km NNE of View Park-Windsor Hills, CA",earthquake,0.38,0.45,0.248,20,reviewed,ci,ci
 2025-09-25T13:14:41.279Z,39.6384,-119.6538,7.5,1.4,ml,25,72.57,0.043,0.1231,nn,nn00904992,2025-09-25T17:07:44.933Z,"4 km ESE of Spanish Springs, Nevada",earthquake,,1.2,0.25,13,reviewed,nn,nn
 2025-09-25T13:08:57.710Z,38.805000305176,-122.77799987793,-0.019999999552965,1.01,md,13,68,0.008509,0.03,nc,nc75241842,2025-09-25T14:28:33.303Z,"4 km NNW of The Geysers, CA",earthquake,0.25,0.479999989,0.2,14,automatic,nc,nc
-2025-09-25T12:55:32.350Z,37.857666015625,-122.24133300781,8.3800001144409,2.83,md,74,30,0.01644,0.07,nc,nc75241837,2025-09-25T22:25:57.632Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.270000011,0.14,94,automatic,nc,nc
+2025-09-25T12:55:32.350Z,37.857666015625,-122.24133300781,8.3800001144409,2.83,md,74,30,0.01644,0.07,nc,nc75241837,2025-09-25T22:58:32.986Z,"3 km SE of Berkeley, CA",earthquake,0.12,0.270000011,0.14,94,automatic,nc,nc
 2025-09-25T12:52:09.620Z,33.6713333,-116.7608333,15.38,0.7,ml,16,126,0.05902,0.1,ci,ci41097383,2025-09-25T12:56:34.942Z,"9 km SSW of Idyllwild, CA",earthquake,0.66,0.95,0.284,19,automatic,ci,ci
 2025-09-25T12:42:49.130Z,33.1305,-116.5356667,13.56,1.52,ml,65,32,0.07167,0.17,ci,ci41097375,2025-09-25T14:48:46.428Z,"8 km NE of Julian, CA",earthquake,0.14,0.4,0.218,26,reviewed,ci,ci
 2025-09-25T12:42:19.036Z,37.3342,-117.9012,5.6,1.1,ml,7,94.93,0.066,0.1597,nn,nn00904989,2025-09-25T16:49:09.115Z,"39 km ENE of Big Pine, California",earthquake,,4.5,0.24,2,reviewed,nn,nn
