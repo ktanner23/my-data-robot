@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-26T08:36:59.820Z,33.4903336,-116.560997,12.39,1.13,ml,29,75,0.03471,0.15,ci,ci41098527,2025-09-26T08:39:15.095Z,"13 km SE of Anza, CA",earthquake,0.32,0.73,0.154,8,automatic,ci,ci
+2025-09-26T08:36:59.860Z,33.483,-116.5715,12.29,0.8,ml,41,46,0.02818,0.22,ci,ci41098527,2025-09-26T08:41:26.226Z,"12 km SE of Anza, CA",earthquake,0.26,0.44,0.161,25,automatic,ci,ci
 2025-09-26T08:34:49.750Z,38.813999176025,-122.78700256348,2.3399999141693,1.07,md,17,50,0.004991,0.02,nc,nc75242232,2025-09-26T08:36:28.441Z,"5 km NNW of The Geysers, CA",earthquake,0.25,0.49000001,0.29,17,automatic,nc,nc
 2025-09-26T08:34:40.770Z,33.3696667,-116.3861667,11.57,0.73,ml,41,63,0.04569,0.21,ci,ci41098511,2025-09-26T08:38:08.091Z,"13 km N of Borrego Springs, CA",earthquake,0.22,0.51,0.1,19,automatic,ci,ci
+2025-09-26T08:20:34.163Z,52.2795,160.0765,42.51,4.7,mb,35,140,1.145,1.08,us,us6000rd29,2025-09-26T08:49:30.040Z,"131 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,11.23,7.713,0.093,35,reviewed,us,us
 2025-09-26T08:17:08.560Z,38.794334411621,-122.77716827393,4.1100001335144,1.42,md,26,76,0.008479,0.05,nc,nc75242227,2025-09-26T08:18:42.481Z,"3 km NNW of The Geysers, CA",earthquake,0.3,0.5,0.11,26,automatic,nc,nc
 2025-09-26T07:49:07.944Z,53.0869,159.958,68.183,4.6,mb,47,133,0.792,0.42,us,us6000rd28,2025-09-26T08:09:53.040Z,"89 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,12.78,7.749,0.069,62,reviewed,us,us
 2025-09-26T07:30:58.800Z,32.753,-100.673,3.6665,1.6,ml,16,120,0.1,0.5,tx,tx2025synoms,2025-09-26T08:00:51.648Z,"15 km NNE of Hermleigh, Texas",earthquake,0,1.4831969738007,0.1,12,automatic,tx,tx
@@ -157,8 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T17:56:55.522Z,36.9304,-115.5479,6.2,1,ml,25,285.31,0.333,0.1555,nn,nn00904998,2025-09-25T21:28:00.263Z,"41 km NNE of Indian Springs, Nevada",earthquake,,6,0.24,12,reviewed,nn,nn
 2025-09-25T17:56:44.060Z,43.1515,-124.18066666667,-0.51,1.24,ml,9,174,0.1827,0.48,uw,uw62193991,2025-09-26T02:20:45.810Z,"2 km S of Coquille, Oregon",explosion,2.06,31.61,0.060064104401752,4,reviewed,uw,uw
 2025-09-25T17:52:41.940Z,41.919,-119.67166666667,-1.49,2.09,ml,7,214,0.303,0.66,uw,uw62193986,2025-09-26T02:12:53.740Z,"40 km E of Fort Bidwell, California",earthquake,3.42,5.65,0.063960544664472,3,reviewed,uw,uw
-2025-09-25T17:49:46.965Z,31.449,-103.848,5.2316,2.6,mlv,30,77,0.1,1.3,tx,tx2025sxmiui,2025-09-25T18:27:49.040Z,"15 km NNW of Toyah, Texas",earthquake,0,2.0016813278198,0.2,24,automatic,tx,tx
-2025-09-25T17:49:46.850Z,31.444,-103.842,4.9207,2.6,ml,36,56,0.1,0.1,tx,tx2025sxmiwc,2025-09-25T20:00:16.821Z,"15 km NNW of Toyah, Texas",earthquake,0.83343431333418,1.9509857430655,0.2,30,reviewed,tx,tx
+2025-09-25T17:49:46.850Z,31.444,-103.842,4.9207,2.6,ml,36,56,0.1,0.1,tx,tx2025sxmiwc,2025-09-26T08:42:39.734Z,"15 km NNW of Toyah, Texas",earthquake,0.83343431333418,1.9509857430655,0.2,30,reviewed,tx,tx
 2025-09-25T17:48:40.318Z,36.9401,-115.6685,7.5,0.8,ml,20,281.08,0.237,0.173,nn,nn00904996,2025-09-25T21:55:34.415Z,"41 km N of Indian Springs, Nevada",earthquake,,6,0.1,7,reviewed,nn,nn
 2025-09-25T17:46:52.241Z,56.3542,-156.5225,15.3,2.3,ml,,,,0.49,ak,ak025cbifgjj,2025-09-25T21:46:59.175Z,"116 km E of Chignik, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2025-09-25T17:32:18.620Z,35.331,-97.94,7.34,1.35,ml,61,98,0.06208781625,0.38,ok,ok2025svea,2025-09-25T17:40:09.588Z,"2 km NNE of Minco, Oklahoma",earthquake,,0.5,0.23,28,reviewed,ok,ok
@@ -255,9 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-25T09:01:06.460Z,44.725,-111.75716666667,11.91,0.45,ml,11,91,0.0475,0.09,mb,mb90113108,2025-09-25T14:56:37.210Z,"45 km W of Hebgen Lake Estates, Montana",earthquake,0.42,0.4,0.18361621562546,7,reviewed,mb,mb
 2025-09-25T08:59:30.250Z,33.5295,-116.7266667,5.41,1,ml,57,28,0.03689,0.17,ci,ci41097303,2025-09-25T13:23:39.856Z,"6 km WSW of Anza, CA",earthquake,0.12,0.36,0.203,26,reviewed,ci,ci
 2025-09-25T08:53:37.557Z,-9.9596,154.9494,10,5.1,mww,56,39,4.954,0.56,us,us6000rcrx,2025-09-25T09:17:35.520Z,"292 km SW of Gizo, Solomon Islands",earthquake,9.29,1.886,0.089,12,reviewed,us,us
-2025-09-25T08:49:16.360Z,64.4854,-146.9151,6,1.8,ml,,,,0.38,ak,ak025cbd30j8,2025-09-25T08:50:57.499Z,"4 km S of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-25T08:47:24.170Z,49.2525,-119.53333333333,9.04,1.1,ml,6,177,0.09236,0.16,uw,uw62193821,2025-09-25T23:22:47.370Z,"7 km N of Oliver, Canada",earthquake,0.98,1.18,0.076873626967657,4,reviewed,uw,uw
-2025-09-25T08:46:24.050Z,38.972999572754,-123.24366760254,6.3299999237061,1.72,md,13,85,0.05152,0.05,nc,nc75241722,2025-09-25T09:17:18.785Z,"11 km ESE of Boonville, CA",earthquake,0.24,0.600000024,0.12,12,automatic,nc,nc
-2025-09-25T08:45:34.162Z,64.4953,-146.9017,2,2,ml,,,,0.63,ak,ak025cbd271k,2025-09-25T08:51:54.844Z,"3 km S of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-25T08:43:33.175Z,63.4703,-149.3646,89.1,2.2,ml,,,,0.48,ak,ak025cbd1rj9,2025-09-25T08:45:44.913Z,"22 km WNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2025-09-25T08:42:28.457Z,11.5904,141.9821,65.291,5.1,mb,112,71,3.447,0.39,us,us6000rcru,2025-09-26T02:52:31.326Z,"257 km NE of Fais, Micronesia",earthquake,9.4,5.903,0.05,131,reviewed,us,us
