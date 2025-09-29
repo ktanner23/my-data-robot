@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-09-29T20:01:51.760Z,38.825164794922,-122.79983520508,2.0999999046326,0.9,md,12,94,0.01516,0.01,nc,nc75243482,2025-09-29T20:03:25.595Z,"7 km NNW of The Geysers, CA",earthquake,0.32,0.790000021,0.19,12,automatic,nc,nc
-2025-09-29T19:59:38.650Z,35.3526667,-117.7915,5.71,1.39,ml,42,48,0.09595,0.17,ci,ci41100759,2025-09-29T20:03:08.625Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.61,0.148,26,automatic,ci,ci
-2025-09-29T19:58:36.840Z,33.0183333,-117.5891667,19.68,2.3,ml,57,136,0.251,0.18,ci,ci41100751,2025-09-29T20:02:13.620Z,"27 km SW of Carlsbad, CA",earthquake,0.29,0.36,0.181,26,automatic,ci,ci
+2025-09-29T19:59:38.650Z,35.3526667,-117.7915,5.71,1.39,ml,42,48,0.09595,0.17,ci,ci41100759,2025-09-29T20:25:24.772Z,"14 km W of Johannesburg, CA",earthquake,0.17,0.61,0.148,26,reviewed,ci,ci
+2025-09-29T19:58:36.820Z,33.0193333,-117.5888333,18.83,2.32,ml,57,114,0.2501,0.16,ci,ci41100751,2025-09-29T20:24:50.809Z,"27 km SW of Carlsbad, CA",earthquake,0.24,0.4,0.181,107,reviewed,ci,ci
 2025-09-29T19:42:41.041Z,62.5495,-148.1731,51.9,1.6,ml,,,,0.32,ak,ak025ci5qq20,2025-09-29T19:45:13.703Z,"85 km N of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-29T19:41:26.532Z,63.1411,-150.5811,112.4,1.6,ml,,,,0.63,ak,ak025ci5qh7x,2025-09-29T19:43:19.402Z,"72 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-09-29T19:25:23.233Z,-1.5082,97.8349,10,4.3,mb,20,91,2.805,0.46,us,us6000rdmw,2025-09-29T19:58:46.040Z,"203 km WNW of Tuapejat, Indonesia",earthquake,10.17,1.899,0.168,10,reviewed,us,us
@@ -158,7 +158,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-29T01:10:38.680Z,39.126833333333,-110.84683333333,3.74,0.59,md,6,138,0.2518,0.04,uu,uu80004923,2025-09-29T17:42:29.670Z,"17 km ESE of Castle Dale, Utah",earthquake,0.48,31.61,0.29013188544269,2,reviewed,uu,uu
 2025-09-29T01:08:46.812Z,53.6305,160.5576,53.485,4.8,mb,69,117,1.296,0.96,us,us6000rdic,2025-09-29T01:49:36.040Z,"143 km ENE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.55,6.891,0.034,262,reviewed,us,us
 2025-09-29T01:00:18.220Z,44.796833333333,-110.85466666667,4.29,1.37,ml,14,109,0.009005,0.14,uu,uu80118301,2025-09-29T13:51:52.060Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.29,0.45,0.37698802263898,4,reviewed,uu,uu
-2025-09-29T00:57:11.820Z,33.5911667,-116.7341667,12.27,0.81,ml,47,46,0.02583,0.15,ci,ci41100391,2025-09-29T01:00:39.708Z,"7 km NW of Anza, CA",earthquake,0.15,0.3,0.158,27,automatic,ci,ci
+2025-09-29T00:57:11.820Z,33.5908333,-116.7338333,12.25,0.79,ml,42,40,0.02553,0.15,ci,ci41100391,2025-09-29T20:20:48.789Z,"7 km NW of Anza, CA",earthquake,0.16,0.35,0.121,16,reviewed,ci,ci
 2025-09-29T00:55:00.710Z,35.5355,-96.7505,6.97,1.45,ml,64,48,0.01079788109,0.21,ok,ok2025tbfd,2025-09-29T13:17:32.292Z,"8 km NW of Prague, Oklahoma",earthquake,,0.3,0.2,26,reviewed,ok,ok
 2025-09-29T00:50:33.374Z,32.42,-102.091,8.1787,0.9,ml,16,68,0,0,tx,tx2025tdnlyn,2025-09-29T13:22:46.812Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.59183895887785,1.1605504634752,0.2,15,reviewed,tx,tx
 2025-09-29T00:38:42.230Z,47.6025,-113.85233333333,16.18,0.86,ml,8,99,0.1361,0.08,mb,mb90113668,2025-09-29T14:07:53.420Z,"13 km NW of Condon, Montana",earthquake,0.86,0.8,0.21377736929172,3,reviewed,mb,mb
@@ -213,6 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-28T20:37:12.472Z,60.1687,-153.276,145.2,2.1,ml,,,,0.64,ak,ak025cgirodr,2025-09-28T20:39:42.898Z,"57 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-28T20:31:13.896Z,50.9617,-176.902,10,3.6,ml,20,228,0.828,0.34,us,us6000rdhj,2025-09-29T15:59:54.040Z,"103 km S of Adak, Alaska",earthquake,4.71,2.006,0.085,18,reviewed,us,us
 2025-09-28T20:30:00.490Z,62.6488,-152.0771,4.1,1.4,ml,,,,0.31,ak,ak025cgiq5g1,2025-09-28T20:32:54.342Z,"69 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-09-28T20:21:44.445Z,61.7019,-151.3039,79.3,1.8,ml,,,,0.75,ak,ak025cgiobe4,2025-09-28T20:24:30.734Z,"32 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-09-28T20:18:43.430Z,44.794833333333,-110.852,4.07,0.94,ml,14,108,0.00659,0.15,uu,uu80118271,2025-09-29T17:40:43.840Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.28,0.37,0.43704802084703,5,reviewed,uu,uu
-2025-09-28T20:18:43.130Z,36.583332061768,-121.18250274658,4.210000038147,1.4,md,9,138,0.01184,0.04,nc,nc75243092,2025-09-28T22:32:19.972Z,"7 km NNW of Pinnacles, CA",earthquake,0.4,0.49000001,0.13,7,automatic,nc,nc
