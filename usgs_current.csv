@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-02T11:16:42.880Z,38.837333679199,-122.80200195312,2.2300000190735,1.27,md,19,63,0.009168,0.01,nc,nc75243871,2025-10-02T11:18:19.489Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.439999998,0.13,18,automatic,nc,nc
 2025-10-02T11:05:15.260Z,38.796001434326,-122.80516815185,2.9700000286102,1.05,md,21,64,0.007838,0.02,nc,nc75243861,2025-10-02T11:27:17.071Z,"5 km WNW of The Geysers, CA",earthquake,0.26,0.479999989,0.07,20,automatic,nc,nc
-2025-10-02T10:43:55.573Z,-30.6637,-71.8514,19.467,5.4,mww,81,84,0.187,1.27,us,us6000re62,2025-10-02T11:31:15.767Z,"62 km W of Ovalle, Chile",earthquake,4.09,4.025,0.069,20,reviewed,us,us
+2025-10-02T10:43:55.573Z,-30.6637,-71.8514,19.467,5.4,mww,81,84,0.187,1.27,us,us6000re62,2025-10-02T11:40:53.630Z,"62 km W of Ovalle, Chile",earthquake,4.09,4.025,0.069,20,reviewed,us,us
 2025-10-02T10:41:07.084Z,57.9294,-153.1934,35.3,2.6,ml,,,,0.62,ak,ak025cmyzkr8,2025-10-02T10:43:15.438Z,"19 km WNW of Port Lions, Alaska",earthquake,,5.7,,,automatic,ak,ak
 2025-10-02T10:41:02.060Z,37.404,-117.2399,0,0.6,ml,9,278.58,0.105,0.4467,nn,nn00905316,2025-10-02T10:43:25.723Z,"33 km S of Goldfield, Nevada",earthquake,,45.8,0.34,4,automatic,nn,nn
 2025-10-02T10:35:12.745Z,29.037,-97.889,6.8901,2.2,ml,11,82,0.1,0.4,tx,tx2025tjuamw,2025-10-02T11:00:09.777Z,"13 km ENE of Falls City, Texas",earthquake,0,3.4646384716034,0.2,9,automatic,tx,tx
@@ -199,7 +199,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T13:49:49.991Z,-7.349,128.3474,151.4,5.6,mww,109,18,4.69,0.8,us,us6000rdz7,2025-10-01T16:16:57.663Z,"197 km NE of Lospalos, Timor Leste",earthquake,7.02,6.067,0.043,53,reviewed,us,us
 2025-10-01T13:44:20.930Z,39.450166666667,-111.072,2.72,1.43,md,7,112,0.1372,0.2,uu,uu80118466,2025-10-01T13:53:26.160Z,"6 km SW of Hiawatha, Utah",earthquake,1.02,31.61,0.13752267219868,7,reviewed,uu,uu
 2025-10-01T13:42:55.620Z,58.1575,-155.4015,2.9,-0.42,ml,5,88,0.0648,0.09,av,av93050404,2025-10-02T02:09:25.620Z,"86 km NW of Karluk, Alaska",earthquake,0.57,2.49,0.15972014532585,5,reviewed,av,av
-2025-10-01T13:40:09.193Z,63.2004,-150.6679,129.4,2.3,ml,,,,0.41,ak,ak025cld8bhm,2025-10-01T13:43:09.538Z,"65 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-10-01T13:40:09.193Z,63.2004,-150.6679,129.4,2.3,ml,,,,0.41,ak,ak025cld8bhm,2025-10-02T11:36:48.040Z,"65 km SE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-01T13:34:04.716Z,63.5187,-147.7251,0,1.8,ml,,,,0.69,ak,ak025cld70vr,2025-10-01T13:36:10.519Z,"62 km ENE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-01T13:12:31.930Z,33.3286667,-116.3001667,9.99,0.45,ml,14,140,0.03453,0.18,ci,ci41101271,2025-10-01T15:48:47.282Z,"11 km NE of Borrego Springs, CA",earthquake,0.42,0.65,0.135,10,reviewed,ci,ci
 2025-10-01T13:05:28.070Z,52.095833333333,-176.21633333333,5.62,1.04,ml,6,296,0.02405,0.29,av,av93800248,2025-10-02T02:00:17.820Z,"37 km NE of Adak, Alaska",earthquake,1.37,1.98,0.35865108553335,6,reviewed,av,av
@@ -236,6 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-01T11:51:25.110Z,61.273166666667,-152.34016666667,10.12,-0.46,ml,9,125,0.07785,0.23,av,av93800128,2025-10-02T00:43:21.700Z,"68 km WNW of Tyonek, Alaska",earthquake,0.68,1.73,0.092569724005549,9,reviewed,av,av
 2025-10-01T11:44:49.579Z,31.588,-103.579,29.8974,1.7,mlv,12,106,0.3,0.9,tx,tx2025tiapos,2025-10-01T18:16:14.244Z,"13 km S of Mentone, Texas",earthquake,0,14.602214813232,0.4,10,automatic,tx,tx
 2025-10-01T11:44:13.902Z,32.184,-101.189,7.251,2.6,ml,19,62,0.1,0.1,tx,tx2025tiapcq,2025-10-01T12:56:54.040Z,"16 km SE of Coahoma, Texas",earthquake,0.53449239944596,1.5581713483935,0,7,reviewed,tx,tx
-2025-10-01T11:41:50.708Z,60.0134,-151.5928,56.3,1.2,ml,,,,0.14,ak,ak025clc1r8e,2025-10-01T11:43:07.581Z,"5 km SE of Ninilchik, Alaska",earthquake,,3,,,automatic,ak,ak
-2025-10-01T11:39:39.680Z,61.140166666667,-152.2895,3.67,-0.34,ml,9,247,0.06076,0.13,av,av93050394,2025-10-02T01:14:21.010Z,"62 km W of Tyonek, Alaska",earthquake,0.7,0.34,0.21363406089642,9,reviewed,av,av
-2025-10-01T11:36:43.520Z,58.4365,-154.62083333333,4.56,-0.72,ml,5,199,0.06938,0.12,av,av93050389,2025-10-02T01:09:39.620Z,"97 km N of Karluk, Alaska",earthquake,0.56,0.96,0.14361608179894,5,reviewed,av,av
