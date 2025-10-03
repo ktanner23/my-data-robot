@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T07:19:19.117Z,59.6678,-152.7201,86.5,1.9,ml,,,,0.52,ak,ak025coklxjn,2025-10-03T07:43:50.040Z,"51 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-03T07:15:56.837Z,31.661,-104.367,4.1699,2.1,ml,26,150,0.1,0.2,tx,tx2025tljdsa,2025-10-03T07:19:05.309Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0813398361206,0.2,19,automatic,tx,tx
 2025-10-03T07:15:56.727Z,31.649,-104.372,4.1188,2.1,ml,36,71,0.1,0.3,tx,tx2025tljbdk,2025-10-03T07:19:47.316Z,"58 km S of Whites City, New Mexico",earthquake,0,0.95601725578308,0.2,27,automatic,tx,tx
-2025-10-03T07:12:28.741Z,31.624,-104.154,4.3439,1.8,ml,38,63,0.1,0.2,tx,tx2025tljaoc,2025-10-03T08:02:00.255Z,"48 km NW of Toyah, Texas",earthquake,0,0.8888503909111,0.2,27,automatic,tx,tx
+2025-10-03T07:12:28.690Z,31.633,-104.145,6.0999,1.7,ml,44,57,0.1,0.2,tx,tx2025tljaoc,2025-10-03T09:03:15.653Z,"48 km NW of Toyah, Texas",earthquake,0.49500356660378,0.44692404078226,0.2,25,reviewed,tx,tx
 2025-10-03T06:54:48.430Z,40.579666137695,-122.22650146484,12.140000343323,2,md,7,162,0.07029,0.09,nc,nc75244231,2025-10-03T07:32:19.737Z,"2 km NNE of Palo Cedro, CA",earthquake,1.11,1.62,0.15,5,automatic,nc,nc
 2025-10-03T06:49:42.040Z,18.446,-64.015333333333,148.22,3.44,md,15,340,0.37,0.53,pr,pr71496898,2025-10-03T07:47:27.460Z,"83 km E of Cruz Bay, U.S. Virgin Islands",earthquake,10.76,2.21,0.085864778515898,3,reviewed,pr,pr
 2025-10-03T06:44:32.630Z,38.823501586914,-122.84283447266,1.5499999523163,0.22,md,10,78,0.006108,0.01,nc,nc75244226,2025-10-03T07:17:18.643Z,"9 km NW of The Geysers, CA",earthquake,0.34,0.629999995,0.1,10,automatic,nc,nc
@@ -211,7 +211,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T12:03:06.250Z,38.837665557861,-122.80100250244,2.2400000095367,1.76,md,29,40,0.008357,0.04,nc,nc75243881,2025-10-02T13:27:17.956Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.319999993,0.11,31,automatic,nc,nc
 2025-10-02T12:00:37.320Z,38.790000915527,-122.76132965088,1.6100000143051,0.74,md,11,77,0.01956,0.01,nc,nc75243876,2025-10-02T13:07:17.809Z,"1 km NNW of The Geysers, CA",earthquake,0.27,0.680000007,0.22,10,automatic,nc,nc
 2025-10-02T11:55:53.020Z,31.581,-104.02,7.1124,1.6,ml,27,56,0,0.1,tx,tx2025tjwsaz,2025-10-02T13:35:13.903Z,"36 km NW of Toyah, Texas",earthquake,0.47689847353535,0.40385815558764,0.1,7,reviewed,tx,tx
-2025-10-02T11:55:04.173Z,40.7968,27.9917,10,5,mww,71,36,1.009,1.13,us,us6000re6a,2025-10-03T08:34:43.442Z,"19 km S of Marmara Ereğlisi, Turkey",earthquake,4.8,1.882,0.066,22,reviewed,us,us
+2025-10-02T11:55:04.173Z,40.7968,27.9917,10,5,mww,71,36,1.009,1.13,us,us6000re6a,2025-10-03T08:55:46.791Z,"19 km S of Marmara Ereğlisi, Turkey",earthquake,4.8,1.882,0.066,22,reviewed,us,us
 2025-10-02T11:54:14.316Z,31.581,-104.02,6.8433,2.4,ml,17,64,0,0.1,tx,tx2025tjwqqf,2025-10-02T12:46:37.566Z,"36 km NW of Toyah, Texas",earthquake,0.48651457998122,0.44847261891195,0.1,7,reviewed,tx,tx
 2025-10-02T11:52:13.030Z,44.370166666667,-116.11916666667,6.04,2.12,ml,7,145,0.07078,0.06,mb,mb90114973,2025-10-02T19:56:03.680Z,"8 km NNW of Smiths Ferry, Idaho",earthquake,0.44,1.19,0.19559996938599,12,reviewed,mb,mb
 2025-10-02T11:43:23.814Z,29.043,-97.883,7.4848,1.5,ml,14,80,0.1,0.2,tx,tx2025tjwhhj,2025-10-02T16:01:25.993Z,"14 km ENE of Falls City, Texas",earthquake,0.69732889542227,0.91486682438491,0.1,7,reviewed,tx,tx
@@ -245,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T09:22:29.588Z,37.4697,-117.2583,5.6,1.1,ml,28,94.06,0.17,0.1789,nn,nn00905300,2025-10-02T20:19:08.524Z,"26 km S of Goldfield, Nevada",earthquake,,3.5,0.47,5,reviewed,nn,nn
 2025-10-02T09:18:20.540Z,57.6489,-155.3581,15,1.9,ml,,,,0.41,ak,ak025cmy98py,2025-10-02T09:20:15.969Z,"54 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-02T09:07:10.340Z,63.2768,-149.4213,72,1.6,ml,,,,0.77,ak,ak025cmy6v19,2025-10-02T09:10:53.218Z,"26 km WSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-10-02T09:04:26.170Z,33.1351667,-116.3756667,9.81,0.42,ml,29,65,0.07801,0.21,ci,ci41101711,2025-10-02T15:28:52.784Z,"13 km S of Borrego Springs, CA",earthquake,0.29,0.78,0.113,7,reviewed,ci,ci
