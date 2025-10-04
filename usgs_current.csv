@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T21:01:51.734Z,39.5155,-119.5297,8,1.6,ml,11,91.66,0.239,0.3806,nn,nn00905439,2025-10-04T21:04:32.929Z,"19 km E of Sparks, Nevada",earthquake,,2.2,0.42,6,automatic,nn,nn
 2025-10-04T20:30:53.755Z,-35.5811,-104.0781,10,4.9,mb,51,96,9.548,0.83,us,us6000reul,2025-10-04T21:20:34.040Z,"southeast of Easter Island",earthquake,12.66,1.892,0.057,93,reviewed,us,us
 2025-10-04T20:21:20.600Z,35.9496667,-117.6855,4.57,0.75,ml,23,52,0.02855,0.11,ci,ci41102655,2025-10-04T20:24:42.062Z,"20 km E of Little Lake, CA",earthquake,0.15,0.22,0.118,13,automatic,ci,ci
-2025-10-04T20:17:32.810Z,34.4398333,-119.8523333,4.52,1.76,ml,34,51,0.02793,0.24,ci,ci41102647,2025-10-04T20:28:06.410Z,"2 km W of Goleta, CA",earthquake,0.34,0.64,0.113,27,automatic,ci,ci
+2025-10-04T20:17:32.810Z,34.4398333,-119.8523333,4.52,1.76,ml,34,51,0.02793,0.24,ci,ci41102647,2025-10-04T23:25:59.046Z,"2 km W of Goleta, CA",earthquake,0.34,0.64,0.113,27,automatic,ci,ci
 2025-10-04T19:54:23.910Z,19.257166666667,-64.605333333333,29.17,3.4,md,16,260,0.7867,0.16,pr,pr71497013,2025-10-04T20:19:37.200Z,"104 km N of Cruz Bay, U.S. Virgin Islands",earthquake,1.68,12.58,0.060534788138356,4,reviewed,pr,pr
 2025-10-04T19:47:26.229Z,59.3981,-152.0648,35.7,2.2,ml,,,,0.78,ak,ak025cqfghym,2025-10-04T19:49:26.573Z,"9 km WNW of Nanwalek, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-04T19:34:45.723Z,31.526,-104.161,4.3072,1.6,ml,31,73,0.1,0.3,tx,tx2025todjac,2025-10-04T20:00:33.357Z,"42 km WNW of Toyah, Texas",earthquake,0,1.0847628116608,0.1,22,automatic,tx,tx
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T14:42:10.660Z,38.836498260498,-122.80833435059,2.2599999904633,0.21,md,8,78,0.01315,0.01,nc,nc75244716,2025-10-04T15:37:18.762Z,"8 km WNW of Cobb, CA",earthquake,0.45,1.90999997,0.09,8,automatic,nc,nc
 2025-10-04T14:40:52.871Z,32.113,-102.188,4.5642,1.3,ml,28,78,0,0.4,tx,tx2025tntpyr,2025-10-04T15:01:00.516Z,"16 km NW of Midland, Texas",earthquake,0,1.1087536811829,0.2,16,automatic,tx,tx
 2025-10-04T14:40:51.910Z,38.823001861572,-122.84300231934,1.9500000476837,0.65,md,8,83,0.01777,0.01,nc,nc75244711,2025-10-04T15:12:19.574Z,"9 km NW of The Geysers, CA",earthquake,0.33,1.05999994,0.42,8,automatic,nc,nc
-2025-10-04T14:37:53.886Z,32.117,-102.186,4.3086,1.7,ml,53,63,0,0.4,tx,tx2025tntnkv,2025-10-04T14:43:06.658Z,"16 km NW of Midland, Texas",earthquake,0,0.7520540356636,0.1,32,automatic,tx,tx
+2025-10-04T14:37:53.747Z,32.119,-102.187,4.6851,1.7,mlv,72,49,0,0.4,tx,tx2025tntnkv,2025-10-04T23:28:58.838Z,"16 km NW of Midland, Texas",earthquake,0,0.63721966743469,0.2,50,automatic,tx,tx
 2025-10-04T14:24:16.630Z,47.7535,-121.89016666667,20.43,1.16,ml,8,113,0.09213,0.05,uw,uw62189267,2025-10-04T22:25:13.460Z,"7 km NNE of Lake Marcel-Stillwater, Washington",earthquake,0.5,0.51,0.14309713744371,3,reviewed,uw,uw
 2025-10-04T14:20:28.089Z,31.616,-104.128,3.4258,1.6,mlv,24,57,0,0.5,tx,tx2025tnsykb,2025-10-04T17:12:36.195Z,"46 km NW of Toyah, Texas",earthquake,0,1.1211372613907,0.1,19,automatic,tx,tx
 2025-10-04T14:17:02.780Z,33.3486667,-116.9556667,14.94,0.69,ml,28,45,0.07539,0.16,ci,ci41102487,2025-10-04T14:21:46.762Z,"9 km W of Palomar Observatory, CA",earthquake,0.19,0.38,0.128,20,automatic,ci,ci
@@ -104,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T12:23:25.529Z,63.2183,-149.9154,95.6,1.5,ml,,,,0.38,ak,ak025cqb5bhk,2025-10-04T12:25:37.747Z,"52 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-04T12:22:56.610Z,48.613666666667,-123.08933333333,10.65,1.2,ml,14,107,0.02459,0.07,uw,uw62189202,2025-10-04T19:01:28.620Z,"10 km NNW of Friday Harbor, Washington",earthquake,0.28,0.41,0.16353429543281,7,reviewed,uw,uw
 2025-10-04T12:19:50.171Z,32.339,-101.531,4.2391,1,ml,11,118,0.1,0.2,tx,tx2025tnoygy,2025-10-04T13:00:35.994Z,"10 km NNW of Big Spring, Texas",earthquake,0,1.6080693006516,0.2,7,automatic,tx,tx
-2025-10-04T12:13:27.401Z,32.317,-101.531,3.2954,1.1,ml,5,147,0.1,0.2,tx,tx2025tnosyq,2025-10-04T12:15:23.116Z,"8 km NNW of Big Spring, Texas",earthquake,0,2.6337041854858,0.3,5,automatic,tx,tx
+2025-10-04T12:13:27.354Z,32.33,-101.531,3.6553,0.9,mlv,11,77,0.1,0.3,tx,tx2025tnosyq,2025-10-04T23:28:12.829Z,"10 km NNW of Big Spring, Texas",earthquake,0,1.7739785909653,0.2,9,automatic,tx,tx
 2025-10-04T12:06:25.212Z,61.1491,-151.6699,93,1.4,ml,,,,0.56,ak,ak025cqb1nza,2025-10-04T12:10:14.134Z,"30 km WNW of Tyonek, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-10-04T11:54:51.720Z,44.5645,-112.2548,12.18,2.6,ml,54,35,0.283,0.4,us,us6000res9,2025-10-04T12:11:27.040Z,"23 km NNW of Spencer, Idaho",earthquake,1.4,7.939,0.036,100,reviewed,us,us
 2025-10-04T11:41:12.760Z,35.8626667,-117.693,7.44,0.94,ml,24,86,0.09062,0.14,ci,ci41102471,2025-10-04T11:44:40.011Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.58,0.232,18,automatic,ci,ci
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-04T00:05:51.125Z,64.9231,-147.2878,0,1.5,ml,,,,1.01,ak,ak025cq3wba2,2025-10-04T00:15:10.533Z,"13 km WNW of Two Rivers, Alaska",earthquake,,29.4,,,automatic,ak,ak
 2025-10-03T23:43:39.598Z,38.0879,-116.2224,5.9,2,ml,12,138.63,0.565,0.1879,nn,nn00905403,2025-10-04T01:09:11.277Z,"64 km NW of Rachel, Nevada",earthquake,,6.7,0.33,3,reviewed,nn,nn
 2025-10-03T23:42:12.680Z,10.4147,126.9002,10,5,mb,42,84,3.571,0.79,us,us6000renv,2025-10-04T00:03:45.040Z,"104 km ENE of Santa Monica, Philippines",earthquake,9.2,1.883,0.074,58,reviewed,us,us
-2025-10-03T23:23:15.270Z,36.935665130615,-121.68049621582,10.510000228882,1.92,md,36,56,0.07754,0.14,nc,nc75244511,2025-10-04T00:52:17.484Z,"5 km ESE of Interlaken, CA",earthquake,0.3,0.639999986,0.26,33,automatic,nc,nc
