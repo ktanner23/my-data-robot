@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-05T21:44:00.100Z,35.3568333,-117.7913333,4.16,0.95,ml,38,50,0.09972,0.18,ci,ci41103287,2025-10-05T21:47:25.699Z,"14 km W of Johannesburg, CA",earthquake,0.19,0.5,0.164,22,automatic,ci,ci
 2025-10-05T21:41:40.240Z,61.4515,-147.5038,34.9,1.4,ml,,,,0.4,ak,ak025cs45gg8,2025-10-05T21:43:18.488Z,"40 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-05T21:32:01.280Z,38.82799911499,-122.81483459473,2.2200000286102,1.07,md,19,44,0.005913,0.02,nc,nc75245286,2025-10-05T21:33:39.439Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.17,19,automatic,nc,nc
+2025-10-05T21:32:01.280Z,38.82799911499,-122.81483459473,2.2200000286102,1.07,md,19,44,0.005913,0.02,nc,nc75245286,2025-10-05T21:57:17.945Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.17,19,automatic,nc,nc
 2025-10-05T21:24:02.150Z,38.819667816162,-122.80133056641,2.6800000667572,0.84,md,15,47,0.007778,0.01,nc,nc75245276,2025-10-05T21:47:19.877Z,"6 km NW of The Geysers, CA",earthquake,0.27,0.50999999,0.2,17,automatic,nc,nc
 2025-10-05T21:09:30.003Z,62.9381,-148.5009,64.6,2.4,ml,,,,0.63,ak,ak025cs3ykq1,2025-10-05T21:22:03.943Z,"55 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-05T21:08:21.080Z,33.2713333,-116.428,4.49,0.85,ml,46,26,0.009604,0.2,ci,ci41103279,2025-10-05T21:11:49.115Z,"5 km WNW of Borrego Springs, CA",earthquake,0.17,0.34,0.2,23,automatic,ci,ci
@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T19:02:16.168Z,58.0104,-155.4707,131.8,1.1,ml,,,,0.2,ak,ak025cs2q64i,2025-10-05T19:06:47.453Z,"77 km NW of Karluk, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2025-10-05T18:59:33.266Z,60.0524,-151.8129,62.6,1.6,ml,,,,0.43,ak,ak025cs2gyk4,2025-10-05T19:02:00.487Z,"8 km W of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-05T18:56:58.020Z,32.5781667,-117.0553333,14.41,1.37,ml,12,142,0.1097,0.1,ci,ci41103239,2025-10-05T19:04:11.235Z,"3 km NNW of San Ysidro, CA",earthquake,0.39,0.78,0.255,16,automatic,ci,ci
-2025-10-05T18:50:11.510Z,34.4993324,-118.1366653,13.94,1.06,ml,16,64,0.03106,0.16,ci,ci41103231,2025-10-05T18:52:14.998Z,"2 km W of Vincent, CA",earthquake,0.47,0.64,0.228,11,automatic,ci,ci
+2025-10-05T18:50:11.510Z,34.4993324,-118.1366653,13.94,1.06,ml,16,64,0.03106,0.16,ci,ci41103231,2025-10-05T22:03:33.920Z,"2 km W of Vincent, CA",earthquake,0.47,0.64,0.228,11,automatic,ci,ci
 2025-10-05T18:36:25.283Z,32.2167,-104.6293,6.046,2.5,ml,25,86,0.557,0.46,us,us6000rezf,2025-10-05T18:52:08.040Z,"24 km W of Whites City, New Mexico",earthquake,1.91,6.204,0.069,58,reviewed,us,us
 2025-10-05T18:36:05.990Z,60.453333333333,-152.71283333333,2.97,-0.96,ml,4,209,0.01609,0.21,av,av93806893,2025-10-05T21:44:12.140Z,"73 km NW of Ninilchik, Alaska",earthquake,1.05,1.32,0.33776991161341,4,reviewed,av,av
 2025-10-05T18:34:55.330Z,38.783668518066,-122.75949859619,1.8999999761581,0.78,md,7,119,0.0178,0.02,nc,nc75245236,2025-10-05T19:17:20.754Z,"1 km NNW of The Geysers, CA",earthquake,0.48,1.08000004,0.07,8,automatic,nc,nc
@@ -50,11 +50,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T16:54:15.501Z,32.277,-101.927,3.7801,1.1,ml,28,41,0,0.6,tx,tx2025tpttur,2025-10-05T16:57:16.503Z,"20 km NW of Stanton, Texas",earthquake,0,0.9733624458313,0.2,12,automatic,tx,tx
 2025-10-05T16:50:01.815Z,61.6506,-150.4826,28.1,1.5,ml,,,,0.87,ak,ak025cs184wl,2025-10-05T16:52:02.661Z,"12 km N of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-05T16:29:23.578Z,51.3101,160.0447,10,4.4,mb,32,144,1.919,0.75,us,us6000rez3,2025-10-05T18:08:52.040Z,"212 km SSE of Vilyuchinsk, Russia",earthquake,10.92,1.861,0.112,23,reviewed,us,us
-2025-10-05T16:16:01.780Z,47.561164855957,-122.20666503906,22.319999694824,1.5146842002869,ml,24,86,0.2991,0.569999993,uw,uw62189907,2025-10-05T16:42:14.360Z,"1 km SE of Mercer Island, Washington",earthquake,1.32,4.53999996,0.29918017983437,7,reviewed,uw,uw
+2025-10-05T16:16:02.020Z,47.579333333333,-122.208,17.63,1.26,ml,14,88,0.03621,0.11,uw,uw62189907,2025-10-05T22:02:12.060Z,"0 km SW of Beaux Arts Village, Washington",earthquake,0.26,2.02,0.15272917379081,5,reviewed,uw,uw
 2025-10-05T16:11:10.890Z,34.4436667,-119.8536667,3.8,2.2,ml,41,51,0.03191,0.24,ci,ci41103151,2025-10-05T20:06:25.326Z,"2 km WNW of Goleta, CA",earthquake,0.25,0.77,0.142,75,reviewed,ci,ci
 2025-10-05T16:02:04.870Z,38.823333740234,-122.84400177002,2.1199998855591,0.47,md,9,152,0.007012,0.01,nc,nc75245191,2025-10-05T17:07:17.798Z,"9 km NW of The Geysers, CA",earthquake,0.48,1.03999996,0.36,9,automatic,nc,nc
 2025-10-05T16:01:29.860Z,51.3924,159.4934,28.587,5.1,mb,76,126,1.714,0.8,us,us6000rez1,2025-10-05T16:47:41.040Z,"186 km SSE of Vilyuchinsk, Russia",earthquake,9.76,4.744,0.054,113,reviewed,us,us
-2025-10-05T15:54:13.830Z,47.576667785645,-122.21266937256,22.260000228882,1.6400613188744,ml,32,80,0.03207,0.109999999,uw,uw62189902,2025-10-05T16:41:41.340Z,"0 km NE of Mercer Island, Washington",earthquake,0.26,0.439999998,0.25967505574226,13,reviewed,uw,uw
+2025-10-05T15:54:13.650Z,47.580666666667,-122.20116666667,22.27,1.49,ml,17,86,0.04067,0.15,uw,uw62189902,2025-10-05T21:56:10.510Z,"0 km SSW of Beaux Arts Village, Washington",earthquake,0.29,1.69,0.17066981576087,8,reviewed,uw,uw
 2025-10-05T15:51:09.210Z,36.013168334961,-120.57299804688,2.079999923706,0.99,md,11,176,0.02974,0.04,nc,nc75245186,2025-10-05T16:37:19.559Z,"18 km NW of Parkfield, CA",earthquake,0.55,0.930000007,0.11,3,automatic,nc,nc
 2025-10-05T15:49:59.470Z,35.9328346,-117.7661667,9.85,1.09,ml,16,80,0.04496,0.1,ci,ci41103127,2025-10-05T17:28:12.851Z,"13 km E of Little Lake, CA",earthquake,0.33,0.9,0.177,8,reviewed,ci,ci
 2025-10-05T15:21:58.480Z,19.3861,-67.3853,46,3.56,md,21,199,0.9585,0.58,pr,pr2025278002,2025-10-05T18:14:49.040Z,"103 km NNW of San Antonio, Puerto Rico",earthquake,3.97,17.66,0.09,19,reviewed,pr,pr
@@ -212,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T02:12:52.950Z,31.681,-104.398,6.3049,1.8,ml,31,68,0,0.2,tx,tx2025toqnwu,2025-10-05T12:58:30.538Z,"54 km S of Whites City, New Mexico",earthquake,0.79137969029084,0.56894666460209,0.1,23,reviewed,tx,tx
 2025-10-05T01:51:46.057Z,51.5783,-179.4936,76.304,4.3,mb,50,162,0.424,0.85,us,us6000revp,2025-10-05T02:51:39.463Z,"200 km W of Adak, Alaska",earthquake,8.11,7.662,0.061,77,reviewed,us,us
 2025-10-05T01:50:26.534Z,31.714,-104.592,1.7204,1.7,mlv,24,113,0.1,0.6,tx,tx2025topuzb,2025-10-05T05:16:41.611Z,"55 km SSW of Whites City, New Mexico",earthquake,0,1.3511202335358,0.2,18,automatic,tx,tx
-2025-10-05T01:46:21.548Z,43.8544,-76.0231,5.772,1.6,ml,16,82,0.445,0.24,us,us6000revv,2025-10-05T14:20:36.112Z,"1 km WSW of Adams Center, New York",earthquake,1.54,3.723,0.097,14,reviewed,us,us
+2025-10-05T01:46:21.548Z,43.8544,-76.0231,5.772,1.6,ml,16,82,0.445,0.24,us,us6000revv,2025-10-05T22:00:36.193Z,"1 km WSW of Adams Center, New York",earthquake,1.54,3.723,0.097,14,reviewed,us,us
 2025-10-05T01:45:47.931Z,18.6235,119.6653,10,5,mb,43,139,4.378,0.97,us,us6000revn,2025-10-05T02:02:20.040Z,"97 km W of Davila, Philippines",earthquake,10.8,1.908,0.066,76,reviewed,us,us
 2025-10-05T01:44:20.567Z,43.8536,-76.018,5,1.5,ml,17,82,0.444,0.3,us,us6000revk,2025-10-05T14:17:28.573Z,"1 km SW of Adams Center, New York",earthquake,1.28,1.866,0.097,14,reviewed,us,us
 2025-10-05T01:41:27.290Z,18.9638,-67.812,66,3.72,md,24,210,0.7257,0.47,pr,pr2025278001,2025-10-05T02:17:03.946Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,3.52,5.23,0.08,19,reviewed,pr,pr
