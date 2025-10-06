@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-06T22:13:59.530Z,40.235500335693,-124.1190032959,16.719999313354,1.61,md,8,66,0.01112,0.06,nc,nc75245736,2025-10-06T22:15:37.121Z,"17 km SE of Petrolia, CA",earthquake,0.67,1.10000002,0.2,9,automatic,nc,nc
+2025-10-06T22:13:59.530Z,40.235500335693,-124.1190032959,16.719999313354,1.61,md,8,66,0.01112,0.06,nc,nc75245736,2025-10-06T22:32:20.098Z,"17 km SE of Petrolia, CA",earthquake,0.67,1.10000002,0.2,9,automatic,nc,nc
 2025-10-06T22:08:20.180Z,62.4061,-150.6361,66.6,1.6,ml,,,,0.4,ak,ak025cts34de,2025-10-06T22:10:24.404Z,"12 km SSE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-06T22:07:56.912Z,61.1309,-147.8647,6.2,1.5,ml,,,,1.1,ak,ak025cts2z6o,2025-10-06T22:10:30.844Z,"59 km NE of Whittier, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2025-10-06T22:05:32.200Z,36.023666381836,-119.860496521,11.939999580383,2.17,md,17,116,0.2292,0.13,nc,nc75245726,2025-10-06T22:12:19.969Z,"9 km E of Kettleman City, CA",earthquake,1.01,1.74000001,0.08,6,automatic,nc,nc
@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T21:36:43.215Z,-18.0053,-178.4766,588.621,4.3,mb,51,82,2.558,0.45,us,us6000rf6n,2025-10-06T22:16:35.040Z,"233 km E of Levuka, Fiji",earthquake,8.45,8.421,0.048,122,reviewed,us,us
 2025-10-06T21:36:37.170Z,38.782333374023,-122.76383209228,3.789999961853,0.71,md,9,95,0.01169,0.02,nc,nc75245721,2025-10-06T21:52:19.832Z,"1 km NW of The Geysers, CA",earthquake,0.41,1.24000001,0.06,8,automatic,nc,nc
 2025-10-06T21:34:53.743Z,28.746,-98.486,8.9279,2,ml,12,90,0,0.3,tx,tx2025tryunc,2025-10-06T21:39:21.799Z,"4 km SSE of Christine, Texas",earthquake,0,3.4442234039307,0.2,9,automatic,tx,tx
-2025-10-06T21:25:56.120Z,38.782665252685,-122.76333618164,3.670000076294,0.71,md,9,82,0.02081,0.02,nc,nc75245716,2025-10-06T21:42:17.763Z,"1 km NW of The Geysers, CA",earthquake,0.48,0.959999979,0.37,10,automatic,nc,nc
+2025-10-06T21:25:56.120Z,38.782665252685,-122.76333618164,3.670000076294,0.71,md,9,82,0.02081,0.02,nc,nc75245716,2025-10-06T22:27:17.057Z,"1 km NW of The Geysers, CA",earthquake,0.48,0.959999979,0.37,10,automatic,nc,nc
 2025-10-06T21:12:08.090Z,33.0313333,-116.2965,6.95,1.03,ml,42,39,0.07674,0.2,ci,ci41104111,2025-10-06T21:15:39.643Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.19,0.62,0.174,25,automatic,ci,ci
 2025-10-06T21:06:13.820Z,19.360833333333,-64.933,8.33,3.41,md,8,269,0.9814,0.03,pr,pr71497198,2025-10-06T22:09:07.040Z,"112 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.69,2.83,0.13620006134835,7,reviewed,pr,pr
 2025-10-06T20:56:15.223Z,57.6258,-155.3649,3,2.6,ml,,,,0.32,ak,ak025ctr6j5e,2025-10-06T21:03:23.040Z,"54 km W of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -65,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T16:50:51.960Z,19.0973,-64.7031,8,3.59,md,11,264,0.6772,0.44,pr,pr2025279001,2025-10-06T18:17:55.040Z,"85 km N of Cruz Bay, U.S. Virgin Islands",earthquake,6.67,10.98,0.15,8,reviewed,pr,pr
 2025-10-06T16:43:20.600Z,35.8631667,-117.693,7.19,1.13,ml,31,37,0.07988,0.18,ci,ci41103839,2025-10-06T17:37:11.796Z,"21 km ESE of Little Lake, CA",earthquake,0.21,0.57,0.168,19,reviewed,ci,ci
 2025-10-06T16:37:32.266Z,28.766,-98.497,9.503,1.5,mlv,11,94,0,0.4,tx,tx2025troygx,2025-10-06T22:14:08.357Z,"2 km S of Christine, Texas",earthquake,0,3.6690464019775,0.2,9,automatic,tx,tx
+2025-10-06T16:36:48.210Z,60.0485,-153.07666666667,-2.38,-0.28,ml,4,112,0.01104,0.12,av,av93808408,2025-10-06T22:24:50.050Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.56,2.41,0.61602351020508,4,reviewed,av,av
 2025-10-06T16:28:12.210Z,19.4189,-109.0228,10,4.2,mb,80,211,6.887,0.67,us,us6000rf59,2025-10-06T17:38:37.040Z,"Revilla Gigedo Islands region",earthquake,10.21,1.939,0.047,125,reviewed,us,us
 2025-10-06T16:20:08.180Z,34.3225,-116.8578333,6.79,1.42,ml,52,39,0.03578,0.14,ci,ci41103831,2025-10-06T16:31:07.710Z,"7 km N of Big Bear City, CA",earthquake,0.12,0.33,0.202,28,automatic,ci,ci
 2025-10-06T16:12:32.432Z,61.6373,-151.1966,0,1.2,ml,,,,0.96,ak,ak025ctojegh,2025-10-06T16:14:51.132Z,"37 km WNW of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -250,5 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T22:57:45.520Z,35.447666666667,-91.670333333333,7.01,2.14,md,11,186,0.1089,0.16,nm,nm60504253,2025-10-06T12:07:14.620Z,"12 km SSW of Pleasant Plains, Arkansas",earthquake,0.93,1.79,0.098363825859348,10,reviewed,nm,nm
 2025-10-05T22:45:08.652Z,36.5553,70.8743,174.919,4.2,mb,29,110,2.173,0.78,us,us6000rf04,2025-10-06T02:41:14.040Z,"34 km S of Jurm, Afghanistan",earthquake,8.58,8.753,0.187,8,reviewed,us,us
 2025-10-05T22:42:57.565Z,-33.3296,-70.2239,6.85,4.2,mb,31,57,0.107,0.99,us,us6000rf03,2025-10-06T20:29:28.585Z,"36 km ENE of Villa Presidente Frei, Chile",earthquake,1.83,2.301,0.2,7,reviewed,us,us
-2025-10-05T22:33:34.790Z,34.1711667,-116.8218333,6.81,0.96,ml,44,30,0.1222,0.17,ci,ci41103311,2025-10-05T22:38:51.080Z,"10 km SSE of Big Bear City, CA",earthquake,0.15,0.59,0.146,27,automatic,ci,ci
-2025-10-05T22:27:10.260Z,33.5325,-116.7233333,4.99,0.82,ml,46,27,0.03482,0.18,ci,ci41103303,2025-10-05T22:31:44.956Z,"5 km WSW of Anza, CA",earthquake,0.16,0.44,0.18,27,automatic,ci,ci
