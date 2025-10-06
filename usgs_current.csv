@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-06T06:46:16.890Z,40.735500335693,-123.2945022583,24.60000038147,2.55,md,27,42,0.1593,0.18,nc,nc75245446,2025-10-06T06:49:15.567Z,"22 km NNW of Hayfork, CA",earthquake,0.45,1.38,0.13,18,automatic,nc,nc
+2025-10-06T06:46:16.890Z,40.735500335693,-123.2945022583,24.60000038147,2.55,md,27,42,0.1593,0.18,nc,nc75245446,2025-10-06T06:57:17.400Z,"22 km NNW of Hayfork, CA",earthquake,0.45,1.38,0.13,18,automatic,nc,nc
 2025-10-06T06:45:20.901Z,36.7687,-116.2477,9.7,-0.2,ml,14,94.43,0.044,0.1059,nn,nn00905488,2025-10-06T06:47:12.201Z,"48 km ESE of Beatty, Nevada",earthquake,,0.8,0.26,5,automatic,nn,nn
 2025-10-06T06:37:39.340Z,36.7363,-116.2103,6,-0.4,ml,12,73.17,0.009,0.1912,nn,nn00905487,2025-10-06T06:39:32.133Z,"51 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.39,5,automatic,nn,nn
 2025-10-06T06:04:27.770Z,38.79666519165,-122.77333068848,2.9800000190735,1.12,md,20,74,0.01192,0.02,nc,nc75245441,2025-10-06T06:52:18.458Z,"3 km NW of The Geysers, CA",earthquake,0.29,0.600000024,0.27,20,automatic,nc,nc
@@ -212,7 +212,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T10:30:06.028Z,3.6309,127.9895,136.288,4.7,mb,93,53,2.733,0.84,us,us6000rexl,2025-10-05T11:16:19.040Z,"210 km N of Tobelo, Indonesia",earthquake,8.11,7.246,0.054,104,reviewed,us,us
 2025-10-05T10:26:59.784Z,-17.6268,-178.991,536.089,4.4,mb,110,141,1.94,0.69,us,us6000rexi,2025-10-05T10:47:39.040Z,"185 km ENE of Levuka, Fiji",earthquake,13.66,7.553,0.044,149,reviewed,us,us
 2025-10-05T10:25:23.120Z,33.1635,-116.4235,8.39,1.29,ml,73,20,0.08685,0.19,ci,ci41102863,2025-10-05T13:51:09.830Z,"11 km SSW of Borrego Springs, CA",earthquake,0.13,0.57,0.195,27,reviewed,ci,ci
-2025-10-05T10:12:10.988Z,31.844,-101.802,3.8254,1.4,mlv,29,55,0.1,0.4,tx,tx2025tpglgy,2025-10-05T11:55:39.520Z,"30 km W of Garden City, Texas",earthquake,0,1.031011223793,0.2,22,automatic,tx,tx
+2025-10-05T10:12:11.218Z,31.85,-101.791,8.8623,1.2,ml,30,85,0.1,0.2,tx,tx2025tpglgy,2025-10-06T06:57:44.524Z,"29 km W of Garden City, Texas",earthquake,0.65716815381319,1.1235628398715,0.1,15,reviewed,tx,tx
 2025-10-05T10:10:04.990Z,60.068166666667,-153.07866666667,-2.98,-0.57,ml,4,251,0.01322,0.17,av,av93806463,2025-10-05T20:40:43.260Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.84,1.21,0.48263905175299,4,reviewed,av,av
 2025-10-05T10:05:47.820Z,38.830665588379,-122.8125,2.079999923706,0.98,md,13,64,0.007503,0.01,nc,nc75245036,2025-10-05T10:32:18.877Z,"8 km NW of The Geysers, CA",earthquake,0.3,0.730000019,0.36,13,automatic,nc,nc
 2025-10-05T10:00:02.062Z,32.107,-101.913,8.9111,1.7,ml,63,37,0.1,0.1,tx,tx2025tpgawh,2025-10-05T11:36:10.003Z,"12 km WSW of Stanton, Texas",earthquake,0.26284333244004,0.5219159011695,0.2,42,reviewed,tx,tx
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T07:27:37.960Z,38.792667388916,-122.78033447266,3.2999999523163,1.25,md,17,79,0.005948,0.02,nc,nc75244996,2025-10-05T08:22:19.937Z,"3 km NW of The Geysers, CA",earthquake,0.32,0.629999995,0.18,16,automatic,nc,nc
 2025-10-05T07:08:23.420Z,58.298666666667,-155.00016666667,5.25,0.2,ml,7,145,0.03374,0.22,av,av93806293,2025-10-05T20:59:49.010Z,"87 km NNW of Karluk, Alaska",earthquake,0.52,1.12,0.44243192206325,7,reviewed,av,av
 2025-10-05T07:06:50.280Z,60.057666666667,-153.06716666667,0.75,-0.73,ml,4,187,0.001817,0.05,av,av93806288,2025-10-05T20:27:29.640Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.82,0.28,0.41541376751766,4,reviewed,av,av
-2025-10-05T06:59:02.910Z,62.9885,-150.4853,9.7,1.6,ml,,,,0.21,ak,ak025crvbqdv,2025-10-05T07:01:22.236Z,"56 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
