@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-06T11:53:42.991Z,32.369,-102.175,4.8519,1.2,ml,26,75,0,0.6,tx,tx2025trfnln,2025-10-06T11:56:13.271Z,"34 km ENE of McKinney Acres, Texas",earthquake,0,0.99081033468246,0.3,9,automatic,tx,tx
+2025-10-06T11:51:09.450Z,34.3193333,-116.853,5.53,1.35,ml,54,47,0.03558,0.15,ci,ci41103599,2025-10-06T12:02:04.560Z,"6 km N of Big Bear City, CA",earthquake,0.12,0.31,0.222,28,automatic,ci,ci
 2025-10-06T11:47:52.383Z,64.8134,-147.8371,14.4,2.4,ml,,,,0.68,ak,ak025ctlrs4m,2025-10-06T11:49:40.050Z,"2 km W of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-06T11:26:56.282Z,-22.3463,-179.554,599.741,4.4,mb,46,73,9.578,0.7,us,us6000rf2d,2025-10-06T11:49:48.040Z,"south of the Fiji Islands",earthquake,13.74,8.996,0.081,44,reviewed,us,us
 2025-10-06T11:18:08.290Z,35.9333333,-117.76,6.29,0.61,ml,10,127,0.04948,0.03,ci,ci41103583,2025-10-06T11:21:39.384Z,"13 km E of Little Lake, CA",earthquake,0.24,0.5,0.207,7,automatic,ci,ci
@@ -13,8 +15,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T10:13:59.165Z,43.9869,13.3497,10,4.9,mb,62,31,0.939,1,us,us6000rf24,2025-10-06T11:36:00.040Z,"29 km NE of Ponte Sasso, Italy",earthquake,4.51,1.901,0.048,136,reviewed,us,us
 2025-10-06T10:12:09.600Z,35.8625,-117.6905,6.78,1.95,ml,35,37,0.0888,0.18,ci,ci41103527,2025-10-06T10:22:25.600Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.48,0.194,25,automatic,ci,ci
 2025-10-06T09:47:32.768Z,63.4646,-147.5112,0,1.5,ml,,,,0.89,ak,ak025ctkkvek,2025-10-06T10:16:38.763Z,"72 km E of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-06T09:40:10.045Z,31.578,-103.937,3.9109,1.5,ml,31,74,0,0.4,tx,tx2025trbcpu,2025-10-06T09:44:38.871Z,"32 km NNW of Toyah, Texas",earthquake,0,1.0627385377884,0.2,18,automatic,tx,tx
-2025-10-06T09:40:10.045Z,31.578,-103.937,3.9109,1.5,ml,31,74,0,0.4,tx,tx2025trbbkp,2025-10-06T10:05:36.106Z,"32 km NNW of Toyah, Texas",earthquake,0,1.0627385377884,0.2,18,automatic,tx,tx
 2025-10-06T09:26:43.752Z,61.8633,-149.9851,32.7,1.6,ml,,,,0.58,ak,ak025ctkge7r,2025-10-06T09:28:58.067Z,"13 km NNE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-06T09:24:49.564Z,38.4557,-116.5294,0,1.6,ml,9,225.89,1.037,0.2708,nn,nn00905489,2025-10-06T09:27:42.380Z,"74 km NE of Tonopah, Nevada",earthquake,,7,0.25,3,automatic,nn,nn
 2025-10-06T09:21:00.780Z,38.826168060303,-122.78733062744,1.6799999475479,0.76,md,15,59,0.01245,0.01,nc,nc75245471,2025-10-06T10:07:20.776Z,"6 km W of Cobb, CA",earthquake,0.26,0.550000012,0.14,15,automatic,nc,nc
@@ -220,7 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T12:25:48.650Z,17.922833333333,-66.804666666667,9.25,2.51,md,17,185,0.0781,0.09,pr,pr71497058,2025-10-05T12:48:51.720Z,"8 km S of Indios, Puerto Rico",earthquake,0.35,0.43,0.15655157066031,9,reviewed,pr,pr
 2025-10-05T12:12:39.390Z,34.3208333,-116.8551667,6.49,1.06,ml,47,39,0.03552,0.14,ci,ci41102983,2025-10-05T13:47:43.280Z,"7 km N of Big Bear City, CA",earthquake,0.13,0.37,0.156,27,reviewed,ci,ci
 2025-10-05T12:08:35.750Z,34.3191667,-116.8553333,5.39,1.19,ml,51,47,0.03689,0.15,ci,ci41102975,2025-10-05T13:48:46.600Z,"6 km N of Big Bear City, CA",earthquake,0.14,0.33,0.23,28,reviewed,ci,ci
-2025-10-05T12:01:22.344Z,71.2917,-7.9274,10,4.8,mb,123,57,4.678,0.92,us,us6000rey4,2025-10-05T12:22:41.040Z,"50 km NE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,8.38,1.882,0.038,217,reviewed,us,us
-2025-10-05T11:57:04.740Z,18.805666666667,-66.690833333333,90.97,3.01,md,16,252,0.4605,0.19,pr,pr71497053,2025-10-05T12:16:05.490Z,"36 km N of Arecibo, Puerto Rico",earthquake,1.58,1.31,0.068799539238324,10,reviewed,pr,pr
-2025-10-05T11:55:48.630Z,35.353,-117.7881667,6.41,1.58,ml,48,37,0.09754,0.15,ci,ci41102967,2025-10-05T13:47:50.470Z,"14 km W of Johannesburg, CA",earthquake,0.14,0.44,0.175,25,reviewed,ci,ci
-2025-10-05T11:52:34.490Z,32.2275,-116.518,14.37,1.49,ml,22,104,0.15,0.18,ci,ci41102959,2025-10-05T18:34:50.126Z,"38 km E of Primo Tapia, B.C., MX",earthquake,0.34,0.69,0.151,6,reviewed,ci,ci
