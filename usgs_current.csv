@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-07T14:13:47.300Z,38.821998596191,-122.81199645996,3.0099999904633,1.08,md,18,48,0.01803,0.02,nc,nc75246091,2025-10-07T14:15:21.093Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.579999983,0.12,20,automatic,nc,nc
+2025-10-07T14:24:23.690Z,35.3118333,-118.5558333,7.14,1.24,ml,29,76,0.1123,0.13,ci,ci41104583,2025-10-07T14:27:47.475Z,"22 km NNW of Tehachapi, CA",earthquake,0.16,0.48,0.241,28,automatic,ci,ci
+2025-10-07T14:20:34.730Z,17.8805,-66.851166666667,13.75,2.48,md,9,208,0.09284,0.18,pr,pr71497388,2025-10-07T14:34:28.870Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.97,0.46,0.15914383435896,5,reviewed,pr,pr
+2025-10-07T14:13:47.300Z,38.821998596191,-122.81199645996,3.0099999904633,1.08,md,18,48,0.01803,0.02,nc,nc75246091,2025-10-07T14:32:18.021Z,"7 km NW of The Geysers, CA",earthquake,0.28,0.579999983,0.12,20,automatic,nc,nc
 2025-10-07T13:42:09.959Z,60.3969,-151.0074,41.1,1.5,ml,,,,0.62,ak,ak025cvagtz7,2025-10-07T13:44:17.307Z,"10 km SSE of Soldotna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-10-07T13:34:15.660Z,34.3236667,-116.8581667,6.11,1.9,ml,75,39,0.03516,0.14,ci,ci41104535,2025-10-07T13:45:10.290Z,"7 km N of Big Bear City, CA",earthquake,0.1,0.28,0.175,26,automatic,ci,ci
 2025-10-07T13:31:23.130Z,34.2465,-117.0338333,1.13,1.33,ml,58,26,0.02569,0.18,ci,ci41104527,2025-10-07T13:34:52.347Z,"8 km ENE of Running Springs, CA",earthquake,0.13,0.21,0.172,28,automatic,ci,ci
@@ -14,7 +16,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T12:51:36.240Z,37.5448,-116.2794,0.6,2.1,ml,18,296.09,0.336,0.3676,nn,nn00905574,2025-10-07T12:54:12.005Z,"48 km WSW of Rachel, Nevada",earthquake,,9.9,0.21,16,automatic,nn,nn
 2025-10-07T12:38:57.610Z,37.413833618164,-121.76216888428,6.8400001525879,1.85,md,40,33,0.04747,0.06,nc,nc75246056,2025-10-07T13:07:18.415Z,"8 km NE of Alum Rock, CA",earthquake,0.14,0.529999971,0.17,32,automatic,nc,nc
 2025-10-07T12:37:52.350Z,33.2686667,-116.4191667,4.81,0.71,ml,44,60,0.001744,0.17,ci,ci41104487,2025-10-07T13:34:53.347Z,"4 km WNW of Borrego Springs, CA",earthquake,0.15,0.28,0.099,17,reviewed,ci,ci
-2025-10-07T12:37:17.740Z,37.414501190185,-121.76333618164,7.6500000953674,2.68,md,77,32,0.04636,0.08,nc,nc75246051,2025-10-07T14:04:43.583Z,"8 km NE of Alum Rock, CA",earthquake,0.12,0.469999999,0.12,95,automatic,nc,nc
+2025-10-07T12:37:17.740Z,37.414501190185,-121.76333618164,7.6500000953674,2.68,md,77,32,0.04636,0.08,nc,nc75246051,2025-10-07T14:33:03.383Z,"8 km NE of Alum Rock, CA",earthquake,0.12,0.469999999,0.12,95,automatic,nc,nc
+2025-10-07T12:35:25.638Z,32.189,-100.994,7.2998,1.8,ml,28,55,0.3,0.2,tx,tx2025ttcqno,2025-10-07T14:31:30.286Z,"18 km S of Westbrook, Texas",earthquake,0.76362961916984,2.2226951670954,0.2,11,reviewed,tx,tx
 2025-10-07T12:12:17.930Z,37.466167449951,-118.63166809082,12.510000228882,1.45,md,17,113,0.156,0.06,nc,nc75246041,2025-10-07T13:57:16.766Z,"6 km NNW of Round Valley, CA",earthquake,0.68,2.73000002,0.14,12,automatic,nc,nc
 2025-10-07T12:11:20.431Z,28.749,-98.479,12.0708,1.5,ml,5,154,0,0,tx,tx2025ttbvtv,2025-10-07T13:00:22.219Z,"4 km SSE of Christine, Texas",earthquake,0,9.6187086105347,0.2,5,automatic,tx,tx
 2025-10-07T11:55:14.970Z,35.3105,-118.551,5.22,2.38,ml,58,24,0.1082,0.19,ci,ci41104479,2025-10-07T12:05:58.070Z,"22 km NNW of Tehachapi, CA",earthquake,0.15,0.64,0.138,25,automatic,ci,ci
@@ -225,7 +228,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T20:07:40.980Z,33.0346667,-116.2968333,5.98,0.78,ml,28,39,0.08004,0.2,ci,ci41104047,2025-10-06T20:11:05.705Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.25,1.11,0.156,10,automatic,ci,ci
 2025-10-06T20:02:43.141Z,27.2131,140.2644,442.455,4.1,mb,42,94,1.715,0.99,us,us6000rf64,2025-10-06T20:17:41.040Z,"Bonin Islands, Japan region",earthquake,8.92,9.428,0.069,58,reviewed,us,us
 2025-10-06T19:59:38.940Z,51.578,159.4889,11.663,4.9,mb,79,134,1.537,0.64,us,us6000rf65,2025-10-06T20:25:17.040Z,"167 km SSE of Vilyuchinsk, Russia",earthquake,9.93,3.778,0.051,121,reviewed,us,us
-2025-10-06T19:55:41.334Z,28.755,-98.475,11.1397,1.2,mlv,9,124,0,0.2,tx,tx2025trvmyy,2025-10-06T22:14:54.845Z,"4 km SSE of Christine, Texas",earthquake,0,6.3851861953735,0.1,6,automatic,tx,tx
+2025-10-06T19:55:40.888Z,28.755,-98.456,8.842,1.4,ml,14,76,0.1,0.1,tx,tx2025trvmyy,2025-10-07T14:26:27.243Z,"5 km SE of Christine, Texas",earthquake,0.97052737292156,0.82292231668333,0.1,8,reviewed,tx,tx
 2025-10-06T19:55:10.180Z,33.5118333,-116.6818333,11.82,0.68,ml,18,68,0.06109,0.1,ci,ci41104031,2025-10-06T19:58:43.264Z,"5 km S of Anza, CA",earthquake,0.23,0.31,0.189,17,automatic,ci,ci
 2025-10-06T19:53:11.430Z,61.9415,-144.0335,8.07,0.44,ml,5,191,0.06811,0.08,av,av93050594,2025-10-06T23:50:03.440Z,"52 km NNE of Chitina, Alaska",earthquake,0.67,0.59,0.29302789934639,6,reviewed,av,av
 2025-10-06T19:48:24.800Z,19.293666666667,-64.949833333333,33.34,3.3,md,7,264,0.9232,0.23,pr,pr71497193,2025-10-06T20:38:43.000Z,"105 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,2.97,18.64,0.011790824973509,3,reviewed,pr,pr
@@ -299,4 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T14:40:52.960Z,58.188,-155.28866666667,0.08,0.25,ml,7,147,0.03086,0.13,av,av93050579,2025-10-06T21:34:20.930Z,"84 km NW of Karluk, Alaska",earthquake,0.29,0.86,0.20632436110853,7,reviewed,av,av
 2025-10-06T14:38:54.720Z,33.6428333,-116.7488333,14.87,0.72,ml,23,87,0.06777,0.14,ci,ci41103711,2025-10-06T20:32:08.419Z,"11 km SSW of Idyllwild, CA",earthquake,0.24,0.46,0.171,16,reviewed,ci,ci
 2025-10-06T14:38:35.990Z,33.2663333,-116.4101667,5.38,0.33,ml,11,78,0.006148,0.11,ci,ci37745484,2025-10-06T20:35:47.350Z,"4 km WNW of Borrego Springs, CA",earthquake,0.26,0.4,0.077,11,reviewed,ci,ci
-2025-10-06T14:29:43.990Z,44.4335,-115.20966666667,9.12,1.94,ml,16,60,0.4184,0.13,mb,mb90115763,2025-10-06T18:22:23.360Z,"32 km NW of Stanley, Idaho",earthquake,0.34,0.82,0.13518967564422,20,reviewed,mb,mb
