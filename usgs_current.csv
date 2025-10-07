@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T22:54:23.151Z,59.4046,-152.7122,71.5,1.8,ml,,,,0.72,ak,ak025cvfwc12,2025-10-07T23:02:37.425Z,"45 km W of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-07T22:48:21.700Z,58.22,-150.7654,37.4,3.3,ml,,,,0.58,ak,ak025cvfv0jx,2025-10-07T22:57:46.482Z,"107 km ENE of Ouzinkie, Alaska",earthquake,,7.5,,,automatic,ak,ak
 2025-10-07T22:44:46.720Z,33.74,-117.5316667,4.04,0.87,ml,25,50,0.08485,0.19,ci,ci41104911,2025-10-07T22:48:09.340Z,"10 km NNE of Trabuco Canyon, CA",earthquake,0.24,0.66,0.214,21,automatic,ci,ci
-2025-10-07T22:36:22.098Z,-15.6589,168.0918,35,5.7,mww,97,22,6.063,1.05,us,us6000rfhk,2025-10-07T23:09:10.004Z,"86 km ENE of Norsup, Vanuatu",earthquake,7.38,1.681,0.052,36,reviewed,us,us
+2025-10-07T22:36:22.098Z,-15.6589,168.0918,35,5.7,mww,97,22,6.063,1.05,us,us6000rfhk,2025-10-07T23:35:16.040Z,"86 km ENE of Norsup, Vanuatu",earthquake,7.38,1.681,0.052,36,reviewed,us,us
 2025-10-07T22:34:41.820Z,38.821998596191,-122.81283569336,2.960000038147,0.88,md,10,68,0.01737,0.01,nc,nc75246311,2025-10-07T22:52:17.601Z,"7 km NW of The Geysers, CA",earthquake,0.39,0.879999995,0.26,9,automatic,nc,nc
 2025-10-07T22:23:35.331Z,38.1811,-116.6772,16,1.9,ml,14,226.48,0.994,0.3025,nn,nn00905599,2025-10-07T22:26:26.869Z,"50 km ENE of Tonopah, Nevada",earthquake,,1.3,0.28,10,automatic,nn,nn
 2025-10-07T22:17:57.765Z,28.759,-98.455,8.4067,1.6,ml,9,76,0,0.2,tx,tx2025ttvyni,2025-10-07T23:00:10.159Z,"5 km SE of Christine, Texas",earthquake,0,5.9200229644775,0.2,6,automatic,tx,tx
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T18:39:07.440Z,44.828833333333,-110.40833333333,10.47,1.17,ml,13,106,0.08457,0.21,uu,uu80118921,2025-10-07T18:57:33.620Z,"28 km SE of Mammoth, Wyoming",earthquake,0.58,1.4,0.4462110689287,4,reviewed,uu,uu
 2025-10-07T18:35:01.930Z,33.1628333,-116.4205,9.42,1.52,ml,65,28,0.08658,0.18,ci,ci41104759,2025-10-07T19:02:52.069Z,"11 km SSW of Borrego Springs, CA",earthquake,0.15,0.47,0.181,56,reviewed,ci,ci
 2025-10-07T18:34:00.230Z,36.0101667,-117.8065,1.71,1.11,ml,24,53,0.02768,0.13,ci,ci41104751,2025-10-07T18:48:10.661Z,"12 km NE of Little Lake, CA",earthquake,0.16,0.17,0.258,20,reviewed,ci,ci
-2025-10-07T18:27:23.606Z,38.4252,-116.4621,12.4,1.8,ml,10,205.8,1.219,0.1872,nn,nn00905591,2025-10-07T18:30:23.433Z,"78 km ENE of Tonopah, Nevada",earthquake,,1.3,0.45,5,automatic,nn,nn
+2025-10-07T18:27:22.445Z,38.455,-116.487,6.1,1.8,ml,7,140.34,0.507,0.2304,nn,nn00905591,2025-10-07T23:34:13.230Z,"77 km ENE of Tonopah, Nevada",earthquake,,6.5,0.34,4,reviewed,nn,nn
 2025-10-07T18:22:15.018Z,28.747,-98.47,7.8023,1.2,mlv,11,56,0,0.5,tx,tx2025ttodih,2025-10-07T22:14:43.317Z,"5 km SSE of Christine, Texas",earthquake,0,3.1606919765472,0.2,9,automatic,tx,tx
 2025-10-07T18:13:24.650Z,33.7333333,-116.757,17.66,0.83,ml,15,266,0.09456,0.15,ci,ci41104735,2025-10-07T18:16:54.926Z,"4 km WSW of Idyllwild, CA",earthquake,1.2,0.62,0.233,13,automatic,ci,ci
 2025-10-07T18:10:54.385Z,28.759,-98.545,13.5715,1.6,ml,8,121,0.1,0.4,tx,tx2025ttntps,2025-10-07T18:12:47.547Z,"5 km SW of Christine, Texas",earthquake,0,5.6469440460205,0.1,6,automatic,tx,tx
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T12:51:19.993Z,38.4647,-116.4966,5.9,2.6,ml,7,64.75,0.504,0.1384,nn,nn00905574,2025-10-07T17:00:55.061Z,"77 km NE of Tonopah, Nevada",earthquake,,4.9,0.35,3,reviewed,nn,nn
 2025-10-07T12:38:57.610Z,37.413833618164,-121.76216888428,6.8400001525879,1.85,md,40,33,0.04747,0.06,nc,nc75246056,2025-10-07T15:41:47.935Z,"8 km NE of Alum Rock, CA",earthquake,0.14,0.529999971,0.17,32,automatic,nc,nc
 2025-10-07T12:37:52.350Z,33.2686667,-116.4191667,4.81,0.71,ml,44,60,0.001744,0.17,ci,ci41104487,2025-10-07T13:34:53.347Z,"4 km WNW of Borrego Springs, CA",earthquake,0.15,0.28,0.099,17,reviewed,ci,ci
-2025-10-07T12:37:17.740Z,37.414501190185,-121.76333618164,7.6500000953674,2.68,md,77,32,0.04636,0.08,nc,nc75246051,2025-10-07T23:06:12.584Z,"8 km NE of Alum Rock, CA",earthquake,0.12,0.469999999,0.12,95,automatic,nc,nc
+2025-10-07T12:37:17.740Z,37.414501190185,-121.76333618164,7.6500000953674,2.68,md,77,32,0.04636,0.08,nc,nc75246051,2025-10-07T23:36:47.955Z,"8 km NE of Alum Rock, CA",earthquake,0.12,0.469999999,0.12,95,automatic,nc,nc
 2025-10-07T12:35:25.638Z,32.189,-100.994,7.2998,1.8,ml,28,55,0.3,0.2,tx,tx2025ttcqno,2025-10-07T14:31:30.286Z,"18 km S of Westbrook, Texas",earthquake,0.76362961916984,2.2226951670954,0.2,11,reviewed,tx,tx
 2025-10-07T12:18:38.620Z,48.971166666667,-122.495,9.76,0.97,ml,8,219,0.1911,0.08,uw,uw62190427,2025-10-07T16:24:30.590Z,"4 km NW of Lynden, Washington",earthquake,0.52,2.15,0.14233499929523,6,reviewed,uw,uw
 2025-10-07T12:12:17.930Z,37.466167449951,-118.63166809082,12.510000228882,1.45,md,17,113,0.156,0.06,nc,nc75246041,2025-10-07T13:57:16.766Z,"6 km NNW of Round Valley, CA",earthquake,0.68,2.73000002,0.14,12,automatic,nc,nc
@@ -136,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T11:14:59.834Z,38.4402,-116.4902,10,1.8,ml,6,74.74,0.499,0.1402,nn,nn00905558,2025-10-07T22:44:58.827Z,"76 km ENE of Tonopah, Nevada",earthquake,,4.7,0.11,3,reviewed,nn,nn
 2025-10-07T11:05:17.504Z,-6.7837,146.767,99.435,6.6,mww,66,38,4.747,0.9,us,us6000rfb2,2025-10-07T23:23:35.753Z,"26 km WSW of Lae, Papua New Guinea",earthquake,8.25,6.985,0.039,62,reviewed,us,us
 2025-10-07T11:04:49.950Z,38.79700088501,-122.74849700928,2.0199999809265,1.09,md,11,97,0.01654,0.02,nc,nc75246001,2025-10-07T11:37:20.779Z,"2 km NNE of The Geysers, CA",earthquake,0.32,0.769999981,0.15,13,automatic,nc,nc
+2025-10-07T11:01:42.090Z,61.331666666667,-152.23733333333,0.25,-0.68,ml,7,191,0.0773,0.04,av,av93809498,2025-10-07T23:33:37.390Z,"65 km WNW of Beluga, Alaska",earthquake,0.33,2.03,0.12908057341497,7,reviewed,av,av
 2025-10-07T10:54:56.420Z,61.327666666667,-152.2435,-0.98,0.11,ml,10,127,0.07551,0.08,av,av93050619,2025-10-07T23:27:24.610Z,"65 km WNW of Beluga, Alaska",earthquake,0.22,4.47,0.17965795983554,11,reviewed,av,av
 2025-10-07T10:53:09.080Z,34.792,-118.909,13.94,0.99,ml,30,60,0.03735,0.16,ci,ci41104439,2025-10-07T17:16:33.141Z,"5 km SE of Frazier Park, CA",earthquake,0.22,0.36,0.144,23,reviewed,ci,ci
 2025-10-07T10:48:30.302Z,31.643,-104.431,6.0999,1.6,ml,19,84,0,0.2,tx,tx2025tszckd,2025-10-07T12:04:30.623Z,"59 km S of Whites City, New Mexico",earthquake,1.3310025622787,0.68132487201752,0.1,7,reviewed,tx,tx
@@ -298,7 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-06T23:49:22.051Z,28.758,-98.459,8.8314,1.7,ml,18,55,0,0.1,tx,tx2025tsdgjs,2025-10-07T09:18:36.349Z,"5 km SE of Christine, Texas",earthquake,0.61828170322587,0.59391584952544,0.1,6,reviewed,tx,tx
 2025-10-06T23:44:45.817Z,28.759,-98.453,8.8984,1.3,ml,13,75,0.1,0.1,tx,tx2025tsdcle,2025-10-07T13:36:13.886Z,"5 km SE of Christine, Texas",earthquake,0.66968401450496,0.92954718534211,0.2,10,reviewed,tx,tx
 2025-10-06T23:43:12.174Z,28.748,-98.457,8.7958,1.5,ml,13,76,0.1,0.2,tx,tx2025tsdbak,2025-10-07T12:41:02.868Z,"6 km SE of Christine, Texas",earthquake,1.0488816147465,1.0461855494986,0.2,7,reviewed,tx,tx
-2025-10-06T23:36:47.080Z,19.278999328613,-155.37182617188,30.540000915527,2.58,ml,57,122,0.04788,0.219999999,hv,hv74795497,2025-10-07T00:35:35.040Z,"14 km NE of Pāhala, Hawaii",earthquake,0.5,0.620000005,0.45,41,automatic,hv,hv
-2025-10-06T23:35:41.580Z,35.8716667,-117.6866667,8.71,0.67,ml,19,55,0.08158,0.16,ci,ci41104199,2025-10-07T16:28:45.964Z,"21 km ESE of Little Lake, CA",earthquake,0.26,0.63,0.086,7,reviewed,ci,ci
-2025-10-06T23:35:37.050Z,35.8748333,-117.6773333,12.49,-0.14,ml,5,116,0.07612,0.12,ci,ci37745596,2025-10-07T16:28:15.814Z,"22 km ESE of Little Lake, CA",earthquake,0.52,1.4,0.124,5,reviewed,ci,ci
-2025-10-06T23:34:52.349Z,28.761,-98.459,8.758,1.9,ml,20,53,0,0.1,tx,tx2025tsctwb,2025-10-07T08:11:46.578Z,"4 km SE of Christine, Texas",earthquake,0.5915561754096,0.68676292377649,0.1,13,reviewed,tx,tx
