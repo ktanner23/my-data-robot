@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T06:09:07.990Z,36.8251667,-118.3445,1.11,1.85,ml,17,105,0.1152,0.17,ci,ci41105015,2025-10-08T06:14:47.960Z,"13 km W of Independence, CA",earthquake,0.31,0.79,0.202,25,automatic,ci,ci
 2025-10-08T06:04:48.177Z,38.5432,-119.5257,2.9,0.9,ml,9,196.65,0.079,0.1085,nn,nn00905626,2025-10-08T06:07:36.896Z,"3 km SSW of Coleville, California",earthquake,,1.3,0.21,7,automatic,nn,nn
 2025-10-08T05:58:05.663Z,57.1138,-156.7829,0,2.5,ml,,,,0.77,ak,ak025cwtc4ra,2025-10-08T06:00:22.024Z,"57 km SE of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-08T05:57:32.360Z,37.592666625977,-122.46183013916,9.0500001907349,1.03,md,9,123,0.03264,0.02,nc,nc75246406,2025-10-08T06:17:22.874Z,"3 km SE of Pacifica, CA",earthquake,0.75,0.839999974,0.05,5,automatic,nc,nc
+2025-10-08T05:57:32.360Z,37.592666625977,-122.46183013916,9.0500001907349,1.03,md,9,123,0.03264,0.02,nc,nc75246406,2025-10-08T06:32:19.978Z,"3 km SE of Pacifica, CA",earthquake,0.75,0.839999974,0.05,5,automatic,nc,nc
 2025-10-08T05:51:20.679Z,59.8738,-153.2202,124,2,ml,,,,0.83,ak,ak025cwtanwk,2025-10-08T05:54:50.039Z,"50 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-08T05:44:48.878Z,60.4827,-150.9132,54.6,1.5,ml,,,,0.91,ak,ak025cwt982f,2025-10-08T05:46:37.323Z,"7 km E of Soldotna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-08T05:33:39.690Z,33.209,-116.7278333,10.91,0.43,ml,29,35,0.03736,0.18,ci,ci41105007,2025-10-08T05:37:27.726Z,"5 km SE of Lake Henshaw, CA",earthquake,0.23,0.44,0.107,5,automatic,ci,ci
@@ -50,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T01:39:16.794Z,28.748,-98.479,6.8574,1.8,ml,14,86,0,0.4,tx,tx2025tucqao,2025-10-08T02:00:50.100Z,"4 km SSE of Christine, Texas",earthquake,0,2.5814821720123,0.2,9,automatic,tx,tx
 2025-10-08T01:32:15.000Z,17.9935,-67.098,9.51,2.34,md,8,206,0.01693,0.06,pr,pr71497453,2025-10-08T01:42:12.160Z,"5 km SSW of Palmarejo, Puerto Rico",earthquake,0.58,0.43,0.1089151396456,4,reviewed,pr,pr
 2025-10-08T01:30:52.897Z,28.749,-98.462,10.4527,1.6,ml,8,89,0.1,0.2,tx,tx2025tucitn,2025-10-08T02:00:46.097Z,"5 km SE of Christine, Texas",earthquake,0,6.2071404457092,0.1,6,automatic,tx,tx
-2025-10-08T01:11:43.816Z,31.721,-104.296,4.6552,2,ml,32,81,0,0.4,tx,tx2025tubsgi,2025-10-08T02:01:45.591Z,"50 km S of Whites City, New Mexico",earthquake,0,0.98916286230087,0.2,23,automatic,tx,tx
+2025-10-08T01:11:43.877Z,31.719,-104.294,5.6897,2,ml,42,62,0.1,0.2,tx,tx2025tubsgi,2025-10-08T06:41:29.314Z,"51 km S of Whites City, New Mexico",earthquake,0.64778735420889,0.65669136997394,0.1,29,reviewed,tx,tx
 2025-10-08T01:04:48.433Z,38.602,-118.1677,4.2,1.2,ml,8,101.25,0.439,0.2641,nn,nn00905612,2025-10-08T01:07:35.436Z,"24 km NNW of Mina, Nevada",earthquake,,1.6,0.43,3,automatic,nn,nn
 2025-10-08T01:04:05.540Z,17.810333333333,-66.851166666667,11.18,2.49,md,15,233,0.162,0.14,pr,pr71497443,2025-10-08T01:17:28.230Z,"18 km SSE of Guánica, Puerto Rico",earthquake,0.51,0.44,0.096850131955273,7,reviewed,pr,pr
 2025-10-08T00:55:00.384Z,31.69,-104.099,0.2445,1.2,ml,19,88,0,0.9,tx,tx2025tubdkp,2025-10-08T02:01:31.586Z,"47 km W of Mentone, Texas",earthquake,0,1.4307327270508,0.4,7,automatic,tx,tx
@@ -273,5 +273,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-07T06:54:54.454Z,63.3999,-151.0532,0,1.3,ml,,,,0.57,ak,ak025cv6dgrp,2025-10-07T06:56:51.666Z,"36 km ESE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-07T06:45:58.497Z,28.745,-98.462,8.7352,1.1,ml,10,79,0.1,0.1,tx,tx2025tsrbix,2025-10-07T16:49:52.963Z,"5 km SE of Christine, Texas",earthquake,0.81879703762766,0.76638240987157,0.1,6,reviewed,tx,tx
 2025-10-07T06:44:40.120Z,36.1581667,-117.7736667,2.67,1.02,ml,14,55,0.0772,0.23,ci,ci41104335,2025-10-07T06:51:12.571Z,"20 km NE of Coso Junction, CA",earthquake,0.42,1.44,0.234,16,automatic,ci,ci
-2025-10-07T06:33:37.188Z,28.764,-98.456,8.492,1.4,ml,18,53,0,0.2,tx,tx2025tsqqtp,2025-10-07T11:42:23.493Z,"4 km SE of Christine, Texas",earthquake,0.55477440124836,0.66582837413272,0.2,7,reviewed,tx,tx
-2025-10-07T06:32:34.541Z,28.752,-98.464,8.4059,1.6,ml,25,48,0,0.2,tx,tx2025tsqpwa,2025-10-07T11:50:06.071Z,"5 km SE of Christine, Texas",earthquake,0.49647474977657,0.69997083885105,0.1,15,reviewed,tx,tx
