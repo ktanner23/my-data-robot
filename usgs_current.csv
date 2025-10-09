@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-09T09:32:32.600Z,32.948,-115.4496667,5.16,2.34,ml,42,41,0.08669,0.29,ci,ci41105655,2025-10-09T09:36:11.157Z,"8 km ESE of Brawley, CA",earthquake,0.28,0.82,0.237,27,automatic,ci,ci
-2025-10-09T09:24:17.609Z,61.6103,-149.8887,38.1,3.7,ml,,,,0.78,ak,ak025cyj1y8u,2025-10-09T09:41:28.989Z,"4 km WSW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2025-10-09T09:40:15.350Z,63.1157,-151.6669,18.8,1.7,ml,,,,1.16,ak,ak025cyj5dix,2025-10-09T09:42:39.026Z,"47 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-10-09T09:32:32.600Z,32.948,-115.4496667,5.16,2.34,ml,42,41,0.08669,0.29,ci,ci41105655,2025-10-09T09:43:28.790Z,"8 km ESE of Brawley, CA",earthquake,0.28,0.82,0.237,27,automatic,ci,ci
+2025-10-09T09:24:17.609Z,61.6103,-149.8887,38.1,3.7,ml,,,,0.78,ak,ak025cyj1y8u,2025-10-09T09:48:56.466Z,"4 km WSW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2025-10-09T09:18:57.270Z,38.802165985107,-122.78182983398,2.9700000286102,1.07,md,13,114,0.01016,0.03,nc,nc75246886,2025-10-09T09:37:16.624Z,"4 km NW of The Geysers, CA",earthquake,0.4,0.720000029,0.35,17,automatic,nc,nc
 2025-10-09T08:37:34.400Z,33.8476667,-117.7685,9.32,1.22,ml,44,54,0.02596,0.2,ci,ci41105647,2025-10-09T08:41:08.832Z,"6 km NE of Villa Park, CA",earthquake,0.22,0.42,0.343,35,automatic,ci,ci
 2025-10-09T08:36:30.840Z,19.060833333333,-65.374166666667,72.97,3.38,md,11,238,0.9573,0.38,pr,pr71497578,2025-10-09T08:55:11.980Z,"84 km N of Culebra, Puerto Rico",earthquake,3.71,6.41,0.083542501626589,8,reviewed,pr,pr
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-09T01:23:40.990Z,38.83716583252,-122.78900146484,1.7799999713898,0.78,md,12,79,0.01124,0.02,nc,nc75246816,2025-10-09T01:57:18.410Z,"6 km WNW of Cobb, CA",earthquake,0.32,0.99000001,0.16,13,automatic,nc,nc
 2025-10-09T01:18:21.850Z,19.395666666667,-154.96033333333,6.49,1.68,ml,30,135,0.008386,0.24,hv,hv74798827,2025-10-09T02:46:19.100Z,"9 km SSW of Leilani Estates, Hawaii",earthquake,1.12,0.72,0.23084312384958,22,reviewed,hv,hv
 2025-10-09T01:17:30.530Z,28.677,-98.224,9.7857,1.7,mlv,12,63,0.1,0.3,tx,tx2025tvxqcj,2025-10-09T02:51:15.106Z,"21 km W of Pawnee, Texas",earthquake,0,4.5647988319397,0.1,9,automatic,tx,tx
-2025-10-09T00:56:58.820Z,47.567833333333,-123.2985,44.99,2.8,ml,58,42,0.1443,0.16,uw,uw62191312,2025-10-09T04:48:08.752Z,"21 km NNW of Hoodsport, Washington",earthquake,0.24,0.51,0.18632216149281,95,reviewed,uw,uw
+2025-10-09T00:56:58.820Z,47.567833333333,-123.2985,44.99,2.8,ml,58,42,0.1443,0.16,uw,uw62191312,2025-10-09T09:43:32.714Z,"21 km NNW of Hoodsport, Washington",earthquake,0.24,0.51,0.18632216149281,95,reviewed,uw,uw
 2025-10-09T00:41:05.630Z,33.881,-117.797,8.08,2.24,ml,114,20,0.04716,0.2,ci,ci41105527,2025-10-09T01:06:03.474Z,"2 km ESE of Yorba Linda, CA",earthquake,0.12,0.34,0.249,27,automatic,ci,ci
 2025-10-09T00:37:12.103Z,31.601,-104.19,6.0999,1.7,ml,39,67,0.1,0.2,tx,tx2025tvwhjp,2025-10-09T08:07:08.110Z,"49 km NW of Toyah, Texas",earthquake,0.54445071693786,0.53768625534996,0.1,22,reviewed,tx,tx
 2025-10-09T00:27:07.763Z,-19.3493,168.7851,27.756,4.6,mb,17,239,3.48,0.73,us,us6000rfqj,2025-10-09T00:51:19.040Z,"56 km WNW of Isangel, Vanuatu",earthquake,8.7,7.949,0.152,13,reviewed,us,us
@@ -120,8 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T18:30:10.920Z,38.807167053223,-122.81866455078,3.1600000858307,0.74,md,14,79,0.008388,0.02,nc,nc75246661,2025-10-08T19:32:18.590Z,"6 km WNW of The Geysers, CA",earthquake,0.37,0.639999986,0.11,16,automatic,nc,nc
 2025-10-08T18:27:19.180Z,35.9481667,-117.6675,3.26,0.78,ml,21,51,0.01389,0.13,ci,ci41105287,2025-10-08T18:31:00.714Z,"22 km E of Little Lake, CA",earthquake,0.17,0.31,0.091,15,automatic,ci,ci
 2025-10-08T18:26:26.110Z,38.789165496826,-122.76782989502,1.8600000143051,0.99,md,11,105,0.0162,0.03,nc,nc75246656,2025-10-08T19:07:18.440Z,"2 km NW of The Geysers, CA",earthquake,0.34,0.649999976,0.27,10,automatic,nc,nc
-2025-10-08T18:09:34.419Z,31.605,-104.277,3.9908,1.6,ml,27,93,0.1,0.3,tx,tx2025tvjkre,2025-10-08T18:13:03.985Z,"56 km NW of Toyah, Texas",earthquake,0,1.1590158939362,0.2,19,automatic,tx,tx
-2025-10-08T18:09:34.339Z,31.609,-104.273,4.4078,1.5,mlv,27,163,0.1,0.3,tx,tx2025tvjlja,2025-10-09T03:08:11.567Z,"56 km NW of Toyah, Texas",earthquake,0,1.1443988084793,0.2,19,automatic,tx,tx
+2025-10-08T18:09:34.520Z,31.627,-104.255,6.0999,1.5,ml,36,89,0,0.2,tx,tx2025tvjkre,2025-10-09T09:43:29.515Z,"55 km NW of Toyah, Texas",earthquake,0.68241251487765,0.57409207207776,0.2,19,reviewed,tx,tx
 2025-10-08T18:07:04.325Z,28.75,-98.504,8.4202,2,mlv,18,100,0,0.5,tx,tx2025tvjjem,2025-10-08T22:16:01.072Z,"4 km S of Christine, Texas",earthquake,0,2.8190946578979,0.2,13,automatic,tx,tx
 2025-10-08T17:46:35.000Z,28.749,-98.464,8.7906,1.2,ml,11,80,0.1,0.1,tx,tx2025tvirmq,2025-10-08T20:02:38.979Z,"5 km SE of Christine, Texas",earthquake,0.47748776889087,0.68160369721316,0.2,6,reviewed,tx,tx
 2025-10-08T17:40:39.230Z,38.830833435059,-122.82083129883,1.960000038147,0.21,md,7,108,0.01382,0.01,nc,nc75246641,2025-10-08T18:07:18.035Z,"8 km NW of The Geysers, CA",earthquake,0.59,2.3900001,0.08,8,automatic,nc,nc
@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T09:54:00.776Z,38.6531,-119.7212,3.9,1.3,ml,10,175.85,0.256,0.0576,nn,nn00905640,2025-10-08T09:56:28.591Z,"6 km SE of Markleeville, California",earthquake,,8.7,0.27,8,automatic,nn,nn
 2025-10-08T09:53:07.030Z,33.9311667,-116.7715,13.2,0.87,ml,49,57,0.09968,0.17,ci,ci41105087,2025-10-08T09:57:54.921Z,"2 km NE of Cabazon, CA",earthquake,0.17,0.42,0.221,29,automatic,ci,ci
 2025-10-08T09:50:29.510Z,38.642665863037,-119.74549865723,-1.6399999856949,2.69,md,38,63,0.2724,0.18,nc,nc75246451,2025-10-08T17:57:01.028Z,"7 km SE of Markleeville, CA",earthquake,0.29,1.87,0.16,26,automatic,nc,nc
-2025-10-08T09:46:19.390Z,36.574333190918,-121.19866943359,7.0900001525879,3.19,ml,73,45,0.011,0.29,nc,nc75246446,2025-10-08T23:41:46.618Z,"7 km NW of Pinnacles, CA",earthquake,0.3,0.800000012,0.266,29,automatic,nc,nc
