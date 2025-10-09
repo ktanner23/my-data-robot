@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-09T03:37:37.690Z,34.3328323,-119.5186691,13.24,1.65,ml,19,115,0.06632,0.2,ci,ci41105567,2025-10-09T03:39:46.590Z,"7 km S of Carpinteria, CA",earthquake,0.64,0.63,0.234,22,automatic,ci,ci
+2025-10-09T03:37:37.890Z,34.345,-119.5328333,14.23,1.55,ml,35,112,0.05595,0.26,ci,ci41105567,2025-10-09T03:41:19.599Z,"6 km SSW of Carpinteria, CA",earthquake,0.35,0.62,0.14,26,automatic,ci,ci
 2025-10-09T03:15:52.049Z,62.8843,-143.6574,0,1.8,ml,,,,0.2,ak,ak025cyffhtw,2025-10-09T03:17:34.058Z,"7 km SE of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-09T03:15:41.836Z,28.72,-98.445,7.5965,1.6,ml,5,119,0.1,0.4,tx,tx2025twbnyp,2025-10-09T03:17:33.173Z,"9 km SSE of Christine, Texas",earthquake,0,9.781909942627,0.3,5,automatic,tx,tx
-2025-10-09T03:10:13.370Z,38.834167480469,-122.8184967041,1.6200000047684,0.63,md,8,89,0.01261,0.01,nc,nc75246841,2025-10-09T03:27:17.067Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.05999994,0.47,8,automatic,nc,nc
+2025-10-09T03:10:13.370Z,38.834167480469,-122.8184967041,1.6200000047684,0.63,md,8,89,0.01261,0.01,nc,nc75246841,2025-10-09T03:47:21.216Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.05999994,0.47,8,automatic,nc,nc
 2025-10-09T03:04:02.677Z,61.2999,-146.8258,19.7,1.6,ml,,,,0.73,ak,ak025cyfd156,2025-10-09T03:16:19.327Z,"31 km NW of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-09T03:03:40.420Z,33.2973328,-116.6383362,3.48,1.25,ml,13,93,0.2185,0.17,ci,ci41105559,2025-10-09T03:05:45.906Z,"2 km NNW of Warner Springs, CA",earthquake,0.53,3.24,0.342,13,automatic,ci,ci
 2025-10-09T03:03:35.590Z,33.3321667,-116.6818333,11.54,0.82,ml,78,19,0.1026,0.19,ci,ci41105551,2025-10-09T03:07:05.400Z,"7 km NW of Warner Springs, CA",earthquake,0.14,0.43,0.207,23,automatic,ci,ci
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T17:40:39.230Z,38.830833435059,-122.82083129883,1.960000038147,0.21,md,7,108,0.01382,0.01,nc,nc75246641,2025-10-08T18:07:18.035Z,"8 km NW of The Geysers, CA",earthquake,0.59,2.3900001,0.08,8,automatic,nc,nc
 2025-10-08T17:35:34.410Z,38.78150177002,-122.72283172607,1.5599999427795,1.44,md,15,82,0.011,0.04,nc,nc75246636,2025-10-08T18:42:19.286Z,"3 km WNW of Anderson Springs, CA",earthquake,0.27,0.5,0.13,14,automatic,nc,nc
 2025-10-08T17:33:01.304Z,39.5546,-118.2525,10,1.6,ml,10,102.88,0.265,0.145,nn,nn00905663,2025-10-08T17:54:57.863Z,"42 km ENE of Fallon Station, Nevada",earthquake,,1.9,0.18,7,reviewed,nn,nn
-2025-10-08T17:23:53.400Z,20.027833333333,-155.81083333333,23.26,3.35,ml,60,136,0.102,0.13,hv,hv74798307,2025-10-09T02:48:53.004Z,"6 km NNE of Puako, Hawaii",earthquake,0.46,0.85,0.19555149892231,48,reviewed,hv,hv
+2025-10-08T17:23:53.400Z,20.027833333333,-155.81083333333,23.26,3.35,ml,60,136,0.102,0.13,hv,hv74798307,2025-10-09T03:48:20.048Z,"6 km NNE of Puako, Hawaii",earthquake,0.46,0.85,0.19555149892231,48,reviewed,hv,hv
 2025-10-08T17:23:38.630Z,19.334666666667,-155.01566666667,3.84,0.79,md,15,255,0.0877,0.12,hv,hv74798302,2025-10-08T21:08:45.508Z,"18 km SW of Leilani Estates, Hawaii",earthquake,0.74,31.61,0.1374444830201,4,reviewed,hv,hv
 2025-10-08T17:22:47.974Z,-24.2533,-67.0237,167.18,4.2,mb,40,62,1.673,0.81,us,us6000rfmt,2025-10-08T17:43:00.040Z,"71 km W of San Antonio de los Cobres, Argentina",earthquake,8.62,8.703,0.128,17,reviewed,us,us
 2025-10-08T17:11:43.870Z,53.953,-166.68233333333,9.71,-0.36,ml,7,133,0.01488,0.18,av,av93811008,2025-10-09T00:22:10.530Z,"11 km NW of Dutch Harbor, Alaska",earthquake,0.53,0.85,0.18686929171252,7,reviewed,av,av
@@ -238,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-08T03:59:17.226Z,28.749,-98.458,8.8736,1.1,ml,10,77,0.1,0.1,tx,tx2025tuhgqq,2025-10-08T13:39:55.674Z,"5 km SE of Christine, Texas",earthquake,0.73414820307505,0.83975850157133,0.1,7,reviewed,tx,tx
 2025-10-08T03:55:01.110Z,33.3526667,-116.2305,10.42,1.08,ml,58,25,0.06691,0.17,ci,ci41104991,2025-10-08T16:09:25.736Z,"17 km NE of Borrego Springs, CA",earthquake,0.15,0.32,0.157,36,reviewed,ci,ci
 2025-10-08T03:50:46.348Z,-57.8245,-24.1577,10,5.4,mb,92,87,7.759,1.11,us,us6000rfjc,2025-10-08T06:19:19.633Z,"South Sandwich Islands region",earthquake,7.85,1.853,0.056,107,reviewed,us,us
-2025-10-08T03:47:26.080Z,37.53116607666,-118.81433105469,3.5099999904633,1.14,md,16,126,0.05992,0.01,nc,nc75246381,2025-10-08T04:42:17.153Z,"12 km WSW of Toms Place, CA",earthquake,0.5,0.99000001,0.14,13,automatic,nc,nc
-2025-10-08T03:45:48.070Z,38.836498260498,-122.79149627685,2.1600000858307,1.03,md,14,51,0.00211,0.02,nc,nc75246376,2025-10-08T04:17:21.987Z,"6 km WNW of Cobb, CA",earthquake,0.3,0.50999999,0.25,15,automatic,nc,nc
-2025-10-08T03:41:25.848Z,63.0292,-150.8884,119.1,2.4,ml,,,,0.56,ak,ak025cws1nue,2025-10-08T03:45:43.072Z,"59 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
