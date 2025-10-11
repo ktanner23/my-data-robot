@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-11T11:01:07.120Z,34.0293333,-117.1188333,4.37,0.73,ml,42,62,0.008119,0.18,ci,ci41106671,2025-10-11T11:05:10.405Z,"5 km SSE of Mentone, CA",earthquake,0.18,0.3,0.148,22,automatic,ci,ci
 2025-10-11T10:57:13.950Z,34.1295,-117.4571667,9.22,0.91,ml,55,42,0.06886,0.17,ci,ci41106663,2025-10-11T11:01:07.187Z,"4 km N of Fontana, CA",earthquake,0.2,0.32,0.282,29,automatic,ci,ci
 2025-10-11T10:45:50.418Z,28.754,-98.474,12.4044,1.8,ml,9,122,0,0.3,tx,tx2025uahxps,2025-10-11T10:48:15.145Z,"4 km SSE of Christine, Texas",earthquake,0,7.6786961555481,0.1,6,automatic,tx,tx
-2025-10-11T10:45:35.200Z,35.929000854492,-120.47750091553,3.8499999046326,1.15,md,16,68,0.01828,0.05,nc,nc75247781,2025-10-11T10:47:11.401Z,"5 km NW of Parkfield, CA",earthquake,0.3,0.479999989,0.18,6,automatic,nc,nc
+2025-10-11T10:45:35.200Z,35.929000854492,-120.47750091553,3.8499999046326,1.15,md,16,68,0.01828,0.05,nc,nc75247781,2025-10-11T11:12:17.035Z,"5 km NW of Parkfield, CA",earthquake,0.3,0.479999989,0.18,6,automatic,nc,nc
 2025-10-11T10:28:12.307Z,61.056,-148.3842,5.1,1.5,ml,,,,0.8,ak,ak025d1uqxam,2025-10-11T10:30:25.672Z,"35 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-11T10:27:23.935Z,7.2713,126.798,60.094,5.5,mww,93,25,1.226,1,us,us6000rgj4,2025-10-11T10:55:31.195Z,"24 km E of Santiago, Philippines",earthquake,8.35,6.353,0.098,10,reviewed,us,us
 2025-10-11T10:16:00.080Z,17.983166666667,-66.840833333333,12.67,1.93,md,9,173,0.02826,0.14,pr,pr71497748,2025-10-11T10:31:36.000Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.86,0.57,0.33759336473365,7,reviewed,pr,pr
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-11T09:25:57.590Z,34.0341667,-117.12,4.11,0.87,ml,53,31,0.006436,0.19,ci,ci41106623,2025-10-11T09:29:32.680Z,"4 km SSE of Mentone, CA",earthquake,0.15,0.3,0.189,29,automatic,ci,ci
 2025-10-11T09:23:41.995Z,62.9666,-148.8315,77.3,0.9,ml,,,,0.46,ak,ak025d1u4hef,2025-10-11T09:25:31.716Z,"47 km S of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-10-11T09:20:18.670Z,38.804500579834,-122.74516296387,8.0699996948242,0.51,md,7,164,0.03235,0.07,nc,nc75247766,2025-10-11T09:37:20.335Z,"3 km SW of Cobb, CA",earthquake,1.38,2.9000001,0.37,7,automatic,nc,nc
-2025-10-11T09:11:27.907Z,31.707,-104.185,4.208,2,ml,39,61,0.1,0.2,tx,tx2025uaeufl,2025-10-11T09:14:55.486Z,"55 km SSE of Whites City, New Mexico",earthquake,0,0.89501255750656,0.2,26,automatic,tx,tx
+2025-10-11T09:11:27.736Z,31.709,-104.181,6.7792,2.1,ml,42,82,0.1,0.2,tx,tx2025uaeufl,2025-10-11T11:17:50.800Z,"54 km SSE of Whites City, New Mexico",earthquake,0.46615194134167,0.55477357275145,0.2,25,reviewed,tx,tx
 2025-10-11T09:05:26.670Z,37.235168457031,-119.53366851807,35.069999694824,2.51,md,13,103,0.1084,0.06,nc,nc75247761,2025-10-11T10:07:17.558Z,"2 km WNW of North Fork, CA",earthquake,0.44,0.99000001,0.08,7,automatic,nc,nc
 2025-10-11T09:05:00.370Z,34.0255,-117.1168333,4.54,2.61,ml,135,16,0.0106,0.2,ci,ci41106615,2025-10-11T09:58:25.708Z,"5 km SSE of Mentone, CA",earthquake,0.1,0.26,0.158,24,automatic,ci,ci
 2025-10-11T08:50:39.924Z,31.609,-104.361,4.2255,1.6,ml,30,94,0.1,0.3,tx,tx2025uaecji,2025-10-11T09:03:08.703Z,"62 km S of Whites City, New Mexico",earthquake,0,1.1188558340073,0.2,21,automatic,tx,tx
@@ -248,7 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T11:43:06.919Z,35.77083333,-98.01616667,3.58,1.19,ml,10,147,0.02069593875,0.14,ok,ok2025twdb,2025-10-10T19:24:14.897Z,"6 km NW of Okarche, Oklahoma",earthquake,,2.1,0.19,4,reviewed,ok,ok
 2025-10-10T11:42:49.880Z,36.42083333,-96.88383333,8.01,1.42,ml,88,49,0,0.2,ok,ok2025twda,2025-10-10T14:40:41.714Z,"11 km NW of Pawnee, Oklahoma",earthquake,,0.5,0.24,38,reviewed,ok,ok
 2025-10-10T11:42:22.760Z,33.137,-116.3838333,7.03,0.46,ml,36,49,0.07501,0.21,ci,ci41106111,2025-10-10T11:45:53.003Z,"13 km S of Borrego Springs, CA",earthquake,0.25,0.67,0.075,8,automatic,ci,ci
-2025-10-10T11:16:02.383Z,50.3802,156.5204,76.347,5.6,mb,52,88,2.829,0.74,us,us6000rg2s,2025-10-10T13:41:45.490Z,"43 km SE of Severo-Kuril’sk, Russia",earthquake,10.9,6.896,0.022,731,reviewed,us,us
-2025-10-10T11:13:24.010Z,36.688167572021,-121.37232971191,0.76999998092651,1.02,md,8,69,0.02831,0.14,nc,nc75247311,2025-10-10T11:32:15.905Z,"12 km SSW of Tres Pinos, CA",earthquake,0.44,1.29999995,0.25,8,automatic,nc,nc
-2025-10-10T11:12:10.617Z,37.1607,-117.3805,7.7,1.2,ml,19,117.91,0.165,0.1638,nn,nn00905744,2025-10-10T18:43:11.029Z,"61 km WNW of Beatty, Nevada",earthquake,,1.7,0.4,5,reviewed,nn,nn
-2025-10-10T11:12:07.106Z,7.1716,126.7553,61.184,6.7,mww,98,30,1.172,1.22,us,us6000rg2r,2025-10-11T02:06:53.526Z,"23 km ESE of Santiago, Philippines",earthquake,7.5,6.105,0.043,51,reviewed,us,us
