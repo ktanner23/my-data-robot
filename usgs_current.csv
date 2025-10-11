@@ -1,5 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-11T01:32:25.830Z,33.1646652,-116.4205017,10.43,1.42,ml,43,38,0.08838,0.19,ci,ci41106511,2025-10-11T01:34:28.335Z,"11 km SSW of Borrego Springs, CA",earthquake,0.27,0.74,0.37,9,automatic,ci,ci
+2025-10-11T01:56:43.881Z,62.0584,-150.6187,58.4,1.4,ml,,,,0.57,ak,ak025d1pk3c4,2025-10-11T01:58:54.515Z,"35 km SW of Trapper Creek, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-11T01:52:56.178Z,63.2187,-151.3161,0.3,1.5,ml,,,,0.87,ak,ak025d1pj9f5,2025-10-11T01:58:50.416Z,"41 km SSE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-10-11T01:39:43.260Z,17.848,-66.855,14.15,2.57,md,15,222,0.1244,0.12,pr,pr71497728,2025-10-11T01:54:03.170Z,"14 km SSE of Guánica, Puerto Rico",earthquake,0.46,0.71,0.036459222909667,4,reviewed,pr,pr
+2025-10-11T01:36:15.470Z,37.873500823975,-122.24966430664,8.7399997711182,1.89,md,52,33,0.002223,0.05,nc,nc75247631,2025-10-11T01:52:16.954Z,"2 km E of Berkeley, CA",earthquake,0.13,0.239999995,0.11,41,automatic,nc,nc
+2025-10-11T01:32:25.850Z,33.1633333,-116.421,9.85,1.27,ml,60,31,0.087,0.22,ci,ci41106511,2025-10-11T01:37:34.263Z,"11 km SSW of Borrego Springs, CA",earthquake,0.17,0.53,0.214,26,automatic,ci,ci
+2025-10-11T01:32:19.220Z,34.1768333,-117.0536667,7.42,1.01,ml,30,45,0.0632,0.22,ci,ci41106503,2025-10-11T01:35:48.252Z,"6 km SE of Running Springs, CA",earthquake,0.27,0.55,0.262,26,automatic,ci,ci
+2025-10-11T01:16:34.821Z,7.0043,126.9131,63.548,4.7,mb,72,108,1.326,1.01,us,us6000rgh8,2025-10-11T01:42:58.040Z,"47 km ESE of Manay, Philippines",earthquake,4.76,7.108,0.054,104,reviewed,us,us
 2025-10-11T00:57:51.420Z,33.2951667,-116.3293333,10.75,2.28,ml,99,17,0.04465,0.2,ci,ci41106495,2025-10-11T01:08:42.070Z,"6 km NE of Borrego Springs, CA",earthquake,0.12,0.27,0.161,26,automatic,ci,ci
 2025-10-11T00:44:13.332Z,68.053,-155.4637,0,2.5,ml,,,,0.47,ak,ak025d1ow0s5,2025-10-11T00:47:57.192Z,"141 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-11T00:43:17.441Z,57.5226,-155.8866,70.9,1.8,ml,,,,0.4,ak,ak025d1ovtaj,2025-10-11T00:45:52.537Z,"85 km W of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -10,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-11T00:03:40.100Z,37.591499328613,-122.46099853516,10.140000343323,0.74,md,5,128,0.03309,0.01,nc,nc75247616,2025-10-11T00:22:18.292Z,"3 km SE of Pacifica, CA",earthquake,1.14,3.08999991,0.06,3,automatic,nc,nc
 2025-10-10T23:48:21.253Z,63.1178,-150.5218,101.7,1.5,ml,,,,0.29,ak,ak025d0f2iid,2025-10-10T23:50:55.810Z,"70 km N of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-10T23:42:41.880Z,38.845832824707,-122.81383514404,1.5800000429153,1.4,md,20,52,0.01153,0.02,nc,nc75247611,2025-10-11T01:07:17.619Z,"8 km WNW of Cobb, CA",earthquake,0.21,0.360000014,0.11,21,automatic,nc,nc
+2025-10-10T23:39:54.412Z,-6.3108,145.723,124.578,4.5,mb,42,118,3.387,0.68,us,us6000rggv,2025-10-11T01:58:15.040Z,"15 km W of Kainantu, Papua New Guinea",earthquake,9.23,7.891,0.099,30,reviewed,us,us
 2025-10-10T23:25:55.804Z,62.3592,-151.1233,70.7,1.6,ml,,,,0.44,ak,ak025d0exnvg,2025-10-10T23:27:59.145Z,"23 km SW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-10T23:22:15.450Z,38.79666519165,-122.74683380127,1.9500000476837,0.79,md,8,96,0.01556,0.02,nc,nc75247606,2025-10-11T00:42:23.451Z,"2 km NNE of The Geysers, CA",earthquake,0.35,1.24000001,0.1,10,automatic,nc,nc
 2025-10-10T23:21:17.569Z,31.879,-101.653,5,1.2,ml,9,171,0.2,0.5,tx,tx2025tzlfqz,2025-10-11T00:00:10.343Z,"16 km W of Garden City, Texas",earthquake,0,,0.3,7,automatic,tx,tx
@@ -147,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T11:16:02.383Z,50.3802,156.5204,76.347,5.6,mb,52,88,2.829,0.74,us,us6000rg2s,2025-10-10T13:41:45.490Z,"43 km SE of Severo-Kuril’sk, Russia",earthquake,10.9,6.896,0.022,731,reviewed,us,us
 2025-10-10T11:13:24.010Z,36.688167572021,-121.37232971191,0.76999998092651,1.02,md,8,69,0.02831,0.14,nc,nc75247311,2025-10-10T11:32:15.905Z,"12 km SSW of Tres Pinos, CA",earthquake,0.44,1.29999995,0.25,8,automatic,nc,nc
 2025-10-10T11:12:10.617Z,37.1607,-117.3805,7.7,1.2,ml,19,117.91,0.165,0.1638,nn,nn00905744,2025-10-10T18:43:11.029Z,"61 km WNW of Beatty, Nevada",earthquake,,1.7,0.4,5,reviewed,nn,nn
-2025-10-10T11:12:07.106Z,7.1716,126.7553,61.184,6.7,mww,98,30,1.172,1.22,us,us6000rg2r,2025-10-10T21:39:14.406Z,"23 km ESE of Santiago, Philippines",earthquake,7.5,6.105,0.043,51,reviewed,us,us
+2025-10-10T11:12:07.106Z,7.1716,126.7553,61.184,6.7,mww,98,30,1.172,1.22,us,us6000rg2r,2025-10-11T02:06:53.526Z,"23 km ESE of Santiago, Philippines",earthquake,7.5,6.105,0.043,51,reviewed,us,us
 2025-10-10T11:00:17.230Z,35.1418333,-118.6161667,6.31,1.07,ml,39,61,0.1071,0.14,ci,ci41106103,2025-10-10T11:03:49.365Z,"15 km W of Tehachapi, CA",earthquake,0.14,0.53,0.194,26,automatic,ci,ci
 2025-10-10T10:49:09.839Z,-17.6368,-178.7135,577.392,4.4,mb,19,121,2.166,0.73,us,us6000rg2q,2025-10-10T11:01:05.040Z,"214 km ENE of Levuka, Fiji",earthquake,18.48,14.057,0.139,15,reviewed,us,us
 2025-10-10T10:33:25.334Z,63.514,-148.2231,16.6,0.9,ml,,,,0.55,ak,ak025d078ocj,2025-10-10T10:36:09.678Z,"38 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -249,9 +256,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-10T02:52:14.710Z,19.147832870483,-155.36099243164,26.959999084473,2.37,ml,25,224,0.09564,0.170000002,hv,hv74800067,2025-10-10T02:55:47.580Z,"13 km ESE of Pāhala, Hawaii",earthquake,1.17,0.769999981,1.17,4,automatic,hv,hv
 2025-10-10T02:15:04.887Z,-24.0734,-177.0863,132.531,5.1,mb,26,127,11.551,1.34,us,us6000rfyz,2025-10-10T02:35:06.040Z,"south of the Fiji Islands",earthquake,14.09,8.063,0.095,37,reviewed,us,us
 2025-10-10T02:11:44.943Z,6.9947,126.7969,63.461,5.6,mb,60,74,1.211,0.86,us,us6000rfyw,2025-10-10T04:35:50.266Z,"36 km ESE of San Ignacio, Philippines",earthquake,6.79,6.215,0.072,67,reviewed,us,us
-2025-10-10T02:08:10.703Z,-3.0262,147.9689,10,6.3,mww,117,21,1.147,1.18,us,us6000rfye,2025-10-10T04:30:51.125Z,"134 km SE of Lorengau, Papua New Guinea",earthquake,6.83,1.729,0.069,20,reviewed,us,us
-2025-10-10T02:00:37.610Z,59.358833333333,-153.43266666667,-0.07,0.39,ml,5,171,0.007229,0.19,av,av93813023,2025-10-10T21:10:02.270Z,"61 km SE of Pedro Bay, Alaska",earthquake,0.39,0.22,0.096620296415382,5,reviewed,av,av
-2025-10-10T01:51:15.392Z,7.1014,126.8879,61.636,5.9,mb,68,85,1.299,0.59,us,us6000rfx2,2025-10-10T11:32:26.604Z,"40 km ESE of Manay, Philippines",earthquake,9.3,6.033,0.06,104,reviewed,us,us
-2025-10-10T01:50:51.820Z,35.9038333,-117.7453333,7.93,1.4,ml,30,35,0.07427,0.17,ci,ci41105999,2025-10-10T01:54:17.609Z,"15 km ESE of Little Lake, CA",earthquake,0.18,0.49,0.19,26,automatic,ci,ci
-2025-10-10T01:47:19.710Z,38.836,-122.818,1.8,0.38,md,26,67,0.0139,0.03,nc,nc75247181,2025-10-10T04:57:15.956Z,"8 km W of Cobb, CA",earthquake,0.16,0.28,0.127,23,reviewed,nc,nc
-2025-10-10T01:43:59.731Z,7.2649,126.7545,58.087,7.4,mww,56,35,1.182,1.18,us,us6000rfwz,2025-10-11T01:15:39.228Z,"20 km E of Santiago, Philippines",earthquake,7.59,8.191,0.038,65,reviewed,us,us
