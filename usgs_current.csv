@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-13T14:52:48.970Z,33.449501,-116.6368332,10.29,1.61,ml,45,38,0.01157,0.19,ci,ci41107647,2025-10-13T14:55:26.582Z,"12 km SSE of Anza, CA",earthquake,0.26,0.64,0.223,26,automatic,ci,ci
+2025-10-13T14:52:49.000Z,33.445,-116.6405,9.6,1.62,ml,70,21,0.01461,0.2,ci,ci41107647,2025-10-13T15:03:35.180Z,"13 km SSE of Anza, CA",earthquake,0.15,0.3,0.169,26,automatic,ci,ci
 2025-10-13T14:47:32.520Z,33.982,-118.2766667,10.95,1.52,ml,25,98,0.05745,0.23,ci,ci41107639,2025-10-13T14:51:35.305Z,"3 km WNW of Florence-Graham, CA",earthquake,0.37,0.71,0.344,36,automatic,ci,ci
-2025-10-13T14:39:58.750Z,38.817501068115,-122.8073348999,3.170000076294,1.08,md,22,42,0.006262,0.02,nc,nc75248681,2025-10-13T14:41:36.574Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.13,23,automatic,nc,nc
+2025-10-13T14:39:58.750Z,38.817501068115,-122.8073348999,3.170000076294,1.08,md,22,42,0.006262,0.02,nc,nc75248681,2025-10-13T15:07:17.233Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.13,23,automatic,nc,nc
 2025-10-13T14:33:34.760Z,33.3013333,-116.3233333,9.73,0.89,ml,39,97,0.04458,0.18,ci,ci41107631,2025-10-13T14:37:01.810Z,"7 km NE of Borrego Springs, CA",earthquake,0.23,0.37,0.176,17,automatic,ci,ci
 2025-10-13T14:22:51.210Z,33.9206667,-118.2965,19.18,1.78,ml,61,63,0.02514,0.28,ci,ci41107623,2025-10-13T14:33:22.510Z,"4 km NNE of Gardena, CA",earthquake,0.26,0.54,0.183,32,automatic,ci,ci
 2025-10-13T14:15:20.727Z,36.7673,-116.2565,9.7,0.3,ml,34,42.21,0.031,0.0894,nn,nn00905869,2025-10-13T14:38:01.721Z,"47 km ESE of Beatty, Nevada",earthquake,,0.5,0.15,8,reviewed,nn,nn
@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T13:20:31.930Z,34.2248333,-117.8565,2.25,0.62,ml,14,44,0.05889,0.14,ci,ci41107527,2025-10-13T14:23:06.264Z,"10 km N of Glendora, CA",earthquake,0.19,0.28,0.056,7,reviewed,ci,ci
 2025-10-13T13:17:41.890Z,33.4295,-116.402,10.52,0.74,ml,35,50,0.1023,0.18,ci,ci41107519,2025-10-13T13:21:31.928Z,"20 km N of Borrego Springs, CA",earthquake,0.22,0.49,0.122,18,automatic,ci,ci
 2025-10-13T13:10:01.010Z,36.623165130615,-121.22816467285,4.960000038147,1.65,md,18,154,0.06183,0.07,nc,nc75248656,2025-10-13T13:57:19.716Z,"13 km NW of Pinnacles, CA",earthquake,0.38,0.879999995,0.23,19,automatic,nc,nc
+2025-10-13T12:59:54.640Z,35.4525,-91.678333333333,7.01,1.87,md,10,191,0.106,0.18,nm,nm60504308,2025-10-13T15:03:39.020Z,"11 km SSW of Pleasant Plains, Arkansas",earthquake,0.56,0.79,0.078356059944804,9,reviewed,nm,nm
 2025-10-13T12:59:18.120Z,17.986,-66.839666666667,15.97,2.47,md,9,180,0.03922,0.2,pr,pr71497963,2025-10-13T13:26:44.430Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.64,1.13,0.064637968234266,5,reviewed,pr,pr
 2025-10-13T12:55:59.130Z,47.583831787109,-122.20566558838,23.510000228882,1.9338369369507,ml,30,99,,0.109999999,uw,uw62201696,2025-10-13T12:58:47.010Z,"0 km WSW of Beaux Arts Village, Washington",earthquake,0.39,0.620000005,0.27869436144829,19,automatic,uw,uw
 2025-10-13T12:43:57.980Z,33.3568333,-116.366,11.39,0.58,ml,29,61,0.03004,0.2,ci,ci41107511,2025-10-13T12:47:41.691Z,"11 km N of Borrego Springs, CA",earthquake,0.28,0.57,0.143,9,automatic,ci,ci
@@ -99,11 +100,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T03:14:24.570Z,19.366500854492,-155.28866577148,28.639999389648,1.95,ml,58,51,0.02098,0.170000002,hv,hv74803496,2025-10-13T03:18:24.270Z,"10 km SW of Volcano, Hawaii",earthquake,0.33,0.439999998,0.56,14,automatic,hv,hv
 2025-10-13T03:06:54.179Z,55.4768,-158.6394,20.4,3.4,ml,,,,0.58,ak,ak025d51iyjv,2025-10-13T03:10:29.070Z,"57 km SSE of Perryville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-13T03:01:09.250Z,17.963666666667,-66.81,11.9,2.29,md,7,209,0.06689,0.12,pr,pr71497898,2025-10-13T03:12:15.650Z,"3 km SSE of Indios, Puerto Rico",earthquake,0.6,0.83,0.23634920047844,6,reviewed,pr,pr
-2025-10-13T02:52:30.772Z,60.2202,-150.7827,45.9,4.2,ml,,,,0.67,ak,ak025d517bzx,2025-10-13T11:11:15.111Z,"30 km ESE of Kasilof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-10-13T02:52:30.772Z,60.2202,-150.7827,45.9,4.2,ml,,,,0.67,ak,ak025d517bzx,2025-10-13T15:03:53.859Z,"30 km ESE of Kasilof, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-10-13T02:43:34.440Z,34.0973333,-118.4005,8.79,1.08,ml,32,92,0.02144,0.18,ci,ci41107343,2025-10-13T02:47:05.134Z,"3 km N of Beverly Hills, CA",earthquake,0.38,0.37,0.197,31,automatic,ci,ci
 2025-10-13T02:43:00.810Z,36.285166666667,-89.518,9.11,2.37,md,33,38,0.02965,0.07,nm,nm60614746,2025-10-13T12:05:49.120Z,"3 km NW of Ridgely, Tennessee",earthquake,0.16,0.34,0.096707416467466,26,reviewed,nm,nm
 2025-10-13T02:40:34.154Z,-58.9889,-25.4247,35,4.9,mb,40,79,7.705,0.6,us,us6000rgt5,2025-10-13T03:02:14.040Z,"South Sandwich Islands region",earthquake,8.28,1.918,0.09,39,reviewed,us,us
-2025-10-13T02:33:24.473Z,31.279,-103.054,2.8773,0.8,ml,5,268,0.1,0.7,tx,tx2025udjbaq,2025-10-13T02:36:05.513Z,"4 km NNE of Coyanosa, Texas",earthquake,0,3.2867739200592,1.6,3,automatic,tx,tx
 2025-10-13T02:26:31.420Z,38.78783416748,-122.76750183106,2.2200000286102,0.89,md,7,153,0.01682,0.02,nc,nc75248436,2025-10-13T03:12:15.184Z,"2 km NW of The Geysers, CA",earthquake,0.45,1.22000003,0.21,9,automatic,nc,nc
 2025-10-13T02:23:21.209Z,-35.5109,-179.3657,10,4.6,mb,24,214,2.776,0.59,us,us6000rgt1,2025-10-13T02:53:44.040Z,"east of the North Island of New Zealand",earthquake,11.93,1.982,0.146,14,reviewed,us,us
 2025-10-13T02:04:49.769Z,38.2765,-117.8969,3.6,1.5,ml,8,265.91,0.104,0.4291,nn,nn00905862,2025-10-13T02:07:48.677Z,"22 km SE of Mina, Nevada",earthquake,,2,0.42,2,automatic,nn,nn
@@ -122,7 +122,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T00:33:45.349Z,36.716,-116.0461,5.5,-0.2,ml,11,122.37,0.047,0.0438,nn,nn00905871,2025-10-13T14:22:33.063Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.06,2,reviewed,nn,nn
 2025-10-13T00:26:14.230Z,35.3575,-117.7905,6.03,1.48,ml,50,37,0.1006,0.17,ci,ci41107303,2025-10-13T13:26:09.556Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.55,0.135,24,reviewed,ci,ci
 2025-10-13T00:08:17.160Z,33.1568333,-115.7168333,1.16,1.37,ml,8,176,0.0833,0.23,ci,ci41107287,2025-10-13T14:13:24.979Z,"16 km NW of Westmorland, CA",earthquake,0.61,0.98,0.6,6,reviewed,ci,ci
-2025-10-13T00:03:50.947Z,28.749,-98.481,6.6303,1.5,mlv,14,50,0,0.5,tx,tx2025udebxf,2025-10-13T10:09:59.349Z,"4 km SSE of Christine, Texas",earthquake,0,2.5202460289001,0.2,12,automatic,tx,tx
+2025-10-13T00:03:49.491Z,28.761,-98.462,8.8457,1.5,ml,15,54,0,0.1,tx,tx2025udebxf,2025-10-13T15:02:36.665Z,"4 km SE of Christine, Texas",earthquake,0.48127535133399,0.59965849315602,0.2,9,reviewed,tx,tx
 2025-10-12T23:58:55.610Z,33.187,-115.6045,4.31,1.26,ml,18,130,0.01333,0.19,ci,ci41107279,2025-10-13T14:07:35.076Z,"10 km SW of Niland, CA",earthquake,0.35,0.29,0.204,13,reviewed,ci,ci
 2025-10-12T23:57:40.380Z,18.731,-67.291833333333,25.55,3.32,md,22,295,0.2736,0.14,pr,pr71497878,2025-10-13T00:22:33.040Z,"33 km NW of San Antonio, Puerto Rico",earthquake,0.55,1.29,0.052987953059726,9,reviewed,pr,pr
 2025-10-12T23:51:22.570Z,33.653,-116.7151667,15.27,0.78,ml,33,59,0.03797,0.16,ci,ci41107271,2025-10-13T13:26:25.275Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.34,0.212,23,reviewed,ci,ci
@@ -198,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T15:20:03.410Z,56.940166666667,-157.85733333333,3.81,0.68,ml,5,319,0.1404,0.23,av,av93050839,2025-10-12T16:51:43.700Z,"69 km SSW of Ugashik, Alaska",earthquake,1.31,0.86,0.3500472577952,5,reviewed,av,av
 2025-10-12T15:19:38.007Z,37.3553,-114.8985,4.3,1.5,ml,13,260.79,0.132,0.3024,nn,nn00905855,2025-10-12T15:22:17.757Z,"23 km E of Alamo, Nevada",earthquake,,7.3,0.37,8,automatic,nn,nn
 2025-10-12T15:18:09.743Z,31.689,-101.984,8.0811,1,ml,11,73,0.1,0.1,tx,tx2025ucmrdq,2025-10-13T14:26:36.871Z,"35 km SSE of Midland, Texas",earthquake,0.98007206845074,1.8499531714485,0.1,7,reviewed,tx,tx
-2025-10-12T14:56:57.670Z,63.429,-145.1486,1.8,1.7,ml,,,,0.99,ak,ak025d3ku3sj,2025-10-12T15:00:37.948Z,"34 km SW of Dry Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
