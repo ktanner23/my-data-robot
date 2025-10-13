@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-13T21:56:22.970Z,39.278167724609,-121.36166381836,7.8600001335144,2.41,md,8,132,0.6424,0.18,nc,nc75248826,2025-10-13T22:07:20.215Z,"6 km SE of Loma Rica, CA",earthquake,1.87,2.76999998,,1,automatic,nc,nc
 2025-10-13T21:44:40.260Z,33.1813333,-115.6068333,4.17,1.73,ml,22,48,0.00833,0.16,ci,ci41107927,2025-10-13T21:48:11.662Z,"10 km SW of Niland, CA",earthquake,0.29,0.3,0.188,28,automatic,ci,ci
-2025-10-13T21:30:46.830Z,38.769500732422,-122.71250152588,0.40000000596046,1.52,md,14,66,0.01042,0.05,nc,nc75248821,2025-10-13T21:52:19.113Z,"2 km WSW of Anderson Springs, CA",earthquake,0.22,0.370000005,0.11,15,automatic,nc,nc
+2025-10-13T21:30:46.830Z,38.769500732422,-122.71250152588,0.40000000596046,1.52,md,14,66,0.01042,0.05,nc,nc75248821,2025-10-13T22:22:17.328Z,"2 km WSW of Anderson Springs, CA",earthquake,0.22,0.370000005,0.11,15,automatic,nc,nc
 2025-10-13T21:27:59.732Z,43.4103,-126.8669,10,3.1,ml,39,276,1.524,0.7,us,us6000rgyl,2025-10-13T21:47:03.040Z,"202 km W of Bandon, Oregon",earthquake,5,2.024,0.041,78,reviewed,us,us
 2025-10-13T21:24:37.380Z,60.2119,-150.8153,35.2,2.1,ml,,,,0.46,ak,ak025d5cckzz,2025-10-13T21:27:33.221Z,"29 km ESE of Kasilof, Alaska",earthquake,,7.8,,,automatic,ak,ak
 2025-10-13T21:23:18.960Z,38.820331573486,-122.77532958984,3.3499999046326,0.9,md,10,117,0.008208,0.12,nc,nc75248816,2025-10-13T21:57:18.152Z,"5 km W of Cobb, CA",earthquake,0.74,1.22000003,0.18,10,automatic,nc,nc
@@ -83,6 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-13T12:59:54.640Z,35.4525,-91.678333333333,7.01,1.87,md,10,191,0.106,0.18,nm,nm60504308,2025-10-13T15:03:39.020Z,"11 km SSW of Pleasant Plains, Arkansas",earthquake,0.56,0.79,0.078356059944804,9,reviewed,nm,nm
 2025-10-13T12:59:18.120Z,17.986,-66.839666666667,15.97,2.47,md,9,180,0.03922,0.2,pr,pr71497963,2025-10-13T13:26:44.430Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.64,1.13,0.064637968234266,5,reviewed,pr,pr
 2025-10-13T12:55:58.920Z,47.585666666667,-122.20766666667,26.9,1.7,ml,19,84,0.01793,0.18,uw,uw62201696,2025-10-13T16:53:08.740Z,"0 km W of Beaux Arts Village, Washington",earthquake,0.39,0.63,0.2220035467377,9,reviewed,uw,uw
+2025-10-13T12:48:35.660Z,47.476166666667,-115.769,0.02,0.85,ml,7,125,0.006242,0.12,mb,mb90117093,2025-10-13T22:19:37.990Z,"2 km ENE of Mullan, Idaho",earthquake,0.72,31.61,0.34007993413012,3,reviewed,mb,mb
 2025-10-13T12:43:57.980Z,33.3568333,-116.366,11.39,0.58,ml,29,61,0.03004,0.2,ci,ci41107511,2025-10-13T12:47:41.691Z,"11 km N of Borrego Springs, CA",earthquake,0.28,0.57,0.143,9,automatic,ci,ci
 2025-10-13T12:34:25.489Z,36.36466667,-98.15166667,5,2.06,ml,86,55,0.195261683,0.22,ok,ok2025ubrg,2025-10-13T13:21:07.079Z,"3 km SE of Meno, Oklahoma",earthquake,,0.5,0.22,38,reviewed,ok,ok
 2025-10-13T12:24:54.750Z,7.1111,126.988,54.946,4.5,mb,32,112,1.399,1.05,us,us6000rgup,2025-10-13T13:10:19.040Z,"49 km ESE of Santiago, Philippines",earthquake,8.92,8.502,0.099,30,reviewed,us,us
@@ -209,5 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-12T22:37:25.330Z,57.6571,-155.4037,18.2,1.7,ml,,,,0.25,ak,ak025d3phfhx,2025-10-12T22:38:50.650Z,"57 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-12T22:31:11.075Z,32.11,-101.463,8.1787,1.1,ml,18,79,0.1,0.1,tx,tx2025udbahu,2025-10-13T15:51:14.449Z,"9 km W of Forsan, Texas",earthquake,0.7653217625789,1.68825116386,0,6,reviewed,tx,tx
 2025-10-12T22:30:34.224Z,-9.2064,124.1397,74.398,4.3,mb,13,124,0.56,0.54,us,us6000rgs9,2025-10-12T23:08:08.040Z,"26 km W of Pante Makasar, Timor Leste",earthquake,9.16,8.023,0.161,11,reviewed,us,us
-2025-10-12T22:26:47.283Z,57.8185,-155.7362,8.5,2,ml,,,,0.26,ak,ak025d3pf3kh,2025-10-12T22:40:09.040Z,"81 km WNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-12T22:22:28.470Z,43.389333333333,-111.1295,3.94,2.02,ml,11,241,0.1609,0.17,mb,mb90116798,2025-10-13T18:27:17.780Z,"13 km E of Irwin, Idaho",earthquake,1.08,2.36,0.18339814335686,8,reviewed,mb,mb
