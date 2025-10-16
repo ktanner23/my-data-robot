@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-16T09:54:57.853Z,62.5596,-151.3213,72,2.3,ml,,,,0.81,ak,ak025da3zw99,2025-10-16T09:57:30.529Z,"29 km WNW of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-10-16T09:54:56.866Z,62.5333,-151.2832,93.7,2.3,ml,,,,0.62,ak,ak025da3zw99,2025-10-16T10:07:26.794Z,"26 km W of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-16T09:53:25.170Z,33.1446667,-116.6298333,3.12,0.45,ml,29,69,0.05627,0.18,ci,ci41108903,2025-10-16T09:56:51.339Z,"8 km NNW of Julian, CA",earthquake,0.21,0.58,0.156,6,automatic,ci,ci
 2025-10-16T09:33:53.550Z,33.59,-115.9656667,2.18,1.14,ml,54,44,0.03815,0.17,ci,ci41108895,2025-10-16T09:44:30.840Z,"8 km NNW of North Shore, CA",earthquake,0.15,0.29,0.119,26,automatic,ci,ci
 2025-10-16T09:09:09.140Z,37.330501556396,-122.21583557129,8.7700004577637,1.35,md,11,105,0.03636,0.05,nc,nc75250076,2025-10-16T09:52:20.291Z,"6 km SSE of Portola Valley, CA",earthquake,0.41,0.610000014,0.31,11,automatic,nc,nc
@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T00:54:17.220Z,38.814498901367,-122.78600311279,1.5,1.08,md,14,54,0.004335,0.02,nc,nc75249886,2025-10-16T02:47:19.259Z,"5 km NNW of The Geysers, CA",earthquake,0.28,0.449999988,0.14,15,automatic,nc,nc
 2025-10-16T00:43:23.318Z,-6.9906,125.181,549.668,4.3,mb,23,69,2.892,0.7,us,us6000rheu,2025-10-16T00:56:42.040Z,"177 km N of Likisá, Timor Leste",earthquake,9.67,11.379,0.201,7,reviewed,us,us
 2025-10-16T00:12:16.870Z,38.833667755127,-122.80300140381,2.2999999523163,0.23,md,10,70,0.01096,0.03,nc,nc75249881,2025-10-16T02:22:19.088Z,"7 km W of Cobb, CA",earthquake,0.38,1.23000002,0.15,10,automatic,nc,nc
-2025-10-16T00:08:01.210Z,38.828666666667,-122.81333333333,1.66,0.24,md,17,44,0.01994,0.04,nc,nc75249871,2025-10-16T09:28:21.650Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.38,0.252,17,reviewed,nc,nc
+2025-10-16T00:08:01.210Z,38.828666666667,-122.81333333333,1.66,0.24,md,17,44,0.01994,0.04,nc,nc75249871,2025-10-16T10:07:17.410Z,"8 km NW of The Geysers, CA",earthquake,0.17,0.38,0.252,17,reviewed,nc,nc
 2025-10-16T00:07:19.694Z,28.98,-98.176,7.1569,3,ml,30,59,0.1,0.3,tx,tx2025uirjux,2025-10-16T02:32:12.074Z,"13 km SW of Poth, Texas",earthquake,0.85740291051067,1.0011029388656,0.1,24,reviewed,tx,tx
 2025-10-15T23:55:04.330Z,33.0308333,-116.2923333,7.68,0.73,ml,29,56,0.07659,0.17,ci,ci41108751,2025-10-15T23:58:31.953Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.26,0.98,0.108,8,automatic,ci,ci
 2025-10-15T23:32:48.060Z,5.1075,125.3035,46.736,4.9,mb,51,101,0.411,0.89,us,us6000rhe7,2025-10-16T08:39:58.316Z,"37 km SSW of Sarangani, Philippines",earthquake,6.73,6.306,0.088,40,reviewed,us,us
@@ -185,13 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-15T10:10:06.840Z,44.382833333333,-110.64766666667,3.96,1.45,ml,12,71,0.05269,0.07,uu,uu80119576,2025-10-15T16:52:03.650Z,"47 km SE of West Yellowstone, Montana",earthquake,0.29,0.52,0.2006628186292,5,reviewed,uu,uu
 2025-10-15T10:09:48.730Z,44.380666666667,-110.64783333333,3.1,0.95,ml,6,105,0.05335,0.1,uu,uu80119571,2025-10-15T16:50:46.610Z,"47 km SE of West Yellowstone, Montana",earthquake,0.42,1.72,0.26806493344681,2,reviewed,uu,uu
 2025-10-15T10:08:57.430Z,44.3785,-110.6465,2.03,1.25,md,8,102,0.05307,0.11,uu,uu80119566,2025-10-15T16:55:32.010Z,"48 km SE of West Yellowstone, Montana",earthquake,0.46,4.76,0.31464627628,3,reviewed,uu,uu
-2025-10-15T10:08:08.140Z,44.379333333333,-110.644,4.11,1.4,md,9,101,0.0511,0.06,uu,uu80119561,2025-10-15T16:57:49.790Z,"48 km SE of West Yellowstone, Montana",earthquake,0.38,0.53,0.20620852803832,4,reviewed,uu,uu
-2025-10-15T10:07:06.124Z,64.6276,-147.6021,4.3,1.2,ml,,,,0.53,ak,ak025d8grsr8,2025-10-15T10:09:01.803Z,"18 km SW of North Pole, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-10-15T10:04:38.704Z,32.379,-102.098,6.5674,0.7,ml,26,50,0,0.2,tx,tx2025uhplqi,2025-10-15T10:46:18.644Z,"39 km WSW of Ackerly, Texas",earthquake,0.45387748867049,0.61157497641791,0.2,13,reviewed,tx,tx
-2025-10-15T10:02:53.130Z,35.11416667,-97.74616667,6.29,0.97,ml,42,85,0.06568710995,0.23,ok,ok2025ufdg,2025-10-15T12:43:30.879Z,"8 km WSW of Blanchard, Oklahoma",earthquake,,0.5,0.19,20,reviewed,ok,ok
-2025-10-15T10:02:26.680Z,44.386166666667,-110.65066666667,4.07,0.99,ml,8,136,0.05413,0.05,uu,uu80119556,2025-10-15T17:01:32.380Z,"47 km SE of West Yellowstone, Montana",earthquake,0.41,0.57,0.091997793742644,2,reviewed,uu,uu
-2025-10-15T10:01:33.740Z,48.421833333333,-122.595,21.57,0.92,ml,14,159,0.01081,0.06,uw,uw62194062,2025-10-15T17:08:09.770Z,"8 km WNW of La Conner, Washington",earthquake,0.52,0.46,0.062001570861968,8,reviewed,uw,uw
-2025-10-15T10:01:22.190Z,38.805999755859,-122.77850341797,2.7999999523163,1.08,md,18,68,0.007446,0.02,nc,nc75249556,2025-10-15T12:27:16.928Z,"4 km NNW of The Geysers, CA",earthquake,0.29,0.589999974,0.26,20,automatic,nc,nc
-2025-10-15T10:00:40.990Z,44.381666666667,-110.64416666667,3.79,1.85,ml,22,57,0.05055,0.1,uu,uu80119551,2025-10-15T15:42:55.100Z,"48 km SE of West Yellowstone, Montana",earthquake,0.24,0.4,0.38196234573957,8,reviewed,uu,uu
-2025-10-15T10:00:19.560Z,35.3611667,-117.7955,4.05,0.98,ml,36,48,0.1022,0.21,ci,ci41108447,2025-10-15T10:03:41.798Z,"15 km W of Johannesburg, CA",earthquake,0.2,0.62,0.137,19,automatic,ci,ci
-2025-10-15T09:58:22.850Z,44.380833333333,-110.6495,2.26,1.38,ml,12,83,0.05445,0.24,uu,uu80119546,2025-10-15T16:30:58.920Z,"47 km SE of West Yellowstone, Montana",earthquake,0.63,3.64,0.1594502956052,5,reviewed,uu,uu
