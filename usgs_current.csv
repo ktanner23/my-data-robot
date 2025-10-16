@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-16T09:33:53.550Z,33.59,-115.9656667,2.18,1.14,ml,54,44,0.03815,0.17,ci,ci41108895,2025-10-16T09:37:22.787Z,"8 km NNW of North Shore, CA",earthquake,0.15,0.29,0.119,26,automatic,ci,ci
+2025-10-16T09:33:53.550Z,33.59,-115.9656667,2.18,1.14,ml,54,44,0.03815,0.17,ci,ci41108895,2025-10-16T09:44:30.840Z,"8 km NNW of North Shore, CA",earthquake,0.15,0.29,0.119,26,automatic,ci,ci
 2025-10-16T09:09:09.140Z,37.330501556396,-122.21583557129,8.7700004577637,1.35,md,11,105,0.03636,0.05,nc,nc75250076,2025-10-16T09:10:45.315Z,"6 km SSE of Portola Valley, CA",earthquake,0.41,0.610000014,0.31,11,automatic,nc,nc
 2025-10-16T09:08:52.220Z,37.327167510986,-122.20099639893,8.329999923706,1.36,md,11,96,0.03439,0.09,nc,nc75250071,2025-10-16T09:37:19.180Z,"7 km SSE of Portola Valley, CA",earthquake,0.52,0.670000017,0.27,11,automatic,nc,nc
 2025-10-16T08:58:26.770Z,38.786499023438,-122.76616668701,2.2000000476837,0.75,md,9,96,0.01576,0.02,nc,nc75250061,2025-10-16T09:17:19.038Z,"1 km NW of The Geysers, CA",earthquake,0.43,1.13,0.04,8,automatic,nc,nc
@@ -37,6 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T04:49:36.520Z,61.2969,-147.6142,17.6,2.2,ml,,,,0.92,ak,ak025da0zm0l,2025-10-16T05:01:52.408Z,"56 km S of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-16T04:44:07.590Z,33.9975,-116.8243333,14.49,1.98,ml,96,14,0.03999,0.19,ci,ci41108815,2025-10-16T04:51:08.156Z,"9 km NNE of Banning, CA",earthquake,0.12,0.24,0.186,26,automatic,ci,ci
 2025-10-16T04:43:20.360Z,34.0848333,-117.4948333,2.83,1.37,ml,74,48,0.0488,0.19,ci,ci41108807,2025-10-16T04:54:07.820Z,"4 km WSW of Fontana, CA",earthquake,0.14,0.19,0.112,29,automatic,ci,ci
+2025-10-16T04:40:56.287Z,28.762,-98.456,9.2078,1.1,ml,13,53,0,0.1,tx,tx2025ujalor,2025-10-16T09:43:27.264Z,"5 km SE of Christine, Texas",earthquake,0.72382562933587,0.70162014997122,0.1,7,reviewed,tx,tx
 2025-10-16T04:31:39.879Z,28.973,-98.173,6.537,1.5,ml,28,64,0.1,0.3,tx,tx2025ujadnv,2025-10-16T08:27:22.709Z,"13 km SW of Poth, Texas",earthquake,0.55854768676572,0.81036419346585,0.1,13,reviewed,tx,tx
 2025-10-16T04:28:00.230Z,33.3088333,-116.3395,11.36,0.72,ml,47,55,0.02923,0.2,ci,ci41108799,2025-10-16T04:32:14.729Z,"7 km NNE of Borrego Springs, CA",earthquake,0.18,0.29,0.182,15,automatic,ci,ci
 2025-10-16T04:20:49.284Z,34.8859,26.3544,34.953,4.3,mb,40,145,0.933,0.82,us,us6000rhfp,2025-10-16T04:36:35.040Z,"35 km SSE of Palekastro, Greece",earthquake,5.06,6.415,0.091,39,reviewed,us,us
@@ -195,7 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-15T09:53:28.940Z,44.386166666667,-110.6485,2,0.98,ml,8,104,0.0526,0.2,uu,uu80119541,2025-10-15T16:08:25.810Z,"47 km SE of West Yellowstone, Montana",earthquake,0.67,1.72,0.276335375118,3,reviewed,uu,uu
 2025-10-15T09:52:09.020Z,44.382666666667,-110.648,4.09,1.26,ml,12,83,0.05296,0.09,uu,uu80119536,2025-10-15T16:05:07.480Z,"47 km SE of West Yellowstone, Montana",earthquake,0.31,0.44,0.24489625199089,4,reviewed,uu,uu
 2025-10-15T09:50:33.070Z,40.485168457031,-124.44066619873,16.329999923706,1.92,md,17,274,0.1519,0.05,nc,nc75249551,2025-10-15T12:07:16.784Z,"18 km SW of Ferndale, CA",earthquake,2.4,0.610000014,0.06,11,automatic,nc,nc
-2025-10-15T09:48:24.870Z,44.385,-110.64833333333,4.06,1.62,md,9,102,0.05269,0.05,uu,uu80005093,2025-10-15T16:01:44.120Z,"47 km SE of West Yellowstone, Montana",earthquake,0.34,0.96,0.044102409485428,7,reviewed,uu,uu
-2025-10-15T09:48:11.060Z,44.383,-110.647,4.04,1.44,ml,13,76,0.05218,0.09,uu,uu80119531,2025-10-15T16:00:22.050Z,"47 km SE of West Yellowstone, Montana",earthquake,0.38,0.5,0.19004875327899,5,reviewed,uu,uu
-2025-10-15T09:42:30.270Z,33.6655,-116.7648333,12.83,0.73,ml,39,48,0.06556,0.16,ci,ci41108439,2025-10-15T13:41:08.543Z,"9 km SSW of Idyllwild, CA",earthquake,0.2,0.36,0.214,23,reviewed,ci,ci
-2025-10-15T09:41:57.530Z,38.832332611084,-122.81749725342,2.0099999904633,1.29,md,20,54,0.01538,0.02,nc,nc75249541,2025-10-15T11:22:17.456Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.400000006,0.15,22,automatic,nc,nc
