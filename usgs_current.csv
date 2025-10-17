@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-17T07:26:59.550Z,38.830333709717,-122.83249664307,7.2699999809265,0.58,md,10,127,0.007474,0.05,nc,nc75250536,2025-10-17T07:28:37.941Z,"9 km NW of The Geysers, CA",earthquake,1.19,4.38999987,0.34,11,automatic,nc,nc
-2025-10-17T07:25:34.380Z,38.827499389648,-122.81466674805,1.9900000095367,1.08,md,18,42,0.0165,0.01,nc,nc75250531,2025-10-17T07:27:13.034Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.519999981,0.1,19,automatic,nc,nc
+2025-10-17T07:25:34.380Z,38.827499389648,-122.81466674805,1.9900000095367,1.08,md,18,42,0.0165,0.01,nc,nc75250531,2025-10-17T07:42:18.674Z,"8 km NW of The Geysers, CA",earthquake,0.21,0.519999981,0.1,19,automatic,nc,nc
 2025-10-17T07:17:18.550Z,17.901666666667,-66.955,7.62,2.22,md,6,239,0.1026,0.08,pr,pr71498258,2025-10-17T07:26:38.780Z,"9 km SSW of Guánica, Puerto Rico",earthquake,1.14,0.33,0.12615236905301,4,reviewed,pr,pr
 2025-10-17T07:02:00.130Z,18.172,-67.0285,24.8,2.34,md,15,71,0.05462,0.16,pr,pr71498243,2025-10-17T07:14:17.730Z,"5 km W of Maricao, Puerto Rico",earthquake,0.4,0.88,0.022800972302151,4,reviewed,pr,pr
 2025-10-17T06:57:52.920Z,33.0891667,-116.0315,8.82,0.7,ml,29,80,0.09543,0.2,ci,ci41109895,2025-10-17T07:01:21.863Z,"11 km ESE of Ocotillo Wells, CA",earthquake,0.23,0.73,0.175,10,automatic,ci,ci
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T23:07:02.770Z,34.0403333,-117.2316667,7.01,1.8,ml,87,18,0.07757,0.18,ci,ci41109551,2025-10-16T23:17:40.540Z,"3 km ESE of Loma Linda, CA",earthquake,0.11,0.31,0.116,25,automatic,ci,ci
 2025-10-16T23:06:21.080Z,34.0403333,-117.2335,6.13,1.3,ml,63,22,0.08164,0.16,ci,ci41109535,2025-10-16T23:12:26.165Z,"3 km ESE of Loma Linda, CA",earthquake,0.12,0.47,0.161,29,automatic,ci,ci
 2025-10-16T23:04:11.010Z,34.041,-117.2345,6.37,1.37,ml,76,27,0.07574,0.17,ci,ci41109519,2025-10-16T23:08:06.893Z,"3 km ESE of Loma Linda, CA",earthquake,0.11,0.41,0.281,25,automatic,ci,ci
-2025-10-16T23:03:16.195Z,9.7561,126.1093,69.015,6.1,mww,104,22,2.72,0.98,us,us6000rhns,2025-10-17T05:59:29.746Z,"0 km WSW of Union, Philippines",earthquake,9.22,0.597,0.066,22,reviewed,us,us
+2025-10-16T23:03:16.195Z,9.7561,126.1093,69.015,6.1,mww,104,22,2.72,0.98,us,us6000rhns,2025-10-17T07:42:33.309Z,"0 km WSW of Union, Philippines",earthquake,9.22,0.597,0.066,22,reviewed,us,us
 2025-10-16T22:50:38.150Z,33.034,-116.5046667,6.51,1.12,ml,39,48,0.07057,0.16,ci,ci41109511,2025-10-16T22:54:06.765Z,"10 km ESE of Julian, CA",earthquake,0.17,0.4,0.221,30,automatic,ci,ci
 2025-10-16T22:40:52.597Z,31.211,-103.606,2.1521,1.5,ml,19,61,0,0.2,tx,tx2025ukkgeo,2025-10-17T04:25:03.882Z,"18 km SSW of Lindsay, Texas",earthquake,1.0026998000648,1.155718270236,0.1,12,reviewed,tx,tx
 2025-10-16T22:40:19.260Z,35.7135,-117.5516667,4.55,0.7,ml,26,63,0.1086,0.15,ci,ci41109503,2025-10-16T22:44:06.908Z,"15 km WSW of Searles Valley, CA",earthquake,0.19,0.46,0.118,13,automatic,ci,ci
@@ -249,6 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T08:31:27.546Z,28.975,-98.182,7.9747,1.2,ml,20,66,0.1,0.3,tx,tx2025ujicfj,2025-10-16T12:30:06.323Z,"14 km SW of Poth, Texas",earthquake,0.62370505956786,1.0279777544072,0.1,8,reviewed,tx,tx
 2025-10-16T08:28:00.500Z,32.4106667,-115.4813333,7.18,1.52,ml,27,62,0.1524,0.18,ci,ci41108887,2025-10-16T18:26:34.599Z,"21 km SW of Puebla, B.C., MX",earthquake,0.27,0.95,0.11,22,reviewed,ci,ci
 2025-10-16T08:12:32.110Z,35.3551667,-117.7908333,5.61,1.37,ml,43,47,0.09842,0.2,ci,ci41108879,2025-10-16T08:15:58.130Z,"14 km W of Johannesburg, CA",earthquake,0.18,0.69,0.162,25,automatic,ci,ci
-2025-10-16T07:48:49.301Z,28.972,-98.175,5.8624,1.1,ml,18,64,0.1,0.3,tx,tx2025ujgrmg,2025-10-16T12:39:25.384Z,"14 km SW of Poth, Texas",earthquake,0.71287084547292,1.1154370577591,0.1,8,reviewed,tx,tx
-2025-10-16T07:48:20.388Z,39.3117,-119.9768,6.2,1.4,ml,18,84.38,0.05,0.0977,nn,nn00906000,2025-10-16T07:50:29.748Z,"6 km N of Incline Village, Nevada",earthquake,,0.6,0.22,8,automatic,nn,nn
-2025-10-16T07:45:28.425Z,28.979,-98.18,7.4705,1.2,ml,13,75,0.1,0.1,tx,tx2025ujgooc,2025-10-16T11:20:21.881Z,"13 km SW of Poth, Texas",earthquake,0.93718590385878,1.9609249414273,0.1,6,reviewed,tx,tx
