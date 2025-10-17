@@ -32,6 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T10:53:58.650Z,35.6175,-117.5981667,5.88,0.85,ml,25,66,0.0846,0.14,ci,ci41109943,2025-10-17T10:57:22.821Z,"7 km E of Ridgecrest, CA",earthquake,0.17,0.91,0.161,13,automatic,ci,ci
 2025-10-17T10:48:55.940Z,32.7118333,-115.3636667,15.53,1.91,ml,33,68,0.02838,0.23,ci,ci41109935,2025-10-17T15:27:07.672Z,"11 km S of Holtville, CA",earthquake,0.3,0.44,0.167,21,reviewed,ci,ci
 2025-10-17T10:24:25.200Z,19.324333333333,-67.358,67.24,3.39,md,15,215,0.8838,0.39,pr,pr71498283,2025-10-17T10:40:34.040Z,"96 km NNW of San Antonio, Puerto Rico",earthquake,3.95,9.44,0.12606020752326,10,reviewed,pr,pr
+2025-10-17T10:16:52.189Z,7.1167,127.2002,10,4.7,mb,64,55,1.609,1.16,us,us6000rhrn,2025-10-17T15:38:46.040Z,"71 km ESE of Santiago, Philippines",earthquake,6.55,1.863,0.069,65,reviewed,us,us
 2025-10-17T09:59:57.565Z,62.29,-151.2791,78,2.1,ml,,,,0.5,ak,ak025dbrkbbs,2025-10-17T10:04:16.806Z,"33 km N of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-17T09:58:53.328Z,61.2122,-151.7326,122.2,1.9,ml,,,,3.26,ak,ak025dbrk37x,2025-10-17T10:02:31.429Z,"35 km WNW of Beluga, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2025-10-17T09:57:12.382Z,28.882,-98.36,6.7519,1.3,mlv,11,61,0.1,0.5,tx,tx2025ulgqzk,2025-10-17T10:10:35.165Z,"14 km SE of Pleasanton, Texas",earthquake,0,3.4259877204895,0.2,9,automatic,tx,tx
@@ -98,8 +99,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-17T03:38:18.127Z,-24.214,179.8235,559.446,4.2,mb,35,85,6.646,0.76,us,us6000rhq9,2025-10-17T03:54:48.040Z,"south of the Fiji Islands",earthquake,13.75,10.226,0.074,51,reviewed,us,us
 2025-10-17T03:37:27.770Z,34.0431667,-117.2345,8.01,0.73,ml,40,48,0.07392,0.18,ci,ci41109783,2025-10-17T03:41:00.213Z,"2 km ESE of Loma Linda, CA",earthquake,0.19,0.62,0.166,17,automatic,ci,ci
 2025-10-17T03:36:00.100Z,34.0438333,-117.2298333,6.77,1.01,ml,51,46,0.07555,0.17,ci,ci41109775,2025-10-17T03:39:24.203Z,"3 km E of Loma Linda, CA",earthquake,0.15,0.43,0.234,31,automatic,ci,ci
-2025-10-17T03:28:13.054Z,31.59,-104.115,8.0836,1.5,ml,7,243,0,0.1,tx,tx2025ukttuf,2025-10-17T03:30:41.435Z,"43 km NW of Toyah, Texas",earthquake,0,2.4574465751648,0.1,7,automatic,tx,tx
 2025-10-17T03:28:12.790Z,35.8951667,-117.7405,7.84,1.44,ml,23,48,0.08278,0.12,ci,ci41109767,2025-10-17T15:19:29.313Z,"16 km ESE of Little Lake, CA",earthquake,0.16,0.52,0.07,7,reviewed,ci,ci
+2025-10-17T03:28:12.725Z,31.626,-104.14,6.597,1.5,ml,39,56,0,0.2,tx,tx2025ukttuf,2025-10-17T15:36:09.839Z,"47 km NW of Toyah, Texas",earthquake,0.43394051815746,0.54061747962407,0.2,30,reviewed,tx,tx
 2025-10-17T03:19:52.710Z,62.6013,-151.9865,11.9,1.9,ml,,,,0.36,ak,ak025dbnr4p3,2025-10-17T03:21:47.431Z,"63 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-17T03:07:21.466Z,36.8974,-116.2337,9.914,0.13,ml,26,47,0.016,0.0946,nn,nn00906028,2025-10-17T14:08:58.550Z,"46 km E of Beatty, Nevada",earthquake,,0.6864,0.48,6,reviewed,nn,nn
 2025-10-17T03:02:34.850Z,38.787166595459,-122.7688369751,0.8299999833107,0.78,md,14,81,0.01607,0.02,nc,nc75250486,2025-10-17T05:27:16.689Z,"2 km NW of The Geysers, CA",earthquake,0.2,0.5,0.07,14,automatic,nc,nc
@@ -137,7 +138,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T23:51:41.590Z,47.869333333333,-124.2615,-0.3,1.27,ml,17,66,0.1073,0.35,uw,uw62194812,2025-10-17T02:37:34.500Z,"12 km SE of Forks, Washington",earthquake,0.53,1.12,0.22317179721572,9,reviewed,uw,uw
 2025-10-16T23:40:34.020Z,34.0411667,-117.2323333,7.16,2.03,ml,106,15,0.07657,0.17,ci,ci41109671,2025-10-16T23:51:22.400Z,"3 km ESE of Loma Linda, CA",earthquake,0.1,0.28,0.135,25,automatic,ci,ci
 2025-10-16T23:39:26.040Z,34.04,-117.233,6.49,1.36,ml,68,21,0.07725,0.19,ci,ci41109655,2025-10-16T23:50:17.020Z,"3 km ESE of Loma Linda, CA",earthquake,0.13,0.45,0.145,27,automatic,ci,ci
-2025-10-16T23:32:54.630Z,28.984,-98.162,5.9176,1.5,mlv,16,101,0.1,0.5,tx,tx2025uklyzv,2025-10-17T10:09:51.164Z,"12 km SW of Poth, Texas",earthquake,0,2.780974149704,0.1,12,automatic,tx,tx
+2025-10-16T23:32:52.993Z,28.98,-98.167,8.4288,1.3,ml,11,70,0.1,0.3,tx,tx2025uklyzv,2025-10-17T15:42:25.490Z,"12 km SW of Poth, Texas",earthquake,1.1516580018557,2.2322396283604,0.1,6,reviewed,tx,tx
 2025-10-16T23:23:47.893Z,32.143,-101.999,8.8623,1.1,ml,18,57,0,0.1,tx,tx2025uklrdz,2025-10-17T03:13:18.903Z,"17 km NNE of Midland, Texas",earthquake,0.46487240952087,1.2303454500944,0.1,11,reviewed,tx,tx
 2025-10-16T23:16:52.170Z,34.0419998,-117.2346649,5.53,1.37,ml,40,48,0.1031,0.16,ci,ci41109631,2025-10-16T23:27:07.300Z,"2 km ESE of Loma Linda, CA",earthquake,0.22,1.38,0.188,15,automatic,ci,ci
 2025-10-16T23:15:30.880Z,34.0423317,-117.2350006,5.06,1.15,ml,23,66,0.1031,0.14,ci,ci41109623,2025-10-16T23:17:37.349Z,"2 km ESE of Loma Linda, CA",earthquake,0.37,0.94,0.159,12,automatic,ci,ci
@@ -147,7 +148,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-16T23:13:15.373Z,64.988,-147.4551,0,1.2,ml,,,,0.99,ak,ak025dac334h,2025-10-16T23:14:43.696Z,"8 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-16T23:12:08.370Z,34.0411682,-117.2356644,5.92,1.29,ml,33,48,0.1019,0.14,ci,ci41109583,2025-10-16T23:22:54.490Z,"2 km ESE of Loma Linda, CA",earthquake,0.26,1.01,0.202,14,automatic,ci,ci
 2025-10-16T23:11:32.030Z,34.0415001,-117.23983,5.47,0.93,ml,15,103,0.1224,0.19,ci,ci41109575,2025-10-16T23:58:57.605Z,"2 km ESE of Loma Linda, CA",earthquake,0.61,1.47,0.159,8,reviewed,ci,ci
-2025-10-16T23:11:07.829Z,28.963,-98.173,7.8531,1.8,ml,11,107,0.1,0.3,tx,tx2025uklggo,2025-10-17T00:00:25.010Z,"14 km SW of Poth, Texas",earthquake,0,4.0172781944275,0.2,9,automatic,tx,tx
+2025-10-16T23:11:06.575Z,28.977,-98.179,8.6522,1.7,ml,16,97,0.1,0.2,tx,tx2025uklggo,2025-10-17T15:37:22.418Z,"13 km SW of Poth, Texas",earthquake,1.056917092777,1.8949917369625,0.2,13,reviewed,tx,tx
 2025-10-16T23:09:47.420Z,34.0411682,-117.2344971,6.52,1.65,ml,69,23,0.1015,0.17,ci,ci41109567,2025-10-16T23:20:46.080Z,"3 km ESE of Loma Linda, CA",earthquake,0.18,0.64,0.286,25,automatic,ci,ci
 2025-10-16T23:07:18.770Z,-23.3473,178.8255,573.03,5.1,mb,48,81,5.621,0.7,us,us6000rhnu,2025-10-16T23:43:58.040Z,"south of the Fiji Islands",earthquake,15.18,7.024,0.098,39,reviewed,us,us
 2025-10-16T23:07:02.770Z,34.0403333,-117.2316667,7.01,1.8,ml,87,18,0.07757,0.18,ci,ci41109551,2025-10-16T23:17:40.540Z,"3 km ESE of Loma Linda, CA",earthquake,0.11,0.31,0.116,25,automatic,ci,ci
