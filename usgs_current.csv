@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T21:33:45.630Z,18.429666666667,-67.4395,19.93,2.38,md,6,300,0.3139,0.16,pr,pr71498508,2025-10-21T21:55:22.070Z,"22 km WNW of Rincón, Puerto Rico",earthquake,1.1,15.65,0.10845173386944,4,reviewed,pr,pr
 2025-10-21T21:28:01.430Z,34.1151667,-117.4728333,6.28,0.8,ml,30,57,0.05609,0.18,ci,ci41112447,2025-10-21T21:32:01.537Z,"2 km NW of Fontana, CA",earthquake,0.27,0.59,0.131,28,automatic,ci,ci
 2025-10-21T21:25:40.886Z,61.0569,-151.9609,89.9,1.1,ml,,,,0.48,ak,ak025diknky5,2025-10-21T21:38:25.494Z,"44 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-10-21T21:20:20.589Z,60.1065,-152.4247,92.1,2.2,ml,,,,0.4,ak,ak025dikmgs1,2025-10-21T21:23:56.904Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-10-21T21:20:20.589Z,60.1065,-152.4247,92.1,2.2,ml,,,,0.4,ak,ak025dikmgs1,2025-10-21T22:35:25.040Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-21T21:19:36.469Z,35.8735,-114.9505,9.9269,1.77,ml,13,298,0.653,0.311,nn,nn00906191,2025-10-21T21:22:27.596Z,"15 km SW of Boulder City, Nevada",earthquake,,1.1644,0.36,10,automatic,nn,nn
 2025-10-21T21:12:21.380Z,38.82466506958,-122.80333709717,2.6300001144409,0.65,md,7,82,0.01707,0.01,nc,nc75252606,2025-10-21T22:07:18.921Z,"7 km NW of The Geysers, CA",earthquake,0.54,2.55999994,0.15,8,automatic,nc,nc
 2025-10-21T20:52:15.180Z,37.861000061035,-122.24366760254,9.0100002288818,0.83,md,12,77,0.0139,0.04,nc,nc75252601,2025-10-21T21:52:17.833Z,"3 km ESE of Berkeley, CA",earthquake,0.43,0.50999999,0.22,7,automatic,nc,nc
@@ -36,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T19:26:51.955Z,56.3326,-154.1442,56.7,3.1,ml,,,,0.63,ak,ak025dijh26w,2025-10-21T19:29:56.485Z,"68 km S of Akhiok, Alaska",earthquake,,10.6,,,automatic,ak,ak
 2025-10-21T19:26:03.988Z,51.518,159.1667,35,4.7,mb,33,140,1.541,0.92,us,us6000riiu,2025-10-21T19:52:23.040Z,"165 km SSE of Vilyuchinsk, Russia",earthquake,8.64,1.9,0.112,24,reviewed,us,us
 2025-10-21T19:24:09.120Z,35.6363333,-117.4618333,6.1,0.8,ml,26,53,0.04229,0.12,ci,ci41112399,2025-10-21T20:31:27.194Z,"16 km SSW of Searles Valley, CA",earthquake,0.15,0.49,0.158,13,reviewed,ci,ci
-2025-10-21T19:07:19.180Z,37.87166595459,-122.249168396,9.0100002288818,2.2,md,68,32,0.002006,0.06,nc,nc75252501,2025-10-21T22:22:38.047Z,"2 km E of Berkeley, CA",earthquake,0.12,0.239999995,0.14,59,automatic,nc,nc
+2025-10-21T19:07:19.180Z,37.87166595459,-122.249168396,9.0100002288818,2.2,md,68,32,0.002006,0.06,nc,nc75252501,2025-10-21T22:32:18.112Z,"2 km E of Berkeley, CA",earthquake,0.12,0.239999995,0.14,59,automatic,nc,nc
 2025-10-21T19:04:56.666Z,69.5269,-144.0249,0,2.6,ml,,,,0.64,ak,ak025dijc8wy,2025-10-21T19:08:59.849Z,"69 km SSW of Kaktovik, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-10-21T19:04:32.720Z,45.776166666667,-120.78683333333,-0.77,2,ml,9,90,0.409,0.24,uw,uw62197122,2025-10-21T20:50:12.210Z,"5 km SSE of Goldendale, Washington",explosion,0.62,31.61,0.18659405353108,3,reviewed,uw,uw
 2025-10-21T19:03:08.660Z,33.8663333,-117.5125,2.02,1.16,ml,48,32,0.07439,0.22,ci,ci41112367,2025-10-21T19:07:09.332Z,"2 km SSE of Home Gardens, CA",earthquake,0.25,0.34,0.277,29,automatic,ci,ci
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T08:12:27.725Z,61.7157,-147.4872,14.4,2.8,ml,,,,0.76,ak,ak025dicu4s3,2025-10-21T08:17:34.329Z,"13 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-21T08:07:46.584Z,60.4165,-151.6407,58.8,1.8,ml,,,,0.34,ak,ak025dict3r7,2025-10-21T08:16:24.363Z,"19 km WNW of Cohoe, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-10-21T08:02:36.663Z,30.2273,52.0003,10,5,mb,69,90,6.449,1.1,us,us6000rieu,2025-10-21T09:39:07.241Z,"47 km ENE of Nūrābād, Iran",earthquake,8.38,1.858,0.075,57,reviewed,us,us
+2025-10-21T08:01:52.510Z,53.431,-168.215,3.04,1.06,ml,7,240,0.02956,0.17,av,av93835871,2025-10-21T22:34:29.050Z,"69 km NE of Nikolski, Alaska",earthquake,0.67,0.88,0.19399775118607,6,reviewed,av,av
 2025-10-21T07:45:50.730Z,38.801166534424,-122.76950073242,1.0700000524521,0.56,md,7,127,0.01491,0.03,nc,nc75252231,2025-10-21T08:27:18.302Z,"3 km NNW of The Geysers, CA",earthquake,0.4,1.02999997,0.2,8,automatic,nc,nc
 2025-10-21T07:42:51.700Z,31.4791667,-115.6161667,7.03,3.52,ml,12,133,0.482,0.18,ci,ci41112119,2025-10-21T13:58:43.820Z,"93 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.37,3.32,0.116,108,reviewed,ci,ci
 2025-10-21T07:39:47.320Z,18.8275,-65.2176,73,4,md,8,313,0.8034,0.3,pr,pr2025294000,2025-10-21T11:28:35.869Z,"58 km N of Culebra, Puerto Rico",earthquake,8.64,12.53,0.11,5,reviewed,pr,pr
@@ -221,4 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-20T22:55:15.400Z,36.970664978027,-121.31583404541,10.470000267029,1.21,md,6,152,0.1457,0.03,nc,nc75252086,2025-10-20T23:32:17.771Z,"16 km NNE of Hollister, CA",earthquake,1.09,1.75999999,0.13,5,automatic,nc,nc
 2025-10-20T22:52:25.430Z,47.446,-112.752,20,1.15,ml,12,142,0.3435,0.18,mb,mb90118053,2025-10-21T14:29:33.740Z,"27 km W of Augusta, Montana",earthquake,0.51,31.61,0.18115072213665,7,reviewed,mb,mb
 2025-10-20T22:43:15.730Z,53.1487,159.7327,63.936,4.9,mb,50,120,0.665,0.7,us,us6000rid3,2025-10-20T23:46:49.040Z,"74 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.09,5.519,0.051,118,reviewed,us,us
-2025-10-20T22:34:57.410Z,38.815334320068,-122.85900115967,3.420000076294,0.77,md,8,181,0.01231,0.06,nc,nc75252076,2025-10-20T23:07:18.491Z,"10 km WNW of The Geysers, CA",earthquake,1.5,2.21000004,0.19,8,automatic,nc,nc
