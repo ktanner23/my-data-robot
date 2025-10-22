@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-22T21:05:50.400Z,19.419500350952,-155.26016235352,2.0999999046326,1.7,ml,18,120,0.00738,0.200000003,hv,hv74812271,2025-10-22T21:08:53.990Z,"3 km SW of Volcano, Hawaii",earthquake,0.27,0.319999993,0.23,10,automatic,hv,hv
 2025-10-22T21:04:15.760Z,19.428833007812,-155.24450683594,1.5499999523163,1.73,ml,9,283,0.02194,0.200000003,hv,hv74812261,2025-10-22T21:07:07.280Z,"1 km SW of Volcano, Hawaii",earthquake,0.69,0.620000005,0.23,8,automatic,hv,hv
-2025-10-22T20:41:43.586Z,60.0266,-153.5296,165.4,2.5,ml,,,,0.64,ak,ak025dk7oxt3,2025-10-22T20:54:32.031Z,"41 km NE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-22T20:41:43.586Z,60.0266,-153.5296,165.4,2.5,ml,,,,0.64,ak,ak025dk7oxt3,2025-10-22T21:16:40.040Z,"41 km NE of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-22T20:33:37.330Z,38.810333251953,-122.78116607666,0.12999999523163,0.36,md,8,140,0.002946,0.02,nc,nc75253046,2025-10-22T20:57:18.233Z,"4 km NNW of The Geysers, CA",earthquake,0.43,0.550000012,0.27,9,automatic,nc,nc
 2025-10-22T20:27:01.900Z,36.2245,-118.154,4.26,1.26,ml,26,79,0.1477,0.16,ci,ci41112943,2025-10-22T20:30:30.942Z,"15 km WSW of Olancha, CA",earthquake,0.22,0.83,0.204,23,automatic,ci,ci
-2025-10-22T20:19:26.190Z,33.4916667,-116.445,13.26,0.82,ml,33,81,0.1314,0.18,ci,ci41112935,2025-10-22T21:05:30.034Z,"22 km ESE of Anza, CA",earthquake,0.26,0.6,0.134,23,automatic,ci,ci
-2025-10-22T20:11:47.260Z,35.9363333,-117.7411667,8.3,1.34,ml,33,40,0.06345,0.12,ci,ci41112927,2025-10-22T21:05:27.921Z,"15 km E of Little Lake, CA",earthquake,0.14,0.34,0.253,27,automatic,ci,ci
-2025-10-22T19:56:31.000Z,33.3408333,-116.823,4.75,1.35,ml,62,21,0.03555,0.21,ci,ci41112911,2025-10-22T21:06:06.890Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.16,0.4,0.125,25,automatic,ci,ci
+2025-10-22T20:19:26.190Z,33.4916667,-116.445,13.26,0.82,ml,33,81,0.1314,0.18,ci,ci41112935,2025-10-22T21:05:30.034Z,"22 km ESE of Anza, CA",earthquake,0.26,0.6,0.134,23,reviewed,ci,ci
+2025-10-22T20:11:47.260Z,35.9363333,-117.7411667,8.3,1.34,ml,33,40,0.06345,0.12,ci,ci41112927,2025-10-22T21:05:27.921Z,"15 km E of Little Lake, CA",earthquake,0.14,0.34,0.253,27,reviewed,ci,ci
+2025-10-22T19:56:31.000Z,33.3408333,-116.823,4.75,1.35,ml,62,21,0.03555,0.21,ci,ci41112911,2025-10-22T21:06:06.890Z,"4 km ESE of Palomar Observatory, CA",earthquake,0.16,0.4,0.125,25,reviewed,ci,ci
 2025-10-22T19:50:20.800Z,34.1183333,-117.4741667,6.14,0.99,ml,28,59,0.05464,0.17,ci,ci41112903,2025-10-22T19:55:20.792Z,"3 km NNW of Fontana, CA",earthquake,0.29,0.5,0.375,26,automatic,ci,ci
 2025-10-22T19:49:32.791Z,32.343,-101.111,6.8495,1.4,ml,9,156,0.1,0.5,tx,tx2025uvexuc,2025-10-22T19:55:38.965Z,"9 km W of Westbrook, Texas",earthquake,0,2.1668937206268,0.3,4,automatic,tx,tx
 2025-10-22T19:32:44.701Z,61.2065,-145.6156,29.9,2.3,ml,,,,0.55,ak,ak025dk71kjd,2025-10-22T19:37:48.877Z,"40 km ENE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -194,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-21T21:33:45.630Z,18.429666666667,-67.4395,19.93,2.38,md,6,300,0.3139,0.16,pr,pr71498508,2025-10-21T21:55:22.070Z,"22 km WNW of Rincón, Puerto Rico",earthquake,1.1,15.65,0.10845173386944,4,reviewed,pr,pr
 2025-10-21T21:28:01.430Z,34.1151667,-117.4728333,6.28,0.8,ml,30,57,0.05609,0.18,ci,ci41112447,2025-10-21T21:32:01.537Z,"2 km NW of Fontana, CA",earthquake,0.27,0.59,0.131,28,automatic,ci,ci
 2025-10-21T21:25:40.886Z,61.0569,-151.9609,89.9,1.1,ml,,,,0.48,ak,ak025diknky5,2025-10-21T21:38:25.494Z,"44 km W of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-10-21T21:20:20.589Z,60.1065,-152.4247,92.1,2.2,ml,,,,0.4,ak,ak025dikmgs1,2025-10-21T22:35:25.040Z,"42 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-21T21:19:39.089Z,36.0287,-115.0859,0,1.8,ml,11,301,0.48,0.1329,nn,nn00906191,2025-10-21T22:53:24.943Z,"8 km SSW of Whitney, Nevada",earthquake,,0,0.59,5,reviewed,nn,nn
-2025-10-21T21:12:21.380Z,38.82466506958,-122.80333709717,2.6300001144409,0.65,md,7,82,0.01707,0.01,nc,nc75252606,2025-10-21T22:07:18.921Z,"7 km NW of The Geysers, CA",earthquake,0.54,2.55999994,0.15,8,automatic,nc,nc
-2025-10-21T21:11:46.240Z,49.336333333333,-120.48166666667,-0.37,1.89,ml,11,175,0.5604,0.41,uw,uw62197187,2025-10-22T05:05:18.380Z,"13 km S of Princeton, Canada",explosion,1.44,31.61,0.12179671314209,8,reviewed,uw,uw
