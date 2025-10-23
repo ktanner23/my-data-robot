@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T08:35:54.530Z,19.335166931152,-155.15682983398,3.079999923706,1.76,ml,42,80,0.04559,0.219999999,hv,hv74812761,2025-10-23T08:39:51.710Z,"14 km SE of Volcano, Hawaii",earthquake,0.42,1.04999995,0.29,4,automatic,hv,hv
 2025-10-23T08:29:49.800Z,38.816165924072,-122.76349639893,2.2000000476837,0.7,md,9,110,0.01374,0.01,nc,nc75253256,2025-10-23T09:52:19.352Z,"4 km W of Cobb, CA",earthquake,0.39,1.05999994,0.13,8,automatic,nc,nc
 2025-10-23T08:15:50.660Z,38.832832336426,-122.8176651001,1.7799999713898,0.76,md,17,56,0.01506,0.01,nc,nc75253251,2025-10-23T09:27:20.181Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.600000024,0.1,17,automatic,nc,nc
-2025-10-23T08:05:42.420Z,37.3127,-104.5072,5,2.9,ml,11,81,0.291,0.4,us,us6000riud,2025-10-23T09:00:01.343Z,"10 km NNW of El Moro, Colorado",earthquake,2,1.907,0.057,40,reviewed,us,us
+2025-10-23T08:05:42.420Z,37.3127,-104.5072,5,2.9,ml,11,81,0.291,0.4,us,us6000riud,2025-10-23T11:29:10.909Z,"10 km NNW of El Moro, Colorado",earthquake,2,1.907,0.057,40,reviewed,us,us
 2025-10-23T08:00:36.233Z,60.9526,-151.5311,70.5,1.7,ml,,,,0.7,ak,ak025dlnu9t3,2025-10-23T08:02:31.221Z,"24 km WSW of Tyonek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-23T07:36:16.430Z,62.7218,-149.573,64.9,1.7,ml,,,,1.03,ak,ak025dlngigb,2025-10-23T07:39:03.067Z,"40 km NE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-23T07:08:19.570Z,38.794166564941,-122.75,1.6699999570847,1.28,md,20,91,0.01506,0.03,nc,nc75253226,2025-10-23T08:47:19.907Z,"2 km NNE of The Geysers, CA",earthquake,0.26,0.460000008,0.15,20,automatic,nc,nc
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T04:23:16.627Z,63.0866,-150.4803,29.6,1.8,ml,,,,1.32,ak,ak025dlllf48,2025-10-23T04:26:04.891Z,"67 km NNE of Petersville, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2025-10-23T04:17:21.722Z,58.4271,-153.722,67.6,2.3,ml,,,,0.19,ak,ak025dllk5fw,2025-10-23T05:02:01.040Z,"62 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-23T04:07:01.690Z,-6.6541,148.2843,63.146,5.2,mb,35,89,2.951,0.74,us,us6000rit3,2025-10-23T05:11:19.359Z,"49 km ESE of Finschhafen, Papua New Guinea",earthquake,8.23,10.101,0.1,33,reviewed,us,us
-2025-10-23T03:43:02.734Z,9.0779,-83.8228,43.057,4.3,mb,28,130,0.683,0.95,us,us6000rit2,2025-10-23T05:55:05.398Z,"33 km SSW of Daniel Flores, Costa Rica",earthquake,6.59,10.768,0.125,18,reviewed,us,us
+2025-10-23T03:43:02.734Z,9.0779,-83.8228,43.057,4.3,mb,28,130,0.683,0.95,us,us6000rit2,2025-10-23T11:28:36.525Z,"33 km SSW of Daniel Flores, Costa Rica",earthquake,6.59,10.768,0.125,18,reviewed,us,us
 2025-10-23T03:19:19.580Z,38.838500976562,-122.78033447266,1.6799999475479,1.04,md,13,71,0.005121,0.02,nc,nc75253171,2025-10-23T05:32:17.649Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.449999988,0.22,13,automatic,nc,nc
 2025-10-23T03:17:10.100Z,39.931499481201,-123.57849884033,5.8600001335144,1.95,md,15,71,0.02205,0.07,nc,nc75253166,2025-10-23T05:07:18.474Z,"28 km NNW of Laytonville, CA",earthquake,0.25,0.519999981,0.06,12,automatic,nc,nc
 2025-10-23T03:06:59.791Z,64.8316,-146.6515,16.2,1.1,ml,,,,0.56,ak,ak025dlkwj0o,2025-10-23T03:09:32.784Z,"11 km ESE of Pleasant Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -165,6 +165,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-22T11:52:37.690Z,35.7441667,-117.5821667,6.32,0.73,ml,21,57,0.0725,0.19,ci,ci41112647,2025-10-22T13:40:13.054Z,"16 km NNE of Ridgecrest, CA",earthquake,0.27,0.68,0.249,10,reviewed,ci,ci
 2025-10-22T11:45:00.252Z,60.613,-147.5991,27.2,1.5,ml,,,,0.16,ak,ak025dk2cskp,2025-10-22T11:46:54.087Z,"57 km WSW of Tatitlek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-22T11:43:19.388Z,-5.6835,128.8532,294.002,4.1,mb,27,67,1.558,0.65,us,us6000rin2,2025-10-23T04:09:33.040Z,"232 km SSE of Ambon, Indonesia",earthquake,9.84,7.788,0.131,16,reviewed,us,us
-2025-10-22T11:32:13.939Z,31.535,-104.012,6.9843,1.8,ml,36,57,0,0.1,tx,tx2025uuolcm,2025-10-22T12:29:11.751Z,"32 km NW of Toyah, Texas",earthquake,0.4801818316328,0.48563415707488,0,8,reviewed,tx,tx
-2025-10-22T11:29:04.640Z,46.848166666667,-121.70166666667,0.28,0.32,ml,13,131,0.02488,0.08,uw,uw62197397,2025-10-22T15:47:49.310Z,"26 km N of Packwood, Washington",earthquake,0.31,0.68,0.18973933658572,7,reviewed,uw,uw
-2025-10-22T11:28:57.730Z,46.020666666667,-122.43266666667,16.48,0.58,ml,6,170,0.08868,0.12,uw,uw61504858,2025-10-22T15:53:45.820Z,"12 km N of Amboy, Washington",earthquake,1.04,1.09,0.10716459070007,4,reviewed,uw,uw
