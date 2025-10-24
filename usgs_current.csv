@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-10-24T21:41:57.740Z,35.8726654,-117.6669998,6.96,1.74,ml,28,65,0.07628,0.21,ci,ci41317952,2025-10-24T21:44:03.580Z,"23 km ESE of Little Lake, CA",earthquake,0.34,1.08,0.221,27,automatic,ci,ci
+2025-10-24T21:41:57.740Z,35.8735,-117.667,6.96,1.74,ml,39,46,0.07546,0.18,ci,ci41317952,2025-10-24T21:45:27.146Z,"23 km ESE of Little Lake, CA",earthquake,0.18,0.55,0.221,27,automatic,ci,ci
 2025-10-24T21:27:07.470Z,34.0391667,-117.5481667,9.49,1.22,ml,44,66,0.07781,0.16,ci,ci41317800,2025-10-24T21:31:10.456Z,"6 km NNW of Mira Loma, CA",earthquake,0.2,0.44,0.222,28,automatic,ci,ci
 2025-10-24T21:23:11.580Z,61.1443,-151.6711,62.9,1.2,ml,,,,0.59,ak,ak025dnj94qe,2025-10-24T21:25:01.327Z,"30 km WNW of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-24T21:22:41.490Z,33.7471667,-117.1056667,2.19,1,ml,32,75,0.04378,0.19,ci,ci41317792,2025-10-24T21:26:11.030Z,"3 km WNW of Green Acres, CA",earthquake,0.21,0.32,0.235,38,automatic,ci,ci
@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T20:52:27.874Z,63.8647,-148.9393,112.1,1.9,ml,,,,0.64,ak,ak025dnity5n,2025-10-24T21:04:10.816Z,"1 km ENE of Healy, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-10-24T20:38:13.506Z,57.9168,-156.1712,129.8,1.8,ml,,,,0.67,ak,ak025dniqwxd,2025-10-24T20:41:21.512Z,"78 km ESE of Egegik, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2025-10-24T20:23:15.196Z,35.5006,-115.5736,6.1093,1.55,ml,12,239,0.293,0.5168,nn,nn00906303,2025-10-24T20:27:14.283Z,"35 km S of Sandy Valley, Nevada",earthquake,,5.7375,0.59,3,automatic,nn,nn
-2025-10-24T20:03:26.351Z,61.8836,-151.2428,66.5,4.6,ml,,,,0.81,ak,ak025dnijfwa,2025-10-24T21:44:19.246Z,"14 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-10-24T20:03:26.351Z,61.8836,-151.2428,66.5,4.6,ml,,,,0.81,ak,ak025dnijfwa,2025-10-24T21:49:11.517Z,"14 km SE of Skwentna, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-10-24T20:00:19.353Z,58.0052,-156.0157,100.4,1.9,ml,,,,0.57,ak,ak025dniisa6,2025-10-24T20:59:50.673Z,"83 km ESE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-24T19:43:13.600Z,38.802833557129,-122.81833648682,2.829999923706,0.75,md,9,102,0.0104,0.01,nc,nc75254051,2025-10-24T21:32:17.060Z,"6 km WNW of The Geysers, CA",earthquake,0.45,1.04999995,0.08,9,automatic,nc,nc
 2025-10-24T19:42:17.181Z,31.549,-104.011,5,1.5,ml,12,190,0.1,0.9,tx,tx2025uyvzuk,2025-10-24T20:00:32.750Z,"33 km NW of Toyah, Texas",earthquake,0,,0.2,7,automatic,tx,tx
@@ -17,8 +17,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T19:05:16.572Z,58.363,-153.764,72.1,3,ml,,,,0.49,ak,ak025dnhyf2g,2025-10-24T19:18:19.919Z,"60 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-24T19:04:14.944Z,12.2331,144.1975,30.453,5.1,mww,85,55,1.498,0.84,us,us6000rj9z,2025-10-24T21:14:28.424Z,"125 km SSW of Merizo Village, Guam",earthquake,7.28,4.563,0.11,8,reviewed,us,us
 2025-10-24T18:46:39.640Z,38.80033493042,-122.81800079346,2.4100000858307,1.49,md,26,64,0.0122,0.03,nc,nc75254031,2025-10-24T21:07:17.884Z,"6 km WNW of The Geysers, CA",earthquake,0.23,0.370000005,0.15,27,automatic,nc,nc
+2025-10-24T18:44:09.421Z,38.1939,134.1876,420.278,4,mb,94,36,3.597,0.62,us,us6000rj9v,2025-10-24T21:48:15.040Z,"252 km NNE of Ama, Japan",earthquake,10.42,7.738,0.059,86,reviewed,us,us
 2025-10-24T18:42:06.960Z,38.799331665039,-122.81916809082,2.5199999809265,2.19,md,38,59,0.01232,0.06,nc,nc75254026,2025-10-24T20:37:19.685Z,"6 km WNW of The Geysers, CA",earthquake,0.17,0.310000002,0.16,40,automatic,nc,nc
-2025-10-24T18:12:23.720Z,33.9463333,-116.976,18.17,1.07,ml,35,45,0.1655,0.13,ci,ci41316992,2025-10-24T18:15:49.633Z,"2 km N of Beaumont, CA",earthquake,0.16,0.5,0.305,28,automatic,ci,ci
+2025-10-24T18:12:23.680Z,33.9451667,-116.9748333,17.3,0.88,ml,33,45,0.1455,0.13,ci,ci41316992,2025-10-24T21:51:20.625Z,"2 km N of Beaumont, CA",earthquake,0.17,0.6,0.179,17,reviewed,ci,ci
 2025-10-24T18:01:10.698Z,36.7989,71.0557,223.427,4,mb,20,178,1.89,0.69,us,us6000rj9q,2025-10-24T21:29:57.040Z,"21 km ESE of Jurm, Afghanistan",earthquake,8.67,9.084,0.164,11,reviewed,us,us
 2025-10-24T17:59:22.970Z,33.2995,-116.2341667,10.84,0.92,ml,48,31,0.08899,0.22,ci,ci41316680,2025-10-24T20:20:19.436Z,"14 km ENE of Borrego Springs, CA",earthquake,0.2,0.43,0.169,20,reviewed,ci,ci
 2025-10-24T17:58:17.717Z,57.51,-155.4292,24.3,1.9,ml,,,,0.18,ak,ak025dnh2wuj,2025-10-24T18:01:28.059Z,"58 km W of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -92,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-24T07:25:44.900Z,38.825164794922,-122.79699707031,2.1099998950958,1.12,md,21,36,0.01421,0.02,nc,nc75253831,2025-10-24T09:42:18.262Z,"6 km NNW of The Geysers, CA",earthquake,0.21,0.389999986,0.14,22,automatic,nc,nc
 2025-10-24T07:23:23.711Z,64.4502,-147.2326,16,1,ml,,,,0.33,ak,ak025dnax377,2025-10-24T07:25:14.245Z,"17 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-24T07:20:14.080Z,38.822834014893,-122.84200286865,1.5900000333786,1.23,md,18,81,0.005454,0.02,nc,nc75253826,2025-10-24T09:17:19.100Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.379999995,0.14,19,automatic,nc,nc
+2025-10-24T07:00:07.290Z,51.941833333333,-176.53166666667,28.27,1.8,ml,11,113,0.05703,0.14,av,av93051294,2025-10-24T21:50:29.790Z,"10 km NE of Adak, Alaska",earthquake,1.04,0.77,0.28959492595156,10,reviewed,av,av
 2025-10-24T06:58:50.980Z,38.78783416748,-122.77016448975,3.6400001049042,1.1,md,15,81,0.01487,0.02,nc,nc75253811,2025-10-24T08:27:17.725Z,"2 km NW of The Geysers, CA",earthquake,0.31,0.709999979,0.06,16,automatic,nc,nc
 2025-10-24T06:49:06.680Z,17.866666666667,-66.850833333333,10.88,2.45,md,15,214,0.1111,0.23,pr,pr71498718,2025-10-24T06:59:34.990Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,0.7,0.83,0.0084563848156791,5,reviewed,pr,pr
 2025-10-24T06:47:24.844Z,35.7269,140.1387,70.242,4.5,mb,44,139,1.761,0.93,us,us6000rj2i,2025-10-24T09:49:20.911Z,"7 km SW of Inba, Japan",earthquake,9.31,7.647,0.094,33,reviewed,us,us
@@ -188,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T22:01:37.960Z,35.724833333333,-84.509833333333,15.08,2.18,md,18,61,0.06771,0.12,se,se60615061,2025-10-24T12:34:02.100Z,"10 km WNW of Philadelphia, Tennessee",earthquake,0.25,0.5,0.10139203964441,13,reviewed,se,se
 2025-10-23T22:01:31.590Z,38.80899810791,-122.811668396,3.6600000858307,0.74,md,10,83,0.01283,0.02,nc,nc75253536,2025-10-23T22:47:21.713Z,"6 km NW of The Geysers, CA",earthquake,0.4,1.17999995,0.07,10,automatic,nc,nc
 2025-10-23T22:01:03.330Z,38.805000305176,-122.81083679199,2.5899999141693,1.07,md,17,59,0.01249,0.03,nc,nc75253531,2025-10-23T22:37:19.712Z,"6 km WNW of The Geysers, CA",earthquake,0.33,0.50999999,0.11,17,automatic,nc,nc
-2025-10-23T21:51:25.533Z,32.418,-102.136,6.3232,1.6,ml,35,79,0,0.1,tx,tx2025uxerss,2025-10-24T02:11:23.848Z,"39 km ENE of McKinney Acres, Texas",earthquake,0.47142147357023,0.43663802133518,0.1,21,reviewed,tx,tx
-2025-10-23T21:48:22.390Z,37.922164916992,-122.20066833496,5.8200001716614,0.88,md,9,105,0.03805,0.32,nc,nc75253521,2025-10-24T00:07:18.264Z,"5 km NNW of Orinda, CA",earthquake,1.39,1.60000002,0.08,3,automatic,nc,nc
