@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-26T18:26:42.820Z,33.9765,-118.7968333,13.31,1.69,ml,29,101,0.02908,0.2,ci,ci41320528,2025-10-26T18:30:32.432Z,"3 km SSE of Malibu, CA",earthquake,0.32,0.43,0.263,32,automatic,ci,ci
-2025-10-26T18:20:42.940Z,38.829166412354,-122.85316467285,1.75,1.04,md,11,124,0.003318,0.01,nc,nc75254911,2025-10-26T18:22:19.982Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.460000008,0.1,11,automatic,nc,nc
+2025-10-26T18:20:42.940Z,38.829166412354,-122.85316467285,1.75,1.04,md,11,124,0.003318,0.01,nc,nc75254911,2025-10-26T18:37:16.444Z,"10 km NW of The Geysers, CA",earthquake,0.4,0.460000008,0.1,11,automatic,nc,nc
 2025-10-26T18:16:31.363Z,63.0472,-150.7883,109.2,1.6,ml,,,,0.52,ak,ak025dqsi2lp,2025-10-26T18:19:48.519Z,"61 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-10-26T18:15:22.490Z,35.352,-117.7926667,5.7,2.88,ml,61,32,0.09493,0.18,ci,ci41320520,2025-10-26T18:25:44.030Z,"14 km W of Johannesburg, CA",earthquake,0.15,0.63,0.149,24,automatic,ci,ci
 2025-10-26T18:11:15.221Z,63.4945,-148.9436,83,1.7,ml,,,,0.68,ak,ak025dqsgy8z,2025-10-26T18:14:02.063Z,"11 km N of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -32,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T14:41:13.464Z,64.7519,-149.103,16.4,1,ml,,,,0.39,ak,ak025dqq9niq,2025-10-26T14:47:38.421Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-26T14:39:35.890Z,37.945499420166,-122.15766906738,13.760000228882,1.53,md,22,62,0.02643,0.04,nc,nc75254821,2025-10-26T17:17:19.921Z,"7 km NNW of Lafayette, CA",earthquake,0.24,0.479999989,0.26,21,automatic,nc,nc
 2025-10-26T14:30:30.600Z,37.944332122803,-122.15533447266,15.460000038147,2.4,md,73,34,0.02506,0.13,nc,nc75254816,2025-10-26T16:52:16.758Z,"7 km NNW of Lafayette, CA",earthquake,0.19,0.340000004,0.16,66,automatic,nc,nc
-2025-10-26T14:29:12.200Z,37.944831848145,-122.15149688721,15.949999809265,3.2,ml,98,27,0.02549,0.13,nc,nc75254811,2025-10-26T18:28:07.876Z,"7 km NNW of Lafayette, CA",earthquake,0.15,0.270000011,0.231,40,reviewed,nc,nc
+2025-10-26T14:29:12.200Z,37.944831848145,-122.15149688721,15.949999809265,3.2,ml,98,27,0.02549,0.13,nc,nc75254811,2025-10-26T18:37:22.313Z,"7 km NNW of Lafayette, CA",earthquake,0.15,0.270000011,0.231,40,reviewed,nc,nc
 2025-10-26T14:25:34.116Z,63.5746,-148.0581,8.3,1.1,ml,,,,0.95,ak,ak025dqq69nn,2025-10-26T14:27:56.073Z,"45 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-26T14:16:34.915Z,60.2584,-141.2602,22.4,1.3,ml,,,,0.72,ak,ak025dqq4c9v,2025-10-26T14:18:40.345Z,"116 km NW of Yakutat, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-26T14:05:52.030Z,5.7271,127.0176,109.44,4.7,mb,53,75,1.823,0.69,us,us6000rjk6,2025-10-26T14:32:39.040Z,"116 km SE of Pondaguitan, Philippines",earthquake,9.2,6.226,0.075,54,reviewed,us,us
@@ -44,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T12:19:37.184Z,61.7717,-147.3439,29.6,1.2,ml,,,,0.93,ak,ak025dqoy4dy,2025-10-26T12:21:18.095Z,"16 km ESE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-10-26T12:17:01.470Z,34.9798333,-118.9963333,16.47,0.91,ml,22,84,0.07428,0.26,ci,ci41320328,2025-10-26T12:21:00.053Z,"7 km NW of Grapevine, CA",earthquake,0.53,0.9,0.151,20,automatic,ci,ci
 2025-10-26T12:13:53.810Z,19.421333312988,-155.3741607666,7.6100001335144,1.89,ml,46,47,0.05566,0.140000001,hv,hv74816256,2025-10-26T12:17:46.730Z,"14 km W of Volcano, Hawaii",earthquake,0.28,0.579999983,0.13,4,automatic,hv,hv
-2025-10-26T12:08:40.017Z,-39.6453,177.0522,35,4.2,mwr,36,154,0.412,0.78,us,us6000rjju,2025-10-26T17:16:19.685Z,"10 km ESE of Haumoana, New Zealand",earthquake,4.44,1.948,0.061,26,reviewed,us,us
+2025-10-26T12:08:40.017Z,-39.6453,177.0522,35,4.2,mwr,36,154,0.412,0.78,us,us6000rjju,2025-10-26T18:42:24.047Z,"10 km ESE of Haumoana, New Zealand",earthquake,4.44,1.948,0.061,26,reviewed,us,us
 2025-10-26T11:49:36.381Z,38.5046,40.2995,10,4.1,mb,29,128,0.79,0.97,us,us6000rjjr,2025-10-26T18:33:30.395Z,"13 km NW of Hani, Turkey",earthquake,4.52,1.95,0.175,9,reviewed,us,us
 2025-10-26T11:48:38.930Z,38.841167449951,-122.82466888428,1.6100000143051,0.96,md,15,91,0.008832,0.02,nc,nc75254776,2025-10-26T12:27:15.938Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.409999996,0.24,15,automatic,nc,nc
 2025-10-26T11:48:22.074Z,-18.8464,169.4761,249.382,4.2,mb,75,114,4.201,0.64,us,us6000rjjs,2025-10-26T12:37:28.040Z,"79 km NNE of Isangel, Vanuatu",earthquake,12.03,8.003,0.066,63,reviewed,us,us
@@ -114,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-26T01:02:46.314Z,61.2834,-147.6339,16.2,1.4,ml,,,,0.78,ak,ak025dqiaq9j,2025-10-26T01:14:19.095Z,"58 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-26T00:58:56.787Z,60.5541,-152.0002,93.1,1.4,ml,,,,0.32,ak,ak025dqi1bp4,2025-10-26T01:02:28.467Z,"37 km W of Salamatof, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2025-10-26T00:40:18.470Z,17.979666666667,-66.709833333333,12.35,2.7,md,19,151,0.08749,0.26,pr,pr71498798,2025-10-26T00:59:49.550Z,"1 km SSE of Tallaboa, Puerto Rico",earthquake,0.4,0.38,0.28711503433003,5,reviewed,pr,pr
+2025-10-26T00:36:38.180Z,54.758,-163.97066666667,0.1,0.43,ml,5,118,0.05102,0.29,av,av93845526,2025-10-26T18:46:05.210Z,"37 km WSW of False Pass, Alaska",earthquake,0.62,0.66,0.16132674577265,5,reviewed,av,av
 2025-10-26T00:33:24.530Z,38.83716583252,-122.7825012207,2.079999923706,1.31,md,21,69,0.00625,0.03,nc,nc75254576,2025-10-26T01:22:17.375Z,"5 km WNW of Cobb, CA",earthquake,0.23,0.400000006,0.13,20,automatic,nc,nc
 2025-10-26T00:26:52.279Z,61.6334,-149.6969,45.5,1.6,ml,,,,0.49,ak,ak025dqhugaz,2025-10-26T00:29:07.183Z,"5 km W of Meadow Lakes, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-10-26T00:25:54.676Z,7.0758,126.921,54.6,5,mb,46,105,1.332,1.01,us,us6000rjhy,2025-10-26T00:41:58.040Z,"44 km ESE of Manay, Philippines",earthquake,8.16,6.104,0.085,44,reviewed,us,us
@@ -161,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-25T19:17:45.540Z,33.1808333,-115.6018333,2.01,1.69,ml,36,44,0.01205,0.16,ci,ci41319936,2025-10-25T19:24:59.185Z,"10 km SW of Niland, CA",earthquake,0.15,0.23,0.233,27,automatic,ci,ci
 2025-10-25T19:12:23.630Z,35.873,-117.6591667,8.76,0.76,ml,17,101,0.07508,0.11,ci,ci41319920,2025-10-25T19:16:03.843Z,"23 km ESE of Little Lake, CA",earthquake,0.22,0.5,0.121,12,automatic,ci,ci
 2025-10-25T19:01:06.530Z,54.756833333333,-163.9625,3.96,0.59,ml,6,77,0.05156,0.23,av,av93844941,2025-10-26T06:30:32.800Z,"37 km WSW of False Pass, Alaska",earthquake,0.54,2.82,0.31595907692173,6,reviewed,av,av
-2025-10-25T18:40:39.060Z,37.573833465576,-121.88683319092,8.4899997711182,1.96,md,41,37,0.06381,0.34,nc,nc75254506,2025-10-25T20:37:16.451Z,"3 km S of Sunol, CA",earthquake,0.38,1.15999997,0.22,26,automatic,nc,nc
