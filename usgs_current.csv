@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-04T15:29:15.142Z,60.5552,-152.9092,135.1,1.3,ml,,,,0.49,ak,ak025e5mmn3u,2025-11-04T15:32:46.935Z,"87 km ENE of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-11-04T15:28:43.620Z,38.821166992188,-122.84200286865,2.289999961853,1.05,md,11,103,0.005784,0.01,nc,nc75258981,2025-11-04T15:30:21.584Z,"9 km WNW of The Geysers, CA",earthquake,0.3,0.540000021,0.24,13,automatic,nc,nc
-2025-11-04T15:28:19.870Z,38.819999694824,-122.83999633789,2.3599998950958,1.67,md,28,70,0.004973,0.03,nc,nc75258976,2025-11-04T15:31:17.340Z,"9 km WNW of The Geysers, CA",earthquake,0.19,0.330000013,0.15,29,automatic,nc,nc
+2025-11-04T15:28:19.870Z,38.819999694824,-122.83999633789,2.3599998950958,1.67,md,28,70,0.004973,0.03,nc,nc75258976,2025-11-04T15:47:18.297Z,"9 km WNW of The Geysers, CA",earthquake,0.19,0.330000013,0.15,29,automatic,nc,nc
 2025-11-04T13:59:31.087Z,62.531,-148.8686,21,2.6,ml,,,,0.8,ak,ak025e5lm8nk,2025-11-04T14:05:42.883Z,"64 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-04T13:58:26.659Z,32.762,-100.638,7.6416,1.5,ml,17,80,0.1,0.2,tx,tx2025vspssm,2025-11-04T14:57:22.020Z,"18 km NE of Hermleigh, Texas",earthquake,0.96925534181558,1.5545566026112,0.1,10,reviewed,tx,tx
 2025-11-04T13:50:06.730Z,37.441165924072,-118.83782958984,4.6700000762939,1.34,md,14,156,0.1488,0.02,nc,nc75258946,2025-11-04T14:42:19.857Z,"19 km SW of Toms Place, CA",earthquake,0.35,2.42000008,0.11,12,automatic,nc,nc
@@ -15,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-04T13:22:21.510Z,33.1091667,-115.964,6.42,1.1,ml,42,53,0.06518,0.22,ci,ci40480922,2025-11-04T13:25:50.961Z,"16 km ESE of Ocotillo Wells, CA",earthquake,0.2,0.66,0.195,23,automatic,ci,ci
 2025-11-04T13:22:12.377Z,31.728,-104.343,6.5613,2.3,ml,36,63,0.1,0.2,tx,tx2025vsonil,2025-11-04T14:38:50.552Z,"49 km S of Whites City, New Mexico",earthquake,0.6649895974853,1.0147440726711,0.2,26,reviewed,tx,tx
 2025-11-04T13:18:25.481Z,31.61,-104.309,6.51,1.6,ml,33,72,0.1,0.2,tx,tx2025vsokff,2025-11-04T14:49:03.936Z,"58 km WNW of Toyah, Texas",earthquake,0.63434194141804,0.76880293203095,0.2,18,reviewed,tx,tx
+2025-11-04T13:14:08.494Z,-36.9223,-73.8084,10,4.4,mb,58,105,2.25,0.55,us,us6000rld7,2025-11-04T15:48:21.040Z,"56 km NW of Arauco, Chile",earthquake,8.12,1.882,0.086,46,reviewed,us,us
 2025-11-04T12:57:29.842Z,65.0286,-154.1641,5,1.9,ml,,,,0.97,ak,ak025e5l0dhh,2025-11-04T13:06:29.763Z,"70 km ENE of Ruby, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-04T12:48:02.130Z,19.271667480469,-155.40249633789,30.139999389648,1.83,ml,54,86,0.03431,0.119999997,hv,hv74823151,2025-11-04T12:51:42.120Z,"11 km NE of Pāhala, Hawaii",earthquake,0.31,0.379999995,0.88,5,automatic,hv,hv
 2025-11-04T12:41:09.161Z,57.86,-156.1729,15.1,1.9,ml,,,,0.31,ak,ak025e5kwwf8,2025-11-04T12:42:27.043Z,"81 km ESE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -204,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-03T16:12:52.157Z,64.9803,-147.4012,5.8,1.3,ml,,,,0.61,ak,ak025e3zl5wf,2025-11-03T16:14:35.279Z,"10 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-03T16:04:46.263Z,31.573,-104.03,7.7533,1.8,ml,25,65,0,0.2,tx,tx2025vqyeqb,2025-11-03T16:15:48.521Z,"36 km NW of Toyah, Texas",earthquake,0.50373761821426,0.43058294962066,0.1,15,reviewed,tx,tx
 2025-11-03T15:55:17.680Z,40.403167724609,-124.25533294678,15.069999694824,1.42,md,9,249,0.06505,0.17,nc,nc75258491,2025-11-03T19:32:17.947Z,"9 km NNE of Petrolia, CA",earthquake,2.89,3.33999991,0.12,6,automatic,nc,nc
-2025-11-03T15:51:54.565Z,-27.4457,-71.4784,24.928,5.5,mww,71,96,0.634,0.72,us,us6000rl7b,2025-11-04T01:42:59.216Z,"113 km W of Copiapó, Chile",earthquake,3.95,4.582,0.073,18,reviewed,us,us
-2025-11-03T15:49:05.600Z,57.8511,-156.1289,8.7,1.2,ml,,,,0.2,ak,ak025e3z7k74,2025-11-03T15:50:14.600Z,"84 km ESE of Egegik, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2025-11-03T15:44:37.030Z,38.784999847412,-122.77149963379,1,0.51,md,7,116,0.01495,0.01,nc,nc75258486,2025-11-03T16:47:17.850Z,"2 km WNW of The Geysers, CA",earthquake,0.59,0.889999986,0.24,8,automatic,nc,nc
