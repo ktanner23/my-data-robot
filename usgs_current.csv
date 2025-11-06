@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-06T15:47:16.130Z,38.813499450684,-122.7851638794,1.0099999904633,1.05,md,14,85,0.003507,0.02,nc,nc75259841,2025-11-06T15:48:54.593Z,"5 km NNW of The Geysers, CA",earthquake,0.24,0.400000006,0.2,14,automatic,nc,nc
-2025-11-06T15:25:56.400Z,33.63,-116.6918333,14.03,0.74,ml,20,50,0.04161,0.12,ci,ci40481898,2025-11-06T15:29:21.341Z,"8 km NNW of Anza, CA",earthquake,0.21,0.38,0.299,19,automatic,ci,ci
+2025-11-06T15:25:56.400Z,33.63,-116.6918333,14.03,0.74,ml,20,50,0.04161,0.12,ci,ci40481898,2025-11-06T16:11:35.924Z,"8 km NNW of Anza, CA",earthquake,0.21,0.38,0.299,19,reviewed,ci,ci
 2025-11-06T15:24:03.056Z,31.921,-101.741,7.666,1,ml,19,70,0.1,0.2,tx,tx2025vwkafu,2025-11-06T15:42:54.218Z,"23 km S of Stanton, Texas",earthquake,0.60223757205167,1.0302446795637,0.1,13,reviewed,tx,tx
 2025-11-06T15:22:17.050Z,38.823501586914,-122.80433654785,3.5899999141693,0.73,md,10,94,0.01704,0.02,nc,nc75259831,2025-11-06T15:52:19.906Z,"7 km NW of The Geysers, CA",earthquake,0.35,1.25,0.44,10,automatic,nc,nc
 2025-11-06T15:13:01.830Z,33.6843333,-116.7648333,17.5,1.01,ml,38,71,0.05319,0.18,ci,ci40481890,2025-11-06T15:22:58.215Z,"8 km SW of Idyllwild, CA",earthquake,0.23,0.44,0.218,28,automatic,ci,ci
@@ -38,7 +38,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T10:07:07.710Z,38.825500488281,-122.80000305176,2.8900001049042,0.71,md,8,156,0.01494,0.01,nc,nc75259766,2025-11-06T12:22:16.510Z,"7 km NW of The Geysers, CA",earthquake,0.54,1.88999999,0.14,9,automatic,nc,nc
 2025-11-06T09:53:12.140Z,31.448,-103.574,4.3567,1.5,ml,27,49,0.1,0.2,tx,tx2025vvzbdp,2025-11-06T11:15:11.705Z,"8 km WNW of Pecos, Texas",earthquake,0.75335530557105,1.8306443208807,0.1,15,reviewed,tx,tx
 2025-11-06T09:51:17.260Z,38.838165283203,-122.82216644287,2.0999999046326,2.06,md,32,83,0.01041,0.03,nc,nc75259756,2025-11-06T11:07:20.003Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.280000001,0.14,31,automatic,nc,nc
-2025-11-06T09:33:26.625Z,64.5197,-146.9099,10.2,3.3,ml,,,,0.95,ak,ak025e8u5kmu,2025-11-06T14:50:43.080Z,"0 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-06T09:33:26.625Z,64.5197,-146.9099,10.2,3.3,ml,,,,0.95,ak,ak025e8u5kmu,2025-11-06T16:05:51.865Z,"0 km SW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T09:19:58.101Z,60.2681,-141.1981,14.8,2,ml,,,,0.54,ak,ak025e8u2oma,2025-11-06T09:22:10.723Z,"115 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-06T09:15:24.260Z,32.9855,-116.2936667,6.41,0.74,ml,36,55,0.03188,0.16,ci,ci40481810,2025-11-06T14:29:53.970Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.41,0.145,13,reviewed,ci,ci
 2025-11-06T09:08:07.610Z,38.833667755127,-122.81716918945,1.9800000190735,1.04,md,15,75,0.01513,0.01,nc,nc75259751,2025-11-06T10:52:22.904Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.11,16,automatic,nc,nc
@@ -96,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T03:44:47.707Z,32.105,-101.909,8.8623,1.4,ml,56,55,0.1,0.1,tx,tx2025vvmvko,2025-11-06T08:18:28.029Z,"11 km WSW of Stanton, Texas",earthquake,0.24801768914492,0.50253352390482,0.2,36,reviewed,tx,tx
 2025-11-06T03:27:46.060Z,37.817832946777,-121.94650268555,6.7600002288818,0.89,md,6,140,0.03364,0.01,nc,nc75259656,2025-11-06T04:12:19.144Z,"2 km SSE of Diablo, CA",earthquake,1.13,1.62,0.25,5,automatic,nc,nc
 2025-11-06T03:23:26.850Z,34.0408333,-118.076,15.56,1.3,ml,36,69,0.03755,0.2,ci,ci40481714,2025-11-06T03:26:55.259Z,"3 km WSW of South El Monte, CA",earthquake,0.3,0.4,0.261,33,automatic,ci,ci
+2025-11-06T03:21:57.340Z,33.1896667,-115.6035,4.49,0.98,ml,12,105,0.01586,0.18,ci,ci40481706,2025-11-06T15:59:29.133Z,"10 km SW of Niland, CA",earthquake,0.38,0.43,0.327,7,reviewed,ci,ci
 2025-11-06T03:16:36.270Z,33.1903333,-115.5935,3.73,1.92,ml,43,44,0.02257,0.2,ci,ci40481698,2025-11-06T15:32:18.857Z,"9 km SW of Niland, CA",earthquake,0.18,0.16,0.145,20,reviewed,ci,ci
 2025-11-06T03:13:01.970Z,38.75566482544,-122.70899963379,1.0499999523163,1.24,md,11,125,0.01374,0.03,nc,nc75259651,2025-11-06T03:47:19.962Z,"3 km SW of Anderson Springs, CA",earthquake,0.33,0.360000014,0.15,10,automatic,nc,nc
 2025-11-06T02:39:52.952Z,32.273,-101.922,8.1787,1,ml,23,49,0,0.2,tx,tx2025vvkrqn,2025-11-06T10:47:33.828Z,"20 km NW of Stanton, Texas",earthquake,0.51409936566526,0.85764471747124,0.2,14,reviewed,tx,tx
@@ -133,6 +134,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T21:26:41.460Z,38.836166381836,-122.78150177002,1.6000000238419,1.31,md,15,74,0.00726,0.04,nc,nc75259596,2025-11-06T00:12:17.512Z,"5 km WNW of Cobb, CA",earthquake,0.27,0.330000013,0.1,18,automatic,nc,nc
 2025-11-05T21:25:58.120Z,33.6478333,-117.0108333,12.79,0.85,ml,22,50,0.002451,0.16,ci,ci40481594,2025-11-05T21:56:37.770Z,"10 km SE of Winchester, CA",earthquake,0.26,0.44,0.167,23,reviewed,ci,ci
 2025-11-05T21:20:37.542Z,61.3248,-150.3834,45.1,1.7,ml,,,,0.51,ak,ak025e7dopii,2025-11-05T21:22:17.693Z,"22 km W of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
+2025-11-05T21:10:28.399Z,34.50666667,-97.24016667,0,1.35,ml,18,78,0.1106782811,0.36,ok,ok2025vsiw,2025-11-06T16:00:45.412Z,"11 km W of Davis, Oklahoma",quarry blast,,0.8,0.26,9,reviewed,ok,ok
 2025-11-05T21:05:12.596Z,52.8565,-168.365,54.988,4,mb,21,208,0.318,1.04,us,us6000rlrn,2025-11-05T23:39:22.074Z,"34 km ESE of Nikolski, Alaska",earthquake,6.82,6.209,0.105,24,reviewed,us,us
 2025-11-05T21:03:26.310Z,58.5341,-154.8879,119.207,2.6,ml,17,62,0.399,0.3,us,us6000rlrm,2025-11-05T22:08:36.040Z,"101 km S of Kokhanok, Alaska",earthquake,4.92,5.198,0.048,56,reviewed,us,us
 2025-11-05T21:02:00.080Z,49.1675,-122.061,-0.54,1.08,md,5,236,0.1701,0.28,uw,uw62202802,2025-11-06T00:09:33.940Z,"7 km W of Chilliwack, Canada",explosion,5.24,31.61,0.2184268614738,3,reviewed,uw,uw
@@ -142,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T20:34:57.292Z,32.273,-101.926,8.2275,1,ml,20,57,0,0.1,tx,tx2025vuypgr,2025-11-05T22:01:22.358Z,"20 km NW of Stanton, Texas",earthquake,0.41775521787229,0.86902727865932,0.1,16,reviewed,tx,tx
 2025-11-05T20:32:26.364Z,32.26,-101.896,8.1299,1.1,ml,22,55,0,0.1,tx,tx2025vuynex,2025-11-05T22:02:10.320Z,"17 km NW of Stanton, Texas",earthquake,0.36544859109377,0.7029790033438,0.1,14,reviewed,tx,tx
 2025-11-05T20:30:08.428Z,52.7633,159.1714,92.839,4.2,mb,25,142,0.956,0.79,us,us6000rlrh,2025-11-05T21:11:36.040Z,"49 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,13.42,10.006,0.121,19,reviewed,us,us
-2025-11-05T20:24:02.350Z,32.6078333,-116.9808333,3.16,1.27,ml,36,123,0.04274,0.18,ci,ci40481570,2025-11-05T20:38:38.154Z,"7 km ESE of Chula Vista, CA",earthquake,0.58,0.38,0.077,16,automatic,ci,ci
+2025-11-05T20:24:02.340Z,32.6061667,-116.9796667,3.29,1.27,ml,37,93,0.04179,0.18,ci,ci40481570,2025-11-06T16:09:06.467Z,"7 km ESE of Chula Vista, CA",earthquake,0.27,0.32,0.055,9,reviewed,ci,ci
 2025-11-05T20:18:58.450Z,51.864333333333,-177.95083333333,5.54,0.98,ml,5,151,0.04085,0.13,av,av93051849,2025-11-06T05:30:39.110Z,"90 km W of Adak, Alaska",earthquake,0.51,1.05,0.22768410911693,5,reviewed,av,av
 2025-11-05T20:17:19.285Z,60.5182,-151.5175,57,2,ml,,,,0.31,ak,ak025e7d2lco,2025-11-05T20:19:05.341Z,"14 km WSW of Kenai, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2025-11-05T20:07:48.840Z,61.2205,-152.2535,6.65,-0.59,ml,10,107,0.02975,0.11,av,av93871231,2025-11-06T05:27:07.840Z,"62 km WNW of Tyonek, Alaska",earthquake,0.39,0.62,0.20689692558737,10,reviewed,av,av
