@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-07T13:44:56.960Z,33.97,-117.222,11.31,1.39,ml,65,42,0.04672,0.19,ci,ci40482266,2025-11-07T13:48:19.706Z,"5 km N of Moreno Valley, CA",earthquake,0.15,0.27,0.185,28,automatic,ci,ci
+2025-11-07T13:44:56.960Z,33.97,-117.222,11.31,1.39,ml,65,42,0.04672,0.19,ci,ci40482266,2025-11-07T13:55:46.640Z,"5 km N of Moreno Valley, CA",earthquake,0.15,0.27,0.185,28,automatic,ci,ci
 2025-11-07T13:39:46.100Z,35.2765,-117.8776667,11.95,0.98,ml,8,201,0.0276,0.19,ci,ci40482258,2025-11-07T13:43:14.450Z,"19 km NNE of California City, CA",earthquake,2.59,1.78,0.185,17,automatic,ci,ci
 2025-11-07T13:23:31.275Z,61.9271,-151.8214,100.7,2,ml,,,,0.85,ak,ak025eak0kbr,2025-11-07T13:25:27.069Z,"23 km WSW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-11-07T12:48:07.014Z,62.9979,-148.7718,63.6,2.1,ml,,,,0.66,ak,ak025eajkfr1,2025-11-07T12:50:04.951Z,"44 km SSE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -105,7 +105,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T21:52:18.639Z,31.61,-104.137,1.8958,1.6,ml,15,59,0,0.1,tx,tx2025vwwwux,2025-11-07T13:15:59.211Z,"46 km NW of Toyah, Texas",earthquake,0.82662074448263,1.0540171463876,0.1,7,reviewed,tx,tx
 2025-11-06T21:50:37.625Z,35.9829,-115.1231,6.9843,2.39,ml,17,233,0.523,0.3223,nn,nn00907007,2025-11-06T21:54:19.274Z,"11 km ESE of Enterprise, Nevada",earthquake,,0.9012,0.27,9,automatic,nn,nn
 2025-11-06T21:47:04.340Z,53.458333333333,-167.37533333333,0.1,1.16,ml,17,206,0.3243,0.32,av,av93873086,2025-11-07T05:32:46.260Z,"72 km SW of Unalaska, Alaska",earthquake,1.98,1.34,0.20426699139999,17,reviewed,av,av
-2025-11-06T21:30:31.178Z,31.819,-101.668,2.0628,1.3,ml,5,229,0.1,0.5,tx,tx2025vwweap,2025-11-06T21:53:00.403Z,"18 km WSW of Garden City, Texas",earthquake,0,3.2494645118713,1,5,automatic,tx,tx
 2025-11-06T21:27:41.680Z,60.050833333333,-153.06333333333,1.58,-0.6,ml,5,148,0.00654,0.06,av,av93873056,2025-11-07T05:29:16.950Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.22,0.7,0.2504144783731,5,reviewed,av,av
 2025-11-06T21:24:48.700Z,54.7425,-163.99766666667,5.38,0.77,ml,4,113,0.03312,0.3,av,av93873051,2025-11-06T22:08:53.650Z,"39 km WSW of False Pass, Alaska",earthquake,0.81,2.17,0.32302727320746,4,reviewed,av,av
 2025-11-06T21:06:35.800Z,33.1938333,-115.6,3.48,1.22,ml,10,111,0.02094,0.15,ci,ci40482010,2025-11-06T21:10:04.527Z,"9 km SW of Niland, CA",earthquake,1.05,0.78,0.3,11,automatic,ci,ci
@@ -143,6 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T16:59:21.502Z,58.8662,-152.9965,69.8,2.7,ml,,,,0.52,ak,ak025e8yh7o6,2025-11-06T17:12:11.186Z,"82 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-06T16:58:54.175Z,61.3696,-147.4613,17.3,1.7,ml,,,,0.84,ak,ak025e8yh2fo,2025-11-06T17:01:57.752Z,"49 km SSE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-06T16:52:01.408Z,61.5208,-149.9302,33.4,1.7,ml,,,,0.3,ak,ak025e8yfo3w,2025-11-06T16:53:25.739Z,"1 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-11-06T16:41:00.260Z,35.903,-95.16866667,0,1.72,ml,61,106,0.2879434957,0.44,ok,ok2025vtvm,2025-11-07T13:57:03.753Z,"4 km SW of Hulbert, Oklahoma",quarry blast,,0.4,0.17,12,reviewed,ok,ok
 2025-11-06T16:36:09.484Z,27.9544,-111.8918,3.908,4.8,mww,128,61,0.704,0.73,us,us6000rlvz,2025-11-07T13:09:50.206Z,"77 km NNE of Santa Rosalía, Mexico",earthquake,4.79,4.906,0.05,39,reviewed,us,us
 2025-11-06T16:28:32.130Z,38.838500976562,-122.7816696167,2.0199999809265,0.78,md,12,75,0.005807,0.03,nc,nc75259871,2025-11-06T17:32:20.618Z,"5 km WNW of Cobb, CA",earthquake,0.32,0.5,0.14,13,automatic,nc,nc
 2025-11-06T16:23:24.068Z,32.0484,131.9576,40.375,4.9,mb,119,48,1.39,0.63,us,us6000rlvy,2025-11-06T18:51:34.040Z,"43 km ESE of Tsunō, Japan",earthquake,5.63,5.323,0.047,140,reviewed,us,us
@@ -162,4 +162,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T14:39:19.100Z,18.673333333333,-66.398666666667,59.16,3.24,md,9,258,0.2313,0.28,pr,pr71499738,2025-11-06T15:07:12.990Z,"23 km NNW of Brenas, Puerto Rico",earthquake,1.77,1.29,0.057048673072749,5,reviewed,pr,pr
 2025-11-06T14:29:50.831Z,41.9258,144.5527,30.219,4.8,mb,150,102,1.044,0.51,us,us6000rlvs,2025-11-06T18:29:30.040Z,"111 km ESE of Hiroo, Japan",earthquake,7.06,5.169,0.043,169,reviewed,us,us
 2025-11-06T14:06:28.800Z,33.2778333,-116.4486667,1.76,1.87,ml,79,15,0.02809,0.19,ci,ci40481858,2025-11-06T14:29:31.700Z,"7 km WNW of Borrego Springs, CA",earthquake,0.12,0.25,0.15,26,reviewed,ci,ci
-2025-11-06T13:58:22.620Z,54.757333333333,-163.97966666667,8.15,0.85,ml,4,112,0.04904,0.31,av,av93872436,2025-11-06T21:44:52.460Z,"38 km WSW of False Pass, Alaska",earthquake,1.13,2.23,0.23261157622281,4,reviewed,av,av
