@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-07T23:02:26.035Z,28.64,-98.344,6.9173,1.7,ml,6,233,0.3,0.4,tx,tx2025vyuycn,2025-11-07T23:05:53.429Z,"22 km SE of Christine, Texas",earthquake,0,16.866203308105,0.4,6,automatic,tx,tx
-2025-11-07T22:27:18.810Z,38.812999725342,-122.79949951172,2.9900000095367,0.77,md,9,115,0.005999,0.02,nc,nc75260311,2025-11-07T22:52:19.663Z,"5 km NW of The Geysers, CA",earthquake,0.43,1.29999995,0.13,10,automatic,nc,nc
+2025-11-07T22:27:18.810Z,38.812999725342,-122.79949951172,2.9900000095367,0.77,md,9,115,0.005999,0.02,nc,nc75260311,2025-11-07T23:12:19.771Z,"5 km NW of The Geysers, CA",earthquake,0.43,1.29999995,0.13,10,automatic,nc,nc
 2025-11-07T22:26:27.545Z,16.365,-59.6714,10,4.9,mb,49,122,1.34,0.58,us,us6000rm77,2025-11-07T22:42:06.040Z,"149 km E of Beauséjour, Guadeloupe",earthquake,5.03,1.927,0.041,183,reviewed,us,us
 2025-11-07T22:21:20.240Z,41.572166666667,-112.416,5.11,1.63,ml,24,92,0.1029,0.14,uu,uu80121626,2025-11-07T23:01:02.120Z,"16 km SW of Thatcher, Utah",earthquake,0.26,1.11,0.027893712920363,2,reviewed,uu,uu
 2025-11-07T22:09:51.050Z,40.339168548584,-124.5556640625,20.590000152588,2.84,md,16,292,0.1706,0.13,nc,nc75260306,2025-11-07T22:47:24.635Z,"23 km W of Petrolia, CA",earthquake,4.83,0.75,0.2,18,automatic,nc,nc
@@ -36,6 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T19:06:01.440Z,54.744333333333,-163.974,-0.72,1.01,ml,4,108,0.03745,0.11,av,av93875036,2025-11-07T21:52:32.480Z,"38 km WSW of False Pass, Alaska",earthquake,0.24,0.34,0.27847769666813,4,reviewed,av,av
 2025-11-07T18:57:08.434Z,64.8513,-147.7688,14.6,1.4,ml,,,,0.92,ak,ak025ean6yxn,2025-11-07T18:59:28.424Z,"1 km ESE of College, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-11-07T18:56:50.280Z,61.7507,-147.7865,37.5,1.6,ml,,,,0.61,ak,ak025ean6ug4,2025-11-07T18:58:09.570Z,"9 km SW of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-11-07T18:54:27.690Z,47.886166666667,-122.71616666667,-0.03,1.93,ml,35,48,0.09442,0.3,uw,uw62203227,2025-11-07T23:08:08.060Z,"4 km SSW of Port Ludlow, Washington",explosion,0.31,31.61,0.1774963185534,21,reviewed,uw,uw
 2025-11-07T18:50:46.150Z,33.9831667,-116.9633333,16.61,0.95,ml,31,44,0.1392,0.14,ci,ci40482306,2025-11-07T18:54:15.476Z,"6 km NNE of Beaumont, CA",earthquake,0.2,0.6,0.21,32,automatic,ci,ci
 2025-11-07T18:48:47.360Z,38.778331756592,-122.75333404541,1.289999961853,0.8,md,7,106,0.01232,0.07,nc,nc75260251,2025-11-07T19:27:19.288Z,"0 km ENE of The Geysers, CA",earthquake,0.47,0.810000002,0.21,8,automatic,nc,nc
 2025-11-07T18:46:22.310Z,35.3506667,-117.8096667,7.43,1.65,ml,48,35,0.08816,0.15,ci,ci40482298,2025-11-07T22:39:34.341Z,"16 km W of Johannesburg, CA",earthquake,0.14,0.56,0.14,25,reviewed,ci,ci
@@ -188,5 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-06T23:47:48.760Z,38.750331878662,-122.70516967773,2.0099999904633,1.35,md,11,133,0.0184,0.03,nc,nc75259951,2025-11-07T01:22:20.889Z,"3 km SSW of Anderson Springs, CA",earthquake,0.36,0.449999988,0.17,11,automatic,nc,nc
 2025-11-06T23:45:45.620Z,44.737333333333,-110.88133333333,4.08,0.29,md,5,99,0.05552,0.08,uu,uu80121511,2025-11-07T15:54:45.370Z,"19 km ENE of West Yellowstone, Montana",earthquake,0.36,2.32,0.21007648994835,5,reviewed,uu,uu
 2025-11-06T23:30:04.650Z,60.032166666667,-153.02583333333,2.6,-0.64,ml,5,204,0.01634,0.08,av,av93873201,2025-11-07T06:05:48.130Z,"66 km ENE of Pedro Bay, Alaska",earthquake,0.89,0.83,0.14850926952295,5,reviewed,av,av
-2025-11-06T23:15:25.640Z,33.3616667,-116.8473333,12.34,1.85,ml,71,23,0.01513,0.18,ci,ci40482042,2025-11-07T18:21:18.989Z,"2 km ENE of Palomar Observatory, CA",earthquake,0.13,0.5,0.164,24,reviewed,ci,ci
-2025-11-06T23:11:15.228Z,-1.3168,-77.6087,189.622,4.5,mb,73,59,0.451,1.09,us,us6000rm0g,2025-11-06T23:53:47.040Z,"42 km SSE of Tena, Ecuador",earthquake,7.21,4.286,0.054,102,reviewed,us,us
