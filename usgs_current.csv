@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-08T23:23:06.790Z,38.789165496826,-122.77116394043,3.6400001049042,0.38,md,7,103,0.01369,0.01,nc,nc75260666,2025-11-08T23:24:42.731Z,"2 km NW of The Geysers, CA",earthquake,0.59,2.19000006,0.2,7,automatic,nc,nc
 2025-11-08T23:16:27.004Z,57.0633,-155.4178,55.6,2.2,ml,,,,0.3,ak,ak025ecdgqj0,2025-11-08T23:18:16.378Z,"76 km W of Akhiok, Alaska",earthquake,,2.5,,,automatic,ak,ak
-2025-11-08T23:13:08.370Z,38.786998748779,-122.77016448975,3.8599998950958,1.82,md,32,82,0.01518,0.04,nc,nc75260661,2025-11-08T23:16:33.590Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.12,33,automatic,nc,nc
+2025-11-08T23:13:08.370Z,38.786998748779,-122.77016448975,3.8599998950958,1.82,md,32,82,0.01518,0.04,nc,nc75260661,2025-11-08T23:32:20.569Z,"2 km NW of The Geysers, CA",earthquake,0.24,0.400000006,0.12,33,automatic,nc,nc
 2025-11-08T22:53:45.716Z,62.1529,-147.8387,33.4,1.8,ml,,,,0.64,ak,ak025ecd39uz,2025-11-08T22:56:00.821Z,"39 km NNW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-11-08T22:52:19.149Z,61.0626,-147.4595,0,1.8,ml,,,,1.35,ak,ak025ecd303e,2025-11-08T22:54:43.518Z,"47 km WNW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-08T22:46:13.930Z,34.1516667,-117.362,10.44,0.92,ml,49,51,0.05424,0.17,ci,ci40482738,2025-11-08T22:49:55.204Z,"2 km W of Muscoy, CA",earthquake,0.16,0.3,0.18,31,automatic,ci,ci
@@ -19,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-08T21:42:52.090Z,38.788166046143,-122.77066802978,3.579999923706,1.04,md,21,81,0.01438,0.03,nc,nc75260631,2025-11-08T22:37:19.208Z,"2 km NW of The Geysers, CA",earthquake,0.29,0.620000005,0.24,20,automatic,nc,nc
 2025-11-08T21:39:08.180Z,38.828666687012,-122.81600189209,1.7799999713898,1.08,md,11,85,0.01586,0.01,nc,nc75260626,2025-11-08T22:12:20.042Z,"8 km NW of The Geysers, CA",earthquake,0.32,0.479999989,0.17,12,automatic,nc,nc
 2025-11-08T21:37:12.426Z,62.4352,-148.1628,35.1,1.7,ml,,,,0.96,ak,ak025eccec8a,2025-11-08T21:39:37.332Z,"72 km NNE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-11-08T21:04:18.978Z,39.4318,143.3307,22.306,5.4,mww,43,146,2.204,0.93,us,us6000rmai,2025-11-08T22:32:34.592Z,"118 km E of Yamada, Japan",earthquake,5.9,6.407,0.08,15,reviewed,us,us
+2025-11-08T21:04:18.978Z,39.4318,143.3307,22.306,5.4,mww,43,146,2.204,0.93,us,us6000rmai,2025-11-08T23:33:01.040Z,"118 km E of Yamada, Japan",earthquake,5.9,6.407,0.08,15,reviewed,us,us
 2025-11-08T20:46:42.840Z,46.642833333333,-119.60633333333,23.79,1.69,ml,29,48,0.009458,0.09,uw,uw62203347,2025-11-08T23:25:25.000Z,"24 km E of Desert Aire, Washington",earthquake,0.2,0.28,0.22094921616293,27,reviewed,uw,uw
 2025-11-08T20:29:19.122Z,39.4946,143.2769,33.093,5.3,mww,85,97,2.133,0.8,us,us6000rmag,2025-11-08T20:57:09.040Z,"114 km E of Yamada, Japan",earthquake,7.98,4.585,0.069,20,reviewed,us,us
 2025-11-08T20:06:42.523Z,61.3579,-148.8764,28.8,1.8,ml,,,,0.64,ak,ak025ecbmbr0,2025-11-08T20:08:22.963Z,"11 km S of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -96,7 +96,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-08T08:25:14.026Z,31.238,-104.636,27.268,1.6,ml,11,166,0.5,1.1,tx,tx2025vznocp,2025-11-08T18:06:31.766Z,"28 km NE of Van Horn, Texas",earthquake,0,26.136978149414,0.3,9,automatic,tx,tx
 2025-11-08T08:18:38.770Z,19.273834228516,-155.40199279785,28.909999847412,1.7,md,32,86,0.03639,0.150000006,hv,hv74824802,2025-11-08T08:23:13.370Z,"11 km NE of Pāhala, Hawaii",earthquake,0.58,0.699999988,0.20043667165236,16,automatic,hv,hv
 2025-11-08T08:13:21.434Z,39.4242,143.2628,41.209,4.5,mb,32,135,2.168,0.6,us,us6000rm8h,2025-11-08T13:24:41.040Z,"113 km E of Yamada, Japan",earthquake,9.08,7.37,0.11,24,reviewed,us,us
+2025-11-08T08:07:12.470Z,54.69,-163.91566666667,7.1,0.42,ml,4,220,0.05117,0.14,av,av93876136,2025-11-08T23:35:20.820Z,"37 km WSW of False Pass, Alaska",earthquake,0.83,1.1,0.48296907469358,4,reviewed,av,av
 2025-11-08T08:06:08.340Z,32.3841667,-115.2538333,8.77,2,ml,25,56,0.05581,0.36,ci,ci40482602,2025-11-08T08:09:37.332Z,"7 km WNW of Delta, B.C., MX",earthquake,0.51,1.7,0.241,26,automatic,ci,ci
+2025-11-08T08:05:46.020Z,54.756666666667,-163.97783333333,0.47,0.48,ml,5,93,0.04862,0.19,av,av93876131,2025-11-08T23:31:19.570Z,"38 km WSW of False Pass, Alaska",earthquake,0.28,0.32,0.32160227510329,5,reviewed,av,av
 2025-11-08T07:59:59.979Z,59.803,-153.4466,129.5,2.3,ml,,,,0.41,ak,ak025ec4fqxz,2025-11-08T13:27:01.040Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-11-08T07:56:50.794Z,32.269,-101.899,4.134,1.1,ml,42,39,0,0.4,tx,tx2025vzmqqo,2025-11-08T12:13:57.790Z,"18 km NW of Stanton, Texas",earthquake,0,0.80133014917374,0.2,29,automatic,tx,tx
 2025-11-08T07:56:22.914Z,44.972,149.3224,92.87,4.5,mb,47,153,4.885,0.42,us,us6000rm96,2025-11-08T13:31:55.040Z,"117 km ESE of Kuril’sk, Russia",earthquake,12.53,8.843,0.083,43,reviewed,us,us
@@ -159,5 +161,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T23:49:13.749Z,58.1155,-156.726,45.3,1.9,ml,,,,0.88,ak,ak025eaq4fn2,2025-11-07T23:51:26.099Z,"39 km ESE of Egegik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-11-07T23:43:59.935Z,52.1389,-171.3855,25.8,3.8,ml,,,,0.86,ak,ak025eaq38nx,2025-11-08T22:13:18.027Z,"192 km E of Atka, Alaska",earthquake,,1.9,,,reviewed,ak,ak
 2025-11-07T23:43:05.850Z,38.812831878662,-122.7919998169,2.6400001049042,1.15,md,23,42,0.0055,0.01,nc,nc75260341,2025-11-08T02:12:17.013Z,"5 km NW of The Geysers, CA",earthquake,0.22,0.430000007,0.14,23,automatic,nc,nc
-2025-11-07T23:38:12.620Z,38.807498931885,-122.78033447266,2.7300000190735,1.6,md,28,59,0.005758,0.03,nc,nc75260336,2025-11-08T01:47:21.837Z,"4 km NNW of The Geysers, CA",earthquake,0.24,0.360000014,0.11,27,automatic,nc,nc
-2025-11-07T23:30:22.520Z,38.790500640869,-122.77532958984,0.77999997138977,0.75,md,10,106,0.01019,0.02,nc,nc75260331,2025-11-08T01:22:18.668Z,"2 km NW of The Geysers, CA",earthquake,0.28,0.699999988,0.28,11,automatic,nc,nc
