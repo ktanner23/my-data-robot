@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-08T07:15:44.330Z,38.793334960938,-122.75382995606,0.55000001192093,1.01,md,10,158,0.008609,0.02,nc,nc75260456,2025-11-08T07:17:19.590Z,"2 km N of The Geysers, CA",earthquake,0.45,0.649999976,0.13,9,automatic,nc,nc
-2025-11-08T07:15:10.430Z,38.792835235596,-122.75499725342,0.60000002384186,1.04,md,12,86,0.008607,0.02,nc,nc75260451,2025-11-08T07:16:45.543Z,"2 km N of The Geysers, CA",earthquake,0.27,0.529999971,0.18,11,automatic,nc,nc
+2025-11-08T07:15:10.430Z,38.792835235596,-122.75499725342,0.60000002384186,1.04,md,12,86,0.008607,0.02,nc,nc75260451,2025-11-08T07:47:19.237Z,"2 km N of The Geysers, CA",earthquake,0.27,0.529999971,0.18,11,automatic,nc,nc
 2025-11-08T07:07:04.980Z,38.780166625977,-122.74617004394,0.75,1.27,md,14,75,0.007993,0.03,nc,nc75260446,2025-11-08T07:37:17.157Z,"1 km ENE of The Geysers, CA",earthquake,0.24,0.460000008,0.15,13,automatic,nc,nc
 2025-11-08T06:45:46.615Z,31.379,-103.333,11.8081,1.1,ml,8,120,0.2,0.6,tx,tx2025vzkhii,2025-11-08T07:00:22.643Z,"10 km SSE of Barstow, Texas",earthquake,0,10.70746421814,0.3,7,automatic,tx,tx
 2025-11-08T06:40:07.170Z,18.746,-64.354,38.11,3.02,md,7,295,0.2585,0.16,pr,pr71499818,2025-11-08T07:00:15.940Z,"65 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,4.4,3.74,0.08181180681932,4,reviewed,pr,pr
@@ -109,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T18:46:22.310Z,35.3506667,-117.8096667,7.43,1.65,ml,48,35,0.08816,0.15,ci,ci40482298,2025-11-07T22:39:34.341Z,"16 km W of Johannesburg, CA",earthquake,0.14,0.56,0.14,25,reviewed,ci,ci
 2025-11-07T18:29:23.110Z,38.838165283203,-122.83699798584,1.8400000333786,1.02,md,15,109,0.01511,0.02,nc,nc75260241,2025-11-07T19:07:19.287Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.569999993,0.22,16,automatic,nc,nc
 2025-11-07T18:21:53.842Z,52.5256,158.7781,92.665,4.4,mb,68,130,0.877,0.68,us,us6000rm63,2025-11-07T19:22:33.040Z,"51 km SSE of Vilyuchinsk, Russia",earthquake,10.58,6.79,0.067,69,reviewed,us,us
+2025-11-07T18:16:06.240Z,61.302833333333,-152.33766666667,-3.18,-0.44,ml,8,163,0.04695,0.26,av,av93874921,2025-11-08T07:45:36.270Z,"69 km WNW of Tyonek, Alaska",earthquake,0.82,2.71,0.26142991563448,8,reviewed,av,av
 2025-11-07T18:16:01.460Z,32.9895,-116.2956667,6.87,1.02,ml,36,44,0.0354,0.19,ci,ci40482290,2025-11-07T18:19:31.255Z,"23 km SW of Ocotillo Wells, CA",earthquake,0.2,0.48,0.237,16,automatic,ci,ci
 2025-11-07T18:12:04.880Z,33.0278333,-116.292,7.56,0.97,ml,41,40,0.07366,0.17,ci,ci40482282,2025-11-07T18:15:43.230Z,"20 km SW of Ocotillo Wells, CA",earthquake,0.18,0.51,0.143,18,automatic,ci,ci
 2025-11-07T18:10:32.989Z,60.3255,-147.7829,24,2.4,ml,,,,0.62,ak,ak025eamwy4v,2025-11-07T18:23:12.667Z,"31 km NNE of Chenega, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-07T08:13:04.974Z,31.581,-104.03,7.8558,1.8,ml,38,64,0,0.1,tx,tx2025vxrlpp,2025-11-07T08:53:42.292Z,"37 km NW of Toyah, Texas",earthquake,0.38087151546713,0.34144163257279,0.2,30,reviewed,tx,tx
 2025-11-07T08:05:33.725Z,52.1973,160.4903,15.979,5.3,mb,70,125,1.394,0.92,us,us6000rm25,2025-11-07T08:24:28.040Z,"158 km SE of Petropavlovsk-Kamchatsky, Russia",earthquake,10.75,4.762,0.035,280,reviewed,us,us
 2025-11-07T08:04:18.995Z,60.0008,-139.2037,5.4,2.6,ml,,,,0.99,ak,ak025eagxaqz,2025-11-07T10:02:28.040Z,"58 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-07T07:50:36.520Z,36.0345,-117.7765,1.64,1.26,ml,27,52,0.013,0.18,ci,ci40482202,2025-11-07T16:47:48.211Z,"16 km E of Coso Junction, CA",earthquake,0.16,0.18,0.174,25,reviewed,ci,ci
