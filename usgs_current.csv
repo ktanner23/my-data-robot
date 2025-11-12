@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-12T09:26:40.450Z,38.835834503174,-122.87599945068,2.9500000476837,0.24,md,7,161,0.01708,0.01,nc,nc75262306,2025-11-12T09:28:18.458Z,"12 km WNW of The Geysers, CA",earthquake,3.96,5.3499999,0.11,8,automatic,nc,nc
 2025-11-12T08:54:47.630Z,62.194,-149.4574,39.6,1.8,ml,,,,1.54,ak,ak025eiqwt8b,2025-11-12T08:57:10.884Z,"20 km E of Susitna North, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2025-11-12T08:45:15.660Z,35.4146667,-118.8245,11.09,1.53,ml,46,74,0.05822,0.24,ci,ci40484162,2025-11-12T08:55:43.000Z,"18 km E of Oildale, CA",earthquake,0.24,0.46,0.145,28,automatic,ci,ci
 2025-11-12T08:38:51.670Z,33.6515,-116.711,15.71,0.55,ml,24,55,0.03555,0.13,ci,ci40484154,2025-11-12T08:42:18.166Z,"10 km S of Idyllwild, CA",earthquake,0.22,0.39,0.232,11,automatic,ci,ci
@@ -49,7 +50,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T04:02:58.270Z,18.012166666667,-66.73,13.11,1.92,md,7,179,0.1216,0.07,pr,pr71499993,2025-11-12T04:13:31.710Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.47,0.37,0.071801849595983,3,reviewed,pr,pr
 2025-11-12T03:57:39.128Z,39.7189,143.6084,10,4.9,mww,54,98,2.221,0.89,us,us6000rmwf,2025-11-12T04:14:16.040Z,"143 km E of Miyako, Japan",earthquake,8.31,1.879,0.078,16,reviewed,us,us
 2025-11-12T03:56:40.876Z,63.2965,-151.3109,0.9,1.4,ml,,,,0.53,ak,ak025einy247,2025-11-12T03:58:41.770Z,"34 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-12T03:51:19.635Z,31.667,-104.382,9.8622,1.4,ml,23,70,0,0.8,tx,tx2025wgnkpx,2025-11-12T04:00:17.669Z,"56 km S of Whites City, New Mexico",earthquake,0,2.3206820487976,0.1,19,automatic,tx,tx
 2025-11-12T03:40:46.684Z,31.678,-104.386,6.0999,1.5,ml,28,71,0,0.2,tx,tx2025wgnbmk,2025-11-12T09:15:41.436Z,"55 km S of Whites City, New Mexico",earthquake,0.88841205107406,0.70741422445412,0.2,16,reviewed,tx,tx
 2025-11-12T03:38:25.280Z,19.052165985107,-155.36099243164,34.569999694824,1.73,md,19,266,0.1403,0.140000001,hv,hv74827657,2025-11-12T03:42:23.190Z,"20 km SE of Pāhala, Hawaii",earthquake,1.06,0.920000017,0.095471064466698,14,automatic,hv,hv
 2025-11-12T03:31:54.350Z,19.335332870483,-155.20466613769,4.5100002288818,1.75,md,38,76,0.03959,0.200000003,hv,hv74827647,2025-11-12T03:36:23.520Z,"12 km SSE of Volcano, Hawaii",earthquake,0.51,0.920000017,0.14158125456373,15,automatic,hv,hv
@@ -204,7 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-11T09:40:30.228Z,38.4542,-116.4938,4.9396,1.56,ml,9,179,0.502,0.1833,nn,nn00907175,2025-11-11T18:00:17.620Z,"77 km ENE of Tonopah, Nevada",earthquake,,3.7188,0.33,3,reviewed,nn,nn
 2025-11-11T09:31:55.930Z,17.9565,-68.178166666667,68.37,3.3,md,10,234,0.5875,0.26,pr,pr71499978,2025-11-11T11:23:17.040Z,"65 km SE of Boca de Yuma, Dominican Republic",earthquake,2.66,2.89,0.061790096980113,8,reviewed,pr,pr
 2025-11-11T09:31:37.380Z,54.546666666667,-164.66,1.51,0.82,ml,5,94,0.05271,0.17,av,av93052154,2025-11-11T23:41:28.890Z,"85 km ENE of Akutan, Alaska",earthquake,0.38,0.71,0.16970376684457,5,reviewed,av,av
-2025-11-11T09:29:54.970Z,60.044,-153.0605,-2.34,-0.85,ml,5,148,0.01348,0.08,av,av93882121,2025-11-11T23:27:29.030Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.34,1.69,0.2503283329172,4,reviewed,av,av
-2025-11-11T09:22:50.458Z,32.09,-101.656,5.9326,0.6,ml,14,79,0,0.2,tx,tx2025wfcrfr,2025-11-11T12:20:56.196Z,"13 km ESE of Stanton, Texas",earthquake,0.77551954441566,1.1354478999691,0.1,5,reviewed,tx,tx
-2025-11-11T09:21:44.190Z,38.795833587646,-122.78350067139,3.3900001049042,0.72,md,16,68,0.004352,0.02,nc,nc75261851,2025-11-11T09:37:17.392Z,"3 km NW of The Geysers, CA",earthquake,0.3,0.620000005,0.11,15,automatic,nc,nc
-2025-11-11T09:19:18.657Z,32.093,-101.655,8.8379,2.4,ml,63,79,0,0.1,tx,tx2025wfcoih,2025-11-11T11:17:42.040Z,"13 km ESE of Stanton, Texas",earthquake,0.25673691499445,0.74222268489166,0.1,41,reviewed,tx,tx
