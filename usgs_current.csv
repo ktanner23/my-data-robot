@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-11-14T09:32:59.013Z,61.2788,-146.7835,14.9,2,ml,,,,0.61,ak,ak025em2g8y0,2025-11-14T09:37:06.476Z,"28 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-14T09:24:11.750Z,38.829334259033,-122.83016967773,0.43999999761581,0.96,md,12,144,0.01013,0.14,nc,nc75263106,2025-11-14T09:25:48.865Z,"9 km NW of The Geysers, CA",earthquake,0.48,1.02999997,0.29,13,automatic,nc,nc
+2025-11-14T09:24:11.750Z,38.829334259033,-122.83016967773,0.43999999761581,0.96,md,12,144,0.01013,0.14,nc,nc75263106,2025-11-14T09:42:19.797Z,"9 km NW of The Geysers, CA",earthquake,0.48,1.02999997,0.29,13,automatic,nc,nc
 2025-11-14T09:20:19.191Z,61.6264,-150.0478,21.6,1.9,ml,,,,0.45,ak,ak025em2dlah,2025-11-14T09:24:17.070Z,"12 km W of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-14T09:19:59.380Z,33.8786667,-117.7968333,10.79,1.12,ml,36,141,0.04949,0.18,ci,ci40485082,2025-11-14T09:24:07.780Z,"2 km SE of Yorba Linda, CA",earthquake,0.29,0.37,0.277,33,automatic,ci,ci
 2025-11-14T09:08:39.100Z,19.690999984741,-155.55082702637,38.560001373291,1.76,md,10,111,0.06815,0.389999986,hv,hv74829887,2025-11-14T09:12:06.710Z,"37 km SE of Waikoloa, Hawaii",earthquake,1.72,4.0999999,0.078441405462545,13,automatic,hv,hv
@@ -41,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-14T04:55:36.560Z,38.82833480835,-122.81483459473,2,0.76,md,16,46,0.006177,0.03,nc,nc75263011,2025-11-14T05:57:19.274Z,"8 km NW of The Geysers, CA",earthquake,0.25,0.560000002,0.15,16,automatic,nc,nc
 2025-11-14T04:54:46.170Z,33.7323333,-116.8491667,14.98,0.9,ml,31,69,0.07687,0.16,ci,ci40485026,2025-11-14T04:58:19.892Z,"4 km ESE of Valle Vista, CA",earthquake,0.26,0.4,0.239,29,automatic,ci,ci
 2025-11-14T04:53:08.199Z,61.5001,-150.7178,65.5,1.3,ml,,,,0.55,ak,ak025elzlh1f,2025-11-14T04:55:14.666Z,"11 km WSW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-11-14T04:29:44.305Z,31.981,-103.79,8.5572,1.6,ml,32,51,0,0.4,tx,tx2025wkgdll,2025-11-14T08:11:01.164Z,"35 km NNW of Mentone, Texas",earthquake,0,1.5804623365402,0.2,25,automatic,tx,tx
+2025-11-14T04:29:44.990Z,31.977,-103.789,7.1893,1.5,ml,38,47,0,0.2,tx,tx2025wkgdll,2025-11-14T09:39:58.928Z,"35 km NNW of Mentone, Texas",earthquake,0.50379142114816,0.55502827152764,0.2,19,reviewed,tx,tx
 2025-11-14T04:18:31.515Z,64.4004,-147.3067,3.3,1.5,ml,,,,0.79,ak,ak025elze0rz,2025-11-14T04:20:20.531Z,"23 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-11-14T04:18:03.487Z,31.65,-104.474,3.8729,1.7,ml,30,102,0,0.5,tx,tx2025wkfrrq,2025-11-14T06:09:30.684Z,"59 km S of Whites City, New Mexico",earthquake,0,1.1493462324142,0.1,22,automatic,tx,tx
 2025-11-14T04:07:05.660Z,19.040332794189,-155.3681640625,34.849998474121,1.7,md,18,276,0.1449,0.140000001,hv,hv74829647,2025-11-14T04:10:34.960Z,"21 km SSE of Pāhala, Hawaii",earthquake,0.98,1.45000005,0.090722443975809,14,automatic,hv,hv
@@ -231,9 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-13T09:57:16.221Z,16.7356,120.1858,74.793,4.7,mb,36,106,6.109,1.77,us,us6000rn3i,2025-11-13T11:14:11.881Z,"17 km W of Bacnotan, Philippines",earthquake,9.08,7.279,0.09,37,reviewed,us,us
 2025-11-13T09:50:34.620Z,58.3,-154.98983333333,3.02,-0.35,ml,9,141,0.03928,0.09,av,av93052304,2025-11-14T05:58:51.080Z,"87 km NNW of Karluk, Alaska",earthquake,0.37,0.59,0.26071108801723,10,reviewed,av,av
 2025-11-13T09:48:26.322Z,53.7427,159.3722,111.838,4.7,mb,72,118,1.186,0.76,us,us6000rn3h,2025-11-13T10:00:50.040Z,"90 km NE of Yelizovo, Russia",earthquake,12.2,9.533,0.043,166,reviewed,us,us
-2025-11-13T09:44:52.460Z,54.755166666667,-163.992,-0.05,0.86,ml,5,99,0.04591,0.22,av,av93886036,2025-11-13T21:09:21.710Z,"38 km WSW of False Pass, Alaska",earthquake,0.77,1.63,0.33372410198666,5,reviewed,av,av
-2025-11-13T09:44:03.421Z,59.7506,-151.0008,0,1.7,ml,,,,0.63,ak,ak025ekezcra,2025-11-13T09:46:32.014Z,"12 km S of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2025-11-13T09:41:28.938Z,-56.6966,-142.0685,10,5.7,mww,59,56,27.324,0.87,us,us6000rn4x,2025-11-13T22:13:48.539Z,"Pacific-Antarctic Ridge",earthquake,13.47,1.763,0.086,13,reviewed,us,us
-2025-11-13T09:40:27.195Z,64.4953,-146.8958,5.7,1.5,ml,,,,1.47,ak,ak025ekeyjqg,2025-11-13T09:52:26.604Z,"3 km S of Salcha, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2025-11-13T09:40:04.060Z,64.3292,-149.9739,6.3,1.7,ml,,,,1.02,ak,ak025ekeyhxy,2025-11-13T09:43:15.367Z,"38 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-11-13T09:39:32.400Z,51.836,-178.1075,9.83,0.42,ml,5,186,0.02931,0.08,av,av93886021,2025-11-14T05:29:19.410Z,"101 km W of Adak, Alaska",earthquake,0.61,0.29,0.66304450705546,5,reviewed,av,av
