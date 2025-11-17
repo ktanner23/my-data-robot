@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-17T23:43:05.020Z,33.704833333333,-116.71783333333,16.99,0.77,ml,36,38,0.01048,0.15,ci,ci41123255,2025-11-17T23:46:45.922Z,"4 km S of Idyllwild, CA",earthquake,0.21,0.34,0.17713591509659,20,automatic,ci,ci
+2025-11-17T23:39:39.750Z,41.577833333333,-109.88116666667,-3.4,3.64,ml,12,113,0.1281,0.3,uu,uu80122716,2025-11-17T23:49:01.970Z,"4 km NNW of Little America, Wyoming",earthquake,0.8,2.79,0.28403272178681,34,reviewed,uu,uu
 2025-11-17T23:36:42.292Z,32.111,-101.917,2.9294,1.3,ml,43,35,0.1,0.5,tx,tx2025wrfilu,2025-11-17T23:41:01.086Z,"12 km W of Stanton, Texas",earthquake,0,0.79851746559143,0.2,25,automatic,tx,tx
 2025-11-17T23:05:38.206Z,31.64,-104.431,5.3833,2,ml,31,86,0,0.5,tx,tx2025wrehpj,2025-11-17T23:08:18.117Z,"59 km S of Whites City, New Mexico",earthquake,0,2.4192273616791,0.1,17,automatic,tx,tx
 2025-11-17T23:02:25.256Z,35.9968,-115.2827,2.9691,1.99,ml,16,216,0.518,0.3315,nn,nn00907408,2025-11-17T23:06:11.108Z,"4 km SW of Enterprise, Nevada",earthquake,,12.6925,0.25,11,automatic,nn,nn
@@ -214,7 +216,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T01:11:31.470Z,33.4596667,-116.4461667,2.46,1.35,ml,68,34,0.135,0.23,ci,ci40485890,2025-11-17T14:21:56.771Z,"24 km ESE of Anza, CA",earthquake,0.17,0.46,0.159,27,reviewed,ci,ci
 2025-11-17T01:09:25.623Z,63.2086,-151.3493,0,2.1,ml,,,,1.02,ak,ak025eqw5tj4,2025-11-17T01:22:25.045Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-17T01:08:05.590Z,47.691166666667,-121.40833333333,10.56,1.46,ml,28,45,0.03619,0.17,uw,uw62205097,2025-11-17T16:44:11.770Z,"4 km WSW of Skykomish, Washington",earthquake,0.22,0.41,0.10618187449018,11,reviewed,uw,uw
-2025-11-17T00:59:51.387Z,62.2339,-151.0924,90,1.7,ml,,,,0.4,ak,ak025eqvv5qa,2025-11-17T01:02:06.909Z,"31 km NNE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2025-11-17T00:59:51.387Z,62.2339,-151.0924,90,1.7,ml,,,,0.4,ak,ak025eqvv5qa,2025-11-17T01:02:06.909Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
 2025-11-17T00:58:40.150Z,33.4556667,-116.6161667,9.33,0.6,ml,20,143,0.02374,0.14,ci,ci40485882,2025-11-17T01:02:09.606Z,"12 km SSE of Anza, CA",earthquake,0.32,0.42,0.165,17,automatic,ci,ci
 2025-11-17T00:55:51.790Z,38.831665039062,-122.81383514404,1.9700000286102,0.95,md,8,86,0.01827,0.01,nc,nc75264461,2025-11-17T01:17:19.806Z,"8 km NW of The Geysers, CA",earthquake,0.39,1.79999995,0.23,10,automatic,nc,nc
 2025-11-17T00:48:24.830Z,33.0121667,-116.3736667,9.57,0.79,ml,29,40,0.05085,0.18,ci,ci40485874,2025-11-17T00:51:55.787Z,"22 km ESE of Julian, CA",earthquake,0.22,0.49,0.206,11,automatic,ci,ci
@@ -238,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T00:04:23.430Z,33.4568333,-116.4488333,2.01,1.78,ml,85,23,0.1336,0.22,ci,ci40485770,2025-11-17T14:23:42.903Z,"23 km NNW of Borrego Springs, CA",earthquake,0.13,0.3,0.16,27,reviewed,ci,ci
 2025-11-16T23:59:54.050Z,38.509,-112.89516666667,1.66,1.18,md,10,88,0.00247,0.07,uu,uu80122626,2025-11-17T21:57:10.290Z,"16 km NE of Milford, Utah",earthquake,0.37,0.5,0.23308224347606,3,reviewed,uu,uu
 2025-11-16T23:59:49.930Z,38.831832885742,-122.81549835205,1.3999999761581,0.99,md,15,52,0.009431,0.01,nc,nc75264426,2025-11-17T00:22:18.440Z,"8 km NW of The Geysers, CA",earthquake,0.24,0.579999983,0.1,15,automatic,nc,nc
-2025-11-16T23:49:27.530Z,38.831001281738,-122.81500244141,1.6699999570847,1.64,md,26,49,0.008515,0.02,nc,nc75264416,2025-11-17T01:52:17.076Z,"8 km NW of The Geysers, CA",earthquake,0.16,0.270000011,0.18,27,automatic,nc,nc
-2025-11-16T23:45:57.300Z,48.204333333333,-122.37816666667,18.97,1.69,ml,49,33,0.0342,0.16,uw,uw62205087,2025-11-17T18:05:13.090Z,"3 km NNW of Warm Beach, Washington",earthquake,0.19,0.48,0.13304137526054,31,reviewed,uw,uw
