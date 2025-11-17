@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-17T09:38:22.137Z,31.669,-104.425,4.5695,2.4,ml,44,68,0,0.4,tx,tx2025wqdlgu,2025-11-17T09:43:37.854Z,"56 km S of Whites City, New Mexico",earthquake,0,0.86769473552704,0.2,33,automatic,tx,tx
 2025-11-17T09:22:36.918Z,32.12,-101.036,0.2519,2.2,ml,41,70,0.2,0.6,tx,tx2025wqdapp,2025-11-17T09:27:23.597Z,"26 km S of Westbrook, Texas",earthquake,0,0.99841797351837,0.1,25,automatic,tx,tx
 2025-11-17T09:16:14.360Z,19.165332794189,-155.50132751465,31.450000762939,2.01,md,42,116,0.03836,0.140000001,hv,hv74832662,2025-11-17T09:20:03.420Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.56,0.670000017,0.26812442922615,15,automatic,hv,hv
 2025-11-17T09:14:08.909Z,32.121,-101.038,0.6477,1.8,ml,18,112,0.2,0.7,tx,tx2025wqctdz,2025-11-17T09:17:29.944Z,"26 km S of Westbrook, Texas",earthquake,0,1.4126014709473,0.2,13,automatic,tx,tx
@@ -182,10 +183,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-16T14:22:05.930Z,33.4583333,-116.4356667,3.34,0.64,ml,33,100,0.1432,0.17,ci,ci40485594,2025-11-16T14:25:32.994Z,"23 km NNW of Borrego Springs, CA",earthquake,0.2,0.74,0.079,13,automatic,ci,ci
 2025-11-16T14:17:15.290Z,48.294666666667,-121.86333333333,6.45,0.8,ml,8,77,0.08419,0.12,uw,uw62204987,2025-11-17T01:46:28.190Z,"5 km ENE of Oso, Washington",earthquake,0.29,1.14,0.21281526015545,4,reviewed,uw,uw
 2025-11-16T14:02:44.561Z,31.644,-103.68,0,1.7,ml,18,101,0.1,1.2,tx,tx2025woqndj,2025-11-16T15:00:15.782Z,"10 km SW of Mentone, Texas",earthquake,0,,0.2,8,automatic,tx,tx
-2025-11-16T14:01:35.197Z,32.349,-101.066,1.2465,2.7,ml,44,106,0.2,0.6,tx,tx2025woqnza,2025-11-16T15:02:36.897Z,"4 km W of Westbrook, Texas",earthquake,0,1.0242033004761,0.1,29,automatic,tx,tx
-2025-11-16T14:01:35.051Z,32.341,-101.073,8.0322,2.5,ml,72,55,0.2,0.2,tx,tx2025woqogs,2025-11-17T08:34:25.218Z,"5 km WSW of Westbrook, Texas",earthquake,0.48938853373583,0.93379439940659,0.1,49,reviewed,tx,tx
+2025-11-16T14:01:35.051Z,32.341,-101.073,8.0322,2.5,ml,72,55,0.2,0.2,tx,tx2025woqogs,2025-11-17T09:39:00.035Z,"5 km WSW of Westbrook, Texas",earthquake,0.48938853373583,0.93379439940659,0.1,49,reviewed,tx,tx
 2025-11-16T13:54:23.690Z,63.3384,-145.4021,8,1.8,ml,,,,0.41,ak,ak025epg1bdt,2025-11-16T13:56:11.700Z,"29 km NNE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-11-16T13:46:04.530Z,31.709,-101.7,2.216,1.9,ml,54,61,0.1,0.5,tx,tx2025woqapt,2025-11-17T00:15:21.434Z,"26 km SW of Garden City, Texas",earthquake,0,0.87201648950577,0.2,39,automatic,tx,tx
+2025-11-16T13:46:04.599Z,31.715,-101.699,8.8623,1.8,ml,43,59,0.1,0.2,tx,tx2025woqapt,2025-11-17T09:37:05.653Z,"26 km SW of Garden City, Texas",earthquake,0.51484083210602,0.69792102338012,0.2,25,reviewed,tx,tx
 2025-11-16T13:39:42.710Z,38.824333190918,-122.84349822998,1.6900000572205,0.75,md,11,143,0.006726,0.01,nc,nc75264156,2025-11-16T15:07:18.794Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.629999995,0.46,11,automatic,nc,nc
 2025-11-16T13:26:51.490Z,38.831165313721,-122.81533050537,1.3300000429153,0.26,md,7,90,0.008778,0.02,nc,nc75264151,2025-11-16T13:42:19.144Z,"8 km NW of The Geysers, CA",earthquake,0.35,1.26999998,0.17,8,automatic,nc,nc
 2025-11-16T13:19:32.959Z,39.6051,143.5732,10,4.5,mb,93,132,2.256,0.6,us,us6000rnl2,2025-11-16T14:00:54.040Z,"140 km E of Miyako, Japan",earthquake,8.33,1.893,0.063,74,reviewed,us,us
@@ -232,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-16T09:51:33.360Z,33.5655,-116.6541667,13.92,0.93,ml,47,37,0.01975,0.17,ci,ci40485538,2025-11-16T15:02:59.966Z,"2 km ENE of Anza, CA",earthquake,0.15,0.27,0.208,31,reviewed,ci,ci
 2025-11-16T09:49:51.189Z,31.039,-103.69,1.6251,1.6,ml,15,181,0.2,1,tx,tx2025woifbt,2025-11-16T19:07:12.694Z,"7 km NE of Balmorhea, Texas",earthquake,0,2.0527045726776,0.1,13,automatic,tx,tx
 2025-11-16T09:48:10.889Z,31.699,-101.709,4.3743,1,ml,12,120,0.1,0.5,tx,tx2025woidmu,2025-11-16T12:14:14.518Z,"28 km SW of Garden City, Texas",earthquake,0,1.6989657878876,0.3,8,automatic,tx,tx
-2025-11-16T09:38:50.881Z,35.03596497,-97.74725342,4.832411289,1.65,ml,8,116.8866119,0.12696141,1.238294981,ok,ok2025wloo,2025-11-16T09:40:07.007Z,"10 km W of Dibble, Oklahoma",earthquake,4.859777089,3.944994464,0.29,4,automatic,ok,ok
