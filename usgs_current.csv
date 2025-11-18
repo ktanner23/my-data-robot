@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-18T04:45:38.990Z,40.03099822998,-123.78299713135,17.469999313354,2,md,21,71,0.05201,0.11,nc,nc75264976,2025-11-18T04:47:15.574Z,"10 km SSE of Redway, CA",earthquake,0.39,0.660000026,0.11,14,automatic,nc,nc
 2025-11-18T04:36:31.218Z,31.891,-101.666,1.2986,1.2,ml,6,136,0.1,0.6,tx,tx2025wrpgvi,2025-11-18T04:39:29.338Z,"17 km W of Garden City, Texas",earthquake,0,3.9233484268188,0.5,6,automatic,tx,tx
 2025-11-18T04:29:36.478Z,31.632,-104.424,2.5634,2,ml,38,74,0,0.6,tx,tx2025wrpaoz,2025-11-18T04:33:45.719Z,"60 km S of Whites City, New Mexico",earthquake,0,1.0879007577896,0.1,23,automatic,tx,tx
 2025-11-18T03:59:15.330Z,19.308000564575,-155.21850585938,0.18999999761581,1.75,md,43,175,0.02725,0.150000006,hv,hv74833157,2025-11-18T04:02:45.300Z,"15 km S of Volcano, Hawaii",earthquake,0.29,0.200000003,0.13162763053901,9,automatic,hv,hv
@@ -27,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T23:43:05.020Z,33.704833333333,-116.71783333333,16.99,0.77,ml,36,38,0.01048,0.15,ci,ci41123255,2025-11-17T23:46:45.922Z,"4 km S of Idyllwild, CA",earthquake,0.21,0.34,0.17713591509659,20,automatic,ci,ci
 2025-11-17T23:39:39.590Z,41.577333333333,-109.89516666667,-2.39,3.67,ml,16,113,0.129,0.14,uu,uu80122716,2025-11-18T03:48:45.580Z,"4 km NW of Little America, Wyoming",earthquake,0.34,0.61,0.30791710000558,27,reviewed,uu,uu
 2025-11-17T23:36:42.396Z,32.123,-101.918,7.8369,1.3,ml,35,37,0.1,0.1,tx,tx2025wrfilu,2025-11-18T00:01:46.097Z,"12 km W of Stanton, Texas",earthquake,0.36748602315996,0.68702591346924,0.1,15,reviewed,tx,tx
+2025-11-17T23:27:05.250Z,46.481333333333,-117.37966666667,-0.87,1.6,ml,6,167,0.3007,0.12,uw,uw62205372,2025-11-18T04:43:56.950Z,"17 km E of Pomeroy, Washington",explosion,1.16,31.61,0.17811585619659,2,reviewed,uw,uw
 2025-11-17T23:13:50.967Z,-1.3477,-77.8529,179.509,4.2,mb,48,58,0.224,0.68,us,us6000rnv4,2025-11-18T03:03:24.040Z,"22 km NE of Puyo, Ecuador",earthquake,7.67,4.391,0.102,27,reviewed,us,us
 2025-11-17T23:05:38.418Z,31.656,-104.421,6.0999,2,ml,38,71,0,0.2,tx,tx2025wrehpj,2025-11-18T00:20:13.273Z,"57 km S of Whites City, New Mexico",earthquake,0.9173455472112,0.6072460893689,0.1,17,reviewed,tx,tx
 2025-11-17T23:02:25.256Z,35.9968,-115.2827,2.9691,1.99,ml,16,216,0.518,0.3315,nn,nn00907408,2025-11-17T23:06:11.108Z,"4 km SW of Enterprise, Nevada",earthquake,,12.6925,0.25,11,automatic,nn,nn
@@ -207,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-17T05:02:37.147Z,63.6837,-149.2753,0,1.7,ml,,,,0.84,ak,ak025eqyi2v2,2025-11-17T05:14:58.546Z,"18 km WSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-11-17T04:58:57.100Z,60.029333333333,-153.09483333333,-0.75,-0.11,ml,5,116,0.03219,0.14,av,av93893001,2025-11-18T01:12:53.400Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.36,3.84,0.30825022273083,5,reviewed,av,av
 2025-11-17T04:52:56.130Z,19.165500640869,-155.49600219727,32.290000915527,1.85,md,43,115,0.03357,0.159999996,hv,hv74832487,2025-11-17T04:57:05.750Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.68,0.800000012,0.27508789629771,17,automatic,hv,hv
-2025-11-17T04:46:17.034Z,63.7118,-149.1691,0,2.9,ml,,,,0.99,ak,ak025eqy6152,2025-11-17T05:05:23.040Z,"12 km W of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-11-17T04:44:57.190Z,38.78099822998,-122.75700378418,2.2999999523163,0.45,md,5,132,0.01233,0.01,nc,nc75264576,2025-11-17T05:12:18.397Z,"0 km N of The Geysers, CA",earthquake,0.67,1.66999996,0.28,5,automatic,nc,nc
-2025-11-17T04:44:09.820Z,36.36283333,-98.1535,5,2.04,ml,86,55,0.1970613298,0.22,ok,ok2025wnaj,2025-11-17T13:52:12.195Z,"3 km SE of Meno, Oklahoma",earthquake,,0.4,0.24,43,reviewed,ok,ok
-2025-11-17T04:41:35.420Z,44.259333333333,-110.3885,11.52,0.27,md,11,178,0.1002,0.12,uu,uu80122656,2025-11-17T18:51:01.140Z,"72 km SE of West Yellowstone, Montana",earthquake,0.63,0.77,0.080586847350052,8,reviewed,uu,uu
