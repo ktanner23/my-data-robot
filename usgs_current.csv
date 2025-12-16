@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-12-16T09:22:28.854Z,31.638,-104.443,3.6583,1.8,ml,25,93,0,0.3,tx,tx2025yrjbwj,2025-12-16T09:24:57.002Z,"59 km S of Whites City, New Mexico",earthquake,0,1.3699597120285,0.2,12,automatic,tx,tx
+2025-12-16T09:18:45.154Z,-11.7108,163.3531,10,5.3,mww,68,53,4.038,0.84,us,us6000rv8z,2025-12-16T09:41:35.040Z,"209 km SE of Kirakira, Solomon Islands",earthquake,5.38,1.858,0.093,11,reviewed,us,us
 2025-12-16T09:10:23.680Z,38.841331481934,-122.81016540527,1.9400000572205,1.14,md,20,51,0.01575,0.02,nc,nc75280656,2025-12-16T09:11:57.977Z,"8 km WNW of Cobb, CA",earthquake,0.22,0.449999988,0.16,22,automatic,nc,nc
 2025-12-16T09:04:34.860Z,17.484,-66.690833333333,13.88,2.72,md,10,274,0.4296,0.26,pr,pr71502403,2025-12-16T09:15:57.620Z,"56 km S of Tallaboa, Puerto Rico",earthquake,0.98,2.16,0.17314721307278,5,reviewed,pr,pr
 2025-12-16T09:03:09.190Z,38.364334106445,-122.58032989502,0.30000001192093,1.55,md,6,132,0.0156,0.05,nc,nc75280651,2025-12-16T09:04:47.675Z,"4 km W of Glen Ellen, CA",earthquake,0.43,0.699999988,0.17,7,automatic,nc,nc
@@ -9,9 +10,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-16T08:40:44.830Z,19.126333236694,-155.48083496094,37.169998168945,1.73,md,22,223,0.1358,0.349999994,hv,hv74855272,2025-12-16T08:44:08.520Z,"8 km S of Pāhala, Hawaii",earthquake,2.08,1.75999999,0.080091464056932,16,automatic,hv,hv
 2025-12-16T08:31:10.234Z,60.621,-152.031,86.2,2.9,ml,105,32,0.2,0.7,ak,ak2025yrhjqf,2025-12-16T08:33:03.361Z,"38 km W of Salamatof, Alaska",earthquake,0,1.8092,0.2,4,automatic,ak,ak
 2025-12-16T08:02:05.429Z,32.42,-102.048,6.3762,1.1,ml,7,127,0.1,0.1,tx,tx2025yrgklb,2025-12-16T08:06:12.942Z,"33 km WSW of Ackerly, Texas",earthquake,0,6.0894727706909,0.8,6,automatic,tx,tx
-2025-12-16T07:53:54.966Z,32.244,-101.944,4.0608,1.2,ml,42,31,0,0.5,tx,tx2025yrgcdi,2025-12-16T08:00:37.187Z,"19 km NW of Stanton, Texas",earthquake,0,0.78869605064392,0.1,29,automatic,tx,tx
+2025-12-16T07:53:55.221Z,32.244,-101.943,8.3252,1.2,ml,60,27,0,0.2,tx,tx2025yrgcdi,2025-12-16T09:38:28.083Z,"19 km NW of Stanton, Texas",earthquake,0.2471514689909,0.44623970703329,0.2,34,reviewed,tx,tx
 2025-12-16T07:43:57.900Z,34.094,-117.312,16.32,0.98,ml,53,71,0.1132,0.16,ci,ci41352744,2025-12-16T07:47:35.806Z,"2 km N of Colton, CA",earthquake,0.18,0.4,0.22513122845933,31,automatic,ci,ci
-2025-12-16T07:42:42.006Z,-32.9562,-70.3336,111.888,4.5,mb,75,50,0.265,0.64,us,us6000rv8q,2025-12-16T08:00:35.040Z,"28 km ESE of Los Andes, Chile",earthquake,4.36,3.18,0.066,67,reviewed,us,us
+2025-12-16T07:42:42.006Z,-32.9562,-70.3336,111.888,4.5,mb,75,50,0.265,0.64,us,us6000rv8q,2025-12-16T09:39:05.225Z,"28 km ESE of Los Andes, Chile",earthquake,4.36,3.18,0.066,67,reviewed,us,us
 2025-12-16T07:32:59.019Z,-18.1923,-177.8413,617.72,4.4,mb,67,87,3.162,0.77,us,us6000rv8n,2025-12-16T07:49:14.040Z,"Fiji region",earthquake,12.52,9.012,0.057,89,reviewed,us,us
 2025-12-16T07:24:19.810Z,18.012166666667,-66.756333333333,15.72,1.97,md,10,173,0.1137,0.15,pr,pr71502398,2025-12-16T07:42:35.150Z,"1 km ESE of Magas Arriba, Puerto Rico",earthquake,0.45,1.04,0.18249824847463,7,reviewed,pr,pr
 2025-12-16T07:10:48.001Z,31.93,-103.384,9.7427,1.7,ml,20,56,0,0.4,tx,tx2025yresji,2025-12-16T08:10:11.516Z,"27 km SW of Jal, New Mexico",earthquake,0,2.0796272754669,0.1,13,automatic,tx,tx
@@ -232,5 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-15T09:51:23.710Z,32.638,-115.88783333333,9.39,1.52,ml,40,41,0.03057,0.17,ci,ci41352088,2025-12-15T13:56:45.480Z,"15 km SE of Ocotillo, CA",earthquake,0.21,0.43,0.2551884625699,28,reviewed,ci,ci
 2025-12-15T09:48:55.440Z,32.638,-115.88716666667,9.62,1.29,ml,35,81,0.0311,0.18,ci,ci41352080,2025-12-15T14:00:02.330Z,"15 km SE of Ocotillo, CA",earthquake,0.24,0.36,0.19994195271323,21,reviewed,ci,ci
 2025-12-15T09:43:17.450Z,37.758666992188,-121.93650054932,8.0299997329712,2.15,md,31,56,0.1039,0.07,nc,nc75280216,2025-12-15T13:48:53.617Z,"4 km ESE of San Ramon, CA",earthquake,0.18,0.469999999,0.13,29,automatic,nc,nc
-2025-12-15T09:41:00.037Z,59.873,-151.036,37.3,2,ml,26,84,0.1,0.6,ak,ak2025ypnyyh,2025-12-15T09:44:01.454Z,"4 km WNW of Fox River, Alaska",earthquake,0,3.068,0.2,6,automatic,ak,ak
-2025-12-15T09:31:13.144Z,48.7585,155.2456,69.472,4.5,mb,40,136,4.623,0.98,us,us6000ruyg,2025-12-15T13:36:06.040Z,"222 km SSW of Severo-Kuril’sk, Russia",earthquake,10.74,7.921,0.057,91,reviewed,us,us
