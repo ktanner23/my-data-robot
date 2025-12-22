@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-22T15:48:42.496Z,32.142,-101.062,2.6884,1.7,ml,12,149,0.2,0.3,tx,tx2025zcwfyz,2025-12-22T15:51:59.650Z,"24 km S of Westbrook, Texas",earthquake,0,1.8916139602661,0.2,8,automatic,tx,tx
 2025-12-22T15:08:07.530Z,19.15950012207,-155.49617004394,30.389999389648,1.76,md,36,244,0.08845,0.100000001,hv,hv74858262,2025-12-22T15:12:18.010Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.74,0.689999998,0.12837972674026,16,automatic,hv,hv
 2025-12-22T14:59:48.664Z,60.528,-140.023,5,4.6,ml,128,56,0.4,3,ak,ak2025zcuptx,2025-12-22T15:39:01.357Z,"110 km N of Yakutat, Alaska",earthquake,0,0,0.3,77,reviewed,ak,ak
 2025-12-22T14:51:27.300Z,33.281833333333,-116.70966666667,6.87,0.38,ml,16,54,0.06151,0.15,ci,ci41145191,2025-12-22T14:55:07.457Z,"7 km NE of Lake Henshaw, CA",earthquake,0.22,0.76,0.038262623666377,3,automatic,ci,ci
@@ -51,7 +52,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-22T10:42:20.125Z,60.32,-147.28,23.6,2,ml,15,112,0.3,0.6,ak,ak2025zcmbyt,2025-12-22T10:44:02.277Z,"49 km NE of Chenega, Alaska",earthquake,0,3.6619,0.2,4,automatic,ak,ak
 2025-12-22T10:35:37.412Z,60.5,-143.924,7,2.4,ml,30,50,0.2,0.7,ak,ak2025zclwei,2025-12-22T10:36:57.240Z,"100 km E of Cordova, Alaska",earthquake,0,2.7669,0.5,4,automatic,ak,ak
 2025-12-22T10:31:28.311Z,-5.7199,145.4955,110.18,6.5,mww,71,33,4.015,0.9,us,us6000rwgh,2025-12-22T14:22:35.040Z,"42 km NNE of Goroka, Papua New Guinea",earthquake,4.89,6.214,0.044,50,reviewed,us,us
-2025-12-22T10:28:28.652Z,31.383,-103.477,6.3096,1.6,ml,30,57,0,0.6,tx,tx2025zclqad,2025-12-22T11:00:36.361Z,"4 km SSE of Pecos, Texas",earthquake,0,1.8870100975037,0.2,21,automatic,tx,tx
 2025-12-22T10:17:24.509Z,31.87,-103.981,9.3474,1.8,ml,9,127,0.1,0.7,tx,tx2025zcldrs,2025-12-22T11:00:09.353Z,"40 km SSE of Malaga, New Mexico",earthquake,0,6.7452082633972,0.2,7,automatic,tx,tx
 2025-12-22T10:17:15.892Z,31.501,-103.897,5.6128,2.1,ml,20,82,0.1,0.1,tx,tx2025zclgii,2025-12-22T14:59:18.626Z,"22 km NNW of Toyah, Texas",earthquake,0.84529360308249,2.1538196532291,0.2,28,reviewed,tx,tx
 2025-12-22T10:10:03.289Z,31.441,-103.469,0,1.6,ml,10,114,0.1,0.9,tx,tx2025zcladp,2025-12-22T10:21:44.152Z,"3 km NE of Pecos, Texas",earthquake,0,,0.1,6,automatic,tx,tx
@@ -223,6 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-21T16:12:53.760Z,38.818000793457,-122.81533050537,2.8699998855591,1.17,md,10,109,0.006773,0.01,nc,nc75284106,2025-12-21T16:14:28.232Z,"7 km NW of The Geysers, CA",earthquake,0.45,0.970000029,0.2,12,automatic,nc,nc
 2025-12-21T16:08:08.960Z,38.824333190918,-122.84432983398,1.7999999523163,0.36,md,6,168,0.007365,0.01,nc,nc75284096,2025-12-21T16:09:43.133Z,"9 km NW of The Geysers, CA",earthquake,0.49,1.13999999,0.24,8,automatic,nc,nc
 2025-12-21T15:59:27.890Z,19.470500946045,-155.44099426269,0.11999999731779,1.94,md,30,72,0.05655,0.200000003,hv,hv74857817,2025-12-21T16:03:44.490Z,"21 km W of Volcano, Hawaii",earthquake,0.34,0.670000017,0.2421147608513,8,automatic,hv,hv
-2025-12-21T15:51:27.897Z,60.842,-146.466,19.9,1.7,ml,24,53,0.1,0.6,ak,ak2025zbapbv,2025-12-21T15:57:28.373Z,"11 km ESE of Tatitlek, Alaska",earthquake,0,1.8557,0.3,4,automatic,ak,ak
-2025-12-21T15:50:42.914Z,30.0213,138.8458,409.473,4.1,mb,25,131,5.53,0.54,us,us6000rwce,2025-12-21T17:31:06.040Z,"Izu Islands, Japan region",earthquake,11.27,8.7,0.079,44,reviewed,us,us
-2025-12-21T15:48:59.877Z,63.135,-149.589,0.9,1.2,ml,16,100,0.4,0.6,ak,ak2025zbanio,2025-12-21T15:50:33.592Z,"42 km SW of Cantwell, Alaska",earthquake,0,3.0198,0.3,4,automatic,ak,ak
