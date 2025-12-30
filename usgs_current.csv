@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-12-30T16:17:25.540Z,40.235000610352,-124.39350128174,0.20000000298023,2.41,md,9,265,0.1389,0.35,nc,nc75288611,2025-12-30T16:19:02.104Z,"14 km SW of Petrolia, CA",earthquake,5.47,10.0200005,0.04,5,automatic,nc,nc
 2025-12-30T15:33:02.180Z,38.841835021973,-122.88150024414,7.1399998664856,0.65,md,10,81,0.003916,0.13,nc,nc75288601,2025-12-30T15:52:18.740Z,"12 km ENE of Cloverdale, CA",earthquake,0.86,0.779999971,0.4,11,automatic,nc,nc
 2025-12-30T15:26:49.137Z,31.675,-104.481,10.0937,1.2,ml,18,92,0,0.5,tx,tx2025zrnhsy,2025-12-30T16:03:04.415Z,"56 km S of Whites City, New Mexico",earthquake,0,2.6922059059143,0.2,11,automatic,tx,tx
 2025-12-30T15:23:58.240Z,35.300833333333,-117.813,8.78,1.18,ml,32,58,0.0428,0.17,ci,ci41149391,2025-12-30T15:27:40.794Z,"18 km WSW of Johannesburg, CA",earthquake,0.18,0.45,0.18143873559965,17,automatic,ci,ci
@@ -70,7 +71,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-30T08:00:28.020Z,38.841999053955,-122.8253326416,1.6299999952316,0.66,md,13,101,0.00863,0.01,nc,nc75288466,2025-12-30T08:27:21.760Z,"9 km WNW of Cobb, CA",earthquake,0.29,0.689999998,0.38,14,automatic,nc,nc
 2025-12-30T07:44:13.563Z,58.26,-154.906,5,1.4,ml,7,172,0.1,0.6,ak,ak2025zqxzni,2025-12-30T07:47:01.933Z,"81 km NNW of Karluk, Alaska",earthquake,0,,0.7,4,automatic,ak,ak
 2025-12-30T07:24:48.100Z,37.512832641602,-118.77200317383,4.5199999809265,1.12,md,12,137,0.08943,0.05,nc,nc75288461,2025-12-30T09:42:22.282Z,"10 km SW of Toms Place, CA",earthquake,0.43,1.95000005,0.21,11,automatic,nc,nc
-2025-12-30T07:19:10.809Z,31.946,-101.464,2.8631,1.1,ml,19,72,0.2,0.5,tx,tx2025zqxdxf,2025-12-30T12:21:19.739Z,"9 km N of Garden City, Texas",earthquake,0,1.3920404911041,0.3,12,automatic,tx,tx
 2025-12-30T07:15:57.020Z,35.8785,-117.69933333333,6.83,1.11,ml,24,50,0.07984,0.15,ci,ci41149247,2025-12-30T07:19:31.854Z,"20 km ESE of Little Lake, CA",earthquake,0.18,0.43,0.13273050086517,17,automatic,ci,ci
 2025-12-30T07:13:07.008Z,60.148,-150.061,33.7,2.5,ml,25,122,0.3,0.6,ak,ak2025zqwysb,2025-12-30T07:16:17.046Z,"34 km W of Seward, Alaska",earthquake,0,3.4287,1.4,4,automatic,ak,ak
 2025-12-30T07:12:46.710Z,34.678666666667,-116.317,2.23,1.74,ml,25,58,0.1365,0.15,ci,ci41149239,2025-12-30T07:16:30.759Z,"15 km WSW of Ludlow, CA",earthquake,0.15,0.45,0.14749262794079,26,automatic,ci,ci
@@ -177,6 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-12-29T16:43:33.180Z,18.014166666667,-66.741166666667,13.93,2.91,md,17,133,0.1371,0.23,pr,pr71503343,2025-12-29T20:09:29.040Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.43,1.08,0.12637217510731,12,reviewed,pr,pr
 2025-12-29T16:39:00.907Z,-23.5768,69.5152,10,4.9,mb,69,53,24.162,0.64,us,us7000rld3,2025-12-29T20:20:01.040Z,"Mid-Indian Ridge",earthquake,12.28,1.824,0.08,49,reviewed,us,us
 2025-12-29T16:33:31.680Z,33.477833333333,-116.72466666667,10.48,0.5,ml,17,64,0.06973,0.2,ci,ci41148887,2025-12-29T16:37:12.580Z,"10 km SSW of Anza, CA",earthquake,0.33,0.81,0.17532359519718,9,automatic,ci,ci
-2025-12-29T16:24:27.177Z,32.409,-102.16,8.9111,0.8,ml,27,86,0,0.1,tx,tx2025zptkdk,2025-12-30T07:51:45.695Z,"36 km ENE of McKinney Acres, Texas",earthquake,0.53786100248228,0.42311186892907,0.2,14,reviewed,tx,tx
-2025-12-29T16:20:46.520Z,33.6935,-116.73316666667,16.37,0.99,ml,14,123,0.02714,0.14,ci,ci41148879,2025-12-29T18:45:18.402Z,"5 km SSW of Idyllwild, CA",earthquake,0.52,0.66,0.39327138031088,15,reviewed,ci,ci
-2025-12-29T16:15:04.532Z,41.1367,-116.7376,8.222,1.62,ml,7,251,0.317,0.058,nn,nn00909009,2025-12-29T19:42:34.089Z,"50 km NE of Valmy, Nevada",earthquake,,3.1029,0.27,3,reviewed,nn,nn
