@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-01-02T06:53:29.621Z,61.008,-150.148,37.7,1.9,ml,18,85,0.2,0.6,ak,ak2026acjlez,2026-01-02T06:56:45.379Z,"26 km SSW of Anchorage, Alaska",earthquake,0,3.6948,0.7,4,automatic,ak,ak
 2026-01-02T06:43:56.484Z,63.153,-151.359,5.7,1.6,ml,8,93,0.4,0.5,ak,ak2026acjcze,2026-01-02T06:52:15.333Z,"46 km SSE of Denali National Park, Alaska",earthquake,0,8.2498,0.5,4,automatic,ak,ak
+2026-01-02T06:36:13.300Z,18.489166666667,-67.5165,96.5,3.28,md,14,170,0.3853,0.49,pr,pr71503678,2026-01-02T07:00:18.310Z,"32 km WNW of Rincón, Puerto Rico",earthquake,3.15,2.06,0.014357728027931,3,reviewed,pr,pr
 2026-01-02T06:25:23.410Z,34.297833333333,-118.41566666667,6.61,0.92,ml,26,114,0.03323,0.13,ci,ci41150895,2026-01-02T06:29:08.308Z,"2 km ENE of San Fernando, CA",earthquake,0.29,0.32,0.18939467140923,22,automatic,ci,ci
 2026-01-02T06:11:56.644Z,60.492,-140.318,7.7,1.6,ml,8,178,0.4,0.4,ak,ak2026acibjx,2026-01-02T06:54:38.370Z,"110 km NNW of Yakutat, Alaska",earthquake,0,3.2482,0.2,7,reviewed,ak,ak
 2026-01-02T06:05:42.414Z,59.04,-154.314,118.3,2.2,ml,41,76,0.4,0.4,ak,ak2026achwae,2026-01-02T06:07:30.116Z,"51 km SSE of Kokhanok, Alaska",earthquake,0,3.6182,0.5,6,automatic,ak,ak
@@ -90,6 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-01T19:36:42.140Z,38.787166595459,-122.73750305176,1.3799999952316,1.55,md,28,85,0.003971,0.03,nc,nc75289756,2026-01-01T20:22:20.124Z,"2 km NE of The Geysers, CA",earthquake,0.21,0.310000002,0.12,29,automatic,nc,nc
 2026-01-01T19:11:20.280Z,19.023834228516,-155.47250366211,38.209999084473,1.75,md,10,249,0.2241,0.129999995,hv,hv74867142,2026-01-01T19:14:54.270Z,"12 km ESE of Naalehu, Hawaii",earthquake,5.34,2.47000003,0.050011748522091,13,automatic,hv,hv
 2026-01-01T18:58:41.250Z,36.061000823975,-120.27066802978,8.0299997329712,0.77,md,8,111,0.04887,0.02,nc,nc75289746,2026-01-01T19:57:20.973Z,"12 km SE of Coalinga, CA",earthquake,0.66,0.579999983,0.37,4,automatic,nc,nc
+2026-01-01T18:50:43.110Z,61.216333333333,-152.27166666667,4.71,-0.78,ml,8,120,0.03448,0.07,av,av93974431,2026-01-02T07:07:23.150Z,"63 km WNW of Tyonek, Alaska",earthquake,0.32,0.55,0.20319949955338,8,reviewed,av,av
 2026-01-01T18:49:21.413Z,60.545,-140.244,5,1.9,ml,14,185,0.5,0.8,ak,ak2026abllet,2026-01-01T21:03:57.599Z,"114 km NNW of Yakutat, Alaska",earthquake,0,3.1312,0.2,11,reviewed,ak,ak
 2026-01-01T18:46:20.698Z,59.86,-152.505,86.6,2.1,ml,78,84,0.3,0.5,ak,ak2026ablipn,2026-01-01T18:48:03.586Z,"38 km WNW of Anchor Point, Alaska",earthquake,0,1.9148,0.7,7,automatic,ak,ak
 2026-01-01T18:45:36.860Z,19.173999786377,-155.38549804688,34.529998779297,2.04,md,43,201,0.06418,0.129999995,hv,hv74867107,2026-01-01T18:49:22.440Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.54,0.600000024,0.13025887851632,16,automatic,hv,hv
@@ -231,9 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-01T07:12:53.590Z,38.831001281738,-122.79716491699,1.8300000429153,0.67,md,7,144,0.009116,0.01,nc,nc75289591,2026-01-01T07:14:27.035Z,"6 km W of Cobb, CA",earthquake,0.52,0.689999998,0.06,10,automatic,nc,nc
 2026-01-01T07:11:53.009Z,38.2974,-119.3488,3.6134,1.93,ml,13,144,0.088,0.2744,nn,nn00909115,2026-01-01T07:14:41.927Z,"11 km WNW of Bridgeport, California",earthquake,,0.8795,0.32,5,automatic,nn,nn
 2026-01-01T07:11:42.612Z,60.5189,-140.0541,5,3.2,ml,33,57,0.436,0.53,us,us7000rlw4,2026-01-01T14:01:27.040Z,"109 km N of Yakutat, Alaska",earthquake,2.95,2.001,0.044,68,reviewed,us,us
-2026-01-01T07:10:14.225Z,60.5204,-140.0106,5,3.1,ml,26,80,0.443,0.78,us,us7000rlw3,2026-01-01T13:56:31.040Z,"109 km N of Yakutat, Alaska",earthquake,5.67,2.004,0.046,62,reviewed,us,us
-2026-01-01T07:09:52.690Z,36.900665283203,-121.19017028809,36.939998626709,1.8,md,5,193,0.2666,0.06,nc,nc75289586,2026-01-01T08:37:21.349Z,"17 km NE of Tres Pinos, CA",earthquake,3.44,2.05999994,0.18,2,automatic,nc,nc
-2026-01-01T07:08:30.272Z,60.5295,-140.1181,5.945,3.2,ml,28,79,0.44,0.76,us,us7000rlun,2026-01-01T07:16:55.040Z,"111 km NNW of Yakutat, Alaska",earthquake,4.72,8.422,0.042,76,reviewed,us,us
-2026-01-01T07:05:25.862Z,60.562,-140.144,5,3.1,ml,29,80,0.471,0.58,us,us7000rlw1,2026-01-01T13:48:28.040Z,"115 km NNW of Yakutat, Alaska",earthquake,3.3,2.002,0.051,50,reviewed,us,us
-2026-01-01T07:02:50.813Z,60.5543,-140.003,5,3.5,ml,27,97,0.476,0.38,us,us7000rlw0,2026-01-01T15:46:50.213Z,"113 km N of Yakutat, Alaska",earthquake,5.39,2.003,0.045,64,reviewed,us,us
-2026-01-01T06:59:06.910Z,37.750331878662,-121.94216918945,8.5200004577637,1.67,md,14,61,0.09806,0.03,nc,nc75289581,2026-01-01T08:12:18.196Z,"5 km SE of San Ramon, CA",earthquake,0.2,0.569999993,0.16,14,automatic,nc,nc
