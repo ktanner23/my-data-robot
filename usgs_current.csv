@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-01-06T13:35:34.481Z,32.116,-101.477,3.1306,2,ml,61,45,0.1,0.5,tx,tx2026akfrfg,2026-01-06T13:38:44.574Z,"10 km W of Forsan, Texas",earthquake,0,0.80381536483765,0.2,2,automatic,tx,tx
-2026-01-06T13:33:44.070Z,33.937666666667,-116.6245,5.2,2.26,ml,102,24,0.03875,0.16,ci,ci41152919,2026-01-06T13:37:28.607Z,"8 km WNW of Garnet, CA",earthquake,0.09,0.43,0.20393032799092,25,automatic,ci,ci
+2026-01-06T13:35:34.481Z,32.116,-101.477,3.1306,2.1,ml,61,45,0.1,0.5,tx,tx2026akfrfg,2026-01-06T13:45:24.261Z,"10 km W of Forsan, Texas",earthquake,0,0.80381536483765,0.1,37,automatic,tx,tx
+2026-01-06T13:33:44.070Z,33.937666666667,-116.6245,5.2,2.26,ml,102,24,0.03875,0.16,ci,ci41152919,2026-01-06T13:47:00.900Z,"8 km WNW of Garnet, CA",earthquake,0.09,0.43,0.20393032799092,25,automatic,ci,ci
 2026-01-06T13:22:05.880Z,34.123333333333,-117.47533333333,3.74,0.88,ml,41,52,0.03851,0.18,ci,ci41152911,2026-01-06T13:25:41.240Z,"3 km NNW of Fontana, CA",earthquake,0.22,0.56,0.21518073116501,29,automatic,ci,ci
 2026-01-06T13:06:42.990Z,35.98450088501,-120.54766845703,2.4900000095367,1.74,md,17,77,0.02747,0.09,nc,nc75291541,2026-01-06T13:27:22.677Z,"14 km NW of Parkfield, CA",earthquake,0.32,0.75,0.27,13,automatic,nc,nc
 2026-01-06T13:05:30.770Z,34.890833333333,-119.37233333333,10.9,1.07,ml,21,66,0.05949,0.17,ci,ci41152895,2026-01-06T13:09:07.627Z,"19 km S of Maricopa, CA",earthquake,0.35,0.67,0.24701830915375,17,automatic,ci,ci
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T08:55:30.312Z,32.099,-101.491,8.9111,1,ml,23,55,0.1,0.1,tx,tx2026ajwjuh,2026-01-06T13:19:48.864Z,"11 km W of Forsan, Texas",earthquake,0.45403742514221,1.2366255962583,0.1,8,reviewed,tx,tx
 2026-01-06T08:16:37.647Z,61.219,-150.231,39.2,2.3,ml,31,42,0.3,0.6,ak,ak2026ajvcja,2026-01-06T08:26:12.486Z,"17 km W of Anchorage, Alaska",earthquake,0,4.3751,0.3,4,automatic,ak,ak
 2026-01-06T08:15:32.475Z,31.648,-104.422,6.0999,1.3,ml,22,78,0,0.2,tx,tx2026ajvbli,2026-01-06T09:07:21.122Z,"58 km S of Whites City, New Mexico",earthquake,0.98933032488772,0.68127599218457,0.1,6,reviewed,tx,tx
-2026-01-06T08:08:49.534Z,60.293,-153.728,188.8,4.5,ml,182,22,0.3,0.9,ak,ak2026ajuvvj,2026-01-06T13:16:53.774Z,"34 km ENE of Port Alsworth, Alaska",earthquake,0,1.3453,0.4,117,reviewed,ak,ak
+2026-01-06T08:08:49.534Z,60.293,-153.728,188.8,4.5,ml,182,22,0.3,0.9,ak,ak2026ajuvvj,2026-01-06T13:46:17.695Z,"34 km ENE of Port Alsworth, Alaska",earthquake,0,1.3453,0.4,117,reviewed,ak,ak
 2026-01-06T07:54:36.052Z,63.297,-150.532,126,2.1,ml,9,176,0.8,0.3,ak,ak2026ajujjs,2026-01-06T08:39:26.595Z,"65 km ESE of Denali National Park, Alaska",earthquake,0,8.0528,0.2,4,automatic,ak,ak
 2026-01-06T07:50:03.143Z,58.245,-154.874,5,1.5,ml,8,171,0.1,0.1,ak,ak2026ajuflv,2026-01-06T07:51:09.080Z,"79 km NNW of Karluk, Alaska",earthquake,0,,0.3,4,automatic,ak,ak
 2026-01-06T07:48:46.960Z,38.785667419434,-122.76266479492,0.95999997854233,1.15,md,14,80,0.01511,0.03,nc,nc75291451,2026-01-06T08:32:18.749Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.33,15,automatic,nc,nc
@@ -88,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-06T05:10:34.100Z,36.084499359131,-120.65483093262,-0.66000002622604,1.6,md,13,149,0.05002,0.11,nc,nc75291391,2026-01-06T05:42:19.590Z,"24 km ENE of San Ardo, CA",earthquake,0.64,4.17000008,0.14,9,automatic,nc,nc
 2026-01-06T05:08:30.767Z,61.25,-147.711,16.9,1.8,ml,10,77,0.2,0.8,ak,ak2026ajowgo,2026-01-06T05:11:27.308Z,"62 km S of Glacier View, Alaska",earthquake,0,3.9305,0.2,4,automatic,ak,ak
 2026-01-06T05:04:38.817Z,59.893,-152.676,90.6,2.9,ml,107,75,0.2,0.6,ak,ak2026ajosxx,2026-01-06T05:08:50.297Z,"49 km WNW of Anchor Point, Alaska",earthquake,0,1.7025,0.4,32,automatic,ak,ak
-2026-01-06T04:50:37.464Z,41.7822,-81.025,8.228,2.6,mb_lg,29,40,0.347,0.94,us,us7000rmrm,2026-01-06T12:59:20.479Z,"2 km ENE of Madison, Ohio",earthquake,2.04,5.062,0.102,25,reviewed,us,us
+2026-01-06T04:50:37.464Z,41.7822,-81.025,8.228,2.6,mb_lg,29,40,0.347,0.94,us,us7000rmrm,2026-01-06T13:52:56.855Z,"2 km ENE of Madison, Ohio",earthquake,2.04,5.062,0.102,25,reviewed,us,us
 2026-01-06T04:31:21.712Z,27.6461,141.5105,79.216,4.9,mb,59,101,5.644,0.82,us,us7000rmrl,2026-01-06T04:52:53.040Z,"Bonin Islands, Japan region",earthquake,11.71,6.862,0.076,54,reviewed,us,us
 2026-01-06T04:26:33.830Z,35.9005,-117.6735,2.28,1.72,ml,32,35,0.05089,0.15,ci,ci41152727,2026-01-06T04:30:16.816Z,"21 km E of Little Lake, CA",earthquake,0.14,0.24,0.1481866988962,27,automatic,ci,ci
 2026-01-06T03:58:30.767Z,37.3546,-117.8194,1.0191,1.55,ml,14,321,0.184,0.2425,nn,nn00909240,2026-01-06T04:01:10.747Z,"41 km SSE of Dyer, Nevada",earthquake,,7.138,0.4,4,automatic,nn,nn
@@ -192,4 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-05T14:13:31.980Z,47.716833333333,-122.44933333333,29.19,1.05,ml,23,58,0.05207,0.18,uw,uw62221686,2026-01-05T15:10:05.210Z,"6 km ESE of Indianola, Washington",earthquake,0.39,0.63,0.091253333537967,5,reviewed,uw,uw
 2026-01-05T14:06:26.370Z,38.845664978027,-122.87733459473,2.4100000858307,0.49,md,5,168,0.008851,0.01,nc,nc75291226,2026-01-05T14:08:04.911Z,"13 km ENE of Cloverdale, CA",earthquake,0.82,0.819999993,0.35,6,automatic,nc,nc
 2026-01-05T14:03:46.619Z,34.6135,-96.57216667,1.15,1.69,ml,52,101,0.1646676866,0.22,ok,ok2026aijs,2026-01-06T03:48:18.743Z,"6 km SW of Stonewall, Oklahoma",earthquake,,0.5,0.29,24,reviewed,ok,ok
-2026-01-05T13:53:34.785Z,59.163,-152.111,25.2,2.4,ml,15,193,0.8,0.6,ak,ak2026aiknvv,2026-01-05T17:52:15.722Z,"24 km SSW of Nanwalek, Alaska",earthquake,0,4.8216,0.3,7,automatic,ak,ak
