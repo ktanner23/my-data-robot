@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T18:36:15.944Z,32.109,-101.917,8.1849,1.4,ml,19,48,0.1,0.4,tx,tx2026bcyxam,2026-01-16T19:00:23.678Z,"12 km W of Stanton, Texas",earthquake,0,2.3660669326782,0.1,13,automatic,tx,tx
 2026-01-16T18:35:41.532Z,58.364,-137.014,1.7,3.8,ml,41,140,0.6,0.7,ak,ak2026bcyvlu,2026-01-16T18:44:39.676Z,"43 km WNW of Elfin Cove, Alaska",earthquake,5.3,2.987,0.3,27,reviewed,ak,ak
 2026-01-16T17:57:18.607Z,31.644,-104.456,4.1089,1.8,ml,26,90,0,0.4,tx,tx2026bcxnzu,2026-01-16T18:02:28.209Z,"59 km S of Whites City, New Mexico",earthquake,0,1.2484810352325,0.2,18,automatic,tx,tx
-2026-01-16T17:55:20.160Z,19.226,-155.53083333333,4.36,3.2,ml,55,71,0.03743,0.15,hv,hv74877777,2026-01-16T18:37:48.581Z,"6 km WNW of Pāhala, Hawaii",earthquake,0.26,0.61,0.19669280636438,39,reviewed,hv,hv
+2026-01-16T17:55:20.160Z,19.226,-155.53083333333,4.36,3.2,ml,55,71,0.03743,0.15,hv,hv74877777,2026-01-16T19:19:51.040Z,"6 km WNW of Pāhala, Hawaii",earthquake,0.26,0.61,0.19669280636438,39,reviewed,hv,hv
 2026-01-16T17:53:13.500Z,38.823165893555,-122.84566497803,2.3499999046326,0.89,md,7,127,0.008308,0.01,nc,nc75296621,2026-01-16T17:54:49.815Z,"9 km WNW of The Geysers, CA",earthquake,0.52,1.19000006,0.25,9,automatic,nc,nc
 2026-01-16T17:52:15.924Z,-50.0815,114.1835,10,5.2,mww,145,34,16.352,0.36,us,us7000rq77,2026-01-16T18:29:33.040Z,"western Indian-Antarctic Ridge",earthquake,9.75,1.738,0.083,14,reviewed,us,us
 2026-01-16T17:44:27.030Z,19.1465,-155.48116666667,10.91,2.52,ml,43,163,0.02008,0.14,hv,hv74877772,2026-01-16T19:05:52.170Z,"6 km S of Pāhala, Hawaii",earthquake,0.3,0.31,0.16888515435655,31,reviewed,hv,hv
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-16T03:33:17.970Z,38.791667938232,-122.77899932861,1.1399999856949,0.73,md,9,107,0.007131,0.04,nc,nc75296381,2026-01-16T03:34:51.530Z,"3 km NW of The Geysers, CA",earthquake,0.38,0.730000019,0.17,9,automatic,nc,nc
 2026-01-16T03:31:18.734Z,31.524,-104.013,4.3152,1.5,ml,16,116,0,0.2,tx,tx2026bbuxei,2026-01-16T04:00:28.633Z,"31 km NW of Toyah, Texas",earthquake,0,1.3617095947266,0.2,13,automatic,tx,tx
 2026-01-16T03:27:38.980Z,19.396165847778,-155.26832580566,0.61000001430511,1.79,ml,23,42,0.002992,0.239999995,hv,hv74877222,2026-01-16T03:31:10.240Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.140000001,0.33,9,automatic,hv,hv
-2026-01-16T03:25:52.639Z,43.5426,-128.0087,10,6,mww,102,97,2.882,1.41,us,us7000rq0d,2026-01-16T18:35:50.210Z,"295 km W of Bandon, Oregon",earthquake,7.84,1.807,0.033,86,reviewed,us,us
+2026-01-16T03:25:52.639Z,43.5426,-128.0087,10,6,mww,102,97,2.882,1.41,us,us7000rq0d,2026-01-16T19:20:56.386Z,"295 km W of Bandon, Oregon",earthquake,7.84,1.807,0.033,86,reviewed,us,us
 2026-01-16T03:25:38.089Z,58.19,-156.403,10.5,1.7,ml,18,181,0.3,0.3,ak,ak2026bbuskq,2026-01-16T03:27:04.300Z,"57 km E of Egegik, Alaska",earthquake,6.8,4.9958,0.5,2,automatic,ak,ak
 2026-01-16T03:23:06.933Z,31.535,-104.01,6.6125,1.9,ml,39,56,0,0.2,tx,tx2026bbuqeu,2026-01-16T04:27:30.742Z,"31 km NW of Toyah, Texas",earthquake,0.53063792297342,0.47109725658214,0.1,24,reviewed,tx,tx
 2026-01-16T03:20:55.812Z,63.117,-150.803,120.5,1.9,ml,15,153,0.6,0.8,ak,ak2026bbuoip,2026-01-16T07:29:48.044Z,"66 km SE of Denali National Park, Alaska",earthquake,7.7,4.5298,0.2,6,reviewed,ak,ak
@@ -244,6 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-01-15T19:36:13.350Z,17.862166666667,-66.853166666667,16.67,1.92,md,5,251,0.115,0.09,pr,pr71505208,2026-01-15T19:50:48.270Z,"13 km SSE of Maria Antonia, Puerto Rico",earthquake,0.64,0.79,0.20678882173476,5,reviewed,pr,pr
 2026-01-15T19:32:32.871Z,62.817,-148.792,70.8,1.7,ml,22,54,0,0.6,ak,ak2026bbfasz,2026-01-15T19:35:32.542Z,"64 km S of Cantwell, Alaska",earthquake,4.3,3.3126,0.6,6,automatic,ak,ak
 2026-01-15T19:27:38.380Z,35.9645,-98.22533333,5.72,1.64,ml,38,82,0.1016800469,0.19,ok,ok2026bbbo,2026-01-16T15:34:31.148Z,"9 km W of Loyal, Oklahoma",earthquake,,0.6,0.24,16,reviewed,ok,ok
-2026-01-15T19:24:21.761Z,65.533,-147.948,14.1,0.8,ml,7,275,0.3,0.3,ak,ak2026bbetro,2026-01-15T19:25:33.491Z,"27 km E of Livengood, Alaska",earthquake,9.9,3.7261,0,1,automatic,ak,ak
-2026-01-15T19:17:09.938Z,63.562,-147.664,0.5,2.4,ml,31,45,0.5,0.8,ak,ak2026bbenme,2026-01-15T19:18:59.459Z,"64 km ESE of Denali Park, Alaska",earthquake,2.3,1.9013,0.2,4,automatic,ak,ak
-2026-01-15T19:16:27.690Z,58.166333333333,-155.36466666667,-1.89,-0.22,ml,5,131,0.04809,0.04,av,av93995931,2026-01-16T04:11:13.190Z,"85 km NW of Karluk, Alaska",earthquake,0.21,3,0.13192847391424,5,reviewed,av,av
