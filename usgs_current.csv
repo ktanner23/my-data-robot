@@ -4,7 +4,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T23:09:37.580Z,34.175166666667,-117.30083333333,6.53,1.41,ml,61,33,0.03551,0.18,ci,ci41400176,2026-02-19T23:13:08.262Z,"5 km ENE of Muscoy, CA",earthquake,0.14,0.41,0.15798206122711,27,automatic,ci,ci
 2026-02-19T23:08:36.710Z,38.826831817627,-122.7945022583,0.89999997615814,0.85,md,10,64,0.01201,0.01,nc,nc75316042,2026-02-19T23:10:13.607Z,"6 km W of Cobb, CA",earthquake,0.44,0.850000024,0.13,11,automatic,nc,nc
 2026-02-19T23:03:22.710Z,37.485000610352,-118.8004989624,5.4899997711182,1.34,md,12,144,0.1073,0.04,nc,nc75316037,2026-02-19T23:04:59.403Z,"14 km SW of Toms Place, CA",earthquake,0.39,2.13000011,0.35,12,automatic,nc,nc
-2026-02-19T22:55:25.442Z,39.1679,-119.6446,2.6492,1.77,ml,16,64,0.128,0.1798,nn,nn00910970,2026-02-19T22:57:54.538Z,"8 km SSW of Dayton, Nevada",earthquake,,1.2285,0.32,10,automatic,nn,nn
+2026-02-19T22:55:26.140Z,39.1672,-119.6448,6.2782,1.74,ml,22,85,0.06,0.1638,nn,nn00910970,2026-02-19T23:42:28.333Z,"8 km SSW of Dayton, Nevada",earthquake,,1.0983,0.27,10,reviewed,nn,nn
 2026-02-19T22:50:18.790Z,33.686333333333,-116.741,15.92,1.29,ml,38,56,0.03682,0.15,ci,ci41400168,2026-02-19T22:53:45.105Z,"6 km SSW of Idyllwild, CA",earthquake,0.17,0.34,0.15963254952298,28,automatic,ci,ci
 2026-02-19T22:48:56.699Z,32.133,-101.62,2.9556,2,ml,57,43,0,0.5,tx,tx2026dnrymq,2026-02-19T23:00:25.253Z,"15 km E of Stanton, Texas",earthquake,0,0.7818911075592,0.1,37,automatic,tx,tx
 2026-02-19T22:46:04.971Z,61.899,-149.361,5,2,ml,46,44,0.2,0.7,ak,aka2026dnrwic,2026-02-19T22:48:08.320Z,"18 km NNW of Fishhook, Alaska",earthquake,2.2,,0.1,5,automatic,ak,ak
@@ -13,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T22:42:54.314Z,31.517,-104.02,4.396,1.6,ml,21,63,0,0.3,tx,tx2026dnrtle,2026-02-19T23:02:19.179Z,"31 km NW of Toyah, Texas",earthquake,0,1.2612107992172,0.1,13,automatic,tx,tx
 2026-02-19T22:21:47.058Z,31.715,-104.225,0,1.6,ml,19,154,0.1,0.8,tx,tx2026dnrbix,2026-02-19T23:00:44.244Z,"53 km SSE of Whites City, New Mexico",earthquake,0,,0.3,15,automatic,tx,tx
 2026-02-19T22:11:07.140Z,31.716,-104.275,3.2331,1.1,ml,6,168,0.2,1.4,tx,tx2026dnqseh,2026-02-19T23:00:34.243Z,"51 km S of Whites City, New Mexico",earthquake,0,3.6466779708862,1.1,6,automatic,tx,tx
-2026-02-19T22:09:18.780Z,34.606166666667,-117.96633333333,9.22,1.79,ml,54,43,0.08481,0.16,ci,ci41400136,2026-02-19T22:12:49.626Z,"10 km N of Littlerock, CA",earthquake,0.14,0.36,0.19500113066498,26,automatic,ci,ci
+2026-02-19T22:09:18.720Z,34.606166666667,-117.968,9.73,1.79,ml,45,43,0.08479,0.15,ci,ci41400136,2026-02-19T23:39:35.010Z,"10 km N of Littlerock, CA",earthquake,0.15,0.33,0.18565569331876,27,reviewed,ci,ci
 2026-02-19T21:55:27.200Z,38.821334838867,-122.78600311279,11.300000190735,0.92,md,10,98,0.009071,0.03,nc,nc75316002,2026-02-19T21:57:04.197Z,"5 km W of Cobb, CA",earthquake,1.24,7.82000017,0.11,2,automatic,nc,nc
 2026-02-19T21:51:45.367Z,30.977,-103.359,0,1.6,ml,6,241,0.2,0.8,tx,tx2026dnqbim,2026-02-19T21:54:03.949Z,"36 km E of Balmorhea, Texas",earthquake,0,,0.4,6,automatic,tx,tx
 2026-02-19T21:36:15.288Z,31.641,-104.436,4.4893,1.8,ml,21,90,0,0.6,tx,tx2026dnpodi,2026-02-19T22:00:17.990Z,"59 km S of Whites City, New Mexico",earthquake,0,1.331352353096,0.2,14,automatic,tx,tx
@@ -89,7 +89,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-19T12:47:29.016Z,60.678,-147.396,15.2,1.4,ml,15,119,0.3,0.5,ak,aka2026dmyamn,2026-02-19T12:48:55.702Z,"44 km WSW of Tatitlek, Alaska",earthquake,4.6,2.7706,0.1,4,automatic,ak,ak
 2026-02-19T12:39:41.063Z,63.198,-149.744,94.9,1.3,ml,29,51,0.5,0.6,ak,aka2026dmxttv,2026-02-19T12:41:17.662Z,"45 km WSW of Cantwell, Alaska",earthquake,4.2,3.4795,0.1,4,automatic,ak,ak
 2026-02-19T12:20:37.310Z,38.797668457031,-122.79399871826,3.2400000095367,0.75,md,12,101,0.006533,0.02,nc,nc75315832,2026-02-19T12:22:13.063Z,"4 km NW of The Geysers, CA",earthquake,0.36,0.709999979,0.05,11,automatic,nc,nc
+2026-02-19T12:17:42.884Z,60.452,-139.49,2,1.8,ml,21,73,0.5,0.9,ak,aka2026dmxavk,2026-02-19T23:40:38.810Z,"101 km N of Yakutat, Alaska",earthquake,4.4,2.9372,0.2,13,reviewed,ak,ak
 2026-02-19T12:13:58.929Z,39.0392,-9.1085,10,3.5,mb_lg,9,232,1.817,0.22,us,us6000sa5y,2026-02-19T23:30:48.822Z,"4 km ENE of Sobral de Monte Agraço, Portugal",earthquake,6.04,2.018,0.295,3,reviewed,us,us
+2026-02-19T12:00:24.307Z,53.605,-166.019,64.1,3.4,ml,37,195,0.5,0.5,ak,aka2026dmwlxw,2026-02-19T23:36:01.789Z,"45 km SE of Unalaska, Alaska",earthquake,26,10.1286,0.2,29,reviewed,ak,ak
 2026-02-19T11:58:19.260Z,58.059,-154.942,104.3,1.5,ml,18,108,0.1,0.3,ak,aka2026dmwkcr,2026-02-19T23:32:39.769Z,"61 km NNW of Karluk, Alaska",earthquake,6.9,3.5655,0.6,11,reviewed,ak,ak
 2026-02-19T11:54:43.961Z,60.443,-139.506,2.7,1.8,ml,19,55,0.5,0.9,ak,aka2026dmwhba,2026-02-19T23:24:43.658Z,"100 km N of Yakutat, Alaska",earthquake,3.8,2.7673,0.2,10,reviewed,ak,ak
 2026-02-19T11:54:35.619Z,31.649,-104.419,5.5872,2.3,ml,23,76,0,0.2,tx,tx2026dmwgxq,2026-02-19T12:51:01.525Z,"58 km S of Whites City, New Mexico",earthquake,1.1851624188181,0.9525582380377,0,7,reviewed,tx,tx
@@ -244,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-18T23:58:53.940Z,17.954,-66.968666666667,13.76,1.86,md,10,204,0.05993,0.16,pr,pr71508228,2026-02-19T00:08:27.750Z,"6 km SW of Fuig, Puerto Rico",earthquake,0.74,0.44,0.13254069537265,4,reviewed,pr,pr
 2026-02-18T23:55:09.300Z,51.8315,-178.67666666667,4.92,0.74,ml,5,319,0.06473,0.28,av,av94045226,2026-02-19T18:08:30.120Z,"140 km W of Adak, Alaska",earthquake,2.21,3.6,0.43635215712353,5,reviewed,av,av
 2026-02-18T23:53:07.720Z,38.797332763672,-122.8125,3.1900000572205,1.23,md,22,70,0.01713,0.03,nc,nc75315677,2026-02-18T23:54:45.960Z,"5 km WNW of The Geysers, CA",earthquake,0.29,0.479999989,0.33,22,automatic,nc,nc
-2026-02-18T23:48:38.859Z,62.901,-149.75,5.3,1.3,ml,13,101,0.4,0.7,ak,aka2026dlyfiy,2026-02-18T23:50:43.514Z,"53 km NNE of Chase, Alaska",earthquake,4.6,4.1142,0.2,5,automatic,ak,ak
-2026-02-18T23:36:42.316Z,49.1665,154.9929,61.302,4.9,mb,91,61,4.299,1.09,us,us6000sa28,2026-02-18T23:53:54.040Z,"186 km SSW of Severo-Kuril’sk, Russia",earthquake,9.36,7.034,0.043,173,reviewed,us,us
