@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-02-21T04:54:07.640Z,36.021833333333,-117.773,1.26,0.76,ml,18,39,0.007122,0.14,ci,ci41400904,2026-02-21T04:57:37.640Z,"15 km NE of Little Lake, CA",earthquake,0.19,0.21,0.096663445690115,7,automatic,ci,ci
 2026-02-21T04:26:27.740Z,38.831001281738,-122.81983184815,1.8099999427795,1.05,md,19,70,0.01425,0.01,nc,nc75316582,2026-02-21T04:28:04.390Z,"8 km NW of The Geysers, CA",earthquake,0.23,0.439999998,0.1,19,automatic,nc,nc
 2026-02-21T04:00:38.760Z,33.150833333333,-116.5375,6.37,0.77,ml,36,52,0.08598,0.23,ci,ci41400896,2026-02-21T04:04:08.016Z,"10 km NE of Julian, CA",earthquake,0.22,0.6,0.16062646596499,14,automatic,ci,ci
 2026-02-21T03:59:06.641Z,61.982,-149.911,13.9,2.7,ml,57,36,0.5,0.9,ak,aka2026dpxyvs,2026-02-21T04:03:03.348Z,"20 km S of Susitna North, Alaska",earthquake,2.3,2.3936,0.2,26,automatic,ak,ak
-2026-02-21T03:56:58.873Z,32.386,-102.108,4.3393,1.4,ml,42,41,0,0.5,tx,tx2026dpxwwi,2026-02-21T04:10:53.017Z,"40 km WSW of Ackerly, Texas",earthquake,0,0.79680550098419,0.2,24,automatic,tx,tx
+2026-02-21T03:56:58.872Z,32.386,-102.108,4.3405,1.4,ml,42,41,0,0.5,tx,tx2026dpxwwi,2026-02-21T05:01:19.361Z,"40 km WSW of Ackerly, Texas",earthquake,0,0.79681527614593,0.2,25,automatic,tx,tx
 2026-02-21T03:43:16.285Z,38.3103,38.7575,10,4.3,mb,44,74,0.436,1.19,us,us6000sakb,2026-02-21T04:17:30.040Z,"24 km W of Doğanyol, Turkey",earthquake,3.33,1.903,0.122,19,reviewed,us,us
 2026-02-21T03:39:00.020Z,33.653,-116.7175,15.4,0.49,ml,23,77,0.03975,0.14,ci,ci41400888,2026-02-21T03:42:31.097Z,"10 km S of Idyllwild, CA",earthquake,0.26,0.44,0.11862397167469,8,automatic,ci,ci
 2026-02-21T03:38:38.823Z,38.7861,21.8615,10,4.4,mb,19,108,0.438,0.85,us,us6000sak8,2026-02-21T03:51:39.040Z,"15 km SSE of Karpenísi, Greece",earthquake,3.87,1.944,0.24,5,reviewed,us,us
@@ -28,7 +29,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-21T00:58:09.560Z,33.316833333333,-116.35683333333,10.34,0.96,ml,45,33,0.01311,0.23,ci,ci41400768,2026-02-21T01:01:32.282Z,"7 km NNE of Borrego Springs, CA",earthquake,0.21,0.39,0.14977061844246,28,automatic,ci,ci
 2026-02-21T00:54:18.170Z,38.837333679199,-122.80799865723,2,0.57,md,12,95,0.01383,0.01,nc,nc75316537,2026-02-21T00:55:53.785Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.610000014,0.27,12,automatic,nc,nc
 2026-02-21T00:47:11.900Z,19.203666666667,-155.48633333333,32.26,1.63,ml,41,82,0.04605,0.11,hv,hv74904236,2026-02-21T01:12:53.070Z,"0 km W of Pāhala, Hawaii",earthquake,0.55,0.56,0.218063564012,10,reviewed,hv,hv
-2026-02-21T00:36:02.085Z,65.002,-147.324,5,1.2,ml,10,77,0.1,0.9,ak,aka2026dprfxw,2026-02-21T00:37:30.858Z,"14 km ENE of Fox, Alaska",earthquake,5.6,,0.2,4,automatic,ak,ak
 2026-02-21T00:32:48.160Z,19.136,-155.3555,28.86,1.72,ml,38,231,0.1026,0.12,hv,hv74904226,2026-02-21T01:17:24.180Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.48,0.7,0.15791760283989,11,reviewed,hv,hv
 2026-02-21T00:28:44.377Z,40.3865,14.9663,300.302,4.8,mb,112,38,0.712,0.68,us,us6000sajm,2026-02-21T00:46:18.040Z,"3 km SW of Licinella-Torre di Paestum, Italy",earthquake,7.08,5.285,0.039,198,reviewed,us,us
 2026-02-20T23:21:24.750Z,33.8265,-117.67366666667,5.43,1.3,ml,27,57,0.05162,0.16,ci,ci41400688,2026-02-20T23:24:55.528Z,"11 km WSW of Corona, CA",earthquake,0.21,0.37,0.47433121478521,35,automatic,ci,ci
@@ -195,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-02-20T05:33:25.150Z,40.276500701904,-124.29233551025,14.520000457764,1.63,md,10,156,0.04025,0.03,nc,nc75316182,2026-02-20T05:35:00.543Z,"5 km S of Petrolia, CA",earthquake,0.72,0.959999979,0.22,6,automatic,nc,nc
 2026-02-20T05:33:02.042Z,62.488,-151.223,86.7,2.2,ml,51,48,0.2,0.6,ak,aka2026dofizp,2026-02-20T20:44:08.410Z,"23 km W of Petersville, Alaska",earthquake,2.6,2.7756,0.2,34,reviewed,ak,ak
 2026-02-20T05:30:44.625Z,51.419,-176.668,22,2.8,ml,18,232,0.5,0.5,ak,aka2026dofhan,2026-02-20T20:41:26.637Z,"50 km S of Adak, Alaska",earthquake,9.3,5.7014,0.2,12,reviewed,ak,ak
-2026-02-20T05:19:37.959Z,62.068,-152.495,1.5,2,ml,30,59,0.5,0.6,ak,aka2026doeutu,2026-02-20T20:39:42.632Z,"58 km W of Skwentna, Alaska",earthquake,2.8,1.8756,0.1,23,reviewed,ak,ak
-2026-02-20T05:10:07.720Z,33.511,-116.558,14.8,0.81,ml,24,65,0.06137,0.16,ci,ci41400280,2026-02-20T17:36:55.357Z,"12 km ESE of Anza, CA",earthquake,0.26,0.36,0.20488345229388,15,reviewed,ci,ci
-2026-02-20T05:03:04.795Z,41.9705,-125.5236,10,2.6,ml,30,255,0.938,0.56,us,us6000sacf,2026-02-20T07:45:02.040Z,"99 km WSW of Pistol River, Oregon",earthquake,3.07,2,0.048,58,reviewed,us,us
-2026-02-20T05:02:53.710Z,38.572,-83.3915,9.59,2.17,md,11,105,0.2372,0.19,se,se60505048,2026-02-20T13:06:22.210Z,"7 km WSW of Vanceburg, Kentucky",earthquake,0.47,2.04,0.065899392832508,8,reviewed,se,se
