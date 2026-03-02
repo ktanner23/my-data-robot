@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-02T05:16:23.085Z,38.5161,-116.4157,8.896,3.8,ml,38,51,0.678,0.85,us,us7000s1di,2026-03-02T05:24:16.040Z,"86 km NE of Tonopah, Nevada",earthquake,2.78,7.639,0.025,216,reviewed,us,us
+2026-03-02T05:10:22.062Z,38.3987,-116.4829,12.2804,1.98,ml,13,172,1.094,0.2776,nn,nn00911594,2026-03-02T05:12:56.887Z,"75 km ENE of Tonopah, Nevada",earthquake,,1.2756,0.3,7,automatic,nn,nn
+2026-03-02T05:09:47.414Z,63.75,-149.38,5,1.3,ml,23,39,0.2,0.5,ak,aka2026egnvtw,2026-03-02T05:11:29.134Z,"23 km W of Denali Park, Alaska",earthquake,2.9,,0.1,4,automatic,ak,ak
+2026-03-02T05:03:46.753Z,38.3981,-116.6403,10.3301,2.65,ml,21,200,0.986,0.3697,nn,nn00911591,2026-03-02T05:06:25.389Z,"63 km NE of Tonopah, Nevada",earthquake,,0.6453,0.28,11,automatic,nn,nn
+2026-03-02T04:56:26.781Z,25.2462,124.9703,10,5,mww,59,92,1.092,0.77,us,us7000s1df,2026-03-02T05:10:23.040Z,"59 km NW of Hirara, Japan",earthquake,5.09,1.864,0.075,17,reviewed,us,us
 2026-03-02T04:55:40.920Z,19.10933303833,-155.31767272949,9.460000038147,2.4,ml,43,234,0.144,0.140000001,hv,hv74911756,2026-03-02T04:59:22.040Z,"19 km ESE of Pāhala, Hawaii",earthquake,0.43,0.370000005,0.2,3,automatic,hv,hv
 2026-03-02T04:35:53.356Z,51.8743,159.7552,35,4.8,mb,74,164,1.335,0.63,us,us7000s1db,2026-03-02T04:58:32.040Z,"149 km SE of Vilyuchinsk, Russia",earthquake,10.3,1.944,0.067,69,reviewed,us,us
 2026-03-02T04:29:35.050Z,19.836833953857,-155.79983520508,13.279999732971,1.9,md,28,171,0.1355,0.25999999,hv,hv74911746,2026-03-02T04:33:02.780Z,"11 km S of Waikoloa, Hawaii",earthquake,0.66,0.879999995,0.17906340139206,14,automatic,hv,hv
@@ -25,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-02T02:09:58.610Z,33.1595,-116.40466666667,4.16,1.1,ml,50,25,0.08667,0.21,ci,ci41407232,2026-03-02T02:13:20.707Z,"11 km SSW of Borrego Springs, CA",earthquake,0.17,0.62,0.15841591951727,27,automatic,ci,ci
 2026-03-02T01:57:27.976Z,18.3334,-153.6867,5,3.3,ml,28,331,1.711,0.3,us,us7000s1cf,2026-03-02T02:10:10.040Z,"180 km SE of Leilani Estates, Hawaii",earthquake,12.44,2.027,0.061,35,reviewed,us,us
 2026-03-02T01:54:17.437Z,60.973,-150.957,54.1,1.5,ml,30,43,0.6,0.8,ak,aka2026eghjhi,2026-03-02T01:56:10.430Z,"14 km SE of Tyonek, Alaska",earthquake,3.6,5.0327,0.2,4,automatic,ak,ak
-2026-03-02T01:41:27.220Z,36.501998901367,-120.24549865723,18.639999389648,2.64,md,64,43,0.1949,0.25,nc,nc75321032,2026-03-02T02:12:22.292Z,"6 km E of Cantua Creek, CA",earthquake,0.4,0.620000005,0.26,57,automatic,nc,nc
+2026-03-02T01:41:27.220Z,36.501998901367,-120.24549865723,18.639999389648,2.64,md,64,43,0.1949,0.25,nc,nc75321032,2026-03-02T05:07:19.454Z,"6 km E of Cantua Creek, CA",earthquake,0.4,0.620000005,0.26,57,automatic,nc,nc
 2026-03-02T01:41:25.250Z,38.369,-116.5116,15.9786,2.15,ml,11,202,1.167,0.2842,nn,nn00911573,2026-03-02T01:43:52.007Z,"71 km ENE of Tonopah, Nevada",earthquake,,1.3358,0.58,5,automatic,nn,nn
 2026-03-02T01:39:18.870Z,38.784832000732,-122.78717041016,9.3199996948242,0.81,md,9,152,0.008355,0.06,nc,nc75321027,2026-03-02T02:12:21.292Z,"3 km WNW of The Geysers, CA",earthquake,1.04,3.26999998,0.09,8,automatic,nc,nc
 2026-03-02T01:35:08.840Z,33.485,-116.55516666667,7.08,0.85,ml,38,47,0.04048,0.15,ci,ci41407216,2026-03-02T01:38:39.843Z,"13 km SE of Anza, CA",earthquake,0.16,0.35,0.27283359366168,22,automatic,ci,ci
@@ -250,6 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-01T05:50:34.182Z,31.67,-104.417,6.8274,1.6,ml,26,70,0,0.4,tx,tx2026eetlvf,2026-03-01T06:07:26.167Z,"56 km S of Whites City, New Mexico",earthquake,0,2.1592016220093,0.1,20,automatic,tx,tx
 2026-03-01T05:48:40.825Z,58.251,-155.19,5,0.8,ml,10,80,0.1,0.3,ak,aka2026eetkke,2026-03-01T05:50:23.665Z,"87 km NNW of Karluk, Alaska",earthquake,6.6,,0.1,5,automatic,ak,ak
 2026-03-01T05:44:43.017Z,-21.9023,-179.4431,596.319,6.3,mww,83,24,4.76,0.89,us,us7000s16b,2026-03-01T15:55:46.040Z,"Fiji region",earthquake,10.49,7.418,0.051,37,reviewed,us,us
-2026-03-01T05:21:49.160Z,32.170166666667,-115.84833333333,7.62,1.78,ml,20,72,0.2011,0.21,ci,ci41406856,2026-03-01T18:47:50.513Z,"52 km SSW of Progreso, B.C., MX",earthquake,0.32,2.06,0.2275122404562,14,reviewed,ci,ci
-2026-03-01T05:19:13.680Z,60.22,-139.879,11.6,1.4,ml,10,166,0.2,0.8,ak,aka2026eeslaj,2026-03-01T05:20:58.533Z,"75 km N of Yakutat, Alaska",earthquake,14,4.2038,0.5,4,automatic,ak,ak
-2026-03-01T05:14:18.774Z,61.1533,-139.9862,5,2.8,ml,23,93,0.596,1.25,us,us7000s169,2026-03-01T06:06:18.040Z,"160 km ESE of McCarthy, Alaska",earthquake,2.17,2.001,0.053,46,reviewed,us,us
