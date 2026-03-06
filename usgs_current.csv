@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-06T10:33:06.780Z,36.137333333333,-117.88583333333,4.23,1.27,ml,24,87,0.0319,0.16,ci,ci41198575,2026-03-06T10:36:32.495Z,"12 km NNE of Coso Junction, CA",earthquake,0.24,0.32,0.13697865083861,19,automatic,ci,ci
 2026-03-06T10:12:09.290Z,19.266666412354,-155.38467407227,28.709999084473,1.77,md,32,119,0.03144,0.180000007,hv,hv74912987,2026-03-06T10:15:38.590Z,"12 km NE of Pāhala, Hawaii",earthquake,0.67,0.819999993,0.19720787420205,13,automatic,hv,hv
 2026-03-06T10:11:05.245Z,36.6649,-116.2607,9.2721,0.65,ml,18,109,0.07,0.1115,nn,nn00912153,2026-03-06T10:12:46.158Z,"52 km ESE of Beatty, Nevada",earthquake,,0.7381,0.25,10,automatic,nn,nn
+2026-03-06T10:03:11.854Z,-5.3643,129.8018,222.522,4.6,mb,66,30,0.843,0.77,us,us7000s2h4,2026-03-06T10:43:17.040Z,"244 km SSE of Amahai, Indonesia",earthquake,8.47,5.884,0.075,53,reviewed,us,us
 2026-03-06T09:56:15.823Z,19.7401,-74.4084,10,5,mww,71,65,0.464,0.7,us,us7000s2h2,2026-03-06T10:10:56.040Z,"62 km SSW of Maisí, Cuba",earthquake,5.84,1.865,0.062,25,reviewed,us,us
 2026-03-06T09:48:40.400Z,38.786334991455,-122.77033233643,4.039999961853,0.62,md,10,94,0.01535,0.02,nc,nc75323432,2026-03-06T10:17:23.362Z,"2 km NW of The Geysers, CA",earthquake,0.55,1.26999998,0.27,9,automatic,nc,nc
 2026-03-06T09:45:01.181Z,36.6686,-116.2576,6.3444,0.74,ml,21,94,0.067,0.162,nn,nn00912149,2026-03-06T09:46:44.420Z,"52 km ESE of Beatty, Nevada",earthquake,,0.6549,0.34,12,automatic,nn,nn
@@ -69,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-06T04:29:08.299Z,43.5492,39.4544,10,4.4,mb,30,48,1.994,1,us,us7000s2fv,2026-03-06T05:32:59.040Z,"21 km SSW of Vardane, Russia",earthquake,7.2,1.948,0.106,26,reviewed,us,us
 2026-03-06T04:24:13.390Z,33.943833333333,-117.0255,14.94,1.35,ml,63,30,0.04354,0.21,ci,ci41198375,2026-03-06T05:18:50.790Z,"5 km WNW of Beaumont, CA",earthquake,0.16,0.35,0.25398562037436,27,automatic,ci,ci
 2026-03-06T04:20:42.050Z,35.360166666667,-117.78566666667,6.4,0.85,ml,23,75,0.1048,0.16,ci,ci41198367,2026-03-06T04:24:02.812Z,"14 km W of Johannesburg, CA",earthquake,0.24,0.58,0.10261807137908,7,automatic,ci,ci
-2026-03-06T04:17:52.994Z,31.645,-104.367,4.4141,1.6,ml,29,71,0.1,0.3,tx,tx2026enuziw,2026-03-06T04:20:58.302Z,"58 km S of Whites City, New Mexico",earthquake,0,1.1205440759659,0.2,18,automatic,tx,tx
+2026-03-06T04:17:52.891Z,31.655,-104.354,6.0999,1.5,ml,33,70,0.1,0.2,tx,tx2026enuziw,2026-03-06T10:39:41.443Z,"57 km S of Whites City, New Mexico",earthquake,0.78831488943895,0.77820138780723,0.2,19,reviewed,tx,tx
 2026-03-06T04:17:52.073Z,55.027,-157.829,5,2.6,ml,14,278,1.3,0.8,ak,aka2026enuzvp,2026-03-06T04:28:20.040Z,"128 km SE of Perryville, Alaska",earthquake,12.9,,0.1,4,automatic,ak,ak
 2026-03-06T04:08:45.522Z,31.648,-104.26,7.6172,1.6,ml,32,67,0,0.1,tx,tx2026enuspt,2026-03-06T10:20:14.745Z,"57 km NW of Toyah, Texas",earthquake,0.42778061486062,0.6849984561839,0.1,14,reviewed,tx,tx
 2026-03-06T04:08:33.840Z,38.835498809815,-122.81950378418,1.9400000572205,0.66,md,8,97,0.01937,0.01,nc,nc75323347,2026-03-06T04:27:18.940Z,"8 km NW of The Geysers, CA",earthquake,0.37,1.32000005,0.06,9,automatic,nc,nc
@@ -282,8 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-05T10:54:23.568Z,-4.3596,-105.5328,10,5,mb,47,160,15.663,1.45,us,us7000s279,2026-03-05T11:15:10.040Z,"central East Pacific Rise",earthquake,14.13,1.935,0.044,160,reviewed,us,us
 2026-03-05T10:53:58.198Z,32.191,-101.393,7.7881,1,ml,17,85,0.1,0.1,tx,tx2026emmkzo,2026-03-05T14:54:20.254Z,"9 km NNW of Forsan, Texas",earthquake,0.45559778518997,1.052401661711,0.2,13,reviewed,tx,tx
 2026-03-05T10:53:50.658Z,31.747,-104.168,6.1639,1.8,ml,44,82,0,0.2,tx,tx2026emmkxc,2026-03-05T11:53:27.720Z,"51 km SSE of Whites City, New Mexico",earthquake,0.44693198512811,0.47528965732748,0.1,31,reviewed,tx,tx
-2026-03-05T10:48:21.013Z,25.2035,125.0077,10.156,5.2,mb,74,77,1.08,1.02,us,us7000s278,2026-03-05T11:06:27.040Z,"53 km NW of Hirara, Japan",earthquake,6.39,4.32,0.053,119,reviewed,us,us
-2026-03-05T10:44:33.356Z,63.336,-151.143,4.2,2.1,ml,44,86,0.2,0.9,ak,aka2026emmcwm,2026-03-05T23:48:30.090Z,"36 km SE of Denali National Park, Alaska",earthquake,3.2,2.2194,0.1,30,reviewed,ak,ak
-2026-03-05T10:43:23.936Z,32.134,-102.216,6.1279,2.4,ml,37,57,0,0.1,tx,tx2026emmbca,2026-03-06T09:04:41.040Z,"19 km NE of Gardendale, Texas",earthquake,0.55622701249465,1.4507050224577,0.2,24,reviewed,tx,tx
-2026-03-05T10:41:46.620Z,33.1455,-116.52816666667,7.45,0.59,ml,23,94,0.08678,0.15,ci,ci41197767,2026-03-05T23:05:21.326Z,"10 km NE of Julian, CA",earthquake,0.25,0.66,0.24464544419211,10,reviewed,ci,ci
-2026-03-05T10:38:25.524Z,59.68,-151.587,52.8,1.6,ml,20,120,0.4,0.6,ak,aka2026emlxpn,2026-03-05T23:48:20.088Z,"1 km WNW of Diamond Ridge, Alaska",earthquake,7.3,5.1741,0.1,14,reviewed,ak,ak
