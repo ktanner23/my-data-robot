@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-10T10:50:05.900Z,19.192499160767,-155.49099731445,31.469999313354,1.83,md,41,76,0.0459,0.119999997,hv,hv74915052,2026-03-10T10:54:19.890Z,"1 km SW of Pāhala, Hawaii",earthquake,0.51,0.660000026,0.19471366141824,15,automatic,hv,hv
 2026-03-10T10:33:50.150Z,19.202667236328,-155.49816894531,30.069999694824,2.24,md,52,72,0.04548,0.150000006,hv,hv74915032,2026-03-10T10:38:34.660Z,"2 km W of Pāhala, Hawaii",earthquake,0.43,0.600000024,0.27209252043706,14,automatic,hv,hv
 2026-03-10T10:31:16.128Z,62.283,-148.556,26.8,1.9,ml,53,53,0.5,0.8,ak,aka2026evqhvd,2026-03-10T10:32:40.451Z,"54 km N of Chickaloon, Alaska",earthquake,2.6,1.9684,0.3,4,automatic,ak,ak
 2026-03-10T09:51:18.164Z,-15.0412,167.8829,122.732,4.8,mb,27,165,0.77,0.96,us,us7000s3ct,2026-03-10T10:26:23.040Z,"87 km E of Port-Olry, Vanuatu",earthquake,9.54,5.104,0.121,21,reviewed,us,us
@@ -82,7 +83,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-10T01:12:41.480Z,33.696166666667,-116.71033333333,17.71,0.72,ml,35,57,0.01793,0.17,ci,ci41201175,2026-03-10T01:16:11.075Z,"5 km S of Idyllwild, CA",earthquake,0.22,0.38,0.17146072667103,19,automatic,ci,ci
 2026-03-10T01:11:45.365Z,63.456,-147.127,0.3,1.5,ml,32,57,0.4,0.7,ak,aka2026euxtrs,2026-03-10T01:13:23.693Z,"86 km WNW of Paxson, Alaska",earthquake,2.8,2.2053,0.1,4,automatic,ak,ak
 2026-03-10T01:09:15.815Z,53.742,-166.356,79.3,1.7,ml,11,200,0.2,0.3,ak,aka2026euxrlb,2026-03-10T08:21:13.788Z,"18 km SE of Unalaska, Alaska",earthquake,69.3,10.9701,0.4,8,reviewed,ak,ak
-2026-03-10T01:02:58.949Z,31.605,-103.812,0,1.6,ml,16,109,0.1,0.8,tx,tx2026euxmde,2026-03-10T01:06:37.849Z,"23 km WSW of Mentone, Texas",earthquake,0,,0.2,12,automatic,tx,tx
 2026-03-10T01:02:32.137Z,32.436,-102.115,8.1787,2.4,ml,87,58,0,0.2,tx,tx2026euxlqw,2026-03-10T08:43:10.469Z,"36 km SSW of Los Ybanez, Texas",earthquake,0.26519544971606,0.28729909873283,0.1,35,reviewed,tx,tx
 2026-03-10T00:55:19.610Z,17.920833333333,-67.129666666667,13.3,2.37,md,7,265,0.08722,0.06,pr,pr71509473,2026-03-10T01:11:43.230Z,"8 km SE of Pole Ojea, Puerto Rico",earthquake,0.66,0.31,0.1780709630121,5,reviewed,pr,pr
 2026-03-10T00:42:13.552Z,-23.6175,179.9668,527.385,4.6,mb,61,80,5.913,0.7,us,us7000s3a9,2026-03-10T04:32:02.040Z,"south of the Fiji Islands",earthquake,13.28,6.72,0.04,188,reviewed,us,us
@@ -252,7 +252,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-09T11:13:38.427Z,36.6572,-116.2574,9.3219,0.65,ml,19,97,0.071,0.1676,nn,nn00912338,2026-03-09T11:15:29.323Z,"52 km ESE of Beatty, Nevada",earthquake,,0.7538,0.22,10,automatic,nn,nn
 2026-03-09T11:09:23.160Z,33.715333333333,-116.82683333333,16.83,0.16,ml,13,103,0.08562,0.11,ci,ci41200647,2026-03-09T17:40:17.759Z,"7 km ESE of Valle Vista, CA",earthquake,0.34,0.58,0.21477187085058,7,reviewed,ci,ci
 2026-03-09T11:08:23.200Z,38.505,-112.89466666667,2.11,2.07,ml,26,44,0.005297,0.11,uu,uu80131461,2026-03-09T14:17:05.830Z,"15 km NE of Milford, Utah",earthquake,0.24,0.31,0.17135411135873,6,reviewed,uu,uu
-2026-03-09T10:59:19.280Z,38.504166666667,-112.88966666667,1.48,1.45,md,20,38,0.003509,0.1,uu,uu80131456,2026-03-09T14:39:53.620Z,"15 km NE of Milford, Utah",earthquake,0.25,0.32,0.29778145927595,9,reviewed,uu,uu
-2026-03-09T10:58:38.900Z,38.5,-112.88733333333,1.55,1.22,ml,13,70,0.001668,0.14,uu,uu80131451,2026-03-09T14:39:06.940Z,"15 km NE of Milford, Utah",earthquake,0.33,0.49,0.389793245392,3,reviewed,uu,uu
-2026-03-09T10:54:03.690Z,38.500666666667,-112.89183333333,1.75,1.05,md,11,73,0.004175,0.07,uu,uu80131446,2026-03-09T13:49:23.770Z,"15 km NE of Milford, Utah",earthquake,0.27,0.48,0.37930010048138,5,reviewed,uu,uu
-2026-03-09T10:52:40.502Z,12.0385,125.4331,10,4.7,mb,77,91,25.13,1.02,us,us7000s352,2026-03-09T11:19:43.040Z,"5 km NNW of Can-Avid, Philippines",earthquake,12.78,1.883,0.064,74,reviewed,us,us
