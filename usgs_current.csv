@@ -9,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-19T08:59:12.970Z,37.599498748779,-122.4571685791,7.9899997711182,1,md,9,109,0.03414,0.02,nc,nc75329977,2026-03-19T09:27:22.589Z,"3 km ESE of Pacifica, CA",earthquake,0.76,0.790000021,0.08,6,automatic,nc,nc
 2026-03-19T08:55:30.590Z,32.5097,48.2144,10,4.4,mb,37,154,7.156,0.7,us,us6000shcv,2026-03-19T09:32:59.040Z,"29 km NW of Shahrak-e Kūlūrī, Iran",earthquake,9.79,1.944,0.102,28,reviewed,us,us
 2026-03-19T08:47:59.800Z,38.787998199463,-122.75016784668,1.0599999427795,1.04,md,11,82,0.01465,0.02,nc,nc75329972,2026-03-19T09:12:21.498Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.790000021,0.22,11,automatic,nc,nc
-2026-03-19T08:42:22.520Z,36.813499450684,-121.57933044434,8.9700002670288,1.17,md,13,102,0.01402,0.13,nc,nc75329967,2026-03-19T09:07:22.581Z,"5 km SW of San Juan Bautista, CA",earthquake,0.54,0.75,0.09,10,automatic,nc,nc
+2026-03-19T08:42:22.520Z,36.813499450684,-121.57933044434,8.9700002670288,1.17,md,13,102,0.01402,0.13,nc,nc75329967,2026-03-19T10:22:18.998Z,"5 km SW of San Juan Bautista, CA",earthquake,0.54,0.75,0.09,10,automatic,nc,nc
 2026-03-19T08:35:41.295Z,57.591,-155.634,90.9,2,ml,41,152,0.4,0.4,ak,aka2026fmaadv,2026-03-19T08:38:02.550Z,"70 km W of Karluk, Alaska",earthquake,9.2,2.8842,0.2,8,automatic,ak,ak
 2026-03-19T08:25:41.962Z,60.18,-151.058,67.1,1.9,ml,29,65,0.4,0.4,ak,aka2026flzroc,2026-03-19T08:27:34.156Z,"19 km ESE of Clam Gulch, Alaska",earthquake,5.1,4.6049,0.2,4,automatic,ak,ak
 2026-03-19T08:16:39.574Z,31.622,-104.093,6.0999,1.6,ml,33,52,0,0.2,tx,tx2026flzjky,2026-03-19T08:50:46.495Z,"44 km NW of Toyah, Texas",earthquake,0.54147960594127,0.41907205312055,0.2,17,reviewed,tx,tx
@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-19T06:44:10.850Z,38.820835113525,-122.76566314697,2.3800001144409,0.71,md,9,113,0.01018,0.01,nc,nc75329922,2026-03-19T07:07:21.632Z,"4 km W of Cobb, CA",earthquake,0.38,0.769999981,0.1,10,automatic,nc,nc
 2026-03-19T06:41:08.250Z,19.95299911499,-155.57183837891,46.270000457764,2.15,md,31,219,0.1251,0.150000006,hv,hv74918757,2026-03-19T06:44:34.020Z,"13 km SE of Waimea, Hawaii",earthquake,0.69,0.910000026,0.12206095867607,14,automatic,hv,hv
 2026-03-19T06:36:26.050Z,33.2475,-116.8015,12.68,0.12,ml,24,72,0.03762,0.14,ci,ci41207655,2026-03-19T06:40:00.973Z,"4 km W of Lake Henshaw, CA",earthquake,0.23,0.51,0.093254895206054,3,automatic,ci,ci
-2026-03-19T06:32:00.997Z,34.0718,-81.2455,8.93,2.1,ml,14,106,0.21,0.37,us,us6000shby,2026-03-19T10:01:45.552Z,"5 km SSE of Lake Murray of Richland, South Carolina",earthquake,1.36,4.138,0.091,16,reviewed,us,us
+2026-03-19T06:32:00.997Z,34.0718,-81.2455,8.93,2.1,ml,14,106,0.21,0.37,us,us6000shby,2026-03-19T10:16:30.714Z,"5 km SSE of Lake Murray of Richland, South Carolina",earthquake,1.36,4.138,0.091,16,reviewed,us,us
 2026-03-19T06:29:11.210Z,38.780666351318,-122.72049713135,1.5499999523163,1.05,md,9,86,0.01935,0.02,nc,nc75329917,2026-03-19T06:47:25.492Z,"3 km WNW of Anderson Springs, CA",earthquake,0.36,1.00999999,0.14,10,automatic,nc,nc
 2026-03-19T06:29:07.240Z,32.275833333333,-116.217,12.47,1.63,ml,22,114,0.3194,0.12,ci,ci41207647,2026-03-19T06:32:39.440Z,"44 km SSE of Campo, CA",earthquake,0.24,1.11,0.22705700088301,23,automatic,ci,ci
 2026-03-19T06:28:40.964Z,62.932,-149.971,77.3,1.7,ml,13,119,0.5,0.6,ak,aka2026flvuso,2026-03-19T06:30:36.658Z,"54 km N of Chase, Alaska",earthquake,6.6,4.7958,0.2,4,automatic,ak,ak
@@ -178,6 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-18T14:02:03.708Z,61.201,-151.132,64.1,2,ml,53,43,0.4,0.7,ak,aka2026fkpcmz,2026-03-18T16:32:40.111Z,"7 km NNW of Beluga, Alaska",earthquake,2.7,3.1777,0.2,4,automatic,ak,ak
 2026-03-18T14:00:49.499Z,35.1659,27.0963,10,4.1,mb,44,95,0.384,0.62,us,us6000sh5y,2026-03-19T09:52:42.040Z,"31 km SSE of Fry, Greece",earthquake,4.31,1.882,0.1,27,reviewed,us,us
 2026-03-18T13:53:06.602Z,59.911,-152.63,88.9,2.4,ml,59,80,0.2,0.6,ak,aka2026fkouuq,2026-03-18T13:54:54.250Z,"47 km WNW of Anchor Point, Alaska",earthquake,3.8,2.4774,0.1,4,automatic,ak,ak
+2026-03-18T13:51:51.210Z,-18.712,-69.5853,119.71,4.1,mb,19,96,0.382,0.84,us,us6000sh5v,2026-03-19T10:13:21.040Z,"68 km NNW of Camiña, Chile",earthquake,5.85,6.107,0.214,6,reviewed,us,us
 2026-03-18T13:46:57.390Z,18.789833333333,-67.6595,48.83,3.15,md,18,195,0.6109,0.37,pr,pr71510128,2026-03-19T10:03:59.040Z,"65 km NW of Rincón, Puerto Rico",earthquake,1.66,3.75,0.17156756227743,9,reviewed,pr,pr
 2026-03-18T13:42:37.080Z,37.263832092285,-121.61750030518,4.2800002098083,1.63,md,30,73,0.04464,0.06,nc,nc75329592,2026-03-18T14:17:24.881Z,"15 km NNE of Morgan Hill, CA",earthquake,0.16,0.579999983,0.19,21,automatic,nc,nc
 2026-03-18T13:10:51.059Z,57.781,-155.13,23.4,1.7,ml,12,303,0.3,0.4,ak,aka2026fknkjz,2026-03-18T13:12:45.801Z,"46 km WNW of Karluk, Alaska",earthquake,12.7,9.6649,0.2,6,automatic,ak,ak
@@ -208,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-18T10:35:58.440Z,33.341833333333,-116.29833333333,11.26,1.34,ml,77,16,0.02255,0.2,ci,ci41206775,2026-03-18T13:39:51.862Z,"12 km NE of Borrego Springs, CA",earthquake,0.14,0.28,0.21896796483502,26,reviewed,ci,ci
 2026-03-18T10:26:34.300Z,37.036998748779,-121.47583007812,9.039999961853,1.22,md,19,98,0.01353,0.13,nc,nc75329557,2026-03-18T11:22:18.700Z,"9 km ENE of Gilroy, CA",earthquake,0.42,0.839999974,0.24,12,automatic,nc,nc
 2026-03-18T10:26:11.540Z,38.841835021973,-122.87899780273,2.420000076294,0.89,md,7,95,0.005011,0.01,nc,nc75329552,2026-03-18T10:57:19.500Z,"13 km ENE of Cloverdale, CA",earthquake,0.57,0.730000019,0.27,9,automatic,nc,nc
-2026-03-18T10:08:43.719Z,32.4671,141.7638,10,4.8,mb,84,120,4.815,1.01,us,us6000sh54,2026-03-18T10:29:47.040Z,"Izu Islands, Japan region",earthquake,9.35,1.865,0.052,114,reviewed,us,us
