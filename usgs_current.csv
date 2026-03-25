@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-03-25T08:50:58.400Z,33.520166666667,-116.74016666667,3.39,1.23,ml,73,20,0.04515,0.21,ci,ci41424400,2026-03-25T09:02:09.570Z,"7 km WSW of Anza, CA",earthquake,0.13,0.39,0.19635089261652,25,automatic,ci,ci
+2026-03-25T08:40:48.520Z,33.875666666667,-117.75333333333,13.82,1.99,ml,134,17,0.03719,0.21,ci,ci41424392,2026-03-25T08:51:50.950Z,"6 km ESE of Yorba Linda, CA",earthquake,0.12,0.25,0.16409888659674,27,automatic,ci,ci
+2026-03-25T08:39:44.368Z,58.752,-154.643,33.1,1.2,ml,9,306,0.3,0.2,ak,aka2026fxamxx,2026-03-25T08:41:46.120Z,"76 km S of Kokhanok, Alaska",earthquake,69.2,10.0252,0.4,4,automatic,ak,ak
+2026-03-25T08:38:26.801Z,63.744,-148.954,29.5,2.6,ml,44,80,0.3,0.9,ak,aka2026fxakxt,2026-03-25T08:42:51.786Z,"2 km WNW of Denali Park, Alaska",earthquake,3.8,3.1654,0.3,24,automatic,ak,ak
 2026-03-25T08:29:58.196Z,60.841,-151.554,79.1,2.3,ml,31,106,0.4,0.5,ak,aka2026fxaenc,2026-03-25T08:32:10.052Z,"22 km NW of Nikiski, Alaska",earthquake,6.4,4.4042,0.2,8,automatic,ak,ak
 2026-03-25T08:23:38.187Z,32.107,-102.148,4.4965,1.8,ml,59,45,0,0.5,tx,tx2026fwzvvv,2026-03-25T08:28:50.328Z,"13 km NNW of Midland, Texas",earthquake,0,0.70033717155457,0.2,36,automatic,tx,tx
 2026-03-25T07:52:40.700Z,33.881833333333,-116.85783333333,15.6,0.83,ml,45,34,0.06962,0.13,ci,ci41424384,2026-03-25T07:56:04.826Z,"5 km SSE of Banning, CA",earthquake,0.14,0.38,0.16578194290751,23,automatic,ci,ci
@@ -9,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-25T07:30:14.352Z,31.283,-103.37,6.509,1.8,ml,20,80,0,0.7,tx,tx2026fwyeye,2026-03-25T08:00:36.707Z,"18 km ESE of Lindsay, Texas",earthquake,0,1.9514447450638,0.2,14,automatic,tx,tx
 2026-03-25T07:29:03.890Z,33.971166666667,-117.228,12.76,0.65,ml,38,75,0.05167,0.18,ci,ci41424368,2026-03-25T07:32:30.486Z,"5 km N of Moreno Valley, CA",earthquake,0.22,0.49,0.20766930861765,16,automatic,ci,ci
 2026-03-25T07:22:47.281Z,31.679,-104.239,4.7447,1.4,ml,24,63,0,0.4,tx,tx2026fwxypl,2026-03-25T08:00:57.844Z,"56 km SSE of Whites City, New Mexico",earthquake,0,1.0773257017136,0.2,19,automatic,tx,tx
-2026-03-25T07:04:38.329Z,32.308,-101.85,4.4857,1.6,ml,50,23,0,0.4,tx,tx2026fwxipk,2026-03-25T08:01:51.659Z,"20 km NNW of Stanton, Texas",earthquake,0,0.73262125253677,0.1,30,automatic,tx,tx
+2026-03-25T07:04:38.790Z,32.306,-101.843,7.8857,1.6,ml,78,23,0,0.2,tx,tx2026fwxipk,2026-03-25T08:54:44.007Z,"20 km NNW of Stanton, Texas",earthquake,0.23849605639368,0.67823211290168,0.2,49,reviewed,tx,tx
 2026-03-25T06:49:46.760Z,33.894333333333,-116.92916666667,12.15,1.18,ml,62,28,0.09194,0.17,ci,ci41424360,2026-03-25T07:00:14.650Z,"6 km SE of Beaumont, CA",earthquake,0.14,0.54,0.1982376237065,25,automatic,ci,ci
 2026-03-25T06:24:19.692Z,60.121,-152.91,112.3,0.9,ml,15,162,0.1,0.3,ak,aka2026fwwagg,2026-03-25T06:26:26.609Z,"68 km WNW of Happy Valley, Alaska",earthquake,54.3,5.1111,0.2,6,automatic,ak,ak
 2026-03-25T06:23:39.205Z,31.663,-104.128,4.0082,1.7,ml,30,48,0,0.3,tx,tx2026fwvzqy,2026-03-25T07:00:31.847Z,"50 km NW of Toyah, Texas",earthquake,0,0.98797476291657,0.2,21,automatic,tx,tx
@@ -217,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-24T09:14:55.926Z,69.533,-144.124,5,2.7,ml,38,92,0.2,0.8,ak,aka2026fvfyjk,2026-03-25T00:01:32.332Z,"69 km SSW of Kaktovik, Alaska",earthquake,3.5,0,0.2,23,reviewed,ak,ak
 2026-03-24T09:11:30.760Z,39.604,-111.23233333333,-1.8,1.17,md,18,44,0.0423,0.14,uu,uu80006543,2026-03-24T15:49:02.030Z,"8 km SW of Clear Creek, Utah",earthquake,0.32,0.48,0.11662037394297,12,reviewed,uu,uu
 2026-03-24T09:07:19.643Z,-20.021,-70.9608,23.996,4.6,mb,40,146,0.818,0.65,us,us7000s7a9,2026-03-25T04:31:22.779Z,"87 km WNW of Puerto, Chile",earthquake,4.87,5.718,0.101,29,reviewed,us,us
-2026-03-24T09:03:49.221Z,53.9306,-163.8081,35,3.5,ml,20,200,0.778,0.44,us,us7000s7a8,2026-03-24T23:56:35.366Z,"105 km SSW of False Pass, Alaska",earthquake,5.7,2.013,0.081,20,reviewed,us,us
-2026-03-24T08:49:53.478Z,57.712,-154.052,26.5,2.6,ml,48,103,0.6,0.6,ak,aka2026fvfcui,2026-03-24T23:52:53.642Z,"19 km NNW of Larsen Bay, Alaska",earthquake,3,2.0733,0.2,36,reviewed,ak,ak
-2026-03-24T08:48:56.532Z,60.475,-139.656,0.7,1.7,ml,18,53,0.5,0.6,ak,aka2026fvfbzf,2026-03-24T23:39:32.857Z,"103 km N of Yakutat, Alaska",earthquake,3.2,3.2395,0.1,14,reviewed,ak,ak
-2026-03-24T08:42:25.859Z,31.62,-104.381,1.8958,1.6,ml,26,84,0.1,0.2,tx,tx2026fvewjm,2026-03-24T10:23:09.873Z,"61 km S of Whites City, New Mexico",earthquake,0.75170812686838,0.85314000659175,0.1,15,reviewed,tx,tx
