@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-03-30T22:51:28.780Z,33.237167358398,-116.79233551025,13.609999656677,3.0723665307626,ml,88,14,0.02816,0.25,ci,ci41428672,2026-03-30T22:53:39.333Z,"3 km W of Lake Henshaw, CA",earthquake,0.24,0.689999998,0.28724911808968,18,automatic,ci,ci
+2026-03-30T23:06:08.580Z,33.237,-116.786,15.59,0.72,ml,30,36,0.02285,0.15,ci,ci41428688,2026-03-30T23:09:36.539Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.2,0.48,0.15998343474639,18,automatic,ci,ci
+2026-03-30T23:04:44.130Z,55.772,-153.764,5,3.2,ml,52,298,1.5,0.9,ak,aka2026ghhuqc,2026-03-30T23:10:16.399Z,"133 km S of Akhiok, Alaska",earthquake,44.3,,0.2,4,automatic,ak,ak
+2026-03-30T23:02:54.856Z,62.656,-151.967,5,1.4,ml,15,89,0.3,0.6,ak,aka2026ghhtdv,2026-03-30T23:04:28.481Z,"64 km WNW of Petersville, Alaska",earthquake,3.7,,0.1,4,automatic,ak,ak
+2026-03-30T22:59:02.380Z,33.238166666667,-116.78583333333,15.59,0.79,ml,23,58,0.02279,0.1,ci,ci41428680,2026-03-30T23:02:35.003Z,"2 km W of Lake Henshaw, CA",earthquake,0.17,0.37,0.15694095692626,16,automatic,ci,ci
+2026-03-30T22:51:28.780Z,33.237167358398,-116.79233551025,13.609999656677,3.0723665307626,ml,88,14,0.02816,0.25,ci,ci41428672,2026-03-30T23:12:20.160Z,"3 km W of Lake Henshaw, CA",earthquake,0.24,0.689999998,0.28724911808968,18,reviewed,ci,ci
 2026-03-30T22:36:54.050Z,38.81600189209,-122.84349822998,6.0599999427795,0.75,md,13,84,0.009707,0.08,nc,nc75335937,2026-03-30T22:38:30.840Z,"9 km WNW of The Geysers, CA",earthquake,0.65,0.899999976,0.28,12,automatic,nc,nc
 2026-03-30T22:36:40.680Z,38.820499420166,-122.84116363525,3.039999961853,0.81,md,17,102,0.005457,0.01,nc,nc75335932,2026-03-30T22:38:15.956Z,"9 km WNW of The Geysers, CA",earthquake,0.33,0.5,0.21,19,automatic,nc,nc
 2026-03-30T22:35:15.260Z,38.813331604004,-122.78483581543,1.1200000047684,0.77,md,12,71,0.009775,0.02,nc,nc75335927,2026-03-30T22:36:50.935Z,"5 km NNW of The Geysers, CA",earthquake,0.31,0.629999995,0.18,12,automatic,nc,nc
@@ -7,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-30T22:34:14.148Z,39.9541,-118.8346,0.7458,1.65,ml,10,141,0.488,0.2853,nn,nn00913561,2026-03-30T22:36:33.873Z,"39 km SW of Lovelock, Nevada",earthquake,,38.7889,0.2,4,automatic,nn,nn
 2026-03-30T22:30:50.772Z,51.227,178.84,24.8,2.9,ml,18,268,0.3,0.7,ak,aka2026ghgrhv,2026-03-30T22:41:26.118Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.6,3.7389,0.2,14,reviewed,ak,ak
 2026-03-30T22:09:40.760Z,33.260166666667,-116.09933333333,9.15,0.83,ml,31,52,0.09713,0.2,ci,ci41428616,2026-03-30T22:13:04.052Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.25,0.94,0.13209980973442,16,automatic,ci,ci
+2026-03-30T22:09:11.193Z,-20.7992,-178.7732,698.129,4,mb,25,133,32.743,0.58,us,us7000s8y6,2026-03-30T23:08:34.040Z,"Fiji region",earthquake,14.42,12.079,0.108,23,reviewed,us,us
 2026-03-30T21:58:59.351Z,64.885,-149.331,14.5,0.8,ml,7,125,0.3,0.3,ak,aka2026ghfqbi,2026-03-30T22:01:58.126Z,"29 km S of Minto, Alaska",earthquake,5.3,12.871,0.3,4,automatic,ak,ak
 2026-03-30T21:38:10.095Z,29.378,-97.396,12.7659,2.7,ml,9,122,0.1,0.4,tx,tx2026gheydf,2026-03-30T21:42:18.128Z,"14 km SSE of Gonzales, Texas",earthquake,0,3.4771323204041,0.1,6,automatic,tx,tx
 2026-03-30T21:33:53.157Z,38.7277,-117.0586,15.3163,1.81,ml,10,130,0.873,0.329,nn,nn00913559,2026-03-30T21:36:23.340Z,"53 km S of Kingston, Nevada",earthquake,,2.0424,0.84,4,automatic,nn,nn
@@ -114,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-30T14:04:43.100Z,38.816665649414,-122.76499938965,18.979999542236,1.07,md,7,170,0.02522,0.12,nc,nc75335507,2026-03-30T14:06:20.050Z,"4 km W of Cobb, CA",earthquake,2.97,9.26000023,0.32,9,automatic,nc,nc
 2026-03-30T14:01:50.750Z,36.020166666667,-117.76866666667,1.92,-0.04,ml,7,99,0.005741,0.07,ci,ci41428144,2026-03-30T17:45:51.077Z,"16 km NE of Little Lake, CA",earthquake,0.21,0.36,0.15976363689197,3,reviewed,ci,ci
 2026-03-30T14:01:27.940Z,32.251,-101.941,5.3955,0.7,ml,17,55,0.1,0.2,tx,tx2026ggpuop,2026-03-30T19:52:53.915Z,"19 km NW of Stanton, Texas",earthquake,0.37434215363766,1.4418021985721,0.2,8,reviewed,tx,tx
+2026-03-30T13:51:11.821Z,32.29,-101.326,3.845,1.2,ml,5,118,0.1,0.3,tx,tx2026ggplso,2026-03-30T23:15:35.972Z,"1 km WSW of Coahoma, Texas",earthquake,0,3.0876348018646,0.2,5,automatic,tx,tx
 2026-03-30T13:47:43.340Z,38.820167541504,-122.84349822998,2.1600000858307,1.12,md,8,131,0.007241,0.01,nc,nc75335497,2026-03-30T14:57:21.052Z,"9 km WNW of The Geysers, CA",earthquake,0.43,1.23000002,0.29,9,automatic,nc,nc
 2026-03-30T13:45:27.282Z,58.252,-155.121,0.7,1.7,ml,36,43,0.1,0.7,ak,aka2026ggpgtt,2026-03-30T13:47:09.482Z,"85 km NNW of Karluk, Alaska",earthquake,3.6,2.3979,0.2,10,automatic,ak,ak
 2026-03-30T13:41:52.700Z,39.252834320068,-123.19166564941,11.039999961853,1.13,md,8,121,0.05206,0.23,nc,nc75335492,2026-03-30T14:32:17.879Z,"2 km SE of Redwood Valley, CA",earthquake,0.91,2.46000004,0.14,4,automatic,nc,nc
@@ -183,7 +189,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-30T09:05:16.953Z,31.69,-104.483,5.2795,1.6,ml,26,69,0,0.2,tx,tx2026ggfziv,2026-03-30T17:13:43.174Z,"54 km S of Whites City, New Mexico",earthquake,1.7500004196332,0.91503744302982,0.1,12,reviewed,tx,tx
 2026-03-30T09:02:32.124Z,-15.3663,167.5229,149.049,5,mb,39,129,6.795,0.63,us,us7000s8rs,2026-03-30T09:59:46.698Z,"42 km ENE of Luganville, Vanuatu",earthquake,13.14,6.947,0.101,31,reviewed,us,us
 2026-03-30T08:45:57.234Z,52.433,-165.443,2.2,2.5,ml,12,305,1.6,0.4,ak,aka2026ggfirg,2026-03-30T21:11:31.273Z,"176 km SSE of Unalaska, Alaska",earthquake,33.8,22.5034,0.1,9,reviewed,ak,ak
-2026-03-30T08:44:13.823Z,-15.3139,167.5616,121.28,7.3,mww,181,25,0.37,0.89,us,us7000s8q0,2026-03-30T17:14:30.272Z,"48 km ENE of Luganville, Vanuatu",earthquake,9.79,4.133,0.034,85,reviewed,us,us
+2026-03-30T08:44:13.823Z,-15.3139,167.5616,121.28,7.3,mww,181,25,0.37,0.89,us,us7000s8q0,2026-03-30T23:08:15.516Z,"48 km ENE of Luganville, Vanuatu",earthquake,9.79,4.133,0.034,85,reviewed,us,us
 2026-03-30T08:44:07.642Z,-15.2696,167.4673,115.406,5.4,mb,148,25,0.31,0.65,us,us7000s8v7,2026-03-30T19:09:58.285Z,"42 km NE of Luganville, Vanuatu",earthquake,6.09,4.47,0.026,505,reviewed,us,us
 2026-03-30T08:41:48.451Z,62.168,-151.229,72.9,1.6,ml,31,56,0.2,0.8,ak,aka2026ggffct,2026-03-30T21:08:06.261Z,"21 km NNE of Skwentna, Alaska",earthquake,3.1,3.3372,0.2,18,reviewed,ak,ak
 2026-03-30T08:36:46.410Z,33.053166666667,-115.91333333333,0.2,1.01,ml,43,40,0.09888,0.25,ci,ci41427960,2026-03-30T08:40:12.165Z,"23 km ESE of Ocotillo Wells, CA",earthquake,0.23,0.68,0.1255871559995,20,automatic,ci,ci
@@ -348,11 +354,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-03-29T23:19:16.177Z,60.579,-141.198,9.8,1.6,ml,22,83,0.3,1,ak,aka2026gfmoik,2026-03-30T22:01:54.107Z,"133 km SE of McCarthy, Alaska",earthquake,2.8,1.9356,0.2,17,reviewed,ak,ak
 2026-03-29T23:18:51.501Z,31.761,-103.833,7.8815,1.8,ml,35,54,0,0.1,tx,tx2026gfmnab,2026-03-30T14:53:01.301Z,"22 km WNW of Mentone, Texas",earthquake,0.37062350048378,0.47650307745679,0.2,25,reviewed,tx,tx
 2026-03-29T23:17:33.480Z,38.494666666667,-112.90383333333,2.81,1.08,ml,11,103,0.00734,0.06,uu,uu80133826,2026-03-30T17:51:21.400Z,"14 km NE of Milford, Utah",earthquake,0.24,0.49,0.031939264993835,2,reviewed,uu,uu
-2026-03-29T23:16:24.870Z,38.4945,-112.90316666667,2.94,0.96,md,10,102,0.007152,0.05,uu,uu80133821,2026-03-30T18:49:22.800Z,"14 km NE of Milford, Utah",earthquake,0.26,0.59,0.48453204739596,5,reviewed,uu,uu
-2026-03-29T23:13:20.533Z,59.54,-153.364,118.3,1.8,ml,31,80,0.1,0.5,ak,aka2026gfmjgk,2026-03-30T21:59:51.066Z,"50 km ESE of Pedro Bay, Alaska",earthquake,5.4,2.9027,0.2,20,reviewed,ak,ak
-2026-03-29T23:10:48.819Z,31.64,-104.268,0,1.7,ml,12,180,0.1,1,tx,tx2026gfmhca,2026-03-30T00:00:42.909Z,"57 km NW of Toyah, Texas",earthquake,0,,0.5,8,automatic,tx,tx
-2026-03-29T23:10:21.856Z,60.558,-141.255,26.7,1,ml,7,165,0.3,0.1,ak,aka2026gfmgbo,2026-03-30T00:36:35.209Z,"132 km SE of McCarthy, Alaska",earthquake,9,7.0877,0.2,7,reviewed,ak,ak
-2026-03-29T23:07:34.246Z,60.576,-141.185,5.2,2.1,ml,29,61,0.3,1,ak,aka2026gfmehi,2026-03-30T22:44:06.200Z,"133 km SE of McCarthy, Alaska",earthquake,2.7,2.0056,0.1,21,reviewed,ak,ak
-2026-03-29T22:59:02.500Z,37.374000549316,-122.23483276367,7.9699997901917,0.76,md,4,185,0.02966,0,nc,nc75335227,2026-03-29T23:00:40.028Z,"1 km S of Portola Valley, CA",earthquake,1.78,3.26999998,0.17,5,automatic,nc,nc
-2026-03-29T22:58:44.180Z,19.122333526611,-155.37466430664,28.540000915527,1.77,md,20,236,0.08898,0.119999997,hv,hv74927447,2026-03-29T23:02:21.880Z,"14 km SE of Pāhala, Hawaii",earthquake,0.74,0.670000017,0.11952592572137,15,automatic,hv,hv
-2026-03-29T22:58:43.326Z,-29.3772,-71.9446,34.656,4.3,mwr,27,196,0.818,0.76,us,us7000s8m4,2026-03-30T02:08:16.040Z,"86 km NW of Coquimbo, Chile",earthquake,5.42,6.436,0.046,46,reviewed,us,us
