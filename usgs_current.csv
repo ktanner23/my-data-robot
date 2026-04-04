@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-04-04T17:12:00.248Z,32.047,-102.055,4.2724,1,ml,25,48,0,0.5,tx,tx2026gqaswz,2026-04-04T17:15:44.978Z,"5 km NNE of Midland, Texas",earthquake,0,1.0418745279312,0.3,16,automatic,tx,tx
+2026-04-04T17:23:35.320Z,32.7605,-115.539,11.91,2.09,ml,11,209,0.08962,0.28,ci,ci41432656,2026-04-04T17:27:00.219Z,"3 km NNW of Heber, CA",earthquake,1.3,0.62,0.28810139704031,28,automatic,ci,ci
+2026-04-04T17:21:09.265Z,56.332,-156.529,19.7,2.8,ml,51,196,1,0.8,ak,aka2026gqbbao,2026-04-04T17:23:58.757Z,"116 km E of Chignik, Alaska",earthquake,4.8,4.3874,0.3,8,automatic,ak,ak
+2026-04-04T17:14:57.460Z,23.9901,121.6455,22.066,5.5,mww,171,29,0.189,0.84,us,us6000smlu,2026-04-04T17:34:07.599Z,"4 km ENE of Hualien City, Taiwan",earthquake,3.06,4.32,0.103,9,reviewed,us,us
+2026-04-04T17:12:00.248Z,32.047,-102.055,4.2725,1,ml,25,48,0,0.5,tx,tx2026gqaswz,2026-04-04T17:22:25.190Z,"5 km NNE of Midland, Texas",earthquake,0,1.0418674945831,0.3,16,automatic,tx,tx
 2026-04-04T17:09:09.340Z,38.785999298096,-122.79516601562,16,0.85,md,6,168,0.0066,0.07,nc,nc75338922,2026-04-04T17:10:44.367Z,"3 km WNW of The Geysers, CA",earthquake,3.16,9.39000034,0.03,6,automatic,nc,nc
 2026-04-04T17:01:58.310Z,38.828998565674,-122.81133270264,0.91000002622604,1.09,md,10,72,0.005681,0.02,nc,nc75338917,2026-04-04T17:03:34.294Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.889999986,0.24,14,automatic,nc,nc
 2026-04-04T17:00:18.090Z,33.5105,-116.50333333333,13.93,0.56,ml,16,70,0.0841,0.13,ci,ci41432640,2026-04-04T17:03:49.817Z,"17 km ESE of Anza, CA",earthquake,0.36,0.56,0.19386555089292,13,automatic,ci,ci
@@ -21,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-04T15:47:18.290Z,38.78150177002,-122.76566314697,12.479999542236,0.76,md,8,168,0.01077,0.07,nc,nc75338882,2026-04-04T15:48:54.593Z,"1 km WNW of The Geysers, CA",earthquake,2,8.39999962,0.28,10,automatic,nc,nc
 2026-04-04T15:40:29.046Z,31.737,-103.752,9.7314,1.6,ml,10,219,0.2,0.7,tx,tx2026gpxshu,2026-04-04T15:44:03.403Z,"14 km WNW of Mentone, Texas",earthquake,0,9.2747220993042,0.2,7,automatic,tx,tx
 2026-04-04T15:39:50.294Z,31.698,-104.186,4.0093,2.3,ml,40,59,0.1,0.5,tx,tx2026gpxrtb,2026-04-04T16:01:23.210Z,"55 km W of Mentone, Texas",earthquake,0,0.84479647874832,0.2,31,automatic,tx,tx
-2026-04-04T15:31:03.905Z,31.7,-104.154,4.3119,1.8,ml,40,59,0.1,0.3,tx,tx2026gpxkcv,2026-04-04T15:37:08.010Z,"52 km W of Mentone, Texas",earthquake,0,0.88427251577377,0.2,25,automatic,tx,tx
+2026-04-04T15:31:03.840Z,31.705,-104.141,7.5739,1.9,ml,39,54,0.1,0.2,tx,tx2026gpxkcv,2026-04-04T17:31:47.288Z,"51 km W of Mentone, Texas",earthquake,0.43715231214549,0.5802017044137,0.2,25,reviewed,tx,tx
 2026-04-04T15:29:40.216Z,31.651,-104.346,4.5545,1.5,ml,15,88,0.1,0.4,tx,tx2026gpxizm,2026-04-04T15:34:06.667Z,"58 km S of Whites City, New Mexico",earthquake,0,1.4444856643677,0.3,12,automatic,tx,tx
 2026-04-04T15:20:35.626Z,31.7,-104.142,3.7573,1.7,ml,37,57,0.1,0.4,tx,tx2026gpxbdw,2026-04-04T15:23:41.768Z,"51 km W of Mentone, Texas",earthquake,0,0.90261101722717,0.3,24,automatic,tx,tx
 2026-04-04T15:20:35.454Z,31.698,-104.139,4.3444,1.7,ml,28,81,0.1,0.4,tx,tx2026gpxaxk,2026-04-04T17:08:49.109Z,"51 km W of Mentone, Texas",earthquake,0,1.0094925165176,0.3,21,automatic,tx,tx
@@ -299,7 +302,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-04-03T17:45:36.782Z,59.96,-152.385,75.4,1.9,ml,41,75,0.3,0.7,ak,aka2026gogddv,2026-04-03T22:10:11.728Z,"36 km W of Happy Valley, Alaska",earthquake,2.9,2.5151,0.2,30,reviewed,ak,ak
 2026-04-03T17:39:40.744Z,38.1861,-118.1993,8.8805,2.04,ml,14,70,0.249,0.1443,nn,nn00913707,2026-04-03T18:22:56.087Z,"24 km SSW of Mina, Nevada",earthquake,,2.3234,0.27,8,reviewed,nn,nn
 2026-04-03T17:38:11.710Z,60.041166666667,-153.067,-0.3,-1.05,ml,5,130,0.01633,0.14,av,av94126728,2026-04-04T01:20:35.830Z,"64 km ENE of Pedro Bay, Alaska",earthquake,0.46,1.67,0.36638597769483,5,reviewed,av,av
-2026-04-03T17:30:01.309Z,32.244,-101.853,3.3187,1.3,ml,7,81,0,0.5,tx,tx2026gofptu,2026-04-03T17:31:43.356Z,"14 km NNW of Stanton, Texas",earthquake,0,1.9467332363129,0.2,6,automatic,tx,tx
-2026-04-03T17:29:32.680Z,38.804500579834,-122.81733703613,3.1099998950958,0.49,md,9,118,0.01023,0.03,nc,nc75338272,2026-04-03T17:31:09.437Z,"6 km WNW of The Geysers, CA",earthquake,0.58,1.13999999,0.29,10,automatic,nc,nc
-2026-04-03T17:24:00.318Z,60.055,-141.734,14.6,1.5,ml,19,177,0.2,0.8,ak,aka2026gofkrb,2026-04-03T22:09:01.138Z,"126 km WNW of Yakutat, Alaska",earthquake,5,1.9737,0.1,12,reviewed,ak,ak
-2026-04-03T17:22:38.177Z,53.3574,-165.0502,35,2.8,ml,46,211,0.847,0.68,us,us6000smfx,2026-04-04T14:17:48.040Z,"98 km SSE of Akutan, Alaska",earthquake,3.07,2.504,0.077,22,reviewed,us,us
