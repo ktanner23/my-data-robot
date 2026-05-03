@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-05-03T18:40:45.709Z,39.2713,-119.1062,7.4707,1.9,ml,24,82,0.054,0.1659,nn,nn00917492,2026-05-03T18:43:00.011Z,"18 km SSE of Silver Springs, Nevada",earthquake,,0.5347,0.29,12,automatic,nn,nn
+2026-05-03T18:38:24.608Z,31.131,-103.26,5.2489,1.6,ml,20,53,0,1.1,tx,tx2026irjqcn,2026-05-03T18:42:54.884Z,"22 km WSW of Coyanosa, Texas",earthquake,0,2.0133757591248,0.2,15,automatic,tx,tx
+2026-05-03T18:32:21.162Z,39.3106,-119.0589,9.2826,2.55,ml,29,58,0.061,0.2447,nn,nn00917489,2026-05-03T18:44:44.040Z,"18 km SE of Silver Springs, Nevada",earthquake,,0.495,0.26,13,automatic,nn,nn
+2026-05-03T18:29:28.326Z,28.837,-99.054,7.4689,1.9,ml,13,85,0.3,0.5,tx,tx2026irjjlc,2026-05-03T18:32:46.784Z,"7 km SSE of Pearsall, Texas",earthquake,0,3.6088061332703,0.2,11,automatic,tx,tx
 2026-05-03T18:12:40.410Z,38.834999084473,-122.79866790772,2.0999999046326,0.44,md,13,66,0.007339,0.02,nc,nc75356292,2026-05-03T18:14:18.288Z,"7 km WNW of Cobb, CA",earthquake,0.34,0.600000024,0.31,15,automatic,nc,nc
 2026-05-03T17:52:06.715Z,38.1909,-117.8208,1.5853,2.52,ml,20,92,0.485,0.3284,nn,nn00917483,2026-05-03T17:54:31.089Z,"33 km SE of Mina, Nevada",earthquake,,1.5967,0.26,9,automatic,nn,nn
 2026-05-03T17:46:22.221Z,62.207,-149.601,51.4,1.7,ml,36,42,0.4,0.8,ak,aka2026issfyf,2026-05-03T17:49:12.419Z,"13 km ENE of Susitna North, Alaska",earthquake,2.7,3.9353,0.1,18,automatic,ak,ak
@@ -7,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-03T17:32:39.617Z,39.3182,-119.0584,9.5757,1.58,ml,22,60,0.068,0.1759,nn,nn00917477,2026-05-03T17:34:57.030Z,"17 km SE of Silver Springs, Nevada",earthquake,,0.6286,0.33,8,automatic,nn,nn
 2026-05-03T17:31:22.390Z,39.2651,-119.1251,9.7417,1.78,ml,19,80,0.294,0.1662,nn,nn00917476,2026-05-03T17:33:37.842Z,"18 km SSE of Silver Springs, Nevada",earthquake,,1.5449,0.2,10,automatic,nn,nn
 2026-05-03T17:29:50.085Z,39.2678,-119.1108,7.6495,1.61,ml,19,58,0.057,0.1639,nn,nn00917474,2026-05-03T17:31:48.569Z,"19 km SSE of Silver Springs, Nevada",earthquake,,0.7675,0.33,10,automatic,nn,nn
-2026-05-03T17:29:19.530Z,34.920833587646,-119.02349853516,8.1099996566772,3.2989406418429,ml,112,34,0.06934,0.300000012,ci,ci41240575,2026-05-03T18:21:23.349Z,"9 km WSW of Grapevine, CA",earthquake,0.24,0.75,0.30654108524322,21,automatic,ci,ci
+2026-05-03T17:29:19.530Z,34.920833587646,-119.02349853516,8.1099996566772,3.2989406418429,ml,112,34,0.06934,0.300000012,ci,ci41240575,2026-05-03T18:26:38.448Z,"9 km WSW of Grapevine, CA",earthquake,0.24,0.75,0.30654108524322,21,automatic,ci,ci
 2026-05-03T17:19:57.101Z,28.915,-99.077,3.1618,2,ml,7,199,0.3,0.5,tx,tx2026irhbnq,2026-05-03T17:22:36.380Z,"1 km E of North Pearsall, Texas",earthquake,0,2.88986992836,0.1,5,automatic,tx,tx
 2026-05-03T17:13:11.720Z,34.908666666667,-119.61183333333,9.04,1.15,ml,21,51,0.0613,0.19,ci,ci41240559,2026-05-03T17:16:38.847Z,"25 km SW of Maricopa, CA",earthquake,0.3,0.74,0.21777635861583,20,automatic,ci,ci
 2026-05-03T17:02:04.360Z,35.623500823975,-120.3245010376,0.58999997377396,2.57,md,5,162,0.1497,0.17,nc,nc75356257,2026-05-03T17:22:23.345Z,"6 km SE of Shandon, CA",earthquake,1.54,13.79,0.22,3,automatic,nc,nc
@@ -255,9 +259,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-02T20:33:03.465Z,52.3968,-169.724,15.75,3.1,ml,19,213,0.39,0.58,us,us7000shvn,2026-05-03T17:02:41.040Z,"83 km SW of Nikolski, Alaska",earthquake,3.53,8.564,0.105,12,reviewed,us,us
 2026-05-02T20:32:20.080Z,36.648498535156,-121.30400085449,5.6100001335144,2.81,md,73,27,0.03853,0.24,nc,nc75355712,2026-05-03T17:06:35.040Z,"16 km S of Tres Pinos, CA",earthquake,0.24,0.819999993,0.12,92,automatic,nc,nc
 2026-05-02T20:29:54.406Z,-14.9512,-175.5656,10,4.7,mb,28,100,2.555,0.42,us,us7000shup,2026-05-03T17:20:30.040Z,"196 km SSE of Mata-Utu, Wallis and Futuna",earthquake,9.57,1.882,0.104,28,reviewed,us,us
+2026-05-02T20:23:28.240Z,52.507333333333,-169.73916666667,8.73,2.27,ml,7,288,0.2799,0.14,av,av93059164,2026-05-03T18:41:29.280Z,"76 km SW of Nikolski, Alaska",earthquake,1.65,2.06,0.12399194585649,7,reviewed,av,av
 2026-05-02T20:21:40.573Z,28.848,-99.059,7.2526,1.9,ml,16,96,0.1,0.5,tx,tx2026iprjgj,2026-05-02T22:26:08.611Z,"6 km SE of Pearsall, Texas",earthquake,0,2.6074194908142,0.1,11,automatic,tx,tx
 2026-05-02T20:21:30.085Z,52.3957,-169.7772,10,3.7,mb,40,177,0.393,0.82,us,us7000shvk,2026-05-03T18:21:27.090Z,"86 km SW of Nikolski, Alaska",earthquake,2.8,1.583,0.135,14,reviewed,us,us
 2026-05-02T20:16:37.090Z,38.792999267578,-122.77883148193,2.6600000858307,2.11,md,41,50,0.007103,0.04,nc,nc75355707,2026-05-02T20:37:20.253Z,"3 km NW of The Geysers, CA",earthquake,0.17,0.280000001,0.14,48,automatic,nc,nc
+2026-05-02T20:11:20.380Z,52.899666666667,-169.65483333333,-1.65,1.95,ml,7,156,0.1205,0.22,av,av93059159,2026-05-03T18:30:28.590Z,"53 km W of Nikolski, Alaska",earthquake,0.89,0.43,0.26922370895167,7,reviewed,av,av
 2026-05-02T19:54:52.746Z,59.628,-153.036,103.1,1.5,ml,26,78,0.3,0.3,ak,aka2026iramur,2026-05-02T19:56:59.050Z,"62 km ESE of Pedro Bay, Alaska",earthquake,5.9,3.3085,0.3,9,automatic,ak,ak
 2026-05-02T19:52:31.445Z,55.226,-159.419,0.3,2.3,ml,17,239,0.8,0.8,ak,aka2026iralhq,2026-05-02T23:42:33.980Z,"69 km E of Sand Point, Alaska",earthquake,8.8,3.0871,0.1,13,reviewed,ak,ak
 2026-05-02T19:50:46.409Z,-63.0576,146.0836,10,4.6,mb,21,161,14.404,0.65,us,us7000shyf,2026-05-03T13:59:21.040Z,"south of Australia",earthquake,6.16,1.962,0.125,19,reviewed,us,us
