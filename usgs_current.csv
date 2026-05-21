@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-05-21T22:57:51.268Z,60.56,-151.52,71.9,2.1,ml,60,50,0.3,0.7,ak,aka2026kaizzy,2026-05-21T22:59:51.942Z,"12 km WSW of Salamatof, Alaska",earthquake,3.1,3.2127,0.3,5,automatic,ak,ak
+2026-05-21T22:57:51.268Z,60.56,-151.52,71.9,2.1,ml,60,50,0.3,0.7,ak,aka2026kaizzy,2026-05-21T23:43:49.915Z,"12 km WSW of Salamatof, Alaska",earthquake,3.1,3.2127,0.3,5,automatic,ak,ak
 2026-05-21T22:52:37.092Z,64.627,-148.04,25.5,0.5,ml,5,93,0.1,0.1,ak,aka2026kaivsj,2026-05-21T22:55:16.044Z,"23 km SSW of South Van Horn, Alaska",earthquake,13.1,11.6051,0.2,4,automatic,ak,ak
 2026-05-21T22:45:00.437Z,28.841,-99.027,6.6593,2.1,ml,10,130,0.3,0.4,tx,tx2026jysxlw,2026-05-21T23:01:19.095Z,"8 km SE of Pearsall, Texas",earthquake,0,7.3020367622375,0.2,8,automatic,tx,tx
 2026-05-21T22:36:34.619Z,28.887,-99.075,4.1593,2.2,ml,8,222,0.3,0.5,tx,tx2026jysqfs,2026-05-21T22:39:38.422Z,"2 km ESE of Pearsall, Texas",earthquake,0,2.9503045082092,0.1,6,automatic,tx,tx
@@ -128,6 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-21T06:37:17.700Z,46.211666666667,-122.166,-1.58,0.15,mh,6,239,0.01775,0.12,uw,uw62249212,2026-05-21T20:32:15.780Z,"39 km SSE of Morton, Washington",earthquake,0.61,11.85,,0,reviewed,uw,uw
 2026-05-21T06:36:49.950Z,19.132,-155.35566666667,29.63,2.03,ml,35,199,0.1121,0.11,hv,hv74965077,2026-05-21T23:26:19.330Z,"15 km ESE of Pāhala, Hawaii",earthquake,0.46,0.77,0.045845530384162,5,reviewed,hv,hv
 2026-05-21T06:21:46.680Z,35.360332489014,-117.78549957275,3.5,1.3470467909193,ml,17,96,0.105,0.230000004,ci,ci41471432,2026-05-21T06:23:51.014Z,"14 km W of Johannesburg, CA",earthquake,0.51,1.33000004,0.0560567304492,2,automatic,ci,ci
+2026-05-21T06:16:16.670Z,37.623,-118.91433333333,6.9,0.09,md,16,70,0.0109,0.04,nc,nc75366427,2026-05-21T23:52:21.585Z,"6 km ESE of Mammoth Lakes, CA",earthquake,0.48,0.73,0.198,11,reviewed,nc,nc
 2026-05-21T06:07:48.262Z,51.163,173.7627,10,4.4,mb,44,174,1.583,0.56,us,us6000sz5x,2026-05-21T22:23:54.138Z,"191 km SSE of Attu Station, Alaska",earthquake,5.63,1.953,0.052,108,reviewed,us,us
 2026-05-21T06:07:38.900Z,60.54,-139.976,1.6,2.1,ml,16,101,0.6,0.6,ak,aka2026jzbiiq,2026-05-21T22:32:51.768Z,"111 km N of Yakutat, Alaska",earthquake,5.2,3.643,0.2,8,reviewed,ak,ak
 2026-05-21T06:02:13.837Z,32.35,-102.079,6.8604,0.4,ml,24,49,0,0.2,tx,tx2026jxlrdh,2026-05-21T12:05:41.969Z,"36 km NW of Stanton, Texas",earthquake,0.54007503935289,0.77168394609178,0.2,8,reviewed,tx,tx
@@ -199,9 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-05-21T00:11:18.200Z,38.842834472656,-122.84100341797,1.9099999666214,0.97,md,17,92,0.006044,0.02,nc,nc75366357,2026-05-21T00:37:19.512Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.389999986,0.19,19,automatic,nc,nc
 2026-05-21T00:10:35.410Z,38.80016708374,-122.78099822998,3.3399999141693,1.75,md,36,60,0.008828,0.03,nc,nc75366352,2026-05-21T02:57:20.439Z,"3 km NW of The Geysers, CA",earthquake,0.23,0.379999995,0.16,36,automatic,nc,nc
 2026-05-21T00:00:32.978Z,31.531,-104.004,7.6892,2.6,ml,48,56,0,0.2,tx,tx2026jwzrrw,2026-05-21T07:34:51.665Z,"31 km NW of Toyah, Texas",earthquake,0.65420971253184,0.6123183046207,0.1,25,reviewed,tx,tx
-2026-05-20T23:51:26.090Z,33.428,-116.65983333333,5.33,0.58,ml,24,38,0.08214,0.17,ci,ci41471280,2026-05-20T23:54:58.104Z,"14 km S of Anza, CA",earthquake,0.18,1.04,0.10760651059035,12,automatic,ci,ci
-2026-05-20T23:47:26.090Z,38.788166046143,-122.74749755859,2.6900000572205,1.12,md,18,84,0.009752,0.04,nc,nc75366342,2026-05-21T02:32:21.282Z,"1 km NNE of The Geysers, CA",earthquake,0.28,0.699999988,0.18,23,automatic,nc,nc
-2026-05-20T23:45:40.550Z,19.045,-155.40083333333,34.47,2.64,ml,26,221,0.1242,0.1,hv,hv74964787,2026-05-21T03:05:06.400Z,"19 km E of Naalehu, Hawaii",earthquake,1.14,1.03,0.19625502474764,18,reviewed,hv,hv
-2026-05-20T23:38:30.630Z,43.7725,-121.1665,-0.09,1.15,ml,9,154,0.02512,0.12,uw,uw62249117,2026-05-21T16:26:59.210Z,"24 km ESE of Three Rivers, Oregon",earthquake,0.53,0.38,0.1203181658053,8,reviewed,uw,uw
-2026-05-20T23:38:00.896Z,60.686,-147.928,18.9,1.9,ml,26,80,0.3,0.6,ak,aka2026jyoimm,2026-05-21T20:21:47.891Z,"42 km ESE of Whittier, Alaska",earthquake,3,1.8224,0.2,11,reviewed,ak,ak
-2026-05-20T23:31:33.530Z,60.056,-153.06116666667,3.42,-0.56,ml,4,195,0.001823,0.19,av,av94201443,2026-05-21T05:25:05.240Z,"65 km ENE of Pedro Bay, Alaska",earthquake,1.38,1.16,0.27924929012804,4,reviewed,av,av
