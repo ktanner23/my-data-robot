@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-06-16T23:57:43.538Z,65.177,-163.075,5,3.9,ml,63,71,0.8,1.1,ak,aka2026lwlpcr,2026-06-17T00:02:46.364Z,"57 km NNE of White Mountain, Alaska",earthquake,4.3,,0.1,42,automatic,ak,ak
+2026-06-16T23:32:14.790Z,34.905,-117.73816666667,-1.05,1.43,ml,9,314,0.2274,0.13,ci,ci41488632,2026-06-16T23:35:42.491Z,"13 km SW of Boron, CA",earthquake,7.54,2.64,0.15729613431226,21,automatic,ci,ci
 2026-06-16T23:29:25.336Z,64.066,-148.15,101.2,1.6,ml,28,67,0.4,0.8,ak,aka2026lwkqke,2026-06-16T23:31:01.991Z,"46 km ENE of Healy, Alaska",earthquake,4.6,3.591,0.5,4,automatic,ak,ak
 2026-06-16T23:22:03.850Z,34.006833333333,-116.716,16.94,1,ml,29,47,0.06476,0.16,ci,ci41488624,2026-06-16T23:25:37.517Z,"12 km NNE of Cabazon, CA",earthquake,0.21,0.57,0.26528496976515,28,automatic,ci,ci
 2026-06-16T23:15:12.703Z,31.624,-104.509,3.0064,2.5,ml,44,75,0,0.5,tx,tx2026lumsnq,2026-06-16T23:22:06.493Z,"62 km SSW of Whites City, New Mexico",earthquake,0,1.0815898180008,0.1,29,automatic,tx,tx
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T19:44:17.551Z,55.826,-159.748,9.5,1.8,ml,13,215,0.3,0.4,ak,aka2026lwddgc,2026-06-16T19:46:27.870Z,"18 km WSW of Ivanof Bay, Alaska",earthquake,27,4.681,0.3,10,automatic,ak,ak
 2026-06-16T19:33:36.410Z,39.310833333333,-111.2255,-1.17,0.97,ml,6,113,0.01964,0.06,uu,uu80142646,2026-06-16T20:46:37.870Z,"17 km WNW of Orangeville, Utah",earthquake,1.03,0.76,0.017320673895524,3,reviewed,uu,uu
 2026-06-16T19:33:01.233Z,58.158,-155.343,5,0.4,ml,8,71,0.1,0.4,ak,aka2026lwctkx,2026-06-16T19:34:23.662Z,"84 km NW of Karluk, Alaska",earthquake,6.3,,0.2,6,automatic,ak,ak
-2026-06-16T19:29:39.871Z,62.033,-151.963,106.6,2.4,ml,42,136,0.2,0.5,ak,aka2026lwcqke,2026-06-16T21:14:54.040Z,"29 km W of Skwentna, Alaska",earthquake,5.3,2.9206,0.2,4,automatic,ak,ak
+2026-06-16T19:29:39.871Z,62.033,-151.963,106.6,2.4,ml,42,136,0.2,0.5,ak,aka2026lwcqke,2026-06-16T23:45:51.982Z,"29 km W of Skwentna, Alaska",earthquake,5.3,2.9206,0.2,4,automatic,ak,ak
 2026-06-16T19:23:51.856Z,32.093,-102.178,6.7871,1,ml,24,87,0,0.1,tx,tx2026lufdad,2026-06-16T20:03:20.651Z,"14 km NW of Midland, Texas",earthquake,1.3135813403977,0.85087379593509,0.2,14,reviewed,tx,tx
 2026-06-16T19:23:19.344Z,62.702,-151.151,90.3,2.2,ml,83,29,0.2,0.9,ak,aka2026lwckya,2026-06-16T20:17:17.040Z,"30 km NW of Petersville, Alaska",earthquake,2.5,2.6137,0,4,automatic,ak,ak
 2026-06-16T19:17:47.852Z,63.136,-150.723,118.7,2.8,ml,73,26,0.6,0.7,ak,aka2026lwcgfr,2026-06-16T20:11:41.040Z,"67 km SE of Denali National Park, Alaska",earthquake,3,2.9727,0.1,4,automatic,ak,ak
@@ -91,18 +93,21 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T14:58:10.121Z,58.328,-154.871,3.5,0.9,ml,11,150,0.1,0.3,ak,aka2026lvtpcu,2026-06-16T14:59:11.894Z,"88 km NNW of Karluk, Alaska",earthquake,6.7,17.7846,0.3,4,automatic,ak,ak
 2026-06-16T14:58:00.060Z,34.011,-117.219,16.14,0.74,ml,13,221,0.09183,0.14,ci,ci41487960,2026-06-16T15:01:23.914Z,"6 km SE of Loma Linda, CA",earthquake,0.49,2.09,0.13051560983912,13,automatic,ci,ci
 2026-06-16T14:56:03.792Z,0.5185,-80.3156,16.697,4,mb,15,150,1.857,1.01,us,us7000stei,2026-06-16T18:25:38.040Z,"34 km WSW of Muisne, Ecuador",earthquake,5.78,7.084,0.231,6,reviewed,us,us
-2026-06-16T14:54:43.500Z,20.055,-155.30266666667,8.9,2.83,ml,46,263,0.09704,0.23,hv,hv74983587,2026-06-16T18:52:59.543Z,"7 km ENE of Pa‘auilo, Hawaii",earthquake,0.77,0.43,0.19847242802567,36,reviewed,hv,hv
+2026-06-16T14:54:43.500Z,20.055,-155.30266666667,8.9,2.83,ml,46,263,0.09704,0.23,hv,hv74983587,2026-06-16T23:50:31.431Z,"7 km ENE of Pa‘auilo, Hawaii",earthquake,0.77,0.43,0.19847242802567,36,reviewed,hv,hv
 2026-06-16T14:49:57.220Z,43.146333333333,-123.001,-0.86,0.97,md,11,147,0.1711,0.31,uw,uw714022251,2026-06-16T21:48:22.910Z,"19 km SSE of Glide, Oregon",explosion,0.83,31.61,0.13491313364706,6,reviewed,uw,uw
 2026-06-16T14:48:47.840Z,19.165333333333,-155.497,32.74,2.3,ml,44,156,0.08263,0.16,hv,hv74983582,2026-06-16T19:39:20.250Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.5,0.64,0.11948750533522,32,reviewed,hv,hv
 2026-06-16T14:44:50.019Z,60.547,-139.927,5,1.7,ml,16,99,0.6,0.7,ak,aka2026lvtcrp,2026-06-16T14:46:19.965Z,"111 km N of Yakutat, Alaska",earthquake,6.3,,0,1,automatic,ak,ak
-2026-06-16T14:34:48.989Z,58.301,-154.852,5,0.8,ml,11,162,0.1,0.2,ak,aka2026lvsuwh,2026-06-16T14:35:53.860Z,"84 km NNW of Karluk, Alaska",earthquake,6.6,,0.2,5,automatic,ak,ak
+2026-06-16T14:34:48.989Z,58.301,-154.852,5,0.8,ml,11,162,0.1,0.2,ak,aka2026lvsuwh,2026-06-17T00:01:56.330Z,"84 km NNW of Karluk, Alaska",earthquake,6.6,,0.2,5,automatic,ak,ak
 2026-06-16T14:33:08.719Z,-41.062,174.445,73.245,4.5,mb,30,56,0.315,0.74,us,us7000stea,2026-06-16T18:01:31.040Z,"32 km W of Titahi Bay, New Zealand",earthquake,4.17,6.491,0.192,10,reviewed,us,us
 2026-06-16T14:32:43.539Z,28.815,-99.046,5.5091,1.8,ml,20,80,0.1,0.4,tx,tx2026ltvmep,2026-06-16T14:58:26.715Z,"9 km SSE of Pearsall, Texas",earthquake,2.3449689689837,1.639741061018,0.1,11,reviewed,tx,tx
-2026-06-16T14:27:01.302Z,58.311,-154.852,5,0.6,ml,9,159,0.1,0.4,ak,aka2026lvsocp,2026-06-16T14:28:03.308Z,"85 km NNW of Karluk, Alaska",earthquake,7.5,,0.3,4,automatic,ak,ak
+2026-06-16T14:27:01.302Z,58.311,-154.852,5,0.6,ml,9,159,0.1,0.4,ak,aka2026lvsocp,2026-06-16T23:58:25.090Z,"85 km NNW of Karluk, Alaska",earthquake,7.5,,0.3,4,automatic,ak,ak
 2026-06-16T14:26:12.910Z,19.340665817261,-155.13450622559,3.1800000667572,1.91,md,42,100,0.05067,0.280000001,hv,hv74983572,2026-06-16T14:29:35.830Z,"13 km S of Fern Forest, Hawaii",earthquake,0.5,1.32000005,0.15679172918004,11,automatic,hv,hv
-2026-06-16T14:15:09.355Z,58.306,-154.846,3.1,2.3,ml,46,58,0.1,0.7,ak,aka2026lvsdve,2026-06-16T17:13:18.040Z,"85 km NNW of Karluk, Alaska",earthquake,2.6,2.1684,0.2,17,automatic,ak,ak
-2026-06-16T14:12:32.673Z,55.955,-159.746,12.6,1.8,ml,12,172,0.2,0.5,ak,aka2026lvsbpa,2026-06-16T14:14:47.525Z,"17 km WNW of Ivanof Bay, Alaska",earthquake,14.3,3.9934,0.4,10,automatic,ak,ak
+2026-06-16T14:22:56.280Z,58.308166666667,-154.88766666667,5,-0.13,ml,13,152,0.0878,0.27,av,av94247923,2026-06-16T23:54:55.720Z,"86 km NNW of Karluk, Alaska",earthquake,0.63,1.74,0.3118148897551,13,reviewed,av,av
+2026-06-16T14:17:04.890Z,58.300666666667,-154.87266666667,4.11,-0.22,ml,8,174,0.09075,0.17,av,av93062054,2026-06-16T23:51:53.550Z,"85 km NNW of Karluk, Alaska",earthquake,0.56,1.38,0.23007884673502,8,reviewed,av,av
+2026-06-16T14:15:09.355Z,58.306,-154.846,3.1,2.3,ml,46,58,0.1,0.7,ak,aka2026lvsdve,2026-06-16T23:44:53.050Z,"85 km NNW of Karluk, Alaska",earthquake,2.6,2.1684,0.2,17,automatic,ak,ak
+2026-06-16T14:12:32.673Z,55.955,-159.746,12.6,1.8,ml,12,172,0.2,0.5,ak,aka2026lvsbpa,2026-06-16T23:37:52.630Z,"17 km WNW of Ivanof Bay, Alaska",earthquake,14.3,3.9934,0.4,10,automatic,ak,ak
 2026-06-16T13:57:59.261Z,56.029,-159.777,5,3.8,ml,105,141,0.3,1.4,ak,aka2026lvroxz,2026-06-16T18:46:30.561Z,"23 km NW of Ivanof Bay, Alaska",earthquake,5.1,0,0.1,70,reviewed,ak,ak
+2026-06-16T13:52:34.320Z,58.2445,-155.147,2.72,-0.44,ml,5,211,0.06807,0.12,av,av94247883,2026-06-16T23:33:22.280Z,"85 km NNW of Karluk, Alaska",earthquake,0.48,0.45,0.14157728643916,5,reviewed,av,av
 2026-06-16T13:42:06.480Z,38.794998168945,-122.81083679199,3.0299999713898,1.08,md,21,54,0.009013,0.03,nc,nc75377746,2026-06-16T13:43:40.556Z,"5 km WNW of The Geysers, CA",earthquake,0.27,0.460000008,0.28,22,automatic,nc,nc
 2026-06-16T13:27:36.651Z,37.9084,95.2912,12.517,4.9,mb,191,36,7.007,0.58,us,us7000ste2,2026-06-16T14:45:11.040Z,"256 km SSE of Dunhuang, China",earthquake,8.75,4.167,0.04,204,reviewed,us,us
 2026-06-16T13:18:35.800Z,33.3835,-116.37983333333,11.29,1.57,ml,67,18,0.05761,0.2,ci,ci41487912,2026-06-16T15:32:05.700Z,"14 km N of Borrego Springs, CA",earthquake,0.15,0.33,0.15261714938966,56,reviewed,ci,ci
@@ -157,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T08:51:01.650Z,38.833831787109,-122.797996521,1.9099999666214,1.27,md,22,56,0.007524,0.02,nc,nc75377596,2026-06-16T09:42:24.273Z,"7 km WNW of Cobb, CA",earthquake,0.2,0.370000005,0.17,22,automatic,nc,nc
 2026-06-16T08:50:27.073Z,32.682,-100.64,8.1787,1,ml,13,77,0.1,0.2,tx,tx2026ltkdel,2026-06-16T09:25:35.282Z,"12 km ENE of Hermleigh, Texas",earthquake,1.0963900758459,1.4722694554713,0.1,6,reviewed,tx,tx
 2026-06-16T08:45:38.210Z,33.425833333333,-116.37883333333,12.83,1.05,ml,51,37,0.0858,0.2,ci,ci41487824,2026-06-16T13:52:16.060Z,"19 km N of Borrego Springs, CA",earthquake,0.19,0.46,0.14400640318516,27,reviewed,ci,ci
-2026-06-16T08:42:03.400Z,19.375667572021,-155.20816040039,5.789999961853,2.11,ml,9,292,0.0307,0.100000001,hv,hv74983377,2026-06-16T08:45:39.120Z,"7 km SSE of Volcano, Hawaii",earthquake,4.02,0.870000005,0.3,5,automatic,hv,hv
+2026-06-16T08:42:04.060Z,19.404833333333,-155.28466666667,0.31,1.23,ml,16,79,0.01277,0.1,hv,hv74983377,2026-06-16T23:57:45.290Z,"6 km SW of Volcano, Hawaii",earthquake,0.16,0.15,0.40701279745435,7,reviewed,hv,hv
 2026-06-16T08:35:18.240Z,44.8235,-110.45483333333,10.32,1.66,ml,25,87,0.1014,0.17,uu,uu80142596,2026-06-16T15:19:29.890Z,"25 km SE of Mammoth, Wyoming",earthquake,0.39,0.66,0.10314816615352,9,reviewed,uu,uu
 2026-06-16T08:27:43.480Z,38.838333129883,-122.78199768066,1.7000000476837,1.1,md,9,136,0.006107,0.02,nc,nc75377591,2026-06-16T08:57:20.993Z,"5 km WNW of Cobb, CA",earthquake,0.38,0.660000026,0.3,14,automatic,nc,nc
 2026-06-16T08:17:45.170Z,37.561500549316,-118.86616516113,6.2300000190735,2.43,md,25,83,0.04096,0.05,nc,nc75377571,2026-06-16T09:17:25.111Z,"13 km SE of Mammoth Lakes, CA",earthquake,0.23,0.589999974,0.18,31,automatic,nc,nc
@@ -175,7 +180,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T07:09:26.884Z,-21.8089,-179.5434,604.532,4.3,mb,31,132,4.633,0.79,us,us7000stbe,2026-06-16T07:36:08.040Z,"Fiji region",earthquake,16.26,10.001,0.052,106,reviewed,us,us
 2026-06-16T07:09:07.047Z,55.416,-158.834,47.3,3.6,ml,73,190,0.7,0.7,ak,aka2026lvdyjp,2026-06-16T07:13:41.922Z,"58 km SSE of Perryville, Alaska",earthquake,6.1,9.1578,0.2,18,automatic,ak,ak
 2026-06-16T07:02:53.603Z,64.565,-149.763,17.2,1.8,ml,12,126,0.3,0.8,ak,aka2026lvdswq,2026-06-16T07:04:28.954Z,"31 km W of Four Mile Road, Alaska",earthquake,5.5,3.4275,0.8,4,automatic,ak,ak
-2026-06-16T07:01:06.210Z,19.254833221436,-155.54400634766,-1.4900000095367,2.11,ml,46,107,0.04302,0.25,hv,hv74983327,2026-06-16T07:04:40.270Z,"8 km NW of Pāhala, Hawaii",earthquake,0.38,0.180000007,0.25,6,automatic,hv,hv
+2026-06-16T07:01:06.290Z,19.266833333333,-155.53783333333,-1.27,2.04,ml,46,102,0.04104,0.18,hv,hv74983327,2026-06-16T23:52:12.630Z,"9 km NW of Pāhala, Hawaii",earthquake,0.38,0.13,0.1944906169091,24,reviewed,hv,hv
 2026-06-16T06:57:37.040Z,38.833999633789,-122.80416870117,2.829999923706,0.76,md,15,75,0.01155,0.01,nc,nc75377541,2026-06-16T06:59:11.630Z,"7 km W of Cobb, CA",earthquake,0.28,0.629999995,0.06,16,automatic,nc,nc
 2026-06-16T06:52:28.840Z,38.798500061035,-122.80416870117,10.699999809265,0.34,md,9,115,0.0102,0.06,nc,nc75377536,2026-06-16T06:54:05.628Z,"5 km WNW of The Geysers, CA",earthquake,1.24,0.49000001,0.1,7,automatic,nc,nc
 2026-06-16T06:52:16.590Z,19.166500091553,-155.51266479492,30.270000457764,1.8,md,28,158,0.08247,0.150000006,hv,hv74983312,2026-06-16T06:55:53.220Z,"5 km SW of Pāhala, Hawaii",earthquake,0.74,0.949999988,0.15480926280401,16,automatic,hv,hv
@@ -266,10 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-06-16T00:10:02.470Z,19.025667190552,-156.28782653809,7.1199998855591,1.9,md,14,318,0.5279,0.129999995,hv,hv74983042,2026-06-16T00:13:31.690Z,"55 km W of Hawaiian Ocean View, Hawaii",earthquake,8.53,11.4099998,0.11333957968871,17,automatic,hv,hv
 2026-06-16T00:07:32.510Z,33.243,-116.04616666667,5.96,1.07,ml,41,59,0.06263,0.22,ci,ci41487672,2026-06-16T00:11:04.617Z,"10 km SW of Salton City, CA",earthquake,0.18,0.79,0.15707867731979,26,automatic,ci,ci
 2026-06-16T00:04:35.624Z,51.29,-176.81,40.8,2.3,ml,12,267,0.5,0.4,ak,aka2026lupugy,2026-06-16T22:51:02.283Z,"66 km S of Adak, Alaska",earthquake,21.3,24.6006,0.2,10,reviewed,ak,ak
-2026-06-16T00:02:15.677Z,56.75,-156.353,76.8,2.2,ml,11,133,0.9,0.3,ak,aka2026lupsgr,2026-06-16T22:49:45.878Z,"105 km SE of Ugashik, Alaska",earthquake,12.1,11.5619,0.2,8,reviewed,ak,ak
-2026-06-16T00:00:25.795Z,-21.4497,-68.4693,137.922,4.3,mb,24,66,0.797,0.6,us,us7000st8e,2026-06-16T00:17:20.040Z,"33 km SW of Ollagüe, Chile",earthquake,6.72,5.734,0.147,13,reviewed,us,us
-2026-06-15T23:58:10.140Z,60.704,-150.519,10.1,2.3,ml,49,52,0.5,0.7,ak,aka2026lupoqv,2026-06-16T00:50:46.297Z,"22 km NE of Sterling, Alaska",earthquake,2.2,1.9905,0.1,10,automatic,ak,ak
-2026-06-15T23:51:46.416Z,58.284,-154.898,5,2.1,ml,19,150,0.1,0.3,ak,aka2026lupjfa,2026-06-16T01:42:44.520Z,"83 km NNW of Karluk, Alaska",earthquake,5.7,,0.3,5,automatic,ak,ak
-2026-06-15T23:50:14.734Z,31.801,-102.021,5.0049,0.7,ml,11,72,0.1,0.2,tx,tx2026lssfra,2026-06-16T16:32:47.149Z,"22 km SSE of Midland, Texas",earthquake,1.9628283113505,2.4795370334397,0.4,7,reviewed,tx,tx
-2026-06-15T23:49:35.943Z,58.287,-154.9,7.4,2.2,ml,24,92,0.1,0.4,ak,aka2026luphil,2026-06-16T01:48:45.990Z,"84 km NNW of Karluk, Alaska",earthquake,5.3,3.739,0.4,4,automatic,ak,ak
-2026-06-15T23:49:29.020Z,19.227167129517,-155.5881652832,0.10000000149012,1.92,ml,35,112,0.03159,0.300000012,hv,hv74983032,2026-06-15T23:52:58.900Z,"11 km WNW of Pāhala, Hawaii",earthquake,0.43,0.560000002,0.22,3,automatic,hv,hv
